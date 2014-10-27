@@ -40,13 +40,12 @@ Lets go through an number of examples where I personally use these in the lab.
 cd examples/unix_commands/
 ```
 
-#### `grep`
+#### grep
 
-##### Counting the number of sequences in a fasta file
-
-* the `-c` option means 'count'
-* this will return he number of times the `'>'` pattern is observed in the fasta file
-* if the file is well-formatted, this will accurately tell you how many sequences there are in the file
+* Counting the number of sequences in a fasta file
+    * the `-c` option means 'count'
+    * this will return he number of times the `'>'` pattern is observed in the fasta file
+    * if the file is well-formatted, this will accurately tell you how many sequences there are in the file
 
 ```
 grep -c '>' fastas/GUAB.fasta
@@ -97,10 +96,100 @@ fastas/TOLDC_Feb22_2011_trimmed.fasta:3072
 
 ```
 grep -c -r --include *INX043*.fasta* '>' *
+fastas/INX043_RawGSCdata_min2000.fasta.NR00314_J24.fasta:1
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NO00111_F15.fasta:1
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NO00111_J19.fasta:1
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NR0031_K08.fasta:1
+fastas/sub_dir2/INX043_RawGSCdata_min2000.fasta.SCR021_C16.fasta:1
+fastas/sub_dir2/INX043_RawGSCdata_min2000.fasta.SCR044_H13.fasta:1
 ```
 
 * and if I just wanted to look into directories that had the pattern `sub_dir*`
 
 ```
 grep -c '>' fastas/sub_dir*/*fasta
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NO00111_F15.fasta:1
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NO00111_J19.fasta:1
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NR0031_K08.fasta:1
+fastas/sub_dir2/INX043_RawGSCdata_min2000.fasta.SCR021_C16.fasta:1
+fastas/sub_dir2/INX043_RawGSCdata_min2000.fasta.SCR044_H13.fasta:1
+fastas/sub_dir2/NapDC_July06_2011_trimmed.fasta:15360
 ```
+
+* there is also an `--exclude` to do the opposite of `--include`
+    * here we look for `'>'` for all files in all subdirectories that do not end in `fasta`
+
+```
+grep -c -r --exclude '*.fasta' '>' *
+command_list.sh:6
+fastas/.DS_Store:0
+```
+
+##### Asside: Unix globs
+
+* Note that there is quite a bit of power to these Unix 'glob' operators:
+    * `*`: means any number of characters
+        * `beginning*end`: selects files with a particular `beginning` and `end` patterns
+        * `beginning*middle*end`: selects files with particular `beginning`, `middle`, and `end` text
+        * `sample*/blast_results/*parsed_blast.txt`: matches all `parsed_blast.txt` files that can be found in sub-directories `blast_results/` below directries starting with `sample*`
+    * `?`: matches exactly one unknown character
+        * `?at`: matches `fat`, `cat`, `hat`, `sat`, etc.
+    * `[]`: specifies a range or set of characters to match
+        * `[BC]at`: matches `Bat` or `Cat` but not `bat` or `cat`
+        * `sample_[0-9][0-9]`: matches `sample_01`, `sample_02`, etc.
+* the linux command `ls` can be used to list the set of files that are hit by a glob pattern
+    * this is very important when writing critical commands like 'move' (`mv`) or 'remove' (`rm`)
+        * everyone eventually burns themselves, its a fact of life while working on with the Unix command line
+* *Note: Unix globs are not as sophisicated as full blown Perl or grep-based regular expressions. They don't have a complete feature set. Some things just can not be done with command line globs*
+
+#### `grep` (con't)
+
+* dropping the `-c`, `grep` will just print the matching line
+    * match all fasta headers that end in `b1`
+
+```
+grep '>*b1' fastas/GUAB.fasta
+>GUAB5590.b1
+>GUAB3843.b1
+>GUAB6002.b1
+>GUAB6573.b1
+```
+
+* the `-n` option will print out the line number where the match was found
+    if more than one file being searched the filename will be printed as well
+
+```
+grep -n '>*b1' fastas/GUAB.fasta
+1:>GUAB5590.b1
+3:>GUAB3843.b1
+7:>GUAB6002.b1
+11:>GUAB6573.b1
+...
+```
+
+* if the fasta file format is well-formatted (contains the sequence only on one line after matching header), then you can use the 'after' `-A` flag to print a number of lines after the match.
+    * *Note: there are also 'before' `-B` and 'context' `-C` flags that print out lines before the match and on both sides, respectively.* 
+    * here we use it to get the sequence along with header patterns that end in `.b1`, because we know that it is the first line below in a well-formatted `.fasta` file
+        * *Note: this won't work for fasta files where the sequence in on multiple lines
+
+```
+grep -A 1  '>*b1' fastas/GUAB.fasta
+>GUAB5590.b1
+ATCGAGTGTGTTCTTTTGCGCGATGGTATTCGACGTACCGTTTGCATTTCATCACAAGTCGGCTGTGCAATGGGGTGTGTATTCTGTGCAAGCGGTCTTGATGGAGTTATCCGAAATTTGACAACCGGTGAGATCATCGAGCAGTTATTACGACTCACTCGTTTACTCCCAACAGAAGAACGACTAAGTCATATTGTTGTCATGGGAATGGGTGAACCACTAGCAAACCTCGATCGTTTATTACCTGCTCTTGCAATCGCACAAAGTCCTGAGGGACTTGGTATATCTCAACGACGAATCACTATTTCAACTGTCGGGTTGCCATCGGCAATTGATCGGCTGTGTCAAGAAAATCCTGGATATCATCTTGCCGTATCACTCCATGCCGCTGACGATCCACTCCGAACAAAACTCGTTCCAGTCAATAAGTCGATCGGAGTTCATGCCATTTTAGCCGCAGCTGACCGATACTGGGAAACATCTGGCCGACGACTTACTTTCGAATATGTCTTACTCGGAAATCTTAATGATTCTCCAGATCATGCCCGTTCGTTAGCTCGGTTTATCGGCAAACGTGCAGCGCTCGTAAACATTATTCCGTACAACACAGTCGATGGCCTACCGTGGGAAGAGCCTACTGACATTTCTCGTGAACGATTTCTTGATGTCCTTTCGAATGCTGGCGTGAATGTTCAGACTCGAAAAAGGAG
+--
+>GUAB3843.b1
+CTGGGTGGCAGCGGTGTAGAGAAAATAGTTGAACTTTCGCTTTTGCCAGATGAAAAAGTGGCATTCAATAAAAGTATCGATGCAGTTCGGGAACTTGTTGGCGCAATGGAGAGCCTGACGCCATAACAGAAGCCCCCCAGTCCTCCCAGCCTCCCTCTGTCGGCTAGTTTCGCGAAAGCTCTTCATTTTCACACGGAAATGCTGCCATTGCCCGGAGTGTGTGACTGCGTTAGAAACCTCCGACGCATTGCCATAAGTCAAATCTCTTGTGGCAATGCGTTAGCAATCACGCTGTGTATTTTTGCAAAAGGTTACGCGGAGGATCTGGAATGGTGCATCAGTCGACAGTATTTGATTATGAATTCAATCATTGTTCACCAAGCAGTAGAGGCTTTTTGTGCAACGAGGTGAATCTCCCTTCGAGTAAACCAGAGCAACTGTTTTTACCACGAGGGTATGAGTCGGGATACGACTACCCACTCCTCGTGTGGCTTCCGCAGTCAGACGATGCTCACTTTGACTTAGGTCGCACCATGATGCGAATGAGTTTAAGGAATTACATTGCAGTAGTACCTGCTGTCACGTCTGATTTGGAGAGTTGTTTTGAAGCTATTGACGGAATAATGAGTCAATATAGCGTTCACTCTCGCAGATTTTATCTTATTGGTGTTGAGGAAGGTGGAGAGAATGCCTTTCGTTATGCTTGCCAAAATC
+...
+```
+
+* we can now use 'write to file' operator `>` to safe this output to separate `.fasta` file
+* whatever is print to the terminal (standard out) will be saved in the file `my_fasta.fasta`
+
+```
+grep -A 1  '>*b1' fastas/GUAB.fasta > my_fasta.fasta
+```
+
+* *Note: this isn't totally correct, because `grep` puts `--` characters between matches, which could cause fasta parsers to choke on the input. Solving this problem actually takes us into our next section which is on the Uinx 'Sequence Editor' program `sed`*
+
+#### `Sed`
+

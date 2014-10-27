@@ -62,8 +62,15 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <div id="TOC">
 <ul>
 <li><a href="#unix-shell-commands-grep-awk-sed-and-others">Unix Shell Commands: grep, awk, sed, and others</a><ul>
-<li><a href="#when-to-use">When to use?</a></li>
-<li><a href="#examples">Examples</a></li>
+<li><a href="#when-to-use">When to use?</a><ul>
+<li><a href="#advantages">Advantages</a></li>
+<li><a href="#disadvantages">Disadvantages</a></li>
+</ul></li>
+<li><a href="#examples">Examples</a><ul>
+<li><a href="#grep">grep</a></li>
+<li><a href="#grep-cont"><code>grep</code> (con’t)</a></li>
+<li><a href="#sed"><code>Sed</code></a></li>
+</ul></li>
 </ul></li>
 </ul>
 </div>
@@ -107,13 +114,14 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 </ul>
 <pre><code>cd examples/unix_commands/</code></pre>
 <div id="grep" class="section level4">
-<h4><code>grep</code></h4>
-<div id="counting-the-number-of-sequences-in-a-fasta-file" class="section level5">
-<h5>Counting the number of sequences in a fasta file</h5>
+<h4>grep</h4>
+<ul>
+<li>Counting the number of sequences in a fasta file
 <ul>
 <li>the <code>-c</code> option means ‘count’</li>
 <li>this will return he number of times the <code>'&gt;'</code> pattern is observed in the fasta file</li>
 <li>if the file is well-formatted, this will accurately tell you how many sequences there are in the file</li>
+</ul></li>
 </ul>
 <pre><code>grep -c '&gt;' fastas/GUAB.fasta
 9948</code></pre>
@@ -154,12 +162,114 @@ fastas/TOLDC_Feb22_2011_trimmed.fasta:3072</code></pre>
 <li>how about if were only interested in files that had <code>INX043</code> and were <code>.fasta</code> files anywhere in the folder <code>fastas/</code></li>
 <li>use the anycharacter glob (<code>*</code>) to select text on both sides</li>
 </ul>
-<pre><code>grep -c -r --include *INX043*.fasta* '&gt;' *</code></pre>
+<pre><code>grep -c -r --include *INX043*.fasta* '&gt;' *
+fastas/INX043_RawGSCdata_min2000.fasta.NR00314_J24.fasta:1
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NO00111_F15.fasta:1
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NO00111_J19.fasta:1
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NR0031_K08.fasta:1
+fastas/sub_dir2/INX043_RawGSCdata_min2000.fasta.SCR021_C16.fasta:1
+fastas/sub_dir2/INX043_RawGSCdata_min2000.fasta.SCR044_H13.fasta:1</code></pre>
 <ul>
 <li>and if I just wanted to look into directories that had the pattern <code>sub_dir*</code></li>
 </ul>
-<pre><code>grep -c '&gt;' fastas/sub_dir*/*fasta</code></pre>
+<pre><code>grep -c '&gt;' fastas/sub_dir*/*fasta
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NO00111_F15.fasta:1
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NO00111_J19.fasta:1
+fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NR0031_K08.fasta:1
+fastas/sub_dir2/INX043_RawGSCdata_min2000.fasta.SCR021_C16.fasta:1
+fastas/sub_dir2/INX043_RawGSCdata_min2000.fasta.SCR044_H13.fasta:1
+fastas/sub_dir2/NapDC_July06_2011_trimmed.fasta:15360</code></pre>
+<ul>
+<li>there is also an <code>--exclude</code> to do the opposite of <code>--include</code>
+<ul>
+<li>here we look for <code>'&gt;'</code> for all files in all subdirectories that do not end in <code>fasta</code></li>
+</ul></li>
+</ul>
+<pre><code>grep -c -r --exclude '*.fasta' '&gt;' *
+command_list.sh:6
+fastas/.DS_Store:0</code></pre>
+<div id="asside-unix-globs" class="section level5">
+<h5>Asside: Unix globs</h5>
+<ul>
+<li>Note that there is quite a bit of power to these Unix ‘glob’ operators:
+<ul>
+<li><code>*</code>: means any number of characters
+<ul>
+<li><code>beginning*end</code>: selects files with a particular <code>beginning</code> and <code>end</code> patterns</li>
+<li><code>beginning*middle*end</code>: selects files with particular <code>beginning</code>, <code>middle</code>, and <code>end</code> text</li>
+<li><code>sample*/blast_results/*parsed_blast.txt</code>: matches all <code>parsed_blast.txt</code> files that can be found in sub-directories <code>blast_results/</code> below directries starting with <code>sample*</code></li>
+</ul></li>
+<li><code>?</code>: matches exactly one unknown character
+<ul>
+<li><code>?at</code>: matches <code>fat</code>, <code>cat</code>, <code>hat</code>, <code>sat</code>, etc.</li>
+</ul></li>
+<li><code>[]</code>: specifies a range or set of characters to match
+<ul>
+<li><code>[BC]at</code>: matches <code>Bat</code> or <code>Cat</code> but not <code>bat</code> or <code>cat</code></li>
+<li><code>sample_[0-9][0-9]</code>: matches <code>sample_01</code>, <code>sample_02</code>, etc.</li>
+</ul></li>
+</ul></li>
+<li>the linux command <code>ls</code> can be used to list the set of files that are hit by a glob pattern
+<ul>
+<li>this is very important when writing critical commands like ‘move’ (<code>mv</code>) or ‘remove’ (<code>rm</code>)
+<ul>
+<li>everyone eventually burns themselves, its a fact of life while working on with the Unix command line</li>
+</ul></li>
+</ul></li>
+<li><em>Note: Unix globs are not as sophisicated as full blown Perl or grep-based regular expressions. They don’t have a complete feature set. Some things just can not be done with command line globs</em></li>
+</ul>
 </div>
+</div>
+<div id="grep-cont" class="section level4">
+<h4><code>grep</code> (con’t)</h4>
+<ul>
+<li>dropping the <code>-c</code>, <code>grep</code> will just print the matching line
+<ul>
+<li>match all fasta headers that end in <code>b1</code></li>
+</ul></li>
+</ul>
+<pre><code>grep '&gt;*b1' fastas/GUAB.fasta
+&gt;GUAB5590.b1
+&gt;GUAB3843.b1
+&gt;GUAB6002.b1
+&gt;GUAB6573.b1</code></pre>
+<ul>
+<li>the <code>-n</code> option will print out the line number where the match was found if more than one file being searched the filename will be printed as well</li>
+</ul>
+<pre><code>grep -n '&gt;*b1' fastas/GUAB.fasta
+1:&gt;GUAB5590.b1
+3:&gt;GUAB3843.b1
+7:&gt;GUAB6002.b1
+11:&gt;GUAB6573.b1
+...</code></pre>
+<ul>
+<li>if the fasta file format is well-formatted (contains the sequence only on one line after matching header), then you can use the ‘after’ <code>-A</code> flag to print a number of lines after the match.
+<ul>
+<li><em>Note: there are also ‘before’ <code>-B</code> and ‘context’ <code>-C</code> flags that print out lines before the match and on both sides, respectively.</em></li>
+<li>here we use it to get the sequence along with header patterns that end in <code>.b1</code>, because we know that it is the first line below in a well-formatted <code>.fasta</code> file
+<ul>
+<li>*Note: this won’t work for fasta files where the sequence in on multiple lines</li>
+</ul></li>
+</ul></li>
+</ul>
+<pre><code>grep -A 1  '&gt;*b1' fastas/GUAB.fasta
+&gt;GUAB5590.b1
+ATCGAGTGTGTTCTTTTGCGCGATGGTATTCGACGTACCGTTTGCATTTCATCACAAGTCGGCTGTGCAATGGGGTGTGTATTCTGTGCAAGCGGTCTTGATGGAGTTATCCGAAATTTGACAACCGGTGAGATCATCGAGCAGTTATTACGACTCACTCGTTTACTCCCAACAGAAGAACGACTAAGTCATATTGTTGTCATGGGAATGGGTGAACCACTAGCAAACCTCGATCGTTTATTACCTGCTCTTGCAATCGCACAAAGTCCTGAGGGACTTGGTATATCTCAACGACGAATCACTATTTCAACTGTCGGGTTGCCATCGGCAATTGATCGGCTGTGTCAAGAAAATCCTGGATATCATCTTGCCGTATCACTCCATGCCGCTGACGATCCACTCCGAACAAAACTCGTTCCAGTCAATAAGTCGATCGGAGTTCATGCCATTTTAGCCGCAGCTGACCGATACTGGGAAACATCTGGCCGACGACTTACTTTCGAATATGTCTTACTCGGAAATCTTAATGATTCTCCAGATCATGCCCGTTCGTTAGCTCGGTTTATCGGCAAACGTGCAGCGCTCGTAAACATTATTCCGTACAACACAGTCGATGGCCTACCGTGGGAAGAGCCTACTGACATTTCTCGTGAACGATTTCTTGATGTCCTTTCGAATGCTGGCGTGAATGTTCAGACTCGAAAAAGGAG
+--
+&gt;GUAB3843.b1
+CTGGGTGGCAGCGGTGTAGAGAAAATAGTTGAACTTTCGCTTTTGCCAGATGAAAAAGTGGCATTCAATAAAAGTATCGATGCAGTTCGGGAACTTGTTGGCGCAATGGAGAGCCTGACGCCATAACAGAAGCCCCCCAGTCCTCCCAGCCTCCCTCTGTCGGCTAGTTTCGCGAAAGCTCTTCATTTTCACACGGAAATGCTGCCATTGCCCGGAGTGTGTGACTGCGTTAGAAACCTCCGACGCATTGCCATAAGTCAAATCTCTTGTGGCAATGCGTTAGCAATCACGCTGTGTATTTTTGCAAAAGGTTACGCGGAGGATCTGGAATGGTGCATCAGTCGACAGTATTTGATTATGAATTCAATCATTGTTCACCAAGCAGTAGAGGCTTTTTGTGCAACGAGGTGAATCTCCCTTCGAGTAAACCAGAGCAACTGTTTTTACCACGAGGGTATGAGTCGGGATACGACTACCCACTCCTCGTGTGGCTTCCGCAGTCAGACGATGCTCACTTTGACTTAGGTCGCACCATGATGCGAATGAGTTTAAGGAATTACATTGCAGTAGTACCTGCTGTCACGTCTGATTTGGAGAGTTGTTTTGAAGCTATTGACGGAATAATGAGTCAATATAGCGTTCACTCTCGCAGATTTTATCTTATTGGTGTTGAGGAAGGTGGAGAGAATGCCTTTCGTTATGCTTGCCAAAATC
+...</code></pre>
+<ul>
+<li>we can now use ‘write to file’ operator <code>&gt;</code> to safe this output to separate <code>.fasta</code> file</li>
+<li>whatever is print to the terminal (standard out) will be saved in the file <code>my_fasta.fasta</code></li>
+</ul>
+<pre><code>grep -A 1  '&gt;*b1' fastas/GUAB.fasta &gt; my_fasta.fasta</code></pre>
+<ul>
+<li><em>Note: this isn’t totally correct, because <code>grep</code> puts <code>--</code> characters between matches, which could cause fasta parsers to choke on the input. Solving this problem actually takes us into our next section which is on the Uinx ‘Sequence Editor’ program <code>sed</code></em></li>
+</ul>
+</div>
+<div id="sed" class="section level4">
+<h4><code>Sed</code></h4>
 </div>
 </div>
 </div>
