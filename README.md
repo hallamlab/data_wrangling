@@ -1,4 +1,4 @@
-data_wrangling-
+data_wrangling
 ===============
 
-Notes on basic metagenomic data wrangling
+Notes on basic metagenomic data wrangling.
