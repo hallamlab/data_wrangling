@@ -1,0 +1,2000 @@
+orf_id	ref dbname	EC	product	value
+uppermesopelagic_500m_8603_0				
+	EggNog_v3_2013_08_07		secY http://www.ncbi.nlm.nih.gov/protein/32475077 preprotein translocase subunit SecY forms heterotrimeric complex membrane bacteria consists SecY which channel pore SecE SecG SecG not essential translocation driven via SecA ATPase	24.0
+	RefSeq_complete_nr_v62_dec2013		preprotein translocase subunit SecY [Rhodopirellula sp. SWK7]	7.0
+	seed-2014-01-30		Preprotein translocase secY subunit (TC 3.A.5.1.1) [Kuenenia stuttgartiensis enrichment culture clone CH1]	12.0
+	KEGG_pep_2013		protein translocase subunit SecY/sec61 alpha K03076 preprotein SecY	7.0
+
+uppermesopelagic_500m_8602_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/134098987 universal stress protein	3.0
+	RefSeq_complete_nr_v62_dec2013		universal stress protein [Saccharopolyspora spinosa]	4.0
+	seed-2014-01-30		Universal stress protein family [Saccharothrix espanaensis DSM 44229]	7.0
+	KEGG_pep_2013		UspA domain-containing protein	2.0
+
+uppermesopelagic_500m_4606_0				
+	EggNog_v3_2013_08_07		ThiI http://www.ncbi.nlm.nih.gov/protein/20808089 thiamine biosynthesis protein ThiI Required synthesis thiazole moiety	8.0
+	RefSeq_complete_nr_v62_dec2013		thiazole biosynthesis/tRNA modification protein ThiI [Thermus oshimai]	6.0
+	seed-2014-01-30		tRNA S(4)U 4-thiouridine synthase (former ThiI) [Eubacterium siraeum DSM 15702]	10.0
+	KEGG_pep_2013		thiamine biosynthesis/tRNA modification protein ThiI K03151 biosynthesis ThiI	6.0
+
+uppermesopelagic_500m_4606_1				
+	EggNog_v3_2013_08_07	3.1.11.2	exoA http://www.ncbi.nlm.nih.gov/protein/18310156 exodeoxyribonuclease III similar to EXODEOXYRIBONUCLEASE (EC 3.1.11.2) from Bacillus subtilis (252 aa) 65.9% identity 249 aa overlap	29.0
+	RefSeq_complete_nr_v62_dec2013		putative exodeoxyribonuclease III, partial [Fusobacterium sp. oral taxon 370]	9.0
+	COG_2013-12-27		COG0708 # L Replication, recombination repair Function: Exonuclease III Organism: Helicobacter pylori J99 (jHp)	14.0
+	seed-2014-01-30	3.1.11.2	Exodeoxyribonuclease III (EC 3.1.11.2) [Verrucomicrobia bacterium SCGC AAA164-L15]	18.0
+	KEGG_pep_2013	4.2.99.18	apex1, MGC113976, apex1a, hm:zehn1532, wu:fc13d11, zgc:66204 APEX nuclease (multifunctional DNA repair enzyme) 1 (EC:4.2.99.18) K10771 AP endonuclease [EC:4.2.99.18]	28.0
+
+uppermesopelagic_500m_8607_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/110833941 	1.0
+	RefSeq_complete_nr_v62_dec2013		 [Alcanivorax sp. P2S70]	3.0
+	seed-2014-01-30		 [Alcanivorax sp. W11-5]	3.0
+
+uppermesopelagic_500m_3026_0				
+	RefSeq_complete_nr_v62_dec2013		laminin G sub domain 2 [Planctomyces brasiliensis]	7.0
+	seed-2014-01-30		Alkaline ceramidase domain protein [Zavarzinella formosa DSM 19928]	7.0
+	KEGG_pep_2013		laminin G sub domain 2	5.0
+
+uppermesopelagic_500m_3146_0				
+	EggNog_v3_2013_08_07		PSEEN5297 http://www.ncbi.nlm.nih.gov/protein/104784203 glutamine synthetase Evidence 3 : Function proposed based presence conserved amino acid motif, structural feature or limited homology Product type e enzyme	23.0
+	RefSeq_complete_nr_v62_dec2013		glutamine synthetase [Pseudomonas sp. Chol1]	5.0
+	COG_2013-12-27		COG0174 # E Amino acid transport metabolism Function: Glutamine synthetase Organism: Pseudomonas aeruginosa (Pae)	14.0
+	seed-2014-01-30		glutamine synthetase family protein [Pseudomonas syringae pv. actinidiae str. NCPPB 3739]	10.0
+	KEGG_pep_2013	6.3.1.2	putative glutamine synthetase, catalytic region K01915 synthetase [EC:6.3.1.2]	18.0
+
+uppermesopelagic_500m_3141_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/152985560 putative acyl-CoA dehydrogenase Annotation generated automatically transferring annotation from manually curated GenBank accession AE004091 identified match to protein family HMM PF00441 PF02770 PF02771 PF08028	24.0
+	RefSeq_complete_nr_v62_dec2013		acyl-CoA dehydrogenase [Pseudomonas sp. Chol1]	5.0
+	COG_2013-12-27		COG1960 # I Lipid transport metabolism Function: Acyl-CoA dehydrogenases Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	16.0
+	seed-2014-01-30	1.3.99.2	Butyryl-CoA dehydrogenase (EC 1.3.99.2) [Pseudomonas mendocina NK-01]	17.0
+	KEGG_pep_2013		acdA putative acyl-CoA dehydrogenase K00257 [EC:1.3.99.-]	6.0
+
+uppermesopelagic_500m_3142_0				
+	EggNog_v3_2013_08_07		acs http://www.ncbi.nlm.nih.gov/protein/240139111 acetyl-CoA synthetase Evidence 2a : Function homologous gene experimentally demonstrated other organism PubMedId 12878029, 14515321, 7751300 Product type e enzyme	22.0
+	RefSeq_complete_nr_v62_dec2013		Acyl-coenzyme A synthetase/AMP-(fatty) acid ligase [Magnetospirillum sp. SO-1]	8.0
+	COG_2013-12-27		COG0365 # I Lipid transport metabolism Function: Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	19.0
+	seed-2014-01-30	6.2.1.1	Acetyl-coenzyme A synthetase (EC 6.2.1.1) [Rhizobium etli CIAT 894]	19.0
+	metacyc-v5-2011-10-21	6.2.1.1	Acetyl-coenzyme A synthetase 1 OS Saccharomyces cerevisiae (strain ATCC 204508 / S288c) GN ACS1 PE SV 2 # UNIPROT Q01574 ACETATE--COA-LIGASE-RXN 6.2.1.1	32.0
+	KEGG_pep_2013	6.2.1.1	ACS2 acetyl CoA synthetase (EC:6.2.1.1) K01895 acetyl-CoA [EC:6.2.1.1]	18.0
+
+uppermesopelagic_500m_3142_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/192288466 nuclease (SNase domain protein) PFAM: KEGG: staphylococcus (SNase-like)	9.0
+	RefSeq_complete_nr_v62_dec2013		nuclease [Ahrensia sp. R2A130]	4.0
+	seed-2014-01-30		InterPro IPR006021 COGs COG1525 [Rhodopseudomonas palustris CGA009]	7.0
+	KEGG_pep_2013		nuclease (SNase domain protein)	4.0
+
+uppermesopelagic_500m_4037_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/24373318  identified match to PFAM protein family HMM PF03806	8.0
+	RefSeq_complete_nr_v62_dec2013		ABC-type transport system involved multi-copper enzyme maturation, permease component [Cesiribacter andamanensis]	11.0
+	seed-2014-01-30		membrane protein, putative [Janthinobacterium sp. PAMC 25724]	7.0
+
+uppermesopelagic_500m_4030_0				
+	EggNog_v3_2013_08_07		Q6C2M8 http://www.uniprot.org/uniprot/Q6C2M8 YALI0F06534p	3.0
+	RefSeq_complete_nr_v62_dec2013		DNA/RNA helicase, superfamily II [Bradyrhizobium sp. WSM471]	7.0
+	COG_2013-12-27		COG1061 # KL Function: DNA or RNA helicases superfamily II Organism: Schizosaccharomyces pombe (Spo)	14.0
+	seed-2014-01-30	3.1.21.3	Type I restriction-modification system, restriction subunit R (EC 3.1.21.3) [Sulfobacillus acidophilus TPY]	22.0
+	KEGG_pep_2013		mitochondrial ATP-dependent DNA helicase Irc3 (predicted)	6.0
+
+uppermesopelagic_500m_8609_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/116754311 adenosylhomocysteinase KEGG: S-adenosyl-L-homocysteine hydrolase TIGRFAM: PFAM: Acetohydroxy acid isomeroreductase, catalytic domain protein	12.0
+	RefSeq_complete_nr_v62_dec2013		S-adenosyl-L-homocysteine hydrolase [Candidatus Nitrososphaera gargensis]	5.0
+	COG_2013-12-27		COG0499 # H Coenzyme transport metabolism Function: S-adenosylhomocysteine hydrolase Organism: Methanosarcina acetivorans str.C2A (Mac)	14.0
+	seed-2014-01-30	3.3.1.1	Adenosylhomocysteinase (EC 3.3.1.1) [Methanothermobacter thermautotrophicus str. Delta H]	18.0
+	metacyc-v5-2011-10-21	3.3.1.1	Adenosylhomocysteinase OS Methanopyrus kandleri (strain AV19 / DSM 6324 JCM 9639 NBRC 100938) GN ahcY PE 3 SV 1 # UNIPROT P58855 ADENOSYLHOMOCYSTEINASE-RXN MKAN190192:MK0368-MONOMER 3.3.1.1	35.0
+	KEGG_pep_2013	3.3.1.1	ahcY S-adenosyl-L-homocysteine hydrolase (EC:3.3.1.1) K01251 adenosylhomocysteinase [EC:3.3.1.1]	17.0
+
+uppermesopelagic_500m_4032_0				
+	EggNog_v3_2013_08_07		nadE http://www.ncbi.nlm.nih.gov/protein/86357986 NAD synthetase NH(3)-dependent catalyzes formation nicotinamide adenine dinucleotide (NAD) from nicotinic acid (NAAD) using either ammonia or glutamine as amide donor ATP ammonia-utilizing enzymes include ones Bacillus Escherichia coli while glutamine-utilizing Mycobacterial one forms homodimers	37.0
+	RefSeq_complete_nr_v62_dec2013		NAD synthetase / Glutamine amidotransferase chain [Sphingobium japonicum]	8.0
+	COG_2013-12-27		COG0171 # H Coenzyme transport metabolism Function: NAD synthase Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	16.0
+	seed-2014-01-30	6.3.1.5	NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain [Phaeobacter gallaeciensis ANG1]	21.0
+	metacyc-v5-2011-10-21	6.3.5.1	Probable glutamine-dependent NAD(+) synthetase OS Synechocystis sp. (strain ATCC 27184 / PCC 6803 N-1) GN nadE PE 3 SV 1 # UNIPROT P74292 NAD-SYNTH-GLN-RXN SSP1148:SLR1691-MONOMER 6.3.5.1	36.0
+	KEGG_pep_2013	6.3.5.1	nadE glutamine-dependent NAD(+) synthetase (EC:6.3.5.1) K01916 NAD+ synthase [EC:6.3.1.5]	19.0
+
+uppermesopelagic_500m_4033_0				
+	EggNog_v3_2013_08_07		nuoM2 http://www.ncbi.nlm.nih.gov/protein/86359323 putative monovalent cation/H+ antiporter subunit D D complex involved resistance to high concentrations Na+, K+, Li+ and/or alkali contains oxidoreductase domain catalyzes transfer electrons from NADH ubiquinone S. meliloti it known be specifically K+ transport	36.0
+	RefSeq_complete_nr_v62_dec2013		multicomponent Na+/H+ antiporter subunit D [Desulfotignum phosphitoxidans]	7.0
+	seed-2014-01-30	1.6.5.3	NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3) [Simiduia agarivorans SA1 DSM 21679]	21.0
+	KEGG_pep_2013	1.6.99.5	putative monovalent cation/H+ antiporter subunit D (EC:1.6.99.5) K05568 multicomponent Na+:H+	20.0
+
+uppermesopelagic_500m_7745_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/147678274 mismatch repair ATPase MutS family	6.0
+	RefSeq_complete_nr_v62_dec2013		DNA mismatch repair protein MutS [Desulfotomaculum kuznetsovii]	6.0
+	seed-2014-01-30		Recombination inhibitory protein MutS2 [Desulfotomaculum kuznetsovii DSM 6115]	7.0
+	KEGG_pep_2013		mismatch repair ATPase K07456 DNA protein MutS2	6.0
+
+uppermesopelagic_500m_7032_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/121608716 YeeB-like protein KEGG: protein	3.0
+	RefSeq_complete_nr_v62_dec2013		DEAD/DEAH box helicase [Arthrospira platensis]	5.0
+	COG_2013-12-27		NULL # V Defense mechanisms Function: Type II restriction enzyme, methylase subunits Organism: Bacillus subtilis (Bsu)	16.0
+	seed-2014-01-30		FIG006126: DNA helicase, restriction/modification system component YeeB [Lactobacillus salivarius GJ-24]	10.0
+	KEGG_pep_2013		DNA helicase	2.0
+
+uppermesopelagic_500m_7742_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/113867698 histidinol dehydrogenase catalyzes oxidation L-histidinol to L-histidinaldehyde then L-histidine histidine biosynthesis functions as dimer	15.0
+	RefSeq_complete_nr_v62_dec2013		histidinol dehydrogenase 2 [Glaciecola agarilytica]	5.0
+	COG_2013-12-27		COG0141 # E Amino acid transport metabolism Function: Histidinol dehydrogenase Organism: Mesorhizobium loti (Mlo)	14.0
+	seed-2014-01-30	1.1.1.23	Histidinol dehydrogenase (EC 1.1.1.23) [Enterobacter aerogenes KCTC 2190]	18.0
+	KEGG_pep_2013	1.1.1.23	histidinol dehydrogenase (EC:1.1.1.23) K00013 [EC:1.1.1.23]	15.0
+
+uppermesopelagic_500m_7740_0				
+	EggNog_v3_2013_08_07		SPO1401 http://www.ncbi.nlm.nih.gov/protein/56696285  identified match to protein family HMM PF00202	8.0
+	RefSeq_complete_nr_v62_dec2013		Adenosylmethionine-8-amino-7-oxononanoate aminotransferase [Rhodobacter sp. AKP1]	5.0
+	COG_2013-12-27		COG0161 # H Coenzyme transport metabolism Function: Adenosylmethionine-8-amino-7-oxononanoate aminotransferase Organism: Mesorhizobium loti (Mlo)	13.0
+	seed-2014-01-30	2.6.1.62	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase (EC 2.6.1.62) [Vibrio nigripulchritudo ATCC 27043]	18.0
+	KEGG_pep_2013		aminotransferase, class III (EC:2.6.1.-)	4.0
+
+uppermesopelagic_500m_7740_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/156973418 transcriptional regulator KEGG: 0.00011 regulator, LysR family K06022 COG: COG0583 Transcriptional Psort location: cytoplasmic, score: 23	17.0
+	RefSeq_complete_nr_v62_dec2013		putative transcriptional regulator, LysR family protein [Marinomonas sp. MED121]	8.0
+	seed-2014-01-30		Transcriptional regulator, LysR family [Vibrio harveyi CAIM 1792]	8.0
+	KEGG_pep_2013		LysR family transcriptional regulator	4.0
+
+uppermesopelagic_500m_2768_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/120555401 3-hydroxyacyl-CoA dehydrogenase, NAD-binding PFAM: Enoyl-CoA hydratase/isomerase dehydrogenase domain protein KEGG:	10.0
+	RefSeq_complete_nr_v62_dec2013		3-hydroxyacyl-CoA dehydrogenase [Pseudomonas sp. R81]	5.0
+	COG_2013-12-27		COG1250 # I Lipid transport metabolism Function: 3-hydroxyacyl-CoA dehydrogenase Organism: Sinorhizobium meliloti (Sme)	13.0
+	seed-2014-01-30	4.2.1.17	Enoyl-CoA hydratase [isoleucine degradation] (EC 4.2.1.17) / 3-hydroxyacyl-CoA dehydrogenase 1.1.1.35) 3-hydroxybutyryl-CoA epimerase 5.1.2.3) [Pseudomonas fluorescens HK44]	26.0
+	KEGG_pep_2013	1.1.1.35	3-hydroxyacyl-CoA dehydrogenase / short chain enoyl-CoA hydratase (EC:1.1.1.35 4.2.1.17) K01782 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]	25.0
+
+uppermesopelagic_500m_2768_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/152985115  Annotation generated automatically transferring annotation from manually curated GenBank accession AE004091 identified Glimmer2 putative	15.0
+	RefSeq_complete_nr_v62_dec2013		acyclic terpene utilization protein AtuA [Pseudomonas sp. M1]	7.0
+	COG_2013-12-27		NULL # K Transcription Function: Transcriptional regulator Organism: Pseudomonas aeruginosa (Pae)	11.0
+	seed-2014-01-30		3-hydroxy-3isohexenylglutaryl-CoA:acetate lyase [Pseudomonas chlororaphis subsp. aureofaciens 30-84]	7.0
+	KEGG_pep_2013		atuA expressed protein apparent function citronellol catabolism	6.0
+
+uppermesopelagic_500m_2763_0				
+	RefSeq_complete_nr_v62_dec2013		peptidase, M23 family [Pelagibacterium halotolerans]	5.0
+	seed-2014-01-30		peptidase, M23 family [Pelagibacterium halotolerans B2]	6.0
+
+uppermesopelagic_500m_2767_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/121609916 3-hydroxyisobutyrate dehydrogenase PFAM: NADP oxidoreductase, coenzyme F420-dependent 6-phosphogluconate dehydrogenase, NAD-binding KEGG: bbr:BB4074 putative 2-hydroxy-3-oxopropionate reductase	16.0
+	RefSeq_complete_nr_v62_dec2013		3-hydroxyisobutyrate dehydrogenase [Mesorhizobium sp. STM 4661]	6.0
+	seed-2014-01-30	1.1.1.31	3-hydroxyisobutyrate dehydrogenase (EC 1.1.1.31) [Bradyrhizobium japonicum USDA 6]	18.0
+	KEGG_pep_2013	1.1.1.60	putative 2-hydroxy-3-oxopropionate reductase (EC:1.1.1.60) K00042 [EC:1.1.1.60]	16.0
+
+uppermesopelagic_500m_2764_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/242280319 ABC transporter related PFAM: transmembrane region SMART: AAA ATPase KEGG: bbr:BB1189	12.0
+	RefSeq_complete_nr_v62_dec2013		ABC transporter related [Desulfovibrio hydrothermalis]	5.0
+	seed-2014-01-30		ABC transporter, transmembrane region:ABC transporter [Magnetospirillum gryphiswaldense MSR-1]	8.0
+	KEGG_pep_2013		ABC transporter	2.0
+
+uppermesopelagic_500m_2765_0				
+	RefSeq_complete_nr_v62_dec2013		, partial [SAR406 cluster bacterium SCGC AB-629-J13]	7.0
+
+uppermesopelagic_500m_1223_0				
+	EggNog_v3_2013_08_07		PSEEN2268 http://www.ncbi.nlm.nih.gov/protein/104781388 aminoglycoside aminotranferase Evidence 3 : Function proposed based presence conserved amino acid motif, structural feature or limited homology Product type e enzyme	23.0
+	RefSeq_complete_nr_v62_dec2013		putative aminoglycoside phosphotransferase [Pseudomonas pseudoalcaligenes]	5.0
+	COG_2013-12-27		COG3173 # R General function prediction only Function: Predicted aminoglycoside phosphotransferase Organism: Pseudomonas aeruginosa (Pae)	15.0
+	seed-2014-01-30	1.3.99.2	Butyryl-CoA dehydrogenase (EC 1.3.99.2) [Frankia sp. EUN1f]	17.0
+	KEGG_pep_2013		aminoglycoside phosphotransferase K06979	3.0
+
+uppermesopelagic_500m_1223_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/91783542 acetyl-CoA acetyltransferase Catalyzes synthesis acetoacetyl coenzyme A from two molecules acetyl A. It also act as thiolase, catalyzing reverse reaction generating two-carbon units four-carbon product fatty acid oxidation	29.0
+	RefSeq_complete_nr_v62_dec2013		acetyl-CoA acyltransferase/thiolase family protein, partial [Marinobacter algicola]	7.0
+	COG_2013-12-27		COG0183 # I Lipid transport metabolism Function: Acetyl-CoA acetyltransferase Organism: Deinococcus radiodurans (Dra)	13.0
+	seed-2014-01-30	2.3.1.16	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase 2.3.1.9) [Sphingomonas sp. KC8]	21.0
+	metacyc-v5-2011-10-21	2.3.1.16	3-ketoacyl-CoA thiolase, mitochondrial OS Homo sapiens GN ACAA2 PE 1 SV 2 # UNIPROT P42765 KETOACYLCOATHIOL-RXN MetaCyc:MONOMER-14817 2.3.1.16	28.0
+	KEGG_pep_2013	2.3.1.16	 K00632 acetyl-CoA acyltransferase [EC:2.3.1.16]	14.0
+
+uppermesopelagic_500m_1220_0				
+	EggNog_v3_2013_08_07		DnaB http://www.ncbi.nlm.nih.gov/protein/20809103 replicative DNA helicase Best Blastp hit gi|10176654|dbj|BAB07748.1| (AP001520) helicase [Bacillus halodurans], score 518, E-value 1.00E-146	16.0
+	RefSeq_complete_nr_v62_dec2013		replicative DNA helicasechromosome replication, chain elongation [Clostridium ultunense]	8.0
+	seed-2014-01-30		Replicative DNA helicase (EC 3.6.1.-) [SA14-24] [Acetonema longum DSM 6540]	10.0
+	KEGG_pep_2013	3.6.4.12	dnaC replicative DNA helicase (EC:3.6.1.-) K02314 [EC:3.6.4.12]	17.0
+
+uppermesopelagic_500m_1226_0				
+	EggNog_v3_2013_08_07		xseA http://www.ncbi.nlm.nih.gov/protein/32472607 exodeoxyribonuclease VII large subunit PMID: 3021756 6284744 9278503 best DB hits: BLAST: gb:AAA24766.1 (J02599) Exonuclease E 2e-56 swissprot:P04994 EXODEOXYRIBONUCLEASE LARGE 4e-56 pir:B82282 VII, chain VC0766 [imported] 2e-55 COG: xseA COG1570 4e-57 PFAM: PF01336 OB-fold nucleic acid binding dom 3.6e-11 PF02601 3.5e-45	42.0
+	RefSeq_complete_nr_v62_dec2013		exodeoxyribonuclease VII, large subunit [Rhodopirellula baltica]	6.0
+	seed-2014-01-30	3.1.11.6	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6) [Kuenenia stuttgartiensis enrichment culture clone RU1]	22.0
+	KEGG_pep_2013	3.1.11.6	exodeoxyribonuclease VII, large subunit (EC:3.1.11.6) K03601 VII [EC:3.1.11.6]	18.0
+
+uppermesopelagic_500m_1226_1				
+	RefSeq_complete_nr_v62_dec2013		exodeoxyribonuclease VII [Planctomyces brasiliensis]	4.0
+	seed-2014-01-30	3.1.11.6	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6) [Halobacillus halophilus DSM 2266]	20.0
+	KEGG_pep_2013	3.1.11.6	exodeoxyribonuclease VII large subunit (EC:3.1.11.6) K03601 [EC:3.1.11.6]	17.0
+
+uppermesopelagic_500m_1227_0				
+	EggNog_v3_2013_08_07		sopT http://www.ncbi.nlm.nih.gov/protein/77462115 bifunctional sulfate adenylyltransferase subunit 1/adenylylsulfate kinase protein Rhizobium meliloti this protein involved synthesis nodulation factors that are active roots alfalfa catalyzes formation activated intermediate converts ATP to diphosphate adenylylsulfate then adenylyl ADP 3'-phosphoadenylyl sulfate intermediate transferred NodH may interact NodP NodQ similar CysD CysN proteins from Escherichia coli cysteine biosynthesis	48.0
+	RefSeq_complete_nr_v62_dec2013		bifunctional sulfate adenylyltransferase subunit 1/adenylylsulfate kinase protein [Ruegeria mobilis]	8.0
+	COG_2013-12-27		COG2046 # P Inorganic ion transport metabolism Function: ATP sulfurylase (sulfate adenylyltransferase) Organism: Saccharomyces cerevisiae (Sce)	16.0
+	seed-2014-01-30	2.7.7.4	Sulfate adenylyltransferase, dissimilatory-type (EC 2.7.7.4) / Adenylylsulfate kinase 2.7.1.25) [Celeribacter baekdonensis B30]	22.0
+	metacyc-v5-2011-10-21	2.7.7.4	Sulfate adenylyltransferase OS Debaryomyces hansenii (strain ATCC 36239 / CBS 767 JCM 1990 NBRC 0083 IGC 2968) GN MET3 PE 3 SV 1 # UNIPROT Q6BSU5 SULFATE-ADENYLYLTRANS-RXN 2.7.7.4	38.0
+	KEGG_pep_2013	2.7.7.4	aps sulfate adenylyltransferase aps-Penicillium chrysogenum K00958 [EC:2.7.7.4]	17.0
+
+uppermesopelagic_500m_1229_2				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/74316469 OsmC/Ohr family protein	3.0
+	RefSeq_complete_nr_v62_dec2013		putative redox protein [Pseudomonas sp. M1]	5.0
+	COG_2013-12-27		COG1765 # O Posttranslational modification, protein turnover, chaperones Function: Predicted redox protein, regulator disulfide bond formation Organism: Neisseria meningitidis Z2491 (NmA)	20.0
+	seed-2014-01-30		OsmC/Ohr family protein [endosymbiont Tevnia jerichonana (vent Tica)]	7.0
+	KEGG_pep_2013		OsmC/Ohr family protein K07397 putative redox protein	5.0
+
+uppermesopelagic_500m_4089_0				
+	RefSeq_complete_nr_v62_dec2013		 [Candidatus Poribacteria sp. WGA-4E]	4.0
+
+uppermesopelagic_500m_4088_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR406 cluster bacterium SCGC AB-629-J13]	5.0
+
+uppermesopelagic_500m_4081_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/156740849 2Fe-2S iron-sulfur cluster binding domain-containing protein PFAM: ferredoxin [2Fe-2S]-binding domain KEGG: (2Fe-2S)-binding protein	12.0
+	RefSeq_complete_nr_v62_dec2013		Carbon monoxide dehydrogenase small chain [Rhodococcus sp. EsD8]	8.0
+	COG_2013-12-27		COG2080 # C Energy production conversion Function: Aerobic-type carbon monoxide dehydrogenase, small subunit CoxS/CutS homologs Organism: Sulfolobus solfataricus (Sso)	19.0
+	seed-2014-01-30	1.2.99.2	Carbon monoxide dehydrogenase small chain (EC 1.2.99.2) [Cupriavidus necator N-1]	20.0
+	metacyc-v5-2011-10-21	1.2.99.2	Carbon monoxide dehydrogenase small chain OS Oligotropha carboxidovorans (strain ATCC 49405 / DSM 1227 OM5) GN coxS PE 1 SV 2 # UNIPROT P19921 CARBON-MONOXIDE-DEHYDROGENASE-RXN 1.2.99.2	36.0
+	KEGG_pep_2013	1.2.99.2	Aerobic-type carbon monoxide dehydrogenase, small subunit CoxS/CutS-like protein K03518 carbon-monoxide dehydrogenase [EC:1.2.99.2]	21.0
+
+uppermesopelagic_500m_4080_0				
+	RefSeq_complete_nr_v62_dec2013		FAD dependent oxidoreductase [gamma proteobacterium SCGC AAA007-O20]	7.0
+	seed-2014-01-30		Glycine/D-amino acid oxidase deaminating [gamma proteobacterium SCGC AAA007-O20]	8.0
+
+uppermesopelagic_500m_4080_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/99079947 saccharopine dehydrogenase (NADP+, L-glutamate forming) PFAM: Saccharopine dehydrogenase: (4.1e-54) 6-phosphogluconate dehydrogenase, NAD-binding: (0.0007) KEGG: sil:SPO3309 putative, ev 1e-172, 75% identity	21.0
+	RefSeq_complete_nr_v62_dec2013		saccharopine dehydrogenase (NADP+, L-glutamate forming) [Osedax symbiont Rs1]	8.0
+	seed-2014-01-30		putative saccharopine reductase [Roseovarius sp. HTCC2601]	6.0
+	KEGG_pep_2013	1.5.1.10	saccharopine dehydrogenase (NADP+, L-glutamate forming) (EC:1.5.1.10) K00293 [EC:1.5.1.10]	18.0
+
+uppermesopelagic_500m_4085_0	CAZy_2013-07-13		Cellulase [Cellulophaga algicola DSM 14237]	5.0
+	EggNog_v3_2013_08_07		celA http://www.ncbi.nlm.nih.gov/protein/254786854 glycoside hydrolase families 5 6 domain protein identified match to protein family HMM PF00150 PF01341 PF02013 PF02839	17.0
+	RefSeq_complete_nr_v62_dec2013		, partial [Teredinibacter turnerae]	4.0
+	seed-2014-01-30	3.2.1.8	Endo-1,4-beta-xylanase A precursor (EC 3.2.1.8) [Saccharophagus degradans 2-40]	18.0
+	metacyc-v5-2011-10-21	3.2.1.4	Endoglucanase Z OS Dickeya dadantii (strain 3937) GN celZ PE 1 SV 2 # UNIPROT P07103 RXN-2043 3.2.1.4	28.0
+	KEGG_pep_2013	3.2.1.4	cel5B endo-1,4-beta glucanase (EC:3.2.1.4) K01179 endoglucanase [EC:3.2.1.4]	17.0
+
+uppermesopelagic_500m_4087_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR202 cluster bacterium SCGC AAA240-N13]	5.0
+
+uppermesopelagic_500m_7682_1				
+	EggNog_v3_2013_08_07		sdhA http://www.ncbi.nlm.nih.gov/protein/45657855 succinate dehydrogenase flavoprotein subunit part four member enzyme complex that forms trimeric (trimer tetramers) SdhA/B are catalytic subcomplex exhibit activity absence SdhC/D which membrane components form cytochrome b556 SdhC binds ubiquinone oxidizes to fumarate while reducing ubiquinone ubiquinol	39.0
+	RefSeq_complete_nr_v62_dec2013		menaquinone-dependent succinate dehydrogenase/fumarate reductase, flavoprotein subunit [Xenococcus sp. PCC 7305]	10.0
+	seed-2014-01-30	1.3.99.1	Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1) [Leptospira licerasiae serovar Varillal str. VAR 010]	23.0
+	KEGG_pep_2013	1.3.99.1	succinate dehydrogenase or fumarate reductase, flavoprotein subunit (EC:1.3.99.1) K00239 [EC:1.3.99.1]	20.0
+
+uppermesopelagic_500m_7683_0				
+	EggNog_v3_2013_08_07		valS http://www.ncbi.nlm.nih.gov/protein/20807263 valyl-tRNA synthetase valine--tRNA ligase ValRS converts valine ATP tRNA(Val) to AMP PPi valyl-tRNA(Val) class-I aminoacyl-tRNA synthetase type 1 subfamily posttransfer editing process hydrolyze mischarged Thr-tRNA(Val) which done domain	29.0
+	RefSeq_complete_nr_v62_dec2013		valyl-tRNA synthetase [Pedobacter agri]	4.0
+	COG_2013-12-27		COG0525 # J Translation, ribosomal structure biogenesis Function: Valyl-tRNA synthetase Organism: Nostoc sp. PCC 7120 (Nos)	16.0
+	seed-2014-01-30	6.1.1.9	Valyl-tRNA synthetase (EC 6.1.1.9) [Flavobacterium columnare ATCC 49512]	18.0
+	metacyc-v5-2011-10-21	6.1.1.9	Valyl-tRNA synthetase OS Pelobacter carbinolicus (strain DSM 2380 / Gra Bd 1) GN valS PE 3 SV 1 # UNIPROT Q3A253 VALINE--TRNA-LIGASE-RXN 6.1.1.9	33.0
+	KEGG_pep_2013	6.1.1.9	EMB2247 (embryo defective 2247) ATP binding / aminoacyl-tRNA ligase/ nucleotide valine-tRNA ligase (EC:6.1.1.9) K01873 valyl-tRNA synthetase [EC:6.1.1.9]	27.0
+
+uppermesopelagic_500m_7680_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/163847604 polynucleotide phosphorylase/polyadenylase KEGG: polyribonucleotide nucleotidyltransferase PFAM: 3' exoribonuclease RNA binding S1 domain protein KH type 1 Exoribonuclease, phosphorolytic 2 Polynucleotide phosphorylase, RNA-binding, bacterial/organelle-type SMART: protein	24.0
+	RefSeq_complete_nr_v62_dec2013		polyribonucleotide nucleotidyltransferase [Anabaena sp. PCC 7108]	6.0
+	COG_2013-12-27		COG1185 # J Translation, ribosomal structure biogenesis Function: Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase) Organism: Nostoc sp. PCC 7120 (Nos)	18.0
+	seed-2014-01-30	2.7.7.8	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) [Gloeocapsa sp. PCC 73106]	18.0
+	KEGG_pep_2013	2.7.7.8	polynucleotide phosphorylase/polyadenylase (EC:2.7.7.8) K00962 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]	17.0
+
+uppermesopelagic_500m_7687_0				
+	RefSeq_complete_nr_v62_dec2013		, partial [SAR406 cluster bacterium SCGC AB-629-J13]	7.0
+	seed-2014-01-30		tolB protein precursor, periplasmic involved tonb-independent uptake group A colicins [Caldithrix abyssi DSM 13497]	13.0
+
+uppermesopelagic_500m_7689_1				
+	EggNog_v3_2013_08_07		cti http://www.ncbi.nlm.nih.gov/protein/32475368 cis/trans isomerase PMID: 98027367 best DB hits: BLAST: embl:CAA04438.1 (AJ000978) cistrans isomerase [Pseudomonas E 0.030 gb:AAD41252.1 (AF110738) Cti [Pseudomonas putida] gb:AAD41255.1 (AF110739)	22.0
+	RefSeq_complete_nr_v62_dec2013		protein containing planctomycete cytochrome C domain [Rhodopirellula baltica]	7.0
+	seed-2014-01-30		-signal peptide transmembrane prediction [Verrucomicrobia bacterium SCGC AAA168-F10]	8.0
+	KEGG_pep_2013		cti cis/trans isomerase	3.0
+
+uppermesopelagic_500m_5424_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/159038284 magnesium chelatase KEGG: PFAM: chelatase ChlI subunit von Willebrand factor type A ATPase associated various cellular activities SMART: AAA	19.0
+	RefSeq_complete_nr_v62_dec2013		magnesium chelatase ATPase subunit I [Xenococcus sp. PCC 7305]	9.0
+	COG_2013-12-27		COG1239 # H Coenzyme transport metabolism Function: Mg-chelatase subunit ChlI Organism: Nostoc sp. PCC 7120 (Nos)	16.0
+	seed-2014-01-30	6.6.1.1	Protoporphyrin IX Mg-chelatase subunit I (EC 6.6.1.1) [Nostoc sp. PCC 7120]	21.0
+	metacyc-v5-2011-10-21	6.6.1.1	Magnesium-chelatase subunit chlI, chloroplastic OS Nicotiana tabacum GN CHLI PE 2 SV 1 # UNIPROT O22436 RXN1F-20 MetaCyc:MONOMER-11779 6.6.1.1	29.0
+	KEGG_pep_2013	6.6.1.1	 K03405 magnesium chelatase subunit I [EC:6.6.1.1]	16.0
+
+uppermesopelagic_500m_5424_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/78044777 oligopeptide/dipeptide ABC transporter, permease protein identified similarity to SP:P94312 match protein family HMM PF00528	13.0
+	RefSeq_complete_nr_v62_dec2013		binding-protein-dependent transport systems inner membrane component [Halovivax asiaticus]	8.0
+	COG_2013-12-27		COG1173 # EP Function: ABC-type dipeptide/oligopeptide/nickel transport systems, permease components Organism: Salmonella typhimurium LT2 (Sty)	15.0
+	seed-2014-01-30		Dipeptide transport system permease protein DppC (TC 3.A.1.5.2) [Paenibacillus sp. JC66]	10.0
+	KEGG_pep_2013		binding-protein-dependent transport systems inner membrane component K02034 peptide/nickel system permease protein	10.0
+
+uppermesopelagic_500m_5425_0				
+	EggNog_v3_2013_08_07		mll2291 http://www.ncbi.nlm.nih.gov/protein/13472101 carbon-monoxide dehydrogenase medium chain	6.0
+	RefSeq_complete_nr_v62_dec2013		xanthine dehydrogenase, FAD-binding subunit [Mesorhizobium sp. STM 4661]	8.0
+	COG_2013-12-27		COG1319 # C Energy production conversion Function: Aerobic-type carbon monoxide dehydrogenase, middle subunit CoxM/CutM homologs Organism: Sinorhizobium meliloti (Sme)	19.0
+	seed-2014-01-30	1.17.1.4	Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4) [Sinorhizobium meliloti A0643DD]	20.0
+	KEGG_pep_2013	1.2.99.2	molybdopterin dehydrogenase FAD-binding protein K03519 carbon-monoxide medium subunit [EC:1.2.99.2]	18.0
+
+uppermesopelagic_500m_5427_1				
+	RefSeq_complete_nr_v62_dec2013		triosephosphate isomerase [Thermoplasmatales archaeon SCGC AB-539-N05]	6.0
+
+uppermesopelagic_500m_5938_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/153003437  PFAM: protein unknown function DUF323 KEGG: DUF323	6.0
+	RefSeq_complete_nr_v62_dec2013		 [Candidatus Poribacteria sp. WGA-4E]	4.0
+	seed-2014-01-30		protein unknown function DUF323 [Methylobacterium populi BJ001]	6.0
+	KEGG_pep_2013		protein unknown function DUF323	3.0
+
+uppermesopelagic_500m_4333_1				
+	EggNog_v3_2013_08_07		BP3847 http://www.ncbi.nlm.nih.gov/protein/33594699 putative hydroxymethylglutaryl-CoA lyase Similar to Homo sapiens mitochondrial lyase precursor HMGCL (P35914) (325 aa) fasta scores: E(): 4.7e-18, 35.94% id 306 aa, Pseudomonas mevalonii MvaB (P13703) (301 7.2e-17, 36.03% 308 aa	32.0
+	RefSeq_complete_nr_v62_dec2013		4-hydroxy-2-ketovalerate aldolase [Lentibacillus jeotgali]	4.0
+	seed-2014-01-30	4.1.3.4	Hydroxymethylglutaryl-CoA lyase (EC 4.1.3.4) [Xanthomonas axonopodis pv. punicae str. LMG 859]	21.0
+	KEGG_pep_2013	4.1.3.4	hydroxymethylglutaryl-CoA lyase (EC:4.1.3.4)	13.0
+
+uppermesopelagic_500m_4332_0				
+	EggNog_v3_2013_08_07		dnaE http://www.ncbi.nlm.nih.gov/protein/78044608 DNA polymerase III DnaE catalyzes DNA-template-directed extension 3'-end strand one nucleotide time. Proposed to be responsible synthesis lagging strand. In low GC gram positive bacteria this enzyme less processive more error prone than its counterpart other bacteria.	39.0
+	RefSeq_complete_nr_v62_dec2013		DNA polymerase III subunit alpha, partial [Candidatus Arthromitus sp. SFB-5]	10.0
+	COG_2013-12-27		COG0587 # L Replication, recombination repair Function: DNA polymerase III, alpha subunit Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	19.0
+	seed-2014-01-30	2.7.7.7	DNA polymerase III alpha subunit (EC 2.7.7.7) [Arthromitus sp. SFB-3]	20.0
+	KEGG_pep_2013	2.7.7.7	DNA polymerase III, alpha subunit (EC:2.7.7.7) K02337 III [EC:2.7.7.7]	19.0
+
+uppermesopelagic_500m_4331_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/170079451 Zn-dependent hydrolase similar to glyoxylases slr1259 Synechocystis sp. PCC 6803	11.0
+	RefSeq_complete_nr_v62_dec2013		Zn-dependent hydrolase, glyoxylase [Leptolyngbya sp. PCC 7375]	7.0
+	COG_2013-12-27		COG0491 # R General function prediction only Function: Zn-dependent hydrolases, including glyoxylases Organism: Nostoc sp. PCC 7120 (Nos)	18.0
+	seed-2014-01-30	3.1.2.6	Hydroxyacylglutathione hydrolase (EC 3.1.2.6) [Leptospira licerasiae serovar Varillal str. VAR 010]	21.0
+	KEGG_pep_2013		ethe1, MGC53036 ethylmalonic encephalopathy 1	5.0
+
+uppermesopelagic_500m_4330_0				
+	EggNog_v3_2013_08_07		cbbO http://www.ncbi.nlm.nih.gov/protein/148244794 Rubisco regulator CbbO Similar to nitric-oxide reductase activation NorD protein / von Willebrand factor type A domain protein.	19.0
+	RefSeq_complete_nr_v62_dec2013		von Willebrand factor A [Thiomicrospira crunogena]	6.0
+	seed-2014-01-30		Rubisco activation protein CbbO [endosymbiont Tevnia jerichonana (vent Tica)]	8.0
+	KEGG_pep_2013		von Willebrand factor type A domain protein	6.0
+
+uppermesopelagic_500m_4335_1				
+	EggNog_v3_2013_08_07		tsf http://www.ncbi.nlm.nih.gov/protein/57234833 elongation factor Ts EF-Ts functions during stage protein translation forms dimer associates EF-Tu-GDP complex promotes exchange GDP to GTP resulting regeneration active form EF-Tu	25.0
+	RefSeq_complete_nr_v62_dec2013		translation elongation factor Ts [Leptolyngbya sp. PCC 7375]	8.0
+	COG_2013-12-27		COG0264 # J Translation, ribosomal structure biogenesis Function: Translation elongation factor Ts Organism: Aquifex aeolicus (Aae)	16.0
+	seed-2014-01-30		Translation elongation factor Ts [Gloeocapsa sp. PCC 73106]	8.0
+	KEGG_pep_2013		tsf elongation factor Ts K02357 Ts	5.0
+
+uppermesopelagic_500m_4338_0				
+	RefSeq_complete_nr_v62_dec2013		 [Verrucomicrobia bacterium SCGC AAA164-N20]	4.0
+
+uppermesopelagic_500m_958_0				
+	EggNog_v3_2013_08_07		PAE0974 http://www.ncbi.nlm.nih.gov/protein/18312321 adenylosuccinate synthetase catalyzes formation N6-(1,2,-dicarboxyethyl)-AMP from L-aspartate, inosine monophosphate GTP AMP biosynthesis	14.0
+	RefSeq_complete_nr_v62_dec2013		, partial [candidate division YNPFFA archaeon SCGC AAA471-L14]	8.0
+	COG_2013-12-27		COG0104 # F Nucleotide transport metabolism Function: Adenylosuccinate synthase Organism: Methanopyrus kandleri AV19 (Mka)	14.0
+	seed-2014-01-30	6.3.4.4	Adenylosuccinate synthetase (EC 6.3.4.4) [Pyrobaculum arsenaticum DSM 13514]	18.0
+	metacyc-v5-2011-10-21	6.3.4.4	Adenylosuccinate synthetase OS Methanocaldococcus jannaschii (strain ATCC 43067 / DSM 2661 JAL-1 JCM 10045 NBRC 100440) GN purA PE 3 SV 1 # UNIPROT Q57981 ADENYLOSUCCINATE-SYNTHASE-RXN 6.3.4.4	37.0
+	KEGG_pep_2013	6.3.4.4	adenylosuccinate synthetase (EC:6.3.4.4) K01939 synthase [EC:6.3.4.4]	16.0
+
+uppermesopelagic_500m_958_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/161528927 	1.0
+	RefSeq_complete_nr_v62_dec2013		 [Marine Group I thaumarchaeote SCGC AB-629-I23]	6.0
+	seed-2014-01-30		 [Nitrosopumilus maritimus SCM1]	3.0
+
+uppermesopelagic_500m_224_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/134099964 	1.0
+	RefSeq_complete_nr_v62_dec2013		aminotransferase [Frankia sp. Iso899]	4.0
+	seed-2014-01-30		FIG01040179:  [Saccharopolyspora erythraea NRRL 2338]	5.0
+
+uppermesopelagic_500m_226_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/251794412 cation diffusion facilitator family transporter TIGRFAM: PFAM: efflux protein KEGG: bar:GBAA1756 protein	11.0
+	RefSeq_complete_nr_v62_dec2013		cation diffusion facilitator family transporter [Anoxybacillus sp. DT3-1]	8.0
+	COG_2013-12-27		COG1230 # P Inorganic ion transport metabolism Function: Co/Zn/Cd efflux system component Organism: Escherichia coli O157:H7 EDL933 (EcZ)	18.0
+	seed-2014-01-30		Cobalt-zinc-cadmium resistance protein CzcD [Listeria monocytogenes str. Scott A]	8.0
+	KEGG_pep_2013		cation diffusion facilitator family transporter K03295 efflux system protein, CDF	10.0
+
+uppermesopelagic_500m_227_0				
+	EggNog_v3_2013_08_07		iorB http://www.ncbi.nlm.nih.gov/protein/39995311 isoquinoline 1-oxidoreductase, beta subunit Identified similarity to SP:Q51698 match protein family HMM PF02738 TIGR01409	15.0
+	RefSeq_complete_nr_v62_dec2013		isoquinoline 1-oxidoreductase [Algoriphagus sp. PR1]	5.0
+	seed-2014-01-30	1.3.99.16	Isoquinoline 1-oxidoreductase beta subunit (EC 1.3.99.16) [SAR324 cluster bacterium SCGC AAA001-C10]	21.0
+	KEGG_pep_2013	1.3.99.16	Isoquinoline 1-oxidoreductase (EC:1.3.99.16) K07303 isoquinoline 1-oxidoreductase, beta subunit [EC:1.3.99.16]	19.0
+
+uppermesopelagic_500m_222_0				
+	EggNog_v3_2013_08_07		acsA http://www.ncbi.nlm.nih.gov/protein/254784767 acetate--CoA ligase identified match to protein family HMM PF00501 TIGR02188	11.0
+	RefSeq_complete_nr_v62_dec2013		acetyl-coenzyme A synthetase 2 [Pseudomonas sp. HPB0071]	7.0
+	COG_2013-12-27		COG0365 # I Lipid transport metabolism Function: Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	19.0
+	seed-2014-01-30	6.2.1.1	Acetyl-coenzyme A synthetase (EC 6.2.1.1) [Pseudomonas aeruginosa 213BR]	18.0
+	metacyc-v5-2011-10-21	6.2.1.12	Acetyl-coenzyme A synthetase OS Escherichia coli (strain K12) GN acs PE 1 SV 2 # UNIPROT P27550 PROPIONATE--COA-LIGASE-RXN MetaCyc:ACS-MONOMER 6.2.1.12 6.2.1.17	31.0
+	KEGG_pep_2013	6.2.1.1	ACS1 acetyl CoA synthetase (EC:6.2.1.1) K01895 acetyl-CoA [EC:6.2.1.1]	18.0
+
+uppermesopelagic_500m_223_0				
+	RefSeq_complete_nr_v62_dec2013		Putative hydrolases or acyltransferases(alpha/beta hydrolase superfamily) protein [alpha proteobacterium BAL199]	9.0
+	seed-2014-01-30		Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) [Burkholderia sp. Ch1-1]	10.0
+
+uppermesopelagic_500m_5684_0				
+	EggNog_v3_2013_08_07		zwf http://www.ncbi.nlm.nih.gov/protein/62317385 glucose-6-phosphate 1-dehydrogenase catalyzes formation D-glucono-1,5-lactone 6-phosphate from D-glucose	10.0
+	RefSeq_complete_nr_v62_dec2013		glucose-6-phosphate 1-dehydrogenase, partial [Rhizobium sp. Pop5]	6.0
+	COG_2013-12-27		COG0364 # G Carbohydrate transport metabolism Function: Glucose-6-phosphate 1-dehydrogenase Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	16.0
+	seed-2014-01-30	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase (EC 1.1.1.49) [Acidiphilium sp. PM]	17.0
+	metacyc-v5-2011-10-21	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase OS Mycobacterium smegmatis (strain ATCC 700084 / mc(2)155) GN zwf PE 1 SV # UNIPROT A0QP90 GLU6PDEHYDROG-RXN 1.1.1.49	30.0
+	KEGG_pep_2013	1.1.1.49	zwf1 glucose-6-phosphate 1-dehydrogenase (EC:1.1.1.49) K00036 [EC:1.1.1.49]	16.0
+
+uppermesopelagic_500m_5685_0				
+	EggNog_v3_2013_08_07		BP3462 http://www.ncbi.nlm.nih.gov/protein/33594341  Similar to Rhizobium loti protein MLL6676 TR:Q988M5 (EMBL:AP003009) (488 aa) fasta scores: E(): 2.7e-28, 31.18% id 497 aa, meliloti SMB21161 TR:CAC49227 (EMBL:AL603645) (477 2.3e-25, 29.05% 499 aa	28.0
+	RefSeq_complete_nr_v62_dec2013		MlrC family protein 3 [Cupriavidus basilensis]	5.0
+	seed-2014-01-30		MlrC [Bordetella pertussis CS]	4.0
+	KEGG_pep_2013		MlrC family protein 3	3.0
+
+uppermesopelagic_500m_5687_1				
+	EggNog_v3_2013_08_07		fumA http://www.ncbi.nlm.nih.gov/protein/194290128 FUMARATE HYDRATASE PROTEIN Evidence 2a : Function homologous gene experimentally demonstrated other organism PubMedId 3282546 Product type e enzyme	21.0
+	RefSeq_complete_nr_v62_dec2013		fumarate hydratase, class I [Glaciecola agarilytica]	6.0
+	COG_2013-12-27		COG1838 # C Energy production conversion Function: Tartrate dehydratase beta subunit/Fumarate hydratase class I, C-terminal domain Organism: Neisseria meningitidis Z2491 (NmA)	21.0
+	seed-2014-01-30	4.2.1.2	Fumarate hydratase class I, aerobic (EC 4.2.1.2) [Burkholderia cepacia GG4]	20.0
+	KEGG_pep_2013	4.2.1.2	hydro-lyase, Fe-S type, tartrate/fumarate subfamily subunit alpha K01676 fumarate hydratase, class I [EC:4.2.1.2]	23.0
+
+uppermesopelagic_500m_5681_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/159045866 TRAP dicarboxylate transporter, DctP subunit TIGRFAM: PFAM: transporter- KEGG: pmu:PM1651 hypothetical E.coli	13.0
+	RefSeq_complete_nr_v62_dec2013		TRAP dicarboxylate transporter DctP subunit, partial [Salinisphaera shabanensis]	8.0
+	COG_2013-12-27		COG1638 # G Carbohydrate transport metabolism Function: TRAP-type C4-dicarboxylate system, periplasmic component Organism: Pasteurella multocida (Pmu)	16.0
+	seed-2014-01-30		TRAP-type C4-dicarboxylate transport system, periplasmic component [Pasteurella multocida subsp. gallicida str.	11.0
+	KEGG_pep_2013		dctP3 TRAP dicarboxylate transporter subunit DctP	6.0
+
+uppermesopelagic_500m_5682_0				
+	EggNog_v3_2013_08_07		pyrE http://www.ncbi.nlm.nih.gov/protein/77462476 orotate phosphoribosyltransferase involved fifth step pyrimidine biosynthesis converts orotidine 5'-phosphate diphosphate to 5-phospho-alpha-D-ribose 1-diphosphate	16.0
+	RefSeq_complete_nr_v62_dec2013		orotate phosphoribosyltransferase [Acidocella sp. MX-AZ02]	5.0
+	COG_2013-12-27		COG0461 # F Nucleotide transport metabolism Function: Orotate phosphoribosyltransferase Organism: Sinorhizobium meliloti (Sme)	13.0
+	seed-2014-01-30	2.4.2.10	Orotate phosphoribosyltransferase (EC 2.4.2.10) [Gluconacetobacter sp. SXCC-1]	17.0
+	metacyc-v5-2011-10-21	2.4.2.10	Orotate phosphoribosyltransferase OS Rhodobacter sphaeroides (strain KD131 / KCTC 12085) GN pyrE PE 3 SV 1 # UNIPROT B9KMA3 OROPRIBTRANS-RXN 2.4.2.10	31.0
+	KEGG_pep_2013	2.4.2.10	pyrE orotate phosphoribosyltransferase (EC:2.4.2.10) K00762 [EC:2.4.2.10]	16.0
+
+uppermesopelagic_500m_5682_1				
+	EggNog_v3_2013_08_07		dnaB http://www.ncbi.nlm.nih.gov/protein/77462475 replicative DNA helicase unwinds double stranded	8.0
+	RefSeq_complete_nr_v62_dec2013		DNA helicase [Paracoccus sp. N5]	5.0
+	seed-2014-01-30		Replicative DNA helicase (EC 3.6.1.-) [Celeribacter baekdonensis B30]	8.0
+	KEGG_pep_2013	3.6.4.12	dnaB replicative DNA helicase (EC:3.6.1.-) K02314 [EC:3.6.4.12]	17.0
+
+uppermesopelagic_500m_5688_0				
+	RefSeq_complete_nr_v62_dec2013		 [Verrucomicrobia bacterium SCGC AAA164-E04]	4.0
+	seed-2014-01-30	3.5.2.3	Dihydroorotase (EC 3.5.2.3) [Chthoniobacter flavus Ellin428]	16.0
+
+uppermesopelagic_500m_5689_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/222479158 2-methylcitrate synthase/citrate synthase II TIGRFAM: PFAM: Citrate synthase KEGG: nph:NP1314A citrate (si)-synthase	12.0
+	RefSeq_complete_nr_v62_dec2013		2-methylcitrate synthase/citrate synthase II [Halococcus saccharolyticus]	6.0
+	COG_2013-12-27		COG0372 # C Energy production conversion Function: Citrate synthase Organism: Archaeoglobus fulgidus (Afu)	13.0
+	seed-2014-01-30	2.3.3.1	Citrate synthase (si) (EC 2.3.3.1) [Schlesneria paludicola DSM 18645]	19.0
+	KEGG_pep_2013	2.3.3.1	2-methylcitrate synthase/citrate synthase II (EC:2.3.3.1) K01647 citrate [EC:2.3.3.1]	18.0
+
+uppermesopelagic_500m_2144_0				
+	RefSeq_complete_nr_v62_dec2013		 [candidate division pSL4 archaeon SCGC AAA471-G05]	6.0
+
+uppermesopelagic_500m_2145_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/108760695 deoxyhypusine synthase family protein Hypusine modified amino acid found eukarya archaea, but as yet unknown prokarya. identified match to protein HMM PF01916	21.0
+	RefSeq_complete_nr_v62_dec2013		deoxyhypusine synthase [Gillisia sp. CBA3202]	5.0
+	seed-2014-01-30	2.5.1.46	Deoxyhypusine synthase (EC 2.5.1.46) [Myroides injenensis M09-0166]	17.0
+	KEGG_pep_2013	2.5.1.46	dys  (EC:2.5.1.46) K00809 deoxyhypusine synthase [EC:2.5.1.46]	16.0
+
+uppermesopelagic_500m_8553_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/196155740 BNR/Asp-box repeat protein	3.0
+	RefSeq_complete_nr_v62_dec2013		Glycosyl hydrolase, BNR repeat precursor [Indibacter alkaliphilus]	7.0
+	seed-2014-01-30		Glycosyl hydrolase, BNR repeat precursor [Alteromonas macleodii str. 'Black Sea 11']	11.0
+	KEGG_pep_2013		BNR/Asp-box repeat-containing protein	2.0
+
+uppermesopelagic_500m_6791_0				
+	EggNog_v3_2013_08_07		apt http://www.ncbi.nlm.nih.gov/protein/78043664 adenine phosphoribosyltransferase catalyzes salvage reaction resulting formation AMP which metabolically less costly than de novo synthesis	18.0
+	RefSeq_complete_nr_v62_dec2013		adenine phosphoribosyltransferase [Leptolyngbya sp. PCC 6406]	6.0
+	COG_2013-12-27		COG0503 # F Nucleotide transport metabolism Function: Adenine/guanine phosphoribosyltransferases related PRPP-binding proteins Organism: Escherichia coli O157:H7 (Ecs)	17.0
+	seed-2014-01-30	2.4.2.7	Adenine phosphoribosyltransferase (EC 2.4.2.7) [Streptococcus constellatus subsp. pharyngis SK1060 CCUG 46377]	21.0
+	metacyc-v5-2011-10-21	2.4.2.7	Adenine phosphoribosyltransferase OS Desulfovibrio magneticus (strain ATCC 700980 / DSM 13731 RS-1) GN apt PE 3 SV 1 # UNIPROT C4XU70 ADENPRIBOSYLTRAN-RXN 2.4.2.7	33.0
+	KEGG_pep_2013	2.4.2.7	APT1 APT1 (ADENINE PHOSPHORIBOSYL TRANSFERASE 1) adenine phosphoribosyltransferase (EC:2.4.2.7) K00759 [EC:2.4.2.7]	20.0
+
+uppermesopelagic_500m_8550_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR406 cluster bacterium SCGC AB-629-J13]	5.0
+
+uppermesopelagic_500m_6795_0				
+	RefSeq_complete_nr_v62_dec2013		tRNA pseudouridine synthase A [SAR324 cluster bacterium JCVI-SC AAA005]	9.0
+	seed-2014-01-30	4.2.1.70	tRNA pseudouridine synthase A (EC 4.2.1.70) [SAR324 cluster bacterium SCGC AAA001-C10]	21.0
+
+uppermesopelagic_500m_6794_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/209885816 enoyl-CoA hydratase Catalyzes reversible hydration unsaturated fatty acyl-CoA to beta-hydroxyacyl-CoA	11.0
+	RefSeq_complete_nr_v62_dec2013		enoyl-CoA hydratase [Afipia sp. 1NLS2]	5.0
+	seed-2014-01-30	4.2.1.17	Enoyl-CoA hydratase (EC 4.2.1.17) [Parvibaculum lavamentivorans DS-1]	17.0
+	KEGG_pep_2013	4.2.1.17	enoyL-CoA hydratase/isomerase K01692 enoyl-CoA hydratase [EC:4.2.1.17]	16.0
+
+uppermesopelagic_500m_6794_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/134287762 creatininase PFAM: Creatininase KEGG: amidase-like protein	6.0
+	RefSeq_complete_nr_v62_dec2013		creatininase subfamily, putative [Labrenzia alexandrii]	5.0
+	COG_2013-12-27		COG1402 # R General function prediction only Function: Uncharacterized protein, putative amidase Organism: Mesorhizobium loti (Mlo)	16.0
+	seed-2014-01-30	3.5.2.10	Creatinine amidohydrolase (EC 3.5.2.10) [Zavarzinella formosa DSM 19928]	18.0
+	metacyc-v5-2011-10-21	3.5.2.10	Creatininase subfamily, putative OS Labrenzia alexandrii DFL-11 GN PE 4 SV 1 # UNIPROT B9QSU7 CREATININASE-RXN 3.5.2.10	27.0
+	KEGG_pep_2013		creatininase	1.0
+
+uppermesopelagic_500m_8559_0				
+	RefSeq_complete_nr_v62_dec2013		acyl-coenzyme A:6-aminopenicillanic acid acyl-transferase family protein 2 [Nitratireductor aquibiodomus]	8.0
+	seed-2014-01-30		 [Nitratireductor aquibiodomus RA22]	3.0
+
+uppermesopelagic_500m_6765_1				
+	RefSeq_complete_nr_v62_dec2013		acyl-CoA synthetase [Rhizobium sp. CF142]	5.0
+	seed-2014-01-30	6.2.1.1	probable acyl-CoA synthetase protein( EC:6.2.1.1 ) [Streptomyces hygroscopicus ATCC 53653]	20.0
+
+uppermesopelagic_500m_6762_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/120553532 TetR family transcriptional regulator PFAM: regulatory protein, TetR KEGG: regulator,	10.0
+	RefSeq_complete_nr_v62_dec2013		TetR family transcriptional regulator [Alcanivorax hongdengensis]	6.0
+	seed-2014-01-30		Transcriptional regulator, TetR family [Acinetobacter sp. NBRC 100985]	8.0
+	KEGG_pep_2013		TetR family transcriptional regulator	4.0
+
+uppermesopelagic_500m_6763_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/126175014 TRAP dicarboxylate transporter, DctM subunit TIGRFAM: PFAM: Citrate transporter C4-dicarboxylate transport system permease KEGG: subunit	15.0
+	RefSeq_complete_nr_v62_dec2013		C4-dicarboxylate ABC transporter permease [Gallaecimonas xiamenensis]	6.0
+	COG_2013-12-27		COG1593 # G Carbohydrate transport metabolism Function: TRAP-type C4-dicarboxylate system, large permease component Organism: Pasteurella multocida (Pmu)	17.0
+	seed-2014-01-30		TRAP-type C4-dicarboxylate transport system, large permease component [Pseudomonas aeruginosa 213BR]	10.0
+	KEGG_pep_2013		TRAP-type C4-dicarboxylate transporter large permease K11690 transporter, DctM subunit	9.0
+
+uppermesopelagic_500m_6245_0				
+	EggNog_v3_2013_08_07		FRAAL4772 http://www.ncbi.nlm.nih.gov/protein/111224162 putative enoyl-CoA hydratase/isomerase family protein Evidence 3 : Function proposed based presence conserved amino acid motif, structural feature or limited homology Product type e enzyme	25.0
+	RefSeq_complete_nr_v62_dec2013		enoyl-CoA hydratase [Glaciecola arctica]	4.0
+	COG_2013-12-27		COG1024 # I Lipid transport metabolism Function: Enoyl-CoA hydratase/carnithine racemase Organism: Pseudomonas aeruginosa (Pae)	14.0
+	seed-2014-01-30	4.2.1.17	Enoyl-CoA hydratase (EC 4.2.1.17) [Alteromonas macleodii str. 'Balearic Sea AD45']	20.0
+	KEGG_pep_2013	4.2.1.17	enoyl-CoA hydratase/isomerase (EC:4.2.1.17) K01692 hydratase [EC:4.2.1.17]	16.0
+
+uppermesopelagic_500m_6245_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/196155982 enoyl-CoA hydratase/isomerase family protein COG1024, CaiD, Enoyl-CoA hydratase/carnithine racemase [Lipid metabolism]	11.0
+	RefSeq_complete_nr_v62_dec2013		enoyl-CoA hydratase [Alteromonas macleodii]	4.0
+	COG_2013-12-27		COG1024 # I Lipid transport metabolism Function: Enoyl-CoA hydratase/carnithine racemase Organism: Caulobacter vibrioides (Ccr)	14.0
+	seed-2014-01-30	4.2.1.17	Enoyl-CoA hydratase (EC 4.2.1.17) [Alteromonas macleodii str. 'English Channel 673']	20.0
+	KEGG_pep_2013	4.2.1.17	enoyl-CoA hydratase/isomerase family protein K01692 hydratase [EC:4.2.1.17]	16.0
+
+uppermesopelagic_500m_6244_1				
+	EggNog_v3_2013_08_07		fliG http://www.ncbi.nlm.nih.gov/protein/188576977 flagellar motor switch protein FliG	6.0
+	RefSeq_complete_nr_v62_dec2013		flagellar motor switch protein G [Pseudomonas sp. M1]	7.0
+	COG_2013-12-27		COG1536 # N Cell motility Function: Flagellar motor switch protein Organism: Yersinia pestis (Ype)	13.0
+	seed-2014-01-30		Flagellar motor switch protein FliG [endosymbiont Tevnia jerichonana (vent Tica)]	9.0
+	KEGG_pep_2013		fliG flagellar motor switch protein flig K02410 FliG	7.0
+
+uppermesopelagic_500m_6247_0				
+	RefSeq_complete_nr_v62_dec2013		tripartite ATP-independent periplasmic transporter, DctQ component [Citreicella sp. SE45]	9.0
+	seed-2014-01-30		Tripartite ATP-independent periplasmic transporter, DctQ component [Citreicella sp. SE45]	9.0
+
+uppermesopelagic_500m_6247_1				
+	RefSeq_complete_nr_v62_dec2013		transcriptional regulator, IclR family [Citreicella sp. SE45]	7.0
+	seed-2014-01-30		transcriptional regulator, IclR family [Citreicella sp. SE45]	7.0
+
+uppermesopelagic_500m_6246_0				
+	RefSeq_complete_nr_v62_dec2013		, partial [SAR324 cluster bacterium SCGC AAA240-J09]	7.0
+
+uppermesopelagic_500m_6243_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR324 cluster bacterium SCGC AAA240-J09]	5.0
+	seed-2014-01-30		Transcription termination protein NusA [SAR324 cluster bacterium SCGC AAA240-J09]	8.0
+
+uppermesopelagic_500m_6248_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/159046718  PFAM: protein unknown function DUF112 transmembrane KEGG: oih:OB3268	8.0
+	RefSeq_complete_nr_v62_dec2013		 [gamma proteobacterium SCGC AB-629-K02]	4.0
+	seed-2014-01-30		Tricarboxylate transport membrane protein TctA [Thalassospira xiamenensis M-5 DSM 17429]	9.0
+	KEGG_pep_2013		 K07793 putative tricarboxylic transport membrane protein	5.0
+
+uppermesopelagic_500m_6300_0				
+	EggNog_v3_2013_08_07		xylA http://www.ncbi.nlm.nih.gov/protein/255767417 xylose isomerase Evidence 1a: Function experimentally demonstrated studied strain PubMedId: 7663444, 8132469 Product type e: enzyme	18.0
+	RefSeq_complete_nr_v62_dec2013		xylose isomerase [Rhodopirellula sp. SWK7]	5.0
+	COG_2013-12-27		COG2115 # G Carbohydrate transport metabolism Function: Xylose isomerase Organism: Sinorhizobium meliloti (Sme)	13.0
+	seed-2014-01-30	5.3.1.5	Xylose isomerase (EC 5.3.1.5) [Bacillus subtilis subsp. RO-NN-1]	18.0
+	metacyc-v5-2011-10-21	5.3.1.5	Xylose isomerase OS Lactococcus lactis subsp. GN xylA PE 3 SV 1 # UNIPROT Q9CFG7 XYLISOM-RXN LLAC272623:L0230-MONOMER 5.3.1.5	28.0
+	KEGG_pep_2013	5.3.1.5	Xylose isomerase, putative (EC:5.3.1.5) K01805 xylose isomerase [EC:5.3.1.5]	18.0
+
+uppermesopelagic_500m_6303_0				
+	RefSeq_complete_nr_v62_dec2013		, partial [Chloroflexi bacterium SCGC AB-629-P13]	6.0
+
+uppermesopelagic_500m_6304_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/89055136 isoprenylcysteine carboxyl methyltransferase family protein	5.0
+	RefSeq_complete_nr_v62_dec2013		isoprenylcysteine carboxyl methyltransferase family protein [Jannaschia sp. CCS1]	7.0
+	seed-2014-01-30		putative protein-S-isoprenylcysteine methyltransferase [Fulvimarina pelagi HTCC2506]	6.0
+	KEGG_pep_2013		isoprenylcysteine carboxyl methyltransferase family protein	4.0
+
+uppermesopelagic_500m_6304_1				
+	RefSeq_complete_nr_v62_dec2013		conserved hypothetical membrane protein GGDEF domain [Aurantimonas manganoxydans]	6.0
+	seed-2014-01-30		diguanylate cyclase PAS/PAC sensor [Aurantimonas sp. SI85-9A1]	7.0
+
+uppermesopelagic_500m_6305_1				
+	EggNog_v3_2013_08_07		nusA http://www.ncbi.nlm.nih.gov/protein/82702986 transcription elongation factor NusA modifies through interactions RNA polymerase affecting elongation, readthrough, termination, antitermination	16.0
+	RefSeq_complete_nr_v62_dec2013		transcription elongation factor NusA [Marinobacter santoriniensis]	6.0
+	COG_2013-12-27		COG0195 # K Transcription Function: elongation factor Organism: Neisseria meningitidis MC58 (Nme)	12.0
+	seed-2014-01-30		Transcription termination protein NusA [endosymbiont Tevnia jerichonana (vent Tica)]	8.0
+	KEGG_pep_2013		nusA transcription elongation factor NusA K02600 N utilization substance protein A	10.0
+
+uppermesopelagic_500m_6308_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/269128808 coenzyme A transferase PFAM: KEGG: acyl CoA:acetate/3-ketoacid CoA transferase,alpha subunit	11.0
+	RefSeq_complete_nr_v62_dec2013		coenzyme A transferase [Nocardioides sp. CF8]	6.0
+	seed-2014-01-30		Putative CoA-transferase subunit alpha Rv3551/MT3655 (EC 2.8.3.-) [Streptomyces chartreusis NRRL 12338]	11.0
+	KEGG_pep_2013		coenzyme A transferase K01041 [EC:2.8.3.-]	5.0
+
+uppermesopelagic_500m_6308_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/269128809 coenzyme A transferase PFAM: KEGG: pha:PSHAa0902 acyl CoA:acetate/3-ketoacid CoA transferase, beta subunit	13.0
+	RefSeq_complete_nr_v62_dec2013		CoA-transferase subunit beta [Streptomyces globisporus]	5.0
+	seed-2014-01-30		Putative CoA-transferase subunit beta Rv3552/MT3656 (EC 2.8.3.-) [Conexibacter woesei DSM 14684]	11.0
+	KEGG_pep_2013		CoA transferase subunit beta	4.0
+
+uppermesopelagic_500m_6309_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR202 cluster bacterium SCGC AAA240-N13]	5.0
+
+uppermesopelagic_500m_3969_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/194366431 ABC transporter related PFAM: SMART: AAA ATPase KEGG: xac:XAC1459 ATP-binding protein	11.0
+	RefSeq_complete_nr_v62_dec2013		multidrug ABC transporter ATPase permease, partial [Pontibacter sp. BAB1700]	9.0
+	seed-2014-01-30		Lipid A export ATP-binding/permease protein MsbA [Xanthomonas axonopodis pv. punicae str. LMG 859]	12.0
+	KEGG_pep_2013		ABC transporter related K06147 ATP-binding cassette, subfamily B, bacterial	9.0
+
+uppermesopelagic_500m_3967_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/261408291 short-chain dehydrogenase/reductase SDR PFAM: KR domain protein NAD-dependent epimerase/dehydratase KEGG: oih:OB3310 oxidoreductase	12.0
+	RefSeq_complete_nr_v62_dec2013		3-oxoacyl-[acyl-carrier protein] reductase [Cyclobacteriaceae bacterium AK24]	6.0
+	seed-2014-01-30	1.1.1.100	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100) [marine gamma proteobacterium HTCC2143]	19.0
+	KEGG_pep_2013		short-chain dehydrogenase/reductase sdr	3.0
+
+uppermesopelagic_500m_3966_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/83648640  COG5345	2.0
+	RefSeq_complete_nr_v62_dec2013		 [Pseudomonas sp. HPB0071]	3.0
+	COG_2013-12-27		COG5345 # S Function unknown Function: Uncharacterized protein conserved bacteria Organism: Pseudomonas aeruginosa (Pae)	12.0
+	seed-2014-01-30		FIG00954774:  [Pseudomonas chlororaphis O6]	4.0
+
+uppermesopelagic_500m_3965_0				
+	EggNog_v3_2013_08_07		dld http://www.ncbi.nlm.nih.gov/protein/194290651 D-LACTATE DEHYDROGENASE (CYTOCHROME) OXIDOREDUCTASE PROTEIN Evidence 2b : Function strongly homologous gene Product type e enzyme	18.0
+	RefSeq_complete_nr_v62_dec2013		putative glycolate oxidase, subunit GlcD, partial [Burkholderia multivorans]	8.0
+	COG_2013-12-27		COG0277 # C Energy production conversion Function: FAD/FMN-containing dehydrogenases Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	16.0
+	seed-2014-01-30	1.1.2.4	D-Lactate dehydrogenase, cytochrome c-dependent (EC 1.1.2.4) [Sphingomonas sp. KC8]	19.0
+	metacyc-v5-2011-10-21		Probable D-lactate dehydrogenase, mitochondrial OS Homo sapiens GN LDHD PE 1 SV # UNIPROT Q86WU2 DLACTDEHYDROGFAD-RXN MetaCyc:MONOMER-12892	17.0
+	KEGG_pep_2013	1.1.2.4	Ldhd, 4733401P21Rik, D8Bwg1320e lactate dehydrogenase D (EC:1.1.2.4) K00102 D-lactate (cytochrome) [EC:1.1.2.4]	21.0
+
+uppermesopelagic_500m_3963_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/99082733 ABC transporter related PFAM: transporter, transmembrane region: (6.9e-06) related: (7e-54) SMART: ATPase: (2.3e-20) KEGG: sil:SPO0028 ATP-binding protein, ev 0.0, 70% identity	22.0
+	RefSeq_complete_nr_v62_dec2013		ABC transporter, transmembrane ATP-binding protein [Rhodobacter sp. AKP1]	7.0
+	seed-2014-01-30		ABC transporter, transmembrane ATP-binding protein [Donghicola sp. S598]	7.0
+	KEGG_pep_2013		ABC transporter, transmembrane ATP-binding protein K06147 cassette, subfamily B, bacterial	9.0
+
+uppermesopelagic_500m_3962_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR324 cluster bacterium SCGC AB-629-O05]	5.0
+
+uppermesopelagic_500m_3961_0				
+	RefSeq_complete_nr_v62_dec2013		multicopper oxidase-like protein [Marinobacter santoriniensis]	4.0
+	seed-2014-01-30		 [Thioflavicoccus mobilis 8321]	3.0
+
+uppermesopelagic_500m_655_0				
+	EggNog_v3_2013_08_07		secA http://www.ncbi.nlm.nih.gov/protein/145294922 preprotein translocase subunit SecA functions protein export interact acidic membrane phospholipids SecYEG complex binds to preproteins ATP undergoes conformational change promote insertion SecA/bound preprotein hydrolysis appears drive release from SecA deinsertion membrane additional proteins SecD/F/YajC aid recycling exists equilibrium between monomers dimers may possibly form higher order oligomers some organisms, there are paralogous that been found be nonessential but do function secretion subset exported	62.0
+	RefSeq_complete_nr_v62_dec2013		Protein export cytoplasm protein SecA ATPase RNA helicase [Caenispirillum salinarum]	9.0
+	COG_2013-12-27		COG0653 # U Intracellular trafficking, secretion, vesicular transport Function: Preprotein translocase subunit SecA (ATPase, RNA helicase) Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	23.0
+	seed-2014-01-30		Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1) [Bifidobacterium longum subsp. KACC 91563]	14.0
+	KEGG_pep_2013		secA, azi, div preprotein translocase subunit SecA K03070 SecA	8.0
+
+uppermesopelagic_500m_654_0				
+	RefSeq_complete_nr_v62_dec2013		GDP-D-mannose dehydratase [Blastococcus saxobsidens]	4.0
+	seed-2014-01-30	5.1.3.2	UDP-glucose 4-epimerase (EC 5.1.3.2) [Blastococcus saxobsidens DD2]	17.0
+
+uppermesopelagic_500m_654_1				
+	EggNog_v3_2013_08_07		FRAAL5662 http://www.ncbi.nlm.nih.gov/protein/111225022 putative GDP-D-mannose dehydratase Evidence 3 : Function proposed based presence conserved amino acid motif, structural feature or limited homology Product type e enzyme	24.0
+	RefSeq_complete_nr_v62_dec2013		GDP-D-mannose dehydratase [Corynebacterium-like bacterium B27]	5.0
+	seed-2014-01-30	5.1.3.2	UDP-glucose 4-epimerase (EC 5.1.3.2) [Frankia sp. EuI1c]	17.0
+	KEGG_pep_2013	4.2.1.46	putative GDP-D-mannose dehydratase (EC:4.2.1.46) K01710 dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]	18.0
+
+uppermesopelagic_500m_875_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/71281720  identified similarity to GP:28808723	5.0
+	RefSeq_complete_nr_v62_dec2013		 [marine gamma proteobacterium HTCC2143]	4.0
+	seed-2014-01-30		Outer membrane lipoprotein-sorting protein [marine gamma proteobacterium HTCC2143]	7.0
+
+uppermesopelagic_500m_650_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/154250886 helicase c2 SMART: KEGG: mag:amb3608 Rad3-related DNA	8.0
+	RefSeq_complete_nr_v62_dec2013		DNA helicase [Parvibaculum lavamentivorans]	4.0
+	seed-2014-01-30		DinG family ATP-dependent helicase YoaA [Parvibaculum lavamentivorans DS-1]	8.0
+	KEGG_pep_2013	3.6.4.12	helicase C2 K03722 ATP-dependent DNA DinG [EC:3.6.4.12]	17.0
+
+uppermesopelagic_500m_876_0				
+	RefSeq_complete_nr_v62_dec2013		flagellar hook capping protein [SAR324 cluster bacterium SCGC AAA001-C10]	8.0
+	seed-2014-01-30		Flagellar basal-body rod modification protein FlgD [SAR324 cluster bacterium SCGC AAA240-J09]	10.0
+
+uppermesopelagic_500m_6670_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/83592994 diguanylate phosphodiesterase	3.0
+	RefSeq_complete_nr_v62_dec2013		diguanylate phosphodiesterase [Rhodospirillum rubrum]	4.0
+	seed-2014-01-30		Sensory box/GGDEF family protein [Thalassospira xiamenensis M-5 DSM 17429]	8.0
+	KEGG_pep_2013		diguanylate phosphodiesterase	2.0
+
+uppermesopelagic_500m_2151_0				
+	EggNog_v3_2013_08_07		RB3482 http://www.ncbi.nlm.nih.gov/protein/32472540 general secretion pathway protein E PMID: 1944223 best DB hits: BLAST: pir:D82672 secretory E XF1517 [imported] - 1e-114 swissprot:P31742 GENERAL SECRETION PATHWAY PROTEIN 1e-110 pir:T12056 xpsE - Xanthomonas campestris pv. campestris COG: XF1517 COG2804 Predicted ATPases involved pili biogenesis, PilB 1e-115 PFAM: PF00004 ATPase family associated variou 0.13 PF00448 SRP54-type protein, GTPase domain 0.038 PF00437 Bacterial type II system p 8.8e-156	58.0
+	RefSeq_complete_nr_v62_dec2013		type II secretory pathway, ATPase PulE/Tfp pilus assembly PilB, partial [Brevibacillus sp. CF112]	13.0
+	COG_2013-12-27		COG2804 # NU Function: Type II secretory pathway, ATPase PulE/Tfp pilus assembly PilB Organism: Neisseria meningitidis Z2491 (NmA)	18.0
+	seed-2014-01-30		Type IV fimbrial assembly, ATPase PilB [Solibacillus silvestris StLB046]	9.0
+	KEGG_pep_2013		type II secretion system protein E K02652 IV pilus assembly PilB	10.0
+
+uppermesopelagic_500m_2151_1				
+	EggNog_v3_2013_08_07		GspE http://www.ncbi.nlm.nih.gov/protein/20807711 pili biogenesis protein PilB-like ATPase Best Blastp hit gi|7471913|pir||C75333 general secretion pathway E - Deinococcus radiodurans (strain R1) (AE002034) [Deinococcus radiodurans], score 429, E-value 1.00E-119	26.0
+	RefSeq_complete_nr_v62_dec2013		Type II secretory pathway ATPase [Xanthomonas translucens]	7.0
+	COG_2013-12-27		COG2804 # NU Function: Type II secretory pathway, ATPase PulE/Tfp pilus assembly PilB Organism: Escherichia coli K12 (Eco)	18.0
+	seed-2014-01-30		Type IV fimbrial assembly, ATPase PilB [endosymbiont Tevnia jerichonana (vent Tica)]	11.0
+	KEGG_pep_2013		type II secretion system protein E K02652 IV pilus assembly PilB	10.0
+
+uppermesopelagic_500m_2153_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR202 cluster bacterium SCGC AAA240-N13]	5.0
+
+uppermesopelagic_500m_2155_0				
+	EggNog_v3_2013_08_07	1.15.1.1	sodA http://www.ncbi.nlm.nih.gov/protein/32474407 Mn family superoxide dismutase PMID: 1089067 3520487 best DB hits: BLAST: pir:B75415 dismutase (EC 1.15.1.1) (Mn) DR1279 E 7e-82 ddbj:BAB05128.1 (AP001511) [Bacillus 3e-75 embl:CAA05291.1 (AJ002279) manganese 9e-75 COG: COG0605 Superoxide 6e-83 PFAM: PF00081 Iron/manganese dismutases 2.4e-53 PF02777 5.3e-69	49.0
+	RefSeq_complete_nr_v62_dec2013		iron/manganese superoxide dismutase, alpha-hairpin domain protein, partial [Candidatus Nitrosopumilus salaria]	10.0
+	COG_2013-12-27		COG0605 # P Inorganic ion transport metabolism Function: Superoxide dismutase Organism: Pseudomonas aeruginosa (Pae)	14.0
+	seed-2014-01-30	1.15.1.1	Manganese superoxide dismutase (EC 1.15.1.1) [Bacillus subtilis subsp. spizizenii DV1-B-1]	20.0
+	metacyc-v5-2011-10-21	1.15.1.1	Superoxide dismutase [Mn] OS Haemophilus influenzae (strain ATCC 51907 / DSM 11121 KW20 Rd) GN sodA PE 1 SV 2 # UNIPROT P43725 SUPEROX-DISMUT-RXN 1.15.1.1	35.0
+	KEGG_pep_2013	1.15.1.1	superoxide dismutase [Mn], mitochondrial precursor K04564 dismutase, Fe-Mn family [EC:1.15.1.1]	20.0
+
+uppermesopelagic_500m_2157_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/269837136 acetyl-CoA carboxylase, carboxyl transferase, beta subunit TIGRFAM: alpha PFAM: carboxylase transferase KEGG: subunit	13.0
+	RefSeq_complete_nr_v62_dec2013		carboxyltransferase [Sphaerobacter thermophilus]	3.0
+	seed-2014-01-30	6.4.1.2	Acetyl-coenzyme A carboxyl transferase alpha chain (EC 6.4.1.2) / beta [Sphaerobacter thermophilus DSM 20745]	24.0
+	KEGG_pep_2013		acetyl-CoA carboxylase, carboxyl transferase, beta subunit	6.0
+
+uppermesopelagic_500m_2159_0				
+	RefSeq_complete_nr_v62_dec2013		amino acid permease-associated region [Melioribacter roseus]	6.0
+	seed-2014-01-30		amino acid transporter [Singulisphaera acidiphila DSM 18658]	7.0
+	KEGG_pep_2013		amino acid permease-associated region K03294 basic acid/polyamine antiporter, APA family	10.0
+
+uppermesopelagic_500m_2158_0				
+	RefSeq_complete_nr_v62_dec2013		 [Verrucomicrobia bacterium SCGC AAA164-E04]	4.0
+
+uppermesopelagic_500m_2488_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/256371818 Propionyl-CoA carboxylase PFAM: carboxyl transferase KEGG: propionyl-CoA carboxylase	8.0
+	RefSeq_complete_nr_v62_dec2013		acetyl-CoA carboxylase [Acidimicrobium ferrooxidans]	4.0
+	seed-2014-01-30	6.4.1.4	Methylcrotonyl-CoA carboxylase carboxyl transferase subunit (EC 6.4.1.4) [Acidimicrobium ferrooxidans DSM 10331]	21.0
+	KEGG_pep_2013	6.4.1.3	Propionyl-CoA carboxylase (EC:6.4.1.3)	13.0
+
+uppermesopelagic_500m_2480_0				
+	RefSeq_complete_nr_v62_dec2013		 [Verrucomicrobia bacterium SCGC AAA164-M04]	4.0
+	seed-2014-01-30		TonB-like [Verrucomicrobia bacterium SCGC AAA164-L15]	5.0
+
+uppermesopelagic_500m_2487_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/118581503 Beta-hydroxyacyl-(acyl-carrier-protein) dehydratase, FabA/FabZ PFAM: beta-ketoacyl synthase acyl transferase domain protein KEGG: sco:SCO0127 multi-domain beta keto-acyl synthase	15.0
+	RefSeq_complete_nr_v62_dec2013		Beta-hydroxyacyl-(acyl-carrier-protein) dehydratase, FabA/FabZ [Desulfuromonas acetoxidans]	5.0
+	seed-2014-01-30		omega-3 polyunsaturated fatty acid synthase subunit, PfaB / PfaC [Pelobacter propionicus DSM 2379]	13.0
+	KEGG_pep_2013		beta-hydroxyacyl-(acyl-carrier-protein) dehydratase, FabA/FabZ	3.0
+
+uppermesopelagic_500m_6876_0				
+	EggNog_v3_2013_08_07		Mb0588c http://www.ncbi.nlm.nih.gov/protein/31791755 nicotinate phosphoribosyltransferase catalyzes formation 5-phospho-alpha-D-ribose 1-diphosphate from D-ribonucleotide diphosphate	11.0
+	RefSeq_complete_nr_v62_dec2013		nicotinate phosphoribosyltransferase [Marinobacter nanhaiticus]	4.0
+	COG_2013-12-27		COG1488 # H Coenzyme transport metabolism Function: Nicotinic acid phosphoribosyltransferase Organism: Mycobacterium tuberculosis H37Rv (Mtu)	15.0
+	seed-2014-01-30	2.4.2.11	Nicotinate phosphoribosyltransferase (EC 2.4.2.11) [Mycobacterium tuberculosis OSDD518]	17.0
+	metacyc-v5-2011-10-21	2.4.2.11	Nicotinate phosphoribosyltransferase pncB2 OS Mycobacterium tuberculosis GN PE 2 SV 1 # UNIPROT O53770 NICOTINATEPRIBOSYLTRANS-RXN 2.4.2.11	26.0
+	KEGG_pep_2013	2.4.2.11	pncB nicotinate phosphoribosyltransferase (EC:2.4.2.11) K00763 [EC:2.4.2.11]	16.0
+
+uppermesopelagic_500m_6876_1				
+	RefSeq_complete_nr_v62_dec2013		 [Alcanivorax sp. DG881]	3.0
+	seed-2014-01-30		Conserved secreted protein [Alcanivorax dieselolei B5]	5.0
+
+uppermesopelagic_500m_6877_0				
+	EggNog_v3_2013_08_07		xerD http://www.ncbi.nlm.nih.gov/protein/77463394 integrase/recombinase XerD COG4974. XerD recombinases, which belong to lambda integrase family tyrosine site-specific recombinases. The Xer recombination system involved stable maintenance replicons (certain plasmids chromosomes) E. coli Citation: Blakely G, May McCulloch R, Arciszewska LK, Burke M, Lovett ST, Sherratt DJ. (1993) Cell. 75(2):351-61.	45.0
+	RefSeq_complete_nr_v62_dec2013		Tyrosine recombinase XerD [Rhodobacter sp. AKP1]	6.0
+	COG_2013-12-27		COG4974 # L Replication, recombination repair Function: Site-specific recombinase XerD Organism: Brucella melitensis (Bme)	14.0
+	seed-2014-01-30		Tyrosine recombinase XerD [Agrobacterium tumefaciens F2]	6.0
+	KEGG_pep_2013		phage integrase family protein K04763 integrase/recombinase XerD	6.0
+
+uppermesopelagic_500m_6874_1				
+	EggNog_v3_2013_08_07		SPO2255 http://www.ncbi.nlm.nih.gov/protein/56697117  identified similarity to GB:CAE27342.1	6.0
+	RefSeq_complete_nr_v62_dec2013		phage conserved , putative [Ruegeria sp. R11]	6.0
+	seed-2014-01-30		Gene Transfer Agent (GTA) ORFG10b [Roseovarius sp. HTCC2601]	8.0
+
+uppermesopelagic_500m_6875_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/161528056 3-phosphoshikimate 1-carboxyvinyltransferase KEGG: AroA TIGRFAM: PFAM: EPSP synthase (3-phosphoshikimate 1-carboxyvinyltransferase)	11.0
+	RefSeq_complete_nr_v62_dec2013		, partial [Marine Group I thaumarchaeote SCGC AB-629-I23]	8.0
+	seed-2014-01-30	2.5.1.19	5-Enolpyruvylshikimate-3-phosphate synthase (EC 2.5.1.19) # AroF [Nitrosopumilus maritimus SCM1]	19.0
+	metacyc-v5-2011-10-21	2.5.1.19	Probable 3-phosphoshikimate 1-carboxyvinyltransferase OS Methanosphaera stadtmanae (strain DSM 3091) GN aroA PE 3 SV 1 # UNIPROT Q2NH05 2.5.1.19-RXN 2.5.1.19	30.0
+	KEGG_pep_2013	2.5.1.19	5-enolpyruvylshikimate-3-phosphate synthase (EC:2.5.1.19) K00800 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	17.0
+
+uppermesopelagic_500m_6872_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/153010106 binding-protein-dependent transport systems inner membrane component PFAM: KEGG: mlo:mll5126 ABC transporter, permease protein	13.0
+	RefSeq_complete_nr_v62_dec2013		binding-protein-dependent transport systems inner membrane component [Spiribacter salinus]	8.0
+	COG_2013-12-27		COG0601 # EP Function: ABC-type dipeptide/oligopeptide/nickel transport systems, permease components Organism: Sinorhizobium meliloti (Sme)	14.0
+	seed-2014-01-30		cell processes transport small molecules [Agrobacterium radiobacter K84]	8.0
+	KEGG_pep_2013		binding-protein-dependent transport systems inner membrane component K02033 peptide/nickel system permease protein	10.0
+
+uppermesopelagic_500m_6871_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR406 cluster bacterium SCGC AAA298-D23]	5.0
+
+uppermesopelagic_500m_6878_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/161528000 uroporphyrin-III C-methyltransferase TIGRFAM: PFAM: Uroporphyrin-III C/tetrapyrrole (Corrin/Porphyrin) methyltransferase KEGG: neu:NE0532 uroporphyrinogen-III methylase	13.0
+	RefSeq_complete_nr_v62_dec2013		uroporphyrin-III C-methyltransferase [Marine Group I thaumarchaeote SCGC AB-629-I23]	8.0
+	seed-2014-01-30	2.1.1.107	Uroporphyrinogen-III methyltransferase (EC 2.1.1.107) [Prochlorococcus marinus str. AS9601]	18.0
+	KEGG_pep_2013	2.1.1.107	cysG putative uroporphyrin-III C-methyltransferase (EC:2.1.1.107) K02303 [EC:2.1.1.107]	17.0
+
+uppermesopelagic_500m_6878_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/161528001 uroporphyrinogen III synthase HEM4 PFAM: Uroporphyrinogen KEGG: uroporphyrin-III C-methyltransferase / uroporphyrinogen-III	12.0
+	RefSeq_complete_nr_v62_dec2013		 [Marine Group I thaumarchaeote SCGC AB-629-I23]	6.0
+	seed-2014-01-30	4.2.1.75	Uroporphyrinogen-III synthase (EC 4.2.1.75) [Verrucomicrobia bacterium SCGC AAA168-F10]	18.0
+	KEGG_pep_2013	2.1.1.107	uroporphyrinogen-III synthase/methyltransferase (EC:2.1.1.107 4.2.1.75) K13542 uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75]	22.0
+
+uppermesopelagic_500m_6879_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/15808022 short chain dehydrogenase/reductase family oxidoreductase similar to GB:AL009126 percent identity: 80.92 identified sequence similarity putative	16.0
+	RefSeq_complete_nr_v62_dec2013		short chain dehydrogenase/reductase family oxidoreductase [Rhodopirellula sp. SWK7]	8.0
+	COG_2013-12-27		COG1028 # IQR Function: Dehydrogenases different specificities (related to short-chain alcohol dehydrogenases) Organism: Nostoc sp. PCC 7120 (Nos)	18.0
+	seed-2014-01-30		oxidoreductase, short chain dehydrogenase/reductase family [Paenibacillus polymyxa ATCC 842]	9.0
+	KEGG_pep_2013		pco144726 LOC100272498	2.0
+
+uppermesopelagic_500m_3687_0				
+	RefSeq_complete_nr_v62_dec2013		NAD-dependent epimerase/dehydratase family protein [Phycisphaera mikurensis]	5.0
+
+uppermesopelagic_500m_4656_0				
+	EggNog_v3_2013_08_07		BPSS1854 http://www.ncbi.nlm.nih.gov/protein/53722873 short chain dehydrogenase Similar to Pseudomonas aeruginosa probable short-chain dehydrogenase pa1828 SWALL:Q9I2R7 (EMBL:AE004609) (255 aa) fasta scores: E(): 3.1e-62, 66.66% id 255 aa, Caulobacter crescentus oxidoreductase, dehydrogenase/reductase family cc3076 SWALL:Q9A3X5 (EMBL:AE005971) (254 3.1e-29, 39.2% 250 aa	37.0
+	RefSeq_complete_nr_v62_dec2013		 [SAR324 cluster bacterium SCGC AB-629-J17]	5.0
+	COG_2013-12-27		COG1028 # IQR Function: Dehydrogenases different specificities (related to short-chain alcohol dehydrogenases) Organism: Pseudomonas aeruginosa (Pae)	16.0
+	seed-2014-01-30	1.1.1.100	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100) [Burkholderia pseudomallei 91]	18.0
+	KEGG_pep_2013		short chain dehydrogenase	3.0
+
+uppermesopelagic_500m_4657_0				
+	EggNog_v3_2013_08_07		spdH http://www.ncbi.nlm.nih.gov/protein/218890011 spermidine dehydrogenase, SpdH	5.0
+	RefSeq_complete_nr_v62_dec2013		Tat pathway signal sequence domain protein [marine gamma proteobacterium HTCC2148]	9.0
+	COG_2013-12-27		NULL # S Function unknown Function: Uncharacterized protein conserved bacteria Organism: Pseudomonas aeruginosa (Pae)	12.0
+	seed-2014-01-30		FIG00553350:  [Commensalibacter intestini A911]	4.0
+	KEGG_pep_2013	1.5.99.6	 K00316 spermidine dehydrogenase [EC:1.5.99.6]	14.0
+
+uppermesopelagic_500m_4651_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/27363812 phosphoribosylformylglycinamidine synthase (FGAM) synthase, glutamine amidotransferase domain COG0047 catalyzes formation 2-(formamido)-N1-(5-phospho-D-ribosyl)acetamidine from N2-formyl-N1-(5-phospho-D-ribosyl)glycinamide L-glutamine purine biosynthesis	17.0
+	RefSeq_complete_nr_v62_dec2013		phosphoribosylformylglycinamidine synthase [Vibrio sp. HENC-03]	5.0
+	COG_2013-12-27		COG0046 # F Nucleotide transport metabolism Function: Phosphoribosylformylglycinamidine (FGAM) synthase, synthetase domain Organism: Escherichia coli K12 (Eco)	17.0
+	seed-2014-01-30	6.3.5.3	Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / glutamine amidotransferase [endosymbiont Tevnia jerichonana (vent Tica)]	24.0
+	metacyc-v5-2011-10-21	6.3.5.3	Probable phosphoribosylformylglycinamidine synthase OS Schizosaccharomyces pombe (strain ATCC 38366 / 972) GN ade3 PE 2 SV 1 # UNIPROT O14228 FGAMSYN-RXN SPOM-XXX-01:SPOM-XXX-01-000995-MONOMER 6.3.5.3	33.0
+	KEGG_pep_2013	6.3.5.3	ADE6 Ade6p (EC:6.3.5.3) K01952 phosphoribosylformylglycinamidine synthase [EC:6.3.5.3]	17.0
+
+uppermesopelagic_500m_4652_0				
+	RefSeq_complete_nr_v62_dec2013		gamma-glutamyltransferase [Poribacteria bacterium WGA-3G]	4.0
+
+uppermesopelagic_500m_8308_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/159897756 oligopeptide/dipeptide ABC transporter, ATPase subunit KEGG: TIGRFAM: PFAM: transporter related Oligopeptide/dipeptide domain protein SMART: AAA	15.0
+	RefSeq_complete_nr_v62_dec2013		Oligopeptide/dipeptide ABC transporter ATP-binding protein [Cupriavidus sp. HMR-1]	7.0
+	COG_2013-12-27		COG4608 # E Amino acid transport metabolism Function: ABC-type oligopeptide system, ATPase component Organism: Halobacterium sp. NRC-1 (Hbs)	18.0
+	seed-2014-01-30		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1) [Brevibacillus laterosporus LMG 15441]	10.0
+	KEGG_pep_2013	3.6.3.30	oligopeptide abc transporter, putative (EC:3.6.3.30)	15.0
+
+uppermesopelagic_500m_8308_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/156741054 oligopeptide/dipeptide ABC transporter, ATPase subunit KEGG: TIGRFAM: PFAM: transporter related Oligopeptide/dipeptide domain protein SMART: AAA	15.0
+	RefSeq_complete_nr_v62_dec2013		peptide ABC transporter substrate-binding protein [Lactobacillus sp. 66c]	7.0
+	COG_2013-12-27		COG1123 # R General function prediction only Function: ATPase components various ABC-type transport systems, contain duplicated Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	23.0
+	seed-2014-01-30		Oligopeptide transport ATP-binding protein OppF (TC 3.A.1.5.1) [Bacillus cereus VD102]	9.0
+	KEGG_pep_2013		oligopeptide/dipeptide ABC transporter ATPase subunit K02032 peptide/nickel transport system ATP-binding protein	10.0
+
+uppermesopelagic_500m_8309_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/148655390 primosomal protein N' TIGRFAM: PFAM: helicase domain protein type III restriction enzyme, res subunit DEAD/DEAH box SMART: DEAD-like helicases-like	18.0
+	RefSeq_complete_nr_v62_dec2013		 [SAR202 cluster bacterium SCGC AAA240-N13]	5.0
+	seed-2014-01-30		Helicase PriA essential oriC/DnaA-independent DNA replication [Dehalococcoides sp. BAV1]	9.0
+	KEGG_pep_2013		primosomal protein N, (replication factor Y) (superfamily II helicase) K04066 N' helicase) [EC:3.6.4.-]	11.0
+
+uppermesopelagic_500m_8306_0				
+	RefSeq_complete_nr_v62_dec2013		 [Acidovorax sp. MR-S7]	3.0
+
+uppermesopelagic_500m_8307_0				
+	EggNog_v3_2013_08_07		trpG http://www.ncbi.nlm.nih.gov/protein/146281139 anthranilate synthase component II TrpG TrpE catalyzes formation glutamate from chorismate glutamine TrpG provides glutamine amidotransferase activity	17.0
+	RefSeq_complete_nr_v62_dec2013		anthranilate synthase subunit II [Pseudomonas sp. Chol1]	7.0
+	COG_2013-12-27		COG0512 # EH Function: Anthranilate/para-aminobenzoate synthases component II Organism: Xylella fastidiosa 9a5c (Xfa)	13.0
+	seed-2014-01-30	4.1.3.27	Anthranilate synthase, amidotransferase component (EC 4.1.3.27) @ Para-aminobenzoate 2.6.1.85) [endosymbiont Riftia pachyptila (vent Ph05)]	24.0
+	metacyc-v5-2011-10-21	4.1.3.27	Anthranilate synthase component II OS Thermus thermophilus (strain HB8 / ATCC 27634 DSM 579) GN trpG PE 4 SV 1 # UNIPROT P05379 ANTHRANSYN-RXN TTHE300852:TTHA1843-MONOMER 4.1.3.27	36.0
+	KEGG_pep_2013	4.1.3.27	TRP3 likely bifunctional tryptophan biosynthesis enzyme similar to S. cerevisiae TRP3 (YKL211C) indole-3-glycerol phosphate synthase anthranilate component II K01656 / [EC:4.1.3.27 4.1.1.48]	31.0
+
+uppermesopelagic_500m_8304_0				
+	EggNog_v3_2013_08_07		BF3543 http://www.ncbi.nlm.nih.gov/protein/53714828 AcrB/AcrD family multidrug resistance protein similar to [Bacteroides thetaiotaomicron VPI-5482], percent identity 88 1062 aa, BLASTP E(): 0.0	19.0
+	RefSeq_complete_nr_v62_dec2013		aconitase family protein [Candidatus Nitrosopumilus salaria]	5.0
+	COG_2013-12-27		COG1048 # C Energy production conversion Function: Aconitase A Organism: Saccharomyces cerevisiae (Sce)	13.0
+	seed-2014-01-30	4.2.1.3	Aconitate hydratase (EC 4.2.1.3) [Leptospira licerasiae serovar Varillal str. VAR 010]	21.0
+	metacyc-v5-2011-10-21	4.2.1.3	Probable aconitate hydratase 2 OS Schizosaccharomyces pombe (strain ATCC 38366 / 972) GN SPBP4H10.15 PE SV # UNIPROT Q9P7D4 ACONITATEHYDR-RXN 4.2.1.3	31.0
+	KEGG_pep_2013	4.2.1.3	aco2 aconitase, mitochondrial K01681 aconitate hydratase 1 [EC:4.2.1.3]	18.0
+
+uppermesopelagic_500m_8303_0				
+	EggNog_v3_2013_08_07		pyrF http://www.ncbi.nlm.nih.gov/protein/116250099 orotidine 5'-phosphate decarboxylase type 1 subfamily involved last step pyrimidine biosynthesis converts to UMP carbon dioxide OMP OMPDCase OMPdecase	21.0
+	RefSeq_complete_nr_v62_dec2013		Orotidine 5'-phosphate decarboxylase [Mesorhizobium sp. STM 4661]	7.0
+	COG_2013-12-27		COG0284 # F Nucleotide transport metabolism Function: Orotidine-5'-phosphate decarboxylase Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	16.0
+	seed-2014-01-30	4.1.1.23	Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23) [Oceanicola sp. S124]	18.0
+	metacyc-v5-2011-10-21	4.1.1.23	Orotidine 5'-phosphate decarboxylase OS Nitrobacter hamburgensis (strain X14 / DSM 10229) GN pyrF PE 3 SV 1 # UNIPROT Q1QMP2 OROTPDECARB-RXN 4.1.1.23	32.0
+	KEGG_pep_2013	4.1.1.23	orotidine 5'-phosphate decarboxylase (EC:4.1.1.23) K01591 orotidine-5'-phosphate [EC:4.1.1.23]	17.0
+
+uppermesopelagic_500m_8300_0				
+	EggNog_v3_2013_08_07		pheA http://www.ncbi.nlm.nih.gov/protein/39997702 chorismate mutase/prephenate dehydratase Identified similarity to OMNI:NTL03PA03166 match protein family HMM PF00800 PF01817 PF01842 TIGR01807	16.0
+	RefSeq_complete_nr_v62_dec2013		prephenate dehydratase [Verrucomicrobiae bacterium DG1235]	5.0
+	seed-2014-01-30	5.4.99.5	Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase 4.2.1.51) # ACT domain [Desulfuromonas acetoxidans DSM 684]	26.0
+	metacyc-v5-2011-10-21	5.4.99.5	P-protein OS Aquifex aeolicus GN pheA PE 4 SV 1 # UNIPROT O67085 PREPHENATEDEHYDRAT-RXN 5.4.99.5 4.2.1.51	26.0
+	KEGG_pep_2013	5.4.99.5	prephenate dehydratase/chorismate mutase (EC:5.4.99.5 4.2.1.51) K14170 chorismate / dehydratase [EC:5.4.99.5 4.2.1.51]	21.0
+
+uppermesopelagic_500m_8301_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/161527867 dehydrogenase (flavoprotein)-like protein KEGG: tac:Ta0983 	5.0
+	RefSeq_complete_nr_v62_dec2013		dehydrogenase (flavoprotein)-like protein, partial [Candidatus Nitrosoarchaeum limnia]	7.0
+	seed-2014-01-30		Menaquinone-specific polyprenyl reductase [Verrucomicrobia bacterium SCGC AAA168-F10]	7.0
+	KEGG_pep_2013		dehydrogenase (flavoprotein)-like protein	2.0
+
+uppermesopelagic_500m_3358_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR324 cluster bacterium SCGC AAA240-J09]	5.0
+	seed-2014-01-30		 [SAR324 cluster bacterium SCGC AAA240-J09]	5.0
+
+uppermesopelagic_500m_3351_0				
+	EggNog_v3_2013_08_07		mll3196 http://www.ncbi.nlm.nih.gov/protein/13472788 RNA polymerase factor sigma-54 sigma factors are initiation that promote attachment to specific sites then released 54 responsible expression enzymes involved nitrogen assimilation metabolism rhizobia often 2 copies this factor Rhizobium etli RpoN1 shown be several carbon sources during free-living aerobic growth RpoN2 symbiotic fixation Bradyrhizobium both N2 functional conditions, rpoN1 gene was regulated response oxygen	57.0
+	RefSeq_complete_nr_v62_dec2013		RNA polymerase, sigma 54 (sigma N) factor [Mesorhizobium sp. STM 4661]	11.0
+	COG_2013-12-27		COG1508 # K Transcription Function: DNA-directed RNA polymerase specialized sigma subunit, sigma54 homolog Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	20.0
+	seed-2014-01-30		RNA polymerase sigma-54 factor RpoN [Brucella abortus bv. 1 str. NI474]	11.0
+	KEGG_pep_2013		RNA polymerase, sigma 54 subunit, RpoN K03092 polymerase sigma-54 factor	10.0
+
+uppermesopelagic_500m_4432_0				
+	RefSeq_complete_nr_v62_dec2013		, partial [alpha proteobacterium SCGC AAA160-J14]	6.0
+	seed-2014-01-30	4.2.1.9	Dihydroxy-acid dehydratase (EC 4.2.1.9) [alpha proteobacterium BAL199]	17.0
+
+uppermesopelagic_500m_3357_0				
+	EggNog_v3_2013_08_07		glxD http://www.ncbi.nlm.nih.gov/protein/86360693 glutamate synthase large subunit 2 protein Similar to (SMc02612) [Sinorhizobium meliloti] [Agrobacterium tumefaciens] entrez-protein:O87392 Putative location:bacterial inner membrane Psort-Score: 0.2211	21.0
+	RefSeq_complete_nr_v62_dec2013		ferredoxin-dependent glutamate synthase, partial [Rhizobium sp. Pop5]	7.0
+	COG_2013-12-27		COG0069 # E Amino acid transport metabolism Function: Glutamate synthase domain 2 Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	19.0
+	seed-2014-01-30	1.4.1.13	Glutamate synthase [NADPH] large chain (EC 1.4.1.13) [Rhizobium etli CIAT 894]	21.0
+	KEGG_pep_2013	1.4.1.13	glxD glutamate synthase protein, large subunit (EC:1.4.1.13)	17.0
+
+uppermesopelagic_500m_6490_1				
+	EggNog_v3_2013_08_07		ppnK http://www.ncbi.nlm.nih.gov/protein/110634123 inorganic polyphosphate/ATP-NAD kinase catalyzes phosphorylation NAD to NADP	10.0
+	RefSeq_complete_nr_v62_dec2013		inorganic polyphosphate/ATP-NAD kinase [Magnetospirillum sp. SO-1]	6.0
+	COG_2013-12-27		COG0061 # G Carbohydrate transport metabolism Function: Predicted sugar kinase Organism: Xylella fastidiosa 9a5c (Xfa)	15.0
+	seed-2014-01-30	2.7.1.23	NAD kinase (EC 2.7.1.23) [Gluconacetobacter sp. SXCC-1]	17.0
+	metacyc-v5-2011-10-21	2.7.1.23	Probable inorganic polyphosphate/ATP-NAD kinase OS Rhodobacter sphaeroides (strain ATCC 17025 / ATH 2.4.3) GN ppnK PE 3 SV 1 # UNIPROT A4WPE5 NAD-KIN-RXN 2.7.1.23	34.0
+	KEGG_pep_2013	2.7.1.23	inorganic polyphosphate/ATP-NAD kinase, putative (EC:2.7.1.23) K00858 NAD+ kinase [EC:2.7.1.23]	19.0
+
+uppermesopelagic_500m_6494_0				
+	EggNog_v3_2013_08_07		SMa1641 http://www.ncbi.nlm.nih.gov/protein/16263349 NreB protein glimmer prediction highly similar to from plasmid pTOM9 Alcaligenes xylosoxidans strain 31A (ACCESSION AAA72441), possibly operon SMA1639	20.0
+	RefSeq_complete_nr_v62_dec2013		major facilitator transporter [Klebsiella sp. OBRC7]	6.0
+	COG_2013-12-27		COG0477 # GEPR Function: Permeases major facilitator superfamily Organism: Sinorhizobium meliloti (Sme)	12.0
+	seed-2014-01-30		Probable NreB protein [Methylobacterium sp. GXF4]	5.0
+	KEGG_pep_2013		NreB protein K07785 MFS transporter, NRE family, putaive nickel resistance protein	9.0
+
+uppermesopelagic_500m_6495_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/257059198 peptidase S1 S6 chymotrypsin/Hap PFAM: Tetratricopeptide TPR repeat-containing protein Sel1 domain protein repeat SMART: RNA-processing HAT helix repeating-containing KEGG: C14 caspase catalytic subunit P20	23.0
+	RefSeq_complete_nr_v62_dec2013		 [Nitrospina sp. SCGC AAA288-L16]	4.0
+	seed-2014-01-30		TPR domain protein, putative component TonB system [Cyanothece sp. PCC 8801]	11.0
+	KEGG_pep_2013		peptidase S1 S6 chymotrypsin/Hap K12600 superkiller protein 3	7.0
+
+uppermesopelagic_500m_6499_0				
+	EggNog_v3_2013_08_07		ECA3203 http://www.ncbi.nlm.nih.gov/protein/50122125  Similar to Agrobacterium tumefaciens SWALL:Q8U5H6 (EMBL:AE008016) (265 aa) fasta scores: E(): 3.8e-31, 41.78% id 213 aa, Rhizobium meliloti protein r00954 or smc00096 SWALL:Q92KJ4 (EMBL:AL591785) (245 1.2e-30, 37.94% 253 aa	30.0
+	RefSeq_complete_nr_v62_dec2013		Protein unknown function DUF3750 [Halomonas titanicae]	6.0
+	seed-2014-01-30		 [Thauera linaloolentis 47Lol DSM 12138]	5.0
+
+uppermesopelagic_500m_569_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR202 cluster bacterium SCGC AAA240-N13]	5.0
+
+uppermesopelagic_500m_5749_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/108805333 fructose-bisphosphate aldolase PFAM: aldolase, class-I KEGG: bja:bll1520 fructose bisphosphate aldolase	10.0
+	RefSeq_complete_nr_v62_dec2013		Fructose-bisphosphate aldolase class I [Nitrosospira sp. APG3]	7.0
+	COG_2013-12-27		COG3588 # G Carbohydrate transport metabolism Function: Fructose-1,6-bisphosphate aldolase Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	16.0
+	seed-2014-01-30	4.1.2.13	Fructose-bisphosphate aldolase class I (EC 4.1.2.13) [Gloeocapsa sp. PCC 73106]	20.0
+	metacyc-v5-2011-10-21	4.1.2.13	Probable fructose-bisphosphate aldolase class 1 OS Xanthomonas campestris pv. GN XCC3185 PE 3 SV # UNIPROT Q8P5Z7 F16ALDOLASE-RXN XCAM190485:XCC3185-MONOMER 4.1.2.13	30.0
+	KEGG_pep_2013	4.1.2.13	GI10131 gene product from transcript GI10131-RA K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13]	22.0
+
+uppermesopelagic_500m_5748_1				
+	EggNog_v3_2013_08_07		Mb3421c http://www.ncbi.nlm.nih.gov/protein/31794569 dehydrogenase Mb3421c, -, len: 290 aa. Equivalent to Rv3389c, aa, from Mycobacterium tuberculosis strain H37Rv, (99.7% identity aa overlap). Possible dehydrogenase (EC 1.-.-.-), similar parts several bacterial dehydrogenases eukaryotic short-chain involved steroid biosynthesis e.g. Q9UVH9|FOX2 FOX2 PROTEIN (a multifunctional protein peroxisomal beta-oxidation) (SIMILAR TO THE SHORT-CHAIN DEHYDROGENASES/REDUCTASES (SDR) FAMILY) Glomus mosseae (1015 aa), FASTA scores: opt: 649, E(): 7.5e-33, (40.9% 269 overlap) Q9L009|SCC30.12c PUTATIVE DEHYDROGENASE Streptomyces coelicolor (333 602, 2.7e-30, (40.35% 305 AAH03098 HYDROXYSTEROID (17-BETA) 4 Homo sapiens (Human) (736 592, 2.1e-29, (41.55% 272 ESTRADIOL 17 BETA-DEHYDROGENASE Q19058|E04F6.3 HYDRATASE-DEHYDROGENASE-EPIMERASE Caenorhabditis elegans (298 573, 1.6e-28, (41.0% 266 O42484 17-BETA-HYDROXYSTEROID TYPE IV Gallus gallus (Chicken) (735 3.2e-28, (39.8% 279 etc. And also part Q9LBK1|PHAJ2|PA1018 (R)-SPECIFIC ENOYL-COA HYDRATASE Pseudomonas aeruginosa (288 601, (40.5% 294 P71863|UFAA2|Rv3538|MTCY03C7.18c HYPOTHETICAL 30.2 KDA (286 609, 8.7e-31, (39.65% 285 HAS SOME SIMILARITY FAMILY.	134.0
+	RefSeq_complete_nr_v62_dec2013		putative UfaA2 protein [Streptomyces viridochromogenes]	4.0
+	COG_2013-12-27		COG2030 # I Lipid transport metabolism Function: Acyl dehydratase Organism: Mycobacterium tuberculosis H37Rv (Mtu)	14.0
+	seed-2014-01-30		MaoC domain protein dehydratase [Mycobacterium avium subsp. Env 77]	8.0
+	metacyc-v5-2011-10-21	4.2.1.119	Probable enoyl-CoA hydratase 2 OS Dictyostelium discoideum GN mfeB PE SV 1 # UNIPROT Q54XZ0 RXN-7699 4.2.1.119	27.0
+	KEGG_pep_2013	4.2.1.107	3-alpha,7-alpha, 12-alpha-trihydroxy-5-beta-cholest-24-enoyl-CoAhydratase (EC:4.2.1.107)	13.0
+
+uppermesopelagic_500m_5219_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/156972701 Xaa-Pro aminopeptidase KEGG: vpa:VP3021 0. aminopeptidase P K01262 COG: COG0006 Psort location: cytoplasmic, score: 23	15.0
+	RefSeq_complete_nr_v62_dec2013		X-Pro aminopeptidase [Vibrio sp. HENC-01]	5.0
+	COG_2013-12-27		COG0006 # E Amino acid transport metabolism Function: Xaa-Pro aminopeptidase Organism: Vibrio cholerae (Vch)	14.0
+	seed-2014-01-30	3.4.11.9	Xaa-Pro aminopeptidase (EC 3.4.11.9) [Photobacterium leiognathi subsp. mandapamensis svers.1.1.]	19.0
+	KEGG_pep_2013	3.4.11.9	peptidase M24 K01262 Xaa-Pro aminopeptidase [EC:3.4.11.9]	16.0
+
+uppermesopelagic_500m_5215_0				
+	EggNog_v3_2013_08_07		bcd1 http://www.ncbi.nlm.nih.gov/protein/78042819 butyryl-CoA dehydrogenase identified similarity to SP:Q06319 match protein family HMM PF00441 PF02770 PF02771 PF08028	15.0
+	RefSeq_complete_nr_v62_dec2013		Acyl-CoA dehydrogenase, short-chain specific [Bhargavaea cecembensis]	6.0
+	COG_2013-12-27		COG1960 # I Lipid transport metabolism Function: Acyl-CoA dehydrogenases Organism: Clostridium acetobutylicum (Cac)	13.0
+	seed-2014-01-30	1.3.99.2	Acyl-CoA dehydrogenase, short-chain specific (EC 1.3.99.2) [Flavobacterium columnare ATCC 49512]	20.0
+	metacyc-v5-2011-10-21	1.3.99.2	Bcd OS Clostridium kluyveri (strain ATCC 8527 / DSM 555 NCIMB 10680) GN bcd PE 3 SV 1 # UNIPROT A5N5C8 BUTYRYL-COA-DEHYDROGENASE-RXN MetaCyc:MONOMER-13470 1.3.99.2	34.0
+	KEGG_pep_2013	1.3.99.2	Acads, NV12056 acyl-Coenzyme A dehydrogenase, C-2 to C-3 short chain (EC:1.3.99.2) K00248 butyryl-CoA dehydrogenase [EC:1.3.99.2]	25.0
+
+uppermesopelagic_500m_5213_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/161529140 DNA topoisomerase type IA Zn finger domain-containing protein PFAM: zn domain KEGG: tvo:TVN0019 I	14.0
+	RefSeq_complete_nr_v62_dec2013		 [Marine Group I thaumarchaeote SCGC AB-629-I23]	6.0
+	seed-2014-01-30	5.99.1.2	DNA topoisomerase I (EC 5.99.1.2) [Nitrosopumilus maritimus SCM1]	18.0
+	KEGG_pep_2013	5.99.1.2	DNA topoisomerase I (EC:5.99.1.2)	14.0
+
+uppermesopelagic_500m_5212_1				
+	EggNog_v3_2013_08_07		TTE2209 http://www.ncbi.nlm.nih.gov/protein/20808587  Best Blastp hit gi|10172877|dbj|BAB03984.1| (AP001507) BH0265 unknown conserved protein [Bacillus halodurans], score 257, E-value 1.00E-67	15.0
+	RefSeq_complete_nr_v62_dec2013		DNA integrity scanning protein DisA [Bhargavaea cecembensis]	6.0
+	COG_2013-12-27		COG1624 # S Function unknown Function: Uncharacterized conserved protein Organism: Bacillus halodurans (Bha)	11.0
+	seed-2014-01-30		Diadenylate cyclase spyDAC Bacterial checkpoint controller DisA nucleotide-binding domain [Acetonema longum DSM 6540]	13.0
+
+uppermesopelagic_500m_5210_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/188587312 amidohydrolase PFAM: Amidohydrolase 3 KEGG: cdf:CD1612 putative amidohydrolase	8.0
+	RefSeq_complete_nr_v62_dec2013		imidazolonepropionase, partial [SAR324 cluster bacterium SCGC AAA001-C10]	7.0
+	seed-2014-01-30		Amidohydrolase [SAR324 cluster bacterium JCVI-SC AAA005]	6.0
+	KEGG_pep_2013	3.5.2.7	imidazolonepropionase (EC:3.5.2.7)	12.0
+
+uppermesopelagic_500m_1059_0				
+	EggNog_v3_2013_08_07		aprA http://www.ncbi.nlm.nih.gov/protein/71083538 adenylylsulfate reductase subunit alpha catalyzes reduction adenosine 5'-phosphosulfate to AMP sulfite	13.0
+	RefSeq_complete_nr_v62_dec2013		adenylylsulfate reductase subunit alpha [alpha proteobacterium SCGC AB-629-G21]	8.0
+	COG_2013-12-27		COG1053 # C Energy production conversion Function: Succinate dehydrogenase/fumarate reductase, flavoprotein subunit Organism: Pyrobaculum aerophilum (Pya)	16.0
+	seed-2014-01-30	1.8.99.2	Adenylylsulfate reductase alpha-subunit (EC 1.8.99.2) # trameshift [Pyrobaculum aerophilum str. IM2]	21.0
+	metacyc-v5-2011-10-21	1.8.99.2	Dissimilatory adenylylsulfate reductase alpha subunit OS Vulcanisaeta distributa (strain DSM 14429 / JCM 11212 NBRC 100878 IC-017) GN PE 4 SV 1 # UNIPROT E1QPH0 ADENYLYLSULFATE-REDUCTASE-RXN 1.8.99.2	37.0
+	KEGG_pep_2013	1.8.99.2	aprA adenylylsulfate reductase subunit alpha (EC:1.8.99.2) K00394 reductase, A [EC:1.8.99.2]	20.0
+
+uppermesopelagic_500m_1058_0				
+	RefSeq_complete_nr_v62_dec2013		araC family transcriptional regulator [Alcanivorax dieselolei]	6.0
+	seed-2014-01-30		 [Alcanivorax dieselolei B5]	3.0
+
+uppermesopelagic_500m_1051_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/99079916 1-Cys peroxiredoxin PFAM: alkyl hydroperoxide reductase/ Thiol specific antioxidant/ Mal allergen: (1.2e-73) Redoxin: (0.00011) KEGG: sil:SPO3383 thiol-specific antioxidant protein, ev 2e-93, 76% identity	24.0
+	RefSeq_complete_nr_v62_dec2013		peroxidase [Rhizobium sp. CCGE 510]	5.0
+	COG_2013-12-27		COG0450 # O Posttranslational modification, protein turnover, chaperones Function: Peroxiredoxin Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	16.0
+	seed-2014-01-30		Alkyl hydroperoxide reductase subunit C-like protein [Agrobacterium tumefaciens F2]	8.0
+	KEGG_pep_2013	1.11.1.15	mitochondrial peroxiredoxin PRX1 K03386 (alkyl hydroperoxide reductase subunit C) [EC:1.11.1.15]	20.0
+
+uppermesopelagic_500m_1050_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/145218934 5 nucleotidase, deoxy, cytosolic type C PFAM: KEGG: hit:NTHI1629 putative 5'(3')-deoxyribonucleotidase	12.0
+	RefSeq_complete_nr_v62_dec2013		, partial [Gordonia terrae]	4.0
+	seed-2014-01-30		putative 5'(3')-deoxyribonucleotidase [Haemophilus sputorum CCUG 13788]	6.0
+	KEGG_pep_2013		5 nucleotidase, deoxy, cytosolic type C	6.0
+
+uppermesopelagic_500m_1050_1				
+	RefSeq_complete_nr_v62_dec2013		 [Planctomyces brasiliensis]	2.0
+	seed-2014-01-30		Rhodanese domain protein [Planctomyces brasiliensis DSM 5305]	6.0
+	KEGG_pep_2013		pseudouridine synthase, RluA family	4.0
+
+uppermesopelagic_500m_1053_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/120553869 electron transport complex, RnfABCDGE type, B subunit TIGRFAM: PFAM: 4Fe-4S ferredoxin, iron-sulfur binding domain protein Fe-S cluster KEGG: predicted NADH:ubiquinone oxidoreductase, subunit RnfB	21.0
+	RefSeq_complete_nr_v62_dec2013		electron transport complex protein RnfB [Thauera sp. 63]	7.0
+	COG_2013-12-27		COG2878 # C Energy production conversion Function: Predicted NADH:ubiquinone oxidoreductase, subunit RnfB Organism: Haemophilus influenzae (Hin)	16.0
+	seed-2014-01-30		Electron transport complex protein RnfB [Alteromonas macleodii str. 'Black Sea 11']	10.0
+	KEGG_pep_2013		electron transport complex, RnfABCDGE type, B subunit K03616 complex protein RnfB	10.0
+
+uppermesopelagic_500m_1054_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/159042927 short-chain dehydrogenase/reductase SDR PFAM: KR domain protein KEGG: oxidoreductase, putative	10.0
+	RefSeq_complete_nr_v62_dec2013		Oxidoreductase, short-chain dehydrogenase/reductase family [Rhodobacter sp. AKP1]	7.0
+	seed-2014-01-30		Oxidoreductase, short-chain dehydrogenase/reductase family (EC 1.1.1.-) [Roseovarius sp. 217]	9.0
+	KEGG_pep_2013		short-chain dehydrogenase/reductase SDR	3.0
+
+uppermesopelagic_500m_1057_0	CAZy_2013-07-13		diacylglycerol kinase [Candidatus Puniceispirillum marinum IMCC1322] (GT:4)	7.0
+	EggNog_v3_2013_08_07		dgkA http://www.ncbi.nlm.nih.gov/protein/34499729 diacylglycerol kinase identified sequence similarity putative ORF located using GeneMark/Blastx/COG0818	12.0
+	RefSeq_complete_nr_v62_dec2013		DeoR family transcriptional regulator [Burkholderia cepacia]	6.0
+	COG_2013-12-27		COG0818 # M Cell wall/membrane/envelope biogenesis Function: Diacylglycerol kinase Organism: Salmonella typhimurium LT2 (Sty)	14.0
+	seed-2014-01-30	2.7.1.107	Diacylglycerol kinase (EC 2.7.1.107) [Klebsiella pneumoniae KCTC 2242]	18.0
+	KEGG_pep_2013	2.7.1.107	dgkA diacylglycerol kinase DagK (EC:2.7.1.107) K00901 [EC:2.7.1.107]	17.0
+
+uppermesopelagic_500m_1057_1				
+	RefSeq_complete_nr_v62_dec2013		molybdopterin converting factor subunit 1 [SAR324 cluster bacterium SCGC AAA001-C10]	10.0
+	seed-2014-01-30		 [SAR324 cluster bacterium SCGC AAA240-J09]	5.0
+
+uppermesopelagic_500m_1056_0				
+	EggNog_v3_2013_08_07		rplP http://www.ncbi.nlm.nih.gov/protein/197334173 50S ribosomal protein L16 located peptidyl transferase center may be involved activity similar to archaeal L10e	17.0
+	RefSeq_complete_nr_v62_dec2013		50S ribosomal protein L16 [Aeromonas diversa]	5.0
+	COG_2013-12-27		COG0197 # J Translation, ribosomal structure biogenesis Function: Ribosomal protein L16/L10E Organism: Salmonella typhimurium LT2 (Sty)	15.0
+	seed-2014-01-30		LSU ribosomal protein L16p (L10e) [Photobacterium leiognathi subsp. mandapamensis svers.1.1.]	9.0
+	KEGG_pep_2013		rpl16 ribosomal protein L16	3.0
+
+uppermesopelagic_500m_1056_1				
+	EggNog_v3_2013_08_07		rpsC http://www.ncbi.nlm.nih.gov/protein/54293327 30S ribosomal protein S3 forms complex S10 S14 binds lower part subunit head mRNA complete ribosome to position it translation	21.0
+	RefSeq_complete_nr_v62_dec2013		30S ribosomal protein S3 [Alcanivorax hongdengensis]	5.0
+	COG_2013-12-27		COG0092 # J Translation, ribosomal structure biogenesis Function: Ribosomal protein S3 Organism: Neisseria meningitidis MC58 (Nme)	15.0
+	seed-2014-01-30		SSU ribosomal protein S3p (S3e) [Alteromonas macleodii str. 'English Channel 673']	10.0
+	KEGG_pep_2013		rpsC 30S ribosomal protein S3 K02982 small subunit S3	7.0
+
+uppermesopelagic_500m_2972_1				
+	EggNog_v3_2013_08_07		FRAAL2459 http://www.ncbi.nlm.nih.gov/protein/111221884  Evidence 3 : Function proposed based presence conserved amino acid motif, structural feature or limited homology	17.0
+	RefSeq_complete_nr_v62_dec2013		amine oxidase [Frankia sp. EUN1f]	5.0
+	COG_2013-12-27		COG1232 # H Coenzyme transport metabolism Function: Protoporphyrinogen oxidase Organism: Caulobacter vibrioides (Ccr)	13.0
+	seed-2014-01-30		Adrenodoxin reductase [Leptolyngbya sp. PCC 7375]	6.0
+	KEGG_pep_2013		putative oxidase	2.0
+
+uppermesopelagic_500m_2971_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/268317570 	1.0
+	RefSeq_complete_nr_v62_dec2013		 [Rhodothermus marinus]	2.0
+	seed-2014-01-30		FIG01040775:  [Salinibacter ruber DSM 13855]	5.0
+
+uppermesopelagic_500m_2971_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/148658213 phosphomannomutase PFAM: phosphoglucomutase/phosphomannomutase C terminal alpha/beta/alpha domain I II III	11.0
+	RefSeq_complete_nr_v62_dec2013		phosphomannomutase [Roseiflexus sp. RS-1]	4.0
+	seed-2014-01-30	5.4.2.8	Phosphomannomutase (EC 5.4.2.8) [Herpetosiphon aurantiacus ATCC 23779]	17.0
+	KEGG_pep_2013	5.4.2.8	phosphomannomutase (EC:5.4.2.8) K01840 [EC:5.4.2.8]	14.0
+
+uppermesopelagic_500m_2970_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/150401460  PFAM: protein unknown function DUF521 KEGG: mmp:MMP1663	7.0
+	RefSeq_complete_nr_v62_dec2013		 [Marine Group I thaumarchaeote SCGC AB-629-I23]	6.0
+	COG_2013-12-27		COG1679 # S Function unknown Function: Uncharacterized conserved protein Organism: Aeropyrum pernix (Ape)	11.0
+	seed-2014-01-30		Uncharacterized protein MJ1313 [Methanococcus aeolicus Nankai-3]	5.0
+	KEGG_pep_2013		 K09123 protein	1.0
+
+uppermesopelagic_500m_2970_1				
+	RefSeq_complete_nr_v62_dec2013		 [Marine Group I thaumarchaeote SCGC AB-629-I23]	6.0
+
+uppermesopelagic_500m_2977_0				
+	seed-2014-01-30	3.5.1.81	D-aminoacylase (N-acyl-D-amino-acid deacylase)( EC:3.5.1.81 ) [Reyranella massiliensis 521]	18.0
+
+uppermesopelagic_500m_2975_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/116625210 	1.0
+	RefSeq_complete_nr_v62_dec2013		 [Acidobacteriaceae bacterium KBS 96]	4.0
+	seed-2014-01-30		 [Zavarzinella formosa DSM 19928]	4.0
+
+uppermesopelagic_500m_1448_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/150377568 spermidine/putrescine ABC transporter ATPase subunit TIGRFAM: PFAM: related Transport-associated OB domain protein SMART: AAA ATPase KEGG: ABC-type transporter, component: POPT family	20.0
+	RefSeq_complete_nr_v62_dec2013		spermidine/putrescine ABC transporter ATPase subunit [Pandoraea sp. SD6-2]	8.0
+	COG_2013-12-27		COG3842 # E Amino acid transport metabolism Function: ABC-type spermidine/putrescine systems, ATPase components Organism: Mesorhizobium loti (Mlo)	17.0
+	seed-2014-01-30		Putrescine transport ATP-binding protein PotA (TC 3.A.1.11.1) [Bacillus azotoformans LMG 9581]	10.0
+	KEGG_pep_2013		ABC transporter ATPase (EC:3.6.3.-) K02052 putative spermidine/putrescine transport system ATP-binding protein	10.0
+
+uppermesopelagic_500m_1449_0				
+	RefSeq_complete_nr_v62_dec2013		sulfite reductase [Alcanivorax sp. PN-3]	5.0
+	seed-2014-01-30	1.8.1.2	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2) [Alcanivorax dieselolei B5]	20.0
+
+uppermesopelagic_500m_1446_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/99078424 carboxylesterase PFAM: putative esterase: (1.2e-74) KEGG: sil:SPO3829 S-formylglutathione hydrolase, putative, ev 1e-133, 80% identity	15.0
+	RefSeq_complete_nr_v62_dec2013		S-formylglutathione hydrolase [Thauera sp. 63]	5.0
+	COG_2013-12-27		COG0627 # R General function prediction only Function: Predicted esterase Organism: Nostoc sp. PCC 7120 (Nos)	16.0
+	seed-2014-01-30	3.1.2.12	S-formylglutathione hydrolase (EC 3.1.2.12) [Rhodospirillum rubrum F11]	17.0
+	metacyc-v5-2011-10-21	3.1.2.12	S-formylglutathione hydrolase yeiG OS Escherichia coli O1:K1 / APEC GN PE 3 SV 1 # UNIPROT A1AD14 S-FORMYLGLUTATHIONE-HYDROLASE-RXN 3.1.2.12	29.0
+	KEGG_pep_2013	3.1.2.12	Esd, Es-10, Es10, sid478 esterase D/formylglutathione hydrolase (EC:3.1.2.12) K01070 S-formylglutathione [EC:3.1.2.12]	21.0
+
+uppermesopelagic_500m_1447_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/254787847 amino acid carrier family protein identified match to protein HMM PF01235 TIGR00835	11.0
+	RefSeq_complete_nr_v62_dec2013		probable sodium-linked D-alanine/glycine transporter [gamma proteobacterium HTCC2207]	7.0
+	COG_2013-12-27		COG1115 # E Amino acid transport metabolism Function: Na+/alanine symporter Organism: Haemophilus influenzae (Hin)	14.0
+	seed-2014-01-30		amino acid carrier family protein [Bizionia argentinensis JUB59]	7.0
+	KEGG_pep_2013		amino acid carrier protein K03310 alanine or glycine:cation symporter, AGCS family	10.0
+
+uppermesopelagic_500m_1443_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/99079891 GTP cyclohydrolase II PFAM: II: (4.5e-90) KEGG: sil:SPO3427 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP II, ev 1e-145, 71% identity	17.0
+	RefSeq_complete_nr_v62_dec2013		3,4-dihydroxy-2-butanone 4-phosphate synthase [Rhodobacter sp. AKP1]	6.0
+	COG_2013-12-27		COG0807 # H Coenzyme transport metabolism Function: GTP cyclohydrolase II Organism: Escherichia coli O157:H7 EDL933 (EcZ)	16.0
+	seed-2014-01-30	4.1.99.12	3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II 3.5.4.25) [Phaeobacter gallaeciensis ANG1]	23.0
+	metacyc-v5-2011-10-21	4.1.99.12	Riboflavin biosynthesis protein ribBA OS Synechocystis sp. (strain ATCC 27184 / PCC 6803 N-1) GN PE 3 SV 1 # UNIPROT P74104 GTP-CYCLOHYDRO-II-RXN SSP1148:SLL1894-MONOMER 4.1.99.12 3.5.4.25	35.0
+	KEGG_pep_2013	3.5.4.25	ribBA 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II (EC:3.5.4.25) K14652 3,4-dihydroxy 2-butanone synthase / GTP [EC:4.1.99.12 3.5.4.25]	25.0
+
+uppermesopelagic_500m_1443_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/99079890  KEGG: sil:SPO3428 protein, ev 6e-62, 72% identity	8.0
+	RefSeq_complete_nr_v62_dec2013		 [Paracoccus sp. N5]	3.0
+	seed-2014-01-30		identified similarity to GB:BAB50941.1 [Silicibacter pomeroyi DSS-3]	7.0
+
+uppermesopelagic_500m_1440_0				
+	EggNog_v3_2013_08_07		pnp http://www.ncbi.nlm.nih.gov/protein/86355771 polynucleotide phosphorylase/polyadenylase Putative location:bacterial inner membrane Psort-Score: 0.1192 similar to [Agrobacterium tumefaciens] (SMc00324) [Sinorhizobium meliloti] Similar swissprot:Q8UJ56	19.0
+	RefSeq_complete_nr_v62_dec2013		polynucleotide phosphorylase [Acidocella sp. MX-AZ02]	5.0
+	COG_2013-12-27		COG1185 # J Translation, ribosomal structure biogenesis Function: Polyribonucleotide nucleotidyltransferase (polynucleotide phosphorylase) Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	19.0
+	seed-2014-01-30	2.7.7.8	Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8) [Bradyrhizobium japonicum USDA 6]	18.0
+	KEGG_pep_2013	2.7.7.8	polyribonucleotide nucleotidyltransferase, putative (EC:2.7.7.8) K00962 nucleotidyltransferase [EC:2.7.7.8]	17.0
+
+uppermesopelagic_500m_1441_0				
+	RefSeq_complete_nr_v62_dec2013		putative mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Leptotrichia sp. oral taxon 225]	9.0
+
+uppermesopelagic_500m_3517_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/160901063 5-oxoprolinase (ATP-hydrolyzing) PFAM: Hydantoinase B/oxoprolinase KEGG: (ATP-hydrolyzing)	7.0
+	RefSeq_complete_nr_v62_dec2013		N-methylhydantoinase B [Delftia acidovorans]	4.0
+	seed-2014-01-30	3.5.2.14	N-methylhydantoinase B (EC 3.5.2.14) [Nocardia aobensis NBRC 100429]	18.0
+	KEGG_pep_2013	3.5.2.9	5-oxoprolinase (ATP-hydrolyzing) (EC:3.5.2.9) K01474 N-methylhydantoinase B [EC:3.5.2.14]	17.0
+
+uppermesopelagic_500m_3514_0				
+	EggNog_v3_2013_08_07	2.8.1.1	blr2556 http://www.ncbi.nlm.nih.gov/protein/27377667 putative thiosulfate sulfurtransferase blr2556 sulfurtransferase (EC 2.8.1.1)	17.0
+	RefSeq_complete_nr_v62_dec2013		thiosulfate sulfurtransferase [Bradyrhizobium sp. YR681]	5.0
+	seed-2014-01-30	2.8.1.1	Thiosulfate sulfurtransferase, rhodanese (EC 2.8.1.1) [Bradyrhizobium japonicum USDA 110]	19.0
+	KEGG_pep_2013	2.8.1.1	thiosulfate sulfurtransferase (EC:2.8.1.1) K01011 thiosulfate/3-mercaptopyruvate [EC:2.8.1.1 2.8.1.2]	17.0
+
+uppermesopelagic_500m_3514_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/26988926  similar to GP:9948831 identified sequence similarity putative	8.0
+	RefSeq_complete_nr_v62_dec2013		putative membrane protein [Rhodobacter sp. AKP1]	5.0
+	COG_2013-12-27		COG1238 # S Function unknown Function: Predicted membrane protein Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	15.0
+	seed-2014-01-30		probable membrane protein YPO3302 [Acetobacteraceae bacterium AT-5844]	6.0
+	KEGG_pep_2013		SNARE associated Golgi protein-like protein	4.0
+
+uppermesopelagic_500m_3511_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR324 cluster bacterium SCGC AAA240-J09]	5.0
+	seed-2014-01-30		 [SAR324 cluster bacterium SCGC AAA001-C10]	5.0
+
+uppermesopelagic_500m_3511_1				
+	RefSeq_complete_nr_v62_dec2013		OstA protein [SAR324 cluster bacterium JCVI-SC AAA005]	6.0
+	seed-2014-01-30		organic solvent tolerance protein [SAR324 cluster bacterium SCGC AAA001-C10]	8.0
+
+uppermesopelagic_500m_3166_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/182416058 Ig family protein PFAM: glycosyl hydrolase BNR repeat-containing KEGG: mag:amb1139 autotransporter adhesin	12.0
+	RefSeq_complete_nr_v62_dec2013		Ig family protein [Opitutus terrae]	4.0
+	seed-2014-01-30		Flagellar hook-length control protein FliK [Opitutus terrae PB90-1]	7.0
+	KEGG_pep_2013		Ig family protein	2.0
+
+uppermesopelagic_500m_3164_1				
+	EggNog_v3_2013_08_07		BRADO4488 http://www.ncbi.nlm.nih.gov/protein/146341398  Evidence 4 : Homologs previously reported genes unknown function	11.0
+	RefSeq_complete_nr_v62_dec2013		 [Mesorhizobium sp. WSM4349]	3.0
+	COG_2013-12-27		NULL # S Function unknown Function: Uncharacterized low-complexity proteins Organism: Nostoc sp. PCC 7120 (Nos)	15.0
+	seed-2014-01-30		FIG00444181:  [Bradyrhizobium japonicum USDA 6]	5.0
+
+uppermesopelagic_500m_3163_0				
+	RefSeq_complete_nr_v62_dec2013		 [candidate division WS3 bacterium SCGC AAA252-E07]	6.0
+
+uppermesopelagic_500m_7512_0				
+	EggNog_v3_2013_08_07		tfb http://www.ncbi.nlm.nih.gov/protein/126466031 transcription initiation factor IIB stabilizes TBP binding to archaeal box-A promoter responsible recruiting RNA polymerase II pre-initiation complex	20.0
+	RefSeq_complete_nr_v62_dec2013		putative transcription initiation factor IIB [Candidatus Nitrosopumilus salaria]	8.0
+	seed-2014-01-30		Transcription initiation factor B [Staphylothermus marinus F1]	7.0
+	KEGG_pep_2013		transcription factor TFIIB cyclin-related protein K03124 initiation	6.0
+
+uppermesopelagic_500m_7510_0				
+	EggNog_v3_2013_08_07		guaA http://www.ncbi.nlm.nih.gov/protein/206889695 GMP synthase contains glutamine-hydrolyzing domain glutamine amidotransferase GMP-binding domain functions to produce from XMP IMP pathway	17.0
+	RefSeq_complete_nr_v62_dec2013		GMP synthase domain protein [Capnocytophaga sp. oral taxon 332]	8.0
+	COG_2013-12-27		COG0519 # F Nucleotide transport metabolism Function: GMP synthase, PP-ATPase domain/subunit Organism: Yersinia pestis (Ype)	15.0
+	seed-2014-01-30	6.3.5.2	GMP synthase [glutamine-hydrolyzing] (EC 6.3.5.2) [Flavobacterium columnare ATCC 49512]	19.0
+	metacyc-v5-2011-10-21	6.3.5.2	GMP synthase [glutamine-hydrolyzing] OS Micrococcus luteus (strain ATCC 4698 / DSM 20030 JCM 1464 NBRC 3333 NCIMB 9278 NCTC 2665 VKM Ac-2230) GN guaA PE 3 SV 1 # UNIPROT C5CBZ4 GMP-SYN-GLUT-RXN 6.3.5.2	43.0
+	KEGG_pep_2013	6.3.5.2	guaA gmp synthase (glutamine amidotransferase) protein (EC:6.3.5.2 6.3.4.1) K01951 GMP (glutamine-hydrolysing) [EC:6.3.5.2]	21.0
+
+uppermesopelagic_500m_7510_1				
+	EggNog_v3_2013_08_07		guaA http://www.ncbi.nlm.nih.gov/protein/18311257 GMP synthase contains glutamine-hydrolyzing domain glutamine amidotransferase GMP-binding domain functions to produce from XMP IMP pathway	17.0
+	RefSeq_complete_nr_v62_dec2013		GMP synthase, glutamine-hydrolyzing, C-terminal domain or B subunit [Methanobacterium sp. Maddingley MBC34]	12.0
+	COG_2013-12-27		COG0519 # F Nucleotide transport metabolism Function: GMP synthase, PP-ATPase domain/subunit Organism: Clostridium acetobutylicum (Cac)	15.0
+	seed-2014-01-30	6.3.5.2	GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / ATP pyrophosphatase [Clostridium difficile 70-100-2010]	23.0
+	metacyc-v5-2011-10-21	6.3.5.2	GMP synthase [glutamine-hydrolyzing] OS Micrococcus luteus (strain ATCC 4698 / DSM 20030 JCM 1464 NBRC 3333 NCIMB 9278 NCTC 2665 VKM Ac-2230) GN guaA PE 3 SV 1 # UNIPROT C5CBZ4 GMP-SYN-GLUT-RXN 6.3.5.2	43.0
+	KEGG_pep_2013	6.3.5.2	GMP synthase, large subunit (EC:6.3.5.2) K01951 synthase (glutamine-hydrolysing) [EC:6.3.5.2]	19.0
+
+uppermesopelagic_500m_7515_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/152985331 putative acyl-CoA thiolase Annotation generated automatically transferring annotation from manually curated GenBank accession AE004091 identified match to protein family HMM PF00108 PF02803 TIGR01930	23.0
+	RefSeq_complete_nr_v62_dec2013		acetyl-CoA acetyltransferase [Acinetobacter radioresistens]	4.0
+	COG_2013-12-27		COG0183 # I Lipid transport metabolism Function: Acetyl-CoA acetyltransferase Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	16.0
+	seed-2014-01-30	2.3.1.16	3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase 2.3.1.9) [Psychrobacter sp. 1501(2011)]	21.0
+	metacyc-v5-2011-10-21	2.3.1.9	Probable acetyl-CoA acetyltransferase, cytosolic 2 OS Arabidopsis thaliana GN At5g47720 PE SV 1 # UNIPROT Q9FIK7 ACETYL-COA-ACETYLTRANSFER-RXN 2.3.1.9	28.0
+	KEGG_pep_2013	2.3.1.9	putative acetyl-CoA acetyltransferase (acetoacetyl-CoA thiolase) (EC:2.3.1.9) K00626 C-acetyltransferase [EC:2.3.1.9]	19.0
+
+uppermesopelagic_500m_2744_0				
+	EggNog_v3_2013_08_07		secA http://www.ncbi.nlm.nih.gov/protein/116254034 preprotein translocase subunit SecA functions protein export interact acidic membrane phospholipids SecYEG complex binds to preproteins ATP undergoes conformational change promote insertion SecA/bound preprotein hydrolysis appears drive release from SecA deinsertion membrane additional proteins SecD/F/YajC aid recycling exists equilibrium between monomers dimers may possibly form higher order oligomers this cluster correspond SecA1 SecA2 not essential seems play role secretion subset	58.0
+	RefSeq_complete_nr_v62_dec2013		preprotein translocase subunit SecA [Rhizobium sp. CCGE 510]	8.0
+	COG_2013-12-27		COG0653 # U Intracellular trafficking, secretion, vesicular transport Function: Preprotein translocase subunit SecA (ATPase, RNA helicase) Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	23.0
+	seed-2014-01-30		Protein export cytoplasm protein SecA ATPase RNA helicase (TC 3.A.5.1.1) [Wolbachia endosymbiont Onchocerca ochengi str.	14.0
+	KEGG_pep_2013		secA preprotein translocase subunit SecA K03070 SecA	6.0
+
+uppermesopelagic_500m_2745_0				
+	EggNog_v3_2013_08_07		recN http://www.ncbi.nlm.nih.gov/protein/104780010 DNA repair protein RecN Evidence 2b : Function strongly homologous gene Product type e enzyme	16.0
+	RefSeq_complete_nr_v62_dec2013		DNA repair protein RecN [Mesorhizobium sp. STM 4661]	7.0
+	COG_2013-12-27		COG0497 # L Replication, recombination repair Function: ATPase involved DNA Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	17.0
+	seed-2014-01-30		DNA repair protein RecN [Bradyrhizobium japonicum USDA 6]	7.0
+	KEGG_pep_2013	2.1.1.35	ATPase (EC:2.1.1.35) K03631 DNA repair protein RecN (Recombination N)	18.0
+
+uppermesopelagic_500m_2745_1				
+	EggNog_v3_2013_08_07		comL http://www.ncbi.nlm.nih.gov/protein/77462668 putative ComL lipoprotein Citation: Dubnau. (1999). DNA uptake bacteria. An. Rev. Microbiol. 53: 217-244.	16.0
+	RefSeq_complete_nr_v62_dec2013		competence lipoprotein ComL, putative [Oceanicaulis sp. HTCC2633]	7.0
+	COG_2013-12-27		COG4105 # R General function prediction only Function: DNA uptake lipoprotein Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	18.0
+	seed-2014-01-30		competence lipoprotein ComL, putative [Rhodospirillum rubrum F11]	7.0
+	KEGG_pep_2013		tetratricopeptide repeat family protein K05807 putative lipoprotein	6.0
+
+uppermesopelagic_500m_2747_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/116626960 ABC transporter related PFAM: SMART: AAA ATPase KEGG: transporter, ATPase subunit	11.0
+	RefSeq_complete_nr_v62_dec2013		efflux ABC transporter, macrolide exporter (MacB) family, ATP-binding protein [Glaciecola arctica]	10.0
+	COG_2013-12-27		COG1136 # V Defense mechanisms Function: ABC-type antimicrobial peptide transport system, ATPase component Organism: Nostoc sp. PCC 7120 (Nos)	19.0
+	seed-2014-01-30		Cell division transporter, ATP-binding protein FtsE (TC 3.A.5.1.1) [Paenibacillus polymyxa ATCC 842]	11.0
+	KEGG_pep_2013	3.6.3.28	ATP binding cassette (abc) transporter, putative (EC:3.6.3.28)	17.0
+
+uppermesopelagic_500m_2740_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/194292337 ATP-dependent DEAD/DEAH box helicase Evidence 2b : Function strongly homologous gene Product type e enzyme	16.0
+	RefSeq_complete_nr_v62_dec2013		DEXH box helicase, DNA ligase-associated [Pseudomonas syringae]	7.0
+	seed-2014-01-30		FIG003033: Helicase domain protein [Pseudomonas syringae pv. actinidiae str. NCPPB 3739]	10.0
+	KEGG_pep_2013		helicase, C-terminal:DEAD/DEAH box N-terminal K03724 ATP-dependent helicase Lhr Lhr-like [EC:3.6.4.-]	10.0
+
+uppermesopelagic_500m_2741_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/159901480 DEAD/DEAH box helicase domain-containing protein PFAM: domain DbpA RNA-binding SMART: DEAD-like helicases KEGG: sth:STH1647 ATP-dependent RNA	16.0
+	RefSeq_complete_nr_v62_dec2013		DNA/RNA helicase, superfamily II [Desulfovibrio africanus]	6.0
+	COG_2013-12-27		COG0513 # LKJ Function: Superfamily II DNA RNA helicases Organism: Streptococcus pneumoniae TIGR4 (Spn)	14.0
+	seed-2014-01-30	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshA (EC 3.6.4.13) [Streptococcus mitis bv. 2 str. SK95]	23.0
+	KEGG_pep_2013	3.6.4.13	DEAD/DEAH box helicase domain protein K05592 ATP-dependent RNA DeaD [EC:3.6.4.13]	19.0
+
+uppermesopelagic_500m_2742_0				
+	EggNog_v3_2013_08_07		BP2115 http://www.ncbi.nlm.nih.gov/protein/33593129  Similar to proteins e.g. Helicobacter pylori J99 protein JHP0295 TR:Q9ZMC6 (EMBL:AE001466) (293 aa) fasta scores: E(): 2.6e-24, 36.8% id 288 aa Yersinia pseudotuberculosis TR:Q9X9F8 (EMBL:AJ236887) 8.9e-20, 37.5%	28.0
+	RefSeq_complete_nr_v62_dec2013		polysaccharide deacetylase [Acetobacteraceae bacterium AT-5844]	5.0
+	seed-2014-01-30		FIG00431945:  [Bordetella pertussis B1917]	4.0
+
+uppermesopelagic_500m_8742_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR202 cluster bacterium SCGC AAA240-N13]	5.0
+
+uppermesopelagic_500m_8743_0				
+	RefSeq_complete_nr_v62_dec2013		 [Candidatus Microthrix parvicella]	3.0
+
+uppermesopelagic_500m_1205_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR406 cluster bacterium SCGC AB-629-J13]	5.0
+
+uppermesopelagic_500m_1206_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/220933749 Domain unknown function DUF1791 PFAM: KEGG: 	7.0
+	RefSeq_complete_nr_v62_dec2013		 [Thioalkalivibrio sp. ALMg11]	3.0
+	seed-2014-01-30		Blr3520 protein homolog, hypothetical [Oceanibulbus indolifex HEL-45]	6.0
+	KEGG_pep_2013		 K09004 protein	1.0
+
+uppermesopelagic_500m_1202_1				
+	RefSeq_complete_nr_v62_dec2013		 [SAR406 cluster bacterium SCGC AB-629-J13]	5.0
+
+uppermesopelagic_500m_1203_0	CAZy_2013-07-13		 [Vitis vinifera] (GH:28)	3.0
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/147669325 Ser-tRNA(Thr) hydrolase / threonyl-tRNA synthetase TIGRFAM: PFAM: tRNA synthetase, class II (G, H, P S) Anticodon-binding domain protein Threonyl/alanyl SAD	20.0
+	RefSeq_complete_nr_v62_dec2013		threonyl-tRNA synthetase [Leptolyngbya sp. PCC 7375]	6.0
+	COG_2013-12-27		COG0441 # J Translation, ribosomal structure biogenesis Function: Threonyl-tRNA synthetase Organism: Nostoc sp. PCC 7120 (Nos)	16.0
+	seed-2014-01-30	6.1.1.3	Threonyl-tRNA synthetase (EC 6.1.1.3) [Nostoc sp. PCC 7120]	18.0
+	metacyc-v5-2011-10-21	6.1.1.3	Threonyl-tRNA synthetase OS Acidobacterium capsulatum (strain ATCC 51196 / DSM 11244 JCM 7670) GN thrS PE 3 SV 1 # UNIPROT C1F9K5 THREONINE--TRNA-LIGASE-RXN 6.1.1.3	34.0
+	KEGG_pep_2013	6.1.1.3	EMB2761 (EMBRYO DEFECTIVE 2761) ATP binding / aminoacyl-tRNA ligase/ ligase, forming related compounds nucleotide threonine-tRNA ligase (EC:6.1.1.3) K01868 threonyl-tRNA synthetase [EC:6.1.1.3]	31.0
+
+uppermesopelagic_500m_8741_0				
+	RefSeq_complete_nr_v62_dec2013		3-oxoacyl-ACP reductase [SAR324 cluster bacterium SCGC AAA001-C10]	7.0
+	seed-2014-01-30	1.1.1.100	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100) [SAR324 cluster bacterium SCGC AAA240-J09]	20.0
+
+uppermesopelagic_500m_8741_1				
+	RefSeq_complete_nr_v62_dec2013		apolipoprotein N-acyltransferase [SAR324 cluster bacterium JCVI-SC AAA005]	7.0
+	seed-2014-01-30		Apolipoprotein N-acyltransferase (EC 2.3.1.-) / Copper homeostasis protein CutE [SAR324 cluster bacterium SCGC AAA240-J09]	13.0
+
+uppermesopelagic_500m_1209_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/148259930 ATP-dependent protease La TIGRFAM: PFAM: peptidase S16, lon domain protein AAA ATPase, central ATPase associated various cellular activities, SMART:	19.0
+	RefSeq_complete_nr_v62_dec2013		ATP-dependent protease La Type I [Caenispirillum salinarum]	7.0
+	COG_2013-12-27		COG0466 # O Posttranslational modification, protein turnover, chaperones Function: ATP-dependent Lon protease, bacterial type Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	20.0
+	seed-2014-01-30	3.4.21.53	ATP-dependent protease La (EC 3.4.21.53) Type I [Acetobacter pasteurianus NBRC 101655]	21.0
+	KEGG_pep_2013	3.4.21.53	lon ATP-dependent protease La (EC:3.4.21.53) K01338 Lon [EC:3.4.21.53]	18.0
+
+uppermesopelagic_500m_3366_0				
+	RefSeq_complete_nr_v62_dec2013		cobalamin biosynthesis protein CobD [SAR324 cluster bacterium SCGC AAA001-C10]	8.0
+	seed-2014-01-30	6.3.1.10	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10) [SAR324 cluster bacterium SCGC AAA001-C10]	19.0
+
+uppermesopelagic_500m_3366_1				
+	RefSeq_complete_nr_v62_dec2013		cobalamin biosynthesis protein CobD [SAR324 cluster bacterium SCGC AAA001-C10]	8.0
+	seed-2014-01-30	6.3.1.10	Adenosylcobinamide-phosphate synthase (EC 6.3.1.10) [SAR324 cluster bacterium SCGC AAA240-J09]	19.0
+
+uppermesopelagic_500m_3360_0				
+	EggNog_v3_2013_08_07		purF http://www.ncbi.nlm.nih.gov/protein/77463011 amidophosphoribosyltransferase Catalyzes first step de novo purine nucleotide biosynthetic pathway	12.0
+	RefSeq_complete_nr_v62_dec2013		Amidophosphoribosyltransferase [Rhodobacter sp. AKP1]	4.0
+	COG_2013-12-27		COG0034 # F Nucleotide transport metabolism Function: Glutamine phosphoribosylpyrophosphate amidotransferase Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	17.0
+	seed-2014-01-30	2.4.2.14	Amidophosphoribosyltransferase (EC 2.4.2.14) [Rhodospirillum rubrum F11]	16.0
+	metacyc-v5-2011-10-21	2.4.2.14	Amidophosphoribosyltransferase OS Rhizobium etli GN purF PE 3 SV 1 # UNIPROT P77935 PRPPAMIDOTRANS-RXN 2.4.2.14	25.0
+	KEGG_pep_2013	2.4.2.14	purF amidophosphoribosyltransferase (EC:2.4.2.14) K00764 [EC:2.4.2.14]	15.0
+
+uppermesopelagic_500m_3360_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/99081626 colicin V production protein PFAM: Colicin protein: (2e-21) KEGG: sil:SPO2675 CvpA family protein, ev 2e-73, 73% identity	17.0
+	RefSeq_complete_nr_v62_dec2013		colicin V production CvpA [Salipiger mucosus]	6.0
+	seed-2014-01-30		Colicin V production protein [Roseovarius sp. 217]	6.0
+	KEGG_pep_2013		CvpA family protein K03558 membrane protein required colicin V production	8.0
+
+uppermesopelagic_500m_4403_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR324 cluster bacterium SCGC AAA001-C10]	5.0
+	seed-2014-01-30		Diadenylate cyclase spyDAC Bacterial checkpoint controller DisA nucleotide-binding domain [SAR324 cluster bacterium SCGC AAA001-C10]	14.0
+
+uppermesopelagic_500m_4403_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/116626116 ATP-dependent metalloprotease FtsH KEGG: TIGRFAM: PFAM: peptidase M41 AAA ATPase, central domain protein M41, FtsH extracellular ATPase associated various cellular activities, SMART:	21.0
+	RefSeq_complete_nr_v62_dec2013		membrane protease FtsH catalytic subunit [Desulfovibrio africanus]	7.0
+	COG_2013-12-27		COG0465 # O Posttranslational modification, protein turnover, chaperones Function: ATP-dependent Zn proteases Organism: Salmonella typhimurium LT2 (Sty)	16.0
+	seed-2014-01-30		Cell division protein FtsH (EC 3.4.24.-) [endosymbiont Tevnia jerichonana (vent Tica)]	10.0
+	KEGG_pep_2013	3.6.4.3	ATP-dependent metalloprotease FtsH (EC:3.6.4.3) K03798 cell division protease [EC:3.4.24.-]	19.0
+
+uppermesopelagic_500m_3362_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/120553746 HAD family hydrolase TIGRFAM: HAD-superfamily hydrolase, subfamily IB (PSPase-like) TIGR01490 PFAM: Haloacid dehalogenase domain protein KEGG: hypothetical	17.0
+	RefSeq_complete_nr_v62_dec2013		HAD-super family hydrolase [Pseudomonas avellanae]	5.0
+	COG_2013-12-27		COG0560 # E Amino acid transport metabolism Function: Phosphoserine phosphatase Organism: Neisseria meningitidis Z2491 (NmA)	15.0
+	seed-2014-01-30	3.1.3.3	Phosphoserine phosphatase (EC 3.1.3.3) [Pseudomonas syringae pv. actinidiae str. NCPPB 3871]	21.0
+	KEGG_pep_2013		HAD-superfamily subfamily IB hydrolase, TIGR01490	5.0
+
+uppermesopelagic_500m_5916_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/162138287 indolepyruvate ferredoxin oxidoreductase Catalyzes ferredoxin-dependent oxidative decarboxylation arylpyruvates	9.0
+	RefSeq_complete_nr_v62_dec2013		Pyruvate ferredoxin/flavodoxin oxidoreductase [Mesorhizobium sp. STM 4661]	7.0
+	COG_2013-12-27		COG4231 # C Energy production conversion Function: Indolepyruvate ferredoxin oxidoreductase, alpha beta subunits Organism: Caulobacter vibrioides (Ccr)	17.0
+	seed-2014-01-30		Indolepyruvate ferredoxin oxidoreductase, alpha beta subunits [Bradyrhizobium japonicum USDA 6]	10.0
+	KEGG_pep_2013	1.2.7.8	Indolepyruvate ferredoxin oxidoreductase IorA-like protein K04090 indolepyruvate oxidoreductase [EC:1.2.7.8]	17.0
+
+uppermesopelagic_500m_5917_0				
+	RefSeq_complete_nr_v62_dec2013		, partial [Gemmata obscuriglobus]	4.0
+	seed-2014-01-30		-putative related to sulfatases [Verrucomicrobia bacterium SCGC AAA168-F10]	8.0
+
+uppermesopelagic_500m_5913_0				
+	RefSeq_complete_nr_v62_dec2013		 [Marine Group I thaumarchaeote SCGC AB-629-I23]	6.0
+
+uppermesopelagic_500m_5913_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/161528223 Mov34/MPN/PAD-1 family protein PFAM: KEGG: mth:MTH971 	6.0
+	RefSeq_complete_nr_v62_dec2013		 [Marine Group I thaumarchaeote SCGC AB-629-I23]	6.0
+	seed-2014-01-30		Mov34/MPN/PAD-1 family [Nitrosopumilus maritimus SCM1]	5.0
+	KEGG_pep_2013		metal-dependent protease PAD1/JA B1 superfamily	5.0
+
+uppermesopelagic_500m_8749_0				
+	RefSeq_complete_nr_v62_dec2013		ribulose-phosphate 3-epimerase [Saccharomonospora marina]	4.0
+	seed-2014-01-30	5.1.3.1	Ribulose-phosphate 3-epimerase (EC 5.1.3.1) [Desulfarculus baarsii DSM 2075]	18.0
+	KEGG_pep_2013	5.1.3.1	ribulose-phosphate 3-epimerase (EC:5.1.3.1) K01783 [EC:5.1.3.1]	15.0
+
+uppermesopelagic_500m_8749_1				
+	EggNog_v3_2013_08_07		clpP http://www.ncbi.nlm.nih.gov/protein/83589392 ATP-dependent Clp protease proteolytic subunit hydrolyzes proteins to small peptides ATPase subunits ClpA or ClpX, ClpP degrades specific substrates	21.0
+	RefSeq_complete_nr_v62_dec2013		ATP-dependent Clp endopeptidase, proteolytic subunit ClpP [Clostridium celatum]	8.0
+	COG_2013-12-27		COG0740 # OU Function: Protease subunit ATP-dependent Clp proteases Organism: Salmonella typhimurium LT2 (Sty)	14.0
+	seed-2014-01-30	3.4.21.92	ATP-dependent Clp protease proteolytic subunit (EC 3.4.21.92) [Brevibacillus laterosporus LMG 15441]	21.0
+	KEGG_pep_2013	3.4.21.92	ATP-dependent Clp protease proteolytic subunit, putative (EC:3.4.21.92)	17.0
+
+uppermesopelagic_500m_4355_0				
+	EggNog_v3_2013_08_07		fabG http://www.ncbi.nlm.nih.gov/protein/110677512 3-ketoacyl-(acyl-carrier-protein) reductase Catalyzes first two reduction steps elongation cycle fatty acid synthesis	14.0
+	RefSeq_complete_nr_v62_dec2013		short-chain dehydrogenase [Mesorhizobium sp. WSM4349]	5.0
+	seed-2014-01-30	1.1.1.100	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100) [Rhizobium sp. CCGE 510]	19.0
+	KEGG_pep_2013	1.1.1.100	fabG 3-ketoacyl-(acyl-carrier-protein) reductase (EC:1.1.1.100) K00059 3-oxoacyl-[acyl-carrier protein] [EC:1.1.1.100]	18.0
+
+uppermesopelagic_500m_4354_0				
+	RefSeq_complete_nr_v62_dec2013		saccharopine dehydrogenase domain protein [SAR86 cluster bacterium SAR86E]	7.0
+	seed-2014-01-30		 [SAR86 cluster bacterium SAR86E]	4.0
+
+uppermesopelagic_500m_4356_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/152986136 putative acyl-CoA dehydrogenase Annotation generated automatically transferring annotation from manually curated GenBank accession AE004091 identified match to protein family HMM PF00441 PF02770	22.0
+	RefSeq_complete_nr_v62_dec2013		putative acyl-CoA dehydrogenase [Pseudomonas sp. M1]	6.0
+	COG_2013-12-27		COG1960 # I Lipid transport metabolism Function: Acyl-CoA dehydrogenases Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	16.0
+	seed-2014-01-30	1.3.8.7	Acyl-CoA dehydrogenase (EC 1.3.8.7) [Pseudomonas putida CSV86]	17.0
+	KEGG_pep_2013	1.3.99.3	acyl-coa dehydrogenase (EC:1.3.99.3) K00249 acyl-CoA [EC:1.3.99.3]	16.0
+
+uppermesopelagic_500m_4350_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/188996323 succinate dehydrogenase fumarate reductase iron-sulfur protein KEGG: reductase, subunit TIGRFAM: PFAM: ferredoxin	12.0
+	RefSeq_complete_nr_v62_dec2013		Succinate dehydrogenase, Fe-S protein subunit [Nitrospina gracilis]	6.0
+	seed-2014-01-30	1.3.99.1	Succinate dehydrogenase iron-sulfur protein (EC 1.3.99.1) [Nitratiruptor sp. SB155-2]	18.0
+	KEGG_pep_2013	1.3.99.1	sdhB succinate dehydrogenase/fumarate reductase Fe-s protein subunit (EC:1.3.99.1) K00240 dehydrogenase iron-sulfur [EC:1.3.99.1]	21.0
+
+uppermesopelagic_500m_4350_1				
+	EggNog_v3_2013_08_07		sdhA http://www.ncbi.nlm.nih.gov/protein/16082037 succinate dehydrogenase flavoprotein subunit part four member enzyme complex that forms trimeric (trimer tetramers) SdhA/B are catalytic subcomplex exhibit activity absence SdhC/D which membrane components form cytochrome b556 SdhC binds ubiquinone oxidizes to fumarate while reducing ubiquinone ubiquinol	39.0
+	RefSeq_complete_nr_v62_dec2013		ubiquinone-dependent succinate dehydrogenase or fumarate reductase, flavoprotein subunit [Synechocystis sp. PCC 7509]	12.0
+	COG_2013-12-27		COG1053 # C Energy production conversion Function: Succinate dehydrogenase/fumarate reductase, flavoprotein subunit Organism: Aeropyrum pernix (Ape)	16.0
+	seed-2014-01-30	1.3.99.1	Succinate dehydrogenase flavoprotein subunit (EC 1.3.99.1) [Alicyclobacillus acidocaldarius subsp. Tc-4-1]	20.0
+	KEGG_pep_2013	1.3.5.1	sdh1 succinate dehydrogenase Sdh1 (EC:1.3.5.1) K00234 (ubiquinone) flavoprotein subunit [EC:1.3.5.1]	20.0
+
+uppermesopelagic_500m_4353_0				
+	EggNog_v3_2013_08_07		BQ13010 http://www.ncbi.nlm.nih.gov/protein/49474782 putative DNA-binding/iron metalloprotein/AP endonuclease most organisms, only N-terminal domain present single polypeptide some archaea this fused to kinase domain gene essential growth Escherichia coli Bacillus subtilis secreted glycoprotease from Pasteurella haemolytica showed specificity O-sialoglycosylated proteins Pyrococcus structure shows DNA-binding properties, iron-binding, ATP-binding, AP endonuclease activity	45.0
+	RefSeq_complete_nr_v62_dec2013		tRNA threonylcarbamoyladenosine biosynthesis protein Gcp [alpha proteobacterium HIMB5]	7.0
+	COG_2013-12-27		COG0533 # O Posttranslational modification, protein turnover, chaperones Function: Metal-dependent proteases possible chaperone activity Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	20.0
+	seed-2014-01-30		TsaD/Kae1/Qri7 protein, required threonylcarbamoyladenosine t(6)A37 formation tRNA [Rickettsia typhi str. B9991CWPP]	11.0
+	KEGG_pep_2013	3.4.24.57	YgjD/Kae1/Qri7 family, required threonylcarbamoyladenosine (t(6)A) formation tRNA K01409 O-sialoglycoprotein endopeptidase [EC:3.4.24.57]	21.0
+
+uppermesopelagic_500m_4353_1				
+	EggNog_v3_2013_08_07		hemC http://www.ncbi.nlm.nih.gov/protein/71083016 hydroxymethylbilane synthase	4.0
+	RefSeq_complete_nr_v62_dec2013		hydroxymethylbilane synthase [Candidatus Pelagibacter sp. HTCC7211]	6.0
+	seed-2014-01-30	2.5.1.61	Porphobilinogen deaminase (EC 2.5.1.61) [Pelagibacter sp. HTCC7211]	17.0
+	KEGG_pep_2013	2.5.1.61	hemC hydroxymethylbilane synthase (EC:2.5.1.61) K01749 [EC:2.5.1.61]	16.0
+
+uppermesopelagic_500m_4352_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/262194651 transposase IS4 family protein PFAM: KEGG: (IS4 protein)	8.0
+	RefSeq_complete_nr_v62_dec2013		transposase IS4 family protein [Desulfotignum phosphitoxidans]	5.0
+	KEGG_pep_2013		transposase IS4 family protein	3.0
+
+uppermesopelagic_500m_4359_0				
+	EggNog_v3_2013_08_07	3.1.6.1	RB773 http://www.ncbi.nlm.nih.gov/protein/32471072 arylsulfatase PMID: 3181160 best DB hits: BLAST: pir:S07089 arylsulfatase (EC 3.1.6.1) - sea urchin (Lytechinus E 2e-29 swissprot:P14000 ARYLSULFATASE PRECURSOR (ARYL-SULFATE embl:CAA34667.1 (X16679) [Hemicentrotus COG: ydeN COG3119 Arylsulfatase A related enzymes 3e-25 VC2041 COG3083 Predicted hydrolase alkaline phosphatase 6e-05 VNG0061C 9e-05 PFAM: PF00884 Sulfatase 6.3e-50	56.0
+	RefSeq_complete_nr_v62_dec2013		N-acetylgalactosamine 6-sulfate sulfatase (GALNS) [Gemmata obscuriglobus]	6.0
+	COG_2013-12-27		COG3119 # P Inorganic ion transport metabolism Function: Arylsulfatase A related enzymes Organism: Salmonella typhimurium LT2 (Sty)	17.0
+	seed-2014-01-30	3.1.6.1	Arylsulfatase (EC 3.1.6.1) [Verrucomicrobia bacterium SCGC AAA168-F10]	17.0
+	KEGG_pep_2013	3.1.6.2	Steryl-sulfatase (EC:3.1.6.2)	12.0
+
+uppermesopelagic_500m_4359_1				
+	RefSeq_complete_nr_v62_dec2013		iron-sulfur binding protein [Verrucomicrobia bacterium SCGC AAA164-E04]	6.0
+	seed-2014-01-30		probable iron binding protein from family [Verrucomicrobium spinosum DSM 4136]	9.0
+
+uppermesopelagic_500m_4358_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/221638236 Cytochrome c oxidase assembly protein	5.0
+	RefSeq_complete_nr_v62_dec2013		Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion [Rhodobacter sp. AKP1]	11.0
+	seed-2014-01-30		Cytochrome oxidase biogenesis protein Surf1, facilitates heme A insertion [Ruegeria pomeroyi DSS-3]	11.0
+	KEGG_pep_2013		cytochrome c oxidase assembly protein	4.0
+
+uppermesopelagic_500m_794_0				
+	EggNog_v3_2013_08_07		RPA4432 http://www.ncbi.nlm.nih.gov/protein/39937492 NHL repeat-containing protein observed proteomics Citation: Proteomics from VerBerkmoes et al. (2003) unpublished	14.0
+	RefSeq_complete_nr_v62_dec2013		NHL repeat [marine gamma proteobacterium HTCC2143]	6.0
+	seed-2014-01-30		InterPro IPR001258 [marine gamma proteobacterium HTCC2143]	6.0
+	KEGG_pep_2013		NHL repeat containing protein	3.0
+
+uppermesopelagic_500m_795_0				
+	EggNog_v3_2013_08_07		RB8768 http://www.ncbi.nlm.nih.gov/protein/32475538 moxR-type regulator best DB hits: BLAST: pir:G83261 conserved  PA3070 [imported] - E 9e-66 pir:H82493 MoxR-related VCA0175 - Vibrio 2e-65 pir:B70874 probable moxR Mycobacterium tuberculosis 4e-63 COG: PA3070 COG0714 MoxR-like ATPases 9e-67 PFAM: PF01078 Magnesium chelatase, subunit Chl 1e-06	37.0
+	RefSeq_complete_nr_v62_dec2013		magnesium chelatase subunit I [Rhodopirellula europaea]	6.0
+	COG_2013-12-27		COG0714 # R General function prediction only Function: MoxR-like ATPases Organism: Mycobacterium tuberculosis H37Rv (Mtu)	15.0
+	seed-2014-01-30		MoxR-like ATPase aerotolerance operon [Verrucomicrobia bacterium SCGC AAA168-F10]	8.0
+	KEGG_pep_2013		MoxR-type regulator protein K03924 MoxR-like ATPase [EC:3.6.3.-]	6.0
+
+uppermesopelagic_500m_973_0				
+	RefSeq_complete_nr_v62_dec2013		 [Poribacteria bacterium WGA-3G]	3.0
+
+uppermesopelagic_500m_976_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/170289216 daunorubicin resistance ABC transporter ATPase subunit KEGG: tma:TM1403 antibiotic transporter, ATP-binding protein, putative TIGRFAM: PFAM: related SMART: AAA	19.0
+	RefSeq_complete_nr_v62_dec2013		daunorubicin resistance ABC transporter ATP-binding subunit [Thermoplasmatales archaeon SCGC AB-540-F20]	10.0
+	COG_2013-12-27		COG1131 # V Defense mechanisms Function: ABC-type multidrug transport system, ATPase component Organism: Sulfolobus solfataricus (Sso)	16.0
+	seed-2014-01-30		ABC-type multidrug transport system, ATPase component [Thermotoga sp. EMP]	9.0
+	KEGG_pep_2013	3.6.3.25	daunorubicin resistance ABC transporter ATPase subunit (EC:3.6.3.25) K09687 antibiotic transport system ATP-binding protein	22.0
+
+uppermesopelagic_500m_977_0				
+	RefSeq_complete_nr_v62_dec2013		phenylalanyl-tRNA synthetase subunit beta [Schlesneria paludicola]	6.0
+	seed-2014-01-30	6.1.1.20	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20) [Schlesneria paludicola DSM 18645]	20.0
+
+uppermesopelagic_500m_799_0				
+	EggNog_v3_2013_08_07		moxR http://www.ncbi.nlm.nih.gov/protein/32475717 MoxR-related protein PMID: 8997703 best DB hits: BLAST: pir:H82493 protein VCA0175 [imported] - Vibrio E 4e-67 pir:C75037 methanol dehydrogenase regulatory (moxr-3) 3e-65 pir:G71146 hypothetical PH0385 Pyrococcus horikoshii 6e-65 COG: VCA0175 COG0714 MoxR-like ATPases 4e-68 PFAM: PF00004 ATPase family associated with 0.00052 PF01078 Magnesium chelatase, subunit 0.00014	44.0
+	RefSeq_complete_nr_v62_dec2013		methanol dehydrogenase regulator (moxR)-like protein [Rhodopirellula sallentina]	6.0
+	COG_2013-12-27		COG0714 # R General function prediction only Function: MoxR-like ATPases Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	17.0
+	seed-2014-01-30		MoxR protein [Flavobacterium columnare ATCC 49512]	5.0
+	KEGG_pep_2013		ATPase associated various cellular activities K03924 MoxR-like [EC:3.6.3.-]	8.0
+
+uppermesopelagic_500m_5931_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/77165026 Outer membrane efflux protein	4.0
+	RefSeq_complete_nr_v62_dec2013		transporter [Nitrosococcus watsonii]	3.0
+	seed-2014-01-30		Heavy metal RND efflux outer membrane protein, CzcC family [Salinisphaera shabanensis E1L3A]	12.0
+	KEGG_pep_2013		outer membrane efflux protein	3.0
+
+uppermesopelagic_500m_5936_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/77465253 major facilitator transporter Major superfamily (MFS) some homology UhpC, sugar phosphate permease involved carbohydrate transport metabolism.	17.0
+	RefSeq_complete_nr_v62_dec2013		major facilitator superfamily protein [Halorubrum tebenquichense]	5.0
+	seed-2014-01-30		Possible transporter, Major facilitator superfamily (MFS) [Burkholderia sp. BT03]	9.0
+	KEGG_pep_2013		major facilitator superfamily	3.0
+
+uppermesopelagic_500m_5934_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/124024559  COG3063 Tfp pilus assembly protein PilF [Cell motility secretion / Intracellular trafficking secretion]	13.0
+	RefSeq_complete_nr_v62_dec2013		chaperone protein DnaJ [Treponema primitia]	4.0
+	seed-2014-01-30		TPR domain protein, putative component TonB system [Treponema primitia ZAS-1]	10.0
+
+uppermesopelagic_500m_5935_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/58616491 UbiD-like subunit putative (de) carboxylase	6.0
+	RefSeq_complete_nr_v62_dec2013		ubiquinone biosynthesis protein UbiD [delta proteobacterium NaphS2]	6.0
+	seed-2014-01-30		3-polyprenyl-4-hydroxybenzoate carboxy-lyase (EC 4.1.1.-) [Desulfobacula toluolica Tol2]	7.0
+	KEGG_pep_2013		UbiD-like subunit putative (de) carboxylase K03182 3-octaprenyl-4-hydroxybenzoate carboxy-lyase UbiD [EC:4.1.1.-]	10.0
+
+uppermesopelagic_500m_8537_0				
+	EggNog_v3_2013_08_07		secD http://www.ncbi.nlm.nih.gov/protein/134098599 preprotein translocase subunit SecD part secretory system when complexed proteins SecF YajC, SecDFyajC stimulates proton motive force-driven protein translocation, appears to be required release mature from extracytoplasmic side membrane	30.0
+	RefSeq_complete_nr_v62_dec2013		preprotein translocase subunit SecD, partial [Pseudonocardia sp. P1]	8.0
+	seed-2014-01-30		Protein-export membrane protein SecD (TC 3.A.5.1.1) [Salinibacterium sp. PAMC 21357]	9.0
+	KEGG_pep_2013		protein-export membrane protein SecD K03072 preprotein translocase subunit SecD	7.0
+
+uppermesopelagic_500m_8536_0				
+	RefSeq_complete_nr_v62_dec2013		fumarate reductase/succinate dehydrogenase flavoprotein domain-containing protein [SAR324 cluster bacterium SCGC AAA001-C10]	10.0
+	seed-2014-01-30		440aa long  [SAR324 cluster bacterium SCGC AAA001-C10]	7.0
+
+uppermesopelagic_500m_8533_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR202 cluster bacterium SCGC AAA240-N13]	5.0
+
+uppermesopelagic_500m_8533_1				
+	RefSeq_complete_nr_v62_dec2013		 [SAR202 cluster bacterium SCGC AAA240-N13]	5.0
+
+uppermesopelagic_500m_8532_0				
+	RefSeq_complete_nr_v62_dec2013		 [Loktanella cinnabarina]	2.0
+
+uppermesopelagic_500m_8538_0				
+	EggNog_v3_2013_08_07		glyQ http://www.ncbi.nlm.nih.gov/protein/126461279 glycyl-tRNA synthetase subunit alpha glycine--tRNA ligase alpha chain GlyRS class II aminoacyl tRNA synthetase tetramer alpha(2)beta(2) catalyzes two-step reaction first charging glycine molecule linking its carboxyl group to alpha-phosphate ATP second transfer aminoacyl-adenylate	33.0
+	RefSeq_complete_nr_v62_dec2013		glycyl-tRNA synthetase subunit alpha [Rhizobium sp. Pop5]	7.0
+	COG_2013-12-27		COG0752 # J Translation, ribosomal structure biogenesis Function: Glycyl-tRNA synthetase, alpha subunit Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	19.0
+	seed-2014-01-30	6.1.1.14	Glycyl-tRNA synthetase alpha chain (EC 6.1.1.14) [Rhizobium etli CIAT 894]	20.0
+	metacyc-v5-2011-10-21	6.1.1.14	Glycyl-tRNA synthetase alpha subunit OS Oenococcus oeni (strain BAA-331 / PSU-1) GN glyQ PE 3 SV 1 # UNIPROT Q04F71 GLYCINE--TRNA-LIGASE-RXN 6.1.1.14	32.0
+	KEGG_pep_2013	6.1.1.14	EDD1 EDD1 (EMBRYO-DEFECTIVE-DEVELOPMENT 1) glycine-tRNA ligase K14164 glycyl-tRNA synthetase [EC:6.1.1.14]	19.0
+
+uppermesopelagic_500m_8538_1				
+	RefSeq_complete_nr_v62_dec2013		peptidoglycan-binding protein [Citreicella sp. SE45]	4.0
+	seed-2014-01-30		Peptidoglycan binding domain protein [Thalassiobium sp. R2A62]	6.0
+
+uppermesopelagic_500m_6268_0				
+	RefSeq_complete_nr_v62_dec2013		putative beta-galactosidase [Sphingomonas sp. KC8]	5.0
+	seed-2014-01-30		probable beta-galactosidase [Sphingomonas sp. KC8]	5.0
+	KEGG_pep_2013		putative beta-galactosidase	2.0
+
+uppermesopelagic_500m_6267_0				
+	EggNog_v3_2013_08_07		atpG http://www.ncbi.nlm.nih.gov/protein/111018474 F0F1 ATP synthase subunit gamma Produces from ADP presence proton gradient across membrane. The gamma chain regulatory	18.0
+	RefSeq_complete_nr_v62_dec2013		ATP synthase gamma chain [Streptomyces sp. HPH0547]	7.0
+	seed-2014-01-30	3.6.3.14	ATP synthase gamma chain (EC 3.6.3.14) [Rhodococcus opacus M213]	19.0
+	KEGG_pep_2013	3.6.3.14	atpG F0F1 ATP synthase subunit gamma (EC:3.6.3.14) K02115 F-type H+-transporting ATPase [EC:3.6.3.14]	22.0
+
+uppermesopelagic_500m_6267_1				
+	RefSeq_complete_nr_v62_dec2013		 [Candidatus Microthrix parvicella]	3.0
+
+uppermesopelagic_500m_6266_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/148260372 Serine--glyoxylate transaminase PFAM: aminotransferase, class V aromatic amino acid beta-eliminating lyase/threonine aldolase	13.0
+	RefSeq_complete_nr_v62_dec2013		serine--glyoxylate aminotransferase [Acidiphilium sp. PM]	5.0
+	seed-2014-01-30	2.6.1.45	Serine--glyoxylate aminotransferase (EC 2.6.1.45) [Nocardia brasiliensis ATCC 700358]	18.0
+	KEGG_pep_2013	2.6.1.45	sgaA serine--glyoxylate transaminase (EC:2.6.1.45) K00830 alanine-glyoxylate / serine-glyoxylate serine-pyruvate [EC:2.6.1.44 2.6.1.45 2.6.1.51]	22.0
+
+uppermesopelagic_500m_6266_1				
+	EggNog_v3_2013_08_07		paaG1 http://www.ncbi.nlm.nih.gov/protein/39933561 enoyl-CoA hydratase Catalyzes reversible hydration unsaturated fatty acyl-CoA to beta-hydroxyacyl-CoA	12.0
+	RefSeq_complete_nr_v62_dec2013		enoyl-CoA hydratase [Bradyrhizobium japonicum]	4.0
+	seed-2014-01-30	4.2.1.17	Enoyl-CoA hydratase (EC 4.2.1.17) [Bradyrhizobium sp. ORS 285]	18.0
+	KEGG_pep_2013	4.2.1.17	paaG1 enoyl-CoA hydratase (EC:4.2.1.17) K01692 [EC:4.2.1.17]	16.0
+
+uppermesopelagic_500m_6265_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/226227146 putative tRNA-dihydrouridine synthase	4.0
+	RefSeq_complete_nr_v62_dec2013		TIM-barrel protein, nifR3 family [Caldithrix abyssi]	6.0
+	seed-2014-01-30		tRNA dihydrouridine synthase B (EC 1.-.-.-) [Caldithrix abyssi DSM 13497]	10.0
+	KEGG_pep_2013		putative tRNA-dihydrouridine synthase	3.0
+
+uppermesopelagic_500m_6263_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/217076753 O-sialoglycoprotein endopeptidase	3.0
+	RefSeq_complete_nr_v62_dec2013		O-sialoglycoprotein endopeptidase [Thermotoga]	3.0
+	COG_2013-12-27		COG0533 # O Posttranslational modification, protein turnover, chaperones Function: Metal-dependent proteases possible chaperone activity Organism: Thermotoga maritima (Tma)	17.0
+	seed-2014-01-30		TsaD/Kae1/Qri7 protein, required threonylcarbamoyladenosine t(6)A37 formation tRNA [Thermotoga sp. EMP]	10.0
+
+uppermesopelagic_500m_6262_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/194335670 ABC transporter related PFAM: SMART: AAA ATPase KEGG: related	9.0
+	RefSeq_complete_nr_v62_dec2013		ABC-type multidrug transport system, ATPase permease components [Rhodopirellula baltica]	9.0
+	seed-2014-01-30		Phospholipid-lipopolysaccharide ABC transporter [Leptospira interrogans serovar Bataviae str. L1111]	9.0
+	KEGG_pep_2013	3.6.3.44	Xenobiotic-transporting ATPase (EC:3.6.3.44)	13.0
+
+uppermesopelagic_500m_6261_0				
+	EggNog_v3_2013_08_07		mutB http://www.ncbi.nlm.nih.gov/protein/111224339 methylmalonyl-CoA mutase MDM functions conversion succinate to propionate	10.0
+	RefSeq_complete_nr_v62_dec2013		methylmalonyl-CoA mutase [Kineosphaera limosa]	4.0
+	COG_2013-12-27		COG1884 # I Lipid transport metabolism Function: Methylmalonyl-CoA mutase, N-terminal domain/subunit Organism: Mycobacterium tuberculosis CDC1551 (MtC)	16.0
+	seed-2014-01-30	5.4.99.2	Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2) [Rhodococcus jostii RHA1]	20.0
+	metacyc-v5-2011-10-21	5.4.99.2	Probable methylmalonyl-CoA mutase large subunit OS Mycobacterium tuberculosis GN mutB PE 3 SV 1 # UNIPROT P65487 METHYLMALONYL-COA-MUT-RXN 5.4.99.2	29.0
+	KEGG_pep_2013	5.4.99.2	Mut, D230010K02Rik, Mcm methylmalonyl-Coenzyme A mutase (EC:5.4.99.2) K01847 methylmalonyl-CoA [EC:5.4.99.2]	20.0
+
+uppermesopelagic_500m_6260_1				
+	EggNog_v3_2013_08_07		folP http://www.ncbi.nlm.nih.gov/protein/39996907 dihydropteroate synthase Identified match to protein family HMM PF00809 TIGR01496	11.0
+	RefSeq_complete_nr_v62_dec2013		dihydropteroate synthase [Candidatus Desulforudis audaxviator]	5.0
+	COG_2013-12-27		COG0294 # H Coenzyme transport metabolism Function: Dihydropteroate synthase related enzymes Organism: Bacillus halodurans (Bha)	15.0
+	seed-2014-01-30	2.5.1.15	Dihydropteroate synthase (EC 2.5.1.15) [Symbiobacterium thermophilum IAM 14863]	18.0
+	KEGG_pep_2013	2.5.1.15	folP dihydropteroate synthase (EC:2.5.1.15) K00796 [EC:2.5.1.15]	16.0
+
+uppermesopelagic_500m_5008_0				
+	EggNog_v3_2013_08_07		RB2135 http://www.ncbi.nlm.nih.gov/protein/32471766 heparan N-sulfatase PMID: 11181566 best DB hits: BLAST: gb:AAG41945.1 (AF304053) N-sulfatase [Mus E 4e-62 gb:AAF29467.1 (AF156255) N-sulfoglucosamine sulfohydrolase 6e-62 gb:AAG41946.1 (AF304054) mutant 1e-61 COG: Rv0296c COG3119 Arylsulfatase A related enzymes 7e-23 PAB0793 COG2194 Predicted membrane-associated, metal-dependent 0.002 COG1368 Phosphoglycerol transferase proteins, PFAM: PF00884 Sulfatase 7.8e-22	46.0
+	RefSeq_complete_nr_v62_dec2013		heparan N-sulfatase [Rhodopirellula sp. SWK7]	5.0
+	seed-2014-01-30	3.1.6.6	Choline-sulfatase (EC 3.1.6.6) [Glaciecola polaris LMG 21857]	17.0
+	KEGG_pep_2013		heparan N-sulfatase	2.0
+
+uppermesopelagic_500m_5008_1				
+	EggNog_v3_2013_08_07		RB2135 http://www.ncbi.nlm.nih.gov/protein/32471766 heparan N-sulfatase PMID: 11181566 best DB hits: BLAST: gb:AAG41945.1 (AF304053) N-sulfatase [Mus E 4e-62 gb:AAF29467.1 (AF156255) N-sulfoglucosamine sulfohydrolase 6e-62 gb:AAG41946.1 (AF304054) mutant 1e-61 COG: Rv0296c COG3119 Arylsulfatase A related enzymes 7e-23 PAB0793 COG2194 Predicted membrane-associated, metal-dependent 0.002 COG1368 Phosphoglycerol transferase proteins, PFAM: PF00884 Sulfatase 7.8e-22	46.0
+	RefSeq_complete_nr_v62_dec2013		heparan N-sulfatase [Rhodopirellula sp. SWK7]	5.0
+	seed-2014-01-30	3.1.6.6	Choline-sulfatase (EC 3.1.6.6) [Blastopirellula marina DSM 3645]	17.0
+	KEGG_pep_2013	3.10.1.1	N-sulfoglucosamine sulfohydrolase (EC:3.10.1.1) K01565 [EC:3.10.1.1]	15.0
+
+uppermesopelagic_500m_5009_0				
+	RefSeq_complete_nr_v62_dec2013		, partial [SAR202 cluster bacterium SCGC AAA240-N13]	7.0
+
+uppermesopelagic_500m_5003_0				
+	RefSeq_complete_nr_v62_dec2013		ROK family transcriptional regulator [Spirosoma spitsbergense]	6.0
+	seed-2014-01-30	2.7.1.2	Glucokinase (EC 2.7.1.2) [Spirosoma linguale DSM 74]	17.0
+	KEGG_pep_2013	2.7.1.2	ROK family protein K00845 glucokinase [EC:2.7.1.2]	15.0
+
+uppermesopelagic_500m_5000_0				
+	RefSeq_complete_nr_v62_dec2013		putative cytochrome c precursor [Cyclobacterium qasimii]	6.0
+	seed-2014-01-30		probable cytochrome c precursor [Singulisphaera acidiphila DSM 18658]	8.0
+
+uppermesopelagic_500m_5001_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/114799838  identified match to protein family HMM PF01546 PF07687	8.0
+	RefSeq_complete_nr_v62_dec2013		putative peptidase M20 [Janthinobacterium sp. HH01]	6.0
+	COG_2013-12-27		COG0624 # E Amino acid transport metabolism Function: Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase related deacylases Organism: Caulobacter vibrioides (Ccr)	17.0
+	seed-2014-01-30		Acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase related deacylases [Caulobacter crescentus CB15]	8.0
+	KEGG_pep_2013		peptidase M20	2.0
+
+uppermesopelagic_500m_5001_1				
+	RefSeq_complete_nr_v62_dec2013		 [Kordiimonas gwangyangensis]	2.0
+
+uppermesopelagic_500m_5006_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/150392308 ABC transporter related PFAM: SMART: AAA ATPase KEGG: bha:BH0512 iron transport system ATP-binding protein	14.0
+	RefSeq_complete_nr_v62_dec2013		ABC-type spermidine/putrescine transport system, ATPase component [Oscillatoriales cyanobacterium JSC-12]	9.0
+	COG_2013-12-27		COG3842 # E Amino acid transport metabolism Function: ABC-type spermidine/putrescine systems, ATPase components Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	20.0
+	seed-2014-01-30		Ferric iron uptake ABC transporter (FeT) family, ATP-binding protein [Neisseria weaveri LMG 5135]	12.0
+	KEGG_pep_2013	3.6.3.30	iron ABC transporter ATP-binding protein K02010 iron(III) transport system protein [EC:3.6.3.30]	19.0
+
+uppermesopelagic_500m_5004_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/116622342 quinoprotein glucose dehydrogenase PFAM: Pyrrolo-quinoline quinone KEGG: pyrrolo-quinoline quinone	9.0
+	RefSeq_complete_nr_v62_dec2013		glucose dehydrogenase [marine gamma proteobacterium HTCC2143]	6.0
+	seed-2014-01-30	1.1.5.2	Glucose dehydrogenase, PQQ-dependent (EC 1.1.5.2) [marine gamma proteobacterium HTCC2143]	19.0
+	KEGG_pep_2013	1.1.5.2	quinoprotein glucose dehydrogenase (EC:1.1.5.2) K00117 [EC:1.1.5.2]	16.0
+
+uppermesopelagic_500m_5005_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/197124783 ATPase associated various cellular activities PFAM: KEGG: activities, AAA-3	10.0
+	RefSeq_complete_nr_v62_dec2013		ATPase AAA [Anaeromyxobacter sp. K]	5.0
+	seed-2014-01-30		MoxR-like ATPase aerotolerance operon [Blastopirellula marina DSM 3645]	8.0
+	KEGG_pep_2013		ATPase associated various cellular activities K03924 MoxR-like [EC:3.6.3.-]	8.0
+
+uppermesopelagic_500m_7237_0				
+	EggNog_v3_2013_08_07		pyrH http://www.ncbi.nlm.nih.gov/protein/21674593 uridylate kinase identified match to PFAM protein family HMM PF00696	11.0
+	RefSeq_complete_nr_v62_dec2013		uridylate kinase [Leptolyngbya sp. PCC 6406]	6.0
+	COG_2013-12-27		COG0528 # F Nucleotide transport metabolism Function: Uridylate kinase Organism: Nostoc sp. PCC 7120 (Nos)	15.0
+	seed-2014-01-30		Uridylate kinase (EC 2.7.4.-) [Flavobacterium columnare ATCC 49512]	8.0
+	metacyc-v5-2011-10-21	2.7.4.22	Uridylate kinase OS Synechocystis sp. (strain ATCC 27184 / PCC 6803 N-1) GN pyrH PE 3 SV 1 # UNIPROT P74457 2.7.4.22-RXN SSP1148:SLL0144-MONOMER 2.7.4.22	34.0
+	KEGG_pep_2013	2.7.4.22	Uridylate kinase, putative K09903 uridylate kinase [EC:2.7.4.22]	17.0
+
+uppermesopelagic_500m_7235_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/282163306 thermosome	2.0
+	RefSeq_complete_nr_v62_dec2013		thermosome subunit [Methanocella paludicola]	4.0
+
+uppermesopelagic_500m_7235_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/146299845 NAD-dependent epimerase/dehydratase PFAM: Male sterility C-terminal domain	8.0
+	RefSeq_complete_nr_v62_dec2013		NAD-dependent epimerase/dehydratase [Cupriavidus sp. HMR-1]	5.0
+	COG_2013-12-27		COG0451 # MG Function: Nucleoside-diphosphate-sugar epimerases Organism: Ralstonia solanacearum (Rso)	10.0
+	seed-2014-01-30	1.1.1.103	L-threonine 3-dehydrogenase (EC 1.1.1.103) [Cupriavidus necator N-1]	17.0
+	metacyc-v5-2011-10-21	1.1.1.103	L-threonine 3-dehydrogenase, mitochondrial OS Sus scrofa GN TDH PE 1 SV # UNIPROT Q8MIR0 THREODEHYD-RXN 1.1.1.103	26.0
+	KEGG_pep_2013	1.1.1.103	L-threonine 3-dehydrogenase (EC:1.1.1.103)	13.0
+
+uppermesopelagic_500m_7234_0				
+	RefSeq_complete_nr_v62_dec2013		coenzyme A ligase [Thermus sp.	5.0
+	seed-2014-01-30	6.2.1.30	Phenylacetate-coenzyme A ligase (EC 6.2.1.30) [Thermus oshimai JL-2]	18.0
+
+uppermesopelagic_500m_7233_0				
+	EggNog_v3_2013_08_07		GK0264 http://www.ncbi.nlm.nih.gov/protein/56418799 amidophosphoribosyltransferase Catalyzes first step de novo purine nucleotide biosynthetic pathway	12.0
+	RefSeq_complete_nr_v62_dec2013		Amidophosphoribosyl transferase, partial [delta proteobacterium MLMS-1]	6.0
+	COG_2013-12-27		COG0034 # F Nucleotide transport metabolism Function: Glutamine phosphoribosylpyrophosphate amidotransferase Organism: Sinorhizobium meliloti (Sme)	14.0
+	seed-2014-01-30	2.4.2.14	Amidophosphoribosyltransferase (EC 2.4.2.14) [Brevibacillus laterosporus LMG 15441]	17.0
+	metacyc-v5-2011-10-21	2.4.2.14	Amidophosphoribosyltransferase, chloroplastic OS Glycine max GN PUR1 PE 2 SV 1 # UNIPROT P52418 PRPPAMIDOTRANS-RXN 2.4.2.14	26.0
+	KEGG_pep_2013	2.4.2.14	ATASE3 ATASE3 (GLN PHOSPHORIBOSYL PYROPHOSPHATE AMIDOTRANSFERASE 3) amidophosphoribosyltransferase (EC:2.4.2.14) K00764 [EC:2.4.2.14]	20.0
+
+uppermesopelagic_500m_3981_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR324 cluster bacterium JCVI-SC AAA005]	5.0
+	seed-2014-01-30		putative aminopeptidase [SAR324 cluster bacterium JCVI-SC AAA005]	7.0
+
+uppermesopelagic_500m_3983_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/269928428 Enoyl-CoA hydratase/isomerase PFAM: KEGG: enoyl-CoA hydratase	7.0
+	RefSeq_complete_nr_v62_dec2013		enoyl-CoA hydratase/isomerase [Frankia sp. EuI1c]	5.0
+	seed-2014-01-30	4.2.1.17	Enoyl-CoA hydratase (EC 4.2.1.17) [Sphaerobacter thermophilus DSM 20745]	18.0
+	KEGG_pep_2013	4.2.1.18	enoyl-CoA hydratase/isomerase K13766 methylglutaconyl-CoA hydratase [EC:4.2.1.18]	16.0
+
+uppermesopelagic_500m_3982_0	CAZy_2013-07-13		monofunctional biosynthetic peptidoglycan transglycosylase [Hyphomonas neptunium ATCC 15444] (GT:51)	9.0
+	EggNog_v3_2013_08_07		mtgA http://www.ncbi.nlm.nih.gov/protein/114797212 monofunctional biosynthetic peptidoglycan transglycosylase identified match to protein family HMM PF00912 TIGR02070	13.0
+	RefSeq_complete_nr_v62_dec2013		monofunctional biosynthetic peptidoglycan transglycosylase [Hyphomonas neptunium]	6.0
+	seed-2014-01-30		Monofunctional biosynthetic peptidoglycan transglycosylase (EC 2.4.2.-) [Hyphomonas neptunium ATCC 15444]	10.0
+	KEGG_pep_2013		mtgA monofunctional biosynthetic peptidoglycan transglycosylase (EC:2.4.2.-) K03814 [EC:2.4.1.-]	8.0
+
+uppermesopelagic_500m_3985_0				
+	RefSeq_complete_nr_v62_dec2013		adenylate/guanylate cyclase Chase sensor [Bacillus selenitireducens]	6.0
+	seed-2014-01-30	4.6.1.1	Adenylate cyclase (EC 4.6.1.1) [Bacillus selenitireducens MLS10]	17.0
+	KEGG_pep_2013	4.6.1.1	adenylate/guanylate cyclase CHASE sensor K01768 adenylate [EC:4.6.1.1]	17.0
+
+uppermesopelagic_500m_3984_0				
+	RefSeq_complete_nr_v62_dec2013		alpha-ketoglutarate-dependent taurine dioxygenase [marine gamma proteobacterium HTCC2143]	7.0
+	seed-2014-01-30	1.14.11.17	Alpha-ketoglutarate-dependent taurine dioxygenase (EC 1.14.11.17) [marine gamma proteobacterium HTCC2143]	19.0
+
+uppermesopelagic_500m_3987_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/159043964 binding-protein-dependent transport systems inner membrane component PFAM: KEGG: putative sugar ABC transporter, permease protein	14.0
+	RefSeq_complete_nr_v62_dec2013		ABC transporter permease [alpha proteobacterium SCGC AB-629-F11]	7.0
+	seed-2014-01-30		Maltose/maltodextrin ABC transporter, permease protein MalG [Vibrio nigripulchritudo ATCC 27043]	9.0
+	KEGG_pep_2013	3.6.3.17	binding-protein-dependent transport systems inner membrane component (EC:3.6.3.17) K02026 multiple sugar system permease protein	22.0
+
+uppermesopelagic_500m_3986_0				
+	EggNog_v3_2013_08_07		pntB http://www.ncbi.nlm.nih.gov/protein/39937240 NAD(P) transhydrogenase, beta subunit observed proteomics Citation: Proteomics from VerBerkmoes et al. (2003) unpublished	16.0
+	RefSeq_complete_nr_v62_dec2013		NAD(P) transhydrogenase subunit beta [Caenispirillum salinarum]	6.0
+	COG_2013-12-27		COG1282 # C Energy production conversion Function: NAD/NADP transhydrogenase beta subunit Organism: Ralstonia solanacearum (Rso)	15.0
+	seed-2014-01-30	1.6.1.2	NAD(P) transhydrogenase subunit beta (EC 1.6.1.2) [Bradyrhizobium japonicum USDA 6]	20.0
+	KEGG_pep_2013	1.6.1.2	NAD(P) transhydrogenase subunit alpha (EC:1.6.1.2)	15.0
+
+uppermesopelagic_500m_3989_0				
+	EggNog_v3_2013_08_07	1.5.1.20	aroK http://www.ncbi.nlm.nih.gov/protein/71892341 shikimate kinase I ortholog to Escherichia coli bnum: b3390 MultiFun: Metabolism 1.5.1.20	24.0
+	RefSeq_complete_nr_v62_dec2013		putative shikimate kinase 1 [SAR86 cluster bacterium SAR86E]	8.0
+	COG_2013-12-27		COG0703 # E Amino acid transport metabolism Function: Shikimate kinase Organism: Buchnera sp. APS (Buc)	15.0
+	seed-2014-01-30	2.7.1.71	Shikimate kinase I (EC 2.7.1.71) [Buchnera aphidicola str. Ua (Uroleucon ambrosiae)]	21.0
+	metacyc-v5-2011-10-21	2.7.1.71	Shikimate kinase OS Nitrosococcus oceani (strain ATCC 19707 / NCIMB 11848) GN aroK PE 3 SV 1 # UNIPROT Q3JEG4 SHIKIMATE-KINASE-RXN 2.7.1.71	32.0
+	KEGG_pep_2013	2.7.1.71	aroK shikimate kinase I (EC:2.7.1.71) K00891 [EC:2.7.1.71]	17.0
+
+uppermesopelagic_500m_3989_1				
+	EggNog_v3_2013_08_07		gltA http://www.ncbi.nlm.nih.gov/protein/49475426 type II citrate synthase enzyme Escherichia coli this enzyme forms trimer dimers which allosterically inhibited NADH competitively alpha-ketoglutarate allosteric inhibition lost when Cys206 chemically modified also affects hexamer formation oxaloacetate acetyl-CoA water from coenzyme A functions TCA cycle, glyoxylate cycle respiration Helicobacter pylori not	45.0
+	RefSeq_complete_nr_v62_dec2013		type II citrate synthase [alpha proteobacterium IMCC14465]	7.0
+	COG_2013-12-27		COG0372 # C Energy production conversion Function: Citrate synthase Organism: Rickettsia prowazekii (Rpr)	13.0
+	seed-2014-01-30	2.3.3.1	Citrate synthase (si) (EC 2.3.3.1) [Pseudomonas aeruginosa AES-1R]	18.0
+	metacyc-v5-2011-10-21	2.3.3.1	Citrate synthase OS Corynebacterium glutamicum GN gltA PE 3 SV 1 # UNIPROT P42457 CITSYN-RXN CGLU196627:CG0949-MONOMER 2.3.3.1	27.0
+	KEGG_pep_2013	2.3.3.1	citrate synthase I family protein (EC:2.3.3.1) K01647 [EC:2.3.3.1]	17.0
+
+uppermesopelagic_500m_3988_0	CAZy_2013-07-13		putative membrane protein [Hyphomonas neptunium ATCC 15444] (GT:83)	7.0
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/114797402  identified similarity to GB:AAK22196.1	5.0
+	RefSeq_complete_nr_v62_dec2013		family 39 glycosyl transferase [Oceanicaulis alexandrii]	6.0
+	seed-2014-01-30		FIG00721648:  [Hyphomonas neptunium ATCC 15444]	5.0
+
+uppermesopelagic_500m_1853_0				
+	EggNog_v3_2013_08_07		dan http://www.ncbi.nlm.nih.gov/protein/206564095 putative D-aminoacylase	4.0
+	RefSeq_complete_nr_v62_dec2013		D-aminoacylase [SAR324 cluster bacterium SCGC AAA240-J09]	6.0
+	seed-2014-01-30	3.5.1.81	D-aminoacylase-like protein( EC:3.5.1.81 ) [Burkholderia cenocepacia J2315]	17.0
+	KEGG_pep_2013	3.5.1.81	dan putative D-aminoacylase (EC:3.5.1.81) K06015 N-acyl-D-amino-acid deacylase [EC:3.5.1.81]	18.0
+
+uppermesopelagic_500m_1857_0				
+	RefSeq_complete_nr_v62_dec2013		 [Marine Group I thaumarchaeote SCGC AB-629-I23]	6.0
+
+uppermesopelagic_500m_1859_0				
+	RefSeq_complete_nr_v62_dec2013		chromosome segregation ATPase SMC [SAR324 cluster bacterium SCGC AAA001-C10]	9.0
+	seed-2014-01-30		Chromosome partition protein smc [SAR324 cluster bacterium SCGC AAA001-C10]	8.0
+
+uppermesopelagic_500m_2179_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/99080748 condensin subunit ScpB PFAM: chromosome segregation condensation protein ScpB: (6.8e-69) KEGG: sil:SPO2500 B, ev 1e-95, 84% identity	17.0
+	RefSeq_complete_nr_v62_dec2013		segregation condensation protein B, partial [Oceanicola sp. S124]	7.0
+	seed-2014-01-30		Segregation condensation protein B [Celeribacter baekdonensis B30]	6.0
+	KEGG_pep_2013		putative transcriptional regulator K06024 segregation condensation protein B	7.0
+
+uppermesopelagic_500m_2179_1				
+	RefSeq_complete_nr_v62_dec2013		 [Citreicella sp. SE45]	3.0
+	seed-2014-01-30		protein unknown function DUF1236 [Oceanicola batsensis HTCC2597]	6.0
+
+uppermesopelagic_500m_2173_1				
+	EggNog_v3_2013_08_07		rpmI http://www.ncbi.nlm.nih.gov/protein/206889724 ribosomal protein L35 identified match to family HMM PF01632 TIGR00001	11.0
+	RefSeq_complete_nr_v62_dec2013		50S ribosomal protein L35 [Acidobacteriaceae bacterium KBS 89]	7.0
+	COG_2013-12-27		COG0291 # J Translation, ribosomal structure biogenesis Function: Ribosomal protein L35 Organism: Nostoc sp. PCC 7120 (Nos)	16.0
+	seed-2014-01-30		LSU ribosomal protein L35p [Thermodesulfovibrio yellowstonii DSM 11347]	7.0
+	KEGG_pep_2013		50S ribosomal protein L35P K02916 large subunit L35	7.0
+
+uppermesopelagic_500m_2173_2				
+	EggNog_v3_2013_08_07		rplT http://www.ncbi.nlm.nih.gov/protein/89893015 50S ribosomal protein L20 binds directly to 23S RNA prior vitro assembly subunit	14.0
+	RefSeq_complete_nr_v62_dec2013		LSU ribosomal protein L20p [Caenispirillum salinarum]	5.0
+	COG_2013-12-27		COG0292 # J Translation, ribosomal structure biogenesis Function: Ribosomal protein L20 Organism: Salmonella typhimurium LT2 (Sty)	15.0
+	seed-2014-01-30		LSU ribosomal protein L20p [Haemophilus haemolyticus M21127]	6.0
+	KEGG_pep_2013		rplT 50S ribosomal protein L20 K02887 large subunit L20	7.0
+
+uppermesopelagic_500m_2172_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR324 cluster bacterium SCGC AB-629-J17]	5.0
+
+uppermesopelagic_500m_2170_0				
+	RefSeq_complete_nr_v62_dec2013		 [Spiribacter sp. UAH-SP71]	3.0
+
+uppermesopelagic_500m_2176_1				
+	EggNog_v3_2013_08_07		acoE http://www.ncbi.nlm.nih.gov/protein/78044614 acetyl-CoA synthetase identified similarity to SP:P31638 match protein family HMM PF00501 TIGR02188	13.0
+	RefSeq_complete_nr_v62_dec2013		putative Acetyl-coenzyme A synthetase [Streptomyces viridochromogenes]	6.0
+	COG_2013-12-27		COG0365 # I Lipid transport metabolism Function: Acyl-coenzyme A synthetases/AMP-(fatty) acid ligases Organism: Halobacterium sp. NRC-1 (Hbs)	17.0
+	seed-2014-01-30	6.2.1.1	Acetyl-coenzyme A synthetase (EC 6.2.1.1) [Alicyclobacillus acidocaldarius subsp. Tc-4-1]	19.0
+	metacyc-v5-2011-10-21	6.2.1.1	Acetyl-coenzyme A synthetase OS Pyrobaculum arsenaticum (strain DSM 13514 / JCM 11321) GN acsA PE 3 SV 1 # UNIPROT A4WJG1 ACETATE--COA-LIGASE-RXN 6.2.1.1	33.0
+	KEGG_pep_2013	6.2.1.1	ACS2 acetyl CoA synthetase (EC:6.2.1.1) K01895 acetyl-CoA [EC:6.2.1.1]	18.0
+
+uppermesopelagic_500m_2175_0				
+	EggNog_v3_2013_08_07		BPSL2743 http://www.ncbi.nlm.nih.gov/protein/53720353 putative oxidoreductase Similar to many including: Ralstonia solanacearum  rsp0703 or rs01746 SWALL:Q8XRX8 (EMBL:AL646080) (319 aa) fasta scores: E(): 2.2e-80, 66.56% id 317 aa, Streptomyces arenae cyclase ncnE SWALL:Q9X466 (EMBL:AF098966) (310 3.7e-11, 28.8% 250 aa	36.0
+	RefSeq_complete_nr_v62_dec2013		Zn-dependent hydrolase, glyoxylase [Acidovorax sp. CF316]	6.0
+	COG_2013-12-27		COG0491 # R General function prediction only Function: Zn-dependent hydrolases, including glyoxylases Organism: Ralstonia solanacearum (Rso)	16.0
+	seed-2014-01-30		putative cyclase [Bordetella pertussis CS]	5.0
+	KEGG_pep_2013		metallo-beta-lactamase family protein	2.0
+
+uppermesopelagic_500m_2175_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/217969280  KEGG: azo:azo3680 protein	3.0
+	RefSeq_complete_nr_v62_dec2013		small subunit monooxygenase [Azoarcus toluclasticus]	5.0
+	seed-2014-01-30		 [Herbaspirillum seropedicae SmR1]	3.0
+
+uppermesopelagic_500m_952_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/194290755 putative caiB/baiF CoA-transferase family. Evidence 3 : Function proposed based presence conserved amino acid motif, structural feature or limited homology Product type pe enzyme	24.0
+	RefSeq_complete_nr_v62_dec2013		bile acid-inducible L-carnitine dehydratase [Ralstonia sp. GA3-3]	7.0
+	seed-2014-01-30	2.8.3.16	L-carnitine dehydratase/bile acid-inducible protein F( EC:2.8.3.16 ) [Bacillus bataviensis LMG 21833]	20.0
+	KEGG_pep_2013	2.8.3.16	L-carnitine dehydratase/bile acid-inducible protein F (EC:2.8.3.16) K07749 formyl-CoA transferase [EC:2.8.3.16]	19.0
+
+uppermesopelagic_500m_7189_0				
+	RefSeq_complete_nr_v62_dec2013		 [Schlesneria paludicola]	2.0
+	seed-2014-01-30		 [Schlesneria paludicola DSM 18645]	4.0
+
+uppermesopelagic_500m_7189_1				
+	RefSeq_complete_nr_v62_dec2013		amino acid carrier protein [Isosphaera pallida]	5.0
+	seed-2014-01-30		Sodium/glycine symporter GlyP [Isosphaera pallida ATCC 43644]	7.0
+	KEGG_pep_2013		amino acid carrier protein K03310 alanine or glycine:cation symporter, AGCS family	10.0
+
+uppermesopelagic_500m_7185_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/158521080 2-methylcitrate synthase/citrate synthase II KEGG: citrate (Si)-synthase TIGRFAM: PFAM: Citrate	11.0
+	RefSeq_complete_nr_v62_dec2013		citrate (Si)-synthase [Marine Group I thaumarchaeote SCGC AB-629-I23]	8.0
+	seed-2014-01-30	2.3.3.1	Citrate synthase (si) (EC 2.3.3.1) [Syntrophobacter fumaroxidans MPOB]	18.0
+	KEGG_pep_2013	2.3.3.1	2-methylcitrate synthase/citrate synthase II (EC:2.3.3.1) K01647 citrate [EC:2.3.3.1]	18.0
+
+uppermesopelagic_500m_7187_0				
+	EggNog_v3_2013_08_07		SMa1641 http://www.ncbi.nlm.nih.gov/protein/16263349 NreB protein glimmer prediction highly similar to from plasmid pTOM9 Alcaligenes xylosoxidans strain 31A (ACCESSION AAA72441), possibly operon SMA1639	20.0
+	RefSeq_complete_nr_v62_dec2013		major facilitator transporter [Klebsiella sp. OBRC7]	6.0
+	COG_2013-12-27		COG0477 # GEPR Function: Permeases major facilitator superfamily Organism: Sinorhizobium meliloti (Sme)	12.0
+	seed-2014-01-30		Probable NreB protein [Pseudomonas syringae pv. actinidiae PA459]	7.0
+	KEGG_pep_2013		NreB protein K07785 MFS transporter, NRE family, putaive nickel resistance protein	9.0
+
+uppermesopelagic_500m_7181_0				
+	RefSeq_complete_nr_v62_dec2013		 [Bacillus sp. 1NLA3E]	3.0
+
+uppermesopelagic_500m_954_0	CAZy_2013-07-13		Lipid carrier : UDP-N-acetylgalactosaminyltransferase / Alpha-1,3-N-acetylgalactosamine transferase PglA, Putative glycosyltransferase [Micavibrio aeruginosavorus EPB] (GT:4)	14.0
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/161829796 glycosyl transferase, group 1 family protein identified match to protein HMM PF00534	11.0
+	RefSeq_complete_nr_v62_dec2013		glycosyl transferase family 1 [Methylobacterium sp. MB200]	7.0
+	seed-2014-01-30		Lipid carrier : UDP-N-acetylgalactosaminyltransferase (EC 2.4.1.-) / Alpha-1,3-N-acetylgalactosamine transferase PglA 2.4.1.-) Putative glycosyltransferase [endosymbiont Tevnia jerichonana (vent Tica)]	17.0
+	KEGG_pep_2013	2.4.1.57	glycosyl transferase, group 1 (EC:2.4.1.57)	15.0
+
+uppermesopelagic_500m_954_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/114321486 asparagine synthase (glutamine-hydrolyzing) KEGG: synthase, glutamine-hydrolyzing TIGRFAM: PFAM: glutamine amidotransferase, class-II	12.0
+	RefSeq_complete_nr_v62_dec2013		asparagine synthase (glutamine-hydrolyzing) [Pseudomonas aeruginosa]	5.0
+	COG_2013-12-27		COG0367 # E Amino acid transport metabolism Function: Asparagine synthase (glutamine-hydrolyzing) Organism: Mesorhizobium loti (Mlo)	15.0
+	seed-2014-01-30	6.3.5.4	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) [Comamonas testosteroni ATCC 11996]	19.0
+	KEGG_pep_2013	6.3.5.4	asparagine synthase, glutamine-hydrolyzing (EC:6.3.5.4) K01953 synthase (glutamine-hydrolysing) [EC:6.3.5.4]	18.0
+
+uppermesopelagic_500m_955_0				
+	EggNog_v3_2013_08_07		BRADO0324 http://www.ncbi.nlm.nih.gov/protein/146337479 putative amidase (amiD) Evidence 3 : Function proposed based presence conserved amino acid motif, structural feature or limited homology Product type pe enzyme	24.0
+	RefSeq_complete_nr_v62_dec2013		amidase [Bradyrhizobium sp. ORS 375]	5.0
+	seed-2014-01-30	6.3.5.6	Aspartyl-tRNA(Asn) amidotransferase subunit A (EC 6.3.5.6) @ Glutamyl-tRNA(Gln) 6.3.5.7) [Bradyrhizobium sp. ORS 285]	23.0
+	KEGG_pep_2013	3.5.1.4	putative amidase (AmiD) (EC:3.5.1.4) K01426 [EC:3.5.1.4]	16.0
+
+uppermesopelagic_500m_6858_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/148261127 integral membrane sensor signal transduction histidine kinase PFAM: ATP-binding region, ATPase domain protein kinase, HAMP region kinase A protein	17.0
+	RefSeq_complete_nr_v62_dec2013		periplasmic sensor signal transduction histidine kinase [alpha proteobacterium BAL199]	9.0
+	seed-2014-01-30		Sensor histidine kinase cluster mercury reductase [Acidiphilium cryptum JF-5]	9.0
+	KEGG_pep_2013	2.7.13.3	putative two-component sensor histidine kinase (EC:2.7.13.3)	16.0
+
+uppermesopelagic_500m_6859_1				
+	EggNog_v3_2013_08_07		HEAR1762 http://www.ncbi.nlm.nih.gov/protein/134094968 putative DNA polymerase-related protein, bacteriophage-type Evidence 3 : Function proposed based presence conserved amino acid motif, structural feature or limited homology Product type pe enzyme	26.0
+	RefSeq_complete_nr_v62_dec2013		DNA polymerase bacteriophage-type,uracil-DNA glycosylase superfamily protein [Cupriavidus sp. HMR-1]	8.0
+	COG_2013-12-27		COG1573 # L Replication, recombination repair Function: Uracil-DNA glycosylase Organism: Ralstonia solanacearum (Rso)	13.0
+	seed-2014-01-30		Uracil-DNA glycosylase, family 4 [endosymbiont Tevnia jerichonana (vent Tica)]	9.0
+	KEGG_pep_2013	2.7.7.7	C-terminal part DNA polymerase, bacteriophage-type K02334 polymerase bacteriophage-type [EC:2.7.7.7]	18.0
+
+uppermesopelagic_500m_6851_0				
+	EggNog_v3_2013_08_07		ECs5248 http://www.ncbi.nlm.nih.gov/protein/15834502  similar to proteins [Staphylococcus aureus] e.g. gi|7594765|dbj|BAA94663.1|, [Neisseria meningitidis] gi|5051461|emb|CAB44981.1|	12.0
+	RefSeq_complete_nr_v62_dec2013		, partial [Acinetobacter baumannii]	4.0
+	COG_2013-12-27		COG4333 # S Function unknown Function: Uncharacterized protein conserved bacteria Organism: Escherichia coli O157:H7 EDL933 (EcZ)	14.0
+	seed-2014-01-30		protein unknown function DUF1643 [Nodosilinea nodulosa PCC 7104]	7.0
+
+uppermesopelagic_500m_6851_1				
+	RefSeq_complete_nr_v62_dec2013		 [gamma proteobacterium SCGC AAA076-F14]	4.0
+
+uppermesopelagic_500m_6852_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/99079965 extracellular solute-binding protein PFAM: protein, family 1: (1.8e-11) KEGG: sil:SPO3287 ferric iron ABC transporter, periplasmic iron-binding ev 1e-149, 75% identity	20.0
+	RefSeq_complete_nr_v62_dec2013		ferric iron ABC transporter, periplasmic iron-binding protein [Roseobacter sp. GAI101]	9.0
+	COG_2013-12-27		COG1840 # P Inorganic ion transport metabolism Function: ABC-type Fe3+ system, periplasmic component Organism: Synechocystis (Syn)	16.0
+	seed-2014-01-30		Ferric iron ABC transporter, iron-binding protein [Leptolyngbya sp. PCC 7375]	9.0
+	KEGG_pep_2013		ferric iron ABC transporter, periplasmic iron-binding protein K02012 iron(III) transport system substrate-binding protein	11.0
+
+uppermesopelagic_500m_6853_0				
+	EggNog_v3_2013_08_07	1.15234.1.1	gw1.15234.1.1 ensembl.org:gw1.15234.1.1 annotation not avaliable	15.0
+	RefSeq_complete_nr_v62_dec2013		adenylosuccinate lyase [Glaciecola mesophila]	4.0
+	COG_2013-12-27		COG0015 # F Nucleotide transport metabolism Function: Adenylosuccinate lyase Organism: Xylella fastidiosa 9a5c (Xfa)	14.0
+	seed-2014-01-30	4.3.2.2	Adenylosuccinate lyase (EC 4.3.2.2) [Comamonas testosteroni ATCC 11996]	18.0
+	metacyc-v5-2011-10-21	4.3.2.2	Adenylosuccinate lyase OS Buchnera aphidicola subsp. Baizongia pistaciae (strain Bp) GN purB PE 3 SV 1 # UNIPROT Q89AM3 AMPSYN-RXN 4.3.2.2	31.0
+	KEGG_pep_2013	4.3.2.2	adenylosuccinate lyase, putative / adenylosuccinase, (EC:4.3.2.2) K01756 lyase [EC:4.3.2.2]	19.0
+
+uppermesopelagic_500m_6854_0				
+	EggNog_v3_2013_08_07		crt1 http://www.ncbi.nlm.nih.gov/protein/78043648 3-hydroxybutyryl-CoA dehydratase identified similarity to SP:P52046 match protein family HMM PF00378	12.0
+	RefSeq_complete_nr_v62_dec2013		 [SAR406 cluster bacterium SCGC AB-629-J13]	5.0
+	COG_2013-12-27		COG1024 # I Lipid transport metabolism Function: Enoyl-CoA hydratase/carnithine racemase Organism: Clostridium acetobutylicum (Cac)	14.0
+	seed-2014-01-30	4.2.1.55	3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55) [Fusobacterium necrophorum subsp. funduliforme Fnf 1007]	20.0
+	metacyc-v5-2011-10-21	4.2.1.55	3-hydroxybutyryl-CoA dehydratase OS Clostridium acetobutylicum GN crt PE 3 SV 1 # UNIPROT P52046 3-HYDROXBUTYRYL-COA-DEHYDRATASE-RXN MetaCyc:CRTCLOS-MONOMER 4.2.1.55	27.0
+	KEGG_pep_2013	4.2.1.55	enoyl-CoA hydratase/isomerase K01715 3-hydroxybutyryl-CoA dehydratase [EC:4.2.1.55]	16.0
+
+uppermesopelagic_500m_6854_1				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/242279449 potassium uptake protein, TrkH family TIGRFAM: PFAM: cation transporter KEGG: K+ transporter trk	13.0
+	RefSeq_complete_nr_v62_dec2013		Trk system potassium transporter TrkH [Desulfovibrio oxyclinae]	7.0
+	seed-2014-01-30		Potassium uptake protein TrkH [Desulfovibrio hydrothermalis AM13 DSM 14728]	8.0
+	KEGG_pep_2013		potassium uptake protein, TrkH family K03498 trk system protein	8.0
+
+uppermesopelagic_500m_6856_0				
+	EggNog_v3_2013_08_07		cmk http://www.ncbi.nlm.nih.gov/protein/15839030 cytidylate kinase Catalyzes formation (d)CDP from ATP (d)CMP	10.0
+	RefSeq_complete_nr_v62_dec2013		cytidylate kinase [gamma proteobacterium SCGC AB-629-P17]	6.0
+	COG_2013-12-27		COG0283 # F Nucleotide transport metabolism Function: Cytidylate kinase Organism: Xylella fastidiosa 9a5c (Xfa)	14.0
+	seed-2014-01-30	2.7.4.14	Cytidylate kinase (EC 2.7.4.14) [Legionella pneumophila subsp. str.	18.0
+	KEGG_pep_2013	2.7.4.14	cmk cytidylate kinase (EC:2.7.4.14) K00945 [EC:2.7.4.14]	16.0
+
+uppermesopelagic_500m_6856_1				
+	EggNog_v3_2013_08_07		lysS http://www.ncbi.nlm.nih.gov/protein/15598896 lysyl-tRNA synthetase class II LysRS2 catalyzes two-step reaction, first charging lysine molecule linking its carboxyl group to alpha-phosphate ATP, followed transfer aminoacyl-adenylate tRNA Methanosarcina barkeri, LysRS2 charges both tRNA molecules that exist this organism addition charge tRNAPyl presence LysRS1	39.0
+	RefSeq_complete_nr_v62_dec2013		Lysyl-tRNA synthetase (class II) [Pseudomonas pseudoalcaligenes]	6.0
+	COG_2013-12-27		COG1190 # J Translation, ribosomal structure biogenesis Function: Lysyl-tRNA synthetase (class II) Organism: Neisseria meningitidis Z2491 (NmA)	17.0
+	seed-2014-01-30	6.1.1.6	Lysyl-tRNA synthetase (class II) (EC 6.1.1.6) [endosymbiont Tevnia jerichonana (vent Tica)]	21.0
+	metacyc-v5-2011-10-21	6.1.1.6	Lysyl-tRNA synthetase OS Colwellia psychrerythraea (strain 34H / ATCC BAA-681) GN lysS PE 3 SV 1 # UNIPROT Q47WT5 LYSINE--TRNA-LIGASE-RXN 6.1.1.6	31.0
+	KEGG_pep_2013	6.1.1.6	krs1 cytoplasmic lysine-tRNA ligase Krs1 (predicted) (EC:6.1.1.6) K04567 lysyl-tRNA synthetase, class II [EC:6.1.1.6]	23.0
+
+uppermesopelagic_500m_6857_0				
+	RefSeq_complete_nr_v62_dec2013		IclR family transcriptional regulator [gamma proteobacterium SCGC AAA007-O20]	8.0
+	seed-2014-01-30		Transcriptional regulator, IclR family [gamma proteobacterium SCGC AAA001-B15]	8.0
+
+uppermesopelagic_500m_6857_1				
+	RefSeq_complete_nr_v62_dec2013		IclR family transcriptional regulator [gamma proteobacterium SCGC AAA007-O20]	8.0
+	seed-2014-01-30		Transcriptional regulator, IclR family [gamma proteobacterium SCGC AAA001-B15]	8.0
+
+uppermesopelagic_500m_4989_0				
+	EggNog_v3_2013_08_07		fbiC http://www.ncbi.nlm.nih.gov/protein/197105997 FO synthase 7,8-didemethyl-8-hydroxy-5-deazariboflavin catalyzes radical-mediated transfer hydroxybenzyl group from 4-hydroxyphenylpyruvate (HPP) to 5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione form (FO) functions F420 biosynthesis	20.0
+	RefSeq_complete_nr_v62_dec2013		7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase, CofH subunit [Afipia broomeae]	6.0
+	seed-2014-01-30		7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit 1 / 2 [SAR324 cluster bacterium JCVI-SC AAA005]	11.0
+	KEGG_pep_2013		radical SAM domain-containing protein K11779 FO synthase [EC:2.5.1.-]	7.0
+
+uppermesopelagic_500m_4989_1				
+	EggNog_v3_2013_08_07		cofD http://www.ncbi.nlm.nih.gov/protein/71278613 LPPG:FO 2-phospho-L-lactate transferase catalyzes formation L-lactyl phosphodiester 7,8-didemethyl-8-hydroxy-5-deazariboflavin (F420-0) GMP from actyl (2) diphospho-(5')guanosine (LPPG) to (FO)	19.0
+	RefSeq_complete_nr_v62_dec2013		LPPG:FO 2-phospho-L-lactate transferase [Osedax symbiont Rs2]	6.0
+	seed-2014-01-30		Lactyl (2) diphospho-(5')guanosine:7,8-didemethyl-8-hydroxy-5-deazariboflavin 2-phospho-L-lactate transferase [Paracoccus denitrificans PD1222]	8.0
+	KEGG_pep_2013	2.7.8.28	cofD LPPG:FO 2-phospho-L-lactate transferase K11212 transferase [EC:2.7.8.28]	16.0
+
+uppermesopelagic_500m_4638_0				
+	RefSeq_complete_nr_v62_dec2013		histidine kinase [Ignavibacterium album]	4.0
+	seed-2014-01-30		Phosphoenolpyruvate synthase / Pyruvate phosphate dikinase [Ignavibacterium album JCM 16511]	10.0
+
+uppermesopelagic_500m_4636_0				
+	EggNog_v3_2013_08_07		DET0715 http://www.ncbi.nlm.nih.gov/protein/57234469 M24 family metallopeptidase identified similarity to SP:P76524 GP:1915907	10.0
+	RefSeq_complete_nr_v62_dec2013		peptidase M24 [Caldalkalibacillus thermarum]	4.0
+	COG_2013-12-27		COG0006 # E Amino acid transport metabolism Function: Xaa-Pro aminopeptidase Organism: Staphylococcus aureus N315 (Sau)	15.0
+	seed-2014-01-30		Aminopeptidase YpdF (MP-, MA-, MS-, AP-, NP- specific) [Paenibacillus polymyxa ATCC 842]	12.0
+	KEGG_pep_2013	3.4.11.9	peptidase YqhT (EC:3.4.-.-) K01262 Xaa-Pro aminopeptidase [EC:3.4.11.9]	17.0
+
+uppermesopelagic_500m_4634_0				
+	RefSeq_complete_nr_v62_dec2013		 [SAR202 cluster bacterium SCGC AAA240-N13]	5.0
+
+uppermesopelagic_500m_4630_1				
+	RefSeq_complete_nr_v62_dec2013		 [gamma proteobacterium IMCC1989]	3.0
+	seed-2014-01-30		 [gamma proteobacterium IMCC1989]	3.0
+
+uppermesopelagic_500m_7728_0				
+	RefSeq_complete_nr_v62_dec2013		 [Verrucomicrobia bacterium SCGC AAA164-M04]	4.0
+
+uppermesopelagic_500m_8323_0				
+	EggNog_v3_2013_08_07		glr2516 http://www.ncbi.nlm.nih.gov/protein/37522085 methionine sulfoxide reductase A this stereospecific enzymes reduces S isomer while MsrB R form provides protection against oxidative stress	21.0
+	RefSeq_complete_nr_v62_dec2013		methionine-S-sulfoxide reductase [Leptolyngbya sp. PCC 6406]	6.0
+	COG_2013-12-27		COG0225 # O Posttranslational modification, protein turnover, chaperones Function: Peptide methionine sulfoxide reductase Organism: Nostoc sp. PCC 7120 (Nos)	18.0
+	seed-2014-01-30	1.8.4.11	Peptide methionine sulfoxide reductase MsrA (EC 1.8.4.11) [Nostoc sp. PCC 7120]	21.0
+	KEGG_pep_2013	1.8.4.11	msra.1, MGC64457, msra methionine sulfoxide reductase A, gene 1 (EC:1.8.4.11) K07304 peptide-methionine (S)-S-oxide [EC:1.8.4.11]	24.0
+
+uppermesopelagic_500m_8324_0				
+	EggNog_v3_2013_08_07		secF http://www.ncbi.nlm.nih.gov/protein/121998474 preprotein translocase subunit SecF forms complex SecD YajC SecDFyajC stimulates proton motive force-driven protein translocation seems to modulate cycling SecA stabilizing its membrane-inserted state appears be required release mature proteins from extracytoplasmic side membrane some organisms, such as Bacillus subtilis, fused SecF	42.0
+	RefSeq_complete_nr_v62_dec2013		preprotein translocase subunit SecF [Alteromonas macleodii]	6.0
+	COG_2013-12-27		COG0341 # U Intracellular trafficking, secretion, vesicular transport Function: Preprotein translocase subunit SecF Organism: Salmonella typhimurium LT2 (Sty)	18.0
+	seed-2014-01-30		Protein-export membrane protein SecF (TC 3.A.5.1.1) [Alteromonas macleodii str. 'Black Sea 11']	11.0
+	KEGG_pep_2013		protein-export membrane protein SecF K03074 preprotein translocase subunit SecF	7.0
+
+uppermesopelagic_500m_8325_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/86751446 8-amino-7-oxononanoate synthase catalyzes formation from 6-carboxyhexanoyl-CoA L-alanine	8.0
+	RefSeq_complete_nr_v62_dec2013		8-amino-7-oxononanoate synthase [Mesorhizobium sp. STM 4661]	6.0
+	COG_2013-12-27		COG0156 # H Coenzyme transport metabolism Function: 7-keto-8-aminopelargonate synthetase related enzymes Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	18.0
+	seed-2014-01-30	2.3.1.47	8-amino-7-oxononanoate synthase (EC 2.3.1.47) [Bradyrhizobium japonicum USDA 6]	18.0
+	KEGG_pep_2013	2.3.1.47	8-amino-7-oxononanoate synthase (EC:2.3.1.47) K00652 [EC:2.3.1.47]	15.0
+
+uppermesopelagic_500m_7721_0				
+	EggNog_v3_2013_08_07		rbsC-1 http://www.ncbi.nlm.nih.gov/protein/23501432 ribose ABC transporter, permease protein identified similarity to SP:P36948 match protein family HMM PF02653	14.0
+	RefSeq_complete_nr_v62_dec2013		ABC transporter permease [Rhizobium sp. CCGE 510]	7.0
+	COG_2013-12-27		COG1172 # G Carbohydrate transport metabolism Function: Ribose/xylose/arabinose/galactoside ABC-type systems, permease components Organism: Agrobacterium tumefaciens strain C58 (Cereon) (Atu)	19.0
+	seed-2014-01-30		Ribose ABC transport system, permease protein RbsC (TC 3.A.1.2.1) [Sinorhizobium meliloti CCNWSX0020]	11.0
+	KEGG_pep_2013	3.6.3.17	monosaccharide-transporting ATPase (EC:3.6.3.17)	13.0
+
+uppermesopelagic_500m_7720_0				
+	RefSeq_complete_nr_v62_dec2013		urease accessory protein UreG [Candidatus Nitrososphaera gargensis]	6.0
+	COG_2013-12-27		COG0378 # OK Function: Ni2+-binding GTPase involved regulation expression maturation urease hydrogenase Organism: Yersinia pestis (Ype)	16.0
+	KEGG_pep_2013		urease accessory protein K03189 protein	3.0
+
+uppermesopelagic_500m_7720_1				
+	RefSeq_complete_nr_v62_dec2013		, partial [Marine Group II euryarchaeote SCGC AB-629-J06]	8.0
+
+uppermesopelagic_500m_7723_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/161528901 ribonuclease HII KEGG: pho:PH1650 putative calf thymus H TIGRFAM: PFAM: HII/HIII	12.0
+	RefSeq_complete_nr_v62_dec2013		 [Marine Group I thaumarchaeote SCGC AB-629-I23]	6.0
+	seed-2014-01-30	3.1.26.4	Ribonuclease HII (EC 3.1.26.4) [Verrucomicrobia bacterium SCGC AAA168-F10]	18.0
+	KEGG_pep_2013	3.1.26.4	ribonuclease HII (EC:3.1.26.4) K03470 [EC:3.1.26.4]	15.0
+
+uppermesopelagic_500m_7723_1				
+	EggNog_v3_2013_08_07		PAB2306 http://www.ncbi.nlm.nih.gov/protein/14520277 fibrillarin involved pre-rRNA processing	6.0
+	RefSeq_complete_nr_v62_dec2013		SAM-dependent methyltransferase [Candidatus Nitrososphaera gargensis]	5.0
+	COG_2013-12-27		COG1889 # J Translation, ribosomal structure biogenesis Function: Fibrillarin-like rRNA methylase Organism: Pyrococcus horikoshii (Pho)	15.0
+	seed-2014-01-30		Fibrillarin [Methanocaldococcus jannaschii DSM 2661]	5.0
+	KEGG_pep_2013	2.7.11.1	fibrillarin (EC:2.7.11.1) K04795 fibrillarin-like pre-rRNA processing protein	16.0
+
+uppermesopelagic_500m_7722_1				
+	RefSeq_complete_nr_v62_dec2013		CMP-N-acetylneuraminic acid synthetase [Neptuniibacter caesariensis]	5.0
+	seed-2014-01-30	2.7.7.43	N-Acetylneuraminate cytidylyltransferase (EC 2.7.7.43) [Leptospira interrogans serovar Bataviae str. Kariadi-Satu]	20.0
+
+uppermesopelagic_500m_7725_0				
+	RefSeq_complete_nr_v62_dec2013		Fe-S cluster protein [Verrucomicrobium spinosum]	4.0
+	seed-2014-01-30		probable ferredoxin MJ0251-putative Fe-S containing oxidoreductase [Verrucomicrobium spinosum DSM 4136]	10.0
+
+uppermesopelagic_500m_7725_1				
+	RefSeq_complete_nr_v62_dec2013		polyprenyl synthetase [Verrucomicrobium spinosum]	4.0
+	seed-2014-01-30		 [Verrucomicrobium spinosum DSM 4136]	4.0
+
+uppermesopelagic_500m_7724_0				
+	RefSeq_complete_nr_v62_dec2013		periplasmic sensor signal transduction histidine kinase [Oceanicola batsensis]	8.0
+	seed-2014-01-30		Signal transduction histidine kinase [Oceanicola batsensis HTCC2597]	7.0
+
+uppermesopelagic_500m_7727_0				
+	EggNog_v3_2013_08_07		http://www.ncbi.nlm.nih.gov/protein/161528009 phosphoesterase PA-phosphatase related PFAM: KEGG: 	6.0
+	RefSeq_complete_nr_v62_dec2013		PA-phosphatase like phosphoesterase, partial [Candidatus Nitrosoarchaeum limnia]	7.0
+	seed-2014-01-30	3.6.1.27	Undecaprenyl-diphosphatase (EC 3.6.1.27) [Nitrosopumilus maritimus SCM1]	16.0
+	KEGG_pep_2013		membrane-associated phospholipid phosphatase	3.0
+

@@ -1,0 +1,38 @@
+Function Category Level 2a	Gene Count
+Transport and Catabolism	81
+Cell Communication	1
+Cell Motility	100
+Cell Growth and Death	108
+Metabolic Diseases	15
+Infectious Diseases	69
+Cancers	399
+Cardiovascular Diseases	0
+Transcription	154
+Translation	863
+Replication and Repair	285
+Folding, Sorting and Degradation	431
+RNA family	0
+Signal Transduction	241
+Membrane Transport	800
+Signaling Molecules and Interaction	1
+Development	0
+Digestive System	11
+Endocrine System	95
+Excretory System	10
+Environmental Adaptation	58
+Sensory System	0
+Immune System	28
+Nervous System	0
+Circulatory System	34
+Nucleotide Metabolism	1250
+Metabolism of Terpenoids and Polyketides	439
+Glycan Biosynthesis and Metabolism	274
+Lipid Metabolism	723
+Energy Metabolism	1938
+Metabolism of Other Amino Acids	637
+Metabolism of Cofactors and Vitamins	1121
+Xenobiotics Biodegradation and Metabolism	818
+Amino Acid Metabolism	3425
+Enzyme Families	0
+Biosynthesis of Other Secondary Metabolites	151
+Carbohydrate Metabolism	3201

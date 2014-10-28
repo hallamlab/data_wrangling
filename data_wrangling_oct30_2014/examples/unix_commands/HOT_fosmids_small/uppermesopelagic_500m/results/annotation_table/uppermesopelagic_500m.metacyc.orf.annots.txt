@@ -1,0 +1,1930 @@
+1.1.1.83-RXN	NIL	"uppermesopelagic_500m_6399_1"	"uppermesopelagic_500m_646_0"
+4.1.1.32-RXN	NIL
+R234-RXN	NIL
+RXN-8784	NIL
+RXN-8783	NIL	"uppermesopelagic_500m_8152_1"
+RXN-12718	NIL
+RXN-12710	"acetyl-CoA C-acyltransferase"	"uppermesopelagic_500m_5462_0"	"uppermesopelagic_500m_4484_0"	"uppermesopelagic_500m_6141_0"	"uppermesopelagic_500m_8866_1"	"uppermesopelagic_500m_8285_1"	"uppermesopelagic_500m_8285_0"	"uppermesopelagic_500m_1223_1"	"uppermesopelagic_500m_3023_2"
+RXN-12715	NIL
+RXN-12714	"androst-4-en-3,17-dione 1-dehydrogenase"
+GLU6PDEHYDROG-RXN	NIL	"uppermesopelagic_500m_5684_0"
+VINYLACETYL-COA-DELTA-ISOMERASE-RXN	NIL	"uppermesopelagic_500m_6586_0"
+RXN-11724	"3-[(1<i>S</i>)-cyclohex-3-en-1-yl)]-2-oxopropanoate aminotransferase"
+MALYL-COA-LYASE-RXN	NIL
+BETAGALACTOSID-RXN	"&beta;-galactosidase"	"uppermesopelagic_500m_5872_0"	"uppermesopelagic_500m_6268_0"
+RXN-11723	"3-(cyclohexa-1,3-dien-1-yl)-2-oxopropanoate reductase"
+RXN-11722	"dehydroprephenate dehydratase (decarboxylating)"
+RXN-8014	NIL
+RXNQT-4191	"acid phosphatase"	"uppermesopelagic_500m_4831_0"
+1.1.1.289-RXN	NIL
+RXN-9175	NIL
+FRUCTOKINASE-RXN	"fructokinase"
+RXN-9173	NIL
+3.1.6.12-RXN	NIL
+RXN0-6575	NIL
+DLACTDEHYDROGFAD-RXN	NIL
+2.5.1.41-RXN	NIL	"uppermesopelagic_500m_8698_0"
+RXN-11618	"hyaluronoglucosaminidase"
+RXN-8654	"lipoate adenylyl transferase"	"uppermesopelagic_500m_6553_0"
+RXN-8655	NIL	"uppermesopelagic_500m_6553_0"
+ORNDECARBOX-RXN	NIL
+OHMETPYRKIN-RXN	NIL	"uppermesopelagic_500m_1511_0"
+RXN1G-471	"trans-delta2-cis,cis-delta19,37-C56:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+ACYLCOADEHYDROG-RXN	"acyl-CoA dehydrogenase"	"uppermesopelagic_500m_4759_0"	"uppermesopelagic_500m_5096_0"	"uppermesopelagic_500m_5777_0"	"uppermesopelagic_500m_6210_1"	"uppermesopelagic_500m_6210_0"	"uppermesopelagic_500m_1608_0"	"uppermesopelagic_500m_6056_0"	"uppermesopelagic_500m_5296_0"
+ARGSUCCINSYN-RXN	NIL	"uppermesopelagic_500m_470_1"	"uppermesopelagic_500m_6081_0"
+2.8.1.6-RXN	NIL	"uppermesopelagic_500m_7347_1"
+DIOHBUTANONEPSYN-RXN	NIL	"uppermesopelagic_500m_4892_0"	"uppermesopelagic_500m_6821_0"	"uppermesopelagic_500m_4886_0"	"uppermesopelagic_500m_4901_0"
+RXN1F-20	NIL	"uppermesopelagic_500m_5424_0"
+3-HYDROXYPROPIONATE-DEHYDROGENASE-RXN	NIL
+RXN3O-9780	NIL
+METHIONINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_4874_0"	"uppermesopelagic_500m_4851_0"	"uppermesopelagic_500m_6107_0"	"uppermesopelagic_500m_727_0"	"uppermesopelagic_500m_5122_0"
+6-CARBOXYHEXANOATE--COA-LIGASE-RXN	NIL
+RXN-10705	NIL	"uppermesopelagic_500m_6362_0"	"uppermesopelagic_500m_1485_0"	"uppermesopelagic_500m_773_0"	"uppermesopelagic_500m_696_0"	"uppermesopelagic_500m_431_0"	"uppermesopelagic_500m_5777_1"	"uppermesopelagic_500m_6251_0"	"uppermesopelagic_500m_1700_0"	"uppermesopelagic_500m_726_0"	"uppermesopelagic_500m_3227_0"	"uppermesopelagic_500m_3806_1"	"uppermesopelagic_500m_859_1"	"uppermesopelagic_500m_8261_0"	"uppermesopelagic_500m_3614_0"	"uppermesopelagic_500m_6794_0"	"uppermesopelagic_500m_6266_1"	"uppermesopelagic_500m_6245_1"	"uppermesopelagic_500m_6245_0"
+PHENYLALANINE-DECARBOXYLASE-RXN	NIL
+GALACTURIDYLYLTRANS-RXN	NIL
+UDPGLCNACEPIM-RXN	NIL	"uppermesopelagic_500m_5441_0"	"uppermesopelagic_500m_2467_1"	"uppermesopelagic_500m_2579_1"
+RXN-7800	NIL
+PSERTRANSAM-RXN	NIL	"uppermesopelagic_500m_3489_1"	"uppermesopelagic_500m_8055_0"
+GLUTRNAREDUCT-RXN	NIL
+RXN0-742	NIL	"uppermesopelagic_500m_5789_1"
+RXN-11108	NIL
+RXN1G-1486	"3-oxo-C78-&alpha;-mycolate-reductase"
+ADENYLYLSULFKIN-RXN	NIL	"uppermesopelagic_500m_1065_0"
+DTDPGLUCOSEPP-RXN	NIL	"uppermesopelagic_500m_1945_0"	"uppermesopelagic_500m_3727_0"	"uppermesopelagic_500m_4763_0"
+2.5.1.46-RXN	NIL	"uppermesopelagic_500m_2145_1"	"uppermesopelagic_500m_1030_0"
+RXN1G-1130	"trans-delta2-cis-delta19-C38:2-[acyl-carrier protein] reductase"
+HOMSUCTRAN-RXN	NIL
+3.1.2.21-RXN	NIL
+ACID-PHOSPHATASE-RXN	NIL	"uppermesopelagic_500m_4831_0"
+LYSINE-23-AMINOMUTASE-RXN	NIL	"uppermesopelagic_500m_121_0"	"uppermesopelagic_500m_4649_0"
+2.7.7.14-RXN	NIL
+RXN-9787	"cysteine:[ThiI sulfur-carrier protein]-L-cysteine sulfurtransferase desulfurase"	"uppermesopelagic_500m_8545_0"	"uppermesopelagic_500m_5090_1"	"uppermesopelagic_500m_5965_1"	"uppermesopelagic_500m_3155_1"	"uppermesopelagic_500m_1417_0"	"uppermesopelagic_500m_115_0"	"uppermesopelagic_500m_7259_0"	"uppermesopelagic_500m_3827_0"	"uppermesopelagic_500m_531_0"	"uppermesopelagic_500m_3441_0"
+RXN-9789	NIL
+RXN-9788	NIL
+RXN1G-276	"trans-delta2-cis,cis-delta17,35-C54:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+PEPSYNTH-RXN	NIL	"uppermesopelagic_500m_66_0"	"uppermesopelagic_500m_2954_0"	"uppermesopelagic_500m_4638_0"
+GLUTAMIDOTRANS-RXN	NIL
+DEOXYGLUCONOKIN-RXN	NIL
+SPONTPRO-RXN	NIL
+RXN3O-5304	"stearoyl-[acp]--CoA stearoyltransferase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+PHENPRODIOLDEHYDROG-RXN	NIL
+RXN-9659	"<i>trans</i> oct-2-enoyl-[acp] reductase"
+RXN-9658	"<i>trans</i> hex-2-enoyl-[acp]-reductase"
+RXN-9657	"crotonyl-[acp] reductase"	"uppermesopelagic_500m_6528_0"
+RXN-9655	"3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase"	"uppermesopelagic_500m_2487_0"
+RXN-9654	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"	"uppermesopelagic_500m_6710_1"
+RXN-9653	"3-oxo-meristoyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"	"uppermesopelagic_500m_6710_1"
+RXN-9652	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"	"uppermesopelagic_500m_6710_1"
+RXN-9651	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"	"uppermesopelagic_500m_6710_1"
+RXN-9650	"3-oxo-octanoyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"	"uppermesopelagic_500m_6710_1"
+RXN3O-54	NIL
+RXN1G-1003	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+RXN1G-1004	"3-cis,cis-delta19,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+NAD-KIN-RXN	NIL	"uppermesopelagic_500m_5453_0"	"uppermesopelagic_500m_7559_0"	"uppermesopelagic_500m_6490_1"
+RXN-9870	NIL
+RXN-13290	"15-tetracosenoate&mdash;CoA ligase"	"uppermesopelagic_500m_4673_0"	"uppermesopelagic_500m_6383_0"	"uppermesopelagic_500m_758_1"	"uppermesopelagic_500m_7431_0"	"uppermesopelagic_500m_417_1"	"uppermesopelagic_500m_3890_1"	"uppermesopelagic_500m_534_0"	"uppermesopelagic_500m_1196_0"	"uppermesopelagic_500m_2781_0"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+LIPIDADISACCHARIDESYNTH-RXN	NIL	"uppermesopelagic_500m_6727_0"
+SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	"Serine--glyoxylate aminotransferase"	"uppermesopelagic_500m_6266_0"
+1.2.1.2-RXN	NIL	"uppermesopelagic_500m_3297_1"	"uppermesopelagic_500m_2249_0"	"uppermesopelagic_500m_4555_0"	"uppermesopelagic_500m_4073_0"	"uppermesopelagic_500m_5133_0"	"uppermesopelagic_500m_6574_1"	"uppermesopelagic_500m_6146_0"	"uppermesopelagic_500m_787_0"	"uppermesopelagic_500m_1886_0"	"uppermesopelagic_500m_6614_0"	"uppermesopelagic_500m_8596_0"	"uppermesopelagic_500m_4865_0"	"uppermesopelagic_500m_8496_1"
+RXN1G-808	"6-O-cis-methoxy-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-809	"6-O-trans-methoxy-mycolyl-trehalose O-mycolyltransferase"
+ADPREDUCT-RXN	"ADP reductase"	"uppermesopelagic_500m_6594_0"	"uppermesopelagic_500m_8145_1"	"uppermesopelagic_500m_7131_0"	"uppermesopelagic_500m_2562_0"	"uppermesopelagic_500m_8785_0"	"uppermesopelagic_500m_422_0"	"uppermesopelagic_500m_2287_0"
+RXN1G-807	"6-O-mycolyl-trehalose O-mycolyltransferase"
+RXN0-1133	NIL	"uppermesopelagic_500m_3667_0"	"uppermesopelagic_500m_7156_0"
+RXN0-1132	"dihydrolipoyl dehydrogenase"	"uppermesopelagic_500m_3302_0"	"uppermesopelagic_500m_2526_0"	"uppermesopelagic_500m_7690_0"	"uppermesopelagic_500m_8373_0"	"uppermesopelagic_500m_3093_0"	"uppermesopelagic_500m_4906_0"
+4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN	NIL	"uppermesopelagic_500m_6002_0"
+RXN66-168	NIL	"uppermesopelagic_500m_40_0"
+RXN0-1134	NIL	"uppermesopelagic_500m_6918_0"	"uppermesopelagic_500m_7773_0"	"uppermesopelagic_500m_1001_0"	"uppermesopelagic_500m_6866_1"	"uppermesopelagic_500m_6866_0"	"uppermesopelagic_500m_1132_2"	"uppermesopelagic_500m_837_0"	"uppermesopelagic_500m_4827_0"	"uppermesopelagic_500m_5977_0"
+RXN66-165	NIL
+RXN66-164	NIL
+RXN66-167	NIL
+PROTOCATECHUATE-34-DIOXYGENASE-RXN	NIL
+RXN66-161	NIL	"uppermesopelagic_500m_4599_1"
+RXN66-163	NIL	"uppermesopelagic_500m_4599_1"
+RXN66-162	NIL	"uppermesopelagic_500m_40_0"
+RXN1G-248	"trans-delta2-cis,cis-delta5,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-11725	"salinosporamide A synthase"
+HYDROXYMETHYLGLUTARYL-COA-LYASE-RXN	NIL	"uppermesopelagic_500m_4759_1"	"uppermesopelagic_500m_8935_0"	"uppermesopelagic_500m_4333_1"
+RXN0-4141	NIL
+ARGINASE-RXN	NIL	"uppermesopelagic_500m_7967_0"
+R344-RXN	NIL	"uppermesopelagic_500m_7110_1"
+RXN-7686	NIL
+RXN-7687	NIL
+PSERTRANSAMPYR-RXN	NIL	"uppermesopelagic_500m_3489_1"	"uppermesopelagic_500m_8055_0"
+THREONINE-ALDOLASE-RXN	"low-specificity L-threonine aldolase"	"uppermesopelagic_500m_8369_1"
+RXN1A0-6322	NIL
+RXN1A0-6321	NIL
+RXN-11720	"chloroethylmalonyl-CoA dehydrogenase (decarboxylating)"
+L-LACTDEHYDROGFMN-RXN	"lactate oxidation"	"uppermesopelagic_500m_2750_1"
+LIPIDXSYNTHESIS-RXN	NIL
+RXN-9160	NIL	"uppermesopelagic_500m_2478_1"
+DEOXYRIBOSE-P-ALD-RXN	NIL	"uppermesopelagic_500m_2436_0"
+3-OXOACYL-ACP-REDUCT-RXN	NIL	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_6710_1"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+CITRYLY-RXN	"citryl-CoA lyase"	"uppermesopelagic_500m_4897_0"	"uppermesopelagic_500m_6404_0"
+CITC-RXN	NIL
+ETHANOLAMINE-KINASE-RXN	NIL	"uppermesopelagic_500m_2663_0"
+2-OXOGLUTARATE-SYNTHASE-RXN	NIL	"uppermesopelagic_500m_6588_0"	"uppermesopelagic_500m_2735_0"	"uppermesopelagic_500m_4761_2"	"uppermesopelagic_500m_4747_0"	"uppermesopelagic_500m_3427_0"
+RXN-9674	NIL	"uppermesopelagic_500m_6064_0"	"uppermesopelagic_500m_7251_0"
+ACETYLSEROTONIN-O-METHYLTRANSFERASE-RXN	NIL
+2.4.1.142-RXN	NIL
+METHYLMALONYL-COA-MUT-RXN	NIL	"uppermesopelagic_500m_2690_0"	"uppermesopelagic_500m_6551_0"	"uppermesopelagic_500m_557_0"	"uppermesopelagic_500m_5104_1"	"uppermesopelagic_500m_6261_0"
+6PFRUCTPHOS-RXN	NIL
+2.7.9.3-RXN	NIL	"uppermesopelagic_500m_1395_0"	"uppermesopelagic_500m_4360_0"
+LYSINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_968_1"	"uppermesopelagic_500m_6510_0"	"uppermesopelagic_500m_1605_0"	"uppermesopelagic_500m_6856_1"
+RXN-4141	NIL
+RXN-4142	NIL	"uppermesopelagic_500m_6817_1"	"uppermesopelagic_500m_8383_0"	"uppermesopelagic_500m_2388_0"	"uppermesopelagic_500m_2342_1"	"uppermesopelagic_500m_5091_0"	"uppermesopelagic_500m_5281_0"	"uppermesopelagic_500m_5226_0"	"uppermesopelagic_500m_6215_0"	"uppermesopelagic_500m_1742_1"	"uppermesopelagic_500m_7842_1"	"uppermesopelagic_500m_54_0"	"uppermesopelagic_500m_2406_2"	"uppermesopelagic_500m_2544_1"
+4-PYRIDOXOLACTONASE-RXN	NIL
+3.1.26.5-RXN	NIL
+CITRULLINASE-RXN	NIL
+THREDEHYD-RXN	NIL	"uppermesopelagic_500m_7323_1"	"uppermesopelagic_500m_7323_0"	"uppermesopelagic_500m_722_0"
+RIBOPHOSPHAT-RXN	NIL
+GSHTRAN-RXN	NIL	"uppermesopelagic_500m_5879_0"	"uppermesopelagic_500m_5057_1"	"uppermesopelagic_500m_2621_0"	"uppermesopelagic_500m_791_1"	"uppermesopelagic_500m_4920_0"	"uppermesopelagic_500m_3861_0"
+RXN0-1863	NIL	"uppermesopelagic_500m_5996_0"
+RXN0-1862	NIL
+PHOSPHATIDATE-PHOSPHATASE-RXN	NIL	"uppermesopelagic_500m_7727_0"
+1.2.1.9-RXN	NIL
+ENOYL-ACP-REDUCT-NADH-RXN	"2,3,4-saturated-fatty-acid-[acp] reductase"
+3-DEHYDROQUINATE-DEHYDRATASE-RXN	NIL	"uppermesopelagic_500m_3081_1"	"uppermesopelagic_500m_4879_1"	"uppermesopelagic_500m_8009_1"
+O-SUCCINYLBENZOATE-COA-LIG-RXN	NIL	"uppermesopelagic_500m_7352_0"	"uppermesopelagic_500m_870_1"
+2.4.2.27-RXN	NIL
+UDP-N-ACETYLGLUCOSAMINE-4-EPIMERASE-RXN	NIL	"uppermesopelagic_500m_3759_0"
+RXN-646	NIL
+RXN-8798	NIL
+3.5.2.18-RXN	NIL	"uppermesopelagic_500m_5130_0"
+RXN-8797	NIL
+ALARACECAT-RXN	NIL	"uppermesopelagic_500m_7738_1"	"uppermesopelagic_500m_5964_1"	"uppermesopelagic_500m_1958_1"
+ATPSYN-RXN	NIL	"uppermesopelagic_500m_1831_0"	"uppermesopelagic_500m_307_1"	"uppermesopelagic_500m_307_0"	"uppermesopelagic_500m_5135_0"	"uppermesopelagic_500m_8915_1"	"uppermesopelagic_500m_1478_1"	"uppermesopelagic_500m_1478_0"	"uppermesopelagic_500m_8337_0"	"uppermesopelagic_500m_8203_0"	"uppermesopelagic_500m_6460_1"	"uppermesopelagic_500m_6460_0"	"uppermesopelagic_500m_2786_0"	"uppermesopelagic_500m_5046_0"	"uppermesopelagic_500m_5561_0"	"uppermesopelagic_500m_6267_0"
+RXN1G-4355	"cerotoyl-CoA carboxylase"	"uppermesopelagic_500m_8344_0"	"uppermesopelagic_500m_8148_1"	"uppermesopelagic_500m_7952_2"	"uppermesopelagic_500m_1715_0"	"uppermesopelagic_500m_4076_0"	"uppermesopelagic_500m_2045_0"	"uppermesopelagic_500m_6168_0"	"uppermesopelagic_500m_2056_0"	"uppermesopelagic_500m_6545_0"	"uppermesopelagic_500m_615_0"	"uppermesopelagic_500m_2488_0"
+RXN-12708	NIL
+RXN-12709	NIL	"uppermesopelagic_500m_5462_1"	"uppermesopelagic_500m_129_0"	"uppermesopelagic_500m_4124_0"	"uppermesopelagic_500m_7487_1"	"uppermesopelagic_500m_5573_0"	"uppermesopelagic_500m_3594_0"	"uppermesopelagic_500m_864_2"	"uppermesopelagic_500m_864_1"	"uppermesopelagic_500m_3399_0"	"uppermesopelagic_500m_2768_0"
+RXN-12702	"3-oxocholest-4-en-26-oate:CoA ligase"	"uppermesopelagic_500m_4673_0"	"uppermesopelagic_500m_6383_0"	"uppermesopelagic_500m_758_1"	"uppermesopelagic_500m_7431_0"	"uppermesopelagic_500m_417_1"	"uppermesopelagic_500m_3890_1"	"uppermesopelagic_500m_534_0"	"uppermesopelagic_500m_1196_0"	"uppermesopelagic_500m_2781_0"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+RXN-12703	"cholest-4-en-3,27-dione-26-CoA dehydrogenase"
+RXN-12706	"propanoyl-CoA C-acyltransferase"
+RXN-12707	NIL
+RXN-12704	"cholest-4,24-dien-3,27-dione-26-CoA hydratase"
+RXN-12705	"3-hydroxyacyl-CoA dehydrogenase"	"uppermesopelagic_500m_5462_1"	"uppermesopelagic_500m_129_0"	"uppermesopelagic_500m_4124_0"	"uppermesopelagic_500m_7487_1"	"uppermesopelagic_500m_5573_0"	"uppermesopelagic_500m_3594_0"	"uppermesopelagic_500m_864_2"	"uppermesopelagic_500m_864_1"	"uppermesopelagic_500m_3399_0"	"uppermesopelagic_500m_2768_0"
+RXN-11737	NIL	"uppermesopelagic_500m_5254_0"	"uppermesopelagic_500m_8464_0"	"uppermesopelagic_500m_8614_1"	"uppermesopelagic_500m_492_0"	"uppermesopelagic_500m_4194_1"	"uppermesopelagic_500m_5207_0"	"uppermesopelagic_500m_4625_0"	"uppermesopelagic_500m_5370_1"	"uppermesopelagic_500m_2408_0"	"uppermesopelagic_500m_6696_0"
+RXN-11733	NIL
+NARINGENIN-CHALCONE-SYNTHASE-RXN	NIL	"uppermesopelagic_500m_8071_0"
+RXN-11738	"sulfolactate dehydrogenase"
+MALEYLACETATE-REDUCTASE-RXN	NIL
+PROPIONATE--COA-LIGASE-RXN	NIL	"uppermesopelagic_500m_8696_0"	"uppermesopelagic_500m_4716_0"
+RFFTRANS-RXN	NIL
+R128-RXN	NIL
+ISOLEUCINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_4677_0"	"uppermesopelagic_500m_2432_1"	"uppermesopelagic_500m_7108_0"	"uppermesopelagic_500m_6514_0"	"uppermesopelagic_500m_5559_0"	"uppermesopelagic_500m_5555_0"	"uppermesopelagic_500m_5013_1"	"uppermesopelagic_500m_6861_0"	"uppermesopelagic_500m_6394_0"
+DADPKIN-RXN	NIL	"uppermesopelagic_500m_2773_0"	"uppermesopelagic_500m_2668_0"	"uppermesopelagic_500m_914_0"
+RXN-8641	NIL
+RXN-8647	"(6E,8Z,11Z,14Z)-(5S)-5-hydroperoxyicosa-6,8,11,14-tetraenoate dehydratase"
+HYDROXYPRODEHYDROG-RXN	"hydroxyproline oxidase"
+CATECHOL-12-DIOXYGENASE-RXN	NIL
+24-DIAMINOPENTANOATE-DEHYDROGENASE-RXN	NIL
+LEUKOTRIENE-A4-HYDROLASE-RXN	NIL
+PNPOXI-RXN	NIL
+RXN1G-1637	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+RXN1G-1636	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+RXN1G-1635	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+RXN1G-1634	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+RXN-10087	NIL
+RXN0-723	"CTP reductase"	"uppermesopelagic_500m_3182_0"
+URA-PHOSPH-RXN	NIL
+RXN0-724	NIL	"uppermesopelagic_500m_3182_0"
+2.6.1.58-RXN	NIL
+2.7.1.90-RXN	NIL	"uppermesopelagic_500m_1969_1"	"uppermesopelagic_500m_1413_0"
+GPPSYN-RXN	NIL	"uppermesopelagic_500m_4757_1"	"uppermesopelagic_500m_8698_0"
+KYNURENINE-3-MONOOXYGENASE-RXN	NIL	"uppermesopelagic_500m_4987_1"
+THYROXINE-DEIODINASE-RXN	NIL
+RXN-10061	"3-hydroxycerotyl-[acp] dehydrase"
+RXN-10060	NIL
+RXN-10062	"trans-hexacos-2-enoyl-[acp] reductase"
+RXN3O-4157	NIL
+RXN1G-94	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+RXN1G-98	"cis-methoxy-meroacyl-AMP transferase"
+PRIBFAICARPISOM-RXN	NIL	"uppermesopelagic_500m_6837_0"	"uppermesopelagic_500m_6838_1"
+THIKIN-RXN	NIL
+AMACETOXID-RXN	NIL
+FORMIMINOGLUTAMATE-DEIMINASE-RXN	NIL
+FORMYL-COA-HYDROLASE-RXN	NIL
+HEMN-RXN	NIL	"uppermesopelagic_500m_442_0"	"uppermesopelagic_500m_2596_0"	"uppermesopelagic_500m_546_0"	"uppermesopelagic_500m_941_0"	"uppermesopelagic_500m_5177_1"	"uppermesopelagic_500m_5560_0"
+RXN-10462	"acyl-ACP:sn-glycerol-3-phosphate 1-O-acyltransferase"	"uppermesopelagic_500m_2504_0"	"uppermesopelagic_500m_1085_0"	"uppermesopelagic_500m_6756_0"
+R123-RXN	NIL
+HYDROXYPYRUVATE-REDUCTASE-RXN	NIL	"uppermesopelagic_500m_6505_0"
+RXN-12717	NIL
+ASPCARBTRANS-RXN	NIL	"uppermesopelagic_500m_7384_0"
+SUCCCOASYN-RXN	NIL	"uppermesopelagic_500m_6886_0"	"uppermesopelagic_500m_6887_0"	"uppermesopelagic_500m_7113_0"	"uppermesopelagic_500m_7098_0"	"uppermesopelagic_500m_4170_0"	"uppermesopelagic_500m_1133_0"	"uppermesopelagic_500m_5123_1"
+ASNSYNB-RXN	NIL	"uppermesopelagic_500m_1259_0"	"uppermesopelagic_500m_7653_0"	"uppermesopelagic_500m_1546_1"	"uppermesopelagic_500m_954_1"	"uppermesopelagic_500m_7172_0"
+ORNMUTST-RXN	NIL
+RXN-9662	"<i>trans</i> tetradec-2-enoyl-[acp] reductase"	"uppermesopelagic_500m_6528_0"
+RXN-9663	"<i>trans</i> hexadecenoyl-[acp] reductase"	"uppermesopelagic_500m_6528_0"
+RXN-9660	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]-reductase"
+RXN-9661	"<i>trans</i> dodec-2-enoyl-[acp] reductase"	"uppermesopelagic_500m_6528_0"
+RIBOFLAVIN-SYN-RXN	NIL	"uppermesopelagic_500m_6821_1"	"uppermesopelagic_500m_9_0"
+RXN-9669	NIL
+RXN-9467	NIL
+RXN-9469	NIL
+RXN1G-1015	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+RXN0-4022	NIL	"uppermesopelagic_500m_2350_0"
+SARCOSINE-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_2945_0"
+ADENYLOSUCCINATE-SYNTHASE-RXN	NIL	"uppermesopelagic_500m_3493_0"	"uppermesopelagic_500m_6669_1"	"uppermesopelagic_500m_5691_0"	"uppermesopelagic_500m_1298_0"	"uppermesopelagic_500m_958_0"
+RXN-13288	"15-tetracosanal carbonylase"
+RXN-13289	"(<i>Z</i>)-15-tetracosenoyl-CoA reductase"
+GLYCERONE-KINASE-RXN	NIL	"uppermesopelagic_500m_4477_0"
+R309-RXN	"Acrylonitrilase"
+RXN-9205	NIL	"uppermesopelagic_500m_7455_1"
+2.7.1.148-RXN	NIL	"uppermesopelagic_500m_2828_0"
+RXN1G-72	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"
+RXN66-170	NIL
+CARBAMATE-KINASE-RXN	NIL	"uppermesopelagic_500m_1997_0"
+GLYCINE-AMIDINOTRANSFERASE-RXN	NIL	"uppermesopelagic_500m_3176_0"
+RXN-7699	NIL
+RXN0-4301	NIL	"uppermesopelagic_500m_7103_0"	"uppermesopelagic_500m_3053_1"
+RXN-7929	NIL	"uppermesopelagic_500m_6404_0"
+RXN-7694	"2-methylbutanol dehydrogenase"	"uppermesopelagic_500m_6389_0"	"uppermesopelagic_500m_7954_1"	"uppermesopelagic_500m_4551_0"	"uppermesopelagic_500m_3850_1"	"uppermesopelagic_500m_3134_0"	"uppermesopelagic_500m_1975_0"	"uppermesopelagic_500m_7788_0"	"uppermesopelagic_500m_5882_0"	"uppermesopelagic_500m_1077_0"	"uppermesopelagic_500m_1772_0"	"uppermesopelagic_500m_8866_0"
+RXN1G-236	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+RXN-7693	"3-methylbutanol dehydrogenase"	"uppermesopelagic_500m_6389_0"	"uppermesopelagic_500m_7954_1"	"uppermesopelagic_500m_4551_0"	"uppermesopelagic_500m_3850_1"	"uppermesopelagic_500m_3134_0"	"uppermesopelagic_500m_1975_0"	"uppermesopelagic_500m_7788_0"	"uppermesopelagic_500m_5882_0"	"uppermesopelagic_500m_1077_0"	"uppermesopelagic_500m_1772_0"	"uppermesopelagic_500m_8866_0"
+RXN-7692	NIL
+4OH2OXOGLUTARALDOL-RXN	NIL
+RXN-13600	"taxiphyllin &beta;-glucosidase"	"uppermesopelagic_500m_6064_0"	"uppermesopelagic_500m_7251_0"
+RXN-13602	"linustatin &beta;-diglucosidase"	"uppermesopelagic_500m_6064_0"	"uppermesopelagic_500m_7251_0"
+RXN-13603	"neolinustatin &beta;-diglucosidase"	"uppermesopelagic_500m_6064_0"	"uppermesopelagic_500m_7251_0"
+BRANCHED-CHAINAMINOTRANSFERILEU-RXN	"Isoleucine transaminase"	"uppermesopelagic_500m_1735_0"	"uppermesopelagic_500m_5519_0"	"uppermesopelagic_500m_8480_0"	"uppermesopelagic_500m_2904_0"	"uppermesopelagic_500m_5416_1"	"uppermesopelagic_500m_7486_0"	"uppermesopelagic_500m_3_0"	"uppermesopelagic_500m_6399_0"	"uppermesopelagic_500m_5360_0"
+RXN-9518	"3-hydroxyhexanoyl-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+RXN-9514	"acetoacetyl-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_6710_1"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN-9515	"Crotonyl-[acyl-carrier protein] reductase (NADP)"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+RXN-9516	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+RXN1G-582	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+RXN1G-580	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+2.7.7.33-RXN	NIL	"uppermesopelagic_500m_1288_0"	"uppermesopelagic_500m_4662_1"
+GLUCARDEHYDRA-RXN	NIL
+DEHYDOGLUCONOKINASE-RXN	NIL
+RXN-7585	NIL
+6.3.5.7-RXN	NIL	"uppermesopelagic_500m_8691_0"	"uppermesopelagic_500m_1552_0"	"uppermesopelagic_500m_7807_1"	"uppermesopelagic_500m_1308_0"
+RXN-7586	NIL
+RXN1G-349	"3-oxo-arachidoyl-[acp] reductase"
+DIPHTINE--AMMONIA-LIGASE-RXN	NIL
+THRESYN-RXN	NIL	"uppermesopelagic_500m_8430_0"	"uppermesopelagic_500m_108_0"	"uppermesopelagic_500m_4878_0"	"uppermesopelagic_500m_1518_0"	"uppermesopelagic_500m_6085_0"	"uppermesopelagic_500m_7211_0"	"uppermesopelagic_500m_4235_0"	"uppermesopelagic_500m_2728_1"
+ASPARTATE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_7917_0"	"uppermesopelagic_500m_6978_0"	"uppermesopelagic_500m_298_0"
+RXN-11338	NIL	"uppermesopelagic_500m_7172_0"
+RXN-13463	NIL
+N-CARBAMOYLPUTRESCINE-AMIDASE-RXN	NIL	"uppermesopelagic_500m_7739_1"
+4.1.2.41-RXN	NIL
+N-FORMYLGLUTAMATE-DEFORMYLASE-RXN	NIL	"uppermesopelagic_500m_8050_1"	"uppermesopelagic_500m_1614_0"	"uppermesopelagic_500m_5781_0"
+RXN1A0-6297	NIL
+RIB5PISOM-RXN	NIL	"uppermesopelagic_500m_8509_1"	"uppermesopelagic_500m_8849_1"
+2.6.1.22-RXN	NIL
+RXN-12399	"xyloglucan XLXG oligosaccharide &beta;-galactosidase"	"uppermesopelagic_500m_5872_0"	"uppermesopelagic_500m_6268_0"
+RXN-12398	"xyloglucan XXLG oligosaccharide &beta;-galactosidase"	"uppermesopelagic_500m_5872_0"	"uppermesopelagic_500m_6268_0"
+UDPNACETYLMURAMATEDEHYDROG-RXN	NIL
+KDGALDOL-RXN	"5-dehydro-4-deoxy-D-glucarate aldolase"	"uppermesopelagic_500m_6606_1"	"uppermesopelagic_500m_78_0"
+RXN1G-697	"<i>cis</i>-methoxy-meroacyl transferase"
+RXN1G-163	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+2.3.1.80-RXN	NIL
+RXN6666-6	NIL
+RXN6666-7	NIL
+RXN6666-4	NIL
+RXN6666-5	NIL	"uppermesopelagic_500m_6817_1"	"uppermesopelagic_500m_8383_0"	"uppermesopelagic_500m_2388_0"	"uppermesopelagic_500m_2342_1"	"uppermesopelagic_500m_5091_0"	"uppermesopelagic_500m_5281_0"	"uppermesopelagic_500m_5226_0"	"uppermesopelagic_500m_6215_0"	"uppermesopelagic_500m_1742_1"	"uppermesopelagic_500m_7842_1"	"uppermesopelagic_500m_54_0"	"uppermesopelagic_500m_2406_2"	"uppermesopelagic_500m_2544_1"
+RXN6666-9	NIL
+ACONITATEDEHYDR-RXN	"citrate dehydratase"	"uppermesopelagic_500m_4470_0"	"uppermesopelagic_500m_4696_0"	"uppermesopelagic_500m_3296_0"	"uppermesopelagic_500m_4120_0"	"uppermesopelagic_500m_1678_0"	"uppermesopelagic_500m_8414_0"	"uppermesopelagic_500m_622_0"	"uppermesopelagic_500m_1845_0"	"uppermesopelagic_500m_5_0"	"uppermesopelagic_500m_7586_0"	"uppermesopelagic_500m_1627_0"	"uppermesopelagic_500m_853_2"	"uppermesopelagic_500m_853_0"	"uppermesopelagic_500m_8304_0"
+RXN-12257	NIL
+GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN	NIL
+6.3.4.16-RXN	NIL	"uppermesopelagic_500m_4512_0"	"uppermesopelagic_500m_2462_0"	"uppermesopelagic_500m_6332_0"	"uppermesopelagic_500m_5242_1"	"uppermesopelagic_500m_5242_0"
+RXN-12253	NIL	"uppermesopelagic_500m_296_0"
+RXN1G-760	"3-cis,cis-delta17,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+2.5.1.63-RXN	NIL
+CTPSYN-RXN	NIL	"uppermesopelagic_500m_2266_0"	"uppermesopelagic_500m_4557_1"	"uppermesopelagic_500m_5896_1"	"uppermesopelagic_500m_4816_0"	"uppermesopelagic_500m_5658_0"	"uppermesopelagic_500m_3282_1"	"uppermesopelagic_500m_8328_1"	"uppermesopelagic_500m_4885_0"	"uppermesopelagic_500m_5746_0"	"uppermesopelagic_500m_7829_0"
+2-ISOPROPYLMALATESYN-RXN	NIL	"uppermesopelagic_500m_7874_0"	"uppermesopelagic_500m_3581_0"
+ISOCIT-CLEAV-RXN	NIL	"uppermesopelagic_500m_6124_0"	"uppermesopelagic_500m_6333_0"	"uppermesopelagic_500m_1328_0"	"uppermesopelagic_500m_3101_1"
+RXN-12736	"propanal dehydrogenase (acetylating)"
+RXN-12735	"4-hydroxy-2-oxohexanoate aldolase"
+RXN-12734	NIL
+GUANIDINOACETATE-N-METHYLTRANSFERASE-RXN	NIL
+ALCOHOL-DEHYDROG-RXN	"ethanol dehydrogenase"	"uppermesopelagic_500m_6389_0"	"uppermesopelagic_500m_7954_1"	"uppermesopelagic_500m_4551_0"	"uppermesopelagic_500m_3850_1"	"uppermesopelagic_500m_3134_0"	"uppermesopelagic_500m_1975_0"	"uppermesopelagic_500m_7788_0"	"uppermesopelagic_500m_5882_0"	"uppermesopelagic_500m_1077_0"
+RXN-8076	NIL
+RXN-8077	NIL
+CARBOXYMETHYLENEBUTENOLIDASE-RXN	NIL	"uppermesopelagic_500m_5894_0"	"uppermesopelagic_500m_8664_1"
+RXN-8078	NIL	"uppermesopelagic_500m_4989_1"
+RXN-8079	NIL
+3.1.4.14-RXN	NIL	"uppermesopelagic_500m_6387_1"
+RXN-12063	"<i>N,N</i>-dihydroxy-L-tryptophan carboxy-lyase"
+RXN-745	NIL
+RXN-13773	"L-gluconate 5-dehydrogenase"
+RXN-10891	NIL	"uppermesopelagic_500m_6649_0"
+RXN-8675	"precorrin-1 <em>C</em>-methyltransferase"	"uppermesopelagic_500m_7644_0"	"uppermesopelagic_500m_445_0"	"uppermesopelagic_500m_6878_1"	"uppermesopelagic_500m_6878_0"
+RXN1G-912	"cis-delta17-3-hydroxyC36:1-[acyl-carrier protein] dehydratase"
+SHIKIMATE-5-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_6395_1"
+COBALAMIN5PSYN-RXN	NIL	"uppermesopelagic_500m_4953_0"
+CPM-KDOSYNTH-RXN	NIL
+L-GULONOLACTONE-OXIDASE-RXN	"<small>L</small>-gulonolactone oxidase"	"uppermesopelagic_500m_6573_1"
+UDP-NACMURALA-GLU-LIG-RXN	NIL	"uppermesopelagic_500m_7262_1"
+PGPPHOSPHA-RXN	NIL
+ASPARTATEKIN-RXN	NIL	"uppermesopelagic_500m_4620_0"	"uppermesopelagic_500m_7509_2"	"uppermesopelagic_500m_1134_0"	"uppermesopelagic_500m_1158_0"	"uppermesopelagic_500m_6421_0"	"uppermesopelagic_500m_7304_1"	"uppermesopelagic_500m_6289_0"	"uppermesopelagic_500m_8041_0"	"uppermesopelagic_500m_8451_1"
+GLUTAMATE-DEHYDROGENASE-NADP+-RXN	NIL	"uppermesopelagic_500m_146_0"
+RXN-10090	"2,4-dichlorotoluene dioxygenase"
+BUTYRATE-KINASE-RXN	NIL
+RXN-10093	"2,4-dichlorotoluene dihydrodiol dehydrogenase"
+RXN3DJ-64	NIL
+1.1.1.64-RXN	NIL
+RXN-10099	NIL	"uppermesopelagic_500m_3762_0"
+RXN-10656	NIL
+RXN-10657	NIL
+RXN-10654	NIL	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+RXN-10655	NIL	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN-10658	NIL
+RXN-10659	NIL	"uppermesopelagic_500m_6284_0"
+CYSPH-RXN	NIL
+RXN-10078	"4-methylsalicylate hydroxylase"	"uppermesopelagic_500m_4601_0"
+RXN-10079	"5-methylsalicylate hydroxylase"	"uppermesopelagic_500m_4601_0"
+2.1.1.103-RXN	NIL
+RXN-2561	NIL
+RXN-2562	NIL
+ACETYL-COA-HYDROLASE-RXN	NIL
+PHOSPHONOACETALDEHYDE-HYDROLASE-RXN	NIL	"uppermesopelagic_500m_4897_1"
+RXN1G-89	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+GAPOXNPHOSPHN-RXN	NIL	"uppermesopelagic_500m_8860_0"
+R63-RXN	NIL
+ARYLFORMAMIDASE-RXN	NIL	"uppermesopelagic_500m_6627_0"
+GLUTATHIONE-REDUCT-NADPH-RXN	NIL
+RXN-9157	NIL	"uppermesopelagic_500m_1316_0"	"uppermesopelagic_500m_8238_0"	"uppermesopelagic_500m_4955_0"	"uppermesopelagic_500m_3894_0"	"uppermesopelagic_500m_5736_0"	"uppermesopelagic_500m_7527_0"	"uppermesopelagic_500m_1213_0"	"uppermesopelagic_500m_6230_0"	"uppermesopelagic_500m_5953_0"
+RXN1G-1152	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+RXN490-3616	"Aspartate--tRNA ligase"
+RXN1G-1150	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+RXN1G-1151	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+AICARSYN-RXN	NIL	"uppermesopelagic_500m_4798_0"	"uppermesopelagic_500m_4746_1"	"uppermesopelagic_500m_4883_0"	"uppermesopelagic_500m_2879_1"	"uppermesopelagic_500m_6853_0"
+ACETALD-DEHYDROG-RXN	NIL	"uppermesopelagic_500m_6455_0"	"uppermesopelagic_500m_4492_0"
+FUMHYDR-RXN	NIL	"uppermesopelagic_500m_8890_1"	"uppermesopelagic_500m_2932_0"	"uppermesopelagic_500m_6012_0"	"uppermesopelagic_500m_5725_0"	"uppermesopelagic_500m_5687_1"
+SERINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_845_1"	"uppermesopelagic_500m_6620_0"	"uppermesopelagic_500m_8247_0"	"uppermesopelagic_500m_3395_1"
+TYROSINE--TRNA-LIGASE-RXN	NIL
+RXN-2364	NIL	"uppermesopelagic_500m_4703_0"
+THIAMIN-PYROPHOSPHOKINASE-RXN	NIL
+3.4.11.1-RXN	NIL	"uppermesopelagic_500m_4698_0"	"uppermesopelagic_500m_6576_0"	"uppermesopelagic_500m_2391_0"	"uppermesopelagic_500m_7164_0"	"uppermesopelagic_500m_2424_0"	"uppermesopelagic_500m_7317_0"
+ADENPRIBOSYLTRAN-RXN	NIL	"uppermesopelagic_500m_6791_0"
+RXN-9670	NIL
+RXN-9673	NIL	"uppermesopelagic_500m_4673_0"	"uppermesopelagic_500m_6383_0"	"uppermesopelagic_500m_758_1"	"uppermesopelagic_500m_7431_0"	"uppermesopelagic_500m_417_1"	"uppermesopelagic_500m_3890_1"	"uppermesopelagic_500m_534_0"	"uppermesopelagic_500m_1196_0"	"uppermesopelagic_500m_2781_0"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+RXN3O-73	NIL
+RXN3O-75	NIL
+RXN-9471	NIL
+RXN-9470	NIL
+PHENYLALANINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_6617_1"	"uppermesopelagic_500m_175_0"	"uppermesopelagic_500m_977_0"	"uppermesopelagic_500m_5393_0"	"uppermesopelagic_500m_4655_0"
+METHIONINE-S-METHYLTRANSFERASE-RXN	NIL
+RXN-2542	NIL
+IPPISOM-RXN	NIL	"uppermesopelagic_500m_3994_1"	"uppermesopelagic_500m_3932_0"
+HOLO-ACP-SYNTH-RXN	NIL
+CYSTATHIONINE-BETA-LYASE-RXN	NIL
+HOMOCYSMET-RXN	NIL	"uppermesopelagic_500m_3809_0"	"uppermesopelagic_500m_2395_0"	"uppermesopelagic_500m_3881_0"	"uppermesopelagic_500m_4451_0"
+RXN-13077	NIL
+RXN-13076	"nicotine dehydrogenase"
+RXN1G-820	"trans-delta2-cis,cis-delta17,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN0-2145	NIL
+SUCROSE-SYNTHASE-RXN	"Sucrose synthase"
+RXN66-142	NIL
+RXN66-141	NIL
+SUCROSE-PHOSPHATASE-RXN	NIL
+DALADALALIG-RXN	NIL	"uppermesopelagic_500m_1898_1"	"uppermesopelagic_500m_378_1"
+RXN66-146	NIL	"uppermesopelagic_500m_4599_1"
+RXN66-145	NIL
+RXN66-144	NIL
+2-NITROPROPANE-DIOXYGENASE-RXN	NIL	"uppermesopelagic_500m_4737_0"	"uppermesopelagic_500m_6517_1"	"uppermesopelagic_500m_5657_1"	"uppermesopelagic_500m_3229_0"
+SUCCGLUALDDEHYD-RXN	NIL	"uppermesopelagic_500m_6455_0"	"uppermesopelagic_500m_4492_0"
+CDPREDUCT-RXN	NIL
+1.14.19.1-RXN	NIL	"uppermesopelagic_500m_2790_1"	"uppermesopelagic_500m_5099_1"	"uppermesopelagic_500m_62_0"
+RXN-7913	NIL	"uppermesopelagic_500m_5610_1"	"uppermesopelagic_500m_3532_1"	"uppermesopelagic_500m_6856_0"
+2.4.1.83-RXN	NIL	"uppermesopelagic_500m_549_0"	"uppermesopelagic_500m_1124_0"	"uppermesopelagic_500m_2960_1"	"uppermesopelagic_500m_4307_0"	"uppermesopelagic_500m_2443_0"	"uppermesopelagic_500m_5763_0"
+GMP-SYN-GLUT-RXN	NIL	"uppermesopelagic_500m_4595_0"	"uppermesopelagic_500m_7382_0"	"uppermesopelagic_500m_6174_0"	"uppermesopelagic_500m_7510_1"	"uppermesopelagic_500m_7510_0"
+RXN1G-220	"cis,cis-delta17,35-3-hydroxyC54:2-[acyl-carrier protein] dehydratase"
+RXN0-1461	NIL	"uppermesopelagic_500m_7084_0"	"uppermesopelagic_500m_319_0"	"uppermesopelagic_500m_333_0"
+RXN-12255	NIL
+RXNI-2	"acetoacetate CoA-transferase"	"uppermesopelagic_500m_6722_0"
+RXNI-3	NIL
+RXN-12250	NIL
+RXN-12251	NIL
+RXN-982	NIL	"uppermesopelagic_500m_4597_0"	"uppermesopelagic_500m_3300_0"	"uppermesopelagic_500m_1311_0"	"uppermesopelagic_500m_1233_0"	"uppermesopelagic_500m_4457_1"
+RXN1A0-6305	NIL
+RXN1A0-6307	NIL
+RXN-12259	NIL
+RXN-2541	NIL
+RXN1A0-6302	NIL
+RXN-13678	NIL
+RXN-13675	NIL
+RXN-13677	NIL
+RXN1G-915	"trans-delta2-cis,cis-delta11,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-13673	NIL	"uppermesopelagic_500m_5879_0"	"uppermesopelagic_500m_5057_1"	"uppermesopelagic_500m_2621_0"	"uppermesopelagic_500m_791_1"	"uppermesopelagic_500m_4920_0"	"uppermesopelagic_500m_3861_0"
+2.3.1.179-RXN	NIL	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+RXN-9508	NIL	"uppermesopelagic_500m_7951_0"
+TSA-REDUCT-RXN	NIL	"uppermesopelagic_500m_2767_1"
+ERYTH4PDEHYDROG-RXN	NIL
+GLUCONATE-2-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_4765_0"
+UROGENDECARBOX-RXN	NIL	"uppermesopelagic_500m_5609_0"	"uppermesopelagic_500m_6294_0"
+CITRATE-PRO-3S-LYASE-THIOLESTERASE-RXN	NIL
+DTDPGLUCDEHYDRAT-RXN	NIL	"uppermesopelagic_500m_7641_0"	"uppermesopelagic_500m_6912_0"	"uppermesopelagic_500m_8914_0"	"uppermesopelagic_500m_4763_1"	"uppermesopelagic_500m_654_1"
+RXN1G-355	"cis-delta21-3-hydroxyC40:1-[acyl-carrier protein] dehydratase"
+RXN1G-358	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+5.4.2.10-RXN	NIL	"uppermesopelagic_500m_8236_0"	"uppermesopelagic_500m_515_1"
+HOMOCITRATE-SYNTHASE-RXN	NIL
+S-FORMYLGLUTATHIONE-HYDROLASE-RXN	NIL	"uppermesopelagic_500m_1446_0"
+LEUKOTRIENE-C4-SYNTHASE-RXN	NIL
+RXN-12383	NIL
+PYRIMSYN1-RXN	NIL	"uppermesopelagic_500m_994_0"
+RXN-7719	"dihydrolipoyl dehydrogenase"	"uppermesopelagic_500m_3302_0"	"uppermesopelagic_500m_2526_0"	"uppermesopelagic_500m_7690_0"	"uppermesopelagic_500m_8373_0"	"uppermesopelagic_500m_3093_0"	"uppermesopelagic_500m_4906_0"
+PYRIDOXINE-4-OXIDASE-RXN	NIL
+RXN-7710	NIL
+RXN1G-686	"trans-delta2-cis,cis-delta9,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+GLUCOSE-1-DEHYDROGENASE-RXN	NIL
+AGMATIN-RXN	NIL	"uppermesopelagic_500m_4679_0"	"uppermesopelagic_500m_5603_0"	"uppermesopelagic_500m_4346_0"
+RXN1G-172	"cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+RXN1G-171	"trans-delta2-cis-delta5-C24:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+THREONINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_3053_0"	"uppermesopelagic_500m_1391_0"	"uppermesopelagic_500m_3064_1"	"uppermesopelagic_500m_4821_0"	"uppermesopelagic_500m_1203_0"
+ACETYLGLUTKIN-RXN	NIL	"uppermesopelagic_500m_4577_0"	"uppermesopelagic_500m_5900_0"	"uppermesopelagic_500m_440_0"	"uppermesopelagic_500m_1110_0"	"uppermesopelagic_500m_5293_0"
+RXN-1223	NIL	"uppermesopelagic_500m_949_0"
+RXN-1224	NIL
+UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN	NIL	"uppermesopelagic_500m_373_0"	"uppermesopelagic_500m_3742_0"
+RXN-1884	NIL
+RXN-1882	NIL
+GLUTAMINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_6320_0"	"uppermesopelagic_500m_3552_1"	"uppermesopelagic_500m_6578_0"	"uppermesopelagic_500m_4488_0"	"uppermesopelagic_500m_3892_0"	"uppermesopelagic_500m_3959_0"	"uppermesopelagic_500m_6373_0"	"uppermesopelagic_500m_4584_0"	"uppermesopelagic_500m_4533_0"
+3.1.3.56-RXN	NIL
+RXN-8036	NIL	"uppermesopelagic_500m_6064_0"	"uppermesopelagic_500m_7251_0"
+3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_3602_0"	"uppermesopelagic_500m_5929_0"
+RXN-8037	NIL
+3.5.1.29-RXN	NIL
+RXN1G-576	"&alpha;-meroacyl transferase"
+RXN-12720	NIL	"uppermesopelagic_500m_7498_0"	"uppermesopelagic_500m_2068_0"	"uppermesopelagic_500m_6206_0"	"uppermesopelagic_500m_6447_0"	"uppermesopelagic_500m_1227_0"
+RXN-12721	NIL
+RXN-12726	NIL	"uppermesopelagic_500m_3313_0"	"uppermesopelagic_500m_2344_1"	"uppermesopelagic_500m_2271_0"	"uppermesopelagic_500m_5318_0"
+RXN-12728	NIL
+RXN-12729	NIL
+RXN-8486	NIL
+THIAZOLSYN2-RXN	NIL
+VALINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_1433_0"	"uppermesopelagic_500m_4524_0"	"uppermesopelagic_500m_2414_0"	"uppermesopelagic_500m_191_0"	"uppermesopelagic_500m_3590_0"	"uppermesopelagic_500m_7683_0"
+R233-RXN	NIL
+RXN-10711	NIL	"uppermesopelagic_500m_296_0"
+RXN-10717	"indole acetaldehyde reductase"
+RXN-10715	"indole acetaldehyde dehydrogenase"	"uppermesopelagic_500m_6817_1"	"uppermesopelagic_500m_8383_0"	"uppermesopelagic_500m_2388_0"	"uppermesopelagic_500m_2342_1"	"uppermesopelagic_500m_5091_0"	"uppermesopelagic_500m_5281_0"	"uppermesopelagic_500m_5226_0"	"uppermesopelagic_500m_6215_0"	"uppermesopelagic_500m_1742_1"	"uppermesopelagic_500m_7842_1"	"uppermesopelagic_500m_54_0"	"uppermesopelagic_500m_2406_2"	"uppermesopelagic_500m_2544_1"
+RXN-11620	NIL
+RXN-11622	NIL	"uppermesopelagic_500m_2875_0"
+NMNAMIDOHYDRO-RXN	NIL
+12-OXOPHYTODIENOATE-REDUCTASE-RXN	NIL
+R502-RXN	"N-methylproline demethylase"	"uppermesopelagic_500m_3769_0"
+PYRUVDEH-RXN	NIL
+4.1.1.86-RXN	NIL
+RXN-5341	NIL	"uppermesopelagic_500m_6064_0"	"uppermesopelagic_500m_7251_0"
+MMUM-RXN	NIL
+RXN1F-19	NIL
+RXN1F-10	NIL
+RXN-1401	"tryptamine oxidase"
+RXN-1406	NIL
+RXN-1404	NIL	"uppermesopelagic_500m_367_0"	"uppermesopelagic_500m_2018_0"
+ORNITHINE-GLU-AMINOTRANSFORASE-RXN	"Ornithine--oxo-glutarate aminotransferase"
+L-LYSINE-AMINOTRANSFERASE-RXN	NIL	"uppermesopelagic_500m_2576_0"
+RXN3O-58	NIL
+RXN-11718	"5-chloro-4-hydroxy-2-oxopentanoate decarboxylase (acylating)"
+RXN-11719	"4-chloro-3-hydroxybutyryl-CoA dehydratase"
+RXN-10661	NIL
+RXN-10660	NIL
+RXN-11714	NIL
+RXN-11715	"chloro-purine nucleoside phosphorylase"	"uppermesopelagic_500m_6004_1"
+RXN-11716	"5-chloro-5-deoxyribose 1 phosphate phosphatase"
+RXN-11717	"5-chloro-5-deoxy-D-ribonate dehydratase"
+RXN-11246	NIL	"uppermesopelagic_500m_5462_0"	"uppermesopelagic_500m_4484_0"	"uppermesopelagic_500m_6141_0"	"uppermesopelagic_500m_8866_1"	"uppermesopelagic_500m_8285_1"	"uppermesopelagic_500m_8285_0"	"uppermesopelagic_500m_1223_1"	"uppermesopelagic_500m_3023_2"
+RXN-10607	NIL	"uppermesopelagic_500m_40_0"
+RXN-11244	NIL	"uppermesopelagic_500m_6362_0"	"uppermesopelagic_500m_1485_0"	"uppermesopelagic_500m_773_0"	"uppermesopelagic_500m_696_0"	"uppermesopelagic_500m_431_0"	"uppermesopelagic_500m_5777_1"	"uppermesopelagic_500m_6251_0"	"uppermesopelagic_500m_1700_0"	"uppermesopelagic_500m_726_0"	"uppermesopelagic_500m_3227_0"	"uppermesopelagic_500m_3806_1"	"uppermesopelagic_500m_859_1"	"uppermesopelagic_500m_8261_0"	"uppermesopelagic_500m_3614_0"	"uppermesopelagic_500m_6794_0"	"uppermesopelagic_500m_6266_1"	"uppermesopelagic_500m_6245_1"	"uppermesopelagic_500m_6245_0"
+RXN-11245	NIL	"uppermesopelagic_500m_5462_1"	"uppermesopelagic_500m_129_0"	"uppermesopelagic_500m_4124_0"	"uppermesopelagic_500m_7487_1"	"uppermesopelagic_500m_5573_0"	"uppermesopelagic_500m_3594_0"	"uppermesopelagic_500m_864_2"	"uppermesopelagic_500m_864_1"	"uppermesopelagic_500m_3399_0"	"uppermesopelagic_500m_2768_0"
+RXN-MG-PROTOPORPHYRIN-METHYLESTER-SYN	NIL
+RXN0-901	NIL	"uppermesopelagic_500m_3924_0"	"uppermesopelagic_500m_2603_0"	"uppermesopelagic_500m_2911_0"	"uppermesopelagic_500m_6296_0"	"uppermesopelagic_500m_403_0"
+RXN-10040	NIL
+GLUTRACE-RXN	NIL
+RXN1G-1149	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+GLYCEROL-KIN-RXN	NIL	"uppermesopelagic_500m_107_0"	"uppermesopelagic_500m_1664_0"	"uppermesopelagic_500m_5156_0"
+3-OXOACYL-ACP-SYNTH-BASE-RXN	"acetoacetyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"	"uppermesopelagic_500m_6710_1"
+UGD-RXN	NIL	"uppermesopelagic_500m_7340_0"	"uppermesopelagic_500m_6069_0"	"uppermesopelagic_500m_6235_1"	"uppermesopelagic_500m_7279_1"	"uppermesopelagic_500m_4027_0"	"uppermesopelagic_500m_8034_1"
+PGLYCDEHYDROG-RXN	NIL	"uppermesopelagic_500m_8647_0"	"uppermesopelagic_500m_8434_1"	"uppermesopelagic_500m_1532_0"	"uppermesopelagic_500m_744_0"	"uppermesopelagic_500m_7847_0"	"uppermesopelagic_500m_427_0"	"uppermesopelagic_500m_8186_0"
+RXN0-4222	NIL	"uppermesopelagic_500m_1649_0"	"uppermesopelagic_500m_6507_0"	"uppermesopelagic_500m_5396_0"
+RXN-9190	NIL
+RXN-9191	NIL	"uppermesopelagic_500m_7455_1"
+KETOACYLCOATHIOL-RXN	NIL	"uppermesopelagic_500m_5462_0"	"uppermesopelagic_500m_4484_0"	"uppermesopelagic_500m_6141_0"	"uppermesopelagic_500m_8866_1"	"uppermesopelagic_500m_8285_1"	"uppermesopelagic_500m_8285_0"	"uppermesopelagic_500m_1223_1"	"uppermesopelagic_500m_3023_2"
+DUTP-PYROP-RXN	NIL	"uppermesopelagic_500m_2535_0"	"uppermesopelagic_500m_428_0"	"uppermesopelagic_500m_7710_0"
+PALMITOYL-COA-HYDROLASE-RXN	NIL
+1.2.1.66-RXN	NIL	"uppermesopelagic_500m_4130_0"
+GALACTARDEHYDRA-RXN	NIL
+L-ASPARTATE-OXID-RXN	NIL	"uppermesopelagic_500m_8108_0"	"uppermesopelagic_500m_3651_0"
+RXN-13064	NIL	"uppermesopelagic_500m_4599_1"
+HOMOGENTISATE-12-DIOXYGENASE-RXN	NIL
+RXN-9995	NIL
+RXN-9220	NIL	"uppermesopelagic_500m_7455_1"
+RXN-9990	NIL	"uppermesopelagic_500m_7722_1"
+INOSINE-NUCLEOSIDASE-RXN	NIL
+UDP-NACMURALGLDAPLIG-RXN	NIL	"uppermesopelagic_500m_529_0"	"uppermesopelagic_500m_591_0"
+HISTPRATPHYD-RXN	NIL	"uppermesopelagic_500m_4328_0"
+RXN1G-53	"trans-delta2-cis-delta21-C40:2-[acyl-carrier protein] reductase"
+RXN-7904	NIL	"uppermesopelagic_500m_4673_0"	"uppermesopelagic_500m_6383_0"	"uppermesopelagic_500m_758_1"	"uppermesopelagic_500m_7431_0"	"uppermesopelagic_500m_417_1"	"uppermesopelagic_500m_3890_1"	"uppermesopelagic_500m_534_0"	"uppermesopelagic_500m_1196_0"	"uppermesopelagic_500m_2781_0"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+RXN1G-210	"trans-delta2-cis-delta11-C30:2[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-214	"cis,cis-delta5,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN66-336	"leukotriene-C4 gamma-glutamyl transferase"	"uppermesopelagic_500m_1316_0"	"uppermesopelagic_500m_8238_0"	"uppermesopelagic_500m_4955_0"	"uppermesopelagic_500m_3894_0"	"uppermesopelagic_500m_5736_0"	"uppermesopelagic_500m_7527_0"	"uppermesopelagic_500m_1213_0"	"uppermesopelagic_500m_6230_0"	"uppermesopelagic_500m_5953_0"
+RXN1G-218	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+RXN-7909	NIL
+RXN-7908	NIL	"uppermesopelagic_500m_8667_1"
+RXN1A0-6312	NIL
+RXN1A0-6310	NIL
+ALLENE-OXIDE-CYCLASE-RXN	NIL
+RXN1A0-6316	NIL
+TETRAACYLDISACC4KIN-RXN	NIL
+PHOSPHAGLYPSYN-RXN	NIL	"uppermesopelagic_500m_322_0"	"uppermesopelagic_500m_3770_1"	"uppermesopelagic_500m_3283_0"	"uppermesopelagic_500m_3883_1"	"uppermesopelagic_500m_4611_0"
+RXN1A0-6318	NIL
+TIGLYLCOA-HYDROXY-RXN	"Tiglyl-CoA hydratase"	"uppermesopelagic_500m_6362_0"	"uppermesopelagic_500m_1485_0"	"uppermesopelagic_500m_773_0"	"uppermesopelagic_500m_696_0"	"uppermesopelagic_500m_431_0"	"uppermesopelagic_500m_5777_1"	"uppermesopelagic_500m_6251_0"	"uppermesopelagic_500m_1700_0"	"uppermesopelagic_500m_726_0"	"uppermesopelagic_500m_3227_0"	"uppermesopelagic_500m_3806_1"	"uppermesopelagic_500m_859_1"	"uppermesopelagic_500m_8261_0"	"uppermesopelagic_500m_3614_0"	"uppermesopelagic_500m_6794_0"	"uppermesopelagic_500m_6266_1"	"uppermesopelagic_500m_6245_1"	"uppermesopelagic_500m_6245_0"
+2.6.1.37-RXN	NIL	"uppermesopelagic_500m_4176_0"
+RXN1G-962	"trans-delta2-cis-delta17-C36:2-[acyl-carrier protein] reductase"
+MERCURY-II-REDUCTASE-RXN	NIL	"uppermesopelagic_500m_3597_0"	"uppermesopelagic_500m_8496_0"
+RXN-9538	"<i>trans</i> tetradec-2-enoyl-[acyl-carrier-protein] reductase (NADPH, B-specific)"
+RXN-9539	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+RXN-9536	"3-oxo-meristoyl-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+RXN-9537	"3-hydroxymyristoyl-[acyl-carrier protein] dehydratase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+RXN-9534	"<i>trans</i> dodec-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+4-COUMARATE--COA-LIGASE-RXN	NIL
+NAD-SYNTH-GLN-RXN	NIL	"uppermesopelagic_500m_2822_0"	"uppermesopelagic_500m_4032_0"	"uppermesopelagic_500m_704_0"	"uppermesopelagic_500m_6616_0"	"uppermesopelagic_500m_8595_0"	"uppermesopelagic_500m_6735_0"
+RXN-9533	"3-hydroxydodecanoyl-[acyl-carrier protein] dehydratase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+RXN-9530	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]reductase (NADPH, B-specific)"
+RXN-9531	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+PHOSACETYLGLUCOSAMINEMUT-RXN	NIL
+ASPARAGINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_2863_0"	"uppermesopelagic_500m_2370_1"	"uppermesopelagic_500m_7703_0"
+TRANSALDOL-RXN	NIL	"uppermesopelagic_500m_1217_1"
+RXN1G-364	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"
+RXN1G-363	"3-hydroxybehenoyl-[acyl-carrier protein] dehydratase"
+UDPACYLGLCNACDEACETYL-RXN	NIL	"uppermesopelagic_500m_5493_0"
+RXN1G-368	"3-oxo-arachidoyl-[acp] synthase"
+R122-RXN	NIL	"uppermesopelagic_500m_6602_0"	"uppermesopelagic_500m_8431_1"
+RXN-12625	"<i>N,N'</i>-diacetylchitobiose &beta;-<i>N</i>-acetylglucosaminidase"	"uppermesopelagic_500m_2875_0"
+RXN-12624	"chitotriose synthase"
+RXN-12627	NIL
+RXN-12626	"chitotriose &beta;-<i>N</i>-acetylglucosaminidase"	"uppermesopelagic_500m_2875_0"
+RXN-12621	NIL
+RXN-12623	"<i>N,N'</i>-diacetylchitobiose synthase"
+RXN1G-2544	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+RXN66-169	NIL	"uppermesopelagic_500m_4599_1"
+METHYLENETHFDEHYDROG-NADP-RXN	NIL
+NAG1P-URIDYLTRANS-RXN	NIL	"uppermesopelagic_500m_8390_0"	"uppermesopelagic_500m_2335_1"
+RXN-7708	"methionine--phenylpyruvate transaminase"
+RXN-7703	NIL
+RXN-7700	"2-phenylethanol dehydrogenase"	"uppermesopelagic_500m_6389_0"	"uppermesopelagic_500m_7954_1"	"uppermesopelagic_500m_4551_0"	"uppermesopelagic_500m_3850_1"	"uppermesopelagic_500m_3134_0"	"uppermesopelagic_500m_1975_0"	"uppermesopelagic_500m_7788_0"	"uppermesopelagic_500m_5882_0"	"uppermesopelagic_500m_1077_0"	"uppermesopelagic_500m_1772_0"	"uppermesopelagic_500m_8866_0"
+RXN-7706	"methionol dehydrogenase"	"uppermesopelagic_500m_6389_0"	"uppermesopelagic_500m_7954_1"	"uppermesopelagic_500m_4551_0"	"uppermesopelagic_500m_3850_1"	"uppermesopelagic_500m_3134_0"	"uppermesopelagic_500m_1975_0"	"uppermesopelagic_500m_7788_0"	"uppermesopelagic_500m_5882_0"	"uppermesopelagic_500m_1077_0"	"uppermesopelagic_500m_1772_0"	"uppermesopelagic_500m_8866_0"
+ACETYL-COA-ACETYLTRANSFER-RXN	NIL	"uppermesopelagic_500m_5404_0"	"uppermesopelagic_500m_5277_0"	"uppermesopelagic_500m_382_0"	"uppermesopelagic_500m_1148_1"	"uppermesopelagic_500m_1149_0"	"uppermesopelagic_500m_8269_0"	"uppermesopelagic_500m_864_0"	"uppermesopelagic_500m_4372_0"	"uppermesopelagic_500m_7515_0"	"uppermesopelagic_500m_1641_0"	"uppermesopelagic_500m_4375_1"
+RXN-7704	NIL
+UDPGLUCEPIM-RXN	NIL	"uppermesopelagic_500m_1282_1"	"uppermesopelagic_500m_4129_0"	"uppermesopelagic_500m_5945_0"	"uppermesopelagic_500m_8805_0"	"uppermesopelagic_500m_3200_0"	"uppermesopelagic_500m_4135_1"	"uppermesopelagic_500m_78_1"	"uppermesopelagic_500m_7444_1"	"uppermesopelagic_500m_5021_1"	"uppermesopelagic_500m_654_0"
+RXN-8871	NIL
+RXN-8872	"4-hydroxybenzaldehyde monooxygenase"	"uppermesopelagic_500m_4599_1"
+RXN-8873	NIL
+CARBPSYN-RXN	NIL	"uppermesopelagic_500m_3556_0"	"uppermesopelagic_500m_5171_1"	"uppermesopelagic_500m_4226_1"	"uppermesopelagic_500m_414_0"	"uppermesopelagic_500m_1007_0"	"uppermesopelagic_500m_962_1"	"uppermesopelagic_500m_996_0"	"uppermesopelagic_500m_4433_0"
+RXN66-166	NIL
+TRYPTOPHAN-5-MONOOXYGENASE-RXN	NIL
+RXN-12533	NIL
+RXN-12532	NIL
+RXN-12534	NIL
+ENOYL-COA-HYDRAT-RXN	NIL	"uppermesopelagic_500m_6362_0"	"uppermesopelagic_500m_1485_0"	"uppermesopelagic_500m_773_0"	"uppermesopelagic_500m_696_0"	"uppermesopelagic_500m_431_0"	"uppermesopelagic_500m_5777_1"	"uppermesopelagic_500m_6251_0"	"uppermesopelagic_500m_1700_0"	"uppermesopelagic_500m_726_0"	"uppermesopelagic_500m_3227_0"	"uppermesopelagic_500m_3806_1"	"uppermesopelagic_500m_859_1"	"uppermesopelagic_500m_8261_0"	"uppermesopelagic_500m_3614_0"	"uppermesopelagic_500m_6794_0"	"uppermesopelagic_500m_6266_1"	"uppermesopelagic_500m_6245_1"	"uppermesopelagic_500m_6245_0"
+RXN0-5199	"guanosine phosphorylase"	"uppermesopelagic_500m_6004_1"
+4.1.1.80-RXN	NIL
+1TRANSKETO-RXN	NIL	"uppermesopelagic_500m_5851_0"	"uppermesopelagic_500m_1280_0"	"uppermesopelagic_500m_5608_0"	"uppermesopelagic_500m_8710_0"	"uppermesopelagic_500m_1290_0"	"uppermesopelagic_500m_7630_0"	"uppermesopelagic_500m_7824_0"
+ORNITHINE-RACEMASE-RXN	NIL
+GLUCDEHYDROG-RXN	NIL	"uppermesopelagic_500m_4858_0"	"uppermesopelagic_500m_7283_0"	"uppermesopelagic_500m_5788_0"	"uppermesopelagic_500m_5004_0"
+RXN-11721	NIL
+RXN1G-320	"3-hydroxyarchidoyl-[acp] dehydrase"
+CHORISMATEMUT-RXN	NIL	"uppermesopelagic_500m_7321_1"	"uppermesopelagic_500m_8565_1"	"uppermesopelagic_500m_8300_0"
+GLUTAMATESYN-RXN	NIL	"uppermesopelagic_500m_7998_0"	"uppermesopelagic_500m_8164_0"	"uppermesopelagic_500m_4916_0"	"uppermesopelagic_500m_3051_0"	"uppermesopelagic_500m_3325_0"	"uppermesopelagic_500m_929_0"	"uppermesopelagic_500m_7636_1"	"uppermesopelagic_500m_6824_1"	"uppermesopelagic_500m_4290_0"	"uppermesopelagic_500m_3013_0"	"uppermesopelagic_500m_1660_0"	"uppermesopelagic_500m_3357_0"	"uppermesopelagic_500m_3070_0"	"uppermesopelagic_500m_2938_0"	"uppermesopelagic_500m_1854_0"
+RXN-12755	"arachidonate &Delta;<sup>17</sup> desaturase"
+RXN-7682	NIL	"uppermesopelagic_500m_3924_0"	"uppermesopelagic_500m_2603_0"	"uppermesopelagic_500m_2911_0"	"uppermesopelagic_500m_6296_0"	"uppermesopelagic_500m_403_0"
+RXN-12751	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-oxopropanoyl-CoA hydrolase"
+RXN-12750	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-hydroxypropanoate dehydrogenase"	"uppermesopelagic_500m_5462_1"	"uppermesopelagic_500m_129_0"	"uppermesopelagic_500m_4124_0"	"uppermesopelagic_500m_7487_1"	"uppermesopelagic_500m_5573_0"	"uppermesopelagic_500m_3594_0"	"uppermesopelagic_500m_864_2"	"uppermesopelagic_500m_864_1"	"uppermesopelagic_500m_3399_0"	"uppermesopelagic_500m_2768_0"
+NAPHTHOATE-SYN-RXN	NIL	"uppermesopelagic_500m_715_1"
+DIACYLGLYCEROL-O-ACYLTRANSFERASE-RXN	NIL
+RXN-2961	NIL
+RXN-2962	NIL	"uppermesopelagic_500m_2400_0"
+GALACTONOLACTONE-DEHYDROGENASE-RXN	"<small>L</small>-galactonolactone dehydrogenase"
+RXN-10704	NIL	"uppermesopelagic_500m_6362_0"	"uppermesopelagic_500m_1485_0"	"uppermesopelagic_500m_773_0"	"uppermesopelagic_500m_696_0"	"uppermesopelagic_500m_431_0"	"uppermesopelagic_500m_5777_1"	"uppermesopelagic_500m_6251_0"	"uppermesopelagic_500m_1700_0"	"uppermesopelagic_500m_726_0"	"uppermesopelagic_500m_3227_0"	"uppermesopelagic_500m_3806_1"	"uppermesopelagic_500m_859_1"	"uppermesopelagic_500m_8261_0"	"uppermesopelagic_500m_3614_0"	"uppermesopelagic_500m_6794_0"	"uppermesopelagic_500m_6266_1"	"uppermesopelagic_500m_6245_1"	"uppermesopelagic_500m_6245_0"
+3PGAREARR-RXN	NIL	"uppermesopelagic_500m_2520_1"
+RXN-10706	NIL
+RXN-10707	NIL
+RXN-10700	NIL	"uppermesopelagic_500m_5462_0"	"uppermesopelagic_500m_4484_0"	"uppermesopelagic_500m_6141_0"	"uppermesopelagic_500m_8866_1"	"uppermesopelagic_500m_8285_1"	"uppermesopelagic_500m_8285_0"	"uppermesopelagic_500m_1223_1"	"uppermesopelagic_500m_3023_2"
+RXN-10701	NIL	"uppermesopelagic_500m_5462_0"	"uppermesopelagic_500m_4484_0"	"uppermesopelagic_500m_6141_0"	"uppermesopelagic_500m_8866_1"	"uppermesopelagic_500m_8285_1"	"uppermesopelagic_500m_8285_0"	"uppermesopelagic_500m_1223_1"	"uppermesopelagic_500m_3023_2"
+RXN-10702	NIL	"uppermesopelagic_500m_5462_1"	"uppermesopelagic_500m_129_0"	"uppermesopelagic_500m_4124_0"	"uppermesopelagic_500m_7487_1"	"uppermesopelagic_500m_5573_0"	"uppermesopelagic_500m_3594_0"	"uppermesopelagic_500m_864_2"	"uppermesopelagic_500m_864_1"	"uppermesopelagic_500m_3399_0"	"uppermesopelagic_500m_2768_0"
+RXN-10703	NIL	"uppermesopelagic_500m_5462_1"	"uppermesopelagic_500m_129_0"	"uppermesopelagic_500m_4124_0"	"uppermesopelagic_500m_7487_1"	"uppermesopelagic_500m_5573_0"	"uppermesopelagic_500m_3594_0"	"uppermesopelagic_500m_864_2"	"uppermesopelagic_500m_864_1"	"uppermesopelagic_500m_3399_0"	"uppermesopelagic_500m_2768_0"
+R221-RXN	NIL
+RXN-10708	NIL	"uppermesopelagic_500m_8756_1"
+SUCC-FUM-OXRED-RXN	NIL	"uppermesopelagic_500m_527_0"	"uppermesopelagic_500m_7813_0"	"uppermesopelagic_500m_2124_0"	"uppermesopelagic_500m_8086_1"	"uppermesopelagic_500m_7820_1"	"uppermesopelagic_500m_4350_0"	"uppermesopelagic_500m_7151_0"	"uppermesopelagic_500m_7682_1"	"uppermesopelagic_500m_3251_0"
+DIHYDRODIPICSYN-RXN	"4-hydroxy-tetrahydrodipicolinate synthase"	"uppermesopelagic_500m_1647_0"
+RXN-11099	"<i>N</i>1-amidinostreptamine 6-phosphate aminotransferase"
+RXN-11098	"ATP:1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol 6-phosphotransferase"
+RXN-11097	"1-guanidino-1-deoxy-scyllo-inositol dehydrogenase"
+RXN-11475	NIL
+RXN-11474	"3-oxo-glutaryl-[acp] methyl ester synthase"
+RXN-11477	NIL
+RXN-11476	"3-oxo-glutaryl-[acp] methyl ester reductase"	"uppermesopelagic_500m_6284_0"
+HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN	"S-adenosyl-L-methionine:L-homocysteine S-methyltransferase"
+RXN-11479	NIL	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+RXN-11478	NIL
+RXN-2762	NIL
+2.7.7.60-RXN	NIL	"uppermesopelagic_500m_576_1"	"uppermesopelagic_500m_5415_0"	"uppermesopelagic_500m_5720_0"
+RXN-2761	NIL
+RXN-1143	NIL
+RXN-1142	NIL
+STREPTOMYCIN-6-KINASE-RXN	NIL
+R343-RXN	NIL
+PHENYLPYRUVATE-DECARBOXYLASE-RXN	NIL
+SERINE-GLYOXYLATE-AMINOTRANSFERASE-RXN	NIL	"uppermesopelagic_500m_6266_0"
+RXN-10838	NIL
+DIHYDROXYMETVALDEHYDRAT-RXN	"2,3-Dihydroxy-3-methylvalerate dehydratase"	"uppermesopelagic_500m_7850_0"	"uppermesopelagic_500m_369_0"	"uppermesopelagic_500m_4443_0"	"uppermesopelagic_500m_6747_0"	"uppermesopelagic_500m_559_1"	"uppermesopelagic_500m_7655_1"	"uppermesopelagic_500m_3206_1"	"uppermesopelagic_500m_4394_2"	"uppermesopelagic_500m_4432_0"
+CREATINASE-RXN	NIL
+RXN-11277	NIL
+RXN-11272	NIL
+RXN-10055	NIL
+RXN-10056	NIL
+RXN-10057	NIL
+RXN-11501	NIL	"uppermesopelagic_500m_5498_0"	"uppermesopelagic_500m_3888_0"
+RXN-2543	NIL
+RXN-11503	NIL	"uppermesopelagic_500m_3417_0"
+RXN-11502	NIL
+RXN-14025	NIL
+RXN-14026	NIL	"uppermesopelagic_500m_5817_2"	"uppermesopelagic_500m_5526_1"
+RXN-5467	NIL
+2.7.8.11-RXN	NIL
+SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_3563_1"	"uppermesopelagic_500m_5184_0"
+RXN3O-1803	NIL	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"	"uppermesopelagic_500m_6710_1"
+SERINE-O-ACETTRAN-RXN	NIL	"uppermesopelagic_500m_7593_1"
+2.7.8.27-RXN	NIL
+DETHIOBIOTIN-SYN-RXN	NIL	"uppermesopelagic_500m_7634_0"
+RXN1G-240	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+HOMOACONITATE-HYDRATASE-RXN	NIL
+ALTRODEHYDRAT-RXN	NIL	"uppermesopelagic_500m_2099_0"
+RXN-2141	NIL
+GUANIDINOBUTYRASE-RXN	NIL
+7KAPSYN-RXN	NIL	"uppermesopelagic_500m_8325_0"
+RXN-9189	NIL
+GLUTAMATE-N-ACETYLTRANSFERASE-RXN	NIL	"uppermesopelagic_500m_170_0"
+RXN66-525	NIL	"uppermesopelagic_500m_5027_0"
+RXN66-526	NIL
+RXN66-521	NIL
+BRANCHED-CHAINAMINOTRANSFERLEU-RXN	NIL	"uppermesopelagic_500m_1735_0"	"uppermesopelagic_500m_5519_0"	"uppermesopelagic_500m_8480_0"	"uppermesopelagic_500m_2904_0"	"uppermesopelagic_500m_5416_1"	"uppermesopelagic_500m_7486_0"	"uppermesopelagic_500m_3_0"	"uppermesopelagic_500m_6399_0"	"uppermesopelagic_500m_5360_0"
+4.3.1.14-RXN	NIL
+RXN-3142	NIL
+GSPSYN-RXN	NIL	"uppermesopelagic_500m_4815_0"
+RXN-9987	"UDP-N-acetylglucosamine 2-epimerase (hydrolysing)"
+KETOGAL-DEHYDROXY-RXN	NIL
+GCVP-RXN	NIL	"uppermesopelagic_500m_8884_0"	"uppermesopelagic_500m_5797_0"	"uppermesopelagic_500m_1272_1"
+RXN1G-45	"cis,cis-&Delta;19,31-C50:2-[acp] reductase"
+NAG6PDEACET-RXN	NIL	"uppermesopelagic_500m_8177_0"	"uppermesopelagic_500m_7441_0"
+SUCCARGDIHYDRO-RXN	NIL
+ANTHRANSYN-RXN	NIL	"uppermesopelagic_500m_4682_0"	"uppermesopelagic_500m_6133_0"	"uppermesopelagic_500m_8307_0"
+GLUTSEMIALDEHYDROG-RXN	NIL	"uppermesopelagic_500m_7754_0"	"uppermesopelagic_500m_5699_1"
+GKI-RXN	NIL
+RXN-10	NIL	"uppermesopelagic_500m_470_1"	"uppermesopelagic_500m_6081_0"
+RXN-7644	"D-sorbitol 2-dehydrogenase"	"uppermesopelagic_500m_8729_1"
+BUTYRYL-COA-DEHYDROGENASE-RXN	"butanoyl-CoA dehydrogenase"	"uppermesopelagic_500m_6537_1"	"uppermesopelagic_500m_8370_1"	"uppermesopelagic_500m_8045_1"
+RXN-7643	NIL
+RXN1G-202	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+RXN1G-203	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN-6261	NIL	"uppermesopelagic_500m_4953_1"	"uppermesopelagic_500m_3366_1"	"uppermesopelagic_500m_3366_0"
+1.7.7.2-RXN	NIL
+VALINE-PYRUVATE-AMINOTRANSFER-RXN	NIL	"uppermesopelagic_500m_6470_0"
+RXN66-185	NIL
+RXN66-184	NIL
+RXN66-183	NIL
+RXN66-182	NIL
+RXN66-181	NIL	"uppermesopelagic_500m_4599_1"
+1.1.1.34-RXN	NIL	"uppermesopelagic_500m_4503_0"
+R345-RXN	NIL	"uppermesopelagic_500m_5272_0"	"uppermesopelagic_500m_1450_0"
+RXN-9521	"<i>trans</i> hex-2-enoyl-[acp] reductase (NADPH, B-specific)"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+RXN-9520	"3-hydroxyhexanoyl-[acyl-carrier protein] dehydratase"
+RXN-9523	"3-oxo-octanoyl-[acyl-carrier protein] synthase"
+RXN-9524	"3-oxo-octanoyl-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+RXN-9527	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+RXN-9526	"<i>trans</i> oct-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-9528	"3-oxo-decanoyl-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+5-METHYLTHIOADENOSINE-PHOSPHORYLASE-RXN	NIL	"uppermesopelagic_500m_5209_1"	"uppermesopelagic_500m_1365_0"
+NADPYROPHOSPHAT-RXN	NIL
+RXN-7809	NIL
+RXN-7805	NIL
+ESTRADIOL-17-BETA-DEHYDROGENASE-RXN	NIL
+RXN-7807	NIL
+RXN1G-374	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+RXN1G-377	"cis-delta15-3-hydroxyC34:1-[acyl-carrier protein] dehydratase"
+BIOTINLIG-RXN	NIL	"uppermesopelagic_500m_7001_1"	"uppermesopelagic_500m_7001_0"
+UDP-NACMURALGLDAPAALIG-RXN	"UDP-<I>N</I>-acetylmuramoyl-L-alanyl-D-glutamyl-<I>meso</I>-2,6-diaminopimelate ligase"	"uppermesopelagic_500m_1331_0"	"uppermesopelagic_500m_176_0"	"uppermesopelagic_500m_765_0"
+TDPFUCACTRANS-RXN	"dTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase"
+INOPHOSPHOR-RXN	"inosine phosphorylase"
+RXN-13720	NIL	"uppermesopelagic_500m_847_0"	"uppermesopelagic_500m_365_0"	"uppermesopelagic_500m_8188_0"
+2.1.1.86-RXN	NIL
+GUANIDINOBUTANAMIDE-NH3-RXN	NIL	"uppermesopelagic_500m_889_1"	"uppermesopelagic_500m_6194_0"	"uppermesopelagic_500m_7816_0"	"uppermesopelagic_500m_6149_0"	"uppermesopelagic_500m_1129_0"	"uppermesopelagic_500m_4683_0"	"uppermesopelagic_500m_701_0"	"uppermesopelagic_500m_8848_0"	"uppermesopelagic_500m_955_0"
+RXN-13909	NIL
+RXN-13908	NIL	"uppermesopelagic_500m_8667_1"
+RXN-13907	NIL	"uppermesopelagic_500m_4386_0"	"uppermesopelagic_500m_6075_0"
+RXN-7737	NIL	"uppermesopelagic_500m_2983_0"
+MALIC-NADP-RXN	NIL	"uppermesopelagic_500m_2750_1"
+1.5.1.20-RXN	NIL	"uppermesopelagic_500m_6108_0"
+RXN0-6484	NIL
+RXN0-6485	NIL	"uppermesopelagic_500m_5246_0"	"uppermesopelagic_500m_4580_0"
+FPPSYN-RXN	NIL	"uppermesopelagic_500m_2500_1"	"uppermesopelagic_500m_6_1"	"uppermesopelagic_500m_8698_0"
+ACETYL-COA-CARBOXYLTRANSFER-RXN	NIL	"uppermesopelagic_500m_4893_0"	"uppermesopelagic_500m_8700_0"	"uppermesopelagic_500m_2157_0"
+RXN-6902	"4-aminobutyrate--pyruvate transaminase"
+METHELENE-THMPT-OXI-RXN	NIL	"uppermesopelagic_500m_8675_0"	"uppermesopelagic_500m_3237_0"	"uppermesopelagic_500m_6549_1"
+HISTOLDEHYD-RXN	"Histidinol dehydrogenase"	"uppermesopelagic_500m_7946_0"	"uppermesopelagic_500m_7742_0"
+RXN-12520	NIL
+RXN-12521	NIL	"uppermesopelagic_500m_2239_0"
+RXN-821	NIL
+ALDOSE-1-EPIMERASE-RXN	NIL
+2.3.1.168-RXN	NIL
+RXN1G-554	"3-cis,cis-delta15,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN1G-557	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+ASPAMINOTRANS-RXN	NIL	"uppermesopelagic_500m_5254_0"	"uppermesopelagic_500m_8464_0"	"uppermesopelagic_500m_8614_1"	"uppermesopelagic_500m_492_0"	"uppermesopelagic_500m_4194_1"	"uppermesopelagic_500m_5207_0"	"uppermesopelagic_500m_4625_0"	"uppermesopelagic_500m_5370_1"	"uppermesopelagic_500m_2408_0"	"uppermesopelagic_500m_6696_0"
+RXN-12746	"3-[(3a<i>S</i>,4<i>S</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA ligase"	"uppermesopelagic_500m_4673_0"	"uppermesopelagic_500m_6383_0"	"uppermesopelagic_500m_758_1"	"uppermesopelagic_500m_7431_0"	"uppermesopelagic_500m_417_1"	"uppermesopelagic_500m_3890_1"	"uppermesopelagic_500m_534_0"	"uppermesopelagic_500m_1196_0"	"uppermesopelagic_500m_2781_0"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+RXN-12747	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA 5-dehydrogenase"
+RXN-12744	"3-oxo-23,24-bisnorchol-4,17(20)-dien-22-oyl-CoA hydratase"
+RXN-12745	"3-oxo-23,24-bisnorchol-4-en-17-ol-22-oyl-CoA lyase"
+RXN-12743	"3-oxo-23,24-bisnorchol-4-en-22-oyl-CoA 17(20)-dehydrogenase"
+BIOTIN-CARBOXYL-RXN	NIL	"uppermesopelagic_500m_4281_1"	"uppermesopelagic_500m_6521_0"
+RXN-12748	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA dehydrogenase"
+RXN-12749	"(2<i>E</i>)-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]prop-2-enoate hydratase"
+GLUCONOLACT-RXN	NIL	"uppermesopelagic_500m_8152_1"
+MHPHYDROXY-RXN	NIL
+ALLANTOINASE-RXN	NIL
+PANTOATE-BETA-ALANINE-LIG-RXN	NIL	"uppermesopelagic_500m_7201_1"
+F16ALDOLASE-RXN	NIL	"uppermesopelagic_500m_1411_0"	"uppermesopelagic_500m_93_0"	"uppermesopelagic_500m_4002_0"	"uppermesopelagic_500m_5749_0"	"uppermesopelagic_500m_3317_0"	"uppermesopelagic_500m_1804_1"
+ISOCITRATE-DEHYDROGENASE-NAD+-RXN	NIL
+DXS-RXN	NIL	"uppermesopelagic_500m_4319_0"	"uppermesopelagic_500m_1763_0"	"uppermesopelagic_500m_8263_0"
+GLUC1PADENYLTRANS-RXN	NIL	"uppermesopelagic_500m_2435_1"	"uppermesopelagic_500m_4797_0"	"uppermesopelagic_500m_2279_0"
+RXN-10841	NIL
+RXN-10840	NIL
+1.13.11.16-RXN	NIL	"uppermesopelagic_500m_3336_0"
+CARBON-MONOXIDE-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_6225_1"	"uppermesopelagic_500m_6225_0"	"uppermesopelagic_500m_1184_0"	"uppermesopelagic_500m_8871_1"	"uppermesopelagic_500m_7146_0"	"uppermesopelagic_500m_6933_0"	"uppermesopelagic_500m_3757_0"	"uppermesopelagic_500m_1924_0"	"uppermesopelagic_500m_2738_0"	"uppermesopelagic_500m_1863_1"	"uppermesopelagic_500m_1863_0"	"uppermesopelagic_500m_7585_1"	"uppermesopelagic_500m_6398_0"	"uppermesopelagic_500m_5745_0"	"uppermesopelagic_500m_8180_0"	"uppermesopelagic_500m_8031_1"	"uppermesopelagic_500m_5425_0"	"uppermesopelagic_500m_4081_1"
+GART-RXN	NIL	"uppermesopelagic_500m_8155_0"	"uppermesopelagic_500m_6396_1"	"uppermesopelagic_500m_5631_1"
+THIOREDOXIN-RXN	NIL
+1.5.99.9-RXN	NIL
+DIHYDROFOLATEREDUCT-RXN	NIL	"uppermesopelagic_500m_6281_1"	"uppermesopelagic_500m_6281_0"
+RXN1F-72	NIL
+KETOLACTOSE-RXN	"3-ketolactose hydrolase"	"uppermesopelagic_500m_5872_0"	"uppermesopelagic_500m_6268_0"
+MALEYLACETOACETATE-ISOMERASE-RXN	NIL
+RXN-10609	NIL	"uppermesopelagic_500m_40_0"
+RXN-10608	NIL	"uppermesopelagic_500m_40_0"
+ERYTHRON4PDEHYDROG-RXN	NIL
+RXN-10606	NIL	"uppermesopelagic_500m_40_0"
+THIOREDOXIN-REDUCT-NADPH-RXN	NIL	"uppermesopelagic_500m_8649_0"	"uppermesopelagic_500m_4929_0"	"uppermesopelagic_500m_883_0"	"uppermesopelagic_500m_3971_0"	"uppermesopelagic_500m_2393_1"	"uppermesopelagic_500m_6449_2"	"uppermesopelagic_500m_969_0"	"uppermesopelagic_500m_3886_0"
+RXN-2802	NIL
+AICARTRANSFORM-RXN	NIL	"uppermesopelagic_500m_5644_0"	"uppermesopelagic_500m_6990_0"	"uppermesopelagic_500m_7900_0"	"uppermesopelagic_500m_2843_2"
+ACONITATEHYDR-RXN	"cis-aconitate hydratase"	"uppermesopelagic_500m_4470_0"	"uppermesopelagic_500m_4696_0"	"uppermesopelagic_500m_3296_0"	"uppermesopelagic_500m_4120_0"	"uppermesopelagic_500m_1678_0"	"uppermesopelagic_500m_8414_0"	"uppermesopelagic_500m_622_0"	"uppermesopelagic_500m_1845_0"	"uppermesopelagic_500m_5_0"	"uppermesopelagic_500m_7586_0"	"uppermesopelagic_500m_1627_0"	"uppermesopelagic_500m_853_2"	"uppermesopelagic_500m_853_0"	"uppermesopelagic_500m_8304_0"
+AKPTHIOL-RXN	NIL
+ACYLCOASYN-RXN	"2,3,4-saturated fatty acyl-CoA synthetase"	"uppermesopelagic_500m_4673_0"	"uppermesopelagic_500m_6383_0"	"uppermesopelagic_500m_758_1"	"uppermesopelagic_500m_7431_0"	"uppermesopelagic_500m_417_1"	"uppermesopelagic_500m_3890_1"	"uppermesopelagic_500m_534_0"	"uppermesopelagic_500m_1196_0"	"uppermesopelagic_500m_2781_0"	"uppermesopelagic_500m_6222_0"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+RXN-1403	NIL
+O-SUCCINYLBENZOATE-COA-SYN-RXN	NIL	"uppermesopelagic_500m_642_1"
+ADENYL-KIN-RXN	NIL	"uppermesopelagic_500m_1359_1"	"uppermesopelagic_500m_844_0"
+UROPORIIIMETHYLTRANSA-RXN	"uroporphyrinogen-III <em>C</em>-methyltransferase"	"uppermesopelagic_500m_7644_0"	"uppermesopelagic_500m_445_0"	"uppermesopelagic_500m_6878_1"	"uppermesopelagic_500m_6878_0"
+ISPH2-RXN	NIL	"uppermesopelagic_500m_6950_1"	"uppermesopelagic_500m_5111_0"
+DCTP-PYROPHOSPHATASE-RXN	NIL	"uppermesopelagic_500m_2535_0"	"uppermesopelagic_500m_428_0"
+DCTP-DEAM-RXN	NIL
+DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN	NIL
+RXN-1405	NIL
+THREOSPON-RXN	NIL
+MYO-INOSITOL-2-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_4974_0"	"uppermesopelagic_500m_2324_1"	"uppermesopelagic_500m_4542_0"	"uppermesopelagic_500m_4867_0"
+RXN1G-32	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+URUR-RXN	NIL
+MALATE-DEHYDROGENASE-ACCEPTOR-RXN	NIL	"uppermesopelagic_500m_2750_1"
+1.1.99.28-RXN	NIL	"uppermesopelagic_500m_5159_0"
+OXALYL-COA-DECARBOXYLASE-RXN	NIL	"uppermesopelagic_500m_1472_0"
+PANTEPADENYLYLTRAN-RXN	NIL	"uppermesopelagic_500m_8720_0"
+1-PHOSPHATIDYLINOSITOL-KINASE-RXN	NIL
+R222-RXN	"1-octanal dehydrogenase (NAD+)"	"uppermesopelagic_500m_6455_0"	"uppermesopelagic_500m_4492_0"
+R232-RXN	NIL
+P-PANTOCYSDECARB-RXN	NIL	"uppermesopelagic_500m_8349_0"	"uppermesopelagic_500m_3292_1"	"uppermesopelagic_500m_3292_0"	"uppermesopelagic_500m_6023_0"	"uppermesopelagic_500m_4157_0"
+GLYCDEH-RXN	NIL
+3.5.2.14-RXN	NIL	"uppermesopelagic_500m_8576_0"	"uppermesopelagic_500m_1799_0"	"uppermesopelagic_500m_2796_1"	"uppermesopelagic_500m_2796_0"	"uppermesopelagic_500m_3957_0"	"uppermesopelagic_500m_6038_0"	"uppermesopelagic_500m_8551_0"
+2.6.1.18-RXN	NIL	"uppermesopelagic_500m_873_0"
+RXN-13001	NIL
+RXN1G-1439	"6-O-trans-keto-mycolyl-trehalose-6-phosphatase"
+RXN1G-1438	"6-O-cis-keto-mycolyl-trehalose-6-phosphatase"
+RXN1G-37	"trans-delta2-cis-delta7-C26:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-30	"trans-docos-2-enoyl-[acyl-carrier protein] reductase"
+TRYPTOPHAN-23-DIOXYGENASE-RXN	NIL	"uppermesopelagic_500m_7433_0"	"uppermesopelagic_500m_1460_0"
+RXN-9086	NIL
+RXN-9087	NIL
+RXN1G-1435	"6-O-mycolyl-trehalose-6-phosphatase"
+RXN1G-1437	"6-O-trans-methoxy-mycolyl-trehalose-6-phosphatase"
+RXN1G-1436	"6-O-cis-methoxy-mycolyl-trehalose-6-phosphatase"
+RXN1G-891	"3-oxo-C87-trans-mycolate synthase"
+RXN1G-890	"3-oxo-C86-cis-keto-mycolate synthase"
+ALANINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_4778_0"	"uppermesopelagic_500m_2108_0"	"uppermesopelagic_500m_2446_0"	"uppermesopelagic_500m_5632_0"	"uppermesopelagic_500m_8451_0"
+RXN-9952	NIL	"uppermesopelagic_500m_6904_1"
+HISTALDEHYD-RXN	"Histidinal dehydrogenase"	"uppermesopelagic_500m_7946_0"	"uppermesopelagic_500m_7742_0"
+3-ISOPROPYLMALDEHYDROG-RXN	"3-isopropylmalate dehydrogenase"	"uppermesopelagic_500m_5271_1"	"uppermesopelagic_500m_7470_0"	"uppermesopelagic_500m_3015_0"	"uppermesopelagic_500m_6438_0"	"uppermesopelagic_500m_6432_0"	"uppermesopelagic_500m_2113_0"
+PRTRANS-RXN	NIL	"uppermesopelagic_500m_4936_0"	"uppermesopelagic_500m_7841_0"	"uppermesopelagic_500m_8786_0"	"uppermesopelagic_500m_6897_1"
+RXN0-1861	NIL
+RXN-13646	"linustatin &beta;-diglucosidase"
+UTPHEXPURIDYLYLTRANS-RXN	NIL
+ADENYLYLSULFATE-REDUCTASE-RXN	NIL	"uppermesopelagic_500m_1059_0"
+RXN-6384	NIL
+MHPCHYDROL-RXN	NIL
+RXN-6383	NIL
+RXN-9554	"Petrosel-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-9555	NIL
+RXN-9556	"3-oxo-<i>cis</i>-vaccenoyl-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"
+RXN-9557	"3-hydroxy-cis-vaccenoyl-[acyl-carrier protein] dehydratase"
+RXN-9550	NIL
+RXN-9551	NIL
+RXN-9552	"3-oxo-petroslinoyl-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"
+RXN-9553	"3-hydroxypetroselinoyl-[acyl-carrier protein] dehydratase"
+RXN-11713	NIL
+RXN-9558	NIL
+RXN0-5224	NIL	"uppermesopelagic_500m_2709_0"
+RXN1G-309	"cis,cis-delta9,21-3-hydroxyC40:2-[acyl-carrier protein] dehydratase"
+RXN1G-308	"cis,cis-delta7,19-3-hydroxyC38:2-[acyl-carrier protein] dehydratase"
+RXN1G-306	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] synthase"
+RXN-7813	NIL	"uppermesopelagic_500m_8698_0"
+RXN-7812	NIL
+RXN-7811	NIL	"uppermesopelagic_500m_8698_0"
+R231-RXN	NIL	"uppermesopelagic_500m_1718_2"	"uppermesopelagic_500m_6744_1"	"uppermesopelagic_500m_2394_0"
+HCAMULTI-RXN	NIL	"uppermesopelagic_500m_2636_0"	"uppermesopelagic_500m_4026_0"
+RXN-12197	NIL
+RXN-12196	NIL	"uppermesopelagic_500m_4168_0"	"uppermesopelagic_500m_2596_1"	"uppermesopelagic_500m_858_0"	"uppermesopelagic_500m_2838_0"	"uppermesopelagic_500m_8008_1"	"uppermesopelagic_500m_2956_0"	"uppermesopelagic_500m_5202_0"
+RXN-12195	NIL	"uppermesopelagic_500m_4168_0"	"uppermesopelagic_500m_2596_1"	"uppermesopelagic_500m_858_0"	"uppermesopelagic_500m_2838_0"	"uppermesopelagic_500m_8008_1"
+RXN-12198	NIL
+2.6.1.30-RXN	NIL
+RXN-12359	NIL
+RXN1G-2527	"cis,cis-&Delta;19-37-C56:2-[acp] reductase"
+RXN-12609	NIL
+KYNURENINASE-RXN	NIL	"uppermesopelagic_500m_4987_0"	"uppermesopelagic_500m_1888_1"
+RXN-7652	"naringenin 3'-hydroxylase"
+RXN-7657	"isobutanol dehydrogenase"	"uppermesopelagic_500m_6389_0"	"uppermesopelagic_500m_7954_1"	"uppermesopelagic_500m_4551_0"	"uppermesopelagic_500m_3850_1"	"uppermesopelagic_500m_3134_0"	"uppermesopelagic_500m_1975_0"	"uppermesopelagic_500m_7788_0"	"uppermesopelagic_500m_5882_0"	"uppermesopelagic_500m_1077_0"	"uppermesopelagic_500m_1772_0"	"uppermesopelagic_500m_8866_0"
+RXN-36	NIL
+RXN-37	NIL	"uppermesopelagic_500m_6817_1"	"uppermesopelagic_500m_8383_0"	"uppermesopelagic_500m_2388_0"	"uppermesopelagic_500m_2342_1"	"uppermesopelagic_500m_5091_0"	"uppermesopelagic_500m_5281_0"	"uppermesopelagic_500m_5226_0"	"uppermesopelagic_500m_6215_0"	"uppermesopelagic_500m_1742_1"	"uppermesopelagic_500m_7842_1"	"uppermesopelagic_500m_54_0"	"uppermesopelagic_500m_2406_2"	"uppermesopelagic_500m_2544_1"	"uppermesopelagic_500m_6455_0"	"uppermesopelagic_500m_4492_0"
+RXN-34	NIL	"uppermesopelagic_500m_7967_0"
+RXN-12998	NIL
+3.8.1.8-RXN	NIL
+RXN-12997	NIL
+RXN-12994	NIL	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN-8854	NIL
+RXN-12156	NIL
+R223-RXN	"octanoyl-CoA ligase"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+GLYCERALDEHYDE-DEHYDRO-RXN	"glyceraldehyde dehydrogenase (FAD-containing)"
+GABATRANSAM-RXN	NIL
+2.6.1.50-RXN	NIL	"uppermesopelagic_500m_6711_0"
+OHMETHYLBILANESYN-RXN	NIL	"uppermesopelagic_500m_4353_1"
+RXN-12519	NIL
+RXN-12518	NIL
+PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN	NIL	"uppermesopelagic_500m_3104_0"	"uppermesopelagic_500m_1109_0"	"uppermesopelagic_500m_1921_1"	"uppermesopelagic_500m_1783_0"	"uppermesopelagic_500m_5101_0"	"uppermesopelagic_500m_4534_0"
+LINOLENOYL-RXN	"&alpha;-linolenate&mdash;CoA ligase"	"uppermesopelagic_500m_4673_0"	"uppermesopelagic_500m_6383_0"	"uppermesopelagic_500m_758_1"	"uppermesopelagic_500m_7431_0"	"uppermesopelagic_500m_417_1"	"uppermesopelagic_500m_3890_1"	"uppermesopelagic_500m_534_0"	"uppermesopelagic_500m_1196_0"	"uppermesopelagic_500m_2781_0"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+RXN0-6427	"guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase"
+4.2.1.61-RXN	"3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	NIL	"uppermesopelagic_500m_1749_0"	"uppermesopelagic_500m_2750_1"
+1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN	"1-acylglycerol-3-phosphate O-acyltransferase"	"uppermesopelagic_500m_8695_1"	"uppermesopelagic_500m_187_0"	"uppermesopelagic_500m_4667_0"	"uppermesopelagic_500m_7963_1"
+2.3.1.49-RXN	NIL
+RXN-12778	NIL	"uppermesopelagic_500m_5606_0"
+RXN-10938	NIL
+RXN-12777	"3-oxo-dihomo &gamma; linolenoyl-[acp] synthase"
+RXN-8457	NIL
+R23-RXN	NIL
+RXN-5641	NIL
+RXN-5642	NIL
+RXN-5643	NIL
+RUBREDOXIN--NAD+-REDUCTASE-RXN	NIL	"uppermesopelagic_500m_3781_1"
+SUCCSEMIALDDEHYDROG-RXN	NIL
+NICOTINATEPRIBOSYLTRANS-RXN	NIL	"uppermesopelagic_500m_6876_0"
+RXN-5647	NIL
+RXN-8347	"&alpha;-linolenate &Delta;<sup>6</sup>-desaturase"
+2.7.1.150-RXN	NIL
+RXN-1381	NIL	"uppermesopelagic_500m_2504_0"	"uppermesopelagic_500m_1085_0"	"uppermesopelagic_500m_6756_0"
+RXN-10855	NIL	"uppermesopelagic_500m_5795_1"	"uppermesopelagic_500m_2576_1"
+RXN0-6512	"3-oxo-5,6-dehydrosuberyl-CoA thiolase"
+RXN0-6513	"2,3-dehydroadipyl-CoA hydratase"	"uppermesopelagic_500m_6362_0"	"uppermesopelagic_500m_1485_0"	"uppermesopelagic_500m_773_0"	"uppermesopelagic_500m_696_0"	"uppermesopelagic_500m_431_0"	"uppermesopelagic_500m_5777_1"	"uppermesopelagic_500m_6251_0"	"uppermesopelagic_500m_1700_0"	"uppermesopelagic_500m_726_0"	"uppermesopelagic_500m_3227_0"	"uppermesopelagic_500m_3806_1"	"uppermesopelagic_500m_859_1"	"uppermesopelagic_500m_8261_0"	"uppermesopelagic_500m_3614_0"	"uppermesopelagic_500m_6794_0"	"uppermesopelagic_500m_6266_1"	"uppermesopelagic_500m_6245_1"	"uppermesopelagic_500m_6245_0"
+RXN-8799	NIL
+DEOXYGUANPHOSPHOR-RXN	NIL
+RXN-8630	NIL	"uppermesopelagic_500m_4599_1"
+RXN-8631	NIL	"uppermesopelagic_500m_1411_0"	"uppermesopelagic_500m_93_0"	"uppermesopelagic_500m_4002_0"	"uppermesopelagic_500m_5749_0"	"uppermesopelagic_500m_3317_0"	"uppermesopelagic_500m_1804_1"
+RXN1G-637	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN-8635	NIL	"uppermesopelagic_500m_2753_0"
+ADENOSINE-KINASE-RXN	NIL	"uppermesopelagic_500m_3370_0"	"uppermesopelagic_500m_6826_0"
+ADDALT-RXN	NIL
+RXN-5464	NIL
+RXN-5466	NIL
+PRAISOM-RXN	NIL	"uppermesopelagic_500m_8917_0"
+TRANS-RXN0-277	NIL	"uppermesopelagic_500m_1425_0"	"uppermesopelagic_500m_5556_0"	"uppermesopelagic_500m_3986_0"
+RXN-5462	NIL
+RXN-5463	NIL
+RXN3DJ-170	NIL	"uppermesopelagic_500m_936_0"	"uppermesopelagic_500m_1246_0"
+RXN-5468	NIL
+RXN-5469	NIL
+BENZYL-ALC-DEHYDROGENASE-RXN	"benzyl alcohol dehydrogenase"
+RXN-10836	NIL
+METHYLGLUTACONYL-COA-HYDRATASE-RXN	NIL	"uppermesopelagic_500m_3983_0"
+HISTAMINOTRANS-RXN	NIL	"uppermesopelagic_500m_2207_0"	"uppermesopelagic_500m_8919_0"	"uppermesopelagic_500m_7946_1"	"uppermesopelagic_500m_578_0"	"uppermesopelagic_500m_3912_1"	"uppermesopelagic_500m_74_0"	"uppermesopelagic_500m_5880_0"
+RXN-10837	NIL
+GLUTDEHYD-RXN	NIL	"uppermesopelagic_500m_7998_0"	"uppermesopelagic_500m_8164_0"	"uppermesopelagic_500m_4916_0"	"uppermesopelagic_500m_3051_0"	"uppermesopelagic_500m_3325_0"	"uppermesopelagic_500m_929_0"	"uppermesopelagic_500m_7636_1"	"uppermesopelagic_500m_6824_1"	"uppermesopelagic_500m_4290_0"	"uppermesopelagic_500m_3013_0"	"uppermesopelagic_500m_1660_0"	"uppermesopelagic_500m_3357_0"	"uppermesopelagic_500m_3070_0"	"uppermesopelagic_500m_2938_0"	"uppermesopelagic_500m_1854_0"
+PROLINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_598_0"	"uppermesopelagic_500m_661_0"	"uppermesopelagic_500m_3246_0"	"uppermesopelagic_500m_8752_0"
+RXN-10618	NIL	"uppermesopelagic_500m_40_0"
+RXN-10619	NIL	"uppermesopelagic_500m_40_0"
+RXN-10616	NIL	"uppermesopelagic_500m_40_0"
+RXN-10617	NIL	"uppermesopelagic_500m_40_0"
+RXN-10614	NIL
+RXN-10615	NIL
+RXN-10612	NIL
+RXN-10613	NIL
+RXN-10610	NIL
+RXN-10611	NIL
+UDPNACETYLGLUCOSAMACYLTRANS-RXN	NIL
+RXN-11211	NIL	"uppermesopelagic_500m_5443_0"	"uppermesopelagic_500m_7739_0"
+RXN-11210	NIL
+RXN-11213	NIL	"uppermesopelagic_500m_495_0"	"uppermesopelagic_500m_5282_1"	"uppermesopelagic_500m_6336_0"
+23-DIMETHYLMALATE-LYASE-RXN	NIL	"uppermesopelagic_500m_256_0"
+RXN-14007	"1-methylthio-xylulose 5-phosphate sulfo-lyase"
+RXN-14006	"5-methylthioribulose-1-phosphate isomerase"
+HOMOSERKIN-RXN	NIL	"uppermesopelagic_500m_5111_1"	"uppermesopelagic_500m_5247_1"	"uppermesopelagic_500m_5247_0"	"uppermesopelagic_500m_5194_0"	"uppermesopelagic_500m_6185_0"
+RXN-5061	NIL
+RXN-7810	NIL	"uppermesopelagic_500m_8698_0"
+CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	NIL
+RXNMETA-12672	NIL
+DIMETHYLGLYCINE-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_3565_0"
+RXN0-2381	NIL	"uppermesopelagic_500m_6326_1"	"uppermesopelagic_500m_6355_1"	"uppermesopelagic_500m_7030_0"
+RXN-10100	NIL	"uppermesopelagic_500m_3762_0"
+RXN-10101	NIL
+RXN-10106	NIL
+RXN-10107	NIL
+PHOSACETYLTRANS-RXN	NIL	"uppermesopelagic_500m_5838_0"
+ACSERLY-RXN	NIL	"uppermesopelagic_500m_3313_0"	"uppermesopelagic_500m_2344_1"	"uppermesopelagic_500m_2271_0"	"uppermesopelagic_500m_5318_0"
+RXN0-6483	NIL
+FORMATETHFLIG-RXN	NIL	"uppermesopelagic_500m_188_0"	"uppermesopelagic_500m_4817_0"
+METHIONINE-GAMMA-LYASE-RXN	NIL	"uppermesopelagic_500m_2797_0"
+RXN66-1	NIL	"uppermesopelagic_500m_4918_0"
+RXN66-3	"acetaldehyde dehydrogenase (NAD+)"	"uppermesopelagic_500m_6817_1"	"uppermesopelagic_500m_8383_0"	"uppermesopelagic_500m_2388_0"	"uppermesopelagic_500m_2342_1"	"uppermesopelagic_500m_5091_0"	"uppermesopelagic_500m_5281_0"	"uppermesopelagic_500m_5226_0"	"uppermesopelagic_500m_6215_0"	"uppermesopelagic_500m_1742_1"	"uppermesopelagic_500m_7842_1"	"uppermesopelagic_500m_54_0"	"uppermesopelagic_500m_2406_2"	"uppermesopelagic_500m_2544_1"
+2.4.1.141-RXN	NIL
+GCVT-RXN	NIL	"uppermesopelagic_500m_492_1"	"uppermesopelagic_500m_6142_0"	"uppermesopelagic_500m_4346_1"
+RXN-2121	NIL
+RXN-2122	NIL
+N-ACETYLGLUCOSAMINE-KINASE-RXN	NIL	"uppermesopelagic_500m_3499_1"
+RXN1G-1530	"3-oxo-C87-trans-keto-mycolate reductase"
+ALANINE-AMINOTRANSFERASE-RXN	NIL	"uppermesopelagic_500m_7011_1"
+ISOCHORSYN-RXN	NIL
+R310-RXN	"acrylonitrile hydratase"	"uppermesopelagic_500m_5505_1"
+R125-RXN	NIL
+FORMYLMETHANOFURAN-DEHYDROGENASE-RXN	NIL
+RXN1G-1247	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+FADSYN-RXN	NIL	"uppermesopelagic_500m_1610_0"	"uppermesopelagic_500m_6029_0"
+DHDOGALDOL-RXN	NIL
+RXN-13032	NIL
+RXN-13031	"lipoamidase"
+RXN-13037	"octanoyl:GcvH transferase"	"uppermesopelagic_500m_753_0"	"uppermesopelagic_500m_6121_0"
+RXN-13036	"octanoyl-[GcvH]:protein <i>N</i>-octanoyltransferase"
+RXN-13039	"lipoate&mdash;protein ligase"	"uppermesopelagic_500m_6553_0"
+6PGLUCONDEHYDROG-RXN	"phosphogluconate dehydrogenase [NAD(P)+-dependent, decarboxylating]"
+PROLINE-MULTI	NIL
+6.3.5.6-RXN	NIL	"uppermesopelagic_500m_7649_0"	"uppermesopelagic_500m_6716_0"	"uppermesopelagic_500m_1102_1"	"uppermesopelagic_500m_1102_0"	"uppermesopelagic_500m_3664_1"	"uppermesopelagic_500m_2361_0"	"uppermesopelagic_500m_7281_0"	"uppermesopelagic_500m_2453_0"	"uppermesopelagic_500m_1822_0"	"uppermesopelagic_500m_4251_0"	"uppermesopelagic_500m_4309_0"	"uppermesopelagic_500m_4156_0"	"uppermesopelagic_500m_7807_0"	"uppermesopelagic_500m_8604_0"	"uppermesopelagic_500m_5504_0"
+PHEAMINOTRANS-RXN	"phenylalanine transaminase"	"uppermesopelagic_500m_3571_2"	"uppermesopelagic_500m_6034_1"
+RXN1G-27	"cis-delta5-3-hydroxyC24:1-[acyl-carrier protein] dehydratase"
+RXN1G-26	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+4.2.3.12-RXN	NIL	"uppermesopelagic_500m_5245_0"	"uppermesopelagic_500m_3764_1"	"uppermesopelagic_500m_101_0"
+RXN-11059	"<i>N</i>-acetylserotonin sulfotransferase"
+RXN-8891	NIL
+RXN1G-886	"3-oxo-C78-&alpha;-mycolate synthase"
+RXN1G-887	"3-oxo-C85-cis-methoxy-mycolate-synthase"
+RXN1G-884	"cis,cis-delta11,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+RXN-11989	NIL
+RXN1G-883	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+RXN1G-881	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+UREA-CARBOXYLASE-RXN	NIL	"uppermesopelagic_500m_8692_0"
+RXN1G-888	"3-oxo-C86-trans-methoxy-mycolate-synthase"
+RXN1G-951	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN0-5507	NIL	"uppermesopelagic_500m_2220_0"
+RXN-9892	NIL	"uppermesopelagic_500m_3762_0"
+RXN-9542	"<i>trans</i> hexadecenoyl-[acp] reductase (NADPH, B-specific)"
+RXN-9540	"3-oxo-palmitoyl-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+RXN-9549	NIL
+RXN-9548	NIL
+RXN-7822	NIL
+RXN-7820	"Aromatic Prenyltransferase"
+RXN-7821	"Chalcone <i>O</i>-methyltransferase"
+RXN-13698	NIL	"uppermesopelagic_500m_7011_1"
+RXN-13697	NIL	"uppermesopelagic_500m_5254_0"	"uppermesopelagic_500m_8464_0"	"uppermesopelagic_500m_8614_1"	"uppermesopelagic_500m_492_0"	"uppermesopelagic_500m_4194_1"	"uppermesopelagic_500m_5207_0"	"uppermesopelagic_500m_4625_0"	"uppermesopelagic_500m_5370_1"	"uppermesopelagic_500m_2408_0"	"uppermesopelagic_500m_6696_0"
+RXN66-472	"fatty aldehyde dehydrogenase"
+RXN66-471	"2-hydroxy-3-methyl-branched fatty acyl-CoA lyase"
+RXN66-470	"3-methyl-branched fatty acyl-CoA 2-hydroxylase"	"uppermesopelagic_500m_6220_0"	"uppermesopelagic_500m_4647_0"
+TAURINE-AMINOTRANSFERASE-RXN	NIL	"uppermesopelagic_500m_3315_0"
+GTP-CYCLOHYDRO-II-RXN	NIL	"uppermesopelagic_500m_3305_0"	"uppermesopelagic_500m_7410_2"	"uppermesopelagic_500m_4886_1"	"uppermesopelagic_500m_1443_0"
+RXN-12614	"glycine oxidase"
+1.10.2.2-RXN	NIL	"uppermesopelagic_500m_8467_0"	"uppermesopelagic_500m_4513_1"	"uppermesopelagic_500m_4513_0"
+RXN-12610	"thiamine-phosphate diphosphorylase"
+RXN-12611	"thiamin phosphate synthase"
+6.2.1.34-RXN	NIL	"uppermesopelagic_500m_2803_0"
+TRANS-CINNAMATE-2-MONOOXYGENASE-RXN	NIL
+RXN-25	NIL
+THYMIDYLATESYN-RXN	NIL
+DHLAXANAU-RXN	"1,2-dichloroethane dehalogenase"	"uppermesopelagic_500m_2569_1"	"uppermesopelagic_500m_8581_0"
+RXN-22	NIL	"uppermesopelagic_500m_3154_0"	"uppermesopelagic_500m_2727_0"
+PRPPSYN-RXN	NIL	"uppermesopelagic_500m_44_0"	"uppermesopelagic_500m_8793_2"	"uppermesopelagic_500m_5011_1"	"uppermesopelagic_500m_2449_0"
+LACTALDDEHYDROG-RXN	NIL	"uppermesopelagic_500m_7421_0"
+2.7.1.153-RXN	NIL
+SCYLLO-INOSAMINE-KINASE-RXN	NIL
+RXN-35	NIL
+SHIKIMATE-KINASE-RXN	NIL	"uppermesopelagic_500m_3989_0"
+RXN1G-408	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN1G-409	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+1.2.1.67-RXN	NIL
+CDPDIGLYSYN-RXN	NIL	"uppermesopelagic_500m_5758_1"
+RXN-10058	"2,5-diamino-6-(5-phosphoribitylamino)pyrimidin-4(3H)-one deaminase"
+PYRUVFORMLY-RXN	NIL
+RXN1G-536	"cerotoyl-[acyl-carrier protein] reductase"
+3-OXOACYL-ACP-SYNTH-RXN	"3-oxoacyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"	"uppermesopelagic_500m_6710_1"
+RXN-10059	NIL
+RXN-8441	"nicotinamide-&beta;-riboside hydrolase"
+RXN-8443	NIL
+RXN-8442	NIL
+2.5.1.64-RXN	NIL
+RXN-8447	NIL
+RXN-4122	NIL
+RXN1G-3660	"cis-delta21-39-hydroxy-40-methyl-C59:1-[acp] synthase"
+RXN-4121	NIL
+RXN1G-3667	"trans-&Delta;20-39-hydroxy-40-methyl-C60:1-[acp] reductase"
+DIHYDROPYRIMIDINASE-RXN	NIL	"uppermesopelagic_500m_5443_0"	"uppermesopelagic_500m_7739_0"
+2.3.1.101-RXN	NIL
+DIHYDROXYISOVALDEHYDRAT-RXN	NIL	"uppermesopelagic_500m_7850_0"	"uppermesopelagic_500m_369_0"	"uppermesopelagic_500m_4443_0"	"uppermesopelagic_500m_6747_0"	"uppermesopelagic_500m_559_1"	"uppermesopelagic_500m_7655_1"	"uppermesopelagic_500m_3206_1"	"uppermesopelagic_500m_4394_2"	"uppermesopelagic_500m_4432_0"
+DGDPKIN-RXN	NIL
+RXN-10829	NIL
+RXN-10828	"1-carboxyvinyl carboxyphosphonate phosphorylmutase (decarboxylating)"	"uppermesopelagic_500m_5234_0"
+RXN-10824	"2-hydroxyethylphosphonate dioxygenase"
+RXN-10827	"carboxyvinyl-carboxyphosphonate phosphorylmutase"	"uppermesopelagic_500m_5234_0"
+RXN-10826	NIL
+RXN-10821	NIL
+RXN-11667	"(S)-3-hydroxybutanoyl-CoA dehydrogenase"
+RXN-8629	"dihydrolipoyl dehydrogenase"
+RXN-11662	NIL
+MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN	NIL	"uppermesopelagic_500m_3778_0"	"uppermesopelagic_500m_1731_0"	"uppermesopelagic_500m_6098_0"
+RXN-7101	NIL
+RXN-11060	"<i>N</i>-acetylserotonin UDP-glucuronosyltransferase"	"uppermesopelagic_500m_40_0"
+PYRROLINECARBREDUCT-RXN	NIL	"uppermesopelagic_500m_8487_0"
+RXN1G-1212	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+RXN-5472	NIL
+RXN-5471	NIL
+RXN-5470	NIL
+RXN-11682	NIL
+RXN-11680	"linoleate &Delta;<sup>6</sup>-desaturase"	"uppermesopelagic_500m_2790_1"	"uppermesopelagic_500m_5099_1"	"uppermesopelagic_500m_62_0"
+RXN-11681	"&gamma;-linolenate &Delta;<sup>6</sup>-acetylenase"
+METHYLACYLYLCOA-HYDROXY-RXN	"Methylacrylyl-CoA hydratase"	"uppermesopelagic_500m_6362_0"	"uppermesopelagic_500m_1485_0"	"uppermesopelagic_500m_773_0"	"uppermesopelagic_500m_696_0"	"uppermesopelagic_500m_431_0"	"uppermesopelagic_500m_5777_1"	"uppermesopelagic_500m_6251_0"	"uppermesopelagic_500m_1700_0"	"uppermesopelagic_500m_726_0"	"uppermesopelagic_500m_3227_0"	"uppermesopelagic_500m_3806_1"	"uppermesopelagic_500m_859_1"	"uppermesopelagic_500m_8261_0"	"uppermesopelagic_500m_3614_0"	"uppermesopelagic_500m_6794_0"	"uppermesopelagic_500m_6266_1"	"uppermesopelagic_500m_6245_1"	"uppermesopelagic_500m_6245_0"
+3.2.1.120-RXN	NIL
+CARDIOLIPSYN-RXN	NIL	"uppermesopelagic_500m_4514_0"
+ACETYLORNDEACET-RXN	NIL	"uppermesopelagic_500m_2345_0"	"uppermesopelagic_500m_187_1"	"uppermesopelagic_500m_6293_0"	"uppermesopelagic_500m_6544_1"
+RXN-12104	NIL
+RXN-11209	NIL
+RXN-14014	"4-hydroxy-tetrahydrodipicolinate reductase"
+PROPIONYL-COA-CARBOXY-RXN	NIL	"uppermesopelagic_500m_8344_0"	"uppermesopelagic_500m_8148_1"	"uppermesopelagic_500m_7952_2"	"uppermesopelagic_500m_1715_0"	"uppermesopelagic_500m_4076_0"	"uppermesopelagic_500m_2045_0"	"uppermesopelagic_500m_6168_0"	"uppermesopelagic_500m_2056_0"	"uppermesopelagic_500m_6545_0"	"uppermesopelagic_500m_615_0"	"uppermesopelagic_500m_2488_0"
+RXN0-302	NIL	"uppermesopelagic_500m_5415_1"
+RXN0-308	"cysteine desulfurase"	"uppermesopelagic_500m_8545_0"	"uppermesopelagic_500m_5090_1"	"uppermesopelagic_500m_5965_1"	"uppermesopelagic_500m_3155_1"	"uppermesopelagic_500m_1417_0"	"uppermesopelagic_500m_115_0"	"uppermesopelagic_500m_7259_0"	"uppermesopelagic_500m_3827_0"	"uppermesopelagic_500m_531_0"	"uppermesopelagic_500m_3441_0"
+RXN1A0-6303	NIL	"uppermesopelagic_500m_8096_1"	"uppermesopelagic_500m_294_1"	"uppermesopelagic_500m_1261_0"
+RXN-10139	"L-tryptophan--pyruvate aminotransferase"
+GLYOXYLATE-DEHYDROGENASE-ACYLATING-RXN	NIL
+RXN-3443	NIL	"uppermesopelagic_500m_6817_1"	"uppermesopelagic_500m_8383_0"	"uppermesopelagic_500m_2388_0"	"uppermesopelagic_500m_2342_1"	"uppermesopelagic_500m_5091_0"	"uppermesopelagic_500m_5281_0"	"uppermesopelagic_500m_5226_0"	"uppermesopelagic_500m_6215_0"	"uppermesopelagic_500m_1742_1"	"uppermesopelagic_500m_7842_1"	"uppermesopelagic_500m_54_0"	"uppermesopelagic_500m_2406_2"	"uppermesopelagic_500m_2544_1"
+PROPIONATE-COA-TRANSFERASE-RXN	NIL
+3.5.4.27-RXN	NIL
+UROCANATE-HYDRATASE-RXN	NIL	"uppermesopelagic_500m_5170_1"	"uppermesopelagic_500m_8707_0"	"uppermesopelagic_500m_2357_0"
+RXN1G-1529	"3-oxo-C86-cis-keto-mycolate-reductase"
+RXN1G-1528	"3-oxo-C86-trans-methoxy-mycolate-reductase"
+RXN1G-1527	"3-oxo-C85-cis-methoxy-mycolate reductase"
+RXN-9159	"CDP-paratose synthase"
+RXN-1623	NIL	"uppermesopelagic_500m_8695_1"	"uppermesopelagic_500m_187_0"	"uppermesopelagic_500m_4667_0"	"uppermesopelagic_500m_7963_1"
+GLUTCYSLIG-RXN	NIL
+RXN3DJ-35528	"Serotonin acetyltransferase"
+RXN-11712	"5-chloro-5-deoxy-D-ribose-1-dehydrogenase"
+RXN0-4281	NIL
+4.2.1.59-RXN	"3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+CDPKIN-RXN	NIL	"uppermesopelagic_500m_2773_0"	"uppermesopelagic_500m_2668_0"	"uppermesopelagic_500m_914_0"
+RXN-9710	NIL
+PYRNUTRANSHYDROGEN-RXN	NIL
+MALATE--COA-LIGASE-RXN	NIL
+GLUTAMATE-SYNTHASE-FERREDOXIN-RXN	NIL
+RXN-6724	NIL
+RXN-11998	"&beta;-<i>apo</i>-4'-carotenal oxygenase"
+RXN-11999	NIL
+UROGENIIISYN-RXN	NIL
+2-DEHYDROPANTOATE-REDUCT-RXN	NIL	"uppermesopelagic_500m_7045_1"	"uppermesopelagic_500m_5538_0"
+1.14.19.3-RXN	NIL
+ACETOLACTREDUCTOISOM-RXN	"ketol-acid reductoisomerase"
+ARGSUCCINLYA-RXN	NIL	"uppermesopelagic_500m_3154_0"	"uppermesopelagic_500m_2727_0"
+RXN1G-1633	"trehalose-mono-mycolate O-mycolyltransferase"
+RXN0-2044	"3-hydroxyadipyl-CoA dehydrogenase"	"uppermesopelagic_500m_5462_1"	"uppermesopelagic_500m_129_0"	"uppermesopelagic_500m_4124_0"	"uppermesopelagic_500m_7487_1"	"uppermesopelagic_500m_5573_0"	"uppermesopelagic_500m_3594_0"	"uppermesopelagic_500m_864_2"	"uppermesopelagic_500m_864_1"	"uppermesopelagic_500m_3399_0"	"uppermesopelagic_500m_2768_0"
+DTDPDEHYRHAMREDUCT-RXN	NIL	"uppermesopelagic_500m_8893_0"
+GLYCINE-FORMIMINOTRANSFERASE-RXN	NIL
+RXN1G-648	"3-cis-delta21,39-3-hydroxyC58:2-[acyl-carrier protein] dehydratase"
+MUCONOLACTONE-DELTA-ISOMERASE-RXN	NIL
+RXN-7835	NIL	"uppermesopelagic_500m_2239_0"
+ARGININE-2-MONOOXYGENASE-RXN	NIL
+RXN-7836	NIL
+RXN66-469	"3-methyl-branched fatty acyl-CoA ligase"	"uppermesopelagic_500m_4673_0"	"uppermesopelagic_500m_6383_0"	"uppermesopelagic_500m_758_1"	"uppermesopelagic_500m_7431_0"	"uppermesopelagic_500m_417_1"	"uppermesopelagic_500m_3890_1"	"uppermesopelagic_500m_534_0"	"uppermesopelagic_500m_1196_0"	"uppermesopelagic_500m_2781_0"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+RXN1G-324	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+2.1.1.114-RXN	"hexaprenyldihydroxybenzoate methyltransferase"
+RXN-7838	NIL	"uppermesopelagic_500m_6362_0"	"uppermesopelagic_500m_1485_0"	"uppermesopelagic_500m_773_0"	"uppermesopelagic_500m_696_0"	"uppermesopelagic_500m_431_0"	"uppermesopelagic_500m_5777_1"	"uppermesopelagic_500m_6251_0"	"uppermesopelagic_500m_1700_0"	"uppermesopelagic_500m_726_0"	"uppermesopelagic_500m_3227_0"	"uppermesopelagic_500m_3806_1"	"uppermesopelagic_500m_859_1"	"uppermesopelagic_500m_8261_0"	"uppermesopelagic_500m_3614_0"	"uppermesopelagic_500m_6794_0"	"uppermesopelagic_500m_6266_1"	"uppermesopelagic_500m_6245_1"	"uppermesopelagic_500m_6245_0"
+RIBOFLAVINKIN-RXN	NIL	"uppermesopelagic_500m_2436_1"	"uppermesopelagic_500m_347_0"
+R13-RXN	NIL
+STREPTOMYCIN-6-PHOSPHATASE-RXN	NIL
+KDPGALDOL-RXN	NIL	"uppermesopelagic_500m_637_0"
+ACETYLORNTRANSAM-RXN	NIL	"uppermesopelagic_500m_5588_1"
+DEOXYHYPUSINE-MONOOXYGENASE-RXN	NIL	"uppermesopelagic_500m_7940_0"
+DEHYDDEOXGALACTKIN-RXN	"2-dehydro-3-deoxygalactonokinase"
+RXN-7637	NIL
+RXN0-5409	NIL
+PYRUFLAVREDUCT-RXN	NIL	"uppermesopelagic_500m_6593_1"
+RXN-12971	NIL
+SIROHEME-FERROCHELAT-RXN	NIL
+RXN1G-184	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN1G-182	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN1G-181	"&alpha;-meroacyl-AMP transferase"
+S-ADENMETSYN-RXN	NIL	"uppermesopelagic_500m_4718_0"
+RXN1G-188	"cis-delta11-3-hydroxyC30:1-[acyl-carrier protein] dehydratase"
+RXN0-2161	NIL	"uppermesopelagic_500m_845_1"	"uppermesopelagic_500m_6620_0"	"uppermesopelagic_500m_8247_0"	"uppermesopelagic_500m_3395_1"
+RXN1G-526	"trans-tetracos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN0-5398	NIL	"uppermesopelagic_500m_3944_1"	"uppermesopelagic_500m_1931_1"	"uppermesopelagic_500m_6795_0"
+RXN-12081	"galactitol dehydrogenase"
+RXN-12080	"L-xylo-3-hexulose reductase"
+RXN-12082	"L-xylo-3-hexulose reductase"
+RXN-12579	NIL
+PROTOHEMEFERROCHELAT-RXN	NIL	"uppermesopelagic_500m_8019_0"	"uppermesopelagic_500m_6395_0"
+RXN-12575	"all-trans retinyl-ester hydrolase"	"uppermesopelagic_500m_296_0"
+OROTPDECARB-RXN	NIL	"uppermesopelagic_500m_1733_0"	"uppermesopelagic_500m_161_0"	"uppermesopelagic_500m_5379_0"	"uppermesopelagic_500m_8303_0"
+4.1.1.72-RXN	NIL
+GLUCOKIN-RXN	NIL	"uppermesopelagic_500m_6807_1"	"uppermesopelagic_500m_5003_0"
+4.3.1.17-RXN	NIL	"uppermesopelagic_500m_502_0"
+GLUCONATE-DEHYDRATASE-RXN	NIL
+ARGININE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_3601_0"	"uppermesopelagic_500m_8655_0"	"uppermesopelagic_500m_388_0"	"uppermesopelagic_500m_7028_1"	"uppermesopelagic_500m_926_0"	"uppermesopelagic_500m_2920_0"	"uppermesopelagic_500m_2032_1"	"uppermesopelagic_500m_6690_0"	"uppermesopelagic_500m_5365_0"
+RXN1A0-6314	NIL
+HISTIDPHOS-RXN	NIL	"uppermesopelagic_500m_6258_0"	"uppermesopelagic_500m_73_1"
+PHENDEHYD-RXN	NIL
+DIHYDROOROT-RXN	NIL	"uppermesopelagic_500m_820_0"	"uppermesopelagic_500m_5533_0"	"uppermesopelagic_500m_8156_1"	"uppermesopelagic_500m_7426_0"	"uppermesopelagic_500m_5688_0"
+RXN1G-509	"trans-delta2-cis,cis-9,21-C40:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-508	"3-oxo-lignoceroyl-[acyl-carrier protein] reductase"
+DIMETHYLMALEATE-HYDRATASE-RXN	NIL
+R601-RXN	NIL	"uppermesopelagic_500m_3251_0"
+R62-RXN	NIL
+PREPHENATEDEHYDROG-RXN	NIL	"uppermesopelagic_500m_3571_1"	"uppermesopelagic_500m_6034_0"
+RXN-12794	NIL
+RXN-12797	NIL
+RXN-10952	NIL	"uppermesopelagic_500m_1378_0"
+4.1.1.51-RXN	NIL
+METHENYLTHFCYCLOHYDRO-RXN	NIL	"uppermesopelagic_500m_2812_0"
+RXN-12401	"xyloglucan-specific endo-&beta;-1,4-glucanase"
+RXN-12400	"xyloglucan XLLG oligosaccharide &beta;-galactosidase"	"uppermesopelagic_500m_5872_0"	"uppermesopelagic_500m_6268_0"
+RXN-12402	"isoprimeverose &alpha;-xylosidase"
+RXN-12157	NIL
+6-HYDROXYNICOTINATE-REDUCTASE-RXN	NIL
+RXN-12155	NIL
+TYRAMINOTRANS-RXN	"Tyrosine transaminase"	"uppermesopelagic_500m_3571_2"	"uppermesopelagic_500m_6034_1"
+R229-RXN	NIL	"uppermesopelagic_500m_237_0"
+6PGLUCONOLACT-RXN	NIL	"uppermesopelagic_500m_7162_0"	"uppermesopelagic_500m_65_0"
+TREHALOSE6PSYN-RXN	NIL	"uppermesopelagic_500m_738_0"
+TYROSINE-AMINOTRANSFERASE-RXN	NIL
+RXN-10839	NIL
+BADH-RXN	NIL	"uppermesopelagic_500m_329_0"	"uppermesopelagic_500m_1820_0"	"uppermesopelagic_500m_3271_0"
+MALSYN-RXN	NIL	"uppermesopelagic_500m_3707_0"
+RXN-10834	NIL
+RXN-10835	NIL
+RXN-10832	NIL
+RXN-10833	NIL
+RXN-10830	NIL
+RXN-10831	NIL
+2.7.1.154-RXN	NIL
+RXN1G-617	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+SUPEROX-DISMUT-RXN	NIL	"uppermesopelagic_500m_8249_0"	"uppermesopelagic_500m_7292_1"	"uppermesopelagic_500m_2115_0"	"uppermesopelagic_500m_2155_0"
+RXN0-2382	NIL	"uppermesopelagic_500m_6326_1"	"uppermesopelagic_500m_6355_1"	"uppermesopelagic_500m_7030_0"
+RXN1G-613	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN-11057	"melatonin <i>O</i>-demethylase"	"uppermesopelagic_500m_4599_1"
+RXN-11056	"melatonin 6-hydroxylase"	"uppermesopelagic_500m_4599_1"
+TRYPTOPHAN-AMINOTRANSFERASE-RXN	NIL
+RXN-8890	NIL
+RXN-11058	"6-hydroxymelatonin sulfotransferase"
+PROPCOASYN-RXN	NIL
+SUCCINATE--COA-LIGASE-GDP-FORMING-RXN	NIL	"uppermesopelagic_500m_7856_1"	"uppermesopelagic_500m_2361_1"	"uppermesopelagic_500m_602_0"
+CHORISMATE-SYNTHASE-RXN	NIL	"uppermesopelagic_500m_8077_0"	"uppermesopelagic_500m_7580_0"
+RXN-1104	NIL
+RXN-1103	NIL
+GLUCONOKIN-RXN	NIL	"uppermesopelagic_500m_7386_1"
+LEUCINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_2433_0"	"uppermesopelagic_500m_1321_0"	"uppermesopelagic_500m_4064_0"
+RXN-5282	"magnesium-protoporphyrin-IX 13-monomethyl ester,NADPH:oxygen monooxygenase"
+RXN-5283	"13<SUP>1</SUP>-hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester 13-dehydrogenase"
+RXN-5284	"13<SUP>1</SUP>-oxo-magnesium-protoporphyrin IX 13-monomethyl ester dehydrogenase"
+RXN1G-1081	"cis,cis-delta13,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+RXN66-147	NIL
+1.4.1.11-RXN	NIL
+UDPMANACATRANS-RXN	NIL
+TYRAMINE-N-FERULOYLTRANSFERASE-RXN	NIL
+RXN-9535	"&beta;-ketoacyl-acyl-carrier-protein synthase I"
+AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN	"Tryptophan decarboxylase"	"uppermesopelagic_500m_936_0"	"uppermesopelagic_500m_1246_0"
+RXN-9532	"3-oxo-dodecanoyl-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+RXN-8162	NIL
+CATAL-RXN	NIL	"uppermesopelagic_500m_4918_0"
+R581-RXN	"(Aceto)phenylmercury lyase"	"uppermesopelagic_500m_5976_0"
+QUINOPRIBOTRANS-RXN	NIL	"uppermesopelagic_500m_6456_1"	"uppermesopelagic_500m_8497_0"	"uppermesopelagic_500m_6540_0"
+RXN-9386	NIL
+RXN-9380	NIL
+MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN	"Myo-inositol-1(or 4)-monophosphatase"	"uppermesopelagic_500m_1378_0"
+RXN0-882	NIL	"uppermesopelagic_500m_4711_0"	"uppermesopelagic_500m_1143_0"	"uppermesopelagic_500m_5778_0"	"uppermesopelagic_500m_4326_0"	"uppermesopelagic_500m_2666_0"	"uppermesopelagic_500m_1728_0"	"uppermesopelagic_500m_4435_0"
+RXN0-884	NIL	"uppermesopelagic_500m_6950_1"	"uppermesopelagic_500m_5111_0"
+3.11.1.2-RXN	NIL	"uppermesopelagic_500m_7322_0"
+RXN1G-1084	"cis-delta19-3-hydroxyC38:1-[acyl-carrier protein] dehydratase"
+RXN0-6510	NIL
+RIBOFLAVINSYNREDUC-RXN	NIL
+AMINO-CARBOXYMUCONATE-SEMIALDEHYDE-RXN	NIL
+4.2.1.101-RXN	NIL
+DIACYLGLYKIN-RXN	NIL	"uppermesopelagic_500m_1057_0"
+ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	NIL	"uppermesopelagic_500m_6483_0"	"uppermesopelagic_500m_4262_0"
+DTMPKI-RXN	NIL	"uppermesopelagic_500m_1545_1"
+H2PTEROATESYNTH-RXN	NIL	"uppermesopelagic_500m_6638_1"	"uppermesopelagic_500m_6260_1"	"uppermesopelagic_500m_8033_1"
+CYTIDEAM-RXN	NIL
+MALONYL-COA-ACP-TRANSACYL-RXN	NIL	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+CYSTEINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_8102_0"	"uppermesopelagic_500m_2364_0"	"uppermesopelagic_500m_700_0"	"uppermesopelagic_500m_5107_1"	"uppermesopelagic_500m_2845_1"	"uppermesopelagic_500m_6170_0"	"uppermesopelagic_500m_6735_1"
+RXN-6641	NIL
+GLYCINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_2274_0"	"uppermesopelagic_500m_5808_1"	"uppermesopelagic_500m_5808_0"	"uppermesopelagic_500m_8538_0"
+RXN-6642	NIL
+RXN-9363	NIL	"uppermesopelagic_500m_7455_1"
+ALLOPHANATE-HYDROLASE-RXN	NIL
+RXN-9361	NIL	"uppermesopelagic_500m_7455_1"
+RXN-9360	NIL
+RXN-9366	NIL	"uppermesopelagic_500m_7455_1"
+PORPHOBILSYNTH-RXN	NIL	"uppermesopelagic_500m_7284_0"	"uppermesopelagic_500m_7822_0"	"uppermesopelagic_500m_3663_0"
+RXN1G-334	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+ADENOSYLHOMOCYSTEINASE-RXN	NIL	"uppermesopelagic_500m_7145_0"	"uppermesopelagic_500m_3187_0"	"uppermesopelagic_500m_8609_1"
+RXN1G-337	"trans-delta2-cis,cis-delta13,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+R11-RXN	"butyryl coenzyme A transferase"
+RXN1G-339	"trans-delta2-cis-cis-delta7-19-C38:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-12360	NIL
+RXN-12629	"chitobiase"
+IMIDPHOSDEHYD-RXN	NIL	"uppermesopelagic_500m_7192_0"	"uppermesopelagic_500m_2539_0"
+RXN-11832	NIL	"uppermesopelagic_500m_5610_1"	"uppermesopelagic_500m_3532_1"	"uppermesopelagic_500m_6856_0"
+FHLMULTI-RXN	NIL
+RXN3O-5293	NIL
+RXN-7607	NIL	"uppermesopelagic_500m_5817_2"	"uppermesopelagic_500m_5526_1"
+RXN-7605	NIL
+RXN-7609	NIL
+FGAMSYN-RXN	NIL	"uppermesopelagic_500m_3553_0"	"uppermesopelagic_500m_106_1"	"uppermesopelagic_500m_106_0"	"uppermesopelagic_500m_4535_0"	"uppermesopelagic_500m_4489_0"	"uppermesopelagic_500m_4116_0"	"uppermesopelagic_500m_6969_2"	"uppermesopelagic_500m_6969_0"	"uppermesopelagic_500m_2609_0"	"uppermesopelagic_500m_4883_1"	"uppermesopelagic_500m_4651_0"
+GCVMULTI-RXN	NIL
+RXN1G-420	"cis-delta7-3-hydroxyC26:1-[acyl-carrier protein] dehydratase"
+GLYCOGENSYN-RXN	NIL
+RXN-12968	NIL
+RXN-12969	NIL
+RXN1G-424	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+RXN1G-425	"3-cis,cis-delta7,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+GSAAMINOTRANS-RXN	NIL	"uppermesopelagic_500m_3873_0"	"uppermesopelagic_500m_6182_0"	"uppermesopelagic_500m_3099_0"	"uppermesopelagic_500m_1361_0"
+ATPPHOSPHORIBOSYLTRANS-RXN	NIL	"uppermesopelagic_500m_7674_0"	"uppermesopelagic_500m_4503_1"
+AGMATINE-DEIMINASE-RXN	NIL
+RXN-12093	NIL
+RXN-8141	NIL	"uppermesopelagic_500m_4514_0"
+HYDROXYPYRROLINEDEH-RXN	"pyrroline-hydroxy-carboxylate dehydrogenase"	"uppermesopelagic_500m_5595_0"	"uppermesopelagic_500m_116_0"
+GLUCOSE-1-PHOSPHAT-RXN	NIL
+1.13.11.6-RXN	NIL	"uppermesopelagic_500m_6631_0"	"uppermesopelagic_500m_2918_0"
+RXN0-5258	"sn-glycerol 3-phosphate:ubiquinone oxidoreductase"
+3-OXOADIPATE-ENOL-LACTONASE-RXN	NIL	"uppermesopelagic_500m_5662_0"	"uppermesopelagic_500m_3446_0"
+COBALADENOSYLTRANS-RXN	"Cob(I)alamin adenosyltransferase"	"uppermesopelagic_500m_7110_1"
+ISOPROPANOL-DEHYDROGENASE-NADP+-RXN	NIL
+D-LACTALDEHYDE-DEHYDROGENASE-RXN	NIL
+RXN0-6479	NIL	"uppermesopelagic_500m_1649_0"	"uppermesopelagic_500m_6507_0"	"uppermesopelagic_500m_5396_0"
+RXN0-6478	NIL	"uppermesopelagic_500m_5246_0"	"uppermesopelagic_500m_4580_0"
+RXN0-6274	NIL	"uppermesopelagic_500m_5308_0"
+PHOSPHOKETOLASE-RXN	NIL
+RXN-9666	NIL
+RXN1G-517	"3-hydroxylignoceroyl-[acyl-carrier protein] dehydratase"
+METHYLITACONATE-DELTA-ISOMERASE-RXN	NIL
+QUINOLINATE-SYNTHA-RXN	NIL	"uppermesopelagic_500m_6109_0"	"uppermesopelagic_500m_1136_1"
+R101-RXN	NIL
+RXN1G-3641	"cis-&Delta;21-39-hydroxy-40-methyl-C59:1-[acp] reductase"
+RXN1G-193	"trans-delta2-cis,cis-5,17-C36:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-196	"trans-delta2-cis,cis-delta11,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-4541	NIL
+APIGNAR-RXN	"Naringenin chalcone isomerase"
+RXN0-7012	NIL	"uppermesopelagic_500m_4514_0"
+DCMP-DEAMINASE-RXN	NIL	"uppermesopelagic_500m_4671_1"	"uppermesopelagic_500m_412_0"
+PREPHENATEDEHYDRAT-RXN	NIL	"uppermesopelagic_500m_2078_1"	"uppermesopelagic_500m_652_0"
+RXN0-2001	NIL
+3-HYDROXY-KYNURENINASE-RXN	NIL	"uppermesopelagic_500m_4987_0"	"uppermesopelagic_500m_1888_1"
+RXN-8391	NIL
+RXN-8390	NIL
+RXN1G-607	"trans-delta2-cis,cis-delta15,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN3O-102	"3-demethylubiquinol-6 3-O-methyltransferase"	"uppermesopelagic_500m_2277_1"
+3.1.2.23-RXN	NIL
+R230-RXN	"(2R)-3-sulfolactate dehydrogenase (NAD+)"
+RXN-1823	NIL	"uppermesopelagic_500m_391_0"
+XANPRIBOSYLTRAN-RXN	NIL
+RXN-1825	NIL	"uppermesopelagic_500m_391_0"
+RXN-1826	"starch phosphorylase"
+RXN-1827	NIL
+RXN-8889	NIL
+RIBAZOLEPHOSPHAT-RXN	NIL
+SAICARSYN-RXN	NIL	"uppermesopelagic_500m_3256_0"	"uppermesopelagic_500m_5036_0"	"uppermesopelagic_500m_6440_0"
+ACP-S-ACETYLTRANSFER-RXN	NIL	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+RXN-8081	NIL
+RXN-8080	NIL	"uppermesopelagic_500m_4268_0"	"uppermesopelagic_500m_6236_0"
+MUCONATE-CYCLOISOMERASE-RXN	NIL	"uppermesopelagic_500m_4023_0"
+RXN-8771	NIL
+XANTHOSINEPHOSPHORY-RXN	"xanthosine phosphorylase"	"uppermesopelagic_500m_6004_1"
+RXN3O-1983	NIL
+COBALAMINSYN-RXN	NIL	"uppermesopelagic_500m_4953_0"
+2.7.1.68-RXN	NIL	"uppermesopelagic_500m_1637_0"
+5.3.3.14-RXN	NIL
+ACETATEKIN-RXN	NIL
+DTDPKIN-RXN	NIL
+RXN66-337	"LTD4 dipeptidase"	"uppermesopelagic_500m_375_0"
+METHYLMALONYL-COA-EPIM-RXN	NIL	"uppermesopelagic_500m_8276_0"	"uppermesopelagic_500m_2098_0"
+DHLBXANAU-RXN	"chloroacetate dehalogenase"	"uppermesopelagic_500m_8377_0"
+6.3.2.7-RXN	NIL
+RXN-11318	NIL
+RXN-11319	NIL
+RXN-8173	NIL
+2.1.4.2-RXN	NIL
+BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN	NIL
+RXN1G-3232	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+GLYCPDIESTER-RXN	NIL	"uppermesopelagic_500m_1808_0"
+3.2.1.14-RXN	NIL
+RXN-9174	NIL
+3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN	NIL	"uppermesopelagic_500m_1140_1"	"uppermesopelagic_500m_3529_0"	"uppermesopelagic_500m_3915_1"	"uppermesopelagic_500m_5311_0"
+RXN-9172	NIL
+RXN-1641	NIL
+RXN-9170	NIL
+RXN-9171	NIL
+2.9.1.1-RXN	NIL	"uppermesopelagic_500m_4250_0"
+RXN0-748	NIL	"uppermesopelagic_500m_6594_0"	"uppermesopelagic_500m_8145_1"	"uppermesopelagic_500m_7131_0"	"uppermesopelagic_500m_2562_0"	"uppermesopelagic_500m_8785_0"	"uppermesopelagic_500m_422_0"	"uppermesopelagic_500m_2287_0"
+GTPPYPHOSKIN-RXN	NIL	"uppermesopelagic_500m_5341_0"	"uppermesopelagic_500m_2021_1"
+RXN1F-93	NIL
+L-LACTATE-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_2750_1"
+RXN0-743	NIL
+1.2.1.25-RXN	NIL
+RXN0-745	NIL	"uppermesopelagic_500m_3182_0"
+RXN0-746	NIL	"uppermesopelagic_500m_3182_0"
+RXN0-747	NIL	"uppermesopelagic_500m_6594_0"	"uppermesopelagic_500m_8145_1"	"uppermesopelagic_500m_7131_0"	"uppermesopelagic_500m_2562_0"	"uppermesopelagic_500m_8785_0"	"uppermesopelagic_500m_422_0"	"uppermesopelagic_500m_2287_0"
+RXN-3641	NIL
+ADCLY-RXN	NIL
+1.3.1.2-RXN	NIL
+PHOSPHOENOLPYRUVATE-MUTASE-RXN	NIL
+GLUTAMIN-RXN	NIL	"uppermesopelagic_500m_3556_0"	"uppermesopelagic_500m_7998_0"	"uppermesopelagic_500m_5171_1"	"uppermesopelagic_500m_8164_0"	"uppermesopelagic_500m_4916_0"	"uppermesopelagic_500m_3051_0"	"uppermesopelagic_500m_4226_1"	"uppermesopelagic_500m_414_0"	"uppermesopelagic_500m_1259_0"	"uppermesopelagic_500m_3325_0"	"uppermesopelagic_500m_929_0"	"uppermesopelagic_500m_1007_0"	"uppermesopelagic_500m_962_1"	"uppermesopelagic_500m_7636_1"	"uppermesopelagic_500m_6824_1"	"uppermesopelagic_500m_7653_0"	"uppermesopelagic_500m_4290_0"	"uppermesopelagic_500m_3013_0"	"uppermesopelagic_500m_1660_0"	"uppermesopelagic_500m_1546_1"	"uppermesopelagic_500m_996_0"	"uppermesopelagic_500m_3357_0"	"uppermesopelagic_500m_3070_0"	"uppermesopelagic_500m_2938_0"	"uppermesopelagic_500m_954_1"	"uppermesopelagic_500m_1854_0"	"uppermesopelagic_500m_7172_0"	"uppermesopelagic_500m_4433_0"
+PSEUDOURIDINE-KINASE-RXN	NIL
+PYRUVATE-CARBOXYLASE-RXN	NIL	"uppermesopelagic_500m_6884_0"	"uppermesopelagic_500m_6078_0"	"uppermesopelagic_500m_2830_1"
+RXN-9914	"5-chlorosalicylate 1-monooxygenase"	"uppermesopelagic_500m_4601_0"
+2.7.7.13-RXN	NIL	"uppermesopelagic_500m_1441_0"
+RXN-9912	"4-chlorosalicylate monooxygenase"	"uppermesopelagic_500m_4601_0"
+RXN-9913	NIL
+RXN-6581	NIL
+PHOSPHASERSYN-RXN	NIL	"uppermesopelagic_500m_349_0"	"uppermesopelagic_500m_3790_0"
+ACETOOHBUTSYN-RXN	"2-aceto-2-hydroxy-butyrate synthase"	"uppermesopelagic_500m_3945_0"	"uppermesopelagic_500m_5408_1"	"uppermesopelagic_500m_20_0"	"uppermesopelagic_500m_3817_1"	"uppermesopelagic_500m_3817_0"	"uppermesopelagic_500m_6687_1"	"uppermesopelagic_500m_1376_0"	"uppermesopelagic_500m_4871_1"	"uppermesopelagic_500m_4871_0"	"uppermesopelagic_500m_4486_1"	"uppermesopelagic_500m_6145_0"	"uppermesopelagic_500m_1042_0"	"uppermesopelagic_500m_8397_0"	"uppermesopelagic_500m_8053_1"	"uppermesopelagic_500m_6509_0"	"uppermesopelagic_500m_5584_0"
+2.6.1.56-RXN	NIL
+2.5.1.42-RXN	NIL
+1.1.1.262-RXN	"4-hydroxythreonine-4-phosphate dehydrogenase"	"uppermesopelagic_500m_3081_0"	"uppermesopelagic_500m_643_0"	"uppermesopelagic_500m_1240_0"
+RXN-9603	NIL	"uppermesopelagic_500m_5774_0"
+RXN-9358	NIL
+RXN-9359	NIL
+RXN66-483	NIL	"uppermesopelagic_500m_4673_0"	"uppermesopelagic_500m_6383_0"	"uppermesopelagic_500m_758_1"	"uppermesopelagic_500m_7431_0"	"uppermesopelagic_500m_417_1"	"uppermesopelagic_500m_3890_1"	"uppermesopelagic_500m_534_0"	"uppermesopelagic_500m_1196_0"	"uppermesopelagic_500m_2781_0"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+IMPCYCLOHYDROLASE-RXN	NIL	"uppermesopelagic_500m_6204_0"
+RXN-9825	NIL
+DEOXYADENPHOSPHOR-RXN	NIL	"uppermesopelagic_500m_6004_1"
+THYM-PHOSPH-RXN	NIL	"uppermesopelagic_500m_8641_0"	"uppermesopelagic_500m_1628_0"	"uppermesopelagic_500m_461_0"
+RXN-13774	"D-idonate 5-dehydrogenase"
+RXN-13775	"D-idonate dehydratase"
+ACETATE--COA-LIGASE-RXN	NIL	"uppermesopelagic_500m_8792_1"	"uppermesopelagic_500m_6765_1"	"uppermesopelagic_500m_5228_0"	"uppermesopelagic_500m_5399_0"	"uppermesopelagic_500m_2176_1"	"uppermesopelagic_500m_222_0"	"uppermesopelagic_500m_3142_0"
+RXN-13771	"L-glucose 1-dehydrogenase (NAD<small><sup>+</sup></small>)"
+RXN-13772	"L-gluconolactonase"
+RXN1G-79	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+1.1.1.43-RXN	NIL
+RXN-7614	NIL	"uppermesopelagic_500m_7352_0"	"uppermesopelagic_500m_870_1"
+RXN1G-853	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN0-1382	NIL	"uppermesopelagic_500m_526_0"	"uppermesopelagic_500m_1101_0"	"uppermesopelagic_500m_7351_0"	"uppermesopelagic_500m_7866_0"	"uppermesopelagic_500m_3010_2"	"uppermesopelagic_500m_7429_0"	"uppermesopelagic_500m_3038_0"	"uppermesopelagic_500m_6891_0"	"uppermesopelagic_500m_5569_1"	"uppermesopelagic_500m_952_0"	"uppermesopelagic_500m_6534_0"	"uppermesopelagic_500m_4406_0"
+GTP-CYCLOHYDRO-I-RXN	NIL	"uppermesopelagic_500m_2733_0"	"uppermesopelagic_500m_3848_0"
+GUANINE-DEAMINASE-RXN	NIL	"uppermesopelagic_500m_7637_0"	"uppermesopelagic_500m_2705_0"	"uppermesopelagic_500m_5901_1"
+AKBLIG-RXN	NIL
+RXN1G-3256	"trans-&Delta;18-37-hydroxy-38-methyl-C58:1-[acp] reductase"
+RXN1G-299	"trans-delta2-cis-delta13-C32:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN0-2144	NIL
+RXN0-2142	NIL	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN0-2141	NIL
+RXN-9362	NIL	"uppermesopelagic_500m_7455_1"
+RXN1G-292	"C87-trans-keto-mycolate O-mycolyltransferase"
+RXN1G-291	"C86-cis-keto-mycolate O-mycolyltransferase"
+RXN1G-290	"C87-trans-mycolate O-mycolyltransferase"
+RXN1G-297	"trans-keto-meroacyl-AMP transferase"
+RXN1G-296	"cis-keto-meroacyl-AMP transferase"
+RXN1G-295	"trans-methoxy-meroacyl-AMP transferase"
+RXN1G-294	"3-cis,cis-delta13,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+PRDABST-RXN	NIL
+3.2.1.91-RXN	NIL
+RXN-9365	NIL
+3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_3603_0"	"uppermesopelagic_500m_3414_1"	"uppermesopelagic_500m_8453_1"	"uppermesopelagic_500m_6150_1"
+NADH-KINASE-RXN	NIL
+PYRIDOXAL-4-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_7038_0"	"uppermesopelagic_500m_6284_0"
+1.14.99.36-RXN	NIL
+NADH-DEHYDROG-A-RXN	NIL	"uppermesopelagic_500m_8645_1"	"uppermesopelagic_500m_2228_0"	"uppermesopelagic_500m_8146_0"	"uppermesopelagic_500m_8364_1"	"uppermesopelagic_500m_1896_1"	"uppermesopelagic_500m_2671_0"	"uppermesopelagic_500m_8819_0"	"uppermesopelagic_500m_4971_0"	"uppermesopelagic_500m_8000_1"	"uppermesopelagic_500m_713_0"	"uppermesopelagic_500m_2244_1"	"uppermesopelagic_500m_3739_0"	"uppermesopelagic_500m_1711_0"	"uppermesopelagic_500m_7204_0"	"uppermesopelagic_500m_306_0"	"uppermesopelagic_500m_8061_0"	"uppermesopelagic_500m_4225_1"	"uppermesopelagic_500m_8709_1"	"uppermesopelagic_500m_8709_0"	"uppermesopelagic_500m_3069_0"	"uppermesopelagic_500m_1278_0"	"uppermesopelagic_500m_8079_0"	"uppermesopelagic_500m_1477_0"	"uppermesopelagic_500m_6843_1"	"uppermesopelagic_500m_3543_0"	"uppermesopelagic_500m_2669_0"	"uppermesopelagic_500m_5679_1"	"uppermesopelagic_500m_5679_0"	"uppermesopelagic_500m_279_0"	"uppermesopelagic_500m_114_0"	"uppermesopelagic_500m_3745_0"	"uppermesopelagic_500m_676_1"	"uppermesopelagic_500m_3885_1"	"uppermesopelagic_500m_3885_0"
+RXN0-5114	NIL
+RXN-8963	NIL
+GLUTAMATE-FORMIMINOTRANSFERASE-RXN	NIL
+2-METHYLACYL-COA-DEHYDROGENASE-RXN	NIL
+RXN-8964	NIL
+RIBULP3EPIM-RXN	NIL	"uppermesopelagic_500m_7854_1"	"uppermesopelagic_500m_5265_0"	"uppermesopelagic_500m_6019_1"	"uppermesopelagic_500m_8749_0"
+TREHALOSEPHOSPHA-RXN	NIL
+1-PHOSPHATIDYLINOSITOL-3-KINASE-RXN	NIL
+2.8.3.9-RXN	NIL
+TOCOPHEROL-O-METHYLTRANSFERASE-RXN	NIL
+NICONUCADENYLYLTRAN-RXN	NIL
+L-GLN-FRUCT-6-P-AMINOTRANS-RXN	NIL	"uppermesopelagic_500m_8177_1"	"uppermesopelagic_500m_5950_0"	"uppermesopelagic_500m_7310_0"
+SUCCGLUDESUCC-RXN	NIL	"uppermesopelagic_500m_5802_0"
+RXN-10814	"L-phenylalanine aminotransferase"	"uppermesopelagic_500m_5254_0"	"uppermesopelagic_500m_8464_0"	"uppermesopelagic_500m_8614_1"	"uppermesopelagic_500m_492_0"	"uppermesopelagic_500m_4194_1"	"uppermesopelagic_500m_5207_0"	"uppermesopelagic_500m_4625_0"	"uppermesopelagic_500m_5370_1"	"uppermesopelagic_500m_2408_0"	"uppermesopelagic_500m_6696_0"
+RXN-10815	"2-oxo-3-phenylpropanoate dioxygenase"	"uppermesopelagic_500m_3796_0"
+RXN-10816	"phenylpyruvate reductase"
+RXN-10817	"phenylethylamine oxidase"
+RXN-7921	"eriodictyol 5'-hydroxylase"
+RXN0-3521	NIL
+RXN-10819	NIL	"uppermesopelagic_500m_1494_1"	"uppermesopelagic_500m_7234_0"
+PEPCARBOX-RXN	NIL
+RXN1G-674	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase"
+1.2.1.32-RXN	NIL
+3.5.99.5-RXN	NIL	"uppermesopelagic_500m_6631_1"	"uppermesopelagic_500m_2918_1"
+CHD-RXN	NIL	"uppermesopelagic_500m_4927_1"	"uppermesopelagic_500m_1336_1"	"uppermesopelagic_500m_253_0"	"uppermesopelagic_500m_1548_0"	"uppermesopelagic_500m_3025_0"
+RXN1G-679	"trans-delta2-cis,cis-delta21,39-C58:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-8567	NIL
+RXN-5841	NIL	"uppermesopelagic_500m_5817_2"	"uppermesopelagic_500m_5526_1"
+3.1.3.40-RXN	NIL
+SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	NIL	"uppermesopelagic_500m_1194_0"	"uppermesopelagic_500m_4350_1"
+RXN-8346	"di-homo-&gamma;-linolenate &Delta;<sup>5</sup> desaturase"
+2.3.1.135-RXN	NIL
+RXN-1126	NIL
+CHITIN-DEACETYLASE-RXN	NIL	"uppermesopelagic_500m_7205_1"
+RXN-4466	NIL
+RXN-4465	NIL
+RXN-4464	NIL
+RXN-12361	NIL
+RXN0-6482	NIL	"uppermesopelagic_500m_4168_1"	"uppermesopelagic_500m_5318_1"
+THI-P-KIN-RXN	NIL	"uppermesopelagic_500m_1757_0"	"uppermesopelagic_500m_483_1"
+RXN0-6480	NIL
+RXN0-6481	NIL	"uppermesopelagic_500m_4168_1"	"uppermesopelagic_500m_5318_1"
+RXN1G-4142	"cis-keto-C60-meroacyl-[acp] synthetase"
+RXN1G-4143	"trans-keto-C61-meroacyl-[acp] synthetase"
+RXN1G-4140	"cis-methoxy-C59-meroacyl-[acp] synthetase"
+RXN1G-4141	"trans-methoxy-C60-meroacyl-[acp] synthetase"
+RXN-2902	NIL
+4.4.1.19-RXN	NIL
+2OXOGLUTARATEDEH-RXN	"2-oxoglutarate dehydrogenase complex"
+UDPKIN-RXN	NIL	"uppermesopelagic_500m_2773_0"	"uppermesopelagic_500m_2668_0"	"uppermesopelagic_500m_914_0"
+METHYLCROTONYL-COA-CARBOXYLASE-RXN	NIL	"uppermesopelagic_500m_2824_0"	"uppermesopelagic_500m_8208_0"	"uppermesopelagic_500m_3806_0"	"uppermesopelagic_500m_6719_0"
+RXN-11761	"fluoroacetate dehalogenase"	"uppermesopelagic_500m_8377_0"
+CYTOCHROME-C-OXIDASE-RXN	NIL	"uppermesopelagic_500m_3716_0"	"uppermesopelagic_500m_5368_0"	"uppermesopelagic_500m_4165_1"	"uppermesopelagic_500m_1591_0"	"uppermesopelagic_500m_1842_0"	"uppermesopelagic_500m_1415_0"	"uppermesopelagic_500m_8605_1"	"uppermesopelagic_500m_8594_0"	"uppermesopelagic_500m_6079_1"	"uppermesopelagic_500m_2338_0"	"uppermesopelagic_500m_2409_2"	"uppermesopelagic_500m_2409_1"	"uppermesopelagic_500m_7290_2"	"uppermesopelagic_500m_7290_0"	"uppermesopelagic_500m_7295_0"	"uppermesopelagic_500m_7539_1"
+FORMYLTHFDEFORMYL-RXN	"formyltetrahydrofolate deformylase"
+COBINPGUANYLYLTRANS-RXN	NIL
+CITRATE--COA-LIGASE-RXN	NIL
+ORNCARBAMTRANSFER-RXN	NIL	"uppermesopelagic_500m_6977_0"
+RXN-11365	NIL
+RXN-11364	NIL
+RXN-11363	NIL
+GLUTAMINE-N-PHENYLACETYLTRANSFERASE-RXN	NIL
+1.1.1.87-RXN	NIL
+GLYC3PDEHYDROGBIOSYN-RXN	NIL	"uppermesopelagic_500m_8599_0"	"uppermesopelagic_500m_6538_0"
+RXN-9169	NIL
+RXN-9168	NIL
+2.3.1.157-RXN	NIL
+RXN-9167	NIL
+RXN-8770	NIL
+HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN	NIL	"uppermesopelagic_500m_7453_0"	"uppermesopelagic_500m_162_0"	"uppermesopelagic_500m_5574_1"
+DTDPDEHYDRHAMEPIM-RXN	NIL	"uppermesopelagic_500m_4243_0"	"uppermesopelagic_500m_1945_1"	"uppermesopelagic_500m_5431_1"	"uppermesopelagic_500m_1139_1"
+BETA-LYSINE-56-AMINOMUTASE-RXN	NIL
+2.5.1.19-RXN	NIL	"uppermesopelagic_500m_4550_0"	"uppermesopelagic_500m_8093_0"	"uppermesopelagic_500m_3521_0"	"uppermesopelagic_500m_5880_1"	"uppermesopelagic_500m_4805_1"	"uppermesopelagic_500m_6875_0"
+RXN-11569	NIL	"uppermesopelagic_500m_574_0"	"uppermesopelagic_500m_1439_0"
+OXALATE-COA-TRANSFERASE-RXN	NIL
+5.3.1.23-RXN	NIL
+RXNMETA-12671	NIL
+METHYLACETOACETYLCOATHIOL-RXN	"2-methylacetoacetyl-CoA thiolase"	"uppermesopelagic_500m_5404_0"	"uppermesopelagic_500m_5277_0"	"uppermesopelagic_500m_382_0"	"uppermesopelagic_500m_1148_1"	"uppermesopelagic_500m_1149_0"	"uppermesopelagic_500m_8269_0"	"uppermesopelagic_500m_864_0"	"uppermesopelagic_500m_4372_0"	"uppermesopelagic_500m_7515_0"	"uppermesopelagic_500m_1641_0"
+DIMETHUROPORDEHYDROG-RXN	NIL
+RXN-11565	"carboxynorspermidine synthase"	"uppermesopelagic_500m_8143_0"
+GLUCURONATE-REDUCTASE-RXN	NIL
+PABASYN-RXN	NIL	"uppermesopelagic_500m_1349_0"
+LACTALDEHYDE-OXI-RXN	NIL
+RXN-9296	NIL	"uppermesopelagic_500m_1674_0"
+GDPREDUCT-RXN	NIL	"uppermesopelagic_500m_6594_0"	"uppermesopelagic_500m_8145_1"	"uppermesopelagic_500m_7131_0"	"uppermesopelagic_500m_2562_0"	"uppermesopelagic_500m_8785_0"	"uppermesopelagic_500m_422_0"	"uppermesopelagic_500m_2287_0"
+PGLUCONDEHYDRAT-RXN	NIL
+2.3.1.156-RXN	NIL
+DIAMINOPIMEPIM-RXN	NIL	"uppermesopelagic_500m_287_0"
+GALACTUROISOM-RXN	"D-galacturonate isomerase"
+DEPHOSPHOCOAKIN-RXN	NIL	"uppermesopelagic_500m_3828_0"
+RXN-7640	NIL
+ACETONE-CYANHYDRIN-LYASE-RXN	"hydroxynitrilase"
+GLYOHMETRANS-RXN	NIL	"uppermesopelagic_500m_1126_0"	"uppermesopelagic_500m_4855_0"	"uppermesopelagic_500m_8157_1"	"uppermesopelagic_500m_4727_0"
+PEPDEPHOS-RXN	NIL	"uppermesopelagic_500m_6067_0"	"uppermesopelagic_500m_662_0"
+XYLULOKIN-RXN	NIL	"uppermesopelagic_500m_2717_0"
+RXN3O-12	NIL
+GLUTATHIONE-PEROXIDASE-RXN	NIL	"uppermesopelagic_500m_4565_1"	"uppermesopelagic_500m_3010_1"
+DIHYDROFOLATESYNTH-RXN	NIL
+GLUTAMINESYN-RXN	NIL	"uppermesopelagic_500m_68_0"	"uppermesopelagic_500m_7993_0"	"uppermesopelagic_500m_2064_0"	"uppermesopelagic_500m_5714_0"	"uppermesopelagic_500m_1210_0"	"uppermesopelagic_500m_3192_0"	"uppermesopelagic_500m_5335_0"	"uppermesopelagic_500m_832_0"	"uppermesopelagic_500m_1173_0"	"uppermesopelagic_500m_8049_0"	"uppermesopelagic_500m_3146_0"
+R127-RXN	NIL
+CITTRANS-RXN	"citrate CoA-transferase"	"uppermesopelagic_500m_4897_0"
+RXN1G-840	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+HISTIDINE-AMMONIA-LYASE-RXN	NIL
+2-AMINOADIPATE-AMINOTRANSFERASE-RXN	NIL
+RXN-13549	NIL
+RXN1G-445	"3-oxo-behenoyl-[acp] synthase"
+RXN1G-440	"3-cis,cis-delta19,37-3-hydroxyC56:2-[acyl-carrier protein] dehydratase"
+RXN66-349	"19-oxotestosterone 2-&beta;hydroxylation"	"uppermesopelagic_500m_4599_1"
+RXN66-348	"19-hydroxytestosterone 19-dehydrogenase"	"uppermesopelagic_500m_4599_1"
+NADNUCLEOSID-RXN	NIL
+RXN1G-288	"C78-&alpha;-mycolate-O-mycolyltransferase"
+RXN1G-289	"C85-cis-mycolate O-mycolyltransferase"
+RXN1G-285	"trans-delta2-cis-delta9-C28:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-287	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+RXN66-345	"19-hydroxyandrostendione 19-dehydrogenase"	"uppermesopelagic_500m_4599_1"
+RXN66-344	"androstenedione 19-hydroxylase"	"uppermesopelagic_500m_4599_1"
+RXN66-347	"testosterone 19-hydroxylase"	"uppermesopelagic_500m_4599_1"
+RXN66-346	"19-oxoandrostenedione 2-&beta:hydroxylase"	"uppermesopelagic_500m_4599_1"
+R311-RXN	"Acrylamidase"	"uppermesopelagic_500m_889_1"	"uppermesopelagic_500m_6194_0"	"uppermesopelagic_500m_7816_0"	"uppermesopelagic_500m_6149_0"	"uppermesopelagic_500m_1129_0"	"uppermesopelagic_500m_4683_0"	"uppermesopelagic_500m_701_0"	"uppermesopelagic_500m_8848_0"	"uppermesopelagic_500m_955_0"
+RXN-12548	NIL
+RXN-12549	NIL
+PHOSMANMUT-RXN	NIL	"uppermesopelagic_500m_3574_0"	"uppermesopelagic_500m_3290_0"	"uppermesopelagic_500m_7009_0"	"uppermesopelagic_500m_8934_0"	"uppermesopelagic_500m_2971_1"
+RXN-11374	NIL	"uppermesopelagic_500m_7468_0"
+PHOSPHOMEVALONATE-KINASE-RXN	NIL
+SUCCORNTRANSAM-RXN	NIL
+RXN-7573	NIL
+MOXXANAU-RXN	NIL
+HYDROGEN-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_6250_1"
+MEVALONATE-KINASE-RXN	NIL	"uppermesopelagic_500m_7042_0"
+RXN-8974	NIL
+ENOYL-COA-DELTA-ISOM-RXN	"Dodecenoyl-CoA &delta;-isomerase"
+1.14.12.4-RXN	NIL
+RXN0-6259	NIL
+KDO-8PSYNTH-RXN	NIL	"uppermesopelagic_500m_891_0"
+5-FORMYL-THF-CYCLO-LIGASE-RXN	NIL
+RXN-13435	NIL
+ENOYL-ACP-REDUCT-NADPH-RXN	"2,3,4-saturated fatty acyl-[acp] dehydrogenase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+ADOMET-DMK-METHYLTRANSFER-RXN	NIL	"uppermesopelagic_500m_7455_1"
+RXN1G-660	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+RXN66-62	"nicotine oxidase"
+RXN3O-127	NIL	"uppermesopelagic_500m_6662_0"	"uppermesopelagic_500m_4080_1"
+GLUTAMATE-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_8634_0"	"uppermesopelagic_500m_8905_1"
+2TRANSKETO-RXN	"D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase"	"uppermesopelagic_500m_5851_0"	"uppermesopelagic_500m_1280_0"	"uppermesopelagic_500m_5608_0"	"uppermesopelagic_500m_8710_0"	"uppermesopelagic_500m_1290_0"	"uppermesopelagic_500m_7630_0"	"uppermesopelagic_500m_7824_0"
+RXN-8350	"eicosatetraenoate &Delta;<sup>5</sup> desaturase"
+MEPROPCOA-FAD-RXN	"isobutyryl-CoA dehydrogenase"
+2.7.1.149-RXN	NIL
+RXN-1241	NIL	"uppermesopelagic_500m_3997_1"	"uppermesopelagic_500m_8479_0"	"uppermesopelagic_500m_1938_0"
+3.1.6.4-RXN	NIL	"uppermesopelagic_500m_8723_1"	"uppermesopelagic_500m_1127_0"
+1.1.1.220-RXN	NIL
+OHBUTYRYL-COA-EPIM-RXN	"3-hydroxybutyryl-CoA epimerase"
+1.13.11.9-RXN	NIL
+UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN	NIL	"uppermesopelagic_500m_2989_0"	"uppermesopelagic_500m_6092_0"
+1.1.1.178-RXN	NIL	"uppermesopelagic_500m_7324_0"
+GLUTKIN-RXN	NIL	"uppermesopelagic_500m_7425_0"	"uppermesopelagic_500m_1522_0"
+RXN-8755	NIL
+RXN-8754	NIL
+RXN-8757	NIL
+RXN-8756	NIL
+RXN-8751	NIL
+RXN1G-717	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN-8753	NIL
+RXN-8752	NIL
+RXN-8999	NIL	"uppermesopelagic_500m_8613_0"	"uppermesopelagic_500m_8334_0"	"uppermesopelagic_500m_6350_1"	"uppermesopelagic_500m_8226_1"	"uppermesopelagic_500m_2117_0"
+RXN-8991	"3-isopropylmalate dehydratase"	"uppermesopelagic_500m_8362_0"	"uppermesopelagic_500m_6758_1"	"uppermesopelagic_500m_8105_0"	"uppermesopelagic_500m_4756_0"	"uppermesopelagic_500m_7094_0"	"uppermesopelagic_500m_834_0"	"uppermesopelagic_500m_2075_0"
+SUCROSE-PHOSPHATE-SYNTHASE-RXN	NIL
+ISOCITDEH-RXN	NIL	"uppermesopelagic_500m_471_1"	"uppermesopelagic_500m_471_0"	"uppermesopelagic_500m_8527_0"	"uppermesopelagic_500m_8569_0"	"uppermesopelagic_500m_7612_0"
+DCDPKIN-RXN	NIL	"uppermesopelagic_500m_2773_0"	"uppermesopelagic_500m_2668_0"	"uppermesopelagic_500m_914_0"
+RXN0-299	NIL	"uppermesopelagic_500m_5010_0"	"uppermesopelagic_500m_3984_0"
+RXN-2043	NIL	"uppermesopelagic_500m_4085_0"
+RXN-1061	NIL
+RXN-1063	NIL
+DLACTDEHYDROGNAD-RXN	NIL
+CREATININASE-RXN	NIL	"uppermesopelagic_500m_6794_1"
+ARGDECARBOX-RXN	NIL	"uppermesopelagic_500m_7093_0"
+RXN-11480	"3-oxo-pimeloyl-[acp] methyl ester reductase"	"uppermesopelagic_500m_6284_0"
+RXN-11481	NIL
+RXN-11482	NIL
+PHOSPHATE-BUTYRYLTRANSFERASE-RXN	NIL	"uppermesopelagic_500m_3239_0"
+RXN-11484	NIL	"uppermesopelagic_500m_8325_0"
+PHENYLALANINE-4-MONOOXYGENASE-RXN	NIL	"uppermesopelagic_500m_4386_0"	"uppermesopelagic_500m_6075_0"
+RXN-9092	NIL
+RXN-11373	"diphthamide synthase"	"uppermesopelagic_500m_7468_0"
+RXN-11370	NIL	"uppermesopelagic_500m_7468_0"
+RXN-11371	NIL
+TRANS-RXN-213	NIL
+PPGPPSYN-RXN	NIL
+RXN0-6377	"nitrite reductase [NAD(P)H]"
+RXN0-2301	NIL
+ADENPHOSPHOR-RXN	"adenosine phosphorylase"	"uppermesopelagic_500m_6004_1"
+2.1.1.79-RXN	NIL	"uppermesopelagic_500m_7611_0"	"uppermesopelagic_500m_7395_0"	"uppermesopelagic_500m_57_0"
+GUANYL-KIN-RXN	NIL	"uppermesopelagic_500m_5016_0"
+BRANCHED-CHAINAMINOTRANSFERVAL-RXN	"Valine transaminase"	"uppermesopelagic_500m_1735_0"	"uppermesopelagic_500m_5519_0"	"uppermesopelagic_500m_8480_0"	"uppermesopelagic_500m_2904_0"	"uppermesopelagic_500m_5416_1"	"uppermesopelagic_500m_7486_0"	"uppermesopelagic_500m_3_0"	"uppermesopelagic_500m_6399_0"	"uppermesopelagic_500m_5360_0"
+RXN1G-1053	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"
+RXN-11483	NIL
+RXN1G-1057	"trans-delta2-cis,cis-delta19,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+CYSTATHIONINE-BETA-SYNTHASE-RXN	NIL	"uppermesopelagic_500m_7744_0"
+XYLISOM-RXN	NIL	"uppermesopelagic_500m_5400_0"	"uppermesopelagic_500m_4758_0"	"uppermesopelagic_500m_1332_0"	"uppermesopelagic_500m_4729_0"	"uppermesopelagic_500m_6300_0"	"uppermesopelagic_500m_7496_0"
+MALIC-NAD-RXN	NIL	"uppermesopelagic_500m_2704_0"	"uppermesopelagic_500m_2750_1"
+ALTRO-OXIDOREDUCT-RXN	NIL
+IMP-DEHYDROG-RXN	NIL	"uppermesopelagic_500m_3089_0"
+RXN3O-4113	"tyrosol dehydrogenase"	"uppermesopelagic_500m_6389_0"	"uppermesopelagic_500m_7954_1"	"uppermesopelagic_500m_4551_0"	"uppermesopelagic_500m_3850_1"	"uppermesopelagic_500m_3134_0"	"uppermesopelagic_500m_1975_0"	"uppermesopelagic_500m_7788_0"	"uppermesopelagic_500m_5882_0"	"uppermesopelagic_500m_1077_0"	"uppermesopelagic_500m_1772_0"	"uppermesopelagic_500m_8866_0"
+HOMOSERDEHYDROG-RXN	NIL
+UDPMANNACADEHYDROG-RXN	"UDP-N-acetyl-D-mannosamine dehydrogenase"
+AMP-DEAMINASE-RXN	NIL
+4.2.1.58-RXN	"crotonoyl-[acyl-carrier-protein] hydratase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+RXN-9756	NIL
+RXN-9757	NIL
+RXN-9758	NIL	"uppermesopelagic_500m_6817_1"	"uppermesopelagic_500m_8383_0"	"uppermesopelagic_500m_2388_0"	"uppermesopelagic_500m_2342_1"	"uppermesopelagic_500m_5091_0"	"uppermesopelagic_500m_5281_0"	"uppermesopelagic_500m_5226_0"	"uppermesopelagic_500m_6215_0"	"uppermesopelagic_500m_1742_1"	"uppermesopelagic_500m_7842_1"	"uppermesopelagic_500m_54_0"	"uppermesopelagic_500m_2406_2"	"uppermesopelagic_500m_2544_1"
+RXN-9759	NIL
+RXN-10773	"cellobiose &beta;-glucosidase"	"uppermesopelagic_500m_6064_0"	"uppermesopelagic_500m_7251_0"
+PDXJ-RXN	NIL	"uppermesopelagic_500m_7246_0"	"uppermesopelagic_500m_3893_0"
+F16BDEPHOS-RXN	NIL	"uppermesopelagic_500m_6684_1"	"uppermesopelagic_500m_8280_0"
+ALPHAGALACTOSID-RXN	"&alpha;-galactosidase"	"uppermesopelagic_500m_5498_0"	"uppermesopelagic_500m_3888_0"
+UDP-NACMUR-ALA-LIG-RXN	NIL	"uppermesopelagic_500m_7026_0"	"uppermesopelagic_500m_7906_1"	"uppermesopelagic_500m_6656_0"
+AMPSYN-RXN	NIL	"uppermesopelagic_500m_4798_0"	"uppermesopelagic_500m_4746_1"	"uppermesopelagic_500m_4883_0"	"uppermesopelagic_500m_2879_1"	"uppermesopelagic_500m_6853_0"
+CDP-GLUCOSE-46-DEHYDRATASE-RXN	NIL	"uppermesopelagic_500m_1288_1"	"uppermesopelagic_500m_4662_0"
+1.1.1.291-RXN	NIL
+RXN-6161	NIL
+RXN-9624	"Stearoyl-CoA hydrolase"
+N-ACETYLNEURAMINATE-SYNTHASE-RXN	NIL	"uppermesopelagic_500m_7169_0"	"uppermesopelagic_500m_6921_0"	"uppermesopelagic_500m_5922_0"
+BETA-UREIDOPROPIONASE-RXN	NIL
+ALDXANAU-RXN	NIL
+RXN-12339	NIL
+GLYRIBONUCSYN-RXN	NIL	"uppermesopelagic_500m_19_0"	"uppermesopelagic_500m_8214_0"	"uppermesopelagic_500m_8155_1"	"uppermesopelagic_500m_762_0"
+RXN-13086	"pseudooxynicotine"
+RXN-6763	NIL
+RXN1G-874	NIL
+RXN-13082	NIL
+RXN-13081	NIL
+RXN-13088	NIL
+RXN-13089	NIL
+RXN1G-473	"trehalose-cis-keto-mono-mycolate transport"
+RXN1G-472	"trehalose-trans-methoxy-mono-mycolate transport"
+MALEATE-ISOMERASE-RXN	NIL	"uppermesopelagic_500m_7256_0"
+RXN1G-470	"trehalose-cis-methoxy-mono-mycolate transport"
+RXN1G-474	"trehalose-trans-keto-mono-mycolate transport"
+GLUCOSAMINE-KINASE-RXN	NIL
+RXN-11505	NIL
+PHOSCHOL-RXN	NIL
+3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	NIL	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+RXN0-1342	NIL
+CITSYN-RXN	NIL	"uppermesopelagic_500m_7034_0"	"uppermesopelagic_500m_8256_0"	"uppermesopelagic_500m_7185_0"	"uppermesopelagic_500m_3989_1"	"uppermesopelagic_500m_5689_0"
+RXN1G-279	"cis-delta13-3-hydroxyC32:1-[acyl-carrier protein] dehydratase"
+RXN-7968	NIL
+RXN-11974	"<i>all-trans</i>-lycopene desaturase"
+RXN-11976	"torulene synthase"
+2.4.1.114-RXN	NIL
+RXN-13336	NIL
+GLUC1PURIDYLTRANS-RXN	NIL	"uppermesopelagic_500m_6199_0"
+RXN-7567	"indole-3-acetonitrile hydratase"	"uppermesopelagic_500m_5505_1"
+RXN-7566	NIL
+RXN-7775	NIL
+RXN66-61	NIL	"uppermesopelagic_500m_4599_1"
+RXN-12849	"3-oxocholest-4-en-26-al 26-oxidoreductase"
+RXN-12848	NIL
+PGLUCISOM-RXN	"glucose-6-phosphate isomerase"
+RXN1G-1278	"cis,cis-delta15,33-3-hydroxyC52:2-[acyl-carrier protein] dehydratase"
+RXN1G-384	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+ACETOACETATE-DECARBOXYLASE-RXN	NIL
+SULFATE-ADENYLYLTRANS-RXN	NIL	"uppermesopelagic_500m_7498_0"	"uppermesopelagic_500m_2068_0"	"uppermesopelagic_500m_6206_0"	"uppermesopelagic_500m_6447_0"	"uppermesopelagic_500m_1227_0"
+3.2.1.48-RXN	NIL
+3-ISOPROPYLMALISOM-RXN	"3-isopropylmalate dehydratase"	"uppermesopelagic_500m_8362_0"	"uppermesopelagic_500m_6758_1"	"uppermesopelagic_500m_8105_0"	"uppermesopelagic_500m_4756_0"	"uppermesopelagic_500m_7094_0"	"uppermesopelagic_500m_834_0"	"uppermesopelagic_500m_2075_0"
+NARINGENIN-3-DIOXYGENASE-RXN	"Naringenin 3-dioxygenase"
+OHACYL-COA-DEHYDROG-RXN	NIL	"uppermesopelagic_500m_5462_1"	"uppermesopelagic_500m_129_0"	"uppermesopelagic_500m_4124_0"	"uppermesopelagic_500m_7487_1"	"uppermesopelagic_500m_5573_0"	"uppermesopelagic_500m_3594_0"	"uppermesopelagic_500m_864_2"	"uppermesopelagic_500m_864_1"	"uppermesopelagic_500m_3399_0"	"uppermesopelagic_500m_2768_0"
+RXN-1321	NIL
+RXN1G-129	NIL
+ACETYLHOMOSER-CYS-RXN	NIL	"uppermesopelagic_500m_3118_0"	"uppermesopelagic_500m_6894_0"
+ORNITHINE-CYCLODEAMINASE-RXN	NIL	"uppermesopelagic_500m_8614_0"	"uppermesopelagic_500m_7991_0"	"uppermesopelagic_500m_5511_0"	"uppermesopelagic_500m_8582_1"
+PRPPAMIDOTRANS-RXN	NIL	"uppermesopelagic_500m_3258_0"	"uppermesopelagic_500m_8214_1"	"uppermesopelagic_500m_185_0"	"uppermesopelagic_500m_479_0"	"uppermesopelagic_500m_3360_0"	"uppermesopelagic_500m_7233_0"
+RXN1G-127	"cis,cis-delta11,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN1G-499	"3-oxo-lignoceroyl-[acyl-carrier protein] synthase"
+5.5.1.2-RXN	NIL
+IGPSYN-RXN	NIL
+RXN-5822	"NADP phosphatase"
+GMP-SYN-NH3-RXN	NIL
+THIOSULFATE-SULFURTRANSFERASE-RXN	NIL	"uppermesopelagic_500m_1825_1"	"uppermesopelagic_500m_3514_0"
+RXN-12064	"indol-3-ylacetaldoxime isomerase"
+NMNNUCLEOSID-RXN	NIL
+RXN-12062	"<i>N</i>-hydroxy-L-tryptophan <em>N</em>-monooxygenase"
+RXN-12061	"tryptophan <em>N</em>-monooxygenase"
+RXN-4444	NIL
+RXN-4443	NIL
+1.1.1.261-RXN	NIL
+ALANINE-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_6689_1"	"uppermesopelagic_500m_4703_1"
+GDPKIN-RXN	NIL
+MALATE-DEHYDROGENASE-NADP+-RXN	NIL
+RXNN-404	"indole acetamide hydrolase"	"uppermesopelagic_500m_889_1"	"uppermesopelagic_500m_6194_0"	"uppermesopelagic_500m_7816_0"	"uppermesopelagic_500m_6149_0"	"uppermesopelagic_500m_1129_0"	"uppermesopelagic_500m_4683_0"	"uppermesopelagic_500m_701_0"	"uppermesopelagic_500m_8848_0"	"uppermesopelagic_500m_955_0"
+1.17.1.1-RXN	NIL	"uppermesopelagic_500m_2232_0"
+ALKANE-1-MONOOXYGENASE-RXN	NIL	"uppermesopelagic_500m_1120_0"
+RXN-10696	NIL
+RXN-10697	NIL	"uppermesopelagic_500m_6362_0"	"uppermesopelagic_500m_1485_0"	"uppermesopelagic_500m_773_0"	"uppermesopelagic_500m_696_0"	"uppermesopelagic_500m_431_0"	"uppermesopelagic_500m_5777_1"	"uppermesopelagic_500m_6251_0"	"uppermesopelagic_500m_1700_0"	"uppermesopelagic_500m_726_0"	"uppermesopelagic_500m_3227_0"	"uppermesopelagic_500m_3806_1"	"uppermesopelagic_500m_859_1"	"uppermesopelagic_500m_8261_0"	"uppermesopelagic_500m_3614_0"	"uppermesopelagic_500m_6794_0"	"uppermesopelagic_500m_6266_1"	"uppermesopelagic_500m_6245_1"	"uppermesopelagic_500m_6245_0"
+HYPOXANPRIBOSYLTRAN-RXN	NIL	"uppermesopelagic_500m_7669_0"	"uppermesopelagic_500m_808_0"	"uppermesopelagic_500m_5436_0"
+RXN-10695	NIL
+RXN-11747	NIL
+RXN-11746	NIL
+RXN-11745	"5-fluoro-5-deoxy-d-ribulose-1-phosphate aldolase"
+RXN-11744	"5-fluoro-5-deoxy-D-ribose-1-phosphate isomerase"
+RXN-11743	"5'-deoxy-5'-fluoroadenosine phosphorylase"	"uppermesopelagic_500m_6004_1"
+RXN-8035	NIL
+RXN-10698	NIL	"uppermesopelagic_500m_5462_1"	"uppermesopelagic_500m_129_0"	"uppermesopelagic_500m_4124_0"	"uppermesopelagic_500m_7487_1"	"uppermesopelagic_500m_5573_0"	"uppermesopelagic_500m_3594_0"	"uppermesopelagic_500m_864_2"	"uppermesopelagic_500m_864_1"	"uppermesopelagic_500m_3399_0"	"uppermesopelagic_500m_2768_0"
+RXN-10699	NIL	"uppermesopelagic_500m_5462_0"	"uppermesopelagic_500m_4484_0"	"uppermesopelagic_500m_6141_0"	"uppermesopelagic_500m_8866_1"	"uppermesopelagic_500m_8285_1"	"uppermesopelagic_500m_8285_0"	"uppermesopelagic_500m_1223_1"	"uppermesopelagic_500m_3023_2"
+2.1.1.19-RXN	NIL
+DEOXYINOPHOSPHOR-RXN	NIL	"uppermesopelagic_500m_6004_1"
+DAHPSYN-RXN	NIL	"uppermesopelagic_500m_5134_0"	"uppermesopelagic_500m_1764_0"	"uppermesopelagic_500m_3090_0"	"uppermesopelagic_500m_5804_0"	"uppermesopelagic_500m_6463_0"	"uppermesopelagic_500m_3823_0"	"uppermesopelagic_500m_5926_0"
+GLURS-RXN	NIL	"uppermesopelagic_500m_8420_0"	"uppermesopelagic_500m_4478_0"	"uppermesopelagic_500m_269_0"	"uppermesopelagic_500m_900_0"	"uppermesopelagic_500m_5180_1"	"uppermesopelagic_500m_74_1"	"uppermesopelagic_500m_8587_0"	"uppermesopelagic_500m_4046_1"	"uppermesopelagic_500m_4236_0"
+GUANPRIBOSYLTRAN-RXN	NIL	"uppermesopelagic_500m_7669_0"	"uppermesopelagic_500m_808_0"	"uppermesopelagic_500m_5436_0"
+AIRS-RXN	NIL	"uppermesopelagic_500m_3048_0"	"uppermesopelagic_500m_1031_1"
+SPHINGOMYELIN-PHOSPHODIESTERASE-RXN	NIL	"uppermesopelagic_500m_1557_0"	"uppermesopelagic_500m_8299_0"
+ARGININE-DEIMINASE-RXN	NIL
+RXN1G-1050	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+ADENODEAMIN-RXN	NIL
+RXN-12978	NIL	"uppermesopelagic_500m_4673_0"	"uppermesopelagic_500m_6383_0"	"uppermesopelagic_500m_758_1"	"uppermesopelagic_500m_7431_0"	"uppermesopelagic_500m_417_1"	"uppermesopelagic_500m_3890_1"	"uppermesopelagic_500m_534_0"	"uppermesopelagic_500m_1196_0"	"uppermesopelagic_500m_2781_0"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+N-ACETYLTRANSFER-RXN	NIL	"uppermesopelagic_500m_4452_0"
+THI-P-SYN-RXN	NIL
+RXN-1824	NIL
+URACIL-PRIBOSYLTRANS-RXN	NIL	"uppermesopelagic_500m_3189_0"	"uppermesopelagic_500m_5890_1"	"uppermesopelagic_500m_4668_0"	"uppermesopelagic_500m_5290_0"	"uppermesopelagic_500m_5727_0"	"uppermesopelagic_500m_8740_1"
+FUC4NACTRANS-RXN	NIL
+TRYPTOPHAN--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_8542_0"
+GLYOXIII-RXN	NIL	"uppermesopelagic_500m_686_0"	"uppermesopelagic_500m_6237_0"	"uppermesopelagic_500m_5740_0"	"uppermesopelagic_500m_7155_0"	"uppermesopelagic_500m_2426_0"
+FATTY-ACYL-COA-SYNTHASE-RXN	NIL	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+2-METHYLENEGLUTARATE-MUTASE-RXN	NIL
+RXN-1828	NIL
+1.5.1.7-RXN	NIL
+ACETOOHBUTREDUCTOISOM-RXN	NIL
+PHENYLALANINE-AMMONIA-LYASE-RXN	NIL
+CYSTAGLY-RXN	NIL
+PYRIMSYN3-RXN	NIL	"uppermesopelagic_500m_1049_0"	"uppermesopelagic_500m_5310_0"	"uppermesopelagic_500m_5047_1"
+1.1.1.292-RXN	NIL
+N-ACETYLGLUTPREDUCT-RXN	NIL	"uppermesopelagic_500m_5437_1"	"uppermesopelagic_500m_1704_0"
+RXN1G-1117	"trans-delta2-cis,cis-delta13,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+MANNPISOM-RXN	NIL	"uppermesopelagic_500m_5484_0"
+RXN-12730	NIL	"uppermesopelagic_500m_3809_0"	"uppermesopelagic_500m_2395_0"	"uppermesopelagic_500m_3881_0"	"uppermesopelagic_500m_4451_0"
+PHOSGLYPHOS-RXN	NIL	"uppermesopelagic_500m_6227_0"	"uppermesopelagic_500m_8384_1"	"uppermesopelagic_500m_8258_0"	"uppermesopelagic_500m_56_0"
+RXN66-105	NIL
+RXN66-104	NIL
+RXN66-103	NIL
+RXN66-101	NIL
+HISTCYCLOHYD-RXN	NIL
+4.3.1.4-RXN	NIL
+AMP-NUCLEOSID-RXN	NIL	"uppermesopelagic_500m_5477_0"
+RXN-9633	"3-oxo-stearoyl-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+RXN-9632	"3-oxo-stearoyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+RXN-9635	"<i>trans</i>-octadec-2-enoyl-[acyl-carrier-protein] reductase"	"uppermesopelagic_500m_6528_0"
+RXN-9634	"3-hydroxystearoyl-[acyl-carrier protein] dehydratase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_6710_1"
+MALATE-DEH-RXN	NIL	"uppermesopelagic_500m_5027_0"	"uppermesopelagic_500m_2750_1"
+DEHYDDEOXPHOSGALACT-ALDOL-RXN	"2-dehydro-3-deoxy-6-phosphogalactonate aldolase"	"uppermesopelagic_500m_2235_0"
+FERREDOXIN--NITRITE-REDUCTASE-RXN	NIL	"uppermesopelagic_500m_1825_0"
+6.3.2.10-RXN	NIL	"uppermesopelagic_500m_1331_0"	"uppermesopelagic_500m_176_0"	"uppermesopelagic_500m_765_0"
+KDO-8PPHOSPHAT-RXN	NIL
+1.13.11.25-RXN	NIL
+KETOHEXOKINASE-RXN	NIL
+2.4.1.117-RXN	NIL
+RXN1G-865	"<i>trans</i>-methoxy-meroacyl transferase"
+RXN1G-866	"cis-keto-meroacyl-transferase"
+RXN1G-867	"<i>trans</i>-keto-meroacyl transferase"
+NAD-SYNTH-NH3-RXN	NIL	"uppermesopelagic_500m_2889_0"	"uppermesopelagic_500m_2845_0"	"uppermesopelagic_500m_2684_0"
+RXN1G-464	"cis,cis-delta5,17-3-hydroxyC36:2-[acyl-carrier protein] dehydratase"
+RXN-12397	NIL
+XMPXAN-RXN	"XMP-5'-nucleotidase"	"uppermesopelagic_500m_5817_2"	"uppermesopelagic_500m_5526_1"
+PHOSPHOGLUCMUT-RXN	NIL
+PPPGPPHYDRO-RXN	NIL
+RXN1G-468	"trans-delta2-cis,cis-delta7,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-469	"3-oxobehenoyl-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+RXN1G-262	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN1G-260	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_6284_0"
+RXN1G-266	"cis-delta9-3-hydroxyC28:1-[acyl-carrier protein] dehydratase"
+FUMARYLACETOACETASE-RXN	NIL
+LACTOSE-DEHYDRO-RXN	"lactose 3-dehydrogenase"
+RXN-11902	NIL
+THREODEHYD-RXN	NIL	"uppermesopelagic_500m_4071_1"	"uppermesopelagic_500m_5866_0"	"uppermesopelagic_500m_7235_1"
+HOMOCYSMETB12-RXN	NIL	"uppermesopelagic_500m_3703_1"	"uppermesopelagic_500m_3832_2"	"uppermesopelagic_500m_3832_0"	"uppermesopelagic_500m_6948_0"	"uppermesopelagic_500m_7050_0"	"uppermesopelagic_500m_7577_0"
+2PGADEHYDRAT-RXN	NIL	"uppermesopelagic_500m_8471_1"	"uppermesopelagic_500m_3195_0"	"uppermesopelagic_500m_2318_0"	"uppermesopelagic_500m_5635_1"
+RXN0-5055	NIL	"uppermesopelagic_500m_4893_0"	"uppermesopelagic_500m_8700_0"	"uppermesopelagic_500m_2157_0"
+3.1.3.57-RXN	NIL
+RXN-12850	"3-oxocholest-4-en-26-ol 26-dehydrogenase"
+P-PANTOCYSLIG-RXN	NIL
+TRANS-CINNAMATE-4-MONOOXYGENASE-RXN	NIL
+1.1.1.39-RXN	NIL
+RXN1G-396	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-395	"trans-eicos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+N-CARBAMOYLSARCOSINE-AMIDASE-RXN	NIL
+RXN0-6491	"dihydroorotate dehydrogenase"
+D-PPENTOMUT-RXN	"D-deoxyribose 1,5-phosphomutase"
+RXN-12694	"cholest-5-en-3-one isomerase"	"uppermesopelagic_500m_5606_0"
+RXN-12691	NIL
+GDPPYPHOSKIN-RXN	NIL	"uppermesopelagic_500m_5341_0"	"uppermesopelagic_500m_2021_1"
+3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN	"3-hydroxyisobutyryl-CoA hydrolase"
+PHOSPHASERDECARB-RXN	NIL	"uppermesopelagic_500m_4201_0"	"uppermesopelagic_500m_7869_0"
+RXN1G-3993	"C52-&alpha;-meroacyl-[acp] synthetase"
+RXN1G-138	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+RXN0-2042	NIL
+4.1.1.77-RXN	NIL
+RXN1G-132	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"
+RXN1G-645	"3-cis,cis-delta9,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN1G-137	"trehalose-mono-mycolate transport"
+RXN-527	NIL
+RXN1G-488	"trans-docos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-11002	NIL
+RXN1G-481	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+O-ACETYLHOMOSERINE-THIOL-LYASE-RXN	NIL	"uppermesopelagic_500m_3118_0"	"uppermesopelagic_500m_6894_0"
+RXN-12070	NIL
+RXN-12071	NIL
+RXN-12072	NIL	"uppermesopelagic_500m_2636_0"	"uppermesopelagic_500m_4026_0"
+RXN-12073	NIL	"uppermesopelagic_500m_3336_0"
+RXN-12078	"&beta;-D-galactose reductase"
+RXN-12079	"D-galactitol dehydrogenase"
+2KETO-3METHYLVALERATE-RXN	"(<i>S</i>)-3-methyl-2-oxopentanoate dehydrogenase (acylating)"
+R501-RXN	NIL
+DAPASYN-RXN	NIL	"uppermesopelagic_500m_5489_1"	"uppermesopelagic_500m_7912_1"	"uppermesopelagic_500m_7831_0"	"uppermesopelagic_500m_3500_0"
+LUMAZINESYN-RXN	NIL	"uppermesopelagic_500m_2081_1"
+RXN-0	NIL
+RXN-1	NIL
+NICOTINATE-DEHYDROGENASE-RXN	NIL
+RXN-9	NIL
+NICOTINAMID-RXN	NIL
+RXNQT-4142	NIL
+RXNQT-4141	NIL
+GALACTONDEHYDRAT-RXN	NIL
+SARCOX-RXN	NIL	"uppermesopelagic_500m_7171_1"	"uppermesopelagic_500m_6190_0"	"uppermesopelagic_500m_4075_0"	"uppermesopelagic_500m_2044_0"	"uppermesopelagic_500m_8298_1"	"uppermesopelagic_500m_8298_0"	"uppermesopelagic_500m_3172_1"	"uppermesopelagic_500m_3567_0"	"uppermesopelagic_500m_688_0"	"uppermesopelagic_500m_4062_1"	"uppermesopelagic_500m_4926_1"	"uppermesopelagic_500m_4926_0"
+ALLANTOATE-DEIMINASE-RXN	NIL	"uppermesopelagic_500m_5834_0"
+RXN-4544	NIL
+RXN-4545	NIL
+GLUTATHIONE-SYN-RXN	NIL	"uppermesopelagic_500m_41_0"	"uppermesopelagic_500m_3074_0"
+RXN-4542	NIL
+RXN0-363	NIL
+4.1.1.82-RXN	NIL	"uppermesopelagic_500m_8342_1"
+RXN-14188	NIL
+RXN-14187	NIL
+RXN-11353	NIL
+O-SUCCHOMOSERLYASE-RXN	NIL	"uppermesopelagic_500m_8673_0"	"uppermesopelagic_500m_2568_0"
+ASNSYNA-RXN	NIL	"uppermesopelagic_500m_1259_0"	"uppermesopelagic_500m_7653_0"	"uppermesopelagic_500m_1546_1"	"uppermesopelagic_500m_954_1"	"uppermesopelagic_500m_7172_0"
+RXN-1685	NIL
+RXN-9135	NIL
+GLUCOSAMINE-6-P-DEAMIN-RXN	NIL
+IMIDAZOLONEPROPIONASE-RXN	NIL	"uppermesopelagic_500m_8668_1"	"uppermesopelagic_500m_8668_0"	"uppermesopelagic_500m_5210_0"
+RXN-2881	NIL
+PEPCARBOXYKIN-RXN	NIL	"uppermesopelagic_500m_4179_1"	"uppermesopelagic_500m_6013_0"	"uppermesopelagic_500m_6753_0"	"uppermesopelagic_500m_5390_0"
+RXN-11342	NIL
+GALACTOKIN-RXN	NIL
+4-HYDROXYGLUTAMATE-AMINOTRANSFERASE-RXN	NIL
+RXN0-949	NIL	"uppermesopelagic_500m_7228_0"	"uppermesopelagic_500m_680_0"	"uppermesopelagic_500m_7795_0"	"uppermesopelagic_500m_451_1"	"uppermesopelagic_500m_5885_0"
+ARACHIDONATE-5-LIPOXYGENASE-RXN	"arachidonate 5-lipoxygenase"
+RXN0-947	NIL	"uppermesopelagic_500m_753_0"	"uppermesopelagic_500m_6121_0"
+ETHANOLAMINEPHOSPHOTRANSFERASE-RXN	NIL
+ARGININE-N-SUCCINYLTRANSFERASE-RXN	NIL
+RXN-9006	NIL
+RXN-9007	NIL
+RXN-9004	NIL
+RXN-9005	NIL
+RXN-9002	NIL
+RXN-9003	NIL
+RXN-9000	NIL	"uppermesopelagic_500m_40_0"
+RXN-9001	NIL
+DXPREDISOM-RXN	NIL	"uppermesopelagic_500m_640_0"	"uppermesopelagic_500m_5758_0"
+RXN-9008	NIL
+RXN-9009	NIL
+TRIOKINASE-RXN	NIL
+RXN1G-1325	"trans-delta2-cis,cis-delta15,33-C52:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-10096	"4,6-dichloro-3-methylcatechol dioxygenase"
+ACETOLACTSYN-RXN	NIL	"uppermesopelagic_500m_3945_0"	"uppermesopelagic_500m_5408_1"	"uppermesopelagic_500m_20_0"	"uppermesopelagic_500m_3817_1"	"uppermesopelagic_500m_3817_0"	"uppermesopelagic_500m_6687_1"	"uppermesopelagic_500m_1376_0"	"uppermesopelagic_500m_4871_1"	"uppermesopelagic_500m_4871_0"	"uppermesopelagic_500m_4486_1"	"uppermesopelagic_500m_6145_0"	"uppermesopelagic_500m_1042_0"	"uppermesopelagic_500m_8397_0"	"uppermesopelagic_500m_8053_1"	"uppermesopelagic_500m_6509_0"	"uppermesopelagic_500m_5584_0"
+2.7.8.15-RXN	NIL	"uppermesopelagic_500m_8711_0"
+4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	NIL
+3-DEHYDROQUINATE-SYNTHASE-RXN	NIL	"uppermesopelagic_500m_5948_1"	"uppermesopelagic_500m_5475_0"	"uppermesopelagic_500m_4769_0"	"uppermesopelagic_500m_2354_0"
+RXN-9648	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_3298_0"	"uppermesopelagic_500m_122_0"	"uppermesopelagic_500m_8790_1"	"uppermesopelagic_500m_3837_0"	"uppermesopelagic_500m_8514_0"	"uppermesopelagic_500m_1295_1"	"uppermesopelagic_500m_2330_1"	"uppermesopelagic_500m_6750_0"	"uppermesopelagic_500m_5882_1"	"uppermesopelagic_500m_6710_1"
+GDPMANDEHYDRA-RXN	NIL	"uppermesopelagic_500m_5997_0"	"uppermesopelagic_500m_4922_0"
+RXN-9644	NIL	"uppermesopelagic_500m_4673_0"	"uppermesopelagic_500m_6383_0"	"uppermesopelagic_500m_758_1"	"uppermesopelagic_500m_7431_0"	"uppermesopelagic_500m_417_1"	"uppermesopelagic_500m_3890_1"	"uppermesopelagic_500m_534_0"	"uppermesopelagic_500m_1196_0"	"uppermesopelagic_500m_2781_0"	"uppermesopelagic_500m_4167_0"	"uppermesopelagic_500m_8329_0"	"uppermesopelagic_500m_463_0"
+RXN-9310	NIL
+RXN-9311	NIL
+1.11.1.12-RXN	NIL
+RXN-9867	NIL
+RXN-9860	NIL
+RXN-9869	NIL
+4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN	NIL	"uppermesopelagic_500m_3796_0"
+RXNDQC-2	"indole-3-pyruvate monooxygenase"
+HOMOSERINE-O-ACETYLTRANSFERASE-RXN	NIL	"uppermesopelagic_500m_6367_0"	"uppermesopelagic_500m_4302_0"
+RXN1G-818	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] synthase"	"uppermesopelagic_500m_5991_0"	"uppermesopelagic_500m_7750_0"	"uppermesopelagic_500m_7777_1"	"uppermesopelagic_500m_7193_0"	"uppermesopelagic_500m_316_0"
+CREATININE-DEAMINASE-RXN	NIL
+THIOL-S-METHYLTRANSFERASE-RXN	NIL
+RXN1G-811	"6-O-trans-keto-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-810	"6-O-cis-keto-mycolyl-trehalose O-mycolyltransferase"
+1.1.1.283-RXN	NIL
+1.5.1.15-RXN	NIL
+2.1.1.5-RXN	NIL	"uppermesopelagic_500m_7286_0"
+2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN	"4-methyl-2-oxopentanoate dehydrogenase (acylating)"
+PANTOTHENATE-KIN-RXN	NIL	"uppermesopelagic_500m_3928_1"	"uppermesopelagic_500m_8025_0"
+HISTIDINE--TRNA-LIGASE-RXN	NIL	"uppermesopelagic_500m_8824_1"	"uppermesopelagic_500m_6785_0"
+ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	NIL	"uppermesopelagic_500m_5113_0"	"uppermesopelagic_500m_3644_0"	"uppermesopelagic_500m_5268_0"	"uppermesopelagic_500m_8867_0"	"uppermesopelagic_500m_8869_0"	"uppermesopelagic_500m_6057_0"	"uppermesopelagic_500m_7413_0"	"uppermesopelagic_500m_8187_0"
+RXN1G-252	"cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] reductase"	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN0-1321	NIL	"uppermesopelagic_500m_6951_1"	"uppermesopelagic_500m_3669_0"	"uppermesopelagic_500m_4462_1"	"uppermesopelagic_500m_8568_1"
+D-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	NIL	"uppermesopelagic_500m_8845_1"	"uppermesopelagic_500m_5649_0"	"uppermesopelagic_500m_3995_0"	"uppermesopelagic_500m_7393_0"	"uppermesopelagic_500m_4420_1"	"uppermesopelagic_500m_4370_1"	"uppermesopelagic_500m_3965_0"
+BENZOATE--COA-LIGASE-RXN	NIL
+GLCNACPTRANS-RXN	NIL
+RXN-6321	NIL
+RXN-12867	NIL
+RXN-12865	NIL
+RXN-12864	"Painter reaction"
+3.1.4.11-RXN	NIL
+RXN66-221	NIL	"uppermesopelagic_500m_936_0"	"uppermesopelagic_500m_1246_0"
+3.2.1.76-RXN	NIL
+RXN-8444	NIL
+PROTOPORGENOXI-RXN	NIL
+DIAMINOPIMDECARB-RXN	NIL	"uppermesopelagic_500m_1451_0"	"uppermesopelagic_500m_4462_0"	"uppermesopelagic_500m_4187_1"
+PROLINE-RACEMASE-RXN	NIL	"uppermesopelagic_500m_6407_0"	"uppermesopelagic_500m_6431_1"	"uppermesopelagic_500m_7701_0"
+RXN-12460	"L-asparaginyl-tRNA<SUP>asn</SUP> hydrolase"	"uppermesopelagic_500m_4859_1"	"uppermesopelagic_500m_113_0"	"uppermesopelagic_500m_7532_1"
+RXN1G-3613	"cis,cis-&Delta;21,39-C58:2-[acp] reductase"
+OROPRIBTRANS-RXN	NIL	"uppermesopelagic_500m_2021_0"	"uppermesopelagic_500m_7058_1"	"uppermesopelagic_500m_937_0"	"uppermesopelagic_500m_5682_0"
+RXN-13446	NIL
+RXN-12912	NIL
+RXN-13444	NIL
+RXN-13445	NIL
+RXN-13442	NIL
+RXN-13443	NIL	"uppermesopelagic_500m_8124_0"	"uppermesopelagic_500m_1922_0"	"uppermesopelagic_500m_4600_0"	"uppermesopelagic_500m_8335_0"	"uppermesopelagic_500m_3177_0"	"uppermesopelagic_500m_2967_1"	"uppermesopelagic_500m_3954_1"	"uppermesopelagic_500m_8861_0"	"uppermesopelagic_500m_8862_0"	"uppermesopelagic_500m_817_0"	"uppermesopelagic_500m_4068_1"	"uppermesopelagic_500m_8921_0"	"uppermesopelagic_500m_7004_0"	"uppermesopelagic_500m_4355_0"	"uppermesopelagic_500m_8741_0"	"uppermesopelagic_500m_6284_0"
+RXN-13441	NIL
+1.2.4.4-RXN	NIL	"uppermesopelagic_500m_5960_0"
+RXN66-81	NIL	"uppermesopelagic_500m_7121_0"
+RXN66-83	NIL	"uppermesopelagic_500m_40_0"
+RXN66-82	NIL
+AIRCARBOXY-RXN	NIL	"uppermesopelagic_500m_8831_0"	"uppermesopelagic_500m_19_1"	"uppermesopelagic_500m_5790_1"	"uppermesopelagic_500m_5790_0"	"uppermesopelagic_500m_7803_1"
+1.1.1.271-RXN	NIL	"uppermesopelagic_500m_2139_1"
+RIBOFLAVINSYNDEAM-RXN	NIL	"uppermesopelagic_500m_7132_0"	"uppermesopelagic_500m_7106_0"	"uppermesopelagic_500m_6974_1"	"uppermesopelagic_500m_4285_0"	"uppermesopelagic_500m_3332_0"
+H2-METHYLENE-THMPT-DEHYDRO-RXN	NIL
+TRIOSEPISOMERIZATION-RXN	NIL	"uppermesopelagic_500m_56_1"
+SALICYLATE-1-MONOOXYGENASE-RXN	NIL	"uppermesopelagic_500m_4601_0"
+DMBPPRIBOSYLTRANS-RXN	NIL
+RXN-12001	NIL
+RXN-12000	NIL	"uppermesopelagic_500m_6455_0"	"uppermesopelagic_500m_4492_0"
+RXN-12002	NIL	"uppermesopelagic_500m_5610_1"	"uppermesopelagic_500m_7007_0"	"uppermesopelagic_500m_1872_0"	"uppermesopelagic_500m_3532_1"	"uppermesopelagic_500m_6856_0"	"uppermesopelagic_500m_7237_0"

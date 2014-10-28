@@ -1,0 +1,17 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	9
+
+	LSURef_115_tax_silva_2013-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+below_euphotic_200m_4986	5	597	89.02	0.0	732.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;marine metagenome
+below_euphotic_200m_2903	1	910	89.34	0.0	1136.0	Eukaryota;environmental samples;;uncultured eukaryote HF0200_37F04
+below_euphotic_200m_4124	6	977	90.06	0.0	1253.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;marine metagenome
+below_euphotic_200m_532	209	815	75.56	1e-69	265.0	Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;SAR406 clade(Marine group A);uncultured bacterium MB13C05
+below_euphotic_200m_7816	737	1001	85.04	5e-70	267.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;marine metagenome
+below_euphotic_200m_7798	13	454	91.01	2e-169	595.0	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfobacterales;Nitrospinaceae;Nitrospina;marine metagenome
+below_euphotic_200m_1134	180	702	76.61	2e-68	261.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+below_euphotic_200m_4972	46	746	79.18	1e-125	451.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+below_euphotic_200m_3786	18	750	86.7	0.0	806.0	Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Acidimicrobiaceae;AD12-A11;uncultured actinobacterium HF0500_35G12

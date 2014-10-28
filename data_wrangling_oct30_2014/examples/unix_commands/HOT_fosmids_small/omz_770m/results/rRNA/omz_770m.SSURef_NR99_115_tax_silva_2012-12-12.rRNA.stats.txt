@@ -1,0 +1,17 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	9
+
+	SSURef_NR99_115_tax_silva_2012-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+omz_770m_3717	1	845	89.42	0.0	1046.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured alpha proteobacterium
+omz_770m_9057	55	521	92.81	0.0	678.0	Eukaryota;SAR;Alveolata;Protalveolata;Syndiniales;Syndiniales Group I;uncultured eukaryote
+omz_770m_9051	413	938	91.62	0.0	726.0	Eukaryota;SAR;Alveolata;Protalveolata;Syndiniales;Syndiniales Group I;uncultured Rhizaria
+omz_770m_4656	284	710	75.23	6e-41	172.0	Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma arthritidis 158L3-1
+omz_770m_3615	327	659	79.59	6e-56	222.0	Bacteria;Proteobacteria;Deltaproteobacteria;SAR324 clade(Marine group B);uncultured marine bacterium
+omz_770m_1027	1	775	88.49	0.0	928.0	Bacteria;Chloroflexi;SAR202 clade;uncultured Chloroflexi bacterium
+omz_770m_11139	233	912	98.83	0.0	1210.0	Archaea;Thaumarchaeota;Marine Group I;uncultured archaeon
+omz_770m_2747	198	444	76.83	1e-27	128.0	Bacteria;Bacteroidetes;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Bergeyella;Bergeyella sp. AF14
+omz_770m_3819	203	902	91.75	0.0	959.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Magnetospira;uncultured bacterium

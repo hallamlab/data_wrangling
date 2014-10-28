@@ -1,0 +1,16 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	8
+
+	SSURef_NR99_115_tax_silva_2012-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+deepabyss_4000m_7140	20	660	100.0	0.0	1184.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Sulfitobacter;Sulfitobacter sp. 132Z-13
+deepabyss_4000m_9283	12	563	97.85	0.0	957.0	Archaea;Thaumarchaeota;Marine Group I;uncultured archaeon
+deepabyss_4000m_148	20	572	94.23	0.0	845.0	Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;PAUC34f;uncultured bacterium
+deepabyss_4000m_3613	62	260	95.48	3e-84	316.0	Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Marine Group II;uncultured archaeon
+deepabyss_4000m_6236	3	355	89.29	5e-121	438.0	Bacteria;Gemmatimonadetes;Gemmatimonadetes;BD2-11 terrestrial group;uncultured bacterium
+deepabyss_4000m_8910	3	375	87.53	1e-115	420.0	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Halomonadaceae;Halomonas;uncultured bacterium
+deepabyss_4000m_10849	1	600	99.33	0.0	1086.0	Bacteria;Proteobacteria;Gammaproteobacteria;Salinisphaerales;Salinisphaeraceae;ZD0417 marine group;uncultured bacterium
+deepabyss_4000m_3915	481	718	83.82	6e-56	222.0	Eukaryota;Opisthokonta;Nucletmycea;Fungi;Dikarya;Ascomycota;Pezizomycotina;Dothideomycetes;Dothideomycetidae;Dothideales;Dothioraceae;Phaseolus acutifolius (tepary bean)

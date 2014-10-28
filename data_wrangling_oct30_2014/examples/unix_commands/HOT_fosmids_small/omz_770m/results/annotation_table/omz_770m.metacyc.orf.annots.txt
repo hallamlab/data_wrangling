@@ -1,0 +1,2000 @@
+4.1.1.32-RXN	NIL	"omz_770m_8278_2"
+RXN1G-202	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+R234-RXN	NIL
+RXN-8784	NIL
+RXN-8783	NIL	"omz_770m_2607_1"	"omz_770m_3586_0"	"omz_770m_2990_0"
+RXN-11102	NIL
+RXN-12718	NIL
+R547-RXN	NIL
+RXN-12710	"acetyl-CoA C-acyltransferase"	"omz_770m_620_0"	"omz_770m_8053_0"	"omz_770m_3454_0"	"omz_770m_2289_0"	"omz_770m_10127_0"
+RXN-12715	NIL
+RXN-12714	"androst-4-en-3,17-dione 1-dehydrogenase"
+GLU6PDEHYDROG-RXN	NIL
+VINYLACETYL-COA-DELTA-ISOMERASE-RXN	NIL
+MALYL-COA-LYASE-RXN	NIL
+3.2.1.26-RXN	"&beta;-fructofuranosidase"	"omz_770m_5097_0"
+1.1.1.289-RXN	NIL
+RXNQT-4193	NIL
+RXN-9175	NIL
+FRUCTOKINASE-RXN	"fructokinase"
+BUTANAL-DEHYDROGENASE-RXN	NIL
+3.1.6.12-RXN	NIL	"omz_770m_2730_0"
+3.4.23.38-RXN	NIL
+DLACTDEHYDROGFAD-RXN	NIL
+RXN1F-357	NIL	"omz_770m_3020_0"
+KDOTRANS2-RXN	NIL
+2.5.1.41-RXN	NIL
+RXN-11618	"hyaluronoglucosaminidase"
+ORNDECARBOX-RXN	NIL
+ACETOOHBUTSYN-RXN	"2-aceto-2-hydroxy-butyrate synthase"	"omz_770m_1480_0"	"omz_770m_2861_0"	"omz_770m_3375_0"	"omz_770m_6001_0"	"omz_770m_10788_0"	"omz_770m_2663_0"	"omz_770m_7650_0"	"omz_770m_7197_0"	"omz_770m_6546_1"	"omz_770m_282_1"	"omz_770m_330_1"	"omz_770m_10952_1"	"omz_770m_8799_1"	"omz_770m_2458_0"	"omz_770m_11062_0"	"omz_770m_8364_0"	"omz_770m_4757_0"	"omz_770m_9699_0"	"omz_770m_2565_0"	"omz_770m_6171_0"	"omz_770m_3107_1"	"omz_770m_3107_0"	"omz_770m_3489_1"	"omz_770m_3489_0"
+MALEATE-ISOMERASE-RXN	NIL	"omz_770m_1275_0"	"omz_770m_6503_0"
+ACYLCOADEHYDROG-RXN	"acyl-CoA dehydrogenase"	"omz_770m_9712_0"	"omz_770m_10028_0"	"omz_770m_10025_0"	"omz_770m_10889_0"	"omz_770m_7293_0"	"omz_770m_8745_0"	"omz_770m_9842_0"	"omz_770m_8565_1"	"omz_770m_1848_0"
+ARGSUCCINSYN-RXN	NIL	"omz_770m_6884_0"	"omz_770m_679_0"	"omz_770m_2651_0"
+2.8.1.6-RXN	NIL	"omz_770m_7737_1"	"omz_770m_316_0"
+DIOHBUTANONEPSYN-RXN	NIL	"omz_770m_1045_0"	"omz_770m_10922_0"	"omz_770m_2696_0"	"omz_770m_6585_0"
+3-HYDROXYPROPIONATE-DEHYDROGENASE-RXN	NIL
+RXN3O-9780	NIL
+METHIONINE--TRNA-LIGASE-RXN	NIL	"omz_770m_4015_0"	"omz_770m_647_0"	"omz_770m_2903_0"
+RXN-10705	NIL	"omz_770m_7642_0"	"omz_770m_4362_1"	"omz_770m_5856_1"	"omz_770m_5851_1"	"omz_770m_5811_1"	"omz_770m_5815_1"	"omz_770m_10542_1"	"omz_770m_10137_0"	"omz_770m_9402_0"	"omz_770m_3337_0"	"omz_770m_11288_1"	"omz_770m_9311_0"	"omz_770m_3556_0"	"omz_770m_7898_0"	"omz_770m_3776_0"	"omz_770m_9618_1"	"omz_770m_962_0"	"omz_770m_8374_1"	"omz_770m_2163_0"
+PHENYLALANINE-DECARBOXYLASE-RXN	NIL
+GALACTURIDYLYLTRANS-RXN	NIL
+UDPGLCNACEPIM-RXN	NIL	"omz_770m_10644_0"	"omz_770m_3627_0"	"omz_770m_11404_0"
+RXN-7800	NIL
+PSERTRANSAM-RXN	NIL	"omz_770m_6004_0"	"omz_770m_907_0"
+GLUTRNAREDUCT-RXN	NIL	"omz_770m_2120_1"	"omz_770m_6684_1"	"omz_770m_6052_0"
+RXN-11108	NIL
+RXN1G-1486	"3-oxo-C78-&alpha;-mycolate-reductase"
+ADENYLYLSULFKIN-RXN	NIL	"omz_770m_4029_0"	"omz_770m_1033_0"
+DTDPGLUCOSEPP-RXN	NIL	"omz_770m_8467_0"	"omz_770m_2268_0"	"omz_770m_82_0"
+2.5.1.46-RXN	NIL	"omz_770m_10951_0"
+RXN1G-320	"3-hydroxyarchidoyl-[acp] dehydrase"
+RXN1G-1130	"trans-delta2-cis-delta19-C38:2-[acyl-carrier protein] reductase"
+HOMSUCTRAN-RXN	NIL
+UREASE-RXN	NIL	"omz_770m_9524_0"
+LYSINE-23-AMINOMUTASE-RXN	NIL	"omz_770m_7371_0"	"omz_770m_9517_1"
+RXN-9787	"cysteine:[ThiI sulfur-carrier protein]-L-cysteine sulfurtransferase desulfurase"	"omz_770m_9975_0"	"omz_770m_2148_1"	"omz_770m_5576_0"	"omz_770m_8072_0"	"omz_770m_8879_0"	"omz_770m_3119_0"	"omz_770m_4520_0"	"omz_770m_11308_0"	"omz_770m_5796_0"	"omz_770m_698_0"	"omz_770m_2465_0"	"omz_770m_9060_0"
+RXN-9789	NIL
+RXN-9788	NIL
+RXN1G-276	"trans-delta2-cis,cis-delta17,35-C54:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+PEPSYNTH-RXN	NIL	"omz_770m_7598_1"	"omz_770m_7598_0"	"omz_770m_4778_2"	"omz_770m_11299_1"	"omz_770m_7528_0"	"omz_770m_7328_0"
+GLUTAMIDOTRANS-RXN	NIL
+RXN1G-279	"cis-delta13-3-hydroxyC32:1-[acyl-carrier protein] dehydratase"
+GLUCUROISOM-RXN	NIL
+SPONTPRO-RXN	NIL
+RXN3O-5304	"stearoyl-[acp]--CoA stearoyltransferase"
+RXN-9659	"<i>trans</i> oct-2-enoyl-[acp] reductase"
+RXN-9658	"<i>trans</i> hex-2-enoyl-[acp]-reductase"
+RXN-9657	"crotonyl-[acp] reductase"	"omz_770m_9135_2"	"omz_770m_11118_0"
+RXN-9655	"3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase"
+RXN-9654	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN-9653	"3-oxo-meristoyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN-9652	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN-9651	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN-9650	"3-oxo-octanoyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN3O-54	NIL
+RXN1G-1003	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN3O-58	NIL
+NAD-KIN-RXN	NIL
+RXN0-1001	NIL
+RXN-9870	NIL
+CYTIDEAM2-RXN	NIL
+RXN-13290	"15-tetracosenoate&mdash;CoA ligase"	"omz_770m_3021_0"	"omz_770m_7949_0"	"omz_770m_460_1"	"omz_770m_5967_0"	"omz_770m_5077_0"	"omz_770m_8565_0"	"omz_770m_9633_1"	"omz_770m_2468_0"	"omz_770m_10169_0"	"omz_770m_2157_0"	"omz_770m_9875_1"
+LIPIDADISACCHARIDESYNTH-RXN	NIL	"omz_770m_7435_0"	"omz_770m_974_0"
+SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	"Serine--glyoxylate aminotransferase"	"omz_770m_8045_0"	"omz_770m_2652_0"
+1.2.1.2-RXN	NIL	"omz_770m_2796_0"	"omz_770m_7008_1"	"omz_770m_8959_0"	"omz_770m_6959_1"	"omz_770m_10710_0"	"omz_770m_9038_0"	"omz_770m_10086_0"	"omz_770m_2986_0"	"omz_770m_4104_0"	"omz_770m_530_0"	"omz_770m_3736_0"	"omz_770m_1674_0"	"omz_770m_8753_0"	"omz_770m_4116_0"
+RXN1G-808	"6-O-cis-methoxy-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-809	"6-O-trans-methoxy-mycolyl-trehalose O-mycolyltransferase"
+ADPREDUCT-RXN	"ADP reductase"	"omz_770m_890_0"	"omz_770m_7669_0"	"omz_770m_6295_0"	"omz_770m_3049_0"	"omz_770m_1992_0"	"omz_770m_6825_0"	"omz_770m_3041_0"	"omz_770m_6143_0"	"omz_770m_8572_0"	"omz_770m_1918_0"	"omz_770m_10261_0"	"omz_770m_11309_0"	"omz_770m_10410_0"	"omz_770m_3070_0"	"omz_770m_10973_0"	"omz_770m_2951_0"	"omz_770m_4821_0"	"omz_770m_4016_0"	"omz_770m_6570_0"	"omz_770m_11002_0"
+RXN1G-807	"6-O-mycolyl-trehalose O-mycolyltransferase"
+RIBOSYLNICOTINAMIDE-KINASE-RXN	NIL
+RXN0-1133	NIL	"omz_770m_1937_0"	"omz_770m_8483_0"	"omz_770m_9188_0"
+RXN0-1132	"dihydrolipoyl dehydrogenase"	"omz_770m_11226_0"	"omz_770m_1732_1"	"omz_770m_8546_0"	"omz_770m_1060_0"	"omz_770m_4890_0"	"omz_770m_1909_1"	"omz_770m_3680_1"	"omz_770m_7035_0"	"omz_770m_83_0"	"omz_770m_1891_1"	"omz_770m_6176_0"	"omz_770m_3909_0"	"omz_770m_3122_0"
+6-CARBOXYHEXANOATE--COA-LIGASE-RXN	NIL
+RXN-12717	NIL
+RXN0-1134	NIL	"omz_770m_1171_0"	"omz_770m_2484_0"	"omz_770m_1557_0"	"omz_770m_916_0"	"omz_770m_8468_0"	"omz_770m_3011_0"	"omz_770m_10097_0"	"omz_770m_2091_0"	"omz_770m_8403_1"	"omz_770m_6017_2"	"omz_770m_2421_2"
+PHOSPHOENOLPYRUVATE-MUTASE-RXN	NIL
+TOLUENE-2-MONOOXYGENASE-RXN	"toluene-2-monooxygenase"
+HYDROXYMETHYLGLUTARYL-COA-LYASE-RXN	NIL	"omz_770m_6763_0"	"omz_770m_6743_0"
+PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	NIL
+ARGINASE-RXN	NIL	"omz_770m_10210_0"	"omz_770m_8357_1"
+R344-RXN	NIL	"omz_770m_11015_0"	"omz_770m_6560_0"
+PSERTRANSAMPYR-RXN	NIL	"omz_770m_6004_0"	"omz_770m_907_0"
+THREONINE-ALDOLASE-RXN	"low-specificity L-threonine aldolase"	"omz_770m_310_0"	"omz_770m_9154_1"	"omz_770m_182_1"
+RXN-12278	NIL
+RXN-12279	NIL
+RXN-12276	NIL
+RXN1A0-6322	NIL
+RXN1A0-6321	NIL
+GLUTAMIN-RXN	NIL	"omz_770m_3406_0"	"omz_770m_8666_0"	"omz_770m_6231_0"	"omz_770m_11333_0"	"omz_770m_7458_0"	"omz_770m_8810_1"	"omz_770m_838_0"	"omz_770m_6974_1"	"omz_770m_5484_1"	"omz_770m_5484_0"	"omz_770m_5216_0"	"omz_770m_7238_0"	"omz_770m_7200_0"	"omz_770m_10658_0"	"omz_770m_1745_0"	"omz_770m_8397_0"	"omz_770m_7157_0"	"omz_770m_4935_0"	"omz_770m_2602_0"	"omz_770m_3131_0"	"omz_770m_300_0"	"omz_770m_11133_0"	"omz_770m_4316_0"	"omz_770m_3890_0"	"omz_770m_10209_0"	"omz_770m_9880_0"	"omz_770m_803_0"	"omz_770m_212_0"	"omz_770m_4074_1"	"omz_770m_4822_0"	"omz_770m_4750_0"	"omz_770m_7281_0"	"omz_770m_904_0"	"omz_770m_6363_0"	"omz_770m_4539_0"	"omz_770m_10983_0"	"omz_770m_6974_0"	"omz_770m_7537_0"	"omz_770m_9463_0"	"omz_770m_1265_0"
+LIPIDXSYNTHESIS-RXN	NIL
+DEOXYRIBOSE-P-ALD-RXN	NIL	"omz_770m_8676_0"
+3-OXOACYL-ACP-REDUCT-RXN	NIL	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+CITRYLY-RXN	"citryl-CoA lyase"	"omz_770m_8661_0"	"omz_770m_3216_0"	"omz_770m_9219_0"	"omz_770m_3120_0"	"omz_770m_4115_0"
+CITC-RXN	NIL
+RXN0-5146	NIL
+2-OXOGLUTARATE-SYNTHASE-RXN	NIL	"omz_770m_9581_0"	"omz_770m_4876_0"	"omz_770m_5048_1"	"omz_770m_6695_0"	"omz_770m_2067_0"	"omz_770m_2366_0"	"omz_770m_11069_0"	"omz_770m_5799_0"	"omz_770m_5446_0"
+RXN-13720	NIL
+2.4.1.142-RXN	NIL
+METHYLMALONYL-COA-MUT-RXN	NIL	"omz_770m_4140_0"	"omz_770m_1726_0"	"omz_770m_7818_0"	"omz_770m_5988_1"	"omz_770m_10229_1"	"omz_770m_8288_0"
+RXNQT-4192	NIL
+6PFRUCTPHOS-RXN	NIL	"omz_770m_7413_0"	"omz_770m_5981_0"	"omz_770m_8105_0"
+2.7.9.3-RXN	NIL	"omz_770m_7289_1"	"omz_770m_6374_0"	"omz_770m_3607_0"	"omz_770m_1442_0"
+LYSINE--TRNA-LIGASE-RXN	NIL	"omz_770m_10060_0"	"omz_770m_6841_0"	"omz_770m_9344_0"	"omz_770m_1015_0"
+RXN-12908	NIL
+RXN-4141	NIL
+RXN-7682	NIL	"omz_770m_6789_0"	"omz_770m_3087_0"	"omz_770m_136_0"	"omz_770m_9669_0"	"omz_770m_1647_0"	"omz_770m_2786_0"	"omz_770m_7478_0"	"omz_770m_1489_0"	"omz_770m_4840_0"	"omz_770m_10764_0"	"omz_770m_987_0"	"omz_770m_5860_0"	"omz_770m_5637_0"	"omz_770m_4880_0"	"omz_770m_7127_1"	"omz_770m_3529_0"	"omz_770m_7208_0"	"omz_770m_8757_1"	"omz_770m_1353_1"
+4-PYRIDOXOLACTONASE-RXN	NIL
+3.1.26.5-RXN	NIL
+CITRULLINASE-RXN	NIL
+3.2.1.33-RXN	NIL
+THREDEHYD-RXN	NIL	"omz_770m_4341_1"	"omz_770m_7688_0"	"omz_770m_7270_0"	"omz_770m_10366_0"
+RXN0-1861	NIL
+GSHTRAN-RXN	NIL	"omz_770m_6403_1"	"omz_770m_5329_1"	"omz_770m_4830_1"	"omz_770m_2121_1"	"omz_770m_2030_1"	"omz_770m_2512_0"
+RXN0-1863	NIL	"omz_770m_8868_1"
+RXN0-1862	NIL
+ENOYL-ACP-REDUCT-NADH-RXN	"2,3,4-saturated-fatty-acid-[acp] reductase"
+3-DEHYDROQUINATE-DEHYDRATASE-RXN	NIL	"omz_770m_10185_2"	"omz_770m_9471_1"	"omz_770m_6505_0"
+RXN-7737	NIL	"omz_770m_9536_0"
+O-SUCCINYLBENZOATE-COA-LIG-RXN	NIL	"omz_770m_3675_1"	"omz_770m_7251_1"	"omz_770m_1536_0"	"omz_770m_5961_0"	"omz_770m_619_0"	"omz_770m_1788_0"
+OHBENZCOARED-RXN	NIL	"omz_770m_6338_1"
+2.7.7.39-RXN	NIL
+2.4.2.27-RXN	NIL
+DGDPKIN-RXN	NIL
+RXN-5781	NIL
+MALIC-NADP-RXN	NIL
+RXN-646	NIL
+3.5.2.18-RXN	NIL
+ALARACECAT-RXN	NIL	"omz_770m_69_0"	"omz_770m_10501_1"
+ATPSYN-RXN	NIL	"omz_770m_2799_0"	"omz_770m_6667_1"	"omz_770m_6667_0"	"omz_770m_2774_1"	"omz_770m_2774_0"	"omz_770m_833_0"	"omz_770m_4566_0"	"omz_770m_3067_0"	"omz_770m_11247_1"	"omz_770m_8836_0"	"omz_770m_8518_1"	"omz_770m_1852_0"	"omz_770m_4390_1"	"omz_770m_4390_0"	"omz_770m_7072_1"	"omz_770m_7072_0"	"omz_770m_4026_0"	"omz_770m_8656_1"	"omz_770m_7974_0"	"omz_770m_7111_0"	"omz_770m_9792_0"	"omz_770m_290_0"	"omz_770m_4737_0"	"omz_770m_7139_1"
+RXN1G-4355	"cerotoyl-CoA carboxylase"	"omz_770m_8786_0"	"omz_770m_975_0"	"omz_770m_10860_0"	"omz_770m_1953_0"	"omz_770m_9670_0"	"omz_770m_8634_0"
+RXN-12708	NIL
+RXN-12709	NIL	"omz_770m_7463_0"	"omz_770m_10411_0"	"omz_770m_6949_0"	"omz_770m_9734_0"
+RXN-12706	"propanoyl-CoA C-acyltransferase"	"omz_770m_8192_0"	"omz_770m_660_0"	"omz_770m_4556_0"
+RXN-12707	NIL
+RXN-4961	NIL
+RXN-11737	NIL	"omz_770m_5727_0"	"omz_770m_8339_0"	"omz_770m_11077_1"	"omz_770m_5594_0"	"omz_770m_1478_0"	"omz_770m_9383_0"	"omz_770m_4462_0"	"omz_770m_311_0"	"omz_770m_9928_0"	"omz_770m_9293_0"	"omz_770m_100_0"	"omz_770m_3543_0"	"omz_770m_10143_1"
+RXN-8003	NIL
+RXN-11733	NIL
+GLUTAMINE--TRNA-LIGASE-RXN	NIL	"omz_770m_6204_0"	"omz_770m_4181_1"	"omz_770m_4181_0"	"omz_770m_6399_1"	"omz_770m_4696_1"	"omz_770m_6876_0"	"omz_770m_105_0"
+RXN-11738	"sulfolactate dehydrogenase"
+MALEYLACETATE-REDUCTASE-RXN	NIL
+PROPIONATE--COA-LIGASE-RXN	NIL	"omz_770m_5906_2"	"omz_770m_4864_0"
+RFFTRANS-RXN	NIL
+R128-RXN	NIL
+5.1.3.20-RXN	NIL	"omz_770m_4475_0"
+ISOLEUCINE--TRNA-LIGASE-RXN	NIL	"omz_770m_3024_0"	"omz_770m_2884_0"
+DADPKIN-RXN	NIL	"omz_770m_7962_0"	"omz_770m_9221_1"
+RXN-8641	NIL
+RXN-8647	"(6E,8Z,11Z,14Z)-(5S)-5-hydroperoxyicosa-6,8,11,14-tetraenoate dehydratase"
+HYDROXYPRODEHYDROG-RXN	"hydroxyproline oxidase"
+1.3.7.3-RXN	NIL
+CATECHOL-12-DIOXYGENASE-RXN	NIL
+24-DIAMINOPENTANOATE-DEHYDROGENASE-RXN	NIL
+LEUKOTRIENE-A4-HYDROLASE-RXN	NIL
+PNPOXI-RXN	NIL
+RXN1G-1637	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+RXN1G-1636	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+RXN1G-1635	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+RXN1G-1634	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+RXN-10087	NIL
+RXN0-723	"CTP reductase"
+URA-PHOSPH-RXN	NIL
+RXN0-724	NIL
+2.6.1.58-RXN	NIL
+2.7.1.90-RXN	NIL	"omz_770m_9837_0"	"omz_770m_4138_1"
+GPPSYN-RXN	NIL	"omz_770m_4033_0"
+KYNURENINE-3-MONOOXYGENASE-RXN	NIL	"omz_770m_5501_1"
+RXN-10061	"3-hydroxycerotyl-[acp] dehydrase"
+RXN-10060	NIL
+RXN-10062	"trans-hexacos-2-enoyl-[acp] reductase"
+RXN3O-4157	NIL
+RXN1G-218	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN1G-94	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+RXN1G-98	"cis-methoxy-meroacyl-AMP transferase"
+PRIBFAICARPISOM-RXN	NIL	"omz_770m_7606_0"	"omz_770m_10594_0"	"omz_770m_1452_0"	"omz_770m_8907_0"	"omz_770m_6797_0"
+THIKIN-RXN	NIL
+FORMIMINOGLUTAMATE-DEIMINASE-RXN	NIL
+FORMYL-COA-HYDROLASE-RXN	NIL
+HEMN-RXN	NIL	"omz_770m_29_1"	"omz_770m_3566_0"	"omz_770m_3562_0"	"omz_770m_8377_0"	"omz_770m_3723_0"	"omz_770m_9741_0"	"omz_770m_8787_0"	"omz_770m_538_0"	"omz_770m_9279_0"	"omz_770m_7096_0"	"omz_770m_4170_1"
+RXN-10462	"acyl-ACP:sn-glycerol-3-phosphate 1-O-acyltransferase"	"omz_770m_11277_0"	"omz_770m_2129_1"	"omz_770m_11164_0"
+R123-RXN	NIL
+HYDROXYPYRUVATE-REDUCTASE-RXN	NIL	"omz_770m_6750_0"	"omz_770m_6647_0"
+HEME-OXYGENASE-DECYCLIZING-RXN	NIL	"omz_770m_5729_0"
+ASPCARBTRANS-RXN	NIL	"omz_770m_6159_1"	"omz_770m_6159_0"	"omz_770m_1886_0"
+SUCCCOASYN-RXN	NIL	"omz_770m_3680_0"	"omz_770m_8228_0"	"omz_770m_9544_0"	"omz_770m_645_1"	"omz_770m_10293_0"	"omz_770m_3120_1"
+ASNSYNB-RXN	NIL	"omz_770m_11333_0"	"omz_770m_7238_0"	"omz_770m_4935_0"	"omz_770m_9880_0"	"omz_770m_4539_0"
+ORNMUTST-RXN	NIL
+RXN-9662	"<i>trans</i> tetradec-2-enoyl-[acp] reductase"	"omz_770m_9135_2"	"omz_770m_11118_0"
+RXN-9663	"<i>trans</i> hexadecenoyl-[acp] reductase"	"omz_770m_9135_2"	"omz_770m_11118_0"
+RXN-9660	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]-reductase"
+RXN-9661	"<i>trans</i> dodec-2-enoyl-[acp] reductase"	"omz_770m_9135_2"	"omz_770m_11118_0"
+RIBOFLAVIN-SYN-RXN	NIL	"omz_770m_6473_1"	"omz_770m_114_0"	"omz_770m_304_2"	"omz_770m_549_0"	"omz_770m_4746_0"	"omz_770m_10922_1"	"omz_770m_6677_0"	"omz_770m_788_0"	"omz_770m_599_0"	"omz_770m_9189_1"
+RXN-9669	NIL
+RXN-9467	NIL
+RXN-9469	NIL
+RXN1G-1015	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+RXN0-4022	NIL	"omz_770m_6353_2"	"omz_770m_1977_1"
+SARCOSINE-DEHYDROGENASE-RXN	NIL	"omz_770m_6062_0"	"omz_770m_8179_1"
+ADENYLOSUCCINATE-SYNTHASE-RXN	NIL	"omz_770m_3367_0"	"omz_770m_5418_0"	"omz_770m_5568_0"	"omz_770m_4730_0"
+RXN-13288	"15-tetracosanal carbonylase"
+RXN-13289	"(<i>Z</i>)-15-tetracosenoyl-CoA reductase"
+RXN-13042	NIL
+RXN-13043	NIL
+RXN-13041	"(-)-camphor 5-monooxygenase"	"omz_770m_6352_0"	"omz_770m_3584_0"
+RXN-13044	NIL
+R309-RXN	"Acrylonitrilase"
+RXN-9204	NIL	"omz_770m_7204_0"	"omz_770m_10611_0"
+RXN-9205	NIL	"omz_770m_5245_0"
+RXN-12082	"L-xylo-3-hexulose reductase"
+RXN66-147	NIL
+RXN1G-72	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+CARBAMATE-KINASE-RXN	NIL
+RXN-7699	NIL	"omz_770m_8374_1"	"omz_770m_2163_0"
+RXN0-4301	NIL
+RXN-7929	NIL	"omz_770m_8661_0"	"omz_770m_3120_0"	"omz_770m_4115_0"
+RXN-7694	"2-methylbutanol dehydrogenase"	"omz_770m_159_0"	"omz_770m_1684_0"	"omz_770m_6029_0"	"omz_770m_10612_0"	"omz_770m_1652_1"	"omz_770m_6732_0"	"omz_770m_7195_0"	"omz_770m_6039_0"
+XANTHINE-OXIDASE-RXN	NIL	"omz_770m_9706_0"
+RXN1G-1278	"cis,cis-delta15,33-3-hydroxyC52:2-[acyl-carrier protein] dehydratase"
+RXN-7922	NIL
+RXN-7693	"3-methylbutanol dehydrogenase"	"omz_770m_159_0"	"omz_770m_1684_0"	"omz_770m_6029_0"	"omz_770m_10612_0"	"omz_770m_1652_1"	"omz_770m_6732_0"	"omz_770m_7195_0"	"omz_770m_6039_0"
+RXN-7692	NIL
+4OH2OXOGLUTARALDOL-RXN	NIL
+RXN-13600	"taxiphyllin &beta;-glucosidase"	"omz_770m_6548_0"	"omz_770m_10930_0"	"omz_770m_6134_0"	"omz_770m_10353_1"
+RXN-13602	"linustatin &beta;-diglucosidase"	"omz_770m_6548_0"	"omz_770m_10930_0"	"omz_770m_6134_0"	"omz_770m_10353_1"
+RXN-13603	"neolinustatin &beta;-diglucosidase"	"omz_770m_6548_0"	"omz_770m_10930_0"	"omz_770m_6134_0"	"omz_770m_10353_1"
+BRANCHED-CHAINAMINOTRANSFERILEU-RXN	"Isoleucine transaminase"	"omz_770m_10026_0"	"omz_770m_7942_0"	"omz_770m_4607_0"	"omz_770m_145_0"	"omz_770m_4701_0"	"omz_770m_9645_1"	"omz_770m_7551_0"	"omz_770m_11132_0"	"omz_770m_780_0"	"omz_770m_1644_2"	"omz_770m_1058_1"	"omz_770m_6360_0"
+RXN-9518	"3-hydroxyhexanoyl-[acyl-carrier protein] reductase"
+RXN0-3922	NIL
+RXN0-3921	NIL
+RXN-9514	"acetoacetyl-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN-9515	"Crotonyl-[acyl-carrier protein] reductase (NADP)"
+RXN-9516	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN1G-582	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+RXN1G-580	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+2.7.7.33-RXN	NIL	"omz_770m_785_0"
+DEHYDOGLUCONOKINASE-RXN	NIL
+RXN-7585	NIL
+6.3.5.7-RXN	NIL	"omz_770m_10186_0"	"omz_770m_3589_0"	"omz_770m_6345_0"	"omz_770m_3205_0"
+RXN-7586	NIL
+RXN1G-349	"3-oxo-arachidoyl-[acp] reductase"
+DIPHTINE--AMMONIA-LIGASE-RXN	NIL
+THRESYN-RXN	NIL	"omz_770m_155_0"	"omz_770m_5959_0"	"omz_770m_9780_0"	"omz_770m_8908_0"	"omz_770m_9152_0"	"omz_770m_11214_1"	"omz_770m_296_0"	"omz_770m_2610_1"	"omz_770m_1370_0"
+RXN-7667	NIL
+RXN66-62	"nicotine oxidase"
+N-FORMYLGLUTAMATE-DEFORMYLASE-RXN	NIL	"omz_770m_8719_1"
+RXN1A0-6297	NIL
+RXN-12391	NIL	"omz_770m_2430_0"
+RIB5PISOM-RXN	NIL	"omz_770m_9176_0"
+TEICHOICSYN3-RXN	NIL
+TAGAALDOL-RXN	NIL
+2.6.1.22-RXN	NIL
+RXN-12399	"xyloglucan XLXG oligosaccharide &beta;-galactosidase"	"omz_770m_7958_0"
+RXN-12398	"xyloglucan XXLG oligosaccharide &beta;-galactosidase"	"omz_770m_7958_0"
+UDPNACETYLMURAMATEDEHYDROG-RXN	NIL
+KDGALDOL-RXN	"5-dehydro-4-deoxy-D-glucarate aldolase"
+RXN0-2301	NIL	"omz_770m_7705_0"
+RXN1G-163	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] reductase"
+2.3.1.80-RXN	NIL
+RXN6666-6	NIL
+RXN6666-7	NIL
+RXN6666-4	NIL	"omz_770m_1736_2"
+RXN6666-5	NIL	"omz_770m_756_0"	"omz_770m_37_0"	"omz_770m_10087_0"	"omz_770m_6180_0"	"omz_770m_10867_0"	"omz_770m_515_0"	"omz_770m_3685_0"	"omz_770m_6943_0"	"omz_770m_9186_0"	"omz_770m_6094_0"	"omz_770m_3123_1"	"omz_770m_4498_0"
+RXN6666-9	NIL
+ACONITATEDEHYDR-RXN	"citrate dehydratase"	"omz_770m_9138_0"	"omz_770m_5934_1"	"omz_770m_4662_0"	"omz_770m_1621_1"	"omz_770m_9390_0"	"omz_770m_5174_0"	"omz_770m_414_0"	"omz_770m_8160_0"
+RXN-12257	NIL
+GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN	NIL
+RXN-12808	NIL
+6.3.4.16-RXN	NIL	"omz_770m_9410_1"	"omz_770m_8853_0"	"omz_770m_8810_0"	"omz_770m_604_0"	"omz_770m_9782_0"	"omz_770m_3762_0"	"omz_770m_3999_0"	"omz_770m_268_0"	"omz_770m_1265_0"
+RXN-12253	NIL	"omz_770m_2629_0"	"omz_770m_10163_1"	"omz_770m_2219_1"
+RXN1G-760	"3-cis,cis-delta17,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+CARNITINE-3-DEHYDROGENASE-RXN	NIL	"omz_770m_10978_0"
+1.3.1.25-RXN	NIL
+CTPSYN-RXN	NIL	"omz_770m_2176_0"	"omz_770m_3421_1"	"omz_770m_151_0"	"omz_770m_6803_0"	"omz_770m_6287_1"	"omz_770m_4206_1"
+2-ISOPROPYLMALATESYN-RXN	NIL	"omz_770m_2500_0"	"omz_770m_2540_0"	"omz_770m_8850_0"	"omz_770m_2063_1"	"omz_770m_4395_0"	"omz_770m_9949_0"	"omz_770m_2067_1"	"omz_770m_2701_0"
+ISOCIT-CLEAV-RXN	NIL	"omz_770m_487_2"
+RXN-12736	"propanal dehydrogenase (acetylating)"
+RXN-12735	"4-hydroxy-2-oxohexanoate aldolase"
+RXN-12734	NIL
+CATECHOL-23-DIOXYGENASE-RXN	NIL	"omz_770m_9002_0"
+RXN-12730	NIL	"omz_770m_9200_1"	"omz_770m_6828_1"	"omz_770m_6944_2"	"omz_770m_3871_0"	"omz_770m_2966_0"	"omz_770m_3747_0"	"omz_770m_11423_0"	"omz_770m_2156_1"
+ALCOHOL-DEHYDROG-RXN	"ethanol dehydrogenase"	"omz_770m_159_0"	"omz_770m_1684_0"	"omz_770m_6029_0"	"omz_770m_10612_0"	"omz_770m_1652_1"	"omz_770m_6732_0"	"omz_770m_7195_0"	"omz_770m_6039_0"
+RXN-8076	NIL
+RXN-8077	NIL
+CARBOXYMETHYLENEBUTENOLIDASE-RXN	NIL	"omz_770m_1536_1"	"omz_770m_3179_0"	"omz_770m_3138_0"
+RXN-8078	NIL	"omz_770m_8929_0"
+RXN-8079	NIL	"omz_770m_3658_0"	"omz_770m_10698_0"
+RXN-8469	NIL
+UDPREDUCT-RXN	NIL	"omz_770m_11002_0"
+RXN-12063	"<i>N,N</i>-dihydroxy-L-tryptophan carboxy-lyase"
+RXN-745	NIL
+RXN-10891	NIL	"omz_770m_2298_0"
+1.2.1.45-RXN	NIL
+RXN-8675	"precorrin-1 <em>C</em>-methyltransferase"	"omz_770m_7783_0"	"omz_770m_1391_0"
+RXN1G-912	"cis-delta17-3-hydroxyC36:1-[acyl-carrier protein] dehydratase"
+PROPIONATE-COA-TRANSFERASE-RXN	NIL
+SHIKIMATE-5-DEHYDROGENASE-RXN	NIL	"omz_770m_5517_0"	"omz_770m_4862_1"
+COBALAMIN5PSYN-RXN	NIL	"omz_770m_4141_0"
+L-GULONOLACTONE-OXIDASE-RXN	"<small>L</small>-gulonolactone oxidase"
+UDP-NACMURALA-GLU-LIG-RXN	NIL	"omz_770m_4833_0"	"omz_770m_2065_0"
+RXN-8106	NIL
+5-DEHYDRO-2-DEOXYGLUCONOKINASE-RXN	NIL	"omz_770m_9284_2"
+ASPARTATEKIN-RXN	NIL	"omz_770m_4251_0"	"omz_770m_3992_0"	"omz_770m_8185_0"	"omz_770m_4527_0"	"omz_770m_4223_0"
+MYO-INOSOSE-2-DEHYDRATASE-RXN	NIL
+H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN	NIL
+RXN-10096	"4,6-dichloro-3-methylcatechol dioxygenase"
+RXN-10090	"2,4-dichlorotoluene dioxygenase"
+BUTYRATE-KINASE-RXN	NIL
+RXN-10093	"2,4-dichlorotoluene dihydrodiol dehydrogenase"
+RXN3DJ-64	NIL
+1.1.1.64-RXN	NIL
+RXN-10099	NIL	"omz_770m_6562_0"
+RXN-10656	NIL
+RXN-10657	NIL
+RXN-10654	NIL	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN-10655	NIL	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN-10658	NIL
+RXN-10659	NIL
+CYSPH-RXN	NIL
+RXN-10078	"4-methylsalicylate hydroxylase"	"omz_770m_1728_1"	"omz_770m_6178_1"
+PROTOCATECHUATE-45-DIOXYGENASE-RXN	NIL	"omz_770m_7706_1"
+ERYTHRONOLIDE-SYNTHASE-RXN	NIL	"omz_770m_10145_0"	"omz_770m_1718_0"
+2.1.1.103-RXN	NIL
+ACETYL-COA-HYDROLASE-RXN	NIL	"omz_770m_6019_0"
+PHOSPHONOACETALDEHYDE-HYDROLASE-RXN	NIL	"omz_770m_5683_0"	"omz_770m_1796_0"	"omz_770m_7407_1"
+RXN1G-89	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+GAPOXNPHOSPHN-RXN	NIL	"omz_770m_2212_0"	"omz_770m_541_0"	"omz_770m_919_1"	"omz_770m_7993_0"	"omz_770m_2946_0"
+R63-RXN	NIL
+ARYLFORMAMIDASE-RXN	NIL
+GLUTATHIONE-REDUCT-NADPH-RXN	NIL	"omz_770m_7371_1"	"omz_770m_9448_0"	"omz_770m_7311_0"
+RXN-9157	NIL	"omz_770m_309_0"	"omz_770m_10192_1"	"omz_770m_8035_0"	"omz_770m_722_0"	"omz_770m_3430_1"	"omz_770m_311_1"	"omz_770m_11235_0"	"omz_770m_1540_0"
+RXN1G-1152	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+RXN490-3616	"Aspartate--tRNA ligase"
+RXN1G-1150	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+RXN1G-1151	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+AICARSYN-RXN	NIL	"omz_770m_2620_0"	"omz_770m_10404_0"	"omz_770m_5150_0"	"omz_770m_3712_0"
+ACETALD-DEHYDROG-RXN	NIL	"omz_770m_4183_0"	"omz_770m_3584_1"
+FUMHYDR-RXN	NIL	"omz_770m_2689_0"	"omz_770m_6093_0"
+SERINE--TRNA-LIGASE-RXN	NIL	"omz_770m_3590_0"	"omz_770m_4109_2"	"omz_770m_6320_0"	"omz_770m_2264_0"
+TYROSINE--TRNA-LIGASE-RXN	NIL	"omz_770m_5877_0"
+RXN-8926	NIL
+RXN-2364	NIL	"omz_770m_4003_0"	"omz_770m_9535_0"	"omz_770m_468_0"	"omz_770m_4256_0"
+RXN-9674	NIL	"omz_770m_6548_0"	"omz_770m_10930_0"	"omz_770m_6134_0"	"omz_770m_10353_1"
+3.4.11.1-RXN	NIL	"omz_770m_2397_0"	"omz_770m_3381_0"	"omz_770m_3149_1"
+ADENPRIBOSYLTRAN-RXN	NIL	"omz_770m_10067_0"	"omz_770m_4345_1"	"omz_770m_4815_0"	"omz_770m_5025_0"
+RXN-9670	NIL
+RXN-9673	NIL	"omz_770m_3021_0"	"omz_770m_7949_0"	"omz_770m_460_1"	"omz_770m_5967_0"	"omz_770m_5077_0"	"omz_770m_8565_0"	"omz_770m_9633_1"	"omz_770m_2468_0"	"omz_770m_10169_0"	"omz_770m_2157_0"	"omz_770m_9875_1"
+RXN3O-73	NIL
+RXN3O-75	NIL
+RXN-9471	NIL
+RXN-9470	NIL
+PHENYLALANINE--TRNA-LIGASE-RXN	NIL	"omz_770m_7298_0"	"omz_770m_7750_0"	"omz_770m_9969_0"	"omz_770m_7198_0"	"omz_770m_6924_0"	"omz_770m_1809_0"	"omz_770m_1863_1"	"omz_770m_10300_0"
+METHIONINE-S-METHYLTRANSFERASE-RXN	NIL
+3.1.2.21-RXN	NIL
+IPPISOM-RXN	NIL
+CYSTATHIONINE-BETA-LYASE-RXN	NIL	"omz_770m_11249_1"	"omz_770m_1977_0"
+HOMOCYSMET-RXN	NIL	"omz_770m_9200_1"	"omz_770m_6828_1"	"omz_770m_6944_2"	"omz_770m_3871_0"	"omz_770m_2966_0"	"omz_770m_3747_0"	"omz_770m_11423_0"	"omz_770m_2156_1"
+RXN-13077	NIL
+RXN-13076	"nicotine dehydrogenase"
+RXN1G-820	"trans-delta2-cis,cis-delta17,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-299	"trans-delta2-cis-delta13-C32:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+SUCROSE-SYNTHASE-RXN	"Sucrose synthase"
+RXN-9217	NIL	"omz_770m_7204_0"	"omz_770m_10611_0"
+RXN66-142	NIL
+RXN66-141	NIL
+SUCROSE-PHOSPHATASE-RXN	NIL
+DALADALALIG-RXN	NIL	"omz_770m_6933_0"	"omz_770m_7509_1"	"omz_770m_10798_1"
+RXN66-146	NIL
+RXN66-145	NIL
+RXN66-144	NIL
+2-NITROPROPANE-DIOXYGENASE-RXN	NIL	"omz_770m_5809_0"	"omz_770m_3397_0"	"omz_770m_509_1"
+SUCCGLUALDDEHYD-RXN	NIL	"omz_770m_3584_1"
+CDPREDUCT-RXN	NIL	"omz_770m_11002_0"
+RXN0-2142	NIL	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN-7913	NIL	"omz_770m_10752_0"	"omz_770m_4782_0"	"omz_770m_6738_1"	"omz_770m_7995_1"	"omz_770m_2123_1"	"omz_770m_1673_1"
+2.4.1.83-RXN	NIL	"omz_770m_5374_0"	"omz_770m_8217_0"	"omz_770m_277_0"	"omz_770m_6285_0"	"omz_770m_6108_0"
+RXN-7668	NIL	"omz_770m_10578_1"
+RXN-7669	"1,4-&alpha;-glucan branching enzyme"	"omz_770m_1702_0"	"omz_770m_10557_0"	"omz_770m_10705_0"	"omz_770m_8731_0"
+GMP-SYN-GLUT-RXN	NIL	"omz_770m_2238_1"	"omz_770m_9545_0"	"omz_770m_3318_0"	"omz_770m_2608_1"	"omz_770m_2246_0"	"omz_770m_6523_0"	"omz_770m_7441_0"	"omz_770m_4225_0"	"omz_770m_411_1"	"omz_770m_11166_1"	"omz_770m_11166_0"	"omz_770m_11190_0"
+RXN1G-220	"cis,cis-delta17,35-3-hydroxyC54:2-[acyl-carrier protein] dehydratase"
+RXN0-1461	NIL	"omz_770m_4936_1"	"omz_770m_3328_0"	"omz_770m_8022_0"
+RXN-12255	NIL
+RXNI-2	"acetoacetate CoA-transferase"	"omz_770m_2155_0"
+RXNI-3	NIL
+RXN-12250	NIL
+RXN-12251	NIL
+RXN-982	NIL	"omz_770m_6106_1"	"omz_770m_2063_0"	"omz_770m_2801_1"
+RXN1A0-6305	NIL
+RXN1A0-6307	NIL
+RXN-12259	NIL
+RXN1A0-6303	NIL	"omz_770m_9580_0"	"omz_770m_50_0"	"omz_770m_9335_1"	"omz_770m_7468_0"	"omz_770m_7329_0"
+RXN1A0-6302	NIL
+RXN-13678	NIL
+RXN-13675	NIL
+RXN-13677	NIL	"omz_770m_8501_0"	"omz_770m_628_0"	"omz_770m_5756_0"	"omz_770m_10123_0"
+RXN1G-915	"trans-delta2-cis,cis-delta11,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-13673	NIL	"omz_770m_6403_1"	"omz_770m_5329_1"	"omz_770m_4830_1"	"omz_770m_2121_1"	"omz_770m_2030_1"	"omz_770m_2512_0"
+2.3.1.179-RXN	NIL	"omz_770m_1882_0"
+RXN-9508	NIL	"omz_770m_8804_0"
+TSA-REDUCT-RXN	NIL	"omz_770m_8439_0"
+ALDOSE1EPIM-RXN	"D-galactose 1-epimerase"	"omz_770m_2271_0"
+ERYTH4PDEHYDROG-RXN	NIL
+GLUCONATE-2-DEHYDROGENASE-RXN	NIL	"omz_770m_5692_0"
+UROGENDECARBOX-RXN	NIL	"omz_770m_9232_0"
+CITRATE-PRO-3S-LYASE-THIOLESTERASE-RXN	NIL
+DTDPGLUCDEHYDRAT-RXN	NIL	"omz_770m_3943_0"	"omz_770m_10738_0"	"omz_770m_4213_0"	"omz_770m_3338_0"	"omz_770m_7931_0"	"omz_770m_2915_1"
+RXN1G-355	"cis-delta21-3-hydroxyC40:1-[acyl-carrier protein] dehydratase"
+RXN1G-358	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] reductase"
+5.4.2.10-RXN	NIL	"omz_770m_9056_0"	"omz_770m_4720_1"	"omz_770m_4052_0"	"omz_770m_9357_2"	"omz_770m_9357_0"
+LEUKOTRIENE-C4-SYNTHASE-RXN	NIL
+RXN-12384	NIL
+RXN-7719	"dihydrolipoyl dehydrogenase"	"omz_770m_11226_0"	"omz_770m_1732_1"	"omz_770m_8546_0"	"omz_770m_1060_0"	"omz_770m_4890_0"	"omz_770m_1909_1"	"omz_770m_3680_1"	"omz_770m_7035_0"	"omz_770m_83_0"	"omz_770m_1891_1"	"omz_770m_6176_0"	"omz_770m_3909_0"	"omz_770m_3122_0"
+PYRIDOXINE-4-OXIDASE-RXN	NIL
+RXN-7710	NIL	"omz_770m_1702_0"	"omz_770m_10557_0"	"omz_770m_10705_0"	"omz_770m_8731_0"
+RXN-7716	"dihydrolipoyl dehydrogenase"	"omz_770m_11226_0"	"omz_770m_1732_1"	"omz_770m_8546_0"	"omz_770m_1060_0"	"omz_770m_4890_0"	"omz_770m_1909_1"	"omz_770m_3680_1"	"omz_770m_7035_0"	"omz_770m_83_0"	"omz_770m_1891_1"	"omz_770m_6176_0"	"omz_770m_3909_0"	"omz_770m_3122_0"
+GLUCOSE-1-DEHYDROGENASE-RXN	NIL	"omz_770m_6913_0"
+RXN-8809	NIL	"omz_770m_3184_0"	"omz_770m_6565_0"
+AGMATIN-RXN	NIL	"omz_770m_2777_1"	"omz_770m_669_1"	"omz_770m_10284_0"	"omz_770m_5221_0"	"omz_770m_10951_1"	"omz_770m_8785_0"
+RXN1G-172	"cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+RXN1G-171	"trans-delta2-cis-delta5-C24:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+THREONINE--TRNA-LIGASE-RXN	NIL	"omz_770m_2483_0"	"omz_770m_2889_0"	"omz_770m_3601_0"
+4-HYDROXYBENZOATE-3-MONOOXYGENASE-RXN	NIL	"omz_770m_4499_0"
+ACETYLGLUTKIN-RXN	NIL	"omz_770m_7609_0"	"omz_770m_1878_1"	"omz_770m_293_1"
+RXN-1223	NIL	"omz_770m_6769_0"
+RXN-1224	NIL
+UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN	NIL
+RXN-1884	NIL
+RXN-1882	NIL
+3.1.3.56-RXN	NIL
+RXN-8036	NIL	"omz_770m_6548_0"	"omz_770m_10930_0"	"omz_770m_6134_0"	"omz_770m_10353_1"
+3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	NIL	"omz_770m_8563_1"	"omz_770m_2414_0"
+DIHYDROKAEMPFEROL-4-REDUCTASE-RXN	NIL	"omz_770m_9269_1"
+URIDINEKIN-RXN	NIL	"omz_770m_708_1"
+3.5.1.29-RXN	NIL
+3.2.1.141-RXN	NIL	"omz_770m_9368_0"
+RXN1G-576	"&alpha;-meroacyl transferase"
+RXN-12720	NIL	"omz_770m_8662_0"	"omz_770m_10275_0"	"omz_770m_4394_0"	"omz_770m_1411_0"	"omz_770m_9161_0"	"omz_770m_4318_1"	"omz_770m_3537_1"	"omz_770m_10695_1"	"omz_770m_2165_0"	"omz_770m_10480_1"	"omz_770m_5965_0"	"omz_770m_3667_0"	"omz_770m_1033_1"	"omz_770m_11233_0"	"omz_770m_1451_0"	"omz_770m_2467_0"	"omz_770m_1625_0"	"omz_770m_3143_0"	"omz_770m_2707_0"	"omz_770m_2153_0"
+RXN-12721	NIL
+RXN-12726	NIL	"omz_770m_792_1"	"omz_770m_4647_0"	"omz_770m_10218_0"	"omz_770m_11341_0"	"omz_770m_284_1"	"omz_770m_2850_0"	"omz_770m_4021_1"
+RXN-12728	NIL
+RXN-12729	NIL	"omz_770m_11249_1"	"omz_770m_1977_0"
+THIAZOLSYN2-RXN	NIL
+CATECHOL-2-3-DIOXYGENASE-RXN	"Methylcatechol 2,3-dioxygenase"	"omz_770m_9002_0"
+RXN-1082	NIL	"omz_770m_10144_0"
+RXN-1083	NIL
+VALINE--TRNA-LIGASE-RXN	NIL	"omz_770m_10386_0"	"omz_770m_9207_0"	"omz_770m_8219_0"	"omz_770m_1399_0"	"omz_770m_10171_0"	"omz_770m_7972_0"	"omz_770m_1195_0"
+RXN-2622	NIL
+RXN-2621	NIL
+R233-RXN	NIL
+RXN-10711	NIL	"omz_770m_2629_0"	"omz_770m_10163_1"	"omz_770m_2219_1"
+RXN-10717	"indole acetaldehyde reductase"	"omz_770m_1070_0"
+RXN-10715	"indole acetaldehyde dehydrogenase"	"omz_770m_756_0"	"omz_770m_37_0"	"omz_770m_10087_0"	"omz_770m_6180_0"	"omz_770m_10867_0"	"omz_770m_515_0"	"omz_770m_3685_0"	"omz_770m_6943_0"	"omz_770m_9186_0"	"omz_770m_6094_0"	"omz_770m_3123_1"	"omz_770m_4498_0"
+RXN-11620	NIL
+RXN-11622	NIL	"omz_770m_8833_0"	"omz_770m_2431_1"	"omz_770m_7227_1"
+NMNAMIDOHYDRO-RXN	NIL
+12-OXOPHYTODIENOATE-REDUCTASE-RXN	NIL
+PYRUVDEH-RXN	NIL
+RXN-5341	NIL	"omz_770m_6548_0"	"omz_770m_10930_0"	"omz_770m_6134_0"	"omz_770m_10353_1"
+GLYOXII-RXN	"Hydroxyacylglutathione hydrolase"	"omz_770m_5215_1"	"omz_770m_6397_0"	"omz_770m_7100_0"	"omz_770m_5509_1"
+MMUM-RXN	NIL	"omz_770m_468_1"	"omz_770m_1635_0"
+RXN1F-19	NIL
+RXN1G-686	"trans-delta2-cis,cis-delta9,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-1403	NIL
+RXN-1401	"tryptamine oxidase"	"omz_770m_1736_2"
+RXN-1406	NIL
+RXN-1404	NIL	"omz_770m_9749_0"	"omz_770m_9465_0"
+ORNITHINE-GLU-AMINOTRANSFORASE-RXN	"Ornithine--oxo-glutarate aminotransferase"
+L-LYSINE-AMINOTRANSFERASE-RXN	NIL	"omz_770m_3255_0"
+1.17.99.1-RXN	NIL
+RXN1G-1004	"3-cis,cis-delta19,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+RXN-10661	NIL
+RXN-10660	NIL
+RXN-11246	NIL	"omz_770m_620_0"	"omz_770m_8053_0"	"omz_770m_3454_0"	"omz_770m_2289_0"	"omz_770m_10127_0"
+GLUTDECARBOX-RXN	NIL	"omz_770m_7259_0"
+RXN-11244	NIL	"omz_770m_7642_0"	"omz_770m_4362_1"	"omz_770m_5856_1"	"omz_770m_5851_1"	"omz_770m_5811_1"	"omz_770m_5815_1"	"omz_770m_10542_1"	"omz_770m_10137_0"	"omz_770m_9402_0"	"omz_770m_3337_0"	"omz_770m_11288_1"	"omz_770m_9311_0"	"omz_770m_3556_0"	"omz_770m_7898_0"	"omz_770m_3776_0"	"omz_770m_9618_1"	"omz_770m_962_0"	"omz_770m_8374_1"	"omz_770m_2163_0"
+RXN-11245	NIL	"omz_770m_7463_0"	"omz_770m_10411_0"	"omz_770m_6949_0"	"omz_770m_9734_0"
+AMINEPHEN-RXN	NIL
+RXN0-901	NIL	"omz_770m_6789_0"	"omz_770m_3087_0"	"omz_770m_136_0"	"omz_770m_9669_0"	"omz_770m_1647_0"	"omz_770m_2786_0"	"omz_770m_7478_0"	"omz_770m_1489_0"	"omz_770m_4840_0"	"omz_770m_10764_0"	"omz_770m_987_0"	"omz_770m_5860_0"	"omz_770m_5637_0"	"omz_770m_4880_0"	"omz_770m_7127_1"	"omz_770m_3529_0"	"omz_770m_7208_0"	"omz_770m_8757_1"	"omz_770m_1353_1"
+GLUTRACE-RXN	NIL
+RXN1G-1149	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+GLYCEROL-KIN-RXN	NIL	"omz_770m_10592_0"	"omz_770m_1412_0"	"omz_770m_2709_0"	"omz_770m_502_0"	"omz_770m_1971_0"
+RXN-9971	NIL
+UGD-RXN	NIL	"omz_770m_3963_0"	"omz_770m_9679_0"	"omz_770m_2064_0"	"omz_770m_3793_0"	"omz_770m_4127_0"	"omz_770m_3472_0"	"omz_770m_7911_0"	"omz_770m_8543_0"	"omz_770m_8365_0"	"omz_770m_11028_0"
+PGLYCDEHYDROG-RXN	NIL	"omz_770m_8240_0"	"omz_770m_8270_1"	"omz_770m_3065_0"	"omz_770m_379_0"	"omz_770m_6583_0"	"omz_770m_1350_0"	"omz_770m_6629_0"	"omz_770m_8524_0"
+RXN0-4222	NIL	"omz_770m_9976_0"	"omz_770m_4089_0"	"omz_770m_11267_0"	"omz_770m_11037_0"	"omz_770m_2016_0"
+DARAB5PISOM-RXN	NIL	"omz_770m_5244_0"
+ACETOLACTREDUCTOISOM-RXN	"ketol-acid reductoisomerase"	"omz_770m_11039_1"	"omz_770m_1122_0"	"omz_770m_670_1"	"omz_770m_8799_0"	"omz_770m_8209_0"	"omz_770m_7879_0"
+RXN-9190	NIL
+RXN-9191	NIL	"omz_770m_5245_0"
+KETOACYLCOATHIOL-RXN	NIL	"omz_770m_620_0"	"omz_770m_8053_0"	"omz_770m_3454_0"	"omz_770m_2289_0"	"omz_770m_10127_0"
+DUTP-PYROP-RXN	NIL	"omz_770m_8299_0"	"omz_770m_4071_0"	"omz_770m_5261_0"	"omz_770m_4158_1"
+PALMITOYL-COA-HYDROLASE-RXN	NIL
+1.2.1.66-RXN	NIL	"omz_770m_2817_0"
+GALACTARDEHYDRA-RXN	NIL	"omz_770m_4439_0"
+ARGSUCCINLYA-RXN	NIL	"omz_770m_4007_0"	"omz_770m_9106_0"	"omz_770m_142_0"	"omz_770m_1889_2"
+RXN-13111	"1-methylxanthine demethylase"
+L-ASPARTATE-OXID-RXN	NIL	"omz_770m_6478_0"	"omz_770m_7968_0"	"omz_770m_1811_0"	"omz_770m_6110_0"
+RXN-9228	NIL
+RXN-9229	"3-demethylubiquinone-7 3-O-methyltransferase"
+RXN-9222	NIL	"omz_770m_5969_0"
+RXN-9995	NIL
+PHOSPHO-DETHIO-RXN	NIL
+RXN-9226	NIL
+RXN-9227	"2-heptaprenyl-6-methoxy-1,4-benzoquinone methyltransferase"
+INOSINE-NUCLEOSIDASE-RXN	NIL
+UDP-NACMURALGLDAPLIG-RXN	NIL	"omz_770m_1476_2"	"omz_770m_9085_1"
+HISTPRATPHYD-RXN	NIL	"omz_770m_2417_1"
+RXN1G-53	"trans-delta2-cis-delta21-C40:2-[acyl-carrier protein] reductase"
+RXN-7904	NIL	"omz_770m_3021_0"	"omz_770m_7949_0"	"omz_770m_460_1"	"omz_770m_5967_0"	"omz_770m_5077_0"	"omz_770m_8565_0"	"omz_770m_9633_1"	"omz_770m_2468_0"	"omz_770m_10169_0"	"omz_770m_2157_0"	"omz_770m_9875_1"
+RXN1G-210	"trans-delta2-cis-delta11-C30:2[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-214	"cis,cis-delta5,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN66-336	"leukotriene-C4 gamma-glutamyl transferase"	"omz_770m_309_0"	"omz_770m_10192_1"	"omz_770m_8035_0"	"omz_770m_722_0"	"omz_770m_3430_1"	"omz_770m_311_1"	"omz_770m_11235_0"	"omz_770m_1540_0"
+DHSHIKIMATE-DEHYDRO-RXN	NIL
+RXN-7909	NIL
+RXN-7908	NIL	"omz_770m_8645_1"	"omz_770m_5267_1"
+AICARTRANSFORM-RXN	NIL	"omz_770m_603_1"	"omz_770m_9201_0"	"omz_770m_7170_0"	"omz_770m_9011_1"
+RXN1A0-6312	NIL
+2-OCTAPRENYLPHENOL-HYDROX-RXN	NIL
+RXN1A0-6310	NIL
+ALLENE-OXIDE-CYCLASE-RXN	NIL
+RXN1A0-6316	NIL
+TETRAACYLDISACC4KIN-RXN	NIL	"omz_770m_2834_0"	"omz_770m_8283_1"
+PHOSPHAGLYPSYN-RXN	NIL	"omz_770m_4066_0"	"omz_770m_8665_1"	"omz_770m_519_0"	"omz_770m_1094_1"
+RXN-13394	"4-hydroxybenzaldehyde dehydrogenase"
+RXN-13392	"3-(4-hydroxyphenyl)-3-hydroxy-propionyl-CoA aldolase"
+TIGLYLCOA-HYDROXY-RXN	"Tiglyl-CoA hydratase"	"omz_770m_7642_0"	"omz_770m_4362_1"	"omz_770m_5856_1"	"omz_770m_5851_1"	"omz_770m_5811_1"	"omz_770m_5815_1"	"omz_770m_10542_1"	"omz_770m_10137_0"	"omz_770m_9402_0"	"omz_770m_3337_0"	"omz_770m_11288_1"	"omz_770m_9311_0"	"omz_770m_3556_0"	"omz_770m_7898_0"	"omz_770m_3776_0"	"omz_770m_9618_1"	"omz_770m_962_0"	"omz_770m_8374_1"	"omz_770m_2163_0"
+2.6.1.37-RXN	NIL	"omz_770m_4919_1"
+RXN1G-962	"trans-delta2-cis-delta17-C36:2-[acyl-carrier protein] reductase"
+RXN0-3901	NIL	"omz_770m_8087_0"	"omz_770m_389_0"
+RXN-9538	"<i>trans</i> tetradec-2-enoyl-[acyl-carrier-protein] reductase (NADPH, B-specific)"
+RXN-9539	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN-9536	"3-oxo-meristoyl-[acyl-carrier protein] reductase"
+RXN-9537	"3-hydroxymyristoyl-[acyl-carrier protein] dehydratase"
+RXN-9534	"<i>trans</i> dodec-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+4-COUMARATE--COA-LIGASE-RXN	NIL
+NAD-SYNTH-GLN-RXN	NIL	"omz_770m_8030_0"	"omz_770m_8740_0"	"omz_770m_4100_0"	"omz_770m_3982_0"
+RXN-9533	"3-hydroxydodecanoyl-[acyl-carrier protein] dehydratase"
+RXN-9530	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]reductase (NADPH, B-specific)"
+RXN-9531	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+PHOSACETYLGLUCOSAMINEMUT-RXN	NIL
+ASPARAGINE--TRNA-LIGASE-RXN	NIL	"omz_770m_11010_0"	"omz_770m_10912_0"
+TRANSALDOL-RXN	NIL	"omz_770m_2909_1"	"omz_770m_10346_0"	"omz_770m_1145_0"	"omz_770m_2553_0"
+R542-RXN	NIL
+RXN1G-364	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN1G-363	"3-hydroxybehenoyl-[acyl-carrier protein] dehydratase"
+DTDPDEHYRHAMREDUCT-RXN	NIL	"omz_770m_8147_0"
+UDPACYLGLCNACDEACETYL-RXN	NIL	"omz_770m_2750_0"	"omz_770m_2351_0"	"omz_770m_1868_0"
+RXN1G-368	"3-oxo-arachidoyl-[acp] synthase"
+R122-RXN	NIL	"omz_770m_1273_1"
+RXN-12625	"<i>N,N'</i>-diacetylchitobiose &beta;-<i>N</i>-acetylglucosaminidase"	"omz_770m_8833_0"	"omz_770m_2431_1"	"omz_770m_7227_1"
+RXN-12624	"chitotriose synthase"	"omz_770m_148_0"
+RXN-12627	NIL
+RXN-12626	"chitotriose &beta;-<i>N</i>-acetylglucosaminidase"	"omz_770m_8833_0"	"omz_770m_2431_1"	"omz_770m_7227_1"
+RXN-12621	NIL
+RXN-12623	"<i>N,N'</i>-diacetylchitobiose synthase"	"omz_770m_148_0"
+RXN1G-2544	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+HYDROXYBENZALDEHYDE-OXIDATION-NAD-RXN	NIL
+RXN-13718	"(+)-taxifolin 5'-hydroxylase"
+METHYLENETHFDEHYDROG-NADP-RXN	NIL	"omz_770m_362_0"	"omz_770m_2470_0"	"omz_770m_4705_0"	"omz_770m_572_0"	"omz_770m_4775_0"	"omz_770m_2633_0"
+NAG1P-URIDYLTRANS-RXN	NIL	"omz_770m_9640_0"
+RXN-7708	"methionine--phenylpyruvate transaminase"
+RXN-7703	NIL
+RXN-7700	"2-phenylethanol dehydrogenase"	"omz_770m_159_0"	"omz_770m_1684_0"	"omz_770m_6029_0"	"omz_770m_10612_0"	"omz_770m_1652_1"	"omz_770m_6732_0"	"omz_770m_7195_0"	"omz_770m_6039_0"
+RXN-7706	"methionol dehydrogenase"	"omz_770m_159_0"	"omz_770m_1684_0"	"omz_770m_6029_0"	"omz_770m_10612_0"	"omz_770m_1652_1"	"omz_770m_6732_0"	"omz_770m_7195_0"	"omz_770m_6039_0"
+ACETYL-COA-ACETYLTRANSFER-RXN	NIL	"omz_770m_7648_0"	"omz_770m_2296_0"	"omz_770m_5188_1"	"omz_770m_303_1"	"omz_770m_571_0"	"omz_770m_2097_0"	"omz_770m_5205_0"	"omz_770m_3304_1"	"omz_770m_3304_0"
+RXN-7704	NIL
+UDPGLUCEPIM-RXN	NIL	"omz_770m_9111_1"	"omz_770m_3171_0"	"omz_770m_9877_1"	"omz_770m_9643_1"	"omz_770m_3498_1"	"omz_770m_10362_0"	"omz_770m_4551_0"	"omz_770m_2745_1"	"omz_770m_375_1"	"omz_770m_824_1"	"omz_770m_2491_1"	"omz_770m_7977_1"	"omz_770m_11250_0"	"omz_770m_8847_0"	"omz_770m_7870_0"	"omz_770m_4170_0"	"omz_770m_7858_0"
+GLYCOGEN-BRANCH-RXN	NIL	"omz_770m_1702_0"	"omz_770m_10557_0"	"omz_770m_10705_0"	"omz_770m_8731_0"
+CARBPSYN-RXN	NIL	"omz_770m_8666_0"	"omz_770m_8810_1"	"omz_770m_838_0"	"omz_770m_10658_0"	"omz_770m_11133_0"	"omz_770m_3890_0"	"omz_770m_4074_1"	"omz_770m_4822_0"	"omz_770m_9463_0"	"omz_770m_1265_0"
+RXN1G-3232	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+RXN-12533	NIL
+PSEUDOURIDINE-KINASE-RXN	NIL
+RXN-12534	NIL
+ENOYL-COA-HYDRAT-RXN	NIL	"omz_770m_7642_0"	"omz_770m_4362_1"	"omz_770m_5856_1"	"omz_770m_5851_1"	"omz_770m_5811_1"	"omz_770m_5815_1"	"omz_770m_10542_1"	"omz_770m_10137_0"	"omz_770m_9402_0"	"omz_770m_3337_0"	"omz_770m_11288_1"	"omz_770m_9311_0"	"omz_770m_3556_0"	"omz_770m_7898_0"	"omz_770m_3776_0"	"omz_770m_9618_1"	"omz_770m_962_0"	"omz_770m_8374_1"	"omz_770m_2163_0"
+RXN0-5199	"guanosine phosphorylase"
+4.1.1.80-RXN	NIL
+RXN-12280	NIL
+RXN1G-248	"trans-delta2-cis,cis-delta5,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+1TRANSKETO-RXN	NIL	"omz_770m_2797_0"	"omz_770m_10040_0"	"omz_770m_9133_0"	"omz_770m_4788_0"	"omz_770m_10647_0"	"omz_770m_6959_0"	"omz_770m_10554_1"	"omz_770m_4468_1"	"omz_770m_2043_0"	"omz_770m_2915_0"	"omz_770m_3340_1"	"omz_770m_2996_0"	"omz_770m_928_0"	"omz_770m_1727_1"
+ORNITHINE-RACEMASE-RXN	NIL
+GLUCDEHYDROG-RXN	NIL	"omz_770m_2793_0"	"omz_770m_11315_0"	"omz_770m_3671_0"	"omz_770m_9273_0"	"omz_770m_6913_0"
+RXN-7250	NIL
+HYDROXYMETHYLGLUTARYL-COA-REDUCTASE-RXN	NIL	"omz_770m_6619_1"
+CHORISMATEMUT-RXN	NIL	"omz_770m_8286_0"
+O-CRESOL-METHYLCATECHOL-RXN	"methylphenol monooxygenase"
+RXN-10911	"3,4-dihydroxyphenylglycolaldehyde reductase"	"omz_770m_159_0"	"omz_770m_1684_0"	"omz_770m_6029_0"	"omz_770m_10612_0"	"omz_770m_1652_1"	"omz_770m_6732_0"	"omz_770m_7195_0"	"omz_770m_6039_0"
+RXN-10910	"normetanephrine oxidase"	"omz_770m_1736_2"
+RXN-10913	"metanephrine oxidase"	"omz_770m_1736_2"
+RXN-10912	"3,4-dihydroxyphenylglycolaldehyde dehydrogenase"	"omz_770m_756_0"	"omz_770m_37_0"	"omz_770m_10087_0"	"omz_770m_6180_0"	"omz_770m_10867_0"	"omz_770m_515_0"	"omz_770m_3685_0"	"omz_770m_6943_0"	"omz_770m_9186_0"	"omz_770m_6094_0"	"omz_770m_3123_1"	"omz_770m_4498_0"
+RXN-10915	"3,4-dihydroxyphenylglycol dehydrogenase"	"omz_770m_159_0"	"omz_770m_1684_0"	"omz_770m_6029_0"	"omz_770m_10612_0"	"omz_770m_1652_1"	"omz_770m_6732_0"	"omz_770m_7195_0"	"omz_770m_6039_0"
+RXN-10914	"3,4-dihydroxyphenylglycol <i>O</i>-methyltransferase"
+RXN-10917	"3-methoxy-4-hydroxyphenylglycolaldehyde dehydrogenase"	"omz_770m_756_0"	"omz_770m_37_0"	"omz_770m_10087_0"	"omz_770m_6180_0"	"omz_770m_10867_0"	"omz_770m_515_0"	"omz_770m_3685_0"	"omz_770m_6943_0"	"omz_770m_9186_0"	"omz_770m_6094_0"	"omz_770m_3123_1"	"omz_770m_4498_0"
+RXN-10916	"3,4-dihydroxymandelate <i>O</i>-methyltransferase"
+RXN-12755	"arachidonate &Delta;<sup>17</sup> desaturase"
+RXN0-4141	NIL	"omz_770m_9179_0"
+RXN-12751	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-oxopropanoyl-CoA hydrolase"
+RXN-12750	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-hydroxypropanoate dehydrogenase"	"omz_770m_7463_0"	"omz_770m_10411_0"	"omz_770m_6949_0"	"omz_770m_9734_0"
+NAPHTHOATE-SYN-RXN	NIL	"omz_770m_7204_1"
+RXN-8477	NIL
+TOLUENE-4-MONOOXYGENASE-RXN	NIL
+DUDPKIN-RXN	NIL
+GALACTONOLACTONE-DEHYDROGENASE-RXN	"<small>L</small>-galactonolactone dehydrogenase"
+RXN-10704	NIL	"omz_770m_7642_0"	"omz_770m_4362_1"	"omz_770m_5856_1"	"omz_770m_5851_1"	"omz_770m_5811_1"	"omz_770m_5815_1"	"omz_770m_10542_1"	"omz_770m_10137_0"	"omz_770m_9402_0"	"omz_770m_3337_0"	"omz_770m_11288_1"	"omz_770m_9311_0"	"omz_770m_3556_0"	"omz_770m_7898_0"	"omz_770m_3776_0"	"omz_770m_9618_1"	"omz_770m_962_0"	"omz_770m_8374_1"	"omz_770m_2163_0"
+3PGAREARR-RXN	NIL	"omz_770m_10455_0"	"omz_770m_711_0"	"omz_770m_8881_1"	"omz_770m_9537_0"	"omz_770m_1425_0"	"omz_770m_2898_0"	"omz_770m_923_1"
+RXN-10706	NIL
+RXN-10707	NIL
+RXN-10700	NIL	"omz_770m_620_0"	"omz_770m_8053_0"	"omz_770m_3454_0"	"omz_770m_2289_0"	"omz_770m_10127_0"
+RXN-10701	NIL	"omz_770m_620_0"	"omz_770m_8053_0"	"omz_770m_3454_0"	"omz_770m_2289_0"	"omz_770m_10127_0"
+RXN-10702	NIL	"omz_770m_7463_0"	"omz_770m_10411_0"	"omz_770m_6949_0"	"omz_770m_9734_0"
+RXN-10703	NIL	"omz_770m_7463_0"	"omz_770m_10411_0"	"omz_770m_6949_0"	"omz_770m_9734_0"
+RXN-10708	NIL
+MANNONDEHYDRAT-RXN	NIL	"omz_770m_8589_1"
+DIHYDRODIPICSYN-RXN	"4-hydroxy-tetrahydrodipicolinate synthase"
+RXN-11099	"<i>N</i>1-amidinostreptamine 6-phosphate aminotransferase"
+RXN-11098	"ATP:1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol 6-phosphotransferase"
+RXN-11097	"1-guanidino-1-deoxy-scyllo-inositol dehydrogenase"
+RXN-11475	NIL
+RXN-11474	"3-oxo-glutaryl-[acp] methyl ester synthase"
+RXN-11477	NIL
+RXN-11476	"3-oxo-glutaryl-[acp] methyl ester reductase"
+HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN	"S-adenosyl-L-methionine:L-homocysteine S-methyltransferase"
+RXN-11479	NIL	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN-11478	NIL
+2.7.7.60-RXN	NIL	"omz_770m_10670_0"
+ALLANTOICASE-RXN	NIL	"omz_770m_6780_0"	"omz_770m_1580_0"
+STREPTOMYCIN-6-KINASE-RXN	NIL	"omz_770m_8962_0"
+R343-RXN	NIL
+CYCLOARTENOL-SYNTHASE-RXN	NIL
+PHENYLPYRUVATE-DECARBOXYLASE-RXN	NIL
+SERINE-GLYOXYLATE-AMINOTRANSFERASE-RXN	NIL	"omz_770m_8045_0"	"omz_770m_2652_0"
+RXN-10838	NIL
+DIHYDROXYMETVALDEHYDRAT-RXN	"2,3-Dihydroxy-3-methylvalerate dehydratase"	"omz_770m_8529_1"	"omz_770m_8598_1"	"omz_770m_9721_1"	"omz_770m_9721_0"	"omz_770m_7506_0"	"omz_770m_9407_1"	"omz_770m_1791_1"	"omz_770m_10678_0"	"omz_770m_5805_1"
+CREATINASE-RXN	NIL	"omz_770m_1707_0"	"omz_770m_7573_1"
+LACTOSE6P-HYDROXY-RXN	"6-phospho-lactosidase"
+RXN-11272	NIL
+RXN-10055	NIL
+RXN-10056	NIL
+RXN-10057	NIL
+RXN-10058	"2,5-diamino-6-(5-phosphoribitylamino)pyrimidin-4(3H)-one deaminase"
+RXN-10059	NIL
+RXN-11503	NIL	"omz_770m_4700_1"
+RXN-5841	NIL	"omz_770m_8998_0"	"omz_770m_4789_1"
+RXN-14025	NIL
+RXN-14026	NIL	"omz_770m_8998_0"	"omz_770m_4789_1"
+RXN-5467	NIL
+DEOXYHYPUSINE-MONOOXYGENASE-RXN	NIL
+SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	NIL	"omz_770m_7815_0"
+RXN3O-1803	NIL	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+SERINE-O-ACETTRAN-RXN	NIL	"omz_770m_4302_0"	"omz_770m_532_0"	"omz_770m_658_1"	"omz_770m_4470_1"
+DETHIOBIOTIN-SYN-RXN	NIL
+RXN1G-240	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] reductase"
+3-OXOADIPATE-COA-TRANSFERASE-RXN	NIL	"omz_770m_5037_1"	"omz_770m_4385_0"
+RXN-2141	NIL	"omz_770m_4838_0"	"omz_770m_1379_1"
+GUANIDINOBUTYRASE-RXN	NIL
+7KAPSYN-RXN	NIL	"omz_770m_1657_0"
+SEDOBISALDOL-RXN	NIL
+RXN-9189	NIL
+GLUTAMATE-N-ACETYLTRANSFERASE-RXN	NIL	"omz_770m_4347_0"	"omz_770m_9264_0"	"omz_770m_4357_0"
+RXN66-525	NIL	"omz_770m_10001_0"	"omz_770m_6760_0"	"omz_770m_9480_1"	"omz_770m_11064_0"	"omz_770m_7893_0"	"omz_770m_963_0"	"omz_770m_8389_0"
+RXN66-526	NIL
+BRANCHED-CHAINAMINOTRANSFERLEU-RXN	NIL	"omz_770m_10026_0"	"omz_770m_7942_0"	"omz_770m_4607_0"	"omz_770m_145_0"	"omz_770m_4701_0"	"omz_770m_9645_1"	"omz_770m_7551_0"	"omz_770m_11132_0"	"omz_770m_780_0"	"omz_770m_1644_2"	"omz_770m_1058_1"	"omz_770m_6360_0"
+4.3.1.14-RXN	NIL
+ASPARAGHYD-RXN	NIL	"omz_770m_878_0"	"omz_770m_7501_1"	"omz_770m_6192_0"
+RXN-9987	"UDP-N-acetylglucosamine 2-epimerase (hydrolysing)"
+KETOGAL-DEHYDROXY-RXN	NIL
+RXN-9983	NIL
+GCVP-RXN	NIL	"omz_770m_3445_0"	"omz_770m_8814_1"	"omz_770m_469_1"	"omz_770m_1909_0"	"omz_770m_11385_0"	"omz_770m_1560_0"	"omz_770m_83_1"
+RXN1G-45	"cis,cis-&Delta;19,31-C50:2-[acp] reductase"
+NAG6PDEACET-RXN	NIL
+SUCCARGDIHYDRO-RXN	NIL
+RXN0-5408	"Myo-inositol-1(or 4)-monophosphatase"
+GKI-RXN	NIL
+RXN-10	NIL	"omz_770m_6884_0"	"omz_770m_679_0"	"omz_770m_2651_0"
+RXN-7644	"D-sorbitol 2-dehydrogenase"
+RXN-6268	NIL
+BUTYRYL-COA-DEHYDROGENASE-RXN	"butanoyl-CoA dehydrogenase"	"omz_770m_8966_1"
+RXN-7643	NIL
+RXN-7640	NIL
+RXN1G-203	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN-6261	NIL	"omz_770m_235_1"
+1.7.7.2-RXN	NIL
+RXN1G-184	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+VALINE-PYRUVATE-AMINOTRANSFER-RXN	NIL	"omz_770m_1521_0"
+RXN-12277	NIL
+2.3.1.133-RXN	NIL
+RXN-7242	NIL
+RXN-7243	NIL
+RXN-7241	NIL	"omz_770m_2426_0"
+RXN-7246	NIL
+RXN-7247	NIL
+RXN-7244	NIL
+RXN-13126	"4-hydroxyphenylacetate hydrolase"
+RXN-13129	"4-hydroxyacetophenone monooxygenase"	"omz_770m_8859_0"
+LCYSDESULF-RXN	NIL	"omz_770m_3485_1"
+RXN-7248	NIL
+RXN-7249	NIL
+RXN-9521	"<i>trans</i> hex-2-enoyl-[acp] reductase (NADPH, B-specific)"
+RXN-9520	"3-hydroxyhexanoyl-[acyl-carrier protein] dehydratase"
+RXN-9523	"3-oxo-octanoyl-[acyl-carrier protein] synthase"
+RXN-9524	"3-oxo-octanoyl-[acyl-carrier protein] reductase"
+BETAGALACTOSID-RXN	"&beta;-galactosidase"	"omz_770m_7958_0"
+RXN-9526	"<i>trans</i> oct-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-9528	"3-oxo-decanoyl-[acyl-carrier protein] reductase"
+5-METHYLTHIOADENOSINE-PHOSPHORYLASE-RXN	NIL	"omz_770m_4815_1"	"omz_770m_4655_0"
+NADPYROPHOSPHAT-RXN	NIL	"omz_770m_5762_0"	"omz_770m_7508_0"
+ESTRADIOL-17-BETA-DEHYDROGENASE-RXN	NIL	"omz_770m_2394_1"
+RXN1G-374	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+RXN1G-377	"cis-delta15-3-hydroxyC34:1-[acyl-carrier protein] dehydratase"
+BIOTINLIG-RXN	NIL
+3.5.4.22-RXN	NIL
+UDP-NACMURALGLDAPAALIG-RXN	"UDP-<I>N</I>-acetylmuramoyl-L-alanyl-D-glutamyl-<I>meso</I>-2,6-diaminopimelate ligase"
+TDPFUCACTRANS-RXN	"dTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase"
+INOPHOSPHOR-RXN	"inosine phosphorylase"
+RXN-8743	NIL	"omz_770m_5312_0"
+2.1.1.86-RXN	NIL
+RXN0-6480	NIL
+GUANIDINOBUTANAMIDE-NH3-RXN	NIL	"omz_770m_6456_0"	"omz_770m_10002_0"	"omz_770m_7455_0"	"omz_770m_6725_0"	"omz_770m_8441_0"	"omz_770m_3045_0"	"omz_770m_687_0"	"omz_770m_10361_0"	"omz_770m_3416_1"	"omz_770m_10589_0"	"omz_770m_150_1"	"omz_770m_8010_0"
+RXN-13909	NIL
+RXN-13908	NIL	"omz_770m_8645_1"	"omz_770m_5267_1"
+RXN-13907	NIL
+1.2.1.61-RXN	NIL
+RXN-7733	NIL
+1.5.1.20-RXN	NIL	"omz_770m_6422_0"	"omz_770m_2885_0"
+RXN0-6484	NIL
+RXN0-6485	NIL	"omz_770m_3766_0"	"omz_770m_4845_0"
+FPPSYN-RXN	NIL	"omz_770m_3716_1"
+ACETYL-COA-CARBOXYLTRANSFER-RXN	NIL	"omz_770m_524_0"	"omz_770m_10343_0"	"omz_770m_408_0"	"omz_770m_4764_0"	"omz_770m_7063_0"	"omz_770m_596_0"	"omz_770m_186_0"	"omz_770m_3486_0"	"omz_770m_11145_0"	"omz_770m_4789_0"
+RXN-12081	"galactitol dehydrogenase"
+METHELENE-THMPT-OXI-RXN	NIL	"omz_770m_2337_0"	"omz_770m_625_0"	"omz_770m_10567_0"	"omz_770m_8189_0"	"omz_770m_1975_1"
+HISTOLDEHYD-RXN	"Histidinol dehydrogenase"	"omz_770m_7689_0"	"omz_770m_2360_1"	"omz_770m_2635_0"
+RXN0-5182	"maltodextrin phosphorylase"
+RXN0-5183	NIL	"omz_770m_4838_0"	"omz_770m_1379_1"
+RXN-12520	NIL
+RXN-12521	NIL	"omz_770m_3629_0"	"omz_770m_5697_0"
+DMK-RXN	NIL	"omz_770m_7204_0"	"omz_770m_10611_0"
+RXN0-5390	NIL
+ALDOSE-1-EPIMERASE-RXN	NIL
+UDP-GLUCURONATE-4-EPIMERASE-RXN	NIL	"omz_770m_4315_0"	"omz_770m_452_0"
+RXN-600	NIL	"omz_770m_9269_1"
+2.3.1.168-RXN	NIL
+RXN-10908	"adrenaline oxidase"	"omz_770m_1736_2"
+RXN-10909	"adrenaline <i>O</i>-methyltransferase"
+RXN1G-554	"3-cis,cis-delta15,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN1G-557	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+MTRMBARK-RXN	NIL
+ASPAMINOTRANS-RXN	NIL	"omz_770m_5727_0"	"omz_770m_8339_0"	"omz_770m_11077_1"	"omz_770m_5594_0"	"omz_770m_1478_0"	"omz_770m_9383_0"	"omz_770m_4462_0"	"omz_770m_311_0"	"omz_770m_9928_0"	"omz_770m_9293_0"	"omz_770m_100_0"	"omz_770m_3543_0"	"omz_770m_10143_1"
+RXN-10906	"noradrenaline <i>O</i>-methyltransferase"
+RXN-10907	"noradrenaline oxidase"	"omz_770m_1736_2"
+RXN-12746	"3-[(3a<i>S</i>,4<i>S</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA ligase"	"omz_770m_3021_0"	"omz_770m_7949_0"	"omz_770m_460_1"	"omz_770m_5967_0"	"omz_770m_5077_0"	"omz_770m_8565_0"	"omz_770m_9633_1"	"omz_770m_2468_0"	"omz_770m_10169_0"	"omz_770m_2157_0"	"omz_770m_9875_1"
+RXN-12747	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA 5-dehydrogenase"
+RXN-12744	"3-oxo-23,24-bisnorchol-4,17(20)-dien-22-oyl-CoA hydratase"
+RXN-12745	"3-oxo-23,24-bisnorchol-4-en-17-ol-22-oyl-CoA lyase"
+RXN-12743	"3-oxo-23,24-bisnorchol-4-en-22-oyl-CoA 17(20)-dehydrogenase"
+BIOTIN-CARBOXYL-RXN	NIL	"omz_770m_1825_0"	"omz_770m_3347_1"
+RXN-12748	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA dehydrogenase"
+RXN-12749	"(2<i>E</i>)-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]prop-2-enoate hydratase"
+RXN-2601	NIL
+MHPELY-RXN	NIL	"omz_770m_6227_2"
+GLUCONOLACT-RXN	NIL
+ALLANTOINASE-RXN	NIL
+PANTOATE-BETA-ALANINE-LIG-RXN	NIL	"omz_770m_9916_1"	"omz_770m_7252_1"	"omz_770m_3274_0"
+RXN-12203	NIL
+ARYLDIALKYL-PHOSPHATASE-RXN	"Parathion hydrolase"	"omz_770m_5312_0"
+F16ALDOLASE-RXN	NIL	"omz_770m_8447_1"	"omz_770m_891_0"	"omz_770m_3172_0"	"omz_770m_9924_0"	"omz_770m_4212_0"	"omz_770m_8616_0"	"omz_770m_302_1"	"omz_770m_6421_0"
+ISOCITRATE-DEHYDROGENASE-NAD+-RXN	NIL
+DXS-RXN	NIL	"omz_770m_7376_0"	"omz_770m_8210_0"	"omz_770m_686_0"	"omz_770m_10483_0"	"omz_770m_4215_0"	"omz_770m_1286_0"
+GLUC1PADENYLTRANS-RXN	NIL
+RXN-10841	NIL
+RXN-10840	NIL
+CARBON-MONOXIDE-DEHYDROGENASE-RXN	NIL	"omz_770m_3883_0"	"omz_770m_1220_0"	"omz_770m_9865_1"	"omz_770m_9865_0"	"omz_770m_7941_0"	"omz_770m_5952_0"	"omz_770m_4447_1"	"omz_770m_10711_1"	"omz_770m_9766_1"	"omz_770m_9766_0"	"omz_770m_2592_0"	"omz_770m_8331_1"	"omz_770m_8331_0"	"omz_770m_10139_0"	"omz_770m_11034_0"	"omz_770m_9669_1"	"omz_770m_10150_0"	"omz_770m_5308_0"	"omz_770m_6903_0"	"omz_770m_9351_1"	"omz_770m_2263_2"	"omz_770m_7756_0"	"omz_770m_7590_0"	"omz_770m_5190_0"	"omz_770m_7127_0"	"omz_770m_7496_1"	"omz_770m_1353_0"	"omz_770m_9179_0"
+GART-RXN	NIL
+THIOREDOXIN-RXN	NIL
+1.5.99.9-RXN	NIL
+DIHYDROFOLATEREDUCT-RXN	NIL	"omz_770m_1202_0"	"omz_770m_7133_1"
+KETOLACTOSE-RXN	"3-ketolactose hydrolase"	"omz_770m_7958_0"
+MALEYLACETOACETATE-ISOMERASE-RXN	NIL
+ERYTHRON4PDEHYDROG-RXN	NIL
+1.1.99.25-RXN	NIL	"omz_770m_8979_0"
+THIOREDOXIN-REDUCT-NADPH-RXN	NIL	"omz_770m_4667_0"	"omz_770m_9456_0"	"omz_770m_824_0"	"omz_770m_1658_1"
+RXN-2802	NIL
+RXN-11511	NIL
+RXN-4142	NIL	"omz_770m_756_0"	"omz_770m_37_0"	"omz_770m_10087_0"	"omz_770m_6180_0"	"omz_770m_10867_0"	"omz_770m_515_0"	"omz_770m_3685_0"	"omz_770m_6943_0"	"omz_770m_9186_0"	"omz_770m_6094_0"	"omz_770m_3123_1"	"omz_770m_4498_0"
+METHYLISOCITRATE-LYASE-RXN	NIL
+ACONITATEHYDR-RXN	"cis-aconitate hydratase"	"omz_770m_9138_0"	"omz_770m_5934_1"	"omz_770m_4662_0"	"omz_770m_1621_1"	"omz_770m_9390_0"	"omz_770m_5174_0"	"omz_770m_414_0"	"omz_770m_8160_0"
+AKPTHIOL-RXN	NIL
+ACYLCOASYN-RXN	"2,3,4-saturated fatty acyl-CoA synthetase"	"omz_770m_3021_0"	"omz_770m_7949_0"	"omz_770m_460_1"	"omz_770m_5967_0"	"omz_770m_5077_0"	"omz_770m_8565_0"	"omz_770m_9633_1"	"omz_770m_2468_0"	"omz_770m_10169_0"	"omz_770m_2157_0"	"omz_770m_9875_1"
+O-SUCCINYLBENZOATE-COA-SYN-RXN	NIL	"omz_770m_1228_0"
+UROPORIIIMETHYLTRANSA-RXN	"uroporphyrinogen-III <em>C</em>-methyltransferase"	"omz_770m_7783_0"	"omz_770m_1391_0"
+ISPH2-RXN	NIL	"omz_770m_481_1"	"omz_770m_9663_0"	"omz_770m_9423_0"	"omz_770m_2729_0"	"omz_770m_1896_0"	"omz_770m_5529_2"
+DCTP-PYROPHOSPHATASE-RXN	NIL	"omz_770m_8299_0"	"omz_770m_4071_0"	"omz_770m_5261_0"	"omz_770m_4158_1"
+DCTP-DEAM-RXN	NIL	"omz_770m_7559_0"
+DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN	NIL
+RXN-1405	NIL
+MYO-INOSITOL-2-DEHYDROGENASE-RXN	NIL	"omz_770m_343_0"	"omz_770m_1196_1"
+RXN1G-32	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+URUR-RXN	NIL
+1.2.1.13-RXN	NIL	"omz_770m_11105_0"
+1.1.99.28-RXN	NIL	"omz_770m_5737_1"
+OXALYL-COA-DECARBOXYLASE-RXN	NIL
+PANTEPADENYLYLTRAN-RXN	NIL	"omz_770m_9383_1"
+4.2.1.43-RXN	NIL	"omz_770m_11016_0"
+R232-RXN	NIL
+CITRATE--COA-LIGASE-RXN	NIL
+P-PANTOCYSDECARB-RXN	NIL	"omz_770m_5385_1"	"omz_770m_11068_0"
+3.5.2.14-RXN	NIL	"omz_770m_1930_0"	"omz_770m_8415_1"	"omz_770m_621_0"	"omz_770m_1068_1"	"omz_770m_10972_0"	"omz_770m_3377_1"	"omz_770m_1974_0"
+2.6.1.18-RXN	NIL	"omz_770m_3404_0"	"omz_770m_1590_1"
+RXN-13001	NIL
+RXN1G-1439	"6-O-trans-keto-mycolyl-trehalose-6-phosphatase"
+RXN1G-1438	"6-O-cis-keto-mycolyl-trehalose-6-phosphatase"
+RXN1G-37	"trans-delta2-cis-delta7-C26:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-30	"trans-docos-2-enoyl-[acyl-carrier protein] reductase"
+TRYPTOPHAN-23-DIOXYGENASE-RXN	NIL	"omz_770m_7162_0"	"omz_770m_201_0"
+RXN-9086	NIL
+RXN-9087	NIL
+RXN1G-1435	"6-O-mycolyl-trehalose-6-phosphatase"
+RXN1G-1437	"6-O-trans-methoxy-mycolyl-trehalose-6-phosphatase"
+RXN1G-1436	"6-O-cis-methoxy-mycolyl-trehalose-6-phosphatase"
+RXN1G-891	"3-oxo-C87-trans-mycolate synthase"
+RXN1G-890	"3-oxo-C86-cis-keto-mycolate synthase"
+ALANINE--TRNA-LIGASE-RXN	NIL	"omz_770m_1436_1"	"omz_770m_368_0"	"omz_770m_1999_0"	"omz_770m_4784_0"	"omz_770m_4408_0"	"omz_770m_9879_1"	"omz_770m_1901_0"	"omz_770m_9160_0"	"omz_770m_6347_1"
+HISTALDEHYD-RXN	"Histidinal dehydrogenase"	"omz_770m_7689_0"	"omz_770m_2360_1"	"omz_770m_2635_0"
+3-ISOPROPYLMALDEHYDROG-RXN	"3-isopropylmalate dehydrogenase"	"omz_770m_8867_0"	"omz_770m_6932_1"	"omz_770m_8682_1"	"omz_770m_31_0"	"omz_770m_1871_0"	"omz_770m_1122_1"	"omz_770m_10434_0"
+GLUTAMINE-N-PHENYLACETYLTRANSFERASE-RXN	NIL
+METHCOCLTH-RXN	NIL
+RXN-8189	NIL
+PRTRANS-RXN	NIL	"omz_770m_2119_0"	"omz_770m_5162_1"	"omz_770m_9268_0"	"omz_770m_680_0"	"omz_770m_8795_0"
+RIBOPHOSPHAT-RXN	NIL
+RXN-13646	"linustatin &beta;-diglucosidase"
+UTPHEXPURIDYLYLTRANS-RXN	NIL	"omz_770m_7600_0"
+RXN-7251	NIL
+2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN	NIL	"omz_770m_9489_0"
+RXN-7253	NIL
+RXN-6384	NIL
+RXN-6383	NIL
+RXN-9554	"Petrosel-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-9555	NIL
+RXN-9556	"3-oxo-<i>cis</i>-vaccenoyl-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN-9557	"3-hydroxy-cis-vaccenoyl-[acyl-carrier protein] dehydratase"
+RXN-9550	NIL
+RXN-9551	NIL
+RXN-9552	"3-oxo-petroslinoyl-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN-9553	"3-hydroxypetroselinoyl-[acyl-carrier protein] dehydratase"
+RXN-9558	NIL
+RXN0-5224	NIL	"omz_770m_9489_1"	"omz_770m_4299_2"
+RXN1G-309	"cis,cis-delta9,21-3-hydroxyC40:2-[acyl-carrier protein] dehydratase"
+RXN1G-308	"cis,cis-delta7,19-3-hydroxyC38:2-[acyl-carrier protein] dehydratase"
+RXN1G-306	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] synthase"
+R231-RXN	NIL	"omz_770m_56_0"	"omz_770m_990_0"
+RXN-12193	"4-&alpha;-glucosyltransferase"	"omz_770m_2430_0"
+RXN-12190	"&alpha;-amylase"	"omz_770m_9368_0"
+RXN-12197	NIL
+RXN-12196	NIL	"omz_770m_6292_0"	"omz_770m_3019_0"	"omz_770m_7274_0"
+RXN-12195	NIL	"omz_770m_6292_0"	"omz_770m_3019_0"
+RXN-12198	NIL
+2.6.1.30-RXN	NIL
+RXN-12350	NIL
+RXN-12370	NIL
+RXN1G-2527	"cis,cis-&Delta;19-37-C56:2-[acp] reductase"
+RXN-12609	NIL
+GALLATE-DECARBOXYLASE-RXN	NIL
+KYNURENINASE-RXN	NIL	"omz_770m_11206_0"	"omz_770m_4072_0"
+RXN-7657	"isobutanol dehydrogenase"	"omz_770m_159_0"	"omz_770m_1684_0"	"omz_770m_6029_0"	"omz_770m_10612_0"	"omz_770m_1652_1"	"omz_770m_6732_0"	"omz_770m_7195_0"	"omz_770m_6039_0"
+RXN-36	NIL
+RXN-37	NIL	"omz_770m_756_0"	"omz_770m_37_0"	"omz_770m_10087_0"	"omz_770m_6180_0"	"omz_770m_10867_0"	"omz_770m_515_0"	"omz_770m_3685_0"	"omz_770m_6943_0"	"omz_770m_9186_0"	"omz_770m_6094_0"	"omz_770m_3123_1"	"omz_770m_4498_0"	"omz_770m_3584_1"
+RXN-34	NIL	"omz_770m_10210_0"	"omz_770m_8357_1"
+RXN-35	NIL
+3.8.1.8-RXN	NIL
+RXN-12997	NIL
+RXN-12994	NIL	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN-8850	NIL	"omz_770m_3630_0"	"omz_770m_8995_0"	"omz_770m_2917_0"
+RXN-8854	NIL
+RXN-12156	NIL
+ADENYLYLSULFATE-REDUCTASE-RXN	NIL	"omz_770m_9253_0"	"omz_770m_7073_0"	"omz_770m_2413_1"	"omz_770m_2413_0"
+GLYCERALDEHYDE-DEHYDRO-RXN	"glyceraldehyde dehydrogenase (FAD-containing)"
+GABATRANSAM-RXN	NIL	"omz_770m_6982_0"	"omz_770m_3625_0"
+2.6.1.50-RXN	NIL	"omz_770m_3822_1"	"omz_770m_11374_0"	"omz_770m_11416_0"	"omz_770m_5453_0"	"omz_770m_9109_1"	"omz_770m_2247_0"	"omz_770m_4842_0"
+OHMETHYLBILANESYN-RXN	NIL	"omz_770m_1501_0"
+TEICHOICSYN2-RXN	NIL
+RXN-12519	NIL	"omz_770m_252_0"
+RXN-12518	NIL
+RXN-4602	NIL
+PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN	NIL	"omz_770m_9134_0"	"omz_770m_5911_0"	"omz_770m_10333_0"	"omz_770m_4747_0"	"omz_770m_6022_0"	"omz_770m_5555_1"	"omz_770m_7729_0"	"omz_770m_11299_1"
+LINOLENOYL-RXN	"&alpha;-linolenate&mdash;CoA ligase"	"omz_770m_3021_0"	"omz_770m_7949_0"	"omz_770m_460_1"	"omz_770m_5967_0"	"omz_770m_5077_0"	"omz_770m_8565_0"	"omz_770m_9633_1"	"omz_770m_2468_0"	"omz_770m_10169_0"	"omz_770m_2157_0"	"omz_770m_9875_1"
+RXN0-6427	"guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase"
+GLYCOPHOSPHORYL-RXN	"glycogen phosphorylase"
+4.2.1.61-RXN	"3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase"
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	NIL	"omz_770m_10046_1"	"omz_770m_6271_0"	"omz_770m_6546_0"
+1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN	"1-acylglycerol-3-phosphate O-acyltransferase"	"omz_770m_1998_1"	"omz_770m_4175_0"
+2.3.1.49-RXN	NIL
+RXN-8927	NIL
+RXN1G-526	"trans-tetracos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+3.2.1.8-RXN	NIL	"omz_770m_8552_0"
+OROTPDECARB-RXN	NIL	"omz_770m_4422_0"	"omz_770m_1751_0"	"omz_770m_731_0"	"omz_770m_10141_0"
+RXN-12777	"3-oxo-dihomo &gamma; linolenoyl-[acp] synthase"
+RXN-8457	NIL
+R23-RXN	NIL
+RXN-12171	"maltodextrin phosphorylase"
+PROPCOASYN-RXN	NIL
+RXN-5642	NIL
+RXN-5643	NIL
+SUCCSEMIALDDEHYDROG-RXN	NIL
+NICOTINATEPRIBOSYLTRANS-RXN	NIL	"omz_770m_2588_1"
+RXN-1381	NIL	"omz_770m_11277_0"	"omz_770m_2129_1"	"omz_770m_11164_0"
+RXN0-6512	"3-oxo-5,6-dehydrosuberyl-CoA thiolase"
+RXN0-6513	"2,3-dehydroadipyl-CoA hydratase"	"omz_770m_7642_0"	"omz_770m_4362_1"	"omz_770m_5856_1"	"omz_770m_5851_1"	"omz_770m_5811_1"	"omz_770m_5815_1"	"omz_770m_10542_1"	"omz_770m_10137_0"	"omz_770m_9402_0"	"omz_770m_3337_0"	"omz_770m_11288_1"	"omz_770m_9311_0"	"omz_770m_3556_0"	"omz_770m_7898_0"	"omz_770m_3776_0"	"omz_770m_9618_1"	"omz_770m_962_0"	"omz_770m_8374_1"	"omz_770m_2163_0"
+2-METHYLCITRATE-SYNTHASE-RXN	NIL
+DEOXYGUANPHOSPHOR-RXN	NIL
+RXN-8631	NIL	"omz_770m_8447_1"	"omz_770m_891_0"	"omz_770m_3172_0"	"omz_770m_9924_0"	"omz_770m_4212_0"	"omz_770m_8616_0"	"omz_770m_302_1"	"omz_770m_6421_0"
+RXN1G-637	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN-8635	NIL	"omz_770m_10693_0"
+RXN-5882	NIL
+RXN-5881	NIL
+ADDALT-RXN	NIL	"omz_770m_8851_1"	"omz_770m_10178_0"	"omz_770m_1273_0"	"omz_770m_966_0"	"omz_770m_9061_0"
+RXN-5464	NIL
+RXN-5466	NIL
+1.3.7.4-RXN	NIL
+TRANS-RXN0-277	NIL	"omz_770m_6788_0"	"omz_770m_10960_0"	"omz_770m_9014_1"	"omz_770m_9014_0"	"omz_770m_8070_0"	"omz_770m_4169_0"	"omz_770m_11136_1"	"omz_770m_2400_0"	"omz_770m_4137_1"	"omz_770m_4137_0"
+RXN-5462	NIL
+RXN-5463	NIL
+RXN-5468	NIL
+RXN-5469	NIL
+BENZYL-ALC-DEHYDROGENASE-RXN	"benzyl alcohol dehydrogenase"
+RXN-10836	NIL
+METHYLGLUTACONYL-COA-HYDRATASE-RXN	NIL	"omz_770m_303_0"
+HISTAMINOTRANS-RXN	NIL	"omz_770m_5107_0"	"omz_770m_4660_0"	"omz_770m_6414_0"
+RXN-10837	NIL
+GLUTDEHYD-RXN	NIL	"omz_770m_3406_0"	"omz_770m_7458_0"	"omz_770m_8704_0"	"omz_770m_6974_1"	"omz_770m_5484_1"	"omz_770m_5484_0"	"omz_770m_5216_0"	"omz_770m_7200_0"	"omz_770m_9039_0"	"omz_770m_1745_0"	"omz_770m_8397_0"	"omz_770m_2602_0"	"omz_770m_300_0"	"omz_770m_4316_0"	"omz_770m_10209_0"	"omz_770m_803_0"	"omz_770m_4750_0"	"omz_770m_6363_0"	"omz_770m_10983_0"	"omz_770m_6974_0"	"omz_770m_7537_0"
+RXN-10832	NIL
+AIRCARBOXY-RXN	NIL	"omz_770m_2756_0"
+UDPNACETYLGLUCOSAMACYLTRANS-RXN	NIL	"omz_770m_4006_0"	"omz_770m_4293_0"	"omz_770m_7654_0"	"omz_770m_8612_0"	"omz_770m_6245_1"
+RXN-11211	NIL	"omz_770m_7377_0"
+RXN-11210	NIL
+RXN-11213	NIL	"omz_770m_5856_0"	"omz_770m_4819_0"	"omz_770m_6027_0"	"omz_770m_4924_1"	"omz_770m_2425_1"
+RXN-8037	NIL
+R102-RXN	NIL
+23-DIMETHYLMALATE-LYASE-RXN	NIL
+RXN-14007	"1-methylthio-xylulose 5-phosphate sulfo-lyase"
+RXN-14006	"5-methylthioribulose-1-phosphate isomerase"
+HOMOGENTISATE-12-DIOXYGENASE-RXN	NIL	"omz_770m_2358_0"	"omz_770m_413_0"
+TEICHOICSYN5-RXN	NIL
+RXN-5061	NIL
+CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	NIL	"omz_770m_8891_0"
+RXNMETA-12672	NIL
+RXN490-3650	NIL
+DIMETHYLGLYCINE-DEHYDROGENASE-RXN	NIL	"omz_770m_1497_0"
+R8-RXN	NIL
+RXN0-2381	NIL	"omz_770m_8495_1"	"omz_770m_524_1"	"omz_770m_4547_0"	"omz_770m_8093_1"	"omz_770m_8093_0"	"omz_770m_1270_0"	"omz_770m_6776_1"	"omz_770m_6776_0"	"omz_770m_8065_0"	"omz_770m_8064_0"
+RXN-10100	NIL	"omz_770m_6562_0"
+RXN-10101	NIL
+RXN-10106	NIL
+RXN-10107	NIL
+PHOSACETYLTRANS-RXN	NIL	"omz_770m_7156_0"
+ACSERLY-RXN	NIL	"omz_770m_792_1"	"omz_770m_4647_0"	"omz_770m_10218_0"	"omz_770m_11341_0"	"omz_770m_284_1"	"omz_770m_2850_0"	"omz_770m_4021_1"
+RXN0-6483	NIL
+FORMATETHFLIG-RXN	NIL	"omz_770m_10985_0"	"omz_770m_8729_0"	"omz_770m_4573_0"
+RXN66-1	NIL	"omz_770m_3879_0"
+RXN66-3	"acetaldehyde dehydrogenase (NAD+)"	"omz_770m_756_0"	"omz_770m_37_0"	"omz_770m_10087_0"	"omz_770m_6180_0"	"omz_770m_10867_0"	"omz_770m_515_0"	"omz_770m_3685_0"	"omz_770m_6943_0"	"omz_770m_9186_0"	"omz_770m_6094_0"	"omz_770m_3123_1"	"omz_770m_4498_0"
+2.4.1.141-RXN	NIL
+GCVT-RXN	NIL	"omz_770m_2114_0"	"omz_770m_134_0"	"omz_770m_6694_0"	"omz_770m_5307_0"	"omz_770m_5225_0"	"omz_770m_5190_1"	"omz_770m_944_0"	"omz_770m_6593_0"	"omz_770m_4421_0"	"omz_770m_6369_0"
+RXN-2121	NIL
+RXN-2122	NIL
+N-ACETYLGLUCOSAMINE-KINASE-RXN	NIL	"omz_770m_3629_2"	"omz_770m_6801_0"
+RXN1G-1530	"3-oxo-C87-trans-keto-mycolate reductase"
+ALANINE-AMINOTRANSFERASE-RXN	NIL	"omz_770m_4802_0"
+ISOCHORSYN-RXN	NIL
+R310-RXN	"acrylonitrile hydratase"	"omz_770m_5978_0"	"omz_770m_739_0"
+R125-RXN	NIL
+FORMYLMETHANOFURAN-DEHYDROGENASE-RXN	NIL	"omz_770m_9806_0"	"omz_770m_7166_0"
+2.7.7.15-RXN	NIL	"omz_770m_10506_0"
+FADSYN-RXN	NIL	"omz_770m_2212_1"	"omz_770m_4339_0"	"omz_770m_3031_0"	"omz_770m_2946_1"
+DHDOGALDOL-RXN	NIL
+RXN-13037	"octanoyl:GcvH transferase"	"omz_770m_9819_2"	"omz_770m_10204_1"
+RXN-13036	"octanoyl-[GcvH]:protein <i>N</i>-octanoyltransferase"
+6PGLUCONDEHYDROG-RXN	"phosphogluconate dehydrogenase [NAD(P)+-dependent, decarboxylating]"
+RXN0-4342	NIL
+RXN0-4341	NIL	"omz_770m_6224_0"	"omz_770m_1389_0"	"omz_770m_3114_0"
+PROLINE-MULTI	NIL
+6.3.5.6-RXN	NIL	"omz_770m_1741_0"	"omz_770m_10614_1"	"omz_770m_9397_0"	"omz_770m_0_0"	"omz_770m_8152_0"	"omz_770m_1009_1"	"omz_770m_3416_0"	"omz_770m_150_0"
+PHEAMINOTRANS-RXN	"phenylalanine transaminase"
+RXN-8470	NIL	"omz_770m_3370_0"
+RXN1G-27	"cis-delta5-3-hydroxyC24:1-[acyl-carrier protein] dehydratase"
+RXN1G-26	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+4.2.3.12-RXN	NIL	"omz_770m_8787_1"	"omz_770m_11000_1"
+1.18.1.2-RXN	NIL	"omz_770m_5003_0"
+RXN1G-886	"3-oxo-C78-&alpha;-mycolate synthase"
+RXN1G-887	"3-oxo-C85-cis-methoxy-mycolate-synthase"
+RXN1G-884	"cis,cis-delta11,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+RXN-11989	NIL
+UDPMANNACADEHYDROG-RXN	"UDP-N-acetyl-D-mannosamine dehydrogenase"
+RXN1G-881	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] reductase"
+UREA-CARBOXYLASE-RXN	NIL	"omz_770m_6719_1"
+RXN1G-888	"3-oxo-C86-trans-methoxy-mycolate-synthase"
+5.4.99.17-RXN	NIL	"omz_770m_9394_0"
+RXN1G-951	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN-9892	NIL	"omz_770m_6562_0"
+RXN-13109	"3-methylxanthine demethylase"
+RXN-13108	"theophylline <i>N</i>3-demethylase"
+RXN-9542	"<i>trans</i> hexadecenoyl-[acp] reductase (NADPH, B-specific)"
+RXN-9540	"3-oxo-palmitoyl-[acyl-carrier protein] reductase"
+RXN-9549	NIL
+RXN-9548	NIL
+RXN-13698	NIL	"omz_770m_4802_0"
+RXN-13697	NIL	"omz_770m_5727_0"	"omz_770m_8339_0"	"omz_770m_11077_1"	"omz_770m_5594_0"	"omz_770m_1478_0"	"omz_770m_9383_0"	"omz_770m_4462_0"	"omz_770m_311_0"	"omz_770m_9928_0"	"omz_770m_9293_0"	"omz_770m_100_0"	"omz_770m_3543_0"	"omz_770m_10143_1"
+RXN66-472	"fatty aldehyde dehydrogenase"
+RXN66-471	"2-hydroxy-3-methyl-branched fatty acyl-CoA lyase"
+RXN66-470	"3-methyl-branched fatty acyl-CoA 2-hydroxylase"	"omz_770m_9312_0"	"omz_770m_8444_0"	"omz_770m_6397_1"	"omz_770m_1844_1"	"omz_770m_11219_0"
+RXN-7282	NIL
+TAURINE-AMINOTRANSFERASE-RXN	NIL	"omz_770m_2570_0"
+GTP-CYCLOHYDRO-II-RXN	NIL	"omz_770m_5168_0"	"omz_770m_3634_0"	"omz_770m_272_0"	"omz_770m_6362_0"	"omz_770m_3900_1"
+RXN-12614	"glycine oxidase"	"omz_770m_5959_1"
+1.10.2.2-RXN	NIL	"omz_770m_3048_0"	"omz_770m_2789_1"	"omz_770m_2789_0"	"omz_770m_9900_1"	"omz_770m_11067_1"	"omz_770m_11067_0"	"omz_770m_9998_0"
+RXN-12610	"thiamine-phosphate diphosphorylase"
+RXN-12611	"thiamin phosphate synthase"
+RXN-12612	"formylaminopyrimidine deformylase"
+RXN-12613	NIL	"omz_770m_4817_1"
+1.13.11.49-RXN	NIL	"omz_770m_4442_0"
+6.2.1.34-RXN	NIL
+TRANS-CINNAMATE-2-MONOOXYGENASE-RXN	NIL
+RXN-25	NIL
+THYMIDYLATESYN-RXN	NIL	"omz_770m_6897_0"	"omz_770m_9304_1"	"omz_770m_9788_0"	"omz_770m_10408_0"
+RXN-22	NIL	"omz_770m_4007_0"	"omz_770m_9106_0"	"omz_770m_142_0"	"omz_770m_1889_2"
+RXN-13968	NIL
+SCYLLO-INOSAMINE-KINASE-RXN	NIL
+RXN-12998	NIL
+RXN1G-408	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN1G-409	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+1.2.1.67-RXN	NIL
+CDPDIGLYSYN-RXN	NIL	"omz_770m_8032_1"	"omz_770m_4175_1"
+PYRUVFORMLY-RXN	NIL
+RXN1G-536	"cerotoyl-[acyl-carrier protein] reductase"
+3-OXOACYL-ACP-SYNTH-RXN	"3-oxoacyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN-8441	"nicotinamide-&beta;-riboside hydrolase"
+RXN-8443	NIL
+RXN-8442	NIL
+2.5.1.64-RXN	NIL
+RXN-8447	NIL
+RXN-4122	NIL
+PRODISULFREDUCT-A-RXN	"glutaredoxin reductase (glutathione)"
+RXN1G-3660	"cis-delta21-39-hydroxy-40-methyl-C59:1-[acp] synthase"
+RXN-4121	NIL
+RXN1G-3667	"trans-&Delta;20-39-hydroxy-40-methyl-C60:1-[acp] reductase"
+DIHYDROPYRIMIDINASE-RXN	NIL	"omz_770m_7377_0"
+2.3.1.101-RXN	NIL
+RXN-11197	"falcipain"
+SEDOHEPTULOSE-BISPHOSPHATASE-RXN	NIL
+RXN-12349	"feruloyl-coA 6'-hydroxylase"
+DIHYDROXYISOVALDEHYDRAT-RXN	NIL	"omz_770m_8529_1"	"omz_770m_8598_1"	"omz_770m_9721_1"	"omz_770m_9721_0"	"omz_770m_7506_0"	"omz_770m_9407_1"	"omz_770m_1791_1"	"omz_770m_10678_0"	"omz_770m_5805_1"
+RXN-11198	NIL
+RXN-11199	NIL
+RXN-10829	NIL
+RXN-10828	"1-carboxyvinyl carboxyphosphonate phosphorylmutase (decarboxylating)"	"omz_770m_1698_0"
+RXN-10824	"2-hydroxyethylphosphonate dioxygenase"
+RXN-10827	"carboxyvinyl-carboxyphosphonate phosphorylmutase"	"omz_770m_1698_0"
+RXN-10826	NIL
+RXN-10821	NIL
+RXN-11667	"(S)-3-hydroxybutanoyl-CoA dehydrogenase"	"omz_770m_8374_1"	"omz_770m_2163_0"
+RXN-8629	"dihydrolipoyl dehydrogenase"
+ACETYLSYNCLTH-RXN	NIL
+RXN-11662	NIL
+MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN	NIL
+RXN-7101	NIL
+PYRROLINECARBREDUCT-RXN	NIL	"omz_770m_2764_0"	"omz_770m_8167_2"	"omz_770m_11148_1"
+RXN1G-1212	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+RXN-5472	NIL
+RXN-5471	NIL
+RXN-5470	NIL
+METHYLACYLYLCOA-HYDROXY-RXN	"Methylacrylyl-CoA hydratase"	"omz_770m_7642_0"	"omz_770m_4362_1"	"omz_770m_5856_1"	"omz_770m_5851_1"	"omz_770m_5811_1"	"omz_770m_5815_1"	"omz_770m_10542_1"	"omz_770m_10137_0"	"omz_770m_9402_0"	"omz_770m_3337_0"	"omz_770m_11288_1"	"omz_770m_9311_0"	"omz_770m_3556_0"	"omz_770m_7898_0"	"omz_770m_3776_0"	"omz_770m_9618_1"	"omz_770m_962_0"	"omz_770m_8374_1"	"omz_770m_2163_0"
+3.2.1.120-RXN	NIL
+OCTAPRENYL-METHYL-METHOXY-BENZOQ-OH-RXN	NIL
+BILIVERDIN-REDUCTASE-RXN	NIL
+ACETYLORNDEACET-RXN	NIL	"omz_770m_10047_1"	"omz_770m_3214_2"	"omz_770m_1799_0"	"omz_770m_6770_0"
+RXN-12104	NIL
+RXN-11200	NIL	"omz_770m_3300_0"	"omz_770m_3103_0"
+RXN-11209	NIL	"omz_770m_8190_0"
+RXN-14014	"4-hydroxy-tetrahydrodipicolinate reductase"
+RXN-1021	NIL	"omz_770m_10904_0"	"omz_770m_7865_0"
+RXN-1022	NIL
+PROPIONYL-COA-CARBOXY-RXN	NIL	"omz_770m_8786_0"	"omz_770m_975_0"	"omz_770m_10860_0"	"omz_770m_1953_0"	"omz_770m_9670_0"	"omz_770m_8634_0"
+RXN-1025	NIL
+R545-RXN	NIL
+RXN-2581	NIL
+RXN0-302	NIL	"omz_770m_7527_0"	"omz_770m_9050_0"
+CHOLINE-KINASE-RXN	NIL
+RXN0-308	"cysteine desulfurase"	"omz_770m_9975_0"	"omz_770m_2148_1"	"omz_770m_5576_0"	"omz_770m_8072_0"	"omz_770m_8879_0"	"omz_770m_3119_0"	"omz_770m_4520_0"	"omz_770m_11308_0"	"omz_770m_5796_0"	"omz_770m_698_0"	"omz_770m_2465_0"	"omz_770m_9060_0"
+RXN-10139	"L-tryptophan--pyruvate aminotransferase"
+RXN-3443	NIL	"omz_770m_756_0"	"omz_770m_37_0"	"omz_770m_10087_0"	"omz_770m_6180_0"	"omz_770m_10867_0"	"omz_770m_515_0"	"omz_770m_3685_0"	"omz_770m_6943_0"	"omz_770m_9186_0"	"omz_770m_6094_0"	"omz_770m_3123_1"	"omz_770m_4498_0"
+CYTIKIN-RXN	NIL	"omz_770m_708_1"
+3.5.4.27-RXN	NIL
+UROCANATE-HYDRATASE-RXN	NIL	"omz_770m_4641_0"	"omz_770m_5679_1"
+RXN1G-1529	"3-oxo-C86-cis-keto-mycolate-reductase"
+RXN1G-1528	"3-oxo-C86-trans-methoxy-mycolate-reductase"
+RXN1G-1527	"3-oxo-C85-cis-methoxy-mycolate reductase"
+RXN-1623	NIL	"omz_770m_1998_1"	"omz_770m_4175_0"
+GLUTCYSLIG-RXN	NIL	"omz_770m_6922_0"	"omz_770m_3816_0"
+RIBULOSE-BISPHOSPHATE-CARBOXYLASE-RXN	NIL	"omz_770m_10419_2"	"omz_770m_10419_1"
+OXALODECARB-RXN	NIL	"omz_770m_10796_0"
+RXN-9220	NIL	"omz_770m_5245_0"
+RXN-9990	NIL	"omz_770m_10844_1"	"omz_770m_9109_0"	"omz_770m_6920_0"	"omz_770m_3074_1"
+4.2.1.59-RXN	"3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase"
+RXN-10695	NIL
+2-OCTAPRENYL-6-OHPHENOL-METHY-RXN	"2-octaprenyl-6-hydroxyphenyl methylase"
+CDPKIN-RXN	NIL	"omz_770m_7962_0"	"omz_770m_9221_1"
+RXN-9710	NIL
+PYRNUTRANSHYDROGEN-RXN	NIL	"omz_770m_3595_0"	"omz_770m_10093_0"
+MALATE--COA-LIGASE-RXN	NIL	"omz_770m_9544_1"
+GLUTAMATE-SYNTHASE-FERREDOXIN-RXN	NIL	"omz_770m_6231_0"	"omz_770m_7157_0"	"omz_770m_3131_0"	"omz_770m_212_0"	"omz_770m_7281_0"	"omz_770m_904_0"	"omz_770m_10983_0"	"omz_770m_6974_0"	"omz_770m_7537_0"
+RXN-6724	NIL
+RXN-11998	"&beta;-<i>apo</i>-4'-carotenal oxygenase"
+RXN-11999	NIL
+UROGENIIISYN-RXN	NIL
+RXN-9970	NIL
+2-DEHYDROPANTOATE-REDUCT-RXN	NIL	"omz_770m_7136_1"	"omz_770m_6485_1"
+1.14.19.3-RXN	NIL
+4OHBENZOATE-OCTAPRENYLTRANSFER-RXN	NIL	"omz_770m_6328_1"
+2OXOGLUTDECARB-RXN	NIL	"omz_770m_10653_1"
+RXN-13110	"theophylline <i>N</i>1-demethylase"
+RXN1G-1633	"trehalose-mono-mycolate O-mycolyltransferase"
+RXN-13113	"1,3-dimethylurate synthase"
+RXN-13114	"3-methylurate synthase"
+RXN-13115	"1-methylurate synthase"
+RXN1G-138	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN0-3942	NIL	"omz_770m_910_2"
+GLYCINE-FORMIMINOTRANSFERASE-RXN	NIL
+RXN1G-648	"3-cis-delta21,39-3-hydroxyC58:2-[acyl-carrier protein] dehydratase"
+MUCONOLACTONE-DELTA-ISOMERASE-RXN	NIL	"omz_770m_6476_0"
+RXN-7835	NIL	"omz_770m_3629_0"	"omz_770m_5697_0"
+ARGININE-2-MONOOXYGENASE-RXN	NIL
+RXN-7836	NIL	"omz_770m_252_0"
+RXN66-469	"3-methyl-branched fatty acyl-CoA ligase"	"omz_770m_3021_0"	"omz_770m_7949_0"	"omz_770m_460_1"	"omz_770m_5967_0"	"omz_770m_5077_0"	"omz_770m_8565_0"	"omz_770m_9633_1"	"omz_770m_2468_0"	"omz_770m_10169_0"	"omz_770m_2157_0"	"omz_770m_9875_1"
+RXN1G-324	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+2.1.1.114-RXN	"hexaprenyldihydroxybenzoate methyltransferase"
+RXN-7838	NIL	"omz_770m_7642_0"	"omz_770m_4362_1"	"omz_770m_5856_1"	"omz_770m_5851_1"	"omz_770m_5811_1"	"omz_770m_5815_1"	"omz_770m_10542_1"	"omz_770m_10137_0"	"omz_770m_9402_0"	"omz_770m_3337_0"	"omz_770m_11288_1"	"omz_770m_9311_0"	"omz_770m_3556_0"	"omz_770m_7898_0"	"omz_770m_3776_0"	"omz_770m_9618_1"	"omz_770m_962_0"	"omz_770m_8374_1"	"omz_770m_2163_0"
+RXN1G-132	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+R13-RXN	NIL
+STREPTOMYCIN-6-PHOSPHATASE-RXN	NIL
+KDPGALDOL-RXN	NIL	"omz_770m_3895_1"
+ACETYLORNTRANSAM-RXN	NIL	"omz_770m_9818_1"	"omz_770m_1766_0"	"omz_770m_7525_0"	"omz_770m_1907_0"	"omz_770m_293_0"	"omz_770m_5402_0"
+R543-RXN	NIL
+DEHYDDEOXGALACTKIN-RXN	"2-dehydro-3-deoxygalactonokinase"
+RXN-7637	NIL
+2-OXOPENT-4-ENOATE-HYDRATASE-RXN	NIL
+RXN0-5409	NIL
+PYRUFLAVREDUCT-RXN	NIL	"omz_770m_7026_0"	"omz_770m_6746_1"	"omz_770m_6852_0"
+RXN-12971	NIL
+SIROHEME-FERROCHELAT-RXN	NIL
+RXN-7745	NIL
+R503-RXN	NIL
+RXN-7743	NIL	"omz_770m_9054_0"	"omz_770m_11086_0"
+RXN1G-182	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN1G-181	"&alpha;-meroacyl-AMP transferase"
+S-ADENMETSYN-RXN	NIL	"omz_770m_9115_0"	"omz_770m_7651_0"
+RXN-525	"(+)-dihydrokaempferol 3'-hydroxylase"
+RXN1G-188	"cis-delta11-3-hydroxyC30:1-[acyl-carrier protein] dehydratase"
+RXN0-2161	NIL	"omz_770m_3590_0"	"omz_770m_4109_2"	"omz_770m_6320_0"	"omz_770m_2264_0"
+RXN-8925	NIL
+RXN0-5398	NIL	"omz_770m_1553_0"	"omz_770m_2881_0"	"omz_770m_8953_0"	"omz_770m_8057_0"	"omz_770m_6048_2"	"omz_770m_8353_0"	"omz_770m_3455_1"	"omz_770m_1923_0"	"omz_770m_3621_0"	"omz_770m_10107_1"	"omz_770m_1679_1"	"omz_770m_2079_1"
+RXN0-5393	NIL	"omz_770m_8374_1"	"omz_770m_2163_0"
+RXN-12080	"L-xylo-3-hexulose reductase"
+RXN0-5391	NIL
+RXN-821	NIL	"omz_770m_3796_0"	"omz_770m_8650_1"
+RXN-12579	NIL
+PROTOHEMEFERROCHELAT-RXN	NIL	"omz_770m_355_0"	"omz_770m_10651_0"	"omz_770m_5465_1"
+RXN-12575	"all-trans retinyl-ester hydrolase"	"omz_770m_2629_0"	"omz_770m_10163_1"	"omz_770m_2219_1"
+4.1.1.72-RXN	NIL
+GLUCOKIN-RXN	NIL
+4.3.1.17-RXN	NIL
+GLUCONATE-DEHYDRATASE-RXN	NIL	"omz_770m_5337_1"	"omz_770m_32_1"
+ARGININE--TRNA-LIGASE-RXN	NIL	"omz_770m_7786_1"	"omz_770m_1172_0"	"omz_770m_1642_0"	"omz_770m_8405_1"	"omz_770m_5616_0"	"omz_770m_5403_0"	"omz_770m_8384_0"
+RXN1A0-6314	NIL
+HISTIDPHOS-RXN	NIL	"omz_770m_326_1"	"omz_770m_6414_1"
+PHENDEHYD-RXN	NIL
+DIHYDROOROT-RXN	NIL	"omz_770m_2275_0"	"omz_770m_7900_0"	"omz_770m_6142_1"	"omz_770m_4409_1"	"omz_770m_8099_0"	"omz_770m_1427_0"	"omz_770m_9911_0"	"omz_770m_6759_0"	"omz_770m_1715_1"
+RXN1G-509	"trans-delta2-cis,cis-9,21-C40:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-508	"3-oxo-lignoceroyl-[acyl-carrier protein] reductase"
+DIMETHYLMALEATE-HYDRATASE-RXN	NIL
+R601-RXN	NIL	"omz_770m_1722_0"	"omz_770m_9499_0"
+R62-RXN	NIL
+RXN1A0-6318	NIL
+RXN-12790	"3-oxo-24-ethyl-cholest-5-ene isomerase"
+4.2.1.99-RXN	NIL
+PREPHENATEDEHYDROG-RXN	NIL	"omz_770m_5107_1"	"omz_770m_6738_0"	"omz_770m_9613_0"
+RXN-12794	NIL
+RXN-12797	NIL
+RXN-10952	NIL	"omz_770m_8888_1"	"omz_770m_10976_0"
+4.1.1.51-RXN	NIL
+METHENYLTHFCYCLOHYDRO-RXN	NIL	"omz_770m_11200_0"
+RXN-12401	"xyloglucan-specific endo-&beta;-1,4-glucanase"
+RXN-12400	"xyloglucan XLLG oligosaccharide &beta;-galactosidase"	"omz_770m_7958_0"
+RXN-12402	"isoprimeverose &alpha;-xylosidase"
+FORMATE-DEHYDROGENASE-NADP+-RXN	NIL
+RXN-12157	NIL
+6-HYDROXYNICOTINATE-REDUCTASE-RXN	NIL
+RXN-12155	NIL
+TYRAMINOTRANS-RXN	"Tyrosine transaminase"
+6PGLUCONOLACT-RXN	NIL	"omz_770m_3742_1"
+TYROSINE-AMINOTRANSFERASE-RXN	NIL
+RXN-10839	NIL
+BADH-RXN	NIL	"omz_770m_703_0"	"omz_770m_8177_0"	"omz_770m_800_1"	"omz_770m_9869_0"
+MALSYN-RXN	NIL	"omz_770m_9505_0"	"omz_770m_11043_0"	"omz_770m_9991_0"
+RXN-10834	NIL
+RXN-10835	NIL
+RXN-721	NIL
+RXN-10833	NIL
+RXN-10830	NIL
+RXN-10831	NIL
+RXN1G-617	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+SUPEROX-DISMUT-RXN	NIL	"omz_770m_8821_0"
+RXN0-2382	NIL	"omz_770m_8495_1"	"omz_770m_524_1"	"omz_770m_4547_0"	"omz_770m_8093_1"	"omz_770m_8093_0"	"omz_770m_1270_0"	"omz_770m_6776_1"	"omz_770m_6776_0"	"omz_770m_8065_0"	"omz_770m_8064_0"
+RXN1G-613	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+TRYPTOPHAN-AMINOTRANSFERASE-RXN	NIL
+RXN-8890	NIL
+RXN-8891	NIL
+SUCCINATE--COA-LIGASE-GDP-FORMING-RXN	NIL	"omz_770m_9362_1"	"omz_770m_7866_0"	"omz_770m_8849_0"	"omz_770m_4464_0"	"omz_770m_645_0"	"omz_770m_2060_1"	"omz_770m_2060_0"	"omz_770m_1729_0"
+CHORISMATE-SYNTHASE-RXN	NIL	"omz_770m_7299_0"
+RXN-1104	NIL
+RXN-1103	NIL
+RXN-7744	NIL
+5.4.99.15-RXN	NIL
+GLUCONOKIN-RXN	NIL
+RXN-10639	NIL
+LUMAZINESYN-RXN	NIL	"omz_770m_304_1"	"omz_770m_272_1"
+RXN-11543	NIL
+RXN-11542	"2'-aminobiphenyl-2,3-diol dioxygenase"	"omz_770m_8281_1"
+1.4.1.11-RXN	NIL
+UDPMANACATRANS-RXN	NIL
+TYRAMINE-N-FERULOYLTRANSFERASE-RXN	NIL
+GLUCONATE-5-DEHYDROGENASE-RXN	NIL	"omz_770m_2698_0"
+RXN-9535	"&beta;-ketoacyl-acyl-carrier-protein synthase I"
+AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN	"Tryptophan decarboxylase"
+RXN-9532	"3-oxo-dodecanoyl-[acyl-carrier protein] reductase"
+ANTHRANSYN-RXN	NIL	"omz_770m_10322_0"	"omz_770m_7512_0"	"omz_770m_2645_0"	"omz_770m_7656_1"	"omz_770m_3075_0"	"omz_770m_6323_0"
+RXN-8162	NIL
+CATAL-RXN	NIL	"omz_770m_3879_0"
+QUINOPRIBOTRANS-RXN	NIL	"omz_770m_9916_0"	"omz_770m_6309_0"
+RXN-9386	NIL
+MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN	"Myo-inositol-1(or 4)-monophosphatase"	"omz_770m_8888_1"	"omz_770m_10976_0"
+RXN0-882	NIL	"omz_770m_7255_2"	"omz_770m_8316_1"
+RXN0-884	NIL	"omz_770m_481_1"	"omz_770m_9663_0"	"omz_770m_9423_0"	"omz_770m_2729_0"	"omz_770m_1896_0"	"omz_770m_5529_2"
+3.11.1.2-RXN	NIL	"omz_770m_6275_0"
+RXN1G-1084	"cis-delta19-3-hydroxyC38:1-[acyl-carrier protein] dehydratase"
+RXN0-6510	NIL
+RIBOFLAVINSYNREDUC-RXN	NIL	"omz_770m_9189_0"
+AMINO-CARBOXYMUCONATE-SEMIALDEHYDE-RXN	NIL	"omz_770m_4455_1"
+4.2.1.101-RXN	NIL
+BETA-GLUCURONID-RXN	NIL
+CPM-KDOSYNTH-RXN	NIL	"omz_770m_3825_0"	"omz_770m_9310_0"	"omz_770m_8659_1"	"omz_770m_9758_0"	"omz_770m_4801_0"	"omz_770m_3106_0"
+GLYCOGENIN-GLUCOSYLTRANSFERASE-RXN	NIL
+DTMPKI-RXN	NIL	"omz_770m_25_0"
+H2PTEROATESYNTH-RXN	NIL	"omz_770m_2211_0"	"omz_770m_1227_0"
+RXN-9969	"di-<i>trans</i>,poly-<i>cis</i>-polyprenyl diphosphate synthase [(2<i>E</i>,6<i>E</i>)-farnesyl diphosphate specific]"	"omz_770m_754_0"
+CYTIDEAM-RXN	NIL
+RXN1G-285	"trans-delta2-cis-delta9-C28:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN-9527	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN-6641	NIL
+GLYCINE--TRNA-LIGASE-RXN	NIL	"omz_770m_6458_0"	"omz_770m_9913_0"	"omz_770m_447_1"	"omz_770m_8763_0"	"omz_770m_5391_0"	"omz_770m_8161_0"
+RXN-6642	NIL	"omz_770m_8501_0"	"omz_770m_628_0"	"omz_770m_5756_0"	"omz_770m_10123_0"
+RXN-9363	NIL	"omz_770m_5245_0"
+ALLOPHANATE-HYDROLASE-RXN	NIL
+RXN-9361	NIL	"omz_770m_5245_0"
+RXN-9360	NIL	"omz_770m_7204_0"	"omz_770m_10611_0"
+RXN-9366	NIL	"omz_770m_5245_0"
+PORPHOBILSYNTH-RXN	NIL	"omz_770m_6471_0"	"omz_770m_2149_0"	"omz_770m_312_1"
+RXN1G-334	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+ADENOSYLHOMOCYSTEINASE-RXN	NIL	"omz_770m_6499_0"	"omz_770m_9447_0"	"omz_770m_448_0"	"omz_770m_28_0"	"omz_770m_4538_0"	"omz_770m_4209_1"	"omz_770m_3560_0"
+RXN1G-337	"trans-delta2-cis,cis-delta13,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+R11-RXN	"butyryl coenzyme A transferase"
+RXN1G-339	"trans-delta2-cis-cis-delta7-19-C38:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-12629	"chitobiase"
+IMIDPHOSDEHYD-RXN	NIL	"omz_770m_3004_1"	"omz_770m_5440_1"
+RXN-8746	NIL	"omz_770m_5312_0"
+FHLMULTI-RXN	NIL
+RXN3O-5293	NIL
+RXN-7607	NIL	"omz_770m_8998_0"	"omz_770m_4789_1"
+RXN-7605	NIL
+FGAMSYN-RXN	NIL	"omz_770m_5351_0"	"omz_770m_2005_0"	"omz_770m_10198_0"	"omz_770m_5235_1"	"omz_770m_10213_1"	"omz_770m_7090_2"	"omz_770m_3668_1"	"omz_770m_8154_0"	"omz_770m_11113_1"	"omz_770m_7058_0"	"omz_770m_269_0"
+GCVMULTI-RXN	NIL
+GLUTAMATE-SYNTHASE-NADH-RXN	NIL	"omz_770m_9509_0"	"omz_770m_7400_0"	"omz_770m_6000_0"	"omz_770m_2721_0"	"omz_770m_233_0"	"omz_770m_10983_0"	"omz_770m_6974_0"	"omz_770m_7537_0"
+GLYCOGENSYN-RXN	NIL	"omz_770m_8241_0"
+RXN-12968	NIL
+RXN-12969	NIL
+RXN1G-424	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+RXN1G-425	"3-cis,cis-delta7,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+GSAAMINOTRANS-RXN	NIL	"omz_770m_10943_0"	"omz_770m_8800_1"	"omz_770m_84_0"
+1.14.13.36-RXN	NIL
+ATPPHOSPHORIBOSYLTRANS-RXN	NIL	"omz_770m_2504_1"	"omz_770m_6985_0"	"omz_770m_4693_0"
+TRANS-HEXAPRENYLTRANSTRANSFERASE-RXN	NIL	"omz_770m_11156_0"	"omz_770m_4650_0"
+RXN-8141	NIL
+HYDROXYPYRROLINEDEH-RXN	"pyrroline-hydroxy-carboxylate dehydrogenase"	"omz_770m_5928_0"	"omz_770m_9437_0"
+GLUCOSE-1-PHOSPHAT-RXN	NIL
+MANNPISOM-RXN	NIL
+1.13.11.6-RXN	NIL	"omz_770m_1423_0"
+RXN0-5258	"sn-glycerol 3-phosphate:ubiquinone oxidoreductase"
+3-OXOADIPATE-ENOL-LACTONASE-RXN	NIL	"omz_770m_1103_0"	"omz_770m_5451_0"
+2.7.7.1-RXN	NIL	"omz_770m_9244_0"
+COBALADENOSYLTRANS-RXN	"Cob(I)alamin adenosyltransferase"	"omz_770m_11015_0"	"omz_770m_6560_0"
+D-LACTALDEHYDE-DEHYDROGENASE-RXN	NIL
+RXN0-6479	NIL	"omz_770m_9976_0"	"omz_770m_4089_0"	"omz_770m_11267_0"	"omz_770m_11037_0"	"omz_770m_2016_0"
+RXN0-6478	NIL	"omz_770m_3766_0"	"omz_770m_4845_0"
+RXN0-6274	NIL	"omz_770m_8226_0"
+PHOSPHOKETOLASE-RXN	NIL
+RXN-9666	NIL
+RXN1G-517	"3-hydroxylignoceroyl-[acyl-carrier protein] dehydratase"
+2.7.1.148-RXN	NIL
+RXN-12782	"3-oxo-24-ethyl-cholest-4,24-dien-26-oyl-CoA carboxylase"
+RXN-12780	"3,24-dioxo-cholest-4-en-26-oate:CoA ligase"
+RXN-12781	"3-oxo-24-(isopropanoate)-cholest-4,24-dien-26-oyl-CoA hydrolase"
+RXN-12786	"3-oxo-24-ethyl-26-al-cholest-4-ene dehydrogenase"
+RXN-12787	"3-oxo-24-ethyl-26-hydroxy-cholest-4-ene dehydrogenase"
+RXN-12784	"3-oxo-24-ethyl-cholest-4-en-26-oyl-CoA dehydrogenase"
+RXN-12785	"3-oxo-24-ethyl-cholest-4-en-26-oate:CoA ligase"
+RXN-12788	"3-oxo-24-ethyl-cholest-4-ene C-26 monooxygenase"
+RXN-12789	"sitosterol dehydrogenase"
+QUINOLINATE-SYNTHA-RXN	NIL	"omz_770m_2641_0"	"omz_770m_9474_0"	"omz_770m_9927_0"	"omz_770m_7248_1"	"omz_770m_10166_0"
+R101-RXN	NIL
+RXN1G-3641	"cis-&Delta;21-39-hydroxy-40-methyl-C59:1-[acp] reductase"
+RXN1G-193	"trans-delta2-cis,cis-5,17-C36:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-196	"trans-delta2-cis,cis-delta11,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-4541	NIL
+1.97.1.1-RXN	NIL
+DCMP-DEAMINASE-RXN	NIL	"omz_770m_5994_1"
+RXN0-2001	NIL
+3-HYDROXY-KYNURENINASE-RXN	NIL	"omz_770m_11206_0"	"omz_770m_4072_0"
+RXN-8391	NIL
+RXN-8390	NIL
+RXN1G-607	"trans-delta2-cis,cis-delta15,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN3O-102	"3-demethylubiquinol-6 3-O-methyltransferase"	"omz_770m_6175_1"
+RXN-1823	NIL	"omz_770m_9368_0"
+RXN-1824	NIL
+RXN-1825	NIL	"omz_770m_9368_0"
+RXN-1826	"starch phosphorylase"
+RXN-1827	NIL
+RXN-8889	NIL
+AMINOBENZCOALIG-RXN	NIL
+RIBAZOLEPHOSPHAT-RXN	NIL
+SAICARSYN-RXN	NIL	"omz_770m_3426_0"	"omz_770m_3712_1"
+TAGAKIN-RXN	NIL
+DHBDEHYD-RXN	NIL
+RXN-8081	NIL
+RXN-8080	NIL	"omz_770m_317_0"	"omz_770m_5699_0"
+MUCONATE-CYCLOISOMERASE-RXN	NIL
+RXN-8775	NIL
+RXN-8774	NIL
+RXN-8772	NIL	"omz_770m_3851_1"
+RXN-8771	NIL
+RXN-8770	NIL
+COBALAMINSYN-RXN	NIL	"omz_770m_4141_0"
+5.3.3.14-RXN	NIL
+ACETATEKIN-RXN	NIL	"omz_770m_6820_1"
+DTDPKIN-RXN	NIL
+RXN66-337	"LTD4 dipeptidase"	"omz_770m_4625_0"	"omz_770m_5072_0"	"omz_770m_10319_0"	"omz_770m_9990_0"
+1.14.12.4-RXN	NIL
+METHYLMALONYL-COA-EPIM-RXN	NIL	"omz_770m_2230_0"	"omz_770m_11408_0"
+RXN-11318	NIL
+RXN-11319	NIL
+RXN-8173	NIL
+2.1.4.2-RXN	NIL
+BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN	NIL
+L-ARABINONOLACTONASE-RXN	NIL
+GLYCPDIESTER-RXN	NIL	"omz_770m_10941_0"	"omz_770m_7064_1"	"omz_770m_420_0"	"omz_770m_1077_1"	"omz_770m_1077_0"
+3.2.1.14-RXN	NIL	"omz_770m_148_0"
+RXN-9174	NIL
+3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN	NIL	"omz_770m_360_0"	"omz_770m_3313_0"	"omz_770m_4796_0"	"omz_770m_3562_1"
+RXN-9172	NIL
+RXN-9173	NIL
+RXN-9170	NIL
+RXN-9171	NIL
+2.9.1.1-RXN	NIL	"omz_770m_1757_0"	"omz_770m_8683_0"	"omz_770m_7393_0"
+RXN0-748	NIL	"omz_770m_890_0"	"omz_770m_7669_0"	"omz_770m_6295_0"	"omz_770m_3049_0"	"omz_770m_1992_0"	"omz_770m_6825_0"	"omz_770m_3041_0"	"omz_770m_6143_0"	"omz_770m_8572_0"	"omz_770m_1918_0"	"omz_770m_10261_0"	"omz_770m_11309_0"	"omz_770m_10410_0"	"omz_770m_3070_0"	"omz_770m_10973_0"	"omz_770m_2951_0"	"omz_770m_4821_0"	"omz_770m_4016_0"	"omz_770m_6570_0"	"omz_770m_11002_0"
+GTPPYPHOSKIN-RXN	NIL	"omz_770m_7164_0"	"omz_770m_5578_0"	"omz_770m_2521_0"	"omz_770m_6502_0"	"omz_770m_5099_1"
+L-LACTATE-DEHYDROGENASE-RXN	NIL
+1.2.1.25-RXN	NIL
+RXN0-745	NIL
+RXN0-746	NIL
+RXN0-747	NIL	"omz_770m_890_0"	"omz_770m_7669_0"	"omz_770m_6295_0"	"omz_770m_3049_0"	"omz_770m_1992_0"	"omz_770m_6825_0"	"omz_770m_3041_0"	"omz_770m_6143_0"	"omz_770m_8572_0"	"omz_770m_1918_0"	"omz_770m_10261_0"	"omz_770m_11309_0"	"omz_770m_10410_0"	"omz_770m_3070_0"	"omz_770m_10973_0"	"omz_770m_2951_0"	"omz_770m_4821_0"	"omz_770m_4016_0"	"omz_770m_6570_0"	"omz_770m_11002_0"
+RXN-3641	NIL
+ADCLY-RXN	NIL	"omz_770m_8690_0"
+1.3.1.2-RXN	NIL	"omz_770m_8190_0"
+RXN-9288	NIL
+RXN-9286	NIL
+RXN-9287	"heptaprenyldihydroxybenzoate methyltransferase"
+PROTEIN-ARGININE-DEIMINASE-RXN	NIL	"omz_770m_6526_0"
+LACTOSE-6-PHOSPHATE-ISOMERASE-RXN	NIL	"omz_770m_9366_0"
+RXN-12532	NIL
+PYRUVATE-CARBOXYLASE-RXN	NIL	"omz_770m_10110_0"	"omz_770m_4_0"	"omz_770m_4453_0"
+RXN-9914	"5-chlorosalicylate 1-monooxygenase"	"omz_770m_1728_1"	"omz_770m_6178_1"
+2.7.7.13-RXN	NIL	"omz_770m_10643_0"	"omz_770m_9893_0"	"omz_770m_2609_1"	"omz_770m_7755_0"	"omz_770m_6329_0"	"omz_770m_9342_0"
+RXN0-1147	NIL	"omz_770m_7666_0"	"omz_770m_11226_1"	"omz_770m_10996_1"	"omz_770m_10996_0"	"omz_770m_6264_0"
+RXN-9912	"4-chlorosalicylate monooxygenase"	"omz_770m_1728_1"	"omz_770m_6178_1"
+RXN-9913	NIL
+RXN-6581	NIL
+PHOSPHASERSYN-RXN	NIL	"omz_770m_5908_0"	"omz_770m_292_1"
+2.6.1.56-RXN	NIL
+2.5.1.42-RXN	NIL
+1.1.1.262-RXN	"4-hydroxythreonine-4-phosphate dehydrogenase"	"omz_770m_10694_0"	"omz_770m_2127_0"
+RXN-13045	NIL
+HOMOSERKIN-RXN	NIL	"omz_770m_10819_0"
+RXN-9358	NIL
+RXN-9359	NIL	"omz_770m_7204_0"	"omz_770m_10611_0"
+RXN0-5061	NIL	"omz_770m_986_0"
+RXN66-483	NIL	"omz_770m_3021_0"	"omz_770m_7949_0"	"omz_770m_460_1"	"omz_770m_5967_0"	"omz_770m_5077_0"	"omz_770m_8565_0"	"omz_770m_9633_1"	"omz_770m_2468_0"	"omz_770m_10169_0"	"omz_770m_2157_0"	"omz_770m_9875_1"
+IMPCYCLOHYDROLASE-RXN	NIL	"omz_770m_2960_0"
+RXN-9825	NIL
+RXN66-241	NIL
+DEOXYADENPHOSPHOR-RXN	NIL
+THYM-PHOSPH-RXN	NIL	"omz_770m_10087_1"
+CYSTEINE--TRNA-LIGASE-RXN	NIL	"omz_770m_2771_0"	"omz_770m_8448_0"	"omz_770m_8638_0"	"omz_770m_8284_0"	"omz_770m_2954_0"	"omz_770m_5657_0"
+ACETATE--COA-LIGASE-RXN	NIL	"omz_770m_6936_0"	"omz_770m_4871_0"	"omz_770m_1577_1"	"omz_770m_2784_2"	"omz_770m_6253_0"	"omz_770m_9926_0"	"omz_770m_1261_0"	"omz_770m_331_0"	"omz_770m_738_0"	"omz_770m_6190_0"	"omz_770m_11420_1"	"omz_770m_11140_1"	"omz_770m_10910_0"
+RXN1G-79	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+1.3.7.2-RXN	NIL
+1.1.1.43-RXN	NIL
+RXN-7614	NIL	"omz_770m_3675_1"	"omz_770m_7251_1"	"omz_770m_1536_0"	"omz_770m_5961_0"	"omz_770m_619_0"	"omz_770m_1788_0"
+RXN1G-853	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN0-1382	NIL	"omz_770m_1137_0"	"omz_770m_4343_0"	"omz_770m_7888_0"	"omz_770m_6431_0"	"omz_770m_5593_1"	"omz_770m_4509_0"	"omz_770m_2626_0"	"omz_770m_4106_0"	"omz_770m_10525_1"	"omz_770m_10931_0"	"omz_770m_3245_0"
+GTP-CYCLOHYDRO-I-RXN	NIL	"omz_770m_7774_0"	"omz_770m_8841_0"
+BISPHOSPHOGLYCERATE-MUTASE-RXN	NIL	"omz_770m_55_0"
+GUANINE-DEAMINASE-RXN	NIL
+AKBLIG-RXN	NIL	"omz_770m_6722_0"	"omz_770m_6901_0"	"omz_770m_3647_0"
+RXN1G-3256	"trans-&Delta;18-37-hydroxy-38-methyl-C58:1-[acp] reductase"
+RXN0-2145	NIL
+RXN0-2144	NIL
+PHOSMANMUT-RXN	NIL	"omz_770m_2875_0"	"omz_770m_3054_0"	"omz_770m_1845_0"	"omz_770m_6608_0"	"omz_770m_2182_1"
+RXN0-2141	NIL
+RXN-9362	NIL	"omz_770m_5245_0"
+RXN1G-292	"C87-trans-keto-mycolate O-mycolyltransferase"
+RXN1G-291	"C86-cis-keto-mycolate O-mycolyltransferase"
+RXN1G-290	"C87-trans-mycolate O-mycolyltransferase"
+RXN1G-297	"trans-keto-meroacyl-AMP transferase"
+RXN1G-296	"cis-keto-meroacyl-AMP transferase"
+RXN1G-295	"trans-methoxy-meroacyl-AMP transferase"
+RXN1G-294	"3-cis,cis-delta13,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+PRDABST-RXN	NIL
+3.2.1.91-RXN	NIL
+RXN0-5260	NIL	"omz_770m_2239_0"
+RXN-9365	NIL	"omz_770m_7204_0"	"omz_770m_10611_0"
+3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN	NIL	"omz_770m_8713_1"	"omz_770m_10542_0"
+NADH-KINASE-RXN	NIL
+PYRIDOXAL-4-DEHYDROGENASE-RXN	NIL	"omz_770m_3795_0"
+1.14.99.36-RXN	NIL
+RXN0-5118	NIL
+NADH-DEHYDROG-A-RXN	NIL	"omz_770m_6895_1"	"omz_770m_1308_1"	"omz_770m_1308_0"	"omz_770m_3182_1"	"omz_770m_9723_0"	"omz_770m_6519_1"	"omz_770m_6519_0"	"omz_770m_8606_0"	"omz_770m_813_0"	"omz_770m_9500_0"	"omz_770m_1762_0"	"omz_770m_8000_2"	"omz_770m_8000_1"	"omz_770m_8000_0"	"omz_770m_1000_1"	"omz_770m_6849_0"	"omz_770m_8995_1"	"omz_770m_6020_0"	"omz_770m_1298_1"	"omz_770m_1298_0"	"omz_770m_3510_1"	"omz_770m_250_0"	"omz_770m_6189_0"	"omz_770m_8769_0"	"omz_770m_10054_0"	"omz_770m_9578_0"	"omz_770m_4694_1"	"omz_770m_786_0"	"omz_770m_3387_1"	"omz_770m_3387_0"	"omz_770m_823_0"	"omz_770m_6773_0"	"omz_770m_4861_0"	"omz_770m_634_1"	"omz_770m_634_0"	"omz_770m_10935_0"	"omz_770m_11066_1"	"omz_770m_4179_1"	"omz_770m_4179_0"	"omz_770m_1099_1"	"omz_770m_3263_1"	"omz_770m_3263_0"	"omz_770m_5096_0"	"omz_770m_6600_0"	"omz_770m_8759_1"	"omz_770m_1065_0"	"omz_770m_5774_0"	"omz_770m_3484_0"
+RXN0-5114	NIL	"omz_770m_8673_0"
+RXN-8963	NIL
+GLUTAMATE-FORMIMINOTRANSFERASE-RXN	NIL	"omz_770m_4396_0"	"omz_770m_6220_0"
+2-METHYLACYL-COA-DEHYDROGENASE-RXN	NIL
+RXN-8964	NIL
+RIBULP3EPIM-RXN	NIL	"omz_770m_10554_0"	"omz_770m_7746_1"	"omz_770m_8847_1"	"omz_770m_2907_0"
+2-METHYLCITRATE-DEHYDRATASE-RXN	NIL	"omz_770m_600_1"
+BISPHOSPHOGLYCERATE-PHOSPHATASE-RXN	NIL
+2.8.3.9-RXN	NIL
+NICONUCADENYLYLTRAN-RXN	NIL	"omz_770m_1181_1"
+L-GLN-FRUCT-6-P-AMINOTRANS-RXN	NIL	"omz_770m_6861_0"	"omz_770m_10075_0"	"omz_770m_2890_1"	"omz_770m_1355_0"
+RXN1G-236	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+SUCCGLUDESUCC-RXN	NIL
+RXN-10814	"L-phenylalanine aminotransferase"	"omz_770m_5727_0"	"omz_770m_8339_0"	"omz_770m_11077_1"	"omz_770m_5594_0"	"omz_770m_1478_0"	"omz_770m_9383_0"	"omz_770m_4462_0"	"omz_770m_311_0"	"omz_770m_9928_0"	"omz_770m_9293_0"	"omz_770m_100_0"	"omz_770m_3543_0"	"omz_770m_10143_1"
+RXN-10815	"2-oxo-3-phenylpropanoate dioxygenase"	"omz_770m_6104_0"
+RXN-10816	"phenylpyruvate reductase"
+RXN-10817	"phenylethylamine oxidase"	"omz_770m_1736_2"
+RXN-7921	"eriodictyol 5'-hydroxylase"
+RXN0-3521	NIL	"omz_770m_2003_0"	"omz_770m_1097_0"
+RXN-10819	NIL	"omz_770m_59_0"	"omz_770m_6646_1"	"omz_770m_2152_0"
+PEPCARBOX-RXN	NIL	"omz_770m_7030_0"	"omz_770m_657_0"
+RXN1G-674	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase"
+1.2.1.32-RXN	NIL
+3.5.99.5-RXN	NIL
+CHD-RXN	NIL	"omz_770m_3964_0"	"omz_770m_5356_0"	"omz_770m_5850_0"	"omz_770m_4524_0"	"omz_770m_5133_0"	"omz_770m_6152_1"	"omz_770m_2634_0"
+RXN1G-679	"trans-delta2-cis,cis-delta21,39-C58:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-9092	NIL
+DOLICHOL-KINASE-RXN	NIL
+GLYCOLATEDEHYDRO-RXN	NIL	"omz_770m_9585_0"	"omz_770m_9333_0"	"omz_770m_8048_0"
+PGPPHOSPHA-RXN	NIL	"omz_770m_8665_0"
+3.1.3.40-RXN	NIL
+SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	NIL	"omz_770m_582_1"	"omz_770m_582_0"	"omz_770m_3996_1"	"omz_770m_7843_1"	"omz_770m_7167_0"	"omz_770m_4724_0"	"omz_770m_27_0"
+RXN-8346	"di-homo-&gamma;-linolenate &Delta;<sup>5</sup> desaturase"
+2.3.1.135-RXN	NIL
+RXN-1126	NIL
+CHITIN-DEACETYLASE-RXN	NIL	"omz_770m_5570_0"
+RXN-4466	NIL
+RXN-4465	NIL
+RXN-4464	NIL
+RXN-11782	NIL	"omz_770m_9070_0"
+RXN-11781	NIL
+RXN0-6482	NIL	"omz_770m_9936_0"	"omz_770m_8618_1"	"omz_770m_3102_0"	"omz_770m_3044_0"	"omz_770m_7791_0"
+THI-P-KIN-RXN	NIL	"omz_770m_8581_0"	"omz_770m_4848_0"
+RXN-8740	"hydroquinone 1,2-dioxygenase"
+RXN0-6481	NIL	"omz_770m_9936_0"	"omz_770m_8618_1"	"omz_770m_3102_0"	"omz_770m_3044_0"	"omz_770m_7791_0"
+RXN1G-4142	"cis-keto-C60-meroacyl-[acp] synthetase"
+RXN1G-4143	"trans-keto-C61-meroacyl-[acp] synthetase"
+RXN1G-4140	"cis-methoxy-C59-meroacyl-[acp] synthetase"
+RXN1G-4141	"trans-methoxy-C60-meroacyl-[acp] synthetase"
+RXN-2902	NIL
+RXN-2901	NIL	"omz_770m_6982_0"	"omz_770m_3625_0"
+DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN	NIL
+2OXOGLUTARATEDEH-RXN	"2-oxoglutarate dehydrogenase complex"
+UDPKIN-RXN	NIL	"omz_770m_7962_0"	"omz_770m_9221_1"
+METHYLCROTONYL-COA-CARBOXYLASE-RXN	NIL	"omz_770m_9370_0"	"omz_770m_2240_0"
+CYTOCHROME-C-OXIDASE-RXN	NIL	"omz_770m_8322_1"	"omz_770m_2332_0"	"omz_770m_1456_0"	"omz_770m_8332_0"	"omz_770m_10327_1"	"omz_770m_10327_0"	"omz_770m_1080_0"	"omz_770m_10058_0"	"omz_770m_10569_1"	"omz_770m_10569_0"	"omz_770m_2002_0"	"omz_770m_4228_0"	"omz_770m_4734_0"	"omz_770m_930_0"
+KDOTRANS-RXN	NIL	"omz_770m_8485_0"
+FORMYLTHFDEFORMYL-RXN	"formyltetrahydrofolate deformylase"	"omz_770m_6935_1"	"omz_770m_3653_0"	"omz_770m_8352_0"
+COBINPGUANYLYLTRANS-RXN	NIL
+AMP-DEPHOSPHORYLATION-RXN	"AMP-5'-nucleotidase"
+RXN-11832	NIL	"omz_770m_10752_0"	"omz_770m_4782_0"	"omz_770m_6738_1"	"omz_770m_7995_1"	"omz_770m_2123_1"	"omz_770m_1673_1"
+SHIKIMATE-KINASE-RXN	NIL	"omz_770m_3637_1"	"omz_770m_9800_0"	"omz_770m_8387_0"
+ORNCARBAMTRANSFER-RXN	NIL	"omz_770m_5771_1"	"omz_770m_3581_1"	"omz_770m_9652_1"	"omz_770m_10379_0"
+RXN-8184	NIL	"omz_770m_1713_1"
+RXN-8185	NIL
+RXN-8186	NIL
+RXN-8187	NIL
+RXN-10784	"5-hydroxytryptophol UDP-glucuronosyltransferase"
+RXN-10785	NIL
+RXN-10780	"5-hydroxyindole acetaldehyde dehydrogenase"	"omz_770m_756_0"	"omz_770m_37_0"	"omz_770m_10087_0"	"omz_770m_6180_0"	"omz_770m_10867_0"	"omz_770m_515_0"	"omz_770m_3685_0"	"omz_770m_6943_0"	"omz_770m_9186_0"	"omz_770m_6094_0"	"omz_770m_3123_1"	"omz_770m_4498_0"
+RXN-10781	"5-hydroxytryptophol dehydrogenase"	"omz_770m_159_0"	"omz_770m_1684_0"	"omz_770m_6029_0"	"omz_770m_10612_0"	"omz_770m_1652_1"	"omz_770m_6732_0"	"omz_770m_7195_0"	"omz_770m_6039_0"
+RXN-10782	"5-hydroxytryptophol sulfotransferase"
+RXN-11498	"perchlorate reductase"
+GLYC3PDEHYDROGBIOSYN-RXN	NIL	"omz_770m_9801_1"
+RXN-9169	NIL
+RXN-9168	NIL
+GLUTAMATESYN-RXN	NIL	"omz_770m_3406_0"	"omz_770m_7458_0"	"omz_770m_6974_1"	"omz_770m_5484_1"	"omz_770m_5484_0"	"omz_770m_5216_0"	"omz_770m_7200_0"	"omz_770m_1745_0"	"omz_770m_8397_0"	"omz_770m_2602_0"	"omz_770m_300_0"	"omz_770m_4316_0"	"omz_770m_10209_0"	"omz_770m_803_0"	"omz_770m_4750_0"	"omz_770m_6363_0"	"omz_770m_10983_0"	"omz_770m_6974_0"	"omz_770m_7537_0"
+H2NEOPTERINALDOL-RXN	NIL
+2.3.1.157-RXN	NIL	"omz_770m_1778_0"
+RXN-9167	NIL
+HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN	NIL	"omz_770m_1083_1"	"omz_770m_3364_0"
+1.2.7.4-RXN	NIL	"omz_770m_9179_0"
+DTDPDEHYDRHAMEPIM-RXN	NIL
+BETA-LYSINE-56-AMINOMUTASE-RXN	NIL
+2.5.1.19-RXN	NIL	"omz_770m_493_1"	"omz_770m_7254_0"	"omz_770m_6540_0"	"omz_770m_6343_0"	"omz_770m_2432_1"	"omz_770m_1846_1"
+1.97.1.2-RXN	NIL	"omz_770m_627_0"
+RXN-11569	NIL	"omz_770m_2371_0"	"omz_770m_4736_0"
+OXALATE-COA-TRANSFERASE-RXN	NIL
+5.3.1.23-RXN	NIL	"omz_770m_2548_1"	"omz_770m_8044_0"
+RXNMETA-12671	NIL
+METHYLACETOACETYLCOATHIOL-RXN	"2-methylacetoacetyl-CoA thiolase"	"omz_770m_7648_0"	"omz_770m_2296_0"	"omz_770m_5188_1"	"omz_770m_303_1"	"omz_770m_571_0"	"omz_770m_2097_0"	"omz_770m_5205_0"	"omz_770m_3304_1"	"omz_770m_3304_0"
+DIMETHUROPORDEHYDROG-RXN	NIL	"omz_770m_7317_0"
+GLUCURONATE-REDUCTASE-RXN	NIL
+MANNONOXIDOREDUCT-RXN	NIL
+PABASYN-RXN	NIL	"omz_770m_11190_0"
+LACTALDEHYDE-OXI-RXN	NIL
+RXN-9296	NIL	"omz_770m_9665_1"
+GDPREDUCT-RXN	NIL	"omz_770m_890_0"	"omz_770m_7669_0"	"omz_770m_6295_0"	"omz_770m_3049_0"	"omz_770m_1992_0"	"omz_770m_6825_0"	"omz_770m_3041_0"	"omz_770m_6143_0"	"omz_770m_8572_0"	"omz_770m_1918_0"	"omz_770m_10261_0"	"omz_770m_11309_0"	"omz_770m_10410_0"	"omz_770m_3070_0"	"omz_770m_10973_0"	"omz_770m_2951_0"	"omz_770m_4821_0"	"omz_770m_4016_0"	"omz_770m_6570_0"	"omz_770m_11002_0"
+H2PTERIDINEPYROPHOSPHOKIN-RXN	NIL	"omz_770m_2950_0"
+4-HYDROXYPROLINE-EPIMERASE-RXN	NIL	"omz_770m_8598_0"
+PGLUCONDEHYDRAT-RXN	NIL
+R-2-METHYLMALATE-DEHYDRATASE-RXN	NIL
+DIAMINOPIMEPIM-RXN	NIL	"omz_770m_5784_1"	"omz_770m_2227_0"	"omz_770m_6300_0"
+DEPHOSPHOCOAKIN-RXN	NIL
+ACETONE-CYANHYDRIN-LYASE-RXN	"hydroxynitrilase"
+1.14.19.1-RXN	NIL	"omz_770m_1572_0"
+GLYOHMETRANS-RXN	NIL	"omz_770m_7989_0"	"omz_770m_9227_0"	"omz_770m_8050_1"	"omz_770m_10519_0"	"omz_770m_7992_0"	"omz_770m_2576_0"
+DHHB-METHYLTRANSFER-RXN	"3-demethylubiquinone-8 3-O-methyltransferase"
+RXN1G-420	"cis-delta7-3-hydroxyC26:1-[acyl-carrier protein] dehydratase"
+PEPDEPHOS-RXN	NIL
+XYLULOKIN-RXN	NIL	"omz_770m_2374_0"
+ANTHRANILOYL-COA-MONOOXYGENASE-RXN	NIL	"omz_770m_5496_0"
+RXN3O-12	NIL
+DIHYDROFOLATESYNTH-RXN	NIL
+GLUTAMINESYN-RXN	NIL	"omz_770m_8146_1"	"omz_770m_583_0"	"omz_770m_7025_0"	"omz_770m_4621_1"	"omz_770m_6453_0"	"omz_770m_9940_0"	"omz_770m_5360_0"	"omz_770m_3699_0"	"omz_770m_7720_1"	"omz_770m_503_1"
+R127-RXN	NIL
+CITTRANS-RXN	"citrate CoA-transferase"	"omz_770m_3216_0"	"omz_770m_9219_0"
+RXN1G-840	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+HISTIDINE-AMMONIA-LYASE-RXN	NIL	"omz_770m_762_0"
+RXN-7401	NIL	"omz_770m_1697_0"
+RXN1G-1247	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN1G-445	"3-oxo-behenoyl-[acp] synthase"
+RXN1G-440	"3-cis,cis-delta19,37-3-hydroxyC56:2-[acyl-carrier protein] dehydratase"
+SUCC-FUM-OXRED-RXN	NIL	"omz_770m_4532_1"	"omz_770m_10042_1"	"omz_770m_10042_0"	"omz_770m_3297_1"	"omz_770m_3297_0"	"omz_770m_2927_0"	"omz_770m_9108_1"	"omz_770m_109_1"	"omz_770m_4843_0"	"omz_770m_1722_0"	"omz_770m_9499_0"
+RXN66-349	"19-oxotestosterone 2-&beta;hydroxylation"
+RXN66-348	"19-hydroxytestosterone 19-dehydrogenase"
+NADNUCLEOSID-RXN	NIL
+RXN1G-288	"C78-&alpha;-mycolate-O-mycolyltransferase"
+RXN1G-289	"C85-cis-mycolate O-mycolyltransferase"
+2-OH-6-OXOHEPTA-2-4-DIENOATE-HYDR-RXN	"2-hydroxy-6-oxohepta-2,4-dienoate hydrolase"
+RXN1G-287	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] reductase"
+RXN66-345	"19-hydroxyandrostendione 19-dehydrogenase"
+RXN66-344	"androstenedione 19-hydroxylase"
+RXN66-347	"testosterone 19-hydroxylase"
+RXN66-346	"19-oxoandrostenedione 2-&beta:hydroxylase"
+R311-RXN	"Acrylamidase"	"omz_770m_6456_0"	"omz_770m_10002_0"	"omz_770m_7455_0"	"omz_770m_6725_0"	"omz_770m_8441_0"	"omz_770m_3045_0"	"omz_770m_687_0"	"omz_770m_10361_0"	"omz_770m_3416_1"	"omz_770m_10589_0"	"omz_770m_150_1"	"omz_770m_8010_0"
+RXN-12548	NIL
+RXN-12549	NIL
+RXN-11374	NIL	"omz_770m_10295_1"
+PHOSPHOMEVALONATE-KINASE-RXN	NIL
+SUCCORNTRANSAM-RXN	NIL
+RXN-7573	NIL
+GLYOXI-RXN	NIL	"omz_770m_7509_0"	"omz_770m_10167_0"
+3.1.2.23-RXN	NIL
+RXN1G-1325	"trans-delta2-cis,cis-delta15,33-C52:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+ENZRXN-161-RXN	NIL
+MEVALONATE-KINASE-RXN	NIL
+RXN-8974	NIL
+ENOYL-COA-DELTA-ISOM-RXN	"Dodecenoyl-CoA &delta;-isomerase"	"omz_770m_252_0"
+RXN0-5293	NIL	"omz_770m_3162_0"	"omz_770m_474_0"	"omz_770m_1064_0"	"omz_770m_2311_0"
+RXN0-6259	NIL
+KDO-8PSYNTH-RXN	NIL	"omz_770m_11339_1"	"omz_770m_9409_0"	"omz_770m_9687_1"	"omz_770m_9687_0"	"omz_770m_167_0"	"omz_770m_10538_0"
+5-FORMYL-THF-CYCLO-LIGASE-RXN	NIL
+RXN-13435	NIL
+ENOYL-ACP-REDUCT-NADPH-RXN	"2,3,4-saturated fatty acyl-[acp] dehydrogenase"
+ASPARTATE--TRNA-LIGASE-RXN	NIL	"omz_770m_58_0"	"omz_770m_10511_0"	"omz_770m_11287_0"	"omz_770m_4557_0"	"omz_770m_4200_0"	"omz_770m_2015_0"
+ADOMET-DMK-METHYLTRANSFER-RXN	NIL	"omz_770m_5245_0"	"omz_770m_98_1"
+1.1.1.254-RXN	NIL
+SHIKIMATE-PQQ-RXN	NIL	"omz_770m_8979_0"
+RXN1G-660	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+4.1.2.41-RXN	NIL
+GLUTAMATE-DEHYDROGENASE-RXN	NIL	"omz_770m_1910_0"	"omz_770m_1921_0"
+2TRANSKETO-RXN	"D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase"	"omz_770m_2797_0"	"omz_770m_10040_0"	"omz_770m_9133_0"	"omz_770m_4788_0"	"omz_770m_10647_0"	"omz_770m_6959_0"	"omz_770m_10554_1"	"omz_770m_4468_1"	"omz_770m_2043_0"	"omz_770m_2915_0"	"omz_770m_3340_1"	"omz_770m_2996_0"	"omz_770m_928_0"	"omz_770m_1727_1"
+SQUALENE-MONOOXYGENASE-RXN	NIL
+RXN-8350	"eicosatetraenoate &Delta;<sup>5</sup> desaturase"
+MEPROPCOA-FAD-RXN	"isobutyryl-CoA dehydrogenase"
+3.1.6.4-RXN	NIL	"omz_770m_8642_0"	"omz_770m_9313_0"	"omz_770m_1409_0"	"omz_770m_8771_0"
+1.1.1.220-RXN	NIL
+OHBUTYRYL-COA-EPIM-RXN	"3-hydroxybutyryl-CoA epimerase"
+1.13.11.9-RXN	NIL
+UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN	NIL	"omz_770m_1556_0"	"omz_770m_5835_0"	"omz_770m_5036_0"
+1.1.1.178-RXN	NIL
+3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN	NIL	"omz_770m_299_1"	"omz_770m_11217_1"
+GLUTKIN-RXN	NIL	"omz_770m_8199_0"	"omz_770m_10071_0"	"omz_770m_7036_0"	"omz_770m_1777_0"	"omz_770m_4754_0"	"omz_770m_9655_0"
+RXN-8755	NIL
+RXN-8754	NIL
+RXN-8757	NIL
+RXN-8756	NIL
+RXN-8751	NIL
+RXN1G-717	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN-8753	NIL
+RXN-8752	NIL
+RXN-8999	NIL	"omz_770m_10982_0"	"omz_770m_6843_0"	"omz_770m_7737_0"	"omz_770m_8541_0"	"omz_770m_5238_0"	"omz_770m_122_0"
+NITRATE-REDUCTASE-NADH-RXN	NIL	"omz_770m_6954_0"
+RXN-8992	NIL	"omz_770m_3659_0"	"omz_770m_3470_0"	"omz_770m_6401_0"	"omz_770m_6500_0"
+RXN-8991	"3-isopropylmalate dehydratase"	"omz_770m_9837_1"	"omz_770m_2235_0"	"omz_770m_7881_0"	"omz_770m_9075_0"	"omz_770m_2604_0"	"omz_770m_9922_1"	"omz_770m_7190_0"	"omz_770m_2136_0"	"omz_770m_7890_0"
+RXN-8990	"phenylaldehyde synthase"
+SUCROSE-PHOSPHATE-SYNTHASE-RXN	NIL
+RXN-1061	NIL
+ISOCITDEH-RXN	NIL	"omz_770m_1626_0"	"omz_770m_2047_1"
+DCDPKIN-RXN	NIL	"omz_770m_7962_0"	"omz_770m_9221_1"
+PHOSPHORIBULOKINASE-RXN	NIL
+RXN0-299	NIL	"omz_770m_3400_0"	"omz_770m_3664_0"	"omz_770m_10801_1"	"omz_770m_9299_0"	"omz_770m_6929_1"	"omz_770m_9755_1"	"omz_770m_7854_0"	"omz_770m_4907_2"
+RXN-2043	NIL	"omz_770m_2285_0"
+SALICYLATE-1-MONOOXYGENASE-RXN	NIL	"omz_770m_1728_1"	"omz_770m_6178_1"
+2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN	NIL
+RXN-1063	NIL
+DLACTDEHYDROGNAD-RXN	NIL
+CREATININASE-RXN	NIL
+ARGDECARBOX-RXN	NIL
+RXN-11480	"3-oxo-pimeloyl-[acp] methyl ester reductase"
+RXN-11481	NIL
+RXN-11482	NIL
+PHOSPHATE-BUTYRYLTRANSFERASE-RXN	NIL
+RXN-11484	NIL	"omz_770m_1657_0"
+PHENYLALANINE-4-MONOOXYGENASE-RXN	NIL
+BENZOATE-12-DIOXYGENASE-RXN	NIL	"omz_770m_4340_0"
+RXN-11373	"diphthamide synthase"	"omz_770m_10295_1"
+RXN-10777	"serotonin sulfotransferase"
+RXN-11371	NIL
+RXN-10779	NIL
+RXN-10778	"serotonin oxidase"	"omz_770m_1736_2"
+ENZRXN-201-RXN	NIL
+TRANS-RXN-213	NIL
+PRAISOM-RXN	NIL	"omz_770m_3449_1"
+RXN-2463	NIL	"omz_770m_7706_0"
+RXN-2462	NIL
+RXN-2464	NIL
+RXN0-6377	"nitrite reductase [NAD(P)H]"
+RXN1G-697	"<i>cis</i>-methoxy-meroacyl transferase"
+L-XYLULOSE-REDUCTASE-RXN	NIL
+ADENPHOSPHOR-RXN	"adenosine phosphorylase"
+RXN-1461	NIL	"omz_770m_5097_0"
+ISOCHORMAT-RXN	NIL	"omz_770m_11414_0"
+2.1.1.79-RXN	NIL	"omz_770m_5151_0"
+GUANYL-KIN-RXN	NIL	"omz_770m_2567_0"	"omz_770m_5119_2"	"omz_770m_3508_2"
+BRANCHED-CHAINAMINOTRANSFERVAL-RXN	"Valine transaminase"	"omz_770m_10026_0"	"omz_770m_7942_0"	"omz_770m_4607_0"	"omz_770m_145_0"	"omz_770m_4701_0"	"omz_770m_9645_1"	"omz_770m_7551_0"	"omz_770m_11132_0"	"omz_770m_780_0"	"omz_770m_1644_2"	"omz_770m_1058_1"	"omz_770m_6360_0"
+RXN1G-1053	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN-11483	NIL
+RXN1G-1057	"trans-delta2-cis,cis-delta19,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+CYSTATHIONINE-BETA-SYNTHASE-RXN	NIL	"omz_770m_4844_0"
+XYLISOM-RXN	NIL	"omz_770m_2462_0"
+MALIC-NAD-RXN	NIL
+IMP-DEHYDROG-RXN	NIL	"omz_770m_6818_0"	"omz_770m_10618_0"	"omz_770m_2146_2"	"omz_770m_1752_0"	"omz_770m_6133_0"	"omz_770m_6810_0"	"omz_770m_1213_0"
+RXN3O-4113	"tyrosol dehydrogenase"	"omz_770m_159_0"	"omz_770m_1684_0"	"omz_770m_6029_0"	"omz_770m_10612_0"	"omz_770m_1652_1"	"omz_770m_6732_0"	"omz_770m_7195_0"	"omz_770m_6039_0"
+HOMOSERDEHYDROG-RXN	NIL	"omz_770m_10570_0"	"omz_770m_677_0"
+RXN1G-883	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+AMP-DEAMINASE-RXN	NIL
+RXN-9023	NIL	"omz_770m_2430_0"
+RXN-9756	NIL
+RXN-9025	"maltodextrin phosphorylase"
+5-METHYLTHIORIBOSE-KINASE-RXN	NIL	"omz_770m_5684_0"
+RXN-9758	NIL	"omz_770m_756_0"	"omz_770m_37_0"	"omz_770m_10087_0"	"omz_770m_6180_0"	"omz_770m_10867_0"	"omz_770m_515_0"	"omz_770m_3685_0"	"omz_770m_6943_0"	"omz_770m_9186_0"	"omz_770m_6094_0"	"omz_770m_3123_1"	"omz_770m_4498_0"
+RXN-9759	NIL
+RXN-10773	"cellobiose &beta;-glucosidase"	"omz_770m_6548_0"	"omz_770m_10930_0"	"omz_770m_6134_0"	"omz_770m_10353_1"
+RXN-8190	NIL
+SAMDECARB-RXN	NIL
+PDXJ-RXN	NIL
+F16BDEPHOS-RXN	NIL
+RXN-11370	NIL	"omz_770m_10295_1"
+ADENYL-KIN-RXN	NIL	"omz_770m_10729_1"	"omz_770m_8105_1"
+UDP-NACMUR-ALA-LIG-RXN	NIL	"omz_770m_7020_0"	"omz_770m_4047_0"	"omz_770m_6652_0"	"omz_770m_1695_0"	"omz_770m_2619_0"
+R103-RXN	NIL	"omz_770m_3206_0"
+CDP-GLUCOSE-46-DEHYDRATASE-RXN	NIL	"omz_770m_8620_0"	"omz_770m_7637_0"	"omz_770m_10899_0"
+1.1.1.291-RXN	NIL
+METHYLITACONATE-DELTA-ISOMERASE-RXN	NIL	"omz_770m_2008_0"
+RXN-6161	NIL
+RXN-9624	"Stearoyl-CoA hydrolase"
+TEICHOICSYN4-RXN	NIL	"omz_770m_4235_0"
+BETA-UREIDOPROPIONASE-RXN	NIL
+RXN-12337	NIL
+PROLINE--TRNA-LIGASE-RXN	NIL	"omz_770m_2216_0"	"omz_770m_7288_0"	"omz_770m_1996_0"	"omz_770m_3376_0"	"omz_770m_121_0"	"omz_770m_6589_0"	"omz_770m_920_1"	"omz_770m_9996_0"
+GLYRIBONUCSYN-RXN	NIL	"omz_770m_1756_0"	"omz_770m_3023_0"	"omz_770m_8533_1"	"omz_770m_8533_0"	"omz_770m_9413_0"	"omz_770m_7039_0"	"omz_770m_4267_0"	"omz_770m_777_0"	"omz_770m_10354_0"	"omz_770m_8778_0"
+RXN-13086	"pseudooxynicotine"
+RXN-6763	NIL
+RXN1G-874	NIL
+RXN-13082	NIL
+RXN-13081	NIL
+R6-RXN	NIL
+RXN-13088	NIL
+RXN-13089	NIL
+RXN1G-473	"trehalose-cis-keto-mono-mycolate transport"
+RXN1G-472	"trehalose-trans-methoxy-mono-mycolate transport"
+RXN1G-471	"trans-delta2-cis,cis-delta19,37-C56:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-470	"trehalose-cis-methoxy-mono-mycolate transport"
+RXN1G-474	"trehalose-trans-keto-mono-mycolate transport"
+GLUCOSAMINE-KINASE-RXN	NIL
+PHOSCHOL-RXN	NIL
+3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	NIL
+RXN0-1342	NIL
+CITSYN-RXN	NIL	"omz_770m_5953_0"	"omz_770m_10106_0"
+DEOXYGLUCONOKIN-RXN	NIL	"omz_770m_8145_0"
+RXN-7968	NIL
+PPGPPSYN-RXN	NIL
+RXN-12204	NIL
+RXN-11974	"<i>all-trans</i>-lycopene desaturase"
+RXN-11976	"torulene synthase"
+2.4.1.114-RXN	NIL
+GLUC1PURIDYLTRANS-RXN	NIL
+RXN-13536	"phenylacetaldehyde reductase"
+RXN-7567	"indole-3-acetonitrile hydratase"	"omz_770m_5978_0"	"omz_770m_739_0"
+RXN-7566	NIL	"omz_770m_3720_0"	"omz_770m_3528_0"
+RXN-7775	NIL
+RXN66-61	NIL
+RXN-13532	"2-methylbacteriohopanetetrol synthase"
+RXN-13533	"aminobacteriohopanetriol synthase"
+SPERMIDINESYN-RXN	NIL	"omz_770m_815_0"	"omz_770m_5431_0"	"omz_770m_11285_1"
+PGLUCISOM-RXN	"glucose-6-phosphate isomerase"
+1.2.1.9-RXN	NIL	"omz_770m_410_0"
+AMYLOMALT-RXN	"4-&alpha;-glucanotransferase"	"omz_770m_2430_0"
+RXN1G-384	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+ACETOACETATE-DECARBOXYLASE-RXN	NIL
+TYROSINE-DECARBOXYLASE-RXN	NIL
+SULFATE-ADENYLYLTRANS-RXN	NIL	"omz_770m_8662_0"	"omz_770m_10275_0"	"omz_770m_4394_0"	"omz_770m_1411_0"	"omz_770m_9161_0"	"omz_770m_4318_1"	"omz_770m_3537_1"	"omz_770m_10695_1"	"omz_770m_2165_0"	"omz_770m_10480_1"	"omz_770m_5965_0"	"omz_770m_3667_0"	"omz_770m_1033_1"	"omz_770m_11233_0"	"omz_770m_1451_0"	"omz_770m_2467_0"	"omz_770m_1625_0"	"omz_770m_3143_0"	"omz_770m_2707_0"	"omz_770m_2153_0"
+3.2.1.48-RXN	NIL
+RXN-7784	NIL	"omz_770m_9269_1"
+3-ISOPROPYLMALISOM-RXN	"3-isopropylmalate dehydratase"	"omz_770m_9837_1"	"omz_770m_2235_0"	"omz_770m_7881_0"	"omz_770m_9075_0"	"omz_770m_2604_0"	"omz_770m_9922_1"	"omz_770m_7190_0"	"omz_770m_2136_0"	"omz_770m_7890_0"
+1.1.1.8-RXN	NIL
+RXN-12933	"dTDP-L-mycarosyl: erythronolide B mycarosyltransferase"
+OHACYL-COA-DEHYDROG-RXN	NIL	"omz_770m_7463_0"	"omz_770m_10411_0"	"omz_770m_6949_0"	"omz_770m_9734_0"
+RXN-1321	NIL
+RXN1G-129	NIL
+ACETYLHOMOSER-CYS-RXN	NIL	"omz_770m_5142_0"	"omz_770m_11024_0"
+ORNITHINE-CYCLODEAMINASE-RXN	NIL	"omz_770m_2724_0"
+PRPPAMIDOTRANS-RXN	NIL	"omz_770m_9667_0"	"omz_770m_7799_0"	"omz_770m_2160_1"	"omz_770m_7951_0"	"omz_770m_615_1"	"omz_770m_2897_0"	"omz_770m_2362_1"
+RXN1G-127	"cis,cis-delta11,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN1G-499	"3-oxo-lignoceroyl-[acyl-carrier protein] synthase"
+IGPSYN-RXN	NIL	"omz_770m_5162_0"	"omz_770m_8546_1"	"omz_770m_2984_0"	"omz_770m_7516_1"	"omz_770m_11405_1"
+RXN-5821	NIL
+RXN-5822	"NADP phosphatase"
+GMP-SYN-NH3-RXN	NIL
+THIOSULFATE-SULFURTRANSFERASE-RXN	NIL	"omz_770m_10308_1"
+RXN-12065	NIL
+RXN-12064	"indol-3-ylacetaldoxime isomerase"
+NMNNUCLEOSID-RXN	NIL
+RXN-12062	"<i>N</i>-hydroxy-L-tryptophan <em>N</em>-monooxygenase"
+RXN-12061	"tryptophan <em>N</em>-monooxygenase"
+RXN-4444	NIL
+R107-RXN	NIL
+RXN-4443	NIL
+RXN-1023	NIL
+1.1.1.261-RXN	NIL	"omz_770m_1509_0"
+PYRROLINECARBDEHYDROG-RXN	"1-pyrroline-5-carboxylate dehydrogenase"
+ALANINE-DEHYDROGENASE-RXN	NIL	"omz_770m_1590_0"	"omz_770m_2336_0"	"omz_770m_10946_0"	"omz_770m_7169_1"	"omz_770m_2188_0"	"omz_770m_7225_0"	"omz_770m_4389_0"
+GDPKIN-RXN	NIL
+MALATE-DEHYDROGENASE-NADP+-RXN	NIL
+RXNN-404	"indole acetamide hydrolase"	"omz_770m_6456_0"	"omz_770m_10002_0"	"omz_770m_7455_0"	"omz_770m_6725_0"	"omz_770m_8441_0"	"omz_770m_3045_0"	"omz_770m_687_0"	"omz_770m_10361_0"	"omz_770m_3416_1"	"omz_770m_10589_0"	"omz_770m_150_1"	"omz_770m_8010_0"
+1.17.1.1-RXN	NIL	"omz_770m_3557_1"
+RXN-8214	NIL
+RXN-8215	NIL
+PSII-RXN	NIL
+RXN-10696	NIL
+RXN-10697	NIL	"omz_770m_7642_0"	"omz_770m_4362_1"	"omz_770m_5856_1"	"omz_770m_5851_1"	"omz_770m_5811_1"	"omz_770m_5815_1"	"omz_770m_10542_1"	"omz_770m_10137_0"	"omz_770m_9402_0"	"omz_770m_3337_0"	"omz_770m_11288_1"	"omz_770m_9311_0"	"omz_770m_3556_0"	"omz_770m_7898_0"	"omz_770m_3776_0"	"omz_770m_9618_1"	"omz_770m_962_0"	"omz_770m_8374_1"	"omz_770m_2163_0"
+PANTOTHENATE-KIN-RXN	NIL	"omz_770m_940_1"
+1.3.7.5-RXN	NIL
+BETA-PHOSPHOGLUCOMUTASE-RXN	NIL
+RXN-8035	NIL
+RXN-10698	NIL	"omz_770m_7463_0"	"omz_770m_10411_0"	"omz_770m_6949_0"	"omz_770m_9734_0"
+RXN-10699	NIL	"omz_770m_620_0"	"omz_770m_8053_0"	"omz_770m_3454_0"	"omz_770m_2289_0"	"omz_770m_10127_0"
+2.1.1.19-RXN	NIL
+DEOXYINOPHOSPHOR-RXN	NIL
+DAHPSYN-RXN	NIL	"omz_770m_9973_1"	"omz_770m_11296_1"	"omz_770m_2588_0"	"omz_770m_8505_0"	"omz_770m_8295_0"	"omz_770m_10656_0"	"omz_770m_10308_0"	"omz_770m_2432_0"	"omz_770m_4949_0"
+GLURS-RXN	NIL	"omz_770m_1956_0"	"omz_770m_6169_0"	"omz_770m_5924_0"	"omz_770m_6626_0"	"omz_770m_4786_0"
+GUANPRIBOSYLTRAN-RXN	NIL	"omz_770m_8851_0"	"omz_770m_2860_1"
+AIRS-RXN	NIL	"omz_770m_9372_0"	"omz_770m_1401_1"
+AMPSYN-RXN	NIL	"omz_770m_2620_0"	"omz_770m_10404_0"	"omz_770m_5150_0"	"omz_770m_3712_0"
+3.4.23.39-RXN	NIL
+ARGININE-DEIMINASE-RXN	NIL
+RXN1G-1050	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+1.1.1.264-RXN	NIL
+ADENODEAMIN-RXN	NIL	"omz_770m_8851_1"	"omz_770m_10178_0"	"omz_770m_1273_0"	"omz_770m_966_0"	"omz_770m_9061_0"
+RXN-12978	NIL	"omz_770m_3021_0"	"omz_770m_7949_0"	"omz_770m_460_1"	"omz_770m_5967_0"	"omz_770m_5077_0"	"omz_770m_8565_0"	"omz_770m_9633_1"	"omz_770m_2468_0"	"omz_770m_10169_0"	"omz_770m_2157_0"	"omz_770m_9875_1"
+N-ACETYLTRANSFER-RXN	NIL
+FUC4NACTRANS-RXN	NIL
+TRYPTOPHAN--TRNA-LIGASE-RXN	NIL	"omz_770m_8815_0"	"omz_770m_10735_0"	"omz_770m_1605_0"	"omz_770m_7480_0"	"omz_770m_7656_0"	"omz_770m_1581_0"
+GLYOXIII-RXN	NIL	"omz_770m_4184_1"	"omz_770m_6330_1"	"omz_770m_4911_1"	"omz_770m_8174_0"	"omz_770m_1373_0"
+2-METHYLENEGLUTARATE-MUTASE-RXN	NIL
+RXN-1828	NIL	"omz_770m_2430_0"
+ACETOOHBUTREDUCTOISOM-RXN	NIL	"omz_770m_11039_1"	"omz_770m_1122_0"	"omz_770m_670_1"	"omz_770m_8799_0"	"omz_770m_8209_0"	"omz_770m_7879_0"
+PHENYLALANINE-AMMONIA-LYASE-RXN	NIL
+METHYLTHIOADENOSINE-NUCLEOSIDASE-RXN	NIL
+CYSTAGLY-RXN	NIL	"omz_770m_3485_1"
+GLUTSEMIALDEHYDROG-RXN	NIL
+N-ACETYLGLUTPREDUCT-RXN	NIL	"omz_770m_7231_0"	"omz_770m_8255_0"	"omz_770m_10336_0"	"omz_770m_11149_0"
+RXN1G-1117	"trans-delta2-cis,cis-delta13,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+KETOGLUTREDUCT-RXN	NIL
+R541-RXN	NIL	"omz_770m_6352_0"	"omz_770m_3584_0"
+RXN1G-1081	"cis,cis-delta13,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+PHOSGLYPHOS-RXN	NIL	"omz_770m_1954_0"	"omz_770m_5533_0"
+RXN66-105	NIL
+RXN66-104	NIL
+RXN66-103	NIL
+RXN66-101	NIL
+HISTCYCLOHYD-RXN	NIL	"omz_770m_2526_0"	"omz_770m_6860_0"
+GLUTACONYL-COA-DECARBOXYLASE-RXN	NIL
+4.3.1.4-RXN	NIL
+RXN-9633	"3-oxo-stearoyl-[acyl-carrier protein] reductase"
+RXN-9632	"3-oxo-stearoyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+RXN-9635	"<i>trans</i>-octadec-2-enoyl-[acyl-carrier-protein] reductase"	"omz_770m_9135_2"	"omz_770m_11118_0"
+RXN-9634	"3-hydroxystearoyl-[acyl-carrier protein] dehydratase"
+R546-RXN	NIL
+MALATE-DEH-RXN	NIL	"omz_770m_10001_0"	"omz_770m_6760_0"	"omz_770m_9480_1"	"omz_770m_11064_0"	"omz_770m_7893_0"	"omz_770m_963_0"	"omz_770m_8389_0"
+R7-RXN	NIL
+DEHYDDEOXPHOSGALACT-ALDOL-RXN	"2-dehydro-3-deoxy-6-phosphogalactonate aldolase"	"omz_770m_3848_0"	"omz_770m_7222_0"
+FERREDOXIN--NITRITE-REDUCTASE-RXN	NIL
+4.2.1.58-RXN	"crotonoyl-[acyl-carrier-protein] hydratase"
+KDO-8PPHOSPHAT-RXN	NIL	"omz_770m_11339_0"	"omz_770m_7440_0"
+RXN-9757	NIL
+RXN-13529	"ribosyl hopane synthase"
+1.13.11.25-RXN	NIL
+KETOHEXOKINASE-RXN	NIL
+2.4.1.117-RXN	NIL
+RXN1G-865	"<i>trans</i>-methoxy-meroacyl transferase"
+RXN1G-866	"cis-keto-meroacyl-transferase"
+RXN1G-867	"<i>trans</i>-keto-meroacyl transferase"
+NAD-SYNTH-NH3-RXN	NIL	"omz_770m_3409_0"	"omz_770m_1366_0"	"omz_770m_3604_1"	"omz_770m_5966_0"
+RXN1G-464	"cis,cis-delta5,17-3-hydroxyC36:2-[acyl-carrier protein] dehydratase"
+GARTRANSFORMYL2-RXN	NIL
+RXN-12397	NIL
+XMPXAN-RXN	"XMP-5'-nucleotidase"	"omz_770m_8998_0"	"omz_770m_4789_1"
+PHOSPHOGLUCMUT-RXN	NIL	"omz_770m_2182_1"
+PPPGPPHYDRO-RXN	NIL
+RXN1G-468	"trans-delta2-cis,cis-delta7,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-469	"3-oxobehenoyl-[acyl-carrier protein] reductase"
+RXN1G-262	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+RXN1G-260	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] reductase"
+RXN1G-266	"cis-delta9-3-hydroxyC28:1-[acyl-carrier protein] dehydratase"
+FUMARYLACETOACETASE-RXN	NIL	"omz_770m_9142_0"	"omz_770m_413_1"	"omz_770m_1617_1"
+LACTOSE-DEHYDRO-RXN	"lactose 3-dehydrogenase"
+THREODEHYD-RXN	NIL	"omz_770m_9772_0"
+L-ARABINITOL-4-DEHYDROGENASE-RXN	NIL
+HOMOCYSMETB12-RXN	NIL	"omz_770m_499_1"	"omz_770m_3001_0"	"omz_770m_11055_0"	"omz_770m_6692_0"	"omz_770m_4185_0"	"omz_770m_189_0"	"omz_770m_4679_0"	"omz_770m_7116_0"	"omz_770m_4430_1"	"omz_770m_5404_0"
+2PGADEHYDRAT-RXN	NIL	"omz_770m_4234_0"	"omz_770m_4728_0"	"omz_770m_8454_0"	"omz_770m_4572_0"	"omz_770m_374_0"	"omz_770m_3661_0"	"omz_770m_1092_0"	"omz_770m_9430_1"
+RXN0-5055	NIL	"omz_770m_524_0"	"omz_770m_10343_0"	"omz_770m_408_0"	"omz_770m_4764_0"	"omz_770m_7063_0"	"omz_770m_596_0"	"omz_770m_186_0"	"omz_770m_3486_0"	"omz_770m_11145_0"	"omz_770m_4789_0"
+3.1.3.57-RXN	NIL
+RXN0-5120	NIL
+RXN0-5121	NIL
+RXN0-5122	NIL
+RXN0-5123	NIL
+RXN0-5124	NIL
+RXN0-5125	NIL
+RXN0-5126	NIL
+RXN0-5127	NIL
+P-PANTOCYSLIG-RXN	NIL
+TRANS-CINNAMATE-4-MONOOXYGENASE-RXN	NIL
+LACTALDDEHYDROG-RXN	NIL
+1.1.1.39-RXN	NIL
+RXN1G-396	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-395	"trans-eicos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+N-CARBAMOYLSARCOSINE-AMIDASE-RXN	NIL
+RXN-13455	"<i>N</i>-acetylglutaminylglutamine synthase"
+RXN0-6491	"dihydroorotate dehydrogenase"
+RXN-13456	"<i>N</i>-acetylglutaminylglutamine amide synthase"	"omz_770m_11190_0"
+D-PPENTOMUT-RXN	"D-deoxyribose 1,5-phosphomutase"	"omz_770m_9103_1"
+RXN-12691	NIL
+GDPPYPHOSKIN-RXN	NIL	"omz_770m_7164_0"	"omz_770m_5578_0"	"omz_770m_2521_0"	"omz_770m_6502_0"	"omz_770m_5099_1"
+3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN	"3-hydroxyisobutyryl-CoA hydrolase"
+PHOSPHASERDECARB-RXN	NIL	"omz_770m_973_0"	"omz_770m_4123_1"	"omz_770m_292_0"
+RXN1G-3993	"C52-&alpha;-meroacyl-[acp] synthetase"
+RXN0-2044	"3-hydroxyadipyl-CoA dehydrogenase"	"omz_770m_7463_0"	"omz_770m_10411_0"	"omz_770m_6949_0"	"omz_770m_9734_0"
+RXN0-2042	NIL
+4.1.1.77-RXN	NIL	"omz_770m_6538_0"
+RIBOFLAVINKIN-RXN	NIL	"omz_770m_798_1"
+RXN1G-645	"3-cis,cis-delta9,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN1G-137	"trehalose-mono-mycolate transport"
+XANTHOSINEPHOSPHORY-RXN	"xanthosine phosphorylase"
+RXN1G-488	"trans-docos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-11002	NIL
+RXN1G-481	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"omz_770m_527_0"	"omz_770m_4536_0"	"omz_770m_4008_0"	"omz_770m_3186_0"	"omz_770m_10546_0"	"omz_770m_9808_1"	"omz_770m_3867_1"	"omz_770m_9129_1"	"omz_770m_4814_1"	"omz_770m_6088_1"	"omz_770m_852_0"	"omz_770m_4937_0"	"omz_770m_4934_1"	"omz_770m_8259_1"	"omz_770m_3235_0"	"omz_770m_7674_1"	"omz_770m_10073_0"	"omz_770m_11322_1"	"omz_770m_3817_1"	"omz_770m_9730_0"	"omz_770m_7692_1"	"omz_770m_2376_0"	"omz_770m_1547_1"	"omz_770m_4823_0"	"omz_770m_8828_1"	"omz_770m_1441_0"	"omz_770m_4152_0"	"omz_770m_1199_0"
+O-ACETYLHOMOSERINE-THIOL-LYASE-RXN	NIL	"omz_770m_5142_0"	"omz_770m_11024_0"
+LEUCINE--TRNA-LIGASE-RXN	NIL	"omz_770m_8498_0"	"omz_770m_807_2"	"omz_770m_807_1"	"omz_770m_4686_0"	"omz_770m_9303_0"	"omz_770m_10256_0"	"omz_770m_9548_0"	"omz_770m_760_0"	"omz_770m_1360_0"	"omz_770m_3933_0"	"omz_770m_10745_0"	"omz_770m_2591_0"	"omz_770m_2161_0"	"omz_770m_7033_1"	"omz_770m_7033_0"	"omz_770m_6131_0"	"omz_770m_10602_0"
+RXN-12078	"&beta;-D-galactose reductase"	"omz_770m_3851_1"
+RXN-12079	"D-galactitol dehydrogenase"
+2KETO-3METHYLVALERATE-RXN	"(<i>S</i>)-3-methyl-2-oxopentanoate dehydrogenase (acylating)"
+DAPASYN-RXN	NIL	"omz_770m_2820_0"	"omz_770m_561_0"	"omz_770m_8476_0"	"omz_770m_4627_0"	"omz_770m_10555_0"	"omz_770m_7169_0"	"omz_770m_1657_1"	"omz_770m_8566_0"
+4.1.2.29-RXN	NIL
+RXN-4301	NIL
+RXN-0	NIL
+RXN-1	NIL	"omz_770m_1736_2"
+NICOTINATE-DEHYDROGENASE-RXN	NIL
+RXN-9	NIL
+NICOTINAMID-RXN	NIL	"omz_770m_8179_0"	"omz_770m_8010_0"
+RXNQT-4142	NIL
+RXNQT-4141	NIL
+GALACTONDEHYDRAT-RXN	NIL	"omz_770m_10035_0"	"omz_770m_3283_0"	"omz_770m_6569_0"
+RXN-7245	NIL
+SARCOX-RXN	NIL	"omz_770m_9815_0"	"omz_770m_9521_0"	"omz_770m_9454_0"	"omz_770m_2683_0"	"omz_770m_554_0"	"omz_770m_1268_0"	"omz_770m_11006_0"	"omz_770m_9041_0"	"omz_770m_6175_0"	"omz_770m_2991_1"	"omz_770m_3129_0"
+L-ARABINONATE-DEHYDRATASE-RXN	NIL
+ALLANTOATE-DEIMINASE-RXN	NIL	"omz_770m_9305_0"
+RXN-8026	"&beta;-cryptoxanthin 3'-hydroxylase"
+RXN-8025	"&beta;-carotene 3-hydroxylase"
+RXN-4544	NIL
+RXN-4545	NIL
+GLUTATHIONE-SYN-RXN	NIL	"omz_770m_2794_1"	"omz_770m_6149_0"	"omz_770m_6922_1"	"omz_770m_4032_0"	"omz_770m_8866_0"	"omz_770m_8255_1"
+RXN-4542	NIL
+RXN0-363	NIL
+4.1.1.82-RXN	NIL
+RXN0-366	"guanosine hydrolase"
+RXN-14188	NIL
+RXN-14187	NIL
+RXN-11353	NIL
+O-SUCCHOMOSERLYASE-RXN	NIL	"omz_770m_2427_0"
+ASNSYNA-RXN	NIL	"omz_770m_11333_0"	"omz_770m_7238_0"	"omz_770m_4935_0"	"omz_770m_9880_0"	"omz_770m_4539_0"
+RXN-1685	NIL
+GLUCOSAMINE-6-P-DEAMIN-RXN	NIL
+IMIDAZOLONEPROPIONASE-RXN	NIL
+RXN-2881	NIL
+4-HYDROXYBENZOATE--COA-LIGASE-RXN	NIL	"omz_770m_8479_1"	"omz_770m_9373_0"
+PEPCARBOXYKIN-RXN	NIL	"omz_770m_9841_0"	"omz_770m_10565_0"	"omz_770m_4613_0"	"omz_770m_1847_0"
+GALACTOKIN-RXN	NIL	"omz_770m_9449_0"
+RXN0-4361	NIL
+4-HYDROXYGLUTAMATE-AMINOTRANSFERASE-RXN	NIL
+RXN-8529	NIL
+1.8.98.1-RXN	NIL	"omz_770m_10540_0"	"omz_770m_9942_1"	"omz_770m_9942_0"
+RXN0-949	NIL	"omz_770m_6107_0"	"omz_770m_8960_0"
+ARACHIDONATE-5-LIPOXYGENASE-RXN	"arachidonate 5-lipoxygenase"
+RXN0-947	NIL	"omz_770m_9819_2"	"omz_770m_10204_1"
+ARGININE-N-SUCCINYLTRANSFERASE-RXN	NIL
+RXN-9003	NIL
+DXPREDISOM-RXN	NIL	"omz_770m_1854_0"	"omz_770m_8500_0"	"omz_770m_8271_0"	"omz_770m_4055_0"
+RXN-9009	NIL
+TRIOKINASE-RXN	NIL
+5-AMINOLEVULINIC-ACID-SYNTHASE-RXN	NIL	"omz_770m_6907_1"	"omz_770m_6907_0"
+HYDROGEN-DEHYDROGENASE-RXN	NIL	"omz_770m_9218_0"	"omz_770m_1036_0"
+ACETOLACTSYN-RXN	NIL	"omz_770m_1480_0"	"omz_770m_2861_0"	"omz_770m_3375_0"	"omz_770m_6001_0"	"omz_770m_10788_0"	"omz_770m_2663_0"	"omz_770m_7650_0"	"omz_770m_7197_0"	"omz_770m_6546_1"	"omz_770m_282_1"	"omz_770m_330_1"	"omz_770m_10952_1"	"omz_770m_8799_1"	"omz_770m_2458_0"	"omz_770m_11062_0"	"omz_770m_8364_0"	"omz_770m_4757_0"	"omz_770m_9699_0"	"omz_770m_2565_0"	"omz_770m_6171_0"	"omz_770m_3107_1"	"omz_770m_3107_0"	"omz_770m_3489_1"	"omz_770m_3489_0"
+2.7.8.15-RXN	NIL	"omz_770m_7985_0"
+4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	NIL
+3-DEHYDROQUINATE-SYNTHASE-RXN	NIL	"omz_770m_8940_0"	"omz_770m_3637_0"	"omz_770m_8596_0"	"omz_770m_11431_0"	"omz_770m_4750_1"
+RXN-9648	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"omz_770m_2795_0"	"omz_770m_586_0"	"omz_770m_10_1"	"omz_770m_4857_0"	"omz_770m_8333_0"	"omz_770m_11150_0"	"omz_770m_10260_0"	"omz_770m_2495_0"	"omz_770m_9137_0"	"omz_770m_4654_1"	"omz_770m_6856_0"	"omz_770m_2027_0"
+GDPMANDEHYDRA-RXN	NIL	"omz_770m_2170_1"
+RXN-9644	NIL	"omz_770m_3021_0"	"omz_770m_7949_0"	"omz_770m_460_1"	"omz_770m_5967_0"	"omz_770m_5077_0"	"omz_770m_8565_0"	"omz_770m_9633_1"	"omz_770m_2468_0"	"omz_770m_10169_0"	"omz_770m_2157_0"	"omz_770m_9875_1"
+RXN-9310	NIL
+RXN-9311	NIL
+HOMOGLUTATHIONE-SYNTHASE-RXN	NIL
+N-ACETYLNEURAMINATE-SYNTHASE-RXN	NIL	"omz_770m_2174_0"	"omz_770m_1491_0"	"omz_770m_2517_0"	"omz_770m_2438_1"	"omz_770m_10264_0"
+RXN-9867	NIL
+RXN-9860	NIL
+RXN-9869	NIL
+4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN	NIL	"omz_770m_6104_0"
+RXNDQC-2	"indole-3-pyruvate monooxygenase"
+HOMOSERINE-O-ACETYLTRANSFERASE-RXN	NIL	"omz_770m_6824_0"	"omz_770m_2158_1"
+TEICHOICSYN8-RXN	NIL
+RXN1G-818	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] synthase"	"omz_770m_1882_0"
+CREATININE-DEAMINASE-RXN	NIL
+THIOL-S-METHYLTRANSFERASE-RXN	NIL
+RXN-13537	"phenylacetaldoxime hydrolase"
+RXN-13534	"2-methyltetrahymanol synthase"
+RXN-13535	"2-methyldiplopterol synthase"
+RXN1G-811	"6-O-trans-keto-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-810	"6-O-cis-keto-mycolyl-trehalose O-mycolyltransferase"
+RXN-13530	"formyl hopane synthase"
+RXN-13531	"bacteriohopanetetrol synthase"

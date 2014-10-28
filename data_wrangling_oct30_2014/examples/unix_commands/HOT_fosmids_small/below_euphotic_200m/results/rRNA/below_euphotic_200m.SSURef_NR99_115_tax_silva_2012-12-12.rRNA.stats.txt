@@ -1,0 +1,13 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	5
+
+	SSURef_NR99_115_tax_silva_2012-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+below_euphotic_200m_1134	129	815	91.86	0.0	941.0	Bacteria;Bacteroidetes;Flavobacteria;Flavobacteriales;Flavobacteriaceae;Leeuwenhoekiella;Leeuwenhoekiella aequorea
+below_euphotic_200m_4916	94	518	97.88	0.0	736.0	Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Marine Group II;uncultured marine group II euryarchaeote HF200_97B09
+below_euphotic_200m_4972	6	863	93.13	0.0	1260.0	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;SAR86 clade;uncultured bacterium
+below_euphotic_200m_1762	481	933	95.61	0.0	725.0	Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Marine Group II;uncultured archaeon
+below_euphotic_200m_6375	1	919	97.51	0.0	1574.0	Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Marine Group II;uncultured marine group II euryarchaeote DeepAnt-15E7

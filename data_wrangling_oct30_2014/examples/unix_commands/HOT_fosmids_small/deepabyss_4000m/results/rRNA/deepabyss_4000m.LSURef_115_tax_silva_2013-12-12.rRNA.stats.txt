@@ -1,0 +1,31 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	23
+
+	LSURef_115_tax_silva_2013-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+deepabyss_4000m_7140	16	668	80.58	4e-135	483.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+deepabyss_4000m_7634	52	967	82.42	0.0	763.0	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfarculus baarsii DSM 2075
+deepabyss_4000m_6440	51	276	87.55	2e-68	261.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;uncultured marine group II euryarchaeote 37F11
+deepabyss_4000m_8455	45	305	81.11	7e-51	202.0	Bacteria;Chloroflexi;Caldilineae;Caldilineales;Caldilineaceae;Litorilinea;Litorilinea aerophila
+deepabyss_4000m_10769	1	959	90.18	0.0	1245.0	Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;SAR406 clade(Marine group A);marine metagenome
+deepabyss_4000m_6813	343	560	79.2	9e-32	139.0	Bacteria;Firmicutes;Clostridia;Thermoanaerobacterales;Thermoanaerobacteraceae;Caldanaerobacter;Thermoanaerobacter tengcongensis MB4
+deepabyss_4000m_10818	2	647	85.5	0.0	664.0	Bacteria;Chloroflexi;Dehalococcoidia;Dehalococcoidales;Dehalococcoidaceae;Dehalococcoides;Dehalococcoides sp. GT
+deepabyss_4000m_4125	153	500	78.31	2e-53	211.0	Bacteria;Chloroflexi;SAR202 clade;marine metagenome
+deepabyss_4000m_6888	4	906	98.89	0.0	1613.0	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;Alcanivoraceae;Alcanivorax;uncultured Oceanospirillales bacterium HF0070_21F08
+deepabyss_4000m_9935	4	699	84.89	0.0	691.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Azospirillum;Azospirillum brasilense Sp245
+deepabyss_4000m_8145	17	642	81.52	2e-138	494.0	Bacteria;Chloroflexi;Dehalococcoidia;Dehalococcoidales;Dehalococcoidaceae;Dehalococcoides;Dehalococcoides sp. CBDB1
+deepabyss_4000m_5756	4	918	94.46	0.0	1400.0	Bacteria;Proteobacteria;Deltaproteobacteria;SAR324 clade(Marine group B);uncultured bacterium HF0500_25A21
+deepabyss_4000m_9036	2	879	86.63	0.0	953.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;marine metagenome
+deepabyss_4000m_148	11	614	82.4	2e-142	507.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+deepabyss_4000m_6285	281	814	76.74	6e-69	263.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Thalassospira;marine metagenome
+deepabyss_4000m_4880	6	825	86.33	0.0	883.0	Bacteria;Proteobacteria;Alphaproteobacteria;Caulobacterales;Hyphomonadaceae;Maricaulis;Maricaulis maris MCS10
+deepabyss_4000m_10849	3	570	84.19	1e-152	540.0	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;Sphingomonas sp. SKA58
+deepabyss_4000m_11072	29	606	84.92	2e-161	569.0	Bacteria;Firmicutes;Bacilli;Bacillales;Bacillaceae;Bacillus;Bacillus selenitireducens MLS10
+deepabyss_4000m_3915	45	806	84.13	0.0	726.0	Bacteria;Chloroflexi;Dehalococcoidia;Dehalococcoidales;Dehalococcoidaceae;Dehalococcoides;Dehalococcoides sp. BAV1
+deepabyss_4000m_1506	76	827	92.6	0.0	1079.0	Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;SAR406 clade(Marine group A);marine metagenome
+deepabyss_4000m_4714	22	932	89.84	0.0	1166.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;marine metagenome
+deepabyss_4000m_8910	5	238	83.13	7e-51	202.0	Bacteria;Proteobacteria;Alphaproteobacteria;Sphingomonadales;Sphingomonadaceae;Sphingobium;Sphingomonas sp. SKA58
+deepabyss_4000m_5432	1	881	92.23	0.0	1238.0	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;marine metagenome

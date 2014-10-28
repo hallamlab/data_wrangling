@@ -1,0 +1,16 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	8
+
+	SSURef_NR99_115_tax_silva_2012-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+upper_euphotic_70m_8362	1	966	93.05	0.0	1404.0	Bacteria;Proteobacteria;Gammaproteobacteria;KI89A clade;uncultured bacterium
+upper_euphotic_70m_2761	64	915	99.53	0.0	1552.0	Bacteria;Proteobacteria;Deltaproteobacteria;SAR324 clade(Marine group B);uncultured bacterium
+upper_euphotic_70m_10070	361	917	99.46	0.0	1011.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI;Prochlorococcus;Prochlorococcus marinus str. AS9601
+upper_euphotic_70m_994	369	821	91.54	6e-175	617.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Thalassospira;alpha proteobacterium CJ11073
+upper_euphotic_70m_7753	17	967	92.2	0.0	1334.0	Bacteria;Proteobacteria;Alphaproteobacteria;OCS116 clade;marine metagenome
+upper_euphotic_70m_8067	29	442	96.86	0.0	691.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;uncultured;uncultured bacterium
+upper_euphotic_70m_1075	592	946	90.78	2e-130	470.0	Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Family Incertae Sedis;Candidatus Microthrix;uncultured bacterium A1Q1_fos_862
+upper_euphotic_70m_5344	1	612	92.97	0.0	889.0	Eukaryota;Opisthokonta;Holozoa;Metazoa;Animalia;Cnidaria;Anthozoa;Nematostella vectensis (starlet sea anemone)

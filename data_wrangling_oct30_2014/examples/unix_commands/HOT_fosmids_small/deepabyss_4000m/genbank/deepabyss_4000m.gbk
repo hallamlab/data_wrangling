@@ -1,0 +1,2000 @@
+LOCUS       deepabyss_4000m_1704  1009 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..1009
+                     /organism="1..1009"
+                     /strain="1"
+                     /chromosome="1"
+     gene            44..235
+                     /locus_tag="deepabyss_4000m_1704_0"
+     CDS             44..235
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_1704_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=VSGDGGESYAPPSQSSPYREGRGLLVAALLGMTEAVVRGIG
+                     GCYTLRRYVLQLGRRGSSPNAK
+     gene            225..800
+                     /locus_tag="deepabyss_4000m_1704_1"
+     CDS             225..800
+                     /product=[Chloroflexi bacterium SCGC AB-629-P13]
+                     /locus_tag="deepabyss_4000m_1704_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MRSDRPLISPGQTSWTINKWLAFLIVAISSFIATLDAGVVG
+                     VSLPTLARYFGTSESTILWVNVVFFVVGLGLLPTMGWVGDKRGRRNIFSLGFLI
+                     FTLGMALAALSQSVFFLIAARFVQGIGNAMLMANGLAIIAQSFPTNERGKAIGL
+                     QGAVLGVGLAGGPAIGGFILDTLGWQALFYTRLPIGPFRHGP
+     gene            802..1008
+                     /locus_tag="deepabyss_4000m_1704_2"
+     CDS             802..1008
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_1704_2"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MGSPFPEPASQKEPLNLDYLGALTLFVGYAGLLLRLARAAV
+                     WDFGLLRFRLWEGFPILPICHFGPGGK
+ORIGIN               
+        1 CATCGAGGAT AGGCCCTGAC AGGTCGGGGC AGGCAGGGTC AGGGTGAGCG GAGATGGAGG 
+       61 GGAATCGTAT GCACCCCCAT CTCAATCTTC CCCCTATAGA GAGGGAAGAG GTTTGTTGGT 
+      121 GGCTGCGCTC CTCGGAATGA CGGAGGCGGT TGTGCGTGGG ATTGGGGGGT GCTACACTTT 
+      181 GCGTCGCTAC GTACTTCAGT TAGGGAGGAG GGGAAGTTCT CCGAATGCGA AGTGACAGGC 
+      241 CACTCATCTC TCCTGGGCAG ACGTCCTGGA CGATAAACAA ATGGCTGGCC TTTCTTATCG 
+      301 TGGCAATAAG CAGCTTCATA GCCACTCTTG ACGCCGGCGT TGTTGGCGTT TCCCTTCCCA 
+      361 CCCTGGCCAG ATATTTCGGC ACCAGCGAGT CGACCATCCT GTGGGTTAAT GTCGTCTTCT 
+      421 TCGTCGTCGG TCTAGGACTA TTGCCCACTA TGGGATGGGT CGGCGATAAG AGGGGAAGGC 
+      481 GAAATATCTT TAGCCTTGGC TTTCTAATCT TCACCCTGGG AATGGCCTTG GCCGCCTTAT 
+      541 CTCAGTCCGT TTTCTTTCTG ATAGCTGCCC GCTTCGTGCA GGGGATAGGC AATGCGATGC 
+      601 TCATGGCAAA TGGCCTTGCC ATCATAGCCC AGTCATTTCC AACTAACGAA AGGGGCAAGG 
+      661 CTATAGGGCT ACAGGGCGCC GTGCTGGGGG TCGGGCTGGC GGGGGGGCCA GCTATCGGGG 
+      721 GCTTTATTCT CGATACCTTA GGCTGGCAGG CCCTGTTTTA TACTCGTCTC CCCATAGGTC 
+      781 CTTTTAGGCA TGGCCCATAG CATGGGAAGT CCTTTCCCAG AGCCAGCAAG CCAGAAGGAG 
+      841 CCGCTTAATC TGGACTACTT AGGAGCCTTA ACCCTTTTTG TAGGTTATGC GGGCCTTCTG 
+      901 CTAAGGCTAG CCCGAGCAGC CGTCTGGGAT TTTGGGCTCC TCCGATTCCG CCTATGGGAG 
+      961 GGATTCCCTA TCCTTCCGAT TTGCCACTTT GGTCCTGGTG GAAAACAGG
+//
+LOCUS       deepabyss_4000m_8348   921 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..921
+                     /organism="1..921"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(9..839)
+                     /locus_tag="deepabyss_4000m_8348_0"
+     CDS             complement(9..839)
+                     /product=Bile acid:sodium symporter
+                     /locus_tag="deepabyss_4000m_8348_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=LCPVLGVLLYTTFTQVPLTHLAPAFRDRRFLIALLTGNFIL
+                     VPLIVGALLLLLPDDPAIRLGVLLVLLVPCTDWFISFTHLGGGNGARAIAAAPV
+                     LLIFQFVLLPVYIWLFMGDLAIELAVGSYLLPVFFGLIIAPLILAWLTERLAER
+                     HQPTLNLVDQLGWLPVPLVALVVFLIAGSQVSFVVAKGTLLWPVLVVFILYLAA
+                     AAVVGKLLSRIFRLAPPVGRTLTFSLGTRNSFVMLPLALSLPDAWRAAAVVIVF
+                     QSLIELFGMVIYLRWVPRR
+ORIGIN               
+        1 CTCTCTGATC AGCGCCGTGG TACCCAGCGC AGATATATCA CCATGCCGAA CAATTCGATC 
+       61 AGGGACTGGA AAACAATAAC GACAGCGGCG GCCCGCCAGG CGTCCGGTAG AGAAAGTGCC 
+      121 AGCGGCAGCA TGACGAAGGA ATTGCGGGTA CCGAGACTGA ACGTCAGCGT GCGGCCAACC 
+      181 GGTGGCGCAA GCCGGAATAT CCGGCTGAGA AGTTTGCCGA CGACCGCAGC TGCCGCCAGG 
+      241 TACAGGATGA AGACCACCAG CACCGGCCAC AACAGGGTGC CTTTTGCGAC CACGAAACTG 
+      301 ACCTGCGATC CGGCAATCAG GAAGACCACC AGTGCCACCA ACGGTACGGG CAGCCAACCG 
+      361 AGCTGATCGA CAAGGTTCAG GGTCGGCTGG TGTCTTTCAG CCAATCGCTC GGTCAACCAT 
+      421 GCCAGAATCA GGGGCGCGAT AATCAATCCA AAAAACACGG GCAGCAAATA GCTGCCGACG 
+      481 GCCAGCTCGA TAGCCAGATC ACCCATAAAC AGCCAGATAT ACACGGGTAG TAGAACGAAC 
+      541 TGGAAGATCA AAAGCACGGG CGCGGCCGCA ATGGCTCGGG CACCATTCCC ACCGCCCAGA 
+      601 TGGGTAAAGC TGATAAACCA GTCCGTACAT GGCACCAGCA GAACCAGCAG CACACCGAGG 
+      661 CGGATGGCGG GATCATCCGG CAGCAGTAGC AACAGGGCGC CAACGATCAG CGGCACCAGA 
+      721 ATAAAGTTGC CCGTGAGTAG CGCGATCAGA AAACGGCGGT CGCGAAACGC CGGCGCCAGA 
+      781 TGTGTCAGCG GCACTTGCGT GAAGGTGGTA TACAGGAGCA CACCCAGAAC GGGGCACAAC 
+      841 AACCCCTCCC AATGCCCGGT CAGTCCCCGT GGAAATCCAG CCGATGGTCA TGCCCAGCCA 
+      901 GGATGCCGGC AAGATTAATC C
+//
+LOCUS       deepabyss_4000m_8349   383 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..383
+                     /organism="1..383"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(1..219)
+                     /locus_tag="deepabyss_4000m_8349_0"
+     CDS             complement(1..219)
+                     /product=[Bacteria]
+                     /locus_tag="deepabyss_4000m_8349_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MNSQERYHLRWKSDKLTKLRLAFYIFTGEIPSEFWEMTNLT
+                     RLDLGWNQLSGEIPSEIGNLTNLTNLGLGANH
+ORIGIN               
+        1 GTGATTAGCA CCTAAACCCA AATTAGTTAA ATTCGTCAGG TTTCCTATCT CTGATGGTAT 
+       61 TTCTCCTGAG AGTTGATTCC AACCTAAATC CAAACGAGTT AAATTCGTCA TCTCCCAAAA 
+      121 CTCTGATGGT ATCTCTCCCG TGAAAATATA AAAAGCTAAA CGCAATTTAG TAAGTTTGTC 
+      181 AGATTTCCAT CTCAGGTGGT ATCTCTCCTG TGAGTTCATT AAAGATAACT CAAATTCCTA 
+      241 AACGGGCCAG TTTCCCATTT CGATGGGATT CCTCGGAAAG TGATTCCATC TAAATCAACC 
+      301 AGTTAATCCG CAGAATTCTA TCTCGAGGGA TTCCTCGGGA GTGAATATAA AAAACCAACC 
+      361 GTAAATCCGC GGATTCCAAT CAT
+//
+LOCUS       deepabyss_4000m_8346   534 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..534
+                     /organism="1..534"
+                     /strain="1"
+                     /chromosome="1"
+     gene            2..532
+                     /locus_tag="deepabyss_4000m_8346_0"
+     CDS             2..532
+                     /product=cation efflux protein/ zinc transporter, puta
+                     tive
+                     /locus_tag="deepabyss_4000m_8346_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=DGDHPAGDSLDMLGDALVYGFSLYVVGRSPRWLAGAALMKG
+                     VIMGGFGLMVLAQVGYRFISPEVPDPQMMGATGALALVANVTCLMLLTRHRNDD
+                     LNMSSTWLCSRNDIIANLGVMAAAAAVFGTGSMWPDLAVGLLITVVFMRTAVYV
+                     VRQAATELRRPAAREILQRSGQPVVLL
+ORIGIN               
+        1 GGACGGGGAT CACCCTGCTG GCGATTCTCT AGACATGCTG GGAGATGCCC TGGTCTATGG 
+       61 GTTTAGCTTG TATGTGGTGG GCCGCAGCCC TCGCTGGCTG GCTGGCGCTG CCTTGATGAA 
+      121 AGGCGTGATT ATGGGTGGGT TTGGCTTGAT GGTGCTGGCC CAGGTGGGCT ATCGATTCAT 
+      181 CTCACCAGAA GTCCCAGACC CCCAGATGAT GGGAGCAACC GGAGCGCTGG CGCTCGTAGC 
+      241 TAACGTCACC TGTTTGATGC TGCTGACCCG GCACCGGAAC GACGACCTGA ACATGAGTTC 
+      301 CACCTGGCTC TGCTCCCGCA ACGACATCAT CGCCAATCTG GGAGTCATGG CTGCCGCCGC 
+      361 CGCTGTCTTT GGCACTGGTT CCATGTGGCC GGATCTGGCC GTGGGCTTGC TGATTACAGT 
+      421 GGTGTTTATG AGGACGGCCG TCTATGTAGT GCGGCAGGCC GCCACTGAGT TGCGCCGCCC 
+      481 CGCAGCCCGT GAAATCCTTC AAAGATCTGG TCAGCCTGTG GTGCTGCTGC CCCC
+//
+LOCUS       deepabyss_4000m_8347   809 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..809
+                     /organism="1..809"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(32..640)
+                     /locus_tag="deepabyss_4000m_8347_0"
+     CDS             complement(32..640)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_8347_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=METALTAKMQNAEIALELLSSGWQYIAEVAHYDDRWGTGCR
+                     EIGDGKAVNGANQLGELLMQQRKMLLENIIDNRTANYQGENKNDLVKDLAQKFE
+                     NLDHKQIDVYIQNLTGRGLEALMKEKNTNGVKTPEDVGRKDAIEKLIAEIKGRK
+                     HEGLKLPAGIGNKGQKFEEDAQKDILKDTGKDPKPVDSASAAPSHESPSQKSQ
+     gene            complement(640..807)
+                     /locus_tag="deepabyss_4000m_8347_1"
+     CDS             complement(640..807)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_8347_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+ORIGIN               
+        1 AAGAACATCA GCCATCACAA CATTAATAAT TCTACTGGCT CTTTTGTGAT GGCGATTCAT 
+       61 GTGATGGAGC CGCAGAAGCG GAATCTACTG GCTTTGGATC CTTTCCTGTA TCTTTTAAAA 
+      121 TATCTTTTTG TGCATCCTCT TCAAATTTCT GCCCTTTATT TCCTATTCCT GCAGGAAGCT 
+      181 TTAAACCTTC ATGTTTCCTT CCCTTAATTT CTGCTATTAA TTTTTCTATA GCATCTTTCC 
+      241 TTCCTACATC TTCTGGCGTC TTAACTCCAT TTGTATTTTT CTCTTTCATT AAAGCCTCTA 
+      301 ACCCCCTCCC TGTTAGGTTT TGAATATATA CATCAATCTG TTTATGATCT AAATTCTCAA 
+      361 ATTTTTGAGC TAAATCCTTT ACTAAGTCAT TCTTATTTTC TCCTTGATAG TTAGCTGTTC 
+      421 TATTATCAAT AATATTCTCC AACAACATCT TCCTCTGCTG CATCAATAAC TCACCAAGCT 
+      481 GATTTGCGCC ATTTACAGCT TTTCCGTCTC CAATTTCTCT ACAGCCAGTG CCCCAGCGAT 
+      541 CATCATAATG CGCTACTTCA GCAATATACT GCCATCCAGA AGATAAAAGC TCCAAGGCAA 
+      601 TCTCAGCATT TTGCATTTTA GCAGTGAGCG CCGTCTCCAT CACTTTTTTA TTATCTTTAA 
+      661 ACCAATATGG TTGATCGCCA TCTTTCGCTG CAGTTTTAAT CGTGCCACTG CAGGATTATT 
+      721 AGCGCCATTG GTAAATTTAT AAATTGCAAT TATACCTCCT TTGCCATCTA TATTTCTCTT 
+      781 TTCTCCCTTT GCATTTATGA CTTCTACCG
+//
+LOCUS       deepabyss_4000m_8344   933 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..933
+                     /organism="1..933"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(54..683)
+                     /locus_tag="deepabyss_4000m_8344_0"
+     CDS             complement(54..683)
+                     /product=binding-protein-dependent transport systems i
+                     nner membrane component K02011 iron(III) system permea
+                     se protein
+                     /locus_tag="deepabyss_4000m_8344_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MTFSGVISTGWVSHDGKRPPAFLVASAVAVALAALIPLVYL
+                     IVRSVGSGSEWADIIWRVSTAAVFGRTFLLIAAVTAISITVAVPVAWLTVRADI
+                     PLRRVLSVASVLPLVLPSFVMATTVIEMYSPRGVLQGWLSIFGVERLPDIYGLG
+                     GATLVLVLMTYPYVLLTVRGALRRMDPGLEEAARAMGYGPMHTFRAVTLPMLRP
+                     AIAAGS
+     gene            complement(791..931)
+                     /locus_tag="deepabyss_4000m_8344_1"
+     CDS             complement(791..931)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_8344_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+ORIGIN               
+        1 TACCGAAGCA AAGCCTCCCC GCCGAAATCG CTCAGCGTAT AAAGCCCCAC CAGTTACGAC 
+       61 CCGGCGGCGA TGGCCGGTCG CAACATCGGC AGCGTGACAG CCCTGAACGT GTGCATCGGT 
+      121 CCGTAACCCA TCGCGCGGGC AGCCTCCTCA AGCCCGGGGT CCATCCTGCG CAACGCTCCA 
+      181 CGTACCGTCA GCAAAACGTA GGGGTAGGTC ATCAGTACCA GCACGAGGGT TGCGCCACCG 
+      241 AGTCCGTAGA TATCGGGAAG CCGTTCAACT CCAAATATTG ACAACCAACC CTGGAGCACA 
+      301 CCACGCGGCG AGTACATCTC GATAACCGTC GTGGCCATAA CGAAACTGGG CAACACCAGC 
+      361 GGTAACACCG AAGCAACGGA AAGTACCCGG CGTAAAGGAA TGTCCGCTCG AACGGTAAGC 
+      421 CAGGCAACCG GCACAGCAAC CGTAATCGAA ATCGCCGTCA CGGCTGCGAT CAGCAAAAAA 
+      481 GTCCGACCGA ATACCGCGGC GGTGCTGACA CGCCAAATGA TGTCGGCCCA CTCTGAACCC 
+      541 GAACCCACAG AACGGACGAT CAGGTAGACG AGCGGGATCA ACGCCGCAAG GGCCACGGCA 
+      601 ACCGCTGAGG CGACGAGGAA CGCCGGGGGC CGCTTTCCGT CGTGCGACAC CCACCCCGTT 
+      661 GAAATGACGC CAGAGAAGGT CATACCAATA CCGCCCCGGT TACAGGCAAT ATCAGCCCAA 
+      721 ACTCCTCCAG TCTATGTGAA TCAACCCTTT GAATAGTCAT TCGCCATGCA GATCACAACT 
+      781 GCGCCCACCC CTACGGCAGG GCACCAACCT CCCTCATCAA GGCCTGTGTT TCCGCGAGAT 
+      841 CTGTCAGGTC TCCCAGATCG ATACTGGGCT TGGGTACGTC CTCAAGCGCT GGCAGTAAAT 
+      901 TGTCGGCTGC ACCTGGTCGT TCAGCGGGAA CTT
+//
+LOCUS       deepabyss_4000m_8345   405 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..405
+                     /organism="1..405"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(3..404)
+                     /locus_tag="deepabyss_4000m_8345_0"
+     CDS             complement(3..404)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_8345_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=SASIATPARKQLYVLLTKLAGAMARGNTPLQVVTNRILPHI
+                     NKGSPIIVLSCLEDDSTIVNAIRDLRARDFDVTILTPSSLEFEFDARRLDRTGY
+                     EVLKTERDILISELRGLGAFVMDWEPDMLLSTAWRRCPR
+ORIGIN               
+        1 GGACGGGGAC ACCTCCGCCA GGCCGTCGAC AGCAGCATGT CTGGCTCCCA GTCCATGACG 
+       61 AACGCGCCGA GTCCACGCAG TTCGCTGATG AGAATGTCCC GCTCGGTCTT GAGCACCTCA 
+      121 TAGCCGGTGC GATCGAGCCG GCGGGCGTCG AATTCGAACT CCAGGCTCGA GGGGGTCAGG 
+      181 ATGGTCACAT CGAAGTCCCG CGCGCGCAGG TCGCGGATGG CGTTGACGAT GGTGCTGTCG 
+      241 TCCTCCAGAC AGGAGAGCAC GATGATCGGG CTACCCTTGT TGATGTGCGG GAGGATGCGG 
+      301 TTGGTGACGA CCTGCAACGG TGTGTTGCCG CGCGCCATCG CACCTGCCAG CTTCGTCAGC 
+      361 AGCACGTAGA GCTGCTTTCT TGCCGGTGTC GCGATCGACG CTGAT
+//
+LOCUS       deepabyss_4000m_8342   554 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..554
+                     /organism="1..554"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..552
+                     /locus_tag="deepabyss_4000m_8342_0"
+     CDS             1..552
+                     /product=dinG ATP-dependent DNA helicase DinG K03722 D
+                     inG [EC:3.6.4.12]
+                     /locus_tag="deepabyss_4000m_8342_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=DGDTDLFWKSAGLKAWEGVHALSLPSPFDHAAQAELHLPRM
+                     RSHPLDAQAHTEEVAAMLPALLEAQAGSLVLFASARQMHQVAHALPEALREQIL
+                     VQGSTSKRELLARHKARIDQGQRSVLFGLASLSEGVDLPGAYCTHLVVVKLPFA
+                     VPDDPVEQTRREWIEAQGRSAFHERSVPEVGIRL
+ORIGIN               
+        1 GACGGGGACA CCGACCTCTT CTGGAAGAGT GCTGGCCTGA AGGCATGGGA GGGGGTGCAT 
+       61 GCGCTCAGCC TGCCATCACC CTTCGACCAT GCGGCGCAGG CCGAGCTGCA CCTGCCGCGC 
+      121 ATGCGCTCCC ATCCGCTCGA TGCCCAGGCG CATACCGAGG AGGTGGCAGC CATGCTGCCC 
+      181 GCCCTGCTCG AGGCGCAAGC CGGGTCTCTG GTCCTGTTCG CATCGGCAAG GCAGATGCAT 
+      241 CAGGTCGCGC ATGCGCTGCC GGAGGCGCTG CGCGAGCAGA TCCTCGTGCA GGGAAGCACG 
+      301 TCCAAGCGCG AGCTGCTGGC GCGCCACAAG GCTCGCATCG ACCAGGGCCA GCGTTCGGTC 
+      361 CTCTTCGGTC TGGCCAGCCT CTCCGAGGGG GTGGACCTGC CCGGCGCCTA CTGCACGCAC 
+      421 CTGGTAGTGG TCAAGTTGCC CTTCGCGGTG CCCGACGATC CGGTCGAGCA GACACGCCGG 
+      481 GAGTGGATCG AGGCGCAGGG GAGGTCCGCC TTCCATGAGC GCAGCGTCCC CGAGGTCGGC 
+      541 ATCCGGCTGG CGCA
+//
+LOCUS       deepabyss_4000m_8343   985 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..985
+                     /organism="1..985"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(1..735)
+                     /locus_tag="deepabyss_4000m_8343_0"
+     CDS             complement(1..735)
+                     /product=glutamate--putrescine ligase (EC:6.3.1.11) K0
+                     1915 glutamine synthetase [EC:6.3.1.2]
+                     /locus_tag="deepabyss_4000m_8343_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MFEEDDSPFYGNPREVLKTVCEKLADSGFNPVVALEMEFYL
+                     TEPKRRSGQPPQPARSPETGETEAEGQLFSLSTLDVYESFLNDISTASQSQNVP
+                     ADTALAELAPGQFEINLHHVPDAVQACDHAVLLKRIIRSVARKHKMEATFMAKP
+                     YPQEAGSGMHVHVSLLDDSGKNLFQGKDAFGSPELRYAVQGLRSTLAESMLIFA
+                     PHANSFHRYRSGTYAPINSSWGYNNRTVSFRIPANDESGHAD
+     gene            complement(781..984)
+                     /locus_tag="deepabyss_4000m_8343_1"
+     CDS             complement(781..984)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_8343_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=LLLPGHETQWCVKKEIQRKKLSSIFKKGIYFPKSVLLFDVT
+                     GETMEETGLGFESGDQDIPCFPVPET
+ORIGIN               
+        1 ATCCGCATGT CCGGACTCAT CGTTTGCTGG AATCCGGAAA GAAACCGTGC GGTTGTTGTA 
+       61 ACCCCAGGAT GAATTGATTG GAGCATAAGT TCCACTCCGG TAACGATGAA AGGAATTTGC 
+      121 GTGGGGTGCG AAAATTAACA TGCTTTCAGC CAGAGTTGAA CGCAAACCCT GTACGGCGTA 
+      181 GCGCAATTCC GGGCTTCCGA AAGCATCTTT TCCCTGAAAC AAATTTTTTC CGGAATCGTC 
+      241 CAGCAAACTC ACATGAACAT GCATTCCGCT TCCTGCTTCC TGCGGATAAG GTTTTGCCAT 
+      301 GAAAGTCGCT TCCATTTTAT GTTTTCTAGC CACGCTCCGG ATGATTCGTT TGAGCAATAC 
+      361 AGCGTGATCA CAAGCCTGAA CGGCATCCGG AACATGGTGC AAATTAATCT CAAATTGTCC 
+      421 GGGTGCAAGT TCGGCAAGCG CGGTATCTGC CGGAACATTT TGACTTTGCG AGGCGGTTGA 
+      481 AATATCGTTC AGAAATGATT CGTAAACATC CAACGTGCTC AAGGAAAATA GTTGCCCTTC 
+      541 GGCTTCAGTT TCACCGGTTT CCGGAGAACG TGCCGGTTGA GGAGGCTGTC CCGAACGTCG 
+      601 TTTTGGTTCC GTGAGATAAA ATTCCATTTC CAGCGCAACC ACCGGATTAA ATCCGGAATC 
+      661 CGCTAATTTC TCACAAACTG TTTTTAAAAC TTCGCGTGGA TTTCCGTAAA ACGGTGAGTC 
+      721 ATCTTCTTCA AACATTCTGA GCAGCAATTG TCCACGTTTT TTTTGCCATG GAACCGGGTT 
+      781 TCAGGTTTCC GGAACCGGAA AGCACGGAAT ATCCTGATCT CCACTTTCAA AACCAAGTCC 
+      841 GGTTTCTTCC ATCGTTTCTC CCGTTACATC GAAAAGCAAT ACTGATTTCG GAAAATAGAT 
+      901 TCCTTTCTTA AAAATGCTGC TGAGTTTTTT ACGCTGGATT TCTTTTTTCA CGCACCACTG 
+      961 CGTTTCATGT CCCGGAAGAA GAAGT
+//
+LOCUS       deepabyss_4000m_8340   360 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..360
+                     /organism="1..360"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..360
+                     /locus_tag="deepabyss_4000m_8340_0"
+     CDS             1..360
+                     /product=ATP-binding component metal import ABC transp
+                     orter K06158 cassette, sub-family F, member 3
+                     /locus_tag="deepabyss_4000m_8340_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=DRAAHPDLKIGYFAQHTVESLHEGQSPMEHFRDIAPDAPNQ
+                     SFRDFLGKWNFAGDRAFESVDGFSGGERARLALALIAYQQPNVLLLDEPTNHLD
+                     LEMREALAEALSDFEGALVMVSHD
+ORIGIN               
+        1 GATCGTGCCG CGCATCCGGA CCTGAAGATC GGTTACTTCG CCCAGCATAC GGTGGAGTCA 
+       61 CTGCACGAAG GCCAGTCGCC GATGGAGCAC TTCCGCGACA TCGCCCCGGA CGCGCCGAAC 
+      121 CAGTCGTTCC GCGATTTCCT CGGCAAGTGG AATTTCGCCG GTGACCGCGC GTTCGAGTCG 
+      181 GTGGATGGCT TCTCCGGTGG CGAACGTGCA CGGCTGGCGC TGGCGTTGAT CGCCTACCAG 
+      241 CAGCCGAACG TGCTGCTGCT CGATGAGCCG ACCAACCACC TTGACCTGGA AATGCGTGAG 
+      301 GCGCTGGCCG AAGCGCTGAG TGATTTCGAG GGCGCCCTCG TGATGGTGTC GCACGACCGG
+//
+LOCUS       deepabyss_4000m_8341   613 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..613
+                     /organism="1..613"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(47..613)
+                     /locus_tag="deepabyss_4000m_8341_0"
+     CDS             complement(47..613)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_8341_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=GEIRAEKSTRNGCVAYQDRAVRTPLGADPRQPGCTYRPMVT
+                     RMSTDSRSLLYEAEQGTEYARESDLGVIYRQRGGSGRLRAMETSPNKKYCVISG
+                     DQYESETAGIHFERPTLYDRPDPPDGRLSGPVALSIGSGVEGRALPVSDCRTDT
+                     LARTFIHRPMAAQAGSQIIRVSKLPVGQQETLKCPDDGW
+ORIGIN               
+        1 TACAATACAG GCGGCCACCG CAGGGCTGGC GTGTTTTCCA ATAAATTTAC CATCCGTCAT 
+       61 CCGGACATTT TAGAGTTTCT TGCTGACCAA CGGGAAGTTT AGAAACTCTT ATGATCTGGG 
+      121 ATCCAGCCTG TGCAGCCATA GGCCTGTGGA TGAAGGTCCG GGCGAGGGTA TCTGTACGAC 
+      181 AATCGGAGAC CGGGAGGGCT CGACCCTCCA CTCCTGAGCC AATGGACAAG GCGACGGGGC 
+      241 CAGACAATCT GCCATCAGGC GGATCGGGGC GATCATACAG TGTCGGCCGC TCGAAATGGA 
+      301 TACCGGCAGT CTCTGACTCA TACTGATCGC CCGATATAAC GCAGTATTTT TTGTTTGGCG 
+      361 ACGTCTCCAT CGCGCGCAAT CTGCCTGACC CGCCGCGTTG CCGATATATC ACTCCCAAAT 
+      421 CACTTTCTCT AGCATATTCT GTGCCTTGCT CGGCTTCGTA CAACAGTGAT CGCGAGTCGG 
+      481 TCGACATCCT CGTAACCATA GGGCGATACG TGCAACCTGG CTGTCGGGGG TCTGCGCCTA 
+      541 GGGGCGTCCG TACCGCCCGA TCCTGATATG CCACACATCC ATTACGGGTA GACTTCTCCG 
+      601 CCCGAATTTC GCC
+//
+LOCUS       deepabyss_4000m_9414   946 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..946
+                     /organism="1..946"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(1..549)
+                     /locus_tag="deepabyss_4000m_9414_0"
+     CDS             complement(1..549)
+                     /product=translation elongation factor EFTs/EF1B dimer
+                     ization K02357 Ts
+                     /locus_tag="deepabyss_4000m_9414_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=LAVAVELVRTLREQTGAGILECKQALEASQGDLEKATQALR
+                     LKGFAQAAKRSDRTTNQGLIEAYIHASGRLGALVELGCETDFVARTPEFKELAH
+                     NIAMQVVAMAPDYLDEADMEEGDTRPVAQVSLLQQPFIKDSSSAVGEVVKELAA
+                     RVGENVRVLRFTRLALGEYKQGHMPQARYGRLKK
+     gene            complement(578..946)
+                     /locus_tag="deepabyss_4000m_9414_1"
+     CDS             complement(578..946)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_9414_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=GSGRPCCRPKREELKMPEFAAAEERAGNEAIEPESLEDDSE
+                     LSESFDSPRVTLEEMIAGSPDAVVTQSEASLGSEEPSGSIEGNSVEAGSQQSDS
+                     EAPAEVSPEASLSEPQADDDDEQVDSA
+ORIGIN               
+        1 TTTTTTGAGG CGGCCGTAAC GAGCTTGAGG CATATGACCT TGTTTATATT CTCCCAGAGC 
+       61 TAGGCGAGTA AACCGCAGGA CACGGACGTT TTCTCCTACT CTAGCGGCTA GCTCCTTGAC 
+      121 TACTTCGCCA ACCGCGGAGG AGCTGTCTTT TATGAACGGC TGTTGCAGTA AACTCACTTG 
+      181 TGCTACCGGT CGGGTGTCCC CTTCCTCCAT GTCGGCTTCG TCTAAATAGT CGGGGGCCAT 
+      241 GGCCACTACT TGCATTGCGA TGTTGTGGGC CAACTCCTTG AATTCGGGCG TCCTCGCGAC 
+      301 AAAGTCAGTC TCGCAACCCA ACTCTACTAA CGCGCCCAGG CGCCCACTGG CGTGGATATA 
+      361 GGCCTCAATT AAGCCCTGGT TTGTTGTCCG GTCGGACCGT TTGGCCGCCT GAGCAAAGCC 
+      421 TTTCAGGCGT AATGCCTGAG TCGCTTTCTC TAGGTCACCT TGGCTCGCTT CAAGGGCCTG 
+      481 TTTGCACTCC AATATTCCGG CCCCGGTTTG TTCCCGCAGA GTCCGGACTA GCTCCACCGC 
+      541 TACAGCCAAG GATTTCCTCC GTGTGTGCTA GGCCTATTCA CGCTGAATCA ACCTGCTCGT 
+      601 CATCATCATC GGCTTGAGGT TCCGATAGTG AGGCTTCTGG GGACACTTCA GCAGGGGCCT 
+      661 CACTATCGGA TTGTTGGGAG CCCGCTTCTA CTGAATTCCC TTCGATGGAG CCGGAAGGCT 
+      721 CCTCCGAGCC GAGTGACGCT TCTGATTGGG TTACCACCGC GTCCGGTGAC CCGGCTATCA 
+      781 TCTCTTCCAG AGTTACCCGG GGCGAATCGA AGGATTCAGA GAGCTCCGAA TCATCCTCCA 
+      841 AGGATTCCGG CTCAATCGCT TCGTTACCGG CCCGTTCTTC TGCGGCCGCG AATTCGGGCA 
+      901 TTTTAAGTTC TTCCCGCTTC GGCCTGCAGC ATGGCCTCCC GCTGCC
+//
+LOCUS       deepabyss_4000m_789   879 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..879
+                     /organism="1..879"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(450..797)
+                     /locus_tag="deepabyss_4000m_789_0"
+     CDS             complement(450..797)
+                     /product=xylose isomerase domain-containing protein TI
+                     M barrel K01816 hydroxypyruvate [EC:5.3.1.22]
+                     /locus_tag="deepabyss_4000m_789_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MRGHPGYQGDKLDYVTEIIRAVGSPNMKLLFDIYHVQIMDG
+                     DVIRRIEECKDIIGHIHTAGNPGRKELDDTQEINYPPIMRKLLDIGYKGFVGQE
+                     FIPTGNPMKGLIEAVELCDV
+ORIGIN               
+        1 CCGAGCAAAA AGCGGCCCGC AGAAAAAGCA GCAGCAGATT GGCTTGCGAC CTACGCCACC 
+       61 CAGTAAGGTT AACAGCTTGT TCTCAACTGT GAATAATCAG TTAATAACTT CCACTTTGCT 
+      121 ACTTGGTCAT TCGGTGTATG TTCCCCACGT CAGCAGAACC TTCGGGTGAA GCTGGTCGGG 
+      181 TCAGGTGACT CGGAAGGGCG TTTTTTATTA AGTGCCTTTC GGCTGAGAAA AATCCTTCGG 
+      241 GGTAGTTCGA GGTGAGTTCC GGATCTGTAG CCTAGGGCAT CCACCCAAGG CATCCTGAGG 
+      301 AACTTCGGTT TCGAGGGAAT TTGACCGTCT GGGAAGTAGA CTTCGGTTTA CCGCTCGGGC 
+      361 GGTCTTTTTT CTTTTTCCTC CCCAATTGAC TTCACAAAAC CCCCGGCTCT CTTGATGTCA 
+      421 GAGGGTGGAT GAAAATGGAC AACGATGGAT TATACGTCGC AGAGTTCCAC TGCTTCGATT 
+      481 AGCCCCTTCA TGGGATTGCC GGTGGGGATG AACTCCTGAC CCACAAACCC CTTGTAGCCA 
+      541 ATGTCCAGCA ACTTGCGCAT GATGGGCGGG TAGTTGATTT CCTGTGTGTC GTCGAGCTCT 
+      601 TTGCGCCCGG GATTACCCGC GGTATGGATG TGCCCGATGA TGTCCTTGCA TTCCTCGATG 
+      661 CGTCGGATCA CATCGCCGTC CATGATTTGC ACGTGGTAAA TGTCGAACAG CAGCTTCATG 
+      721 TTCGGCGAAC CCACCGCCCG GATTATCTCG GTCACATAAT CAAGCTTGTC GCCCTGATAA 
+      781 CCGGGATGGC CCCTCATCGG GTGGGTGTCC TCCCGTGTGT TCAAATGCTC GAGGCAAAAG 
+      841 TTTACGCCCT TCTTCTCCCC GTAGCTGATG ATCTTCTAA
+//
+LOCUS       deepabyss_4000m_788   907 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..907
+                     /organism="1..907"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..906
+                     /locus_tag="deepabyss_4000m_788_0"
+     CDS             1..906
+                     /product=Sarcosine oxidase alpha subunit (EC 1.5.3.1) 
+                     [alpha proteobacterium HIMB5]
+                     /locus_tag="deepabyss_4000m_788_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=WTPTLQLYSQAGGSLVMDGQSAAHLPQDKNAPLQVVGAAAG
+                     QTSLRDCLPAHDVEGDPFSSIPHDGPDMPGGLPGNGRQPAFVDFQNDVTTEDIQ
+                     QAIEEGFVSIEHVKRYTTTGMATDQGKTSSINAANLVAKILERPPRDVGHTTFR
+                     PPYSPVSFGAIAGEATGQLLAPTRRTPFHAASQAAGAIFVNSGAWVYPRYYPRV
+                     GESMIEAIEREVRNTRNNVGMVDMSTLGKIDVEGNDALVFLQRAYCNNLGTLKI
+                     GCLRYSLMLRKDGIVLDDGTVTRFGENRYLVTTTTARTSEVWLH
+ORIGIN               
+        1 TGGACGCCCA CTCTGCAGCT TTATTCGCAA GCCGGCGGCA GCCTCGTCAT GGATGGCCAA 
+       61 AGTGCCGCGC ACCTGCCACA AGATAAAAAC GCGCCGCTTC AGGTGGTTGG CGCGGCGGCG 
+      121 GGCCAAACCT CACTAAGGGA TTGCCTACCC GCACATGATG TCGAAGGCGA CCCTTTTAGC 
+      181 TCGATACCGC ATGATGGTCC CGACATGCCC GGCGGTTTAC CCGGCAACGG CCGGCAACCG 
+      241 GCGTTCGTGG ATTTCCAAAA TGACGTCACC ACCGAAGATA TACAACAGGC CATCGAGGAA 
+      301 GGCTTTGTGT CCATCGAGCA CGTCAAACGC TACACCACGA CCGGCATGGC AACCGATCAG 
+      361 GGCAAGACCA GCAGCATCAA TGCCGCGAAT CTCGTTGCCA AGATATTGGA ACGCCCGCCG 
+      421 CGTGACGTGG GCCATACCAC GTTCCGTCCG CCCTACTCGC CTGTCAGCTT CGGGGCGATT 
+      481 GCCGGAGAAG CCACGGGCCA GTTGCTCGCA CCGACACGCC GGACCCCGTT CCACGCCGCC 
+      541 AGCCAGGCCG CCGGTGCGAT CTTTGTGAAC TCCGGCGCTT GGGTTTACCC GCGCTATTAT 
+      601 CCCCGCGTCG GTGAATCAAT GATCGAGGCC ATCGAACGGG AGGTCAGAAA TACACGCAAC 
+      661 AATGTCGGCA TGGTCGACAT GTCGACGCTG GGCAAGATTG ATGTCGAGGG CAACGATGCG 
+      721 CTGGTGTTCC TGCAACGGGC CTACTGCAAC AACTTGGGCA CGTTGAAGAT TGGCTGTCTG 
+      781 CGCTACAGTC TGATGCTGCG CAAAGATGGC ATAGTGCTTG ACGACGGGAC CGTGACCCGG 
+      841 TTTGGCGAGA ACCGCTATCT CGTCACCACG ACGACAGCGC GCACTTCAGA GGTCTGGCTG 
+      901 CACCTTG
+//
+LOCUS       deepabyss_4000m_783   893 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..893
+                     /organism="1..893"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(1..810)
+                     /locus_tag="deepabyss_4000m_783_0"
+     CDS             complement(1..810)
+                     /product=, partial [Bacteria]
+                     /locus_tag="deepabyss_4000m_783_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MPYGAKATIHADVRVSKMANVENNTMDWEFRIWEGQTYYVD
+                     LVKIEGNEKTKDFVIRRELAISPGEPFDLGRVEKSRRRIEGLRLFSDVRADPEK
+                     TGVAGETNEENLLISVREQNTGRMYFGGGFGSDAGGFVHVVLSQENFDIGRWRR
+                     PHFLQGGGQKIRLRLVAGGRYSNYGLDFEEPWFMGRKLRFTTSLYSRELRYYST
+                     KFNVEETGARFGLERVLFGNDFLRGNVKFTFENTGLVDVDSSASSGVISEEGTD
+                     LISKIWGGHRLRH
+ORIGIN               
+        1 GTGTCGTAAG CGATGCCCAC CCCAAATCTT CGAAATCAAA TCGGTTCCCT CCTCGCTTAT 
+       61 GACCCCCGAA GAGGCACTGG AATCCACATC CACCAATCCC GTATTTTCAA AAGTGAATTT 
+      121 GACATTGCCA CGTAAAAAAT CATTCCCGAA CAAAACCCGC TCCAATCCAA ACCGGGCGCC 
+      181 GGTTTCCTCG ACATTAAATT TCGTGCTGTA ATATCGTAGT TCGCGCGAAT AGAGGCTGGT 
+      241 GGTAAAACGC AGCTTGCGCC CCATGAACCA AGGCTCCTCA AAGTCCAACC CGTAGTTGCT 
+      301 GTAGCGGCCG CCTGCCACTA GGCGCAGCCG AATTTTTTGC CCACCACCCT GCAAGAAGTG 
+      361 AGGACGGCGC CAGCGCCCGA TATCAAAATT CTCCTGTGAC AAAACCACAT GGACAAACCC 
+      421 TCCGGCATCG CTGCCAAAAC CCCCACCAAA GTACATTCGA CCAGTGTTCT GTTCACGAAC 
+      481 AGAAATTAGA AGATTCTCTT CATTCGTTTC ACCTGCCACT CCGGTCTTTT CGGGATCGGC 
+      541 TCGCACATCT GAAAACAGCC GGAGACCCTC GATACGTCTG CGGCTTTTTT CAACCCGGCC 
+      601 CAAGTCAAAT GGTTCGCCGG GGGATATGGC TAATTCCCGC CGGATGACAA AATCCTTGGT 
+      661 CTTTTCATTA CCCTCAATCT TTACCAGATC CACGTAATAG GTTTGGCCTT CCCAAATCCT 
+      721 GAACTCCCAA TCCATGGTGT TGTTTTCCAC ATTGGCCATC TTGGATACTC TCACGTCCGC 
+      781 ATGGATGGTA GCCTTGGCCC CGTAAGGCAT CTCTCAAGAC TTTCAGGTCG GAATCATCCT 
+      841 TGCCATCCAG CTTTTCGGGT CGATAAATCC TCACCGGGCT TCCAGGGTAA TCA
+//
+LOCUS       deepabyss_4000m_782   902 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..902
+                     /organism="1..902"
+                     /strain="1"
+                     /chromosome="1"
+     gene            3..128
+                     /locus_tag="deepabyss_4000m_782_0"
+     CDS             3..128
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_782_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+     gene            125..901
+                     /locus_tag="deepabyss_4000m_782_1"
+     CDS             125..901
+                     /product=ABC transporter
+                     /locus_tag="deepabyss_4000m_782_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=VRRSSTIIRIAILVSAVLLLEILCRYGVISYLQMTAPSRMA
+                     TTLYGLMGEAEFWAQAQTTVSNIFIAILAATFLGFVIGLLLYRLPRLRRATEPF
+                     IASYYALPFFVLYPLAIVVIGMNDASIILMGFAYALVAMITNTLSGLDRIPPVL
+                     TRTGKTFRMGRMQTAVLIQLPAAAPYLFTGLKLVLGYGMAGIIGSEFILSNSRL
+                     GFSIAFAYDRFESQKMYALLLFVILLVTLLLTVGPGLRKAFPNSRPGPTRNYFR
+                     R
+ORIGIN               
+        1 AAACCGGCTG GCCAGCGGAG CGCGATAGCC GGATGGCGTC TAAAGATGAG TTTGGCAAGG 
+       61 TTACAACGAA TCTATGGGAG AAACTTCGTG AAGAATCCAT GATCGCCATG GGGGAAGAAA 
+      121 GACAGTGAGG CGTAGCTCAA CTATCATTCG CATCGCTATT CTCGTTTCAG CCGTACTGCT 
+      181 GCTGGAAATA CTGTGTCGCT ACGGGGTGAT CAGCTATTTG CAGATGACGG CCCCGTCTCG 
+      241 TATGGCGACC ACCCTGTACG GCTTGATGGG TGAAGCCGAA TTCTGGGCGC AGGCCCAAAC 
+      301 GACGGTTAGC AACATCTTCA TCGCTATTCT CGCCGCGACT TTTCTGGGGT TCGTGATCGG 
+      361 CCTTTTATTG TATCGGCTGC CGCGACTCCG GCGTGCCACT GAACCTTTCA TTGCCAGTTA 
+      421 TTACGCACTC CCTTTTTTCG TCCTTTATCC GCTGGCAATT GTCGTTATCG GCATGAATGA 
+      481 TGCGTCTATT ATCCTGATGG GATTTGCCTA TGCGCTGGTA GCGATGATCA CCAATACGCT 
+      541 GAGTGGCCTG GATCGTATTC CACCGGTCTT GACCCGAACG GGCAAGACGT TCCGCATGGG 
+      601 ACGCATGCAA ACCGCCGTTC TGATTCAATT ACCGGCGGCG GCACCTTATC TTTTCACCGG 
+      661 ACTGAAACTG GTTCTGGGAT ATGGCATGGC GGGTATCATC GGTTCAGAGT TCATTTTGTC 
+      721 TAATTCCCGC CTCGGGTTTT CCATCGCTTT CGCTTATGAC CGATTTGAAA GCCAGAAGAT 
+      781 GTATGCCCTG CTGCTATTCG TCATCCTGCT GGTCACACTT TTGCTAACGG TGGGCCCAGG 
+      841 TCTTCGAAAA GCGTTTCCCA ATTCCCGGCC GGGTCCGACC CGGAACTATT TTCGACGGCG 
+      901 AA
+//
+LOCUS       deepabyss_4000m_781   871 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..871
+                     /organism="1..871"
+                     /strain="1"
+                     /chromosome="1"
+     gene            2..742
+                     /locus_tag="deepabyss_4000m_781_0"
+     CDS             2..742
+                     /product=[SAR202 cluster bacterium SCGC AAA240-N13]
+                     /locus_tag="deepabyss_4000m_781_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=QVSFACASMIEYVPDNPLAVPAPTPAKAWNGSKNNGDTYNG
+                     SGNGNGHKNKGNGENGAAADQNMIEKKAQMTTGNNIPAEPQKVVRLAVTESDDP
+                     SRDAHLLREVIGVLLEFPGRDRVNLDIRTGEKVVRMDLPVVSTGYCEDLHGRLE
+                     ELLGPDTVAVHQELGLGMDLPAEAPVTMPLESAPLAEAEAAIDETPVSVPPEAI
+                     TDEPVTPVVESEAEVPVPEATVSVAAEVSAAVGADSAGDESPV
+ORIGIN               
+        1 ACAAGTGTCC TTCGCTTGCG CCTCGATGAT TGAGTATGTC CCGGATAACC CGTTGGCGGT 
+       61 GCCCGCGCCA ACCCCCGCCA AGGCATGGAA CGGCTCTAAG AATAATGGCG ACACCTATAA 
+      121 CGGTAGCGGC AATGGCAACG GGCACAAGAA CAAGGGCAAC GGGGAAAACG GCGCAGCCGC 
+      181 TGATCAGAAC ATGATTGAGA AGAAGGCGCA AATGACCACA GGCAACAACA TTCCAGCGGA 
+      241 ACCCCAGAAG GTCGTCCGCT TGGCAGTAAC CGAGTCCGAT GATCCAAGCC GTGACGCCCA 
+      301 TCTGTTGAGG GAAGTCATTG GTGTCCTATT GGAATTTCCA GGCCGGGACC GGGTAAACCT 
+      361 GGATATCCGC ACCGGAGAAA AGGTGGTCCG CATGGACCTG CCGGTGGTCA GCACCGGTTA 
+      421 TTGCGAAGAT CTGCATGGCC GTCTGGAAGA ACTGCTAGGA CCGGATACGG TGGCGGTCCA 
+      481 TCAGGAACTT GGCCTCGGCA TGGACCTACC AGCCGAAGCG CCCGTAACCA TGCCACTTGA 
+      541 GTCCGCCCCG CTGGCTGAGG CTGAGGCGGC TATCGATGAA ACCCCCGTAT CGGTCCCGCC 
+      601 TGAGGCCATC ACAGACGAGC CGGTAACGCC GGTTGTGGAA TCCGAGGCCG AAGTCCCGGT 
+      661 TCCGGAAGCT ACGGTTTCCG TTGCCGCGGA AGTGTCTGCT GCTGTTGGCG CTGACAGCGC 
+      721 GGGGGATGAA TCGCCCGTCT GATGCTCGAG CAATTGGTGA GGGCCATTCC CGCCTGAAAA 
+      781 ACCATCCATT TTACCCCCAA AATTTCGAAA CGCCAGCCCA TTTTCTCCCT TAGTTTTACC 
+      841 AATTTCCTCT GGGTATCCGG CGACCAGTAA T
+//
+LOCUS       deepabyss_4000m_780   865 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..865
+                     /organism="1..865"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..630
+                     /locus_tag="deepabyss_4000m_780_0"
+     CDS             1..630
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_780_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=RLHSLDSLDYIVCFDMAQLLGEERVGASVVFRNGRPTKKEY
+                     RTYRVKSEAMDDLRMMTEVVERWLKRQDEWPDLLLLDGGEVHLSHVCAMLDGHG
+                     LSGRFPVAALAKKEETLWRPDIEPKILDRRSRVLIHARDEAHRFVNGYHRKRRS
+                     KGGLKSPLEDIEGVGAKKIQSLLRHFGGMRGIEHASQGELAAAPGIGKSLAARI
+                     HQHLHG
+     gene            complement(631..852)
+                     /locus_tag="deepabyss_4000m_780_1"
+     CDS             complement(631..852)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_780_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=LGELASYLFILAVFIGLAGSRWKRKRDQRNAEKRDAASTLE
+                     QQLLELEFAAQMGELDERIVIETDSADQSKLL
+ORIGIN               
+        1 CGACTGCACA GCCTCGACTC ATTGGATTAT ATCGTCTGCT TCGATATGGC GCAATTGCTG 
+       61 GGCGAGGAGC GAGTTGGGGC GAGCGTGGTG TTCCGCAATG GTCGACCGAC GAAGAAGGAG 
+      121 TACCGGACCT ACCGCGTCAA GAGTGAAGCC ATGGATGACT TGCGAATGAT GACCGAAGTC 
+      181 GTCGAGCGTT GGCTCAAAAG ACAGGATGAA TGGCCCGACC TGCTGCTGCT CGACGGCGGC 
+      241 GAGGTCCACC TCTCACATGT CTGCGCCATG CTCGATGGGC ATGGGCTCAG TGGCCGTTTT 
+      301 CCGGTCGCCG CGCTGGCCAA GAAAGAAGAA ACTCTGTGGC GGCCTGATAT CGAACCCAAA 
+      361 ATCCTTGATC GGCGCAGTCG CGTACTGATT CATGCACGCG ACGAAGCTCA TCGATTCGTC 
+      421 AACGGCTACC ACCGCAAACG GCGCAGCAAA GGTGGTCTCA AGAGTCCACT TGAAGACATC 
+      481 GAAGGTGTTG GAGCGAAGAA GATTCAATCG CTTCTTCGAC ACTTCGGTGG AATGAGGGGA 
+      541 ATCGAACACG CCAGCCAAGG TGAATTGGCG GCGGCTCCAG GCATCGGCAA GTCGCTGGCG 
+      601 GCCCGAATCC ACCAACATCT GCACGGCTGA TCAAAGCAAT TTCGACTGGT CGGCAGAATC 
+      661 TGTTTCGATG ACGATTCGCT CATCCAATTC ACCCATCTGA GCGGCGAATT CGAGTTCCAG 
+      721 CAATTGTTGC TCCAGCGTGC TCGCAGCGTC GCGTTTCTCA GCATTGCGCT GATCCCGTTT 
+      781 CCGCTTCCAG CGGCTGCCGG CTAAACCAAT GAAGACTGCG AGTATGAAGA GGTAAGAAGC 
+      841 CAACTCGCCC AAAAATCAAA GCGTA
+//
+LOCUS       deepabyss_4000m_787   776 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..776
+                     /organism="1..776"
+                     /strain="1"
+                     /chromosome="1"
+     gene            140..775
+                     /locus_tag="deepabyss_4000m_787_0"
+     CDS             140..775
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_787_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MKLIVERRPEHGPWAVHITSYDDDGDRLPYSDTIKNFEKRA
+                     ARNKVATDLATDNGCTEADAAKAVSEAYNQLVDEDEAKNQGGGQKKRDQASQLV
+                     DLADEAELWHAPDKTVYASVVTDSYRDDWELNGTGFRHWLTETFHKKYDKAPTN
+                     NAIKDAIGVLASKGSRDGREYQVYTRVAEGGDKIYLDLANQARQVVEIDAVGWR
+                     LIDIPPVR
+ORIGIN               
+        1 TTGTGGAATC CCTCGTAAAC TCCATAAATC TCACGCACTG TAATCCCCCG CTAGGCCGGT 
+       61 CCGAGATCAA AGCCATTTGC CGATCCGCGG CCCGGTTTGG CAGCACAGCT TCGCGGCACA 
+      121 TTGTGGCCGA GGTCGAACTA TGAAATTGAT TGTCGAAAGA CGGCCCGAAC ACGGCCCCTG 
+      181 GGCCGTACAT ATCACGTCCT ATGATGATGA TGGTGACAGG CTGCCATATT CAGATACCAT 
+      241 CAAGAATTTT GAAAAAAGGG CCGCTCGCAA CAAGGTCGCT ACCGACCTGG CCACTGACAA 
+      301 CGGCTGCACC GAAGCTGATG CCGCTAAAGC GGTTAGCGAG GCTTATAACC AACTCGTTGA 
+      361 TGAGGACGAA GCTAAGAACC AGGGCGGCGG CCAGAAGAAA CGGGACCAGG CTAGTCAACT 
+      421 CGTCGACCTG GCAGATGAGG CCGAGTTGTG GCATGCGCCA GACAAGACCG TTTACGCATC 
+      481 GGTGGTTACC GATTCTTACC GTGACGACTG GGAACTCAAC GGCACCGGGT TCAGGCACTG 
+      541 GCTGACAGAA ACATTCCACA AGAAATACGA CAAAGCGCCC ACCAACAACG CCATCAAAGA 
+      601 TGCGATCGGC GTACTGGCGA GTAAAGGCAG CCGTGATGGC AGAGAGTACC AGGTCTACAC 
+      661 CCGTGTGGCT GAGGGCGGTG ACAAGATCTA TCTGGACCTC GCCAACCAGG CTCGCCAGGT 
+      721 CGTAGAGATC GACGCCGTTG GCTGGCGGCT CATTGATATT CCTCCGGTGA GGTTCA
+//
+LOCUS       deepabyss_4000m_786   892 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..892
+                     /organism="1..892"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(3..890)
+                     /locus_tag="deepabyss_4000m_786_0"
+     CDS             complement(3..890)
+                     /product=PCCB, MGC134255 propionyl CoA carboxylase, be
+                     ta polypeptide (EC:6.4.1.3) K01966 propionyl-CoA carbo
+                     xylase chain [EC:6.4.1.3]
+                     /locus_tag="deepabyss_4000m_786_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=ENNRILTDGVVTGYGTIDGRQMMVFSHDFTVFGGSLFEAFA
+                     EKICKVMDMALKIGVPIIGLNDSGGARIQEGVVSLGGYADIFLKNTLASGVVPQ
+                     ISAILGPCAGGAVYSPAITDFVFMAKNTSHMFVTGPNVVKTVTHEEVSMEELGG
+                     ADTHASKSGVAHFACENEVEVLQNIRKLISYLPLNNLDDPPKCEQQSLSNIAQE
+                     ELNALVPENPNKPYDMHGVINIISDKDSFFEVHANFAENIIVGFARMGGKSVGI
+                     VANQPAHLAGVLDIDSSVKGARFVRFCDAFNIPLITFED
+ORIGIN               
+        1 ACATCTTCGA AGGTAATTAG GGGTATATTG AAGGCATCAC AAAATCGCAC AAAACGTGCA 
+       61 CCCTTCACTG AAGAATCAAT ATCCAGTACG CCTGCTAAAT GAGCCGGTTG ATTGGCTACA 
+      121 ATACCAACAG ATTTACCCCC CATTCGAGCA AAGCCCACAA TAATGTTCTC AGCAAAATTT 
+      181 GCATGGACTT CAAAAAAGCT GTCTTTATCG GAAATTATGT TGATAACCCC GTGCATATCG 
+      241 TAGGGTTTAT TGGGATTTTC CGGCACCAGG GCATTCAACT CTTCCTGAGC TATATTGGAT 
+      301 AAGCTCTGTT GTTCGCATTT AGGAGGATCA TCTAAATTAT TGAGAGGAAG GTAGGATATA 
+      361 AGTTTGCGAA TATTTTGCAG AACTTCAACT TCATTTTCAC AGGCAAAATG TGCCACACCA 
+      421 GATTTAGATG CGTGGGTGTC AGCGCCACCT AATTCCTCCA TGCTTACTTC TTCATGGGTG 
+      481 ACAGTTTTTA CTACATTGGG ACCGGTGACA AACATGTGGC TGGTATTTTT TGCCATGAAC 
+      541 ACAAAATCGG TAATTGCCGG AGAGTACACA GCGCCCCCAG CACAGGGACC AAGAATAGCA 
+      601 GATATCTGAG GTACAACTCC AGATGCTAAA GTATTTTTTA GAAAAATATC AGCATATCCA 
+      661 CCCAAACTGA CAACGCCTTC CTGGATTCGT GCTCCCCCGG AATCATTCAA GCCAATAATG 
+      721 GGTACACCAA TTTTCAGGGC CATATCCATA ACCTTGCAAA TTTTCTCTGC GAATGCTTCA 
+      781 AAAAGAGATC CGCCAAAAAC CGTAAAGTCA TGGGAAAACA CCATCATCTG CCTACCATCG 
+      841 ATAGTACCGT ATCCGGTTAC GACCCCATCA GTAAGAATGC GATTATTTTC CC
+//
+LOCUS       deepabyss_4000m_785   869 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..869
+                     /organism="1..869"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(201..869)
+                     /locus_tag="deepabyss_4000m_785_0"
+     CDS             complement(201..869)
+                     /product=threonine--tRNA ligase, chloroplast or mitoch
+                     ondrial K01868 threonyl-tRNA synthetase [EC:6.1.1.3]
+                     /locus_tag="deepabyss_4000m_785_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=CPLVRKNASVPTELWDRAEAALAAALDSAGLAYDLQPGEGA
+                     FYGPKIEFSLKDCLGRVWQCGTLQLDFNLPIRLGAEYVSEDNSRKHPVMLHRAI
+                     LGSFERFVGILIEHYEGAFPAWLAPTQAVIMNITDKQADFAAEVEKTLNESGFR
+                     AKSDLRNEKIGFKIREHTLLKVPYLLVIGDREVEMQTVAVRTREGADLGSMPVA
+                     QFAEFLAQAVSRRGRPDSE
+ORIGIN               
+        1 GAGGTACAGC ATCCCCGGAA ATTTCCACCA AATCGAGCTT GGCTTCTTCA GCGCTTACGA 
+       61 AGCGCAGTCT TCAATTGACA CAATCCCAAG CTGCTCACCC TCAGCCCCAA TTAACCGAAC 
+      121 CTCGCGTGCC GAGATATTCT CGTTGATCGG GGCTTTCGGT GCAGCTCGTT TATCTTGTCT 
+      181 CATTTCACGC TTAATAGTAA TTACTCCGAA TCTGGGCGAC CACGCCGGGA AACCGCTTGC 
+      241 GCGAGGAACT CAGCGAACTG GGCGACGGGC ATCGAGCCCA GGTCAGCACC TTCACGAGTA 
+      301 CGCACAGCGA CAGTCTGCAT CTCGACTTCC CGATCTCCGA TAACCAAAAG ATAGGGAACC 
+      361 TTGAGCAAAG TATGCTCGCG GATTTTAAAG CCGATCTTTT CATTTCTCAA GTCGGACTTG 
+      421 GCACGAAATC CGCTTTCGTT GAGTGTTTTT TCAACTTCAG CAGCAAAATC GGCCTGTTTA 
+      481 TCAGTGATAT TCATGATCAC TGCCTGAGTC GGAGCCAGCC ACGCAGGGAA CGCGCCCTCG 
+      541 TAGTGCTCGA TCAGGATCCC GACGAACCGT TCGAATGAGC CGAGGATCGC CCGGTGCAGC 
+      601 ATAACCGGGT GTTTACGGCT GTTGTCTTCG GAGACGTATT CGGCTCCCAG ACGGATCGGC 
+      661 AGGTTAAAAT CGAGCTGCAA GGTACCACAT TGCCAGACAC GGCCAAGGCA ATCTTTCAGC 
+      721 GAGAACTCGA TTTTAGGACC GTAGAAGGCG CCCTCACCCG GCTGCAGATC GTACGCAAGG 
+      781 CCCGCACTAT CTAGCGCAGC GGCCAGTGCA GCTTCGGCGC GATCCCACAA CTCGGTCGGA 
+      841 ACCGACGCGT TTTTCCGGAC GAGTGGACA
+//
+LOCUS       deepabyss_4000m_784   980 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..980
+                     /organism="1..980"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..606
+                     /locus_tag="deepabyss_4000m_784_0"
+     CDS             1..606
+                     /product=MscS mechanosensitive ion channel
+                     /locus_tag="deepabyss_4000m_784_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=ILQSFGLSITPFLTALGVGGLAISLALKDTLSDFFAGLHIL
+                     LSEKVRIGDFVELDSGEMGYVTNITWRNTSLKERTNNLITIPNSKLSNAITKNY
+                     DAIDSSYSVKIAAGVAYDSDLDHVEKVSLEVAKEIIKDLDTAKKDYEPIVRFQH
+                     FGDSSIDFTVYMRAVKYGDHHSIKHEFIKRLHKRFNEEGIEIPFPIRTIVQK
+     gene            615..833
+                     /locus_tag="deepabyss_4000m_784_1"
+     CDS             615..833
+                     /product=COG2363 [Chondromyces apiculatus DSM 436]
+                     /locus_tag="deepabyss_4000m_784_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MKSIIITGALLTGLAVLLGAFGPHGLKTKVSPEDLLIFETG
+                     VKYHMYHALGLILIGLLGFHFPREVSIFPPF
+ORIGIN               
+        1 ATTTTGCAGT CATTTGGGCT ATCGATAACG CCATTTTTGA CTGCATTGGG CGTAGGTGGT 
+       61 CTTGCAATTT CTTTAGCGTT GAAGGATACA CTATCTGATT TTTTTGCAGG ACTCCACATT 
+      121 CTTCTTTCAG AAAAGGTTCG TATTGGAGAT TTTGTTGAAT TGGATTCAGG TGAAATGGGC 
+      181 TATGTAACCA ACATTACCTG GCGCAATACG TCCCTGAAGG AACGAACAAA TAATTTAATC 
+      241 ACGATTCCTA ATTCAAAATT ATCCAATGCC ATTACAAAAA ACTATGATGC AATTGATAGC 
+      301 AGCTATTCCG TTAAAATTGC CGCCGGTGTG GCTTACGACA GCGATTTAGA TCACGTGGAA 
+      361 AAAGTATCCT TGGAAGTCGC CAAGGAAATA ATTAAGGATT TGGATACAGC CAAAAAGGAT 
+      421 TATGAACCTA TTGTACGTTT TCAACACTTT GGGGATTCAA GTATTGACTT TACTGTTTAC 
+      481 ATGCGTGCCG TCAAGTATGG CGATCATCAT TCCATCAAAC ATGAATTTAT CAAACGTCTT 
+      541 CACAAAAGGT TCAATGAAGA AGGCATTGAA ATTCCATTTC CCATACGAAC AATCGTTCAA 
+      601 AAATAAGTTC TTAAATGAAA TCGATCATAA TAACCGGAGC GCTGCTGACA GGACTTGCTG 
+      661 TTTTATTGGG TGCTTTTGGA CCTCACGGTC TCAAAACAAA AGTTTCACCT GAAGACCTTT 
+      721 TGATTTTTGA AACGGGTGTA AAATATCATA TGTATCATGC TTTAGGTTTA ATATTGATTG 
+      781 GTCTTCTCGG ATTTCATTTT CCAAGGGAGG TATCCATCTT TCCTCCGTTT TAATATTGAT 
+      841 CGAATTTGTT ATCTTTTCCC GCAGTTTGTA CGTTCTGGTT ATAAGTAATG TGCGTTGGTT 
+      901 AGGAGCCCTA ACCCCCATCG GTGGGCCTTG CTCCGATTTC CGGTTGGTTA TGGCTAGCCT 
+      961 ACCAATTAAA CCCGGCACAA
+//
+LOCUS       deepabyss_4000m_9417   822 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..822
+                     /organism="1..822"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(37..375)
+                     /locus_tag="deepabyss_4000m_9417_0"
+     CDS             complement(37..375)
+                     /product=rnhB ribonuclease HII (EC:3.1.26.4) K03470 [E
+                     C:3.1.26.4]
+                     /locus_tag="deepabyss_4000m_9417_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MDTPDLSLEQVALSRGYTRIAGVDEVGRGPLAGPVTAAAVV
+                     LDLAALPEGLNDSKKLTPRRRAALEPEIMARACYAVAHASVEEIDQHNILSASH
+                     LAMERAVAARNPQPDYL
+     gene            complement(480..821)
+                     /locus_tag="deepabyss_4000m_9417_1"
+     CDS             complement(480..821)
+                     /product=FIG01073044:  [Phaeobacter gallaeciensis BS10
+                     7]
+                     /locus_tag="deepabyss_4000m_9417_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=KFIAGAAILGIIGAAINDSKKDRRRPPHVDPTPRPKPLPPR
+                     VRRYDLPAQCLTSIRVRGKDRNFLGMRCLRRNYDYVRELPNRCYAEFDNRNQSR
+                     RGYRPGCLRKHGYRLVRR
+ORIGIN               
+        1 GACGGGGACA CTCGCGCGGG AATCGATTTC CGTCGATCAC AGGTAATCCG GCTGTGGATT 
+       61 TCTGGCGGCC ACCGCGCGCT CCATCGCCAG ATGCGACGCA CTCAAGATAT TGTGCTGGTC 
+      121 GATCTCTTCC ACCGAGGCAT GCGCCACCGC GTAACACGCC CGCGCCATGA TTTCTGGTTC 
+      181 AAGTGCTGCA CGCCTGCGGG GCGTCAGCTT CTTGGAATCG TTGAGCCCCT CTGGCAGCGC 
+      241 CGCAAGGTCC AACACCACAG CCGCCGCCGT CACTGGCCCC GCCAATGGGC CACGCCCGAC 
+      301 CTCATCGACA CCTGCAATGC GCGTGTAGCC GCGCGACAAG GCGACCTGCT CTAATGATAA 
+      361 ATCCGGAGTA TCCATGCCCT TCACTGCCCC CGTTTCACCG TGCCGCGCAA GGGTTTCGCC 
+      421 ACAAAAAAGG GGCGCAGGAT GCGCCCCAGT TGACTGCTCT CGAACCTCAC CGCTGGCGCT 
+      481 TATCGGCGCA CCAGACGGTA TCCGTGTTTG CGCAGGCAGC CCGGACGGTA GCCACGGCGG 
+      541 CTCTGGTTGC GGTTGTCAAA CTCCGCATAG CAGCGGTTCG GCAGCTCGCG CACATAGTCG 
+      601 TAGTTGCGAC GCAGGCAGCG CATGCCGAGG AAGTTACGGT CCTTACCGCG CACCCGGATG 
+      661 CTGGTCAGAC ATTGCGCCGG CAGGTCATAG CGACGCACGC GCGGCGGCAG CGGTTTTGGA 
+      721 CGTGGTGTCG GGTCAACATG GGGCGGGCGG CGGCGGTCTT TCTTACTGTC ATTGATCGCA 
+      781 GCGCCAATGA TGCCGAGAAT CGCAGCCCCT GCGATGAACT TG
+//
+LOCUS       deepabyss_4000m_2021  1002 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..1002
+                     /organism="1..1002"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(2..790)
+                     /locus_tag="deepabyss_4000m_2021_0"
+     CDS             complement(2..790)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_2021_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=VNPQRQPRQKALLERTILPNDDEEPEWDPEPESVEVLDDPV
+                     RMYLREIGRVRLLTSADERSLARKIEGGKHLEGLRQELTELEGRPPRPWEIAAG
+                     LLKRMVNAEQLVKSLSEQLGLPANLTISQITDHKKLRDAIEKEVSVDMLAAMAE
+                     DLNEYQDDVYQQVIGLSLSSWLVPPDAVDVLQDSTIAQLDAKLAELDSFTDLQE
+                     LDPLFRAYFRRIDAESERAQARLTEANLRLVVSVGKKYIGRGMALLDIWQEGNI
+                     SLIRAE
+ORIGIN               
+        1 GCTCCGCGCG GATGAGGGAT ATGTTGCCCT CTTGCCATAT GTCCAATAAG GCCATACCTC 
+       61 GCCCGATGTA CTTCTTCCCC ACACTGACCA CCAACCGAAG GTTGGCTTCA GTCAGCCGGG 
+      121 CTTGCGCCCG TTCGCTCTCG GCGTCGATGC GCCGGAAATA TGCGCGGAAC AGCGGGTCCA 
+      181 GTTCCTGAAG GTCGGTGAAG CTGTCCAACT CGGCTAATTT AGCGTCCAAC TGAGCGATGG 
+      241 TGGAATCTTG CAGGACGTCC ACGGCGTCGG GCGGCACGAG CCATGAGCTG AGAGAAAGTC 
+      301 CGATTACCTG TTGGTAGACA TCGTCCTGGT ACTCGTTCAG GTCCTCGGCC ATGGCCGCCA 
+      361 GCATGTCAAC CGAAACCTCT TTTTCGATGG CGTCCCTAAG TTTCTTGTGG TCCGTGATCT 
+      421 GGGATATAGT GAGGTTGGCA GGGAGTCCCA ATTGTTCGGA AAGAGACTTT ACCAATTGCT 
+      481 CTGCATTGAC CATCCGCTTC AGCAGTCCGG CGGCGATCTC CCACGGGCGC GGAGGGCGGC 
+      541 CTTCGAGCTC GGTCAATTCC TGCCGGAGTC CCTCCAGGTG TTTGCCACCC TCGATCTTGC 
+      601 GGGCCAGGGA GCGCTCGTCC GCCGAAGTAA GCAGACGGAC CCGGCCGATC TCCCGAAGGT 
+      661 ACATCCTTAC CGGGTCGTCC AGGACTTCCA CAGACTCGGG TTCCGGGTCC CACTCGGGCT 
+      721 CCTCATCATC ATTCGGAAGA ATCGTCCGCT CTAGTAGTGC TTTCTGGCGT GGTTGTCTCT 
+      781 GTGGATTCAC CGTCTTTCTC GGCGGTCTGG GCGCCCTTCC AGGGCGCCTT CCCTAGTGCT 
+      841 TTCCTTGATC GGGGCCTCTC TGGCCGCCGG ACTGGCCTTT CCCATTGACC CCCTTCCTCT 
+      901 GTGCGTTGCG GCGCCAACCT TCCGGATGAT TTTCAGTATC CCGATTCCGG GGATTTCGAA 
+      961 CCCTCTTGTC CGGGCCTCTT AAAAAGTCCT CCGGGGTTAC TC
+//
+LOCUS       deepabyss_4000m_2020  1005 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..1005
+                     /organism="1..1005"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(3..353)
+                     /locus_tag="deepabyss_4000m_2020_0"
+     CDS             complement(3..353)
+                     /product=clpP3 ATP-dependent Clp protease proteolytic 
+                     subunit (EC:3.4.21.92) K01358 protease, [EC:3.4.21.92]
+                     /locus_tag="deepabyss_4000m_2020_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MAVNFPKEDSKEGKGTGRSGFMDEKLFKSRSITIFGDINDK
+                     MARSVTEKLLALSAEGDEPISIYISSPGGHVESGDVIYDIIKFIKPKVKMIGTG
+                     WVASAAATIFSLPKSQPLCVMP
+     gene            complement(398..775)
+                     /locus_tag="deepabyss_4000m_2020_1"
+     CDS             complement(398..775)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_2020_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MKHLIFFCAVLLILIACGEAANDASRELTKVEGYMSNPAAV
+                     ARGEAIFAGSCSVYCHTIEQEETDALYLFDCEWKHGNSDQEIFATVTTGVPATR
+                     MVGFGSNFPEGEEDLWKLIAYLRVNQQACG
+     gene            complement(797..1003)
+                     /locus_tag="deepabyss_4000m_2020_2"
+     CDS             complement(797..1003)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_2020_2"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=YFCSYQFRAVPMYLTSLALVGAFSILALSKLIPPIGLDLLI
+                     SLAMLVALTGSLTLFPQLLITFQPARC
+ORIGIN               
+        1 CGGGGCATCA CGCAAAGCGG TTGGCTTTTC GGCAGCGAGA AAATTGTAGC CGCCGCGCTG 
+       61 GCCACCCAGC CCGTGCCTAT CATCTTCACC TTGGGCTTGA TGAATTTAAT GATGTCATAG 
+      121 ATGACATCGC CGGATTCCAC GTGACCACCG GGCGAGCTGA TATAGATCGA AATTGGCTCA 
+      181 TCGCCCTCGG CTGACAAGGC CAGCAACTTC TCGGTTACCG ACCGCGCCAT CTTGTCATTG 
+      241 ATATCGCCGA ATATTGTGAT GGATCGAGAT TTAAACAGCT TTTCATCCAT AAACCCCGAA 
+      301 CGTCCTGTAC CCTTGCCTTC TTTGCTGTCC TCTTTGGGAA AATTAACCGC CATCTAAAAC 
+      361 CTCTTCGTAT CAGTACTTCA GTCTCAAGAA TTCACTATTA GCCGCAAGCT TGCTGGTTAA 
+      421 CTCGCAAGTA TGCAATGAGC TTCCACAGAT CTTCTTCACC CTCGGGAAAA TTTGAGCCGA 
+      481 AACCCACCAT GCGGGTAGCG GGCACACCGG TAGTGACCGT GGCAAATATC TCCTGGTCAC 
+      541 TATTACCATG CTTCCACTCA CAATCAAACA GGTATAAGGC ATCTGTTTCT TCCTGCTCAA 
+      601 TGGTGTGGCA ATAGACCGAA CATGAGCCTG CGAAGATTGC CTCGCCCCTC GCCACCGCCG 
+      661 CCGGATTGCT CATATAGCCT TCTACTTTCG TTAATTCTCG TGAGGCATCG TTTGCCGCCT 
+      721 CGCCACAGGC GATGAGTATT AACAGCACAG CACAGAAAAA GATCAAATGC TTCATCAATT 
+      781 TTCGCTGCCC TGCGCTTCAG CACCGAGCCG GCTGAAAGGT GATCAGTAAC TGTGGGAACA 
+      841 GCGTAAGAGA TCCAGTCAAT GCGACCAGCA TCGCCAGAGA AATTAATAAA TCCAACCCTA 
+      901 TGGGCGGAAT AAGTTTCGAC AGCGCGAGAA TAGAGAAAGC CCCCACAAGG GCCAATGACG 
+      961 TTAAATACAT GGGAACGGCC CGAAACTGGT AGGAACAAAA GTACA
+//
+LOCUS       deepabyss_4000m_2023   962 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..962
+                     /organism="1..962"
+                     /strain="1"
+                     /chromosome="1"
+     gene            76..894
+                     /locus_tag="deepabyss_4000m_2023_0"
+     CDS             76..894
+                     /product=putative multi-domain protein [Echinicola vie
+                     tnamensis DSM 17526]
+                     /locus_tag="deepabyss_4000m_2023_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MKNLLLALTLLPISSLAFSQANDRGEVYEPVPALVTGVIDG
+                     APPSDAIVLFDGSNLEAWNRTADDAPARWLIEDGVITVQSGVGTIKTRQAFGDI
+                     QLHVEFRPTDVIDGSGQGRGNSGVFLHSLYEVQVLDSWENDTYVNGQAGSIYKQ
+                     QAPLVNVSRPPGQWQSFDIIFKAPVYSSAGELESPAYVTVLQNGVLVLNHFEIL
+                     GATFTESPEYAARCGPYSQEQRIQDCSGKMPITLQDHGQIVSFRNIWVREIVNR
+                     SCRTVSSIIERNPVY
+ORIGIN               
+        1 CCCTGTCCAA TTCCACCCCT CGAATTCAGT GTAGCTTCGG AAAATTTAAC AAATCAAACA 
+       61 TAATGGAAGC CAAAAATGAA GAACCTTTTA CTCGCTTTGA CACTTTTACC TATTTCTTCG 
+      121 CTAGCTTTTT CTCAGGCTAA TGACAGAGGT GAAGTTTATG AACCGGTGCC GGCGTTGGTC 
+      181 ACTGGTGTGA TTGACGGCGC GCCGCCATCC GATGCGATCG TGCTTTTCGA TGGCAGCAAT 
+      241 CTTGAAGCCT GGAATAGAAC CGCAGATGAT GCGCCGGCGC GGTGGTTGAT CGAAGATGGT 
+      301 GTTATTACCG TGCAGAGTGG TGTCGGCACG ATAAAGACCA GGCAGGCGTT TGGAGATATT 
+      361 CAATTGCATG TTGAATTTCG TCCGACGGAC GTCATCGATG GTAGTGGGCA GGGTCGGGGT 
+      421 AATAGTGGCG TGTTTCTGCA TTCATTGTAT GAGGTACAGG TGCTGGATAG TTGGGAAAAT 
+      481 GACACCTATG TTAACGGGCA GGCCGGCTCC ATATACAAAC AACAGGCACC GCTGGTGAAT 
+      541 GTATCGAGGC CGCCGGGGCA GTGGCAAAGT TTTGACATTA TTTTCAAGGC GCCAGTGTAC 
+      601 TCAAGTGCTG GGGAGCTGGA ATCTCCGGCT TACGTGACAG TTTTGCAAAA CGGCGTACTG 
+      661 GTTTTGAATC ATTTTGAAAT ACTGGGGGCG ACCTTTACCG AGTCGCCGGA GTACGCTGCC 
+      721 CGTTGCGGAC CCTACTCCCA GGAACAACGA ATACAGGATT GCAGCGGCAA GATGCCCATC 
+      781 ACCCTGCAGG ATCATGGGCA GATAGTGTCG TTCAGGAATA TTTGGGTTCG TGAAATTGTA 
+      841 AACAGGTCCT GCCGTACTGT TTCCTCTATA ATAGAAAGGA ATCCAGTTTA CTAAATGTGA 
+      901 GACAACGCCG GGTCACCTTC CGAATTGAAT ACCATCAGCC CCTATTGAGG GACTCAACGG 
+      961 GC
+//
+LOCUS       deepabyss_4000m_4140   912 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..912
+                     /organism="1..912"
+                     /strain="1"
+                     /chromosome="1"
+     gene            7..843
+                     /locus_tag="deepabyss_4000m_4140_0"
+     CDS             7..843
+                     /product=ISA3 isoamylase, starch debranching enzyme (E
+                     C:3.2.1.- 3.2.1.10 3.2.1.68) K02438 glycogen operon pr
+                     otein GlgX [EC:3.2.1.-]
+                     /locus_tag="deepabyss_4000m_4140_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MDSLRYWVRDMHVDGFRFDLASALTRERSTVDMGGRFVDIL
+                     RQDPVLSQVKLIAEPWDLGRGGYQVGRFPAPFREWNDQFRNTVRRFWRGDKGQV
+                     AALAARLAGSSDLYAAGGRSPTASVNFLTAHDGFTLADLVSYRHKHNFDNGEAN
+                     RDGADDNRSWNCGVEGPSDDPEVRALRARIRRSLLATLALSQGVPMLSAGDEMG
+                     RTQSGNNNAFCQDNETSWIDWRLSPDAERFLAFVRAVVAFRRTHPVLRHPHFLR
+                     GGRIGEPHARISPGSTPRAGK
+ORIGIN               
+        1 CTGGTCATGG ACAGTCTGAG GTACTGGGTC CGGGATATGC ACGTCGACGG GTTCCGGTTC 
+       61 GACCTGGCGA GCGCGCTGAC GCGCGAGCGG TCCACGGTGG ACATGGGCGG GAGGTTCGTC 
+      121 GACATCCTCC GGCAGGACCC GGTGTTGTCG CAGGTGAAGC TGATTGCCGA GCCGTGGGAC 
+      181 CTGGGACGCG GCGGCTATCA GGTCGGTCGC TTTCCGGCAC CCTTCCGCGA ATGGAACGAC 
+      241 CAGTTCCGGA ACACCGTCCG GCGGTTCTGG CGTGGCGACA AAGGACAGGT GGCAGCTTTG 
+      301 GCCGCCCGGC TGGCCGGCAG CAGCGACCTC TATGCAGCCG GCGGCCGGAG CCCCACCGCC 
+      361 AGTGTGAACT TCCTCACCGC GCACGATGGG TTCACGCTGG CCGACCTGGT CAGCTACCGT 
+      421 CACAAACACA ATTTTGATAA CGGGGAGGCG AACCGGGACG GCGCCGACGA CAACCGGAGC 
+      481 TGGAACTGCG GTGTCGAGGG GCCGTCCGAC GACCCGGAGG TGAGGGCGCT CCGGGCGCGG 
+      541 ATTCGGCGCA GTCTGCTGGC GACGCTGGCC CTCTCGCAGG GCGTGCCGAT GCTGTCGGCC 
+      601 GGCGACGAGA TGGGTCGGAC CCAGTCGGGC AACAACAACG CCTTCTGTCA GGACAACGAG 
+      661 ACCAGCTGGA TCGATTGGCG GCTGTCCCCC GACGCCGAGC GCTTCCTGGC GTTCGTTCGT 
+      721 GCGGTGGTCG CGTTCCGGCG CACGCACCCC GTGTTGCGAC ACCCGCATTT CCTACGTGGG 
+      781 GGGCGCATCG GGGAGCCCCA CGCCAGGATT TCGCCTGGTT CGACCCCGCG GGCGGGGAAA 
+      841 TGACCGACGT GGGCCGGCCA CGCCCTTCCC GGGGCGTTTG TGTCGGGAGG CGTCTTGAAC 
+      901 CCCGACGCCA TG
+//
+LOCUS       deepabyss_4000m_4141   931 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..931
+                     /organism="1..931"
+                     /strain="1"
+                     /chromosome="1"
+     gene            2..259
+                     /locus_tag="deepabyss_4000m_4141_0"
+     CDS             2..259
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_4141_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=NEATLRRLFRDAGLEAIEVTYLASPAFWIQCFHHALFDRGW
+                     FTGARFFTIRNPVLLAAATAMDLVTMLMGRPTSNIRIIGRKPRW
+     gene            253..864
+                     /locus_tag="deepabyss_4000m_4141_1"
+     CDS             253..864
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_4141_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MVTTAVSALLRLDLIKRYWPYYLAVSVLTVTVLVALVVMLG
+                     VSTSPDFRYRYDPGAKTVLYWVGLYPSPAELNPYAWARIGYMLFVAACYAVWGV
+                     GNSTALVYTQLALVWLVQPLMFHVLLHTTGRLMVSVIAMGVWLTFYHAYEWDTW
+                     ALTDALYRLIVLAAFFPVLRLGPGESLSGSSPMVGGRCPRRVGVNHFRVEEKSL
+ORIGIN               
+        1 CAATGAGGCC ACGTTGCGCC GATTGTTTCG CGACGCGGGC CTCGAAGCGA TCGAGGTGAC 
+       61 GTACCTCGCC AGTCCCGCCT TCTGGATTCA GTGCTTTCAC CATGCCTTGT TCGATCGGGG 
+      121 CTGGTTCACG GGTGCCAGGT TCTTCACCAT CAGGAATCCA GTGCTGCTCG CCGCCGCGAC 
+      181 AGCGATGGAC TTGGTCACAA TGCTGATGGG GCGACCCACA TCGAACATTC GAATAATCGG 
+      241 GAGGAAGCCG CGATGGTGAC CACGGCGGTC TCTGCTCTGC TGCGACTGGA CCTGATCAAG 
+      301 CGGTACTGGC CCTATTACCT TGCCGTTTCC GTGCTGACGG TCACCGTTCT AGTGGCTTTG 
+      361 GTGGTGATGT TAGGGGTTTC GACGTCGCCC GACTTTAGAT ACCGATATGA TCCCGGCGCC 
+      421 AAGACGGTGC TCTACTGGGT TGGTCTGTAT CCCTCGCCAG CGGAGCTGAA TCCCTACGCG 
+      481 TGGGCCCGTA TCGGCTACAT GCTGTTTGTC GCAGCGTGCT ACGCGGTCTG GGGAGTCGGC 
+      541 AATTCGACAG CCCTTGTCTA CACGCAGTTG GCGCTAGTCT GGCTCGTGCA GCCGTTGATG 
+      601 TTCCACGTCC TTTTACACAC GACCGGCAGG TTGATGGTCA GTGTCATCGC GATGGGTGTG 
+      661 TGGTTGACGT TTTATCACGC CTATGAGTGG GACACTTGGG CCCTCACGGA CGCTCTTTAC 
+      721 CGGCTCATTG TTCTTGCGGC GTTCTTCCCT GTGCTTCGGC TGGGGCCAGG AGAATCACTA 
+      781 TCGGGGTCTT CGCCCATGGT GGGCGGTCGT TGCCCACGCC GGGTGGGCGT CAACCATTTT 
+      841 CGAGTTGAAG AAAAGTCCTT GTAACGCCTC TTTCCCGCCC TTGGGGGGCT GGGCCCGTGT 
+      901 AACTTCCTCC AAGTTGGAAA CCCCCCCCCC C
+//
+LOCUS       deepabyss_4000m_4142   949 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..949
+                     /organism="1..949"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(2..568)
+                     /locus_tag="deepabyss_4000m_4142_0"
+     CDS             complement(2..568)
+                     /product=mazG nucleoside triphosphate pyrophosphohydro
+                     lase (EC:3.6.1.19) K02428 nucleoside-triphosphate pyro
+                     phosphatase [EC:3.6.1.19]
+                     /locus_tag="deepabyss_4000m_4142_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MPPPEDSFPNQAASSDLFSDQELGTFQTLIDIVARLRAPGG
+                     CPWDREQTHESLKRNLLEESYEVIEAIDQGNPAVLSEELGDLLVQVAFHADIAK
+                     EAGDFDLTDVLRKINSKLVRRHPHVFADGHAEDAREVERNWEQIKAQERKEKGE
+                     SNSPVEGIPVDMPALAYGAVDAGPGGKAGFEWDDIVIPVV
+     gene            713..949
+                     /locus_tag="deepabyss_4000m_4142_1"
+     CDS             713..949
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_4142_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MGRIGWVPWALFIAAVPLFLITASVTWAFNSPGLYNDGFEK
+                     YSISRISGITDSDLRQVGADIRGYINSGGQPAQRCRP
+ORIGIN               
+        1 TAACGACGGG GATCACGATA TCGTCCCACT CGAACCCCGC CTTGCCCCCC GGTCCTGCAT 
+       61 CAACTGCGCC GTAAGCCAGG GCCGGCATAT CGACGGGAAT ACCTTCGACC GGCGAATTGC 
+      121 TTTCCCCTTT TTCCTTGCGT TCTTGGGCCT TGATCTGCTC CCAGTTCCGC TCCACCTCCC 
+      181 GGGCGTCCTC GGCGTGCCCA TCGGCAAAAA CATGAGGGTG GCGGCGCACC AGCTTGCTGT 
+      241 TAATCTTGCG AAGAACATCC GTGAGATCAA AGTCGCCGGC CTCTTTGGCT ATATCGGCGT 
+      301 GGAAAGCGAC CTGGACCAGC AGGTCCCCCA GTTCCTCGGA TAAGACTGCG GGGTTGCCTT 
+      361 GGTCGATAGC TTCGATAACC TCGTAGGACT CTTCCAACAA GTTGCGTTTC AGGGACTCGT 
+      421 GGGTCTGTTC CCGGTCCCAG GGGCAGCCAC CCGGCGCGCG CAGCCTGGCG ACGATGTCGA 
+      481 TCAACGTCTG AAACGTGCCC AGTTCCTGAT CGGAAAAGAG GTCGCTGGAA GCTGCCTGGT 
+      541 TGGGGAATGA ATCCTCTGGC GGTGGCATGG ACGAATTATA GATTGAGCGC CGGTTGCTTC 
+      601 ACAAGCTGGC CAGTGCTAAG TTAGATTAGA CCGCCAGGCG TACTTCTCTT GAAAACTGCC 
+      661 GGGAAACCGC GGGGATTCTA AGACCTGTAC CGGTCGGCAA AACGGAGATT ACATGGGCCG 
+      721 CATCGGCTGG GTCCCCTGGG CGCTTTTCAT CGCTGCAGTG CCGCTATTTT TGATCACCGC 
+      781 CAGCGTTACC TGGGCGTTCA ATAGCCCCGG CTTGTACAAC GACGGGTTCG AGAAGTATTC 
+      841 CATCTCCCGC ATCTCCGGCA TCACAGACAG CGACCTGCGT CAAGTGGGCG CCGACATCCG 
+      901 CGGCTACATC AACTCCGGGG GACAGCCCGC TCAGCGTTGC AGACCCGGA
+//
+LOCUS       deepabyss_4000m_4143   979 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..979
+                     /organism="1..979"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(93..434)
+                     /locus_tag="deepabyss_4000m_4143_0"
+     CDS             complement(93..434)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_4143_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MFNNITNQRWQGADLRPAVSQWFQRRSRDLAPVRGLRYLAV
+                     LVILTALSACSPGGGAVPASSGLADAGSADAAWPLVWEAWDQIDASYAHRDTLE
+                     LELLIDGALGSLLELTRF
+     gene            547..891
+                     /locus_tag="deepabyss_4000m_4143_1"
+     CDS             547..891
+                     /product=[delta proteobacterium NaphS2]
+                     /locus_tag="deepabyss_4000m_4143_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MIKVSVLYPNEEGKKFDFDYYLNKHLPMVQGLLSPMGMQKG
+                     EAEKGVSSADPSQPAPFVAVGHLFFETTDQVHAAFSAHGREIKGDIKNYTDFQP
+                     TLPNCRNVALTAHCGVDSP
+ORIGIN               
+        1 CGGGGATCCC CCCGCCAATT CCGCCATCCT GGTGGCACCC CACGGGTGGC TGGCCCCTTA 
+       61 TACGGCCCAA ATCAGCAAGA AATGGGTAAT GGTTAGAACC TTGTCAATTC CAGTAAGGAA 
+      121 CCTAGAGCGC CATCGATAAG AAGTTCAAGC TCCAGTGTGT CGCGGTGGGC GTAAGAAGCG 
+      181 TCGATCTGGT CCCAGGCTTC CCAAACCAGA GGCCACGCGG CGTCAGCTGA TCCGGCGTCA 
+      241 GCCAGTCCAC TGGAGGCAGG AACGGCGCCG CCTCCGGGGG AACAGGCTGA TAGCGCCGTC 
+      301 AATATCACCA ACACCGCCAG ATAACGGAGT CCCCGAACCG GGGCCAGATC TCTCGATCGG 
+      361 CGCTGAAACC ATTGGCTAAC AGCCGGGCGA AGATCTGCCC CCTGCCAACG TTGGTTGGTG 
+      421 ATATTGTTAA ACATATTCGG TCCGGTTGAT TTGATCGGAC GGGCCCAAGT CATGTTGGCC 
+      481 GGTGCCATTA CCTTAGTGTA AGATGTTTTG TGCTTAATAC CCAACATTCC CCTACAGGAG 
+      541 ACCATCATGA TCAAAGTATC GGTTTTGTAC CCCAACGAAG AAGGCAAGAA ATTCGATTTC 
+      601 GACTACTACT TGAACAAACA CCTGCCCATG GTGCAGGGAC TTTTAAGCCC GATGGGCATG 
+      661 CAGAAGGGCG AGGCCGAAAA AGGCGTGTCG TCGGCCGACC CCAGCCAGCC GGCGCCTTTC 
+      721 GTCGCCGTGG GTCATCTTTT CTTTGAAACC ACCGATCAGG TGCATGCCGC GTTCAGTGCC 
+      781 CACGGCCGGG AGATAAAGGG AGACATCAAG AACTATACCG ACTTCCAACC CACCCTTCCA 
+      841 AATTGCCGAA ATGTTGCTTT AACCGCCCAT TGCGGGGTGG ATTCACCCTA ATGGCCCCGG 
+      901 GGGGAAATTC ATGGTGGAAA ACCGGGCGGC CCGGAATTGA AGCCGATTGG AAAGCTTTAT 
+      961 TCCCAACCGT CTGAATCCC
+//
+LOCUS       deepabyss_4000m_4412   972 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..972
+                     /organism="1..972"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(3..119)
+                     /locus_tag="deepabyss_4000m_4412_0"
+     CDS             complement(3..119)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_4412_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+     gene            complement(178..450)
+                     /locus_tag="deepabyss_4000m_4412_1"
+     CDS             complement(178..450)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_4412_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MPRREDERHRNLSSKHPEACTCKDCTDRFLKKQGIKPGGQS
+                     QKKAQPAERVKRHPVGCTCASCTLLSTIDFSAAKDHGKGGFFKRIFGKR
+     gene            complement(667..972)
+                     /locus_tag="deepabyss_4000m_4412_2"
+     CDS             complement(667..972)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_4412_2"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=FAGFVPPPGHFRPLLKDNRASKRRAVAIGKRIVDSFGITLN
+                     RCILCGIGVEVCNFDAIVLTHEPEMSTYQRNGDRVDLPVWLEIGQKFQNENGLD
+                     STDKTV
+ORIGIN               
+        1 TCCGGGTCAC CCCCCCTCCC CAAGCGCCTC CCAGGGTTAA CACCGCCAGC ATGTCCCCCA 
+       61 GAAACCAGGA CATAGTCACC GGCCCCAAGC AAATAATGAG TCCCGCTGAG CGGGACCATT 
+      121 ATAGGGAAAA ATTCCGGTAG GCATGTTGTG CCTGATTGTA CCCATAGTTG TATTACACTA 
+      181 CCGTTTGCCG AAAATCCTTT TGAAGAATCC ACCTTTCCCG TGATCTTTGG CCGCGGAAAA 
+      241 ATCTATCGTG CTCAGCAGTG TGCAACTTGC GCAGGTACAA CCGACGGGAT GCCGCTTAAC 
+      301 TCTTTCCGCT GGCTGCGCCT TCTTTTGCGA CTGGCCACCG GGCTTTATAC CCTGTTTCTT 
+      361 AAGGAACCTG TCGGTGCAAT CCTTGCAAGT ACAGGCCTCC GGATGCTTGC TGGATAAGTT 
+      421 TCGGTGCCGC TCGTCTTCTC GCCTGGGCAT TCTATAACCC CTTATAGCCT TCCCATCAAC 
+      481 GCACTGCTCT AGGTGCTGTA GGGGCGAGAA TTACTCAAGG TTTCCCAATG GATTTTGGTC 
+      541 AAGCTGGCAG ATTACAGGCC TACTGGAGTA GGCCGCACCA AAAATTGGCA TTACTGTCCT 
+      601 TCGGCCTCGG AAGGCATACC AGCGGCGGCT TCAGACTCCG GCTCTGCTGG GGTCTCCTTG 
+      661 GCTTGCTTAG ACCGTTTTGT CGGTGGAATC CAAGCCGTTT TCATTCTGGA ATTTTTGGCC 
+      721 GATCTCCAGC CAGACTGGCA GGTCCACCCG GTCGCCGTTA CGCTGGTAGG TGCTCATCTC 
+      781 GGGCTCGTGG GTCAGGACGA TGGCGTCGAA ATTACACACC TCGACGCCAA TCCCGCATAG 
+      841 AATACACCGG TTCAGGGTGA TTCCAAAGCT GTCTACAATC CTTTTTCCAA TGGCTACGGC 
+      901 CCTCCTTTTT GAAGCGCGGT TATCCTTCAA AAGGGGCCGA AAATGCCCCG GGGGGGGAAC 
+      961 AAAGCCCGCG AA
+//
+LOCUS       deepabyss_4000m_4413   951 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..951
+                     /organism="1..951"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(85..729)
+                     /locus_tag="deepabyss_4000m_4413_0"
+     CDS             complement(85..729)
+                     /product=TonB-dependent siderophore receptor
+                     /locus_tag="deepabyss_4000m_4413_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=LKDKTSAVGEEYANANELLEPLESSQYELGVKTSGEGWSLS
+                     AAVFEIEQGATLVTEENYLIQEGVTLYQGIEFSGAYEITQNLSIYGDAMFLDAE
+                     YDKTTSNQGNDVAGAPDQQFTLQTNYNVEAIPGLTLNLEKKFHGEAALNAANAW
+                     EVPSYTLVYGGVSYATQIDNHAVTLIGSVDNLLDEEYWAVGDSYGGGNLRIGEP
+                     RTVALKVKVDF
+ORIGIN               
+        1 CGAAAAGATA TTAACTACCC CGCAGTTACA CCGAATCTGT TACAGGCTCA ATAAACATAC 
+       61 TCTCCCGAAA CTGGCATTGA TTAGTTAGAA GTCTACTTTT ACCTTCAATG CCACTGTGCG 
+      121 AGGCTCGCCA ATACGTAAGT TGCCTCCTCC ATAAGAGTCG CCTACAGCCC AATATTCTTC 
+      181 GTCAAGAAGG TTGTCTACTG ATCCAATTAG AGTAACCGCG TGATTGTCTA TCTGCGTGGC 
+      241 ATAACTCACA CCACCGTATA CAAGGGTGTA TGACGGAACT TCCCAAGCAT TAGCCGCATT 
+      301 AAGCGCCGCT TCACCATGGA ATTTTTTTTC TAGGTTAAGG GTGAGGCCTG GAATCGCTTC 
+      361 TACATTGTAA TTGGTCTGTA ACGTGAACTG TTGGTCGGGT GCACCCGCTA CATCGTTTCC 
+      421 TTGGTTGGAT GTGGTTTTAT CATATTCGGC GTCTAAGAAC ATAGCATCAC CGTAGATGGA 
+      481 AAGATTTTGC GTAATTTCGT AAGCACCACT AAATTCAATT CCTTGATAAA GTGTCACACC 
+      541 TTCTTGAATA AGGTAGTTTT CTTCGGTGAC TAAGGTTGCG CCTTGCTCAA TTTCAAAAAC 
+      601 CGCGGCGCTG AGCGACCAAC CCTCTCCTGA TGTTTTTACC CCTAATTCAT ACTGCGAGCT 
+      661 TTCAAGTGGC TCGAGTAATT CATTGGCATT GGCATATTCT TCGCCAACAG CAGATGTTTT 
+      721 GTCCTTCAAA AGACTCTACA TAGCTTCCAT AGTAAGGTGG GCTGGCGCTA GGTTTGTACA 
+      781 TTAATGGATA ACGTGGGAAA CACCGGTGTA TCTCCCTAAC CGTCCTGGGA CGAGAAATAA 
+      841 AACCCCTCCC CTTCCGGTCA ATTTCTTTGG AACAAGAACC TATAAACATT TCCCCCCCTT 
+      901 GGTAAGGGCG ATGAAATCCC TAATAAAACC GAACGGTGTG TTCCACCCTG A
+//
+LOCUS       deepabyss_4000m_4146   952 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..952
+                     /organism="1..952"
+                     /strain="1"
+                     /chromosome="1"
+     gene            3..932
+                     /locus_tag="deepabyss_4000m_4146_0"
+     CDS             3..932
+                     /product=nirA ferredoxin-nitrite reductase (EC:1.7.7.1
+                     ) K00366 [EC:1.7.7.1]
+                     /locus_tag="deepabyss_4000m_4146_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=NFRWRYYGLFYVAPNQDSYMCRLRIPNGILSAAQFEGVARI
+                     AEDFGGGYAHVTTRANLQIREIAAANAINVIEGIQDLGLTSRGSGADNIRNVTG
+                     TPTAGIDPQELLDTRPYARSWHFHVLNDRSLTGLPRKFNVAFDGAGQVAALEET
+                     NDIGFSAVEVAEGAVVPAGLYFRLVLGGITGHRDLARDTGVVLPPADATKVADA
+                     IVRVFVDSGDRTNRNKARLKYVLDAWGFDTFLAAVEEKLGRKLDRVEPAHVKTR
+                     AQADRMAHLACIPKSRTAELIGPLLPAGKLLRPRKEWHPAPLPGIWKTANSV
+ORIGIN               
+        1 ATAATTTCCG CTGGCGCTAT TACGGCTTGT TTTATGTGGC GCCCAACCAG GACTCTTATA 
+       61 TGTGCCGCTT GCGCATCCCG AACGGGATCC TGAGCGCGGC GCAGTTCGAA GGCGTGGCCC 
+      121 GCATCGCGGA AGACTTCGGC GGCGGCTATG CCCATGTGAC CACGCGCGCC AATCTGCAGA 
+      181 TCCGCGAGAT CGCCGCCGCC AATGCGATCA ACGTCATCGA GGGCATCCAG GATCTCGGGC 
+      241 TCACGTCGCG CGGCTCCGGC GCGGACAATA TCCGCAACGT CACCGGCACG CCGACCGCGG 
+      301 GCATCGATCC CCAAGAGCTG CTGGACACGC GGCCTTACGC GCGGAGCTGG CATTTCCATG 
+      361 TGCTGAACGA TCGCTCGCTC ACGGGTCTGC CGCGCAAGTT CAATGTCGCC TTCGACGGCG 
+      421 CAGGGCAGGT CGCGGCACTG GAAGAGACCA ACGATATCGG CTTCTCCGCG GTTGAGGTGG 
+      481 CCGAGGGGGC GGTCGTGCCG GCGGGCCTCT ATTTCCGCCT CGTGCTTGGC GGCATCACAG 
+      541 GCCATCGCGA CCTCGCCCGC GACACCGGCG TGGTGCTGCC GCCGGCCGAC GCCACGAAAG 
+      601 TCGCCGATGC CATCGTGCGC GTGTTCGTGG ATAGCGGCGA CCGCACCAAT CGCAACAAGG 
+      661 CGCGCCTCAA ATACGTACTC GACGCGTGGG GCTTCGACAC GTTCCTCGCC GCGGTCGAGG 
+      721 AGAAGCTTGG CCGCAAGCTC GATCGCGTCG AACCGGCGCA TGTGAAAACG CGCGCCCAAG 
+      781 CGGATCGCAT GGCCCATCTC GCGTGCATCC CCAAAAGCAG AACGGCTGAA TTGATCGGCC 
+      841 CCCTTCTGCC GGCCGGCAAG CTTTTACGGC CCCGCAAAGA ATGGCATCCG GCCCCTTTGC 
+      901 CCGGGATCTG GAAAACGGCA AATTCCGTTT AACCGGGTGG CAAAACCTGC TC
+//
+LOCUS       deepabyss_4000m_4147   982 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..982
+                     /organism="1..982"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(3..677)
+                     /locus_tag="deepabyss_4000m_4147_0"
+     CDS             complement(3..677)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_4147_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MRGLTQLQSAVDGSSGSVEALVKMAEAAVVAQDSSAASITI
+                     AVDAVEANDTSLLSTLVSSYNPANLAAALGNATIGDVTGSTFNDAPVADHGVAF
+                     TMNEDGTLTITEADLLGSSSDADGDDLHVESLAVTAELPATNNMVFRLSAKNIT
+                     LATDGVSVSSWKDLSGNDLDATVFQGAPDFEAGGMNDNGSVDFDTGQSMTIADN
+                     TAINKSNYTQKSFAFSFETRRF
+     gene            complement(683..982)
+                     /locus_tag="deepabyss_4000m_4147_1"
+     CDS             complement(683..982)
+                     /product=hypothetical protein
+                     /locus_tag="deepabyss_4000m_4147_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=VIPKTWLFQPNGSGEGLRRHLGVEKFGPGGFNKFQAFLQEG
+                     SFQAAKVLPETNTGADIIAILKGLVEGGGNAALNVTGSTFTVVDLNESERRHLV
+                     QLQR
+ORIGIN               
+        1 CAGAAGCGCC GGGTTTCGAA CGAAAAGGCG AAGCTCTTCT GGGTGTAATT GCTCTTATTG 
+       61 ATGGCGGTGT TGTCGGCGAT GGTCATGGAT TGACCGGTGT CGAAGTCGAC GCTGCCGTTG 
+      121 TCGTTCATTC CACCGGCCTC GAAGTCCGGC GCGCCTTGGA ACACGGTGGC GTCCAAATCA 
+      181 TTGCCGGACA GATCTTTCCA CGACGAGACG CTAACGCCGT CGGTAGCGAG GGTGATATTC 
+      241 TTGGCGCTCA GACGGAACAC CATGTTGTTG GTAGCTGGCA GTTCCGCCGT AACCGCCAGG 
+      301 CTCTCAACGT GAAGATCATC ACCGTCAGCA TCGCTCGACG AACCAAGAAG GTCTGCTTCC 
+      361 GTGATCGTCA ACGTGCCATC CTCGTTCATC GTGAATGCGA CACCGTGATC CGCAACCGGA 
+      421 GCGTCGTTGA AGGTCGATCC CGTCACATCG CCGATGGTTG CATTACCGAG CGCCGCCGCC 
+      481 AGGTTGGCGG GGTTATAAGA CGAAACCAGG GTGGACAGTA GCGACGTATC ATTTGCCTCA 
+      541 ACCGCATCAA CAGCTATCGT GATTGACGCC GCCGAACTAT CCTGCGCAAC AACCGCCGCC 
+      601 TCTGCCATCT TGACCAGAGC TTCAACGGAA CCTGAGCTGC CATCAACGGC ACTCTGCAGT 
+      661 TGCGTGAGCC CCCTCATTAC ATTTACCGCT GCAACTGCAC CAGATGCCGC CTTTCACTTT 
+      721 CGTTAAGGTC AACGACCGTG AAAGTTGATC CCGTTACATT AAGTGCTGCA TTACCCCCAC 
+      781 CTTCAACAAG ACCCTTGAGA ATAGCTATTA TATCGGCGCC CGTATTGGTT TCCGGGAGCA 
+      841 CTTTCGCCGC CTGGAAGCTC CCTTCCTGTA AAAACGCCTG GAACTTGTTA AACCCCCCAG 
+      901 GGCCAAACTT TTCCACACCC AAATGCCTTC GCAGCCCTTC ACCACTGCCG TTTGGCTGGA 
+      961 ACAACCAGGT TTTGGGAATA AC
+//
+LOCUS       deepabyss_4000m_4148   952 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..952
+                     /organism="1..952"
+                     /strain="1"
+                     /chromosome="1"
+     gene            2..289
+                     /locus_tag="deepabyss_4000m_4148_0"
+     CDS             2..289
+                     /product=FIG085779: Lipoprotein [Pseudomonas stutzeri 
+                     DSM 10701]
+                     /locus_tag="deepabyss_4000m_4148_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=QLLLEGRWQTDGLLPPNAEARTLFAALLFALSPAEQLEELY
+                     ADSAWTLHQNGRSLADDGSTWHVRYLEKGGFELDVGPTLTYRVAPIHPAGTRQR
+     gene            286..951
+                     /locus_tag="deepabyss_4000m_4148_1"
+     CDS             286..951
+                     /product=3-oxoacyl-(acyl carrier protein) synthase I (
+                     EC:2.3.1.41) K00647 3-oxoacyl-[acyl-carrier-protein] [
+                     EC:2.3.1.41]
+                     /locus_tag="deepabyss_4000m_4148_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MTAYLNALGLLCALGRGKAEVARRLLAGDSSGMQPHPQTIA
+                     GRSLPVGAVTGELPSLGNAPLQHVTRNNQLLLAALEEIEPDLHEAISRFGPSRV
+                     GVVMGTSTSGIQEATQGIARLTRDGHLPSSYHYSHQELCAPASFVSERLQLSGP
+                     DYSISTACTSSARALLSAKRLLDAGICDAVICGGVDTLCDLTLRGFAALQATVP
+                     SSAPVFGHRDASILGNPC
+ORIGIN               
+        1 CCAGTTGCTG CTCGAGGGGC GCTGGCAAAC CGATGGGCTG CTGCCACCCA ATGCTGAAGC 
+       61 GCGCACGCTG TTTGCCGCTT TGCTGTTCGC ACTCAGCCCC GCCGAGCAGT TGGAAGAGCT 
+      121 TTATGCTGAT AGCGCATGGA CGCTGCATCA GAACGGTCGT TCGCTGGCAG ACGATGGCTC 
+      181 AACCTGGCAC GTTCGTTACC TGGAAAAAGG CGGTTTCGAA CTCGACGTCG GGCCGACGCT 
+      241 GACCTATCGT GTCGCGCCTA TCCACCCAGC CGGAACCCGC CAACGATGAC CGCCTACCTG 
+      301 AATGCACTCG GGCTGCTTTG CGCCCTCGGG CGCGGCAAGG CCGAAGTCGC CCGGCGCCTG 
+      361 CTCGCAGGCG ACAGCTCAGG TATGCAGCCA CATCCGCAAA CAATTGCCGG GCGCAGCCTG 
+      421 CCGGTCGGGG CAGTCACCGG CGAGCTACCC TCACTTGGCA ATGCGCCGCT GCAGCATGTC 
+      481 ACTCGCAACA ATCAGCTGCT GTTAGCTGCG CTGGAGGAAA TAGAACCCGA CCTGCATGAG 
+      541 GCGATTTCCC GCTTCGGCCC AAGCCGCGTC GGCGTGGTCA TGGGAACCAG CACTTCAGGT 
+      601 ATTCAGGAGG CGACCCAGGG GATAGCCCGC CTAACAAGAG ACGGCCATTT ACCGTCCAGT 
+      661 TATCACTACA GCCATCAGGA GCTTTGCGCA CCGGCCAGCT TCGTCAGCGA GCGCTTGCAG 
+      721 CTCAGCGGTC CCGACTACTC TATATCCACG GCCTGTACGT CCAGTGCGCG CGCACTCCTC 
+      781 AGCGCCAAAC GATTGCTGGA TGCGGGCATC TGCGATGCCG TGATCTGTGG TGGCGTTGAC 
+      841 ACCCTGTGTG ATTTGACCCT GCGGGGTTTC GCGGCACTCC AGGCGACCGT GCCCAGTTCT 
+      901 GCACCCGTTT TCGGCCACCG CGACGCATCA ATATTGGGCA ACCCCTGCTG TC
+//
+LOCUS       deepabyss_4000m_4149   533 bp   DNA           BCT      10-AUG-2014
+DEFINITION  deepabyss_4000m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      deepabyss_4000m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  deepabyss_4000m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX

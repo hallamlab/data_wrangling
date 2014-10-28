@@ -1,0 +1,15 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	7
+
+	SSURef_NR99_115_tax_silva_2012-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+chlorophyllmax_130m_2545	1	337	96.44	8e-157	556.0	Bacteria;Verrucomicrobia;Arctic97B-4 marine group;uncultured bacterium
+chlorophyllmax_130m_1035	1	626	98.88	0.0	1116.0	Bacteria;Proteobacteria;Deltaproteobacteria;SAR324 clade(Marine group B);uncultured bacterium
+chlorophyllmax_130m_462	1	702	98.86	0.0	1251.0	Bacteria;Verrucomicrobia;Opitutae;MB11C04 marine group;uncultured bacterium
+chlorophyllmax_130m_2347	1	368	98.91	0.0	656.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI;Prochlorococcus;uncultured marine microorganism
+chlorophyllmax_130m_5578	99	936	90.6	0.0	1109.0	Bacteria;Cyanobacteria;ML635J-21;uncultured deep-sea bacterium
+chlorophyllmax_130m_3773	487	708	95.5	2e-95	353.0	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;Surface 2;uncultured marine bacterium
+chlorophyllmax_130m_3645	5	848	92.98	0.0	1232.0	Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Marine Group II;uncultured marine group II euryarchaeote HF200_49H12

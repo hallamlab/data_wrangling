@@ -1,0 +1,10 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	2
+
+	SSURef_NR99_115_tax_silva_2012-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+uppermesopelagic_500m_1445	160	562	91.38	1e-151	540.0	Bacteria;Proteobacteria;Deltaproteobacteria;SAR324 clade(Marine group B);uncultured organism
+uppermesopelagic_500m_6531	755	958	89.95	3e-68	263.0	Bacteria;Acidobacteria;Acidobacteria;Subgroup 6;uncultured bacterium

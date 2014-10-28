@@ -145,12 +145,20 @@ fastas/.DS_Store:0
     * `[]`: specifies a range or set of characters to match
         * `[BC]at`: matches `Bat` or `Cat` but not `bat` or `cat`
         * `sample_[0-9][0-9]`: matches `sample_01`, `sample_02`, etc.
+    * `\`: 'escapes' the following character (where you actually want to match it)
+        * `\[*proteobacteria*\]: matches text that have RefSeq-style taxonomy in square brackets
 * the linux command `ls` can be used to list the set of files that are hit by a glob pattern
     * this is very important when writing critical commands like 'move' (`mv`) or 'remove' (`rm`)
         * everyone eventually burns themselves, its a fact of life while working on with the Unix command line
 * *Note: Unix globs are not as sophisicated as full blown Perl or grep-based regular expressions. They don't have a complete feature set. Some things just can not be done with command line globs*
 
 #### `grep` (con't)
+
+* use glob patterns and to count the number of lines that match `Pseudomonas` in the Hawaii-ocean Time Series RefSeq LAST output (truncated data to fit on GitHub).
+
+```
+grep -c 'Pseudomonas' HOT_fosmids_small/*/blast_results/*RefSeq*.LASTout.parsed.txt
+```
 
 * dropping the `-c`, `grep` will just print the matching line
     * match all fasta headers that end in `b1`

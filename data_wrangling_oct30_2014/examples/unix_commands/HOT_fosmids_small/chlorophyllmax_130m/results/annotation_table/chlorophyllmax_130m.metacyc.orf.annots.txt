@@ -1,0 +1,1589 @@
+RXN-2562	NIL	"chlorophyllmax_130m_4162_0"
+4.1.1.32-RXN	NIL
+RXN-6763	NIL
+RXN-14779	NIL
+RXN-14778	"enoyl-CoA hydratase"
+RXN-12718	NIL
+PNKIN-RXN	NIL
+ETHAMLY-RXN	NIL	"chlorophyllmax_130m_1868_1"
+RXN-12715	NIL
+RXN-12714	"androst-4-en-3,17-dione 1-dehydrogenase"
+GLU6PDEHYDROG-RXN	NIL
+MALYL-COA-LYASE-RXN	NIL
+RXN-9527	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-9526	"<i>trans</i> oct-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_3630_0"
+RXNQT-4192	NIL
+RXNQT-4193	NIL	"chlorophyllmax_130m_1814_0"
+LYSINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_6024_0"	"chlorophyllmax_130m_3301_0"
+FRUCTOKINASE-RXN	"fructokinase"	"chlorophyllmax_130m_6198_0"	"chlorophyllmax_130m_6188_0"
+2.1.1.130-RXN	NIL
+DLACTDEHYDROGFAD-RXN	NIL
+RXN1F-357	NIL	"chlorophyllmax_130m_1867_1"	"chlorophyllmax_130m_3242_0"
+ACETOOHBUTSYN-RXN	"2-aceto-2-hydroxy-butyrate synthase"	"chlorophyllmax_130m_213_0"	"chlorophyllmax_130m_4332_0"	"chlorophyllmax_130m_4344_1"	"chlorophyllmax_130m_6187_0"	"chlorophyllmax_130m_5743_1"	"chlorophyllmax_130m_5743_0"	"chlorophyllmax_130m_602_0"	"chlorophyllmax_130m_431_1"	"chlorophyllmax_130m_431_0"	"chlorophyllmax_130m_5127_0"
+ACYLCOADEHYDROG-RXN	"acyl-CoA dehydrogenase"	"chlorophyllmax_130m_5480_1"
+6.3.5.6-RXN	NIL	"chlorophyllmax_130m_4330_0"	"chlorophyllmax_130m_5278_0"	"chlorophyllmax_130m_636_0"	"chlorophyllmax_130m_2987_0"	"chlorophyllmax_130m_4669_0"	"chlorophyllmax_130m_5183_0"	"chlorophyllmax_130m_2390_1"	"chlorophyllmax_130m_2390_0"
+RXN1G-470	"trehalose-cis-methoxy-mono-mycolate transport"
+2.8.1.6-RXN	NIL
+DIOHBUTANONEPSYN-RXN	NIL
+RXN-14788	"3-ketoacyl-CoA thiolase"	"chlorophyllmax_130m_5007_0"	"chlorophyllmax_130m_5360_0"	"chlorophyllmax_130m_4406_1"	"chlorophyllmax_130m_3740_0"
+RXN3O-9780	"palmitoyl-[acp]:CoA transacylase"
+METHIONINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_382_0"
+PHENYLALANINE-DECARBOXYLASE-RXN	NIL
+GALACTURIDYLYLTRANS-RXN	NIL
+RXN-7800	NIL
+PSERTRANSAM-RXN	NIL	"chlorophyllmax_130m_1402_0"	"chlorophyllmax_130m_5598_0"
+GLUTRNAREDUCT-RXN	NIL
+RXN-14716	"3-trans-tetradecenoyl-CoA isomerase"
+RXN-14715	"2-trans,4-trans-tetradecadienoyl-CoA reductase"	"chlorophyllmax_130m_2985_0"
+RXN-14714	"3,5-tetradecadienoyl-CoA isomerase"
+RXN0-742	NIL
+RXN1G-1486	"3-oxo-C78-&alpha;-mycolate-reductase"
+ADENYLYLSULFKIN-RXN	NIL	"chlorophyllmax_130m_845_0"
+DTDPGLUCOSEPP-RXN	NIL	"chlorophyllmax_130m_3952_0"	"chlorophyllmax_130m_3808_1"	"chlorophyllmax_130m_5591_0"	"chlorophyllmax_130m_5124_0"
+1.2.1.25-RXN	NIL
+RXN0-745	NIL	"chlorophyllmax_130m_5006_1"
+RXN1G-1130	"trans-delta2-cis-delta19-C38:2-[acyl-carrier protein] reductase"
+RXN0-746	NIL	"chlorophyllmax_130m_5006_1"
+UREASE-RXN	NIL	"chlorophyllmax_130m_5395_2"	"chlorophyllmax_130m_5395_1"	"chlorophyllmax_130m_5395_0"	"chlorophyllmax_130m_5251_2"	"chlorophyllmax_130m_5251_1"	"chlorophyllmax_130m_5251_0"	"chlorophyllmax_130m_5455_0"	"chlorophyllmax_130m_3240_0"
+RXN0-747	NIL	"chlorophyllmax_130m_5237_0"	"chlorophyllmax_130m_37_0"	"chlorophyllmax_130m_2403_0"	"chlorophyllmax_130m_4055_0"	"chlorophyllmax_130m_1907_1"	"chlorophyllmax_130m_1907_0"	"chlorophyllmax_130m_1990_0"	"chlorophyllmax_130m_5006_1"
+RXN-9789	NIL
+RXN-9788	NIL
+CITSYN-RXN	NIL
+PEPSYNTH-RXN	NIL	"chlorophyllmax_130m_341_0"
+GLUTAMIDOTRANS-RXN	NIL
+RXN1G-279	"cis-delta13-3-hydroxyC32:1-[acyl-carrier protein] dehydratase"
+SPONTPRO-RXN	NIL
+RXN3O-5304	"stearoyl-[acp]--CoA stearoyltransferase"	"chlorophyllmax_130m_126_0"
+1.3.1.54-RXN	NIL	"chlorophyllmax_130m_292_0"
+RXN-9659	"<i>trans</i> oct-2-enoyl-[acp] reductase"
+RXN-9658	"<i>trans</i> hex-2-enoyl-[acp]-reductase"
+RXN-9657	"crotonyl-[acp] reductase"
+RXN-9655	"3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase"	"chlorophyllmax_130m_126_0"
+RXN-9654	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-9653	"3-oxo-meristoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-9652	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-9651	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-9650	"3-oxo-octanoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN3O-54	NIL
+RXN1G-1003	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN1G-1004	"3-cis,cis-delta19,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+NAD-KIN-RXN	NIL	"chlorophyllmax_130m_195_0"	"chlorophyllmax_130m_1787_1"
+RXN0-1001	NIL
+CYTIDEAM2-RXN	NIL
+RXN-13293	NIL
+RXN-13290	"15-tetracosenoate&mdash;CoA ligase"	"chlorophyllmax_130m_4411_0"	"chlorophyllmax_130m_1736_0"	"chlorophyllmax_130m_3080_0"	"chlorophyllmax_130m_4877_1"	"chlorophyllmax_130m_794_1"	"chlorophyllmax_130m_3830_1"	"chlorophyllmax_130m_3910_0"	"chlorophyllmax_130m_2074_0"
+LIPIDADISACCHARIDESYNTH-RXN	NIL	"chlorophyllmax_130m_5432_1"
+HOMOGENTISATE-12-DIOXYGENASE-RXN	NIL	"chlorophyllmax_130m_527_0"
+1.2.1.2-RXN	NIL	"chlorophyllmax_130m_5716_0"
+RXN1G-808	"6-O-cis-methoxy-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-809	"6-O-trans-methoxy-mycolyl-trehalose O-mycolyltransferase"
+ADPREDUCT-RXN	"ADP reductase"	"chlorophyllmax_130m_5237_0"	"chlorophyllmax_130m_37_0"	"chlorophyllmax_130m_2403_0"	"chlorophyllmax_130m_4055_0"	"chlorophyllmax_130m_1907_1"	"chlorophyllmax_130m_1907_0"	"chlorophyllmax_130m_1990_0"	"chlorophyllmax_130m_5006_1"
+RXN1G-807	"6-O-mycolyl-trehalose O-mycolyltransferase"
+RXN0-1133	NIL	"chlorophyllmax_130m_5003_0"	"chlorophyllmax_130m_3650_0"
+RXN0-1132	"dihydrolipoyl dehydrogenase"	"chlorophyllmax_130m_4790_0"	"chlorophyllmax_130m_4015_0"	"chlorophyllmax_130m_5944_0"	"chlorophyllmax_130m_1973_0"
+4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN	NIL	"chlorophyllmax_130m_4059_0"
+NAG1P-URIDYLTRANS-RXN	NIL	"chlorophyllmax_130m_5941_0"
+RXN0-1134	NIL	"chlorophyllmax_130m_6099_0"	"chlorophyllmax_130m_2978_0"	"chlorophyllmax_130m_723_1"	"chlorophyllmax_130m_2405_1"	"chlorophyllmax_130m_5103_0"	"chlorophyllmax_130m_2059_0"	"chlorophyllmax_130m_3843_0"
+PROTOCATECHUATE-34-DIOXYGENASE-RXN	NIL
+2.4.1.36-RXN	NIL
+RXN1G-248	"trans-delta2-cis,cis-delta5,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+HYDROXYMETHYLGLUTARYL-COA-LYASE-RXN	NIL	"chlorophyllmax_130m_2008_0"	"chlorophyllmax_130m_1958_0"
+RXN-7682	NIL	"chlorophyllmax_130m_6166_0"	"chlorophyllmax_130m_988_0"
+ARGINASE-RXN	NIL
+RXN-7931	NIL	"chlorophyllmax_130m_5376_0"
+PSERTRANSAMPYR-RXN	NIL	"chlorophyllmax_130m_1402_0"	"chlorophyllmax_130m_5598_0"
+THREONINE-ALDOLASE-RXN	"low-specificity L-threonine aldolase"	"chlorophyllmax_130m_2369_0"	"chlorophyllmax_130m_6298_0"
+RXN-12278	NIL
+RXN-12279	NIL
+RXN-12276	NIL
+RXN-12277	NIL
+RXN-11921	"3-methylcrotonyl-CoA:acetyl-CoA C-acyltransferase"
+RXN-11920	"3-hydroxy-5-methylhex-4-enoyl-CoA dehydrogenase"
+LIPIDXSYNTHESIS-RXN	NIL
+3-OXOACYL-ACP-REDUCT-RXN	NIL	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_411_0"
+CITRYLY-RXN	"citryl-CoA lyase"	"chlorophyllmax_130m_5043_0"
+KETOGAL-DEHYDROXY-RXN	NIL
+RXN0-5146	NIL
+2-OXOGLUTARATE-SYNTHASE-RXN	NIL	"chlorophyllmax_130m_2091_0"	"chlorophyllmax_130m_1844_1"	"chlorophyllmax_130m_2_1"	"chlorophyllmax_130m_2_0"
+RXN-13720	NIL
+2.4.1.142-RXN	NIL
+METHYLMALONYL-COA-MUT-RXN	NIL	"chlorophyllmax_130m_5255_1"	"chlorophyllmax_130m_6080_0"	"chlorophyllmax_130m_4152_0"	"chlorophyllmax_130m_2337_0"
+6PFRUCTPHOS-RXN	NIL
+2.7.9.3-RXN	NIL	"chlorophyllmax_130m_5670_0"	"chlorophyllmax_130m_5108_0"
+R321-RXN	NIL
+RXN-13273	"long-chain acyl-CoA reductase"
+3.2.1.33-RXN	NIL
+RIBOPHOSPHAT-RXN	NIL
+GSHTRAN-RXN	NIL	"chlorophyllmax_130m_3759_1"	"chlorophyllmax_130m_4794_0"
+TRYPTOPHAN-5-MONOOXYGENASE-RXN	NIL
+RXN-15059	NIL
+RXN-15058	NIL
+ENOYL-ACP-REDUCT-NADH-RXN	"2,3,4-saturated-fatty-acid-[acp] reductase"
+RXN-13907	NIL
+RXN-12877	NIL
+O-SUCCINYLBENZOATE-COA-LIG-RXN	NIL	"chlorophyllmax_130m_1557_0"	"chlorophyllmax_130m_3821_0"
+2.4.2.27-RXN	NIL
+UDP-N-ACETYLGLUCOSAMINE-4-EPIMERASE-RXN	NIL
+PMPOXI-RXN	NIL	"chlorophyllmax_130m_4954_0"
+RXN-7733	NIL
+ATPSYN-RXN	NIL	"chlorophyllmax_130m_4000_0"	"chlorophyllmax_130m_3452_0"	"chlorophyllmax_130m_1883_0"	"chlorophyllmax_130m_5181_2"	"chlorophyllmax_130m_5181_1"	"chlorophyllmax_130m_5181_0"	"chlorophyllmax_130m_5844_0"	"chlorophyllmax_130m_627_0"	"chlorophyllmax_130m_5330_0"	"chlorophyllmax_130m_3593_0"
+RXN1G-4355	"cerotoyl-CoA carboxylase"	"chlorophyllmax_130m_6244_0"	"chlorophyllmax_130m_3920_0"	"chlorophyllmax_130m_1618_0"	"chlorophyllmax_130m_2409_1"	"chlorophyllmax_130m_1020_0"
+RXN-15127	NIL
+RXN-15125	NIL
+RXN-15124	NIL
+RXN-15123	NIL
+RXN-15122	NIL	"chlorophyllmax_130m_5171_1"	"chlorophyllmax_130m_5905_0"	"chlorophyllmax_130m_3137_0"	"chlorophyllmax_130m_1830_0"
+RXN-15121	NIL
+RXN-11733	NIL
+GLUTAMINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_5077_0"
+PROPIONATE--COA-LIGASE-RXN	NIL	"chlorophyllmax_130m_16_0"
+PYRAMKIN-RXN	NIL
+R128-RXN	NIL
+IPPISOM-RXN	NIL	"chlorophyllmax_130m_727_1"
+DADPKIN-RXN	NIL	"chlorophyllmax_130m_919_0"
+RXN-8641	NIL
+RXN-8647	"(6E,8Z,11Z,14Z)-(5S)-5-hydroperoxyicosa-6,8,11,14-tetraenoate dehydratase"
+CATECHOL-12-DIOXYGENASE-RXN	NIL
+RXN-2425	NIL
+RXN-2424	NIL
+LEUKOTRIENE-A4-HYDROLASE-RXN	NIL
+PNPOXI-RXN	NIL	"chlorophyllmax_130m_4954_0"
+RXN1G-1637	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+RXN1G-1636	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+UROGENIIISYN-RXN	NIL
+RXN1G-1634	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+RXN1G-1633	"trehalose-mono-mycolate O-mycolyltransferase"
+RXN0-723	"CTP reductase"	"chlorophyllmax_130m_5006_1"
+URA-PHOSPH-RXN	NIL	"chlorophyllmax_130m_3496_0"
+RXN0-724	NIL	"chlorophyllmax_130m_5006_1"
+2.7.1.90-RXN	NIL	"chlorophyllmax_130m_79_0"
+KYNURENINE-3-MONOOXYGENASE-RXN	NIL	"chlorophyllmax_130m_5249_0"
+RXN-10061	"3-hydroxycerotyl-[acp] dehydrase"
+RXN-10060	NIL
+RXN-10063	"GTP cyclohydrolase IV"
+RXN-10062	"trans-hexacos-2-enoyl-[acp] reductase"
+RXN1G-218	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN1G-94	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] synthase"
+RXN1G-98	"cis-methoxy-meroacyl-AMP transferase"
+CYTDEAM-RXN	NIL	"chlorophyllmax_130m_5708_1"
+PRIBFAICARPISOM-RXN	NIL	"chlorophyllmax_130m_4157_1"
+THIKIN-RXN	NIL
+FORMYL-COA-HYDROLASE-RXN	NIL
+HEMN-RXN	NIL	"chlorophyllmax_130m_303_0"	"chlorophyllmax_130m_5986_0"	"chlorophyllmax_130m_5900_1"
+RXN-10462	"acyl-ACP:sn-glycerol-3-phosphate 1-O-acyltransferase"	"chlorophyllmax_130m_1383_0"	"chlorophyllmax_130m_1084_1"	"chlorophyllmax_130m_758_0"
+CPM-KDOSYNTH-RXN	NIL	"chlorophyllmax_130m_3533_0"
+RXN-12717	NIL
+ASPCARBTRANS-RXN	NIL	"chlorophyllmax_130m_3291_0"	"chlorophyllmax_130m_3527_1"	"chlorophyllmax_130m_1475_0"
+SUCCCOASYN-RXN	NIL	"chlorophyllmax_130m_5727_0"	"chlorophyllmax_130m_6119_0"	"chlorophyllmax_130m_5233_0"	"chlorophyllmax_130m_6215_1"	"chlorophyllmax_130m_6215_0"
+RXN-9662	"<i>trans</i> tetradec-2-enoyl-[acp] reductase"
+ARGSUCCINSYN-RXN	NIL
+RXN-9660	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]-reductase"
+RXN-9661	"<i>trans</i> dodec-2-enoyl-[acp] reductase"
+RXN-9666	NIL
+RXN-9467	NIL
+RXN-9469	NIL
+RXN1G-1015	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] synthase"
+RXN0-4022	NIL
+SARCOSINE-DEHYDROGENASE-RXN	NIL
+ADENYLOSUCCINATE-SYNTHASE-RXN	NIL	"chlorophyllmax_130m_3960_0"	"chlorophyllmax_130m_5874_1"	"chlorophyllmax_130m_2715_0"	"chlorophyllmax_130m_475_0"	"chlorophyllmax_130m_3620_0"
+RXN-13288	"15-tetracosanal carbonylase"
+RXN-13289	"(<i>Z</i>)-15-tetracosenoyl-CoA reductase"
+RXN-13040	NIL
+RXN-1023	NIL
+RXN1G-79	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] synthase"
+2.7.1.148-RXN	NIL
+RXN1G-72	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN-7699	NIL
+RXN-7929	NIL
+RXN-7694	"2-methylbutanol dehydrogenase"	"chlorophyllmax_130m_3330_0"	"chlorophyllmax_130m_5719_1"	"chlorophyllmax_130m_4768_0"
+XANTHINE-OXIDASE-RXN	NIL	"chlorophyllmax_130m_5923_0"
+DTDPDEHYDRHAMEPIM-RXN	NIL
+RXN-7922	NIL
+RXN-7693	"3-methylbutanol dehydrogenase"	"chlorophyllmax_130m_3330_0"	"chlorophyllmax_130m_5719_1"	"chlorophyllmax_130m_4768_0"
+RXN-7692	NIL
+RXN-13600	"taxiphyllin &beta;-glucosidase"	"chlorophyllmax_130m_1005_2"	"chlorophyllmax_130m_5331_0"	"chlorophyllmax_130m_903_0"
+RXN-13602	"linustatin &beta;-diglucosidase"	"chlorophyllmax_130m_1005_2"	"chlorophyllmax_130m_5331_0"	"chlorophyllmax_130m_903_0"
+RXN-13603	"neolinustatin &beta;-diglucosidase"	"chlorophyllmax_130m_1005_2"	"chlorophyllmax_130m_5331_0"	"chlorophyllmax_130m_903_0"
+BRANCHED-CHAINAMINOTRANSFERILEU-RXN	"Isoleucine transaminase"	"chlorophyllmax_130m_4637_0"	"chlorophyllmax_130m_4450_0"	"chlorophyllmax_130m_2366_0"
+GLUCOSE-1-DEHYDROGENASE-NADP+-RXN	NIL
+RXN-9514	"acetoacetyl-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_411_0"
+RXN-9515	"crotonyl-[acyl-carrier protein] reductase (NADP)"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_3630_0"
+RXN-9516	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+SUCCDIAMINOPIMDESUCC-RXN	NIL
+RXN1G-582	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] synthase"
+RXN1G-580	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] synthase"
+2.7.7.33-RXN	NIL	"chlorophyllmax_130m_1882_0"
+GLUCARDEHYDRA-RXN	NIL
+RXN1G-349	"3-oxo-arachidoyl-[acp] reductase"
+THRESYN-RXN	NIL	"chlorophyllmax_130m_4738_0"	"chlorophyllmax_130m_2581_0"
+ASPARTATE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_219_0"	"chlorophyllmax_130m_5596_0"
+RXN-12397	NIL
+RXN-12391	NIL
+RIB5PISOM-RXN	NIL
+GUANYL-KIN-RXN	NIL	"chlorophyllmax_130m_3954_0"
+RXN-12399	"xyloglucan XLXG oligosaccharide &beta;-galactosidase"	"chlorophyllmax_130m_948_0"
+RXN-12398	"xyloglucan XXLG oligosaccharide &beta;-galactosidase"	"chlorophyllmax_130m_948_0"
+UDPNACETYLMURAMATEDEHYDROG-RXN	NIL
+RXN0-6377	"nitrite reductase [NAD(P)H]"
+RXN1G-697	"<i>cis</i>-methoxy-meroacyl transferase"
+MACROCIN-O-METHYLTRANSFERASE-RXN	NIL	"chlorophyllmax_130m_5802_0"
+RXN1G-163	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+ADENYL-KIN-RXN	NIL
+AMPSYN-RXN	NIL	"chlorophyllmax_130m_3109_0"	"chlorophyllmax_130m_5848_1"
+ACONITATEDEHYDR-RXN	"citrate dehydratase"	"chlorophyllmax_130m_1915_0"	"chlorophyllmax_130m_1906_0"	"chlorophyllmax_130m_3987_0"	"chlorophyllmax_130m_5917_0"	"chlorophyllmax_130m_2342_0"	"chlorophyllmax_130m_2309_0"	"chlorophyllmax_130m_1962_0"	"chlorophyllmax_130m_5552_0"	"chlorophyllmax_130m_755_0"	"chlorophyllmax_130m_1602_1"	"chlorophyllmax_130m_2535_0"
+GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN	NIL
+6.3.4.16-RXN	NIL	"chlorophyllmax_130m_481_0"	"chlorophyllmax_130m_5834_1"
+RXN1G-760	"3-cis,cis-delta17,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+RXN-14950	"lipoyl synthase"	"chlorophyllmax_130m_1143_0"
+RXN-14955	"octanoyl-CoA protein transferase"
+RXN-14954	"octanoyl-ACP:CoA transferase"
+RXN-14957	"lipoyl synthase"	"chlorophyllmax_130m_1143_0"
+RXN-12747	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA 5-dehydrogenase"
+RXN-14959	"lipoyl synthase"	"chlorophyllmax_130m_1143_0"
+RXN-15131	NIL	"chlorophyllmax_130m_4009_0"
+1.3.1.25-RXN	NIL
+CTPSYN-RXN	NIL	"chlorophyllmax_130m_5951_0"	"chlorophyllmax_130m_6307_1"	"chlorophyllmax_130m_409_0"	"chlorophyllmax_130m_944_0"
+2-ISOPROPYLMALATESYN-RXN	NIL	"chlorophyllmax_130m_706_0"	"chlorophyllmax_130m_676_0"	"chlorophyllmax_130m_548_0"
+ISOCIT-CLEAV-RXN	NIL
+RXN-12736	"propanal dehydrogenase (acetylating)"
+RXN-12735	"4-hydroxy-2-oxohexanoate aldolase"
+RXN-12734	NIL
+RXN-12730	NIL
+ALCOHOL-DEHYDROG-RXN	"ethanol dehydrogenase"	"chlorophyllmax_130m_3330_0"	"chlorophyllmax_130m_5719_1"	"chlorophyllmax_130m_4768_0"
+RXN-8076	NIL
+RXN-8077	NIL
+RXN-14391	NIL
+RXN-14390	NIL
+RXN-8078	NIL	"chlorophyllmax_130m_5418_1"	"chlorophyllmax_130m_594_0"
+RXN-8079	NIL
+UDPREDUCT-RXN	NIL	"chlorophyllmax_130m_5237_0"	"chlorophyllmax_130m_37_0"	"chlorophyllmax_130m_2403_0"	"chlorophyllmax_130m_4055_0"	"chlorophyllmax_130m_1907_1"	"chlorophyllmax_130m_1907_0"	"chlorophyllmax_130m_1990_0"	"chlorophyllmax_130m_5006_1"
+NMNNUCLEOSID-RXN	NIL
+RXN-745	NIL
+RXN-8675	"precorrin-1 <em>C</em>-methyltransferase"	"chlorophyllmax_130m_4903_0"	"chlorophyllmax_130m_98_1"
+RXN-13677	NIL	"chlorophyllmax_130m_999_0"
+SHIKIMATE-5-DEHYDROGENASE-RXN	NIL	"chlorophyllmax_130m_951_0"	"chlorophyllmax_130m_3429_0"
+UDP-NACMURALA-GLU-LIG-RXN	NIL	"chlorophyllmax_130m_1770_0"
+RXN-8106	NIL
+ASPARTATEKIN-RXN	NIL	"chlorophyllmax_130m_815_0"
+HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN	NIL
+H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN	NIL
+RXN-10096	"4,6-dichloro-3-methylcatechol dioxygenase"
+RXN-10090	"2,4-dichlorotoluene dioxygenase"
+RXN-10093	"2,4-dichlorotoluene dihydrodiol dehydrogenase"
+RXN-10099	NIL	"chlorophyllmax_130m_865_1"
+RXN-10656	NIL
+RXN-10657	NIL
+RXN-10654	NIL	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-10655	NIL	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN-10658	NIL	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-10659	NIL	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+CYSPH-RXN	NIL
+RXN-9175	NIL
+RXN-14775	"acyl-CoA oxidase"
+RXN-14774	"3-ketoacyl-CoA thiolase"	"chlorophyllmax_130m_5007_0"	"chlorophyllmax_130m_5360_0"	"chlorophyllmax_130m_4406_1"	"chlorophyllmax_130m_3740_0"
+RXN-14777	"&Delta;3-&Delta;2-enoyl-CoA isomerase"
+RXN-14776	"2,4-dienoyl-CoA reductase"	"chlorophyllmax_130m_2985_0"
+RXN-14771	"acyl-CoA oxidase"
+RXN-2561	NIL
+RXN-14773	"3-hydroxyacyl-CoA dehydrogenase"
+RXN-14772	"enoyl-CoA hydratase"
+PHOSPHONOACETALDEHYDE-HYDROLASE-RXN	NIL
+RXN1G-89	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] synthase"
+GAPOXNPHOSPHN-RXN	NIL	"chlorophyllmax_130m_6022_0"	"chlorophyllmax_130m_828_1"
+R63-RXN	NIL
+ARYLFORMAMIDASE-RXN	NIL
+GLUTATHIONE-REDUCT-NADPH-RXN	NIL
+RXN-9157	NIL	"chlorophyllmax_130m_492_0"	"chlorophyllmax_130m_800_0"
+RXN1G-1152	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+RXN490-3616	"Aspartate--tRNA ligase"
+RXN1G-1150	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+RXN1G-1151	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+AICARSYN-RXN	NIL	"chlorophyllmax_130m_3109_0"	"chlorophyllmax_130m_5848_1"
+ACETALD-DEHYDROG-RXN	NIL	"chlorophyllmax_130m_388_1"	"chlorophyllmax_130m_3388_0"
+FUMHYDR-RXN	NIL	"chlorophyllmax_130m_4303_0"	"chlorophyllmax_130m_1602_0"	"chlorophyllmax_130m_1744_2"	"chlorophyllmax_130m_6185_0"	"chlorophyllmax_130m_2253_0"
+SERINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_453_0"	"chlorophyllmax_130m_5156_0"
+TYROSINE--TRNA-LIGASE-RXN	NIL
+ADENOSINE-NUCLEOSIDASE-RXN	NIL
+RXN-9674	NIL	"chlorophyllmax_130m_1005_2"	"chlorophyllmax_130m_5331_0"	"chlorophyllmax_130m_903_0"
+ADENPRIBOSYLTRAN-RXN	NIL	"chlorophyllmax_130m_6260_0"	"chlorophyllmax_130m_938_1"
+RXN-9673	NIL	"chlorophyllmax_130m_4411_0"	"chlorophyllmax_130m_1736_0"	"chlorophyllmax_130m_3080_0"	"chlorophyllmax_130m_4877_1"	"chlorophyllmax_130m_794_1"	"chlorophyllmax_130m_3830_1"	"chlorophyllmax_130m_3910_0"	"chlorophyllmax_130m_2074_0"
+RXN3O-75	NIL
+RXN-9471	NIL
+RXN-9470	NIL
+PHENYLALANINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_2442_1"	"chlorophyllmax_130m_1574_0"
+HOMSUCTRAN-RXN	NIL	"chlorophyllmax_130m_5440_0"
+3.1.2.21-RXN	NIL
+ISOLEUCINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_2235_0"	"chlorophyllmax_130m_5717_0"	"chlorophyllmax_130m_128_0"	"chlorophyllmax_130m_1097_0"
+HOMOCYSMET-RXN	NIL
+RXN1G-820	"trans-delta2-cis,cis-delta17,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN0-2145	NIL
+SUCROSE-PHOSPHATASE-RXN	NIL
+DALADALALIG-RXN	NIL	"chlorophyllmax_130m_2027_0"
+2-NITROPROPANE-DIOXYGENASE-RXN	NIL	"chlorophyllmax_130m_6111_1"	"chlorophyllmax_130m_639_2"	"chlorophyllmax_130m_639_0"	"chlorophyllmax_130m_5793_1"
+SUCCGLUALDDEHYD-RXN	NIL	"chlorophyllmax_130m_3388_0"
+1.17.1.1-RXN	NIL
+1.14.19.1-RXN	NIL	"chlorophyllmax_130m_5487_1"	"chlorophyllmax_130m_875_0"	"chlorophyllmax_130m_1147_0"
+RXN-7913	NIL
+2.4.1.83-RXN	NIL	"chlorophyllmax_130m_3892_0"
+GMP-SYN-GLUT-RXN	NIL	"chlorophyllmax_130m_618_0"	"chlorophyllmax_130m_3998_1"	"chlorophyllmax_130m_387_1"
+RXN1G-220	"cis,cis-delta17,35-3-hydroxyC54:2-[acyl-carrier protein] dehydratase"
+RXN0-1461	NIL
+RXNI-2	"acetoacetate CoA-transferase"
+RXNI-3	NIL
+2.1.1.131-RXN	NIL
+GLYCOGEN-BRANCH-RXN	NIL	"chlorophyllmax_130m_5722_1"
+RXN-13678	NIL
+RXN-13675	NIL
+RXN1G-912	"cis-delta17-3-hydroxyC36:1-[acyl-carrier protein] dehydratase"
+RXN1G-915	"trans-delta2-cis,cis-delta11,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-13673	NIL	"chlorophyllmax_130m_3759_1"	"chlorophyllmax_130m_4794_0"
+TSA-REDUCT-RXN	NIL	"chlorophyllmax_130m_1208_0"
+ERYTH4PDEHYDROG-RXN	NIL
+UROGENDECARBOX-RXN	NIL	"chlorophyllmax_130m_4604_0"
+DTDPGLUCDEHYDRAT-RXN	NIL
+RXN1G-355	"cis-delta21-3-hydroxyC40:1-[acyl-carrier protein] dehydratase"
+RXN1G-358	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+5.4.2.10-RXN	NIL
+S-FORMYLGLUTATHIONE-HYDROLASE-RXN	NIL
+LEUKOTRIENE-C4-SYNTHASE-RXN	NIL
+RXN-12384	NIL
+RXN-7719	"dihydrolipoyl dehydrogenase"	"chlorophyllmax_130m_4790_0"	"chlorophyllmax_130m_4015_0"	"chlorophyllmax_130m_5944_0"	"chlorophyllmax_130m_1973_0"
+NMNAMIDOHYDRO-RXN	NIL
+RXN-7716	"dihydrolipoyl dehydrogenase"	"chlorophyllmax_130m_4790_0"	"chlorophyllmax_130m_4015_0"	"chlorophyllmax_130m_5944_0"	"chlorophyllmax_130m_1973_0"
+AGMATIN-RXN	NIL	"chlorophyllmax_130m_6313_0"
+RXN1G-172	"cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] synthase"
+RXN1G-171	"trans-delta2-cis-delta5-C24:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+THREONINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_793_0"	"chlorophyllmax_130m_1742_0"	"chlorophyllmax_130m_5267_0"
+ACETYLGLUTKIN-RXN	NIL
+UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN	NIL	"chlorophyllmax_130m_6296_0"
+RXN-1884	"L-galactose dehydrogenase"
+RXN-1882	NIL	"chlorophyllmax_130m_739_0"
+RXN-10698	NIL	"chlorophyllmax_130m_4047_0"	"chlorophyllmax_130m_1722_0"	"chlorophyllmax_130m_4_0"
+3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	NIL	"chlorophyllmax_130m_1000_0"
+RXN-10699	NIL	"chlorophyllmax_130m_5007_0"	"chlorophyllmax_130m_5360_0"	"chlorophyllmax_130m_4406_1"	"chlorophyllmax_130m_3740_0"
+URIDINEKIN-RXN	NIL	"chlorophyllmax_130m_4023_0"
+RXN1G-576	"&alpha;-meroacyl transferase"
+RXN-12720	NIL	"chlorophyllmax_130m_652_0"	"chlorophyllmax_130m_2406_0"	"chlorophyllmax_130m_671_1"	"chlorophyllmax_130m_671_0"	"chlorophyllmax_130m_5384_0"	"chlorophyllmax_130m_5209_1"	"chlorophyllmax_130m_5209_0"	"chlorophyllmax_130m_5753_1"
+RXN-12721	NIL
+RXN-12726	NIL	"chlorophyllmax_130m_1776_0"	"chlorophyllmax_130m_469_0"
+RXN-12728	NIL
+RXN-12729	NIL	"chlorophyllmax_130m_4009_0"
+RXN-8486	NIL
+SERINE-O-ACETTRAN-RXN	NIL	"chlorophyllmax_130m_1775_0"
+RXN-14388	NIL
+RXN-14389	NIL
+RXN-14384	NIL	"chlorophyllmax_130m_4334_0"	"chlorophyllmax_130m_5838_0"	"chlorophyllmax_130m_5908_0"	"chlorophyllmax_130m_3825_1"
+RXN-14385	NIL	"chlorophyllmax_130m_4334_0"	"chlorophyllmax_130m_5838_0"	"chlorophyllmax_130m_5908_0"	"chlorophyllmax_130m_3825_1"
+VALINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_1037_2"	"chlorophyllmax_130m_3980_1"
+RXN-14387	NIL
+RXN-14380	NIL	"chlorophyllmax_130m_1612_0"
+RXN-14381	NIL
+RXN-14382	NIL	"chlorophyllmax_130m_4334_0"	"chlorophyllmax_130m_5838_0"	"chlorophyllmax_130m_5908_0"	"chlorophyllmax_130m_3825_1"
+RXN-10717	"indole acetaldehyde reductase"
+RXN-10715	"indole acetaldehyde dehydrogenase"	"chlorophyllmax_130m_5450_1"	"chlorophyllmax_130m_1957_0"	"chlorophyllmax_130m_5526_0"
+12-OXOPHYTODIENOATE-REDUCTASE-RXN	NIL
+PYRUVDEH-RXN	NIL
+RXN-8665	NIL
+KETOLACTOSE-RXN	"3-ketolactose hydrolase"	"chlorophyllmax_130m_948_0"
+RXN-14160	"glycerophosphorylethanolamine phosphodiesterase"	"chlorophyllmax_130m_5020_0"
+RXN-5341	NIL	"chlorophyllmax_130m_1005_2"	"chlorophyllmax_130m_5331_0"	"chlorophyllmax_130m_903_0"
+MMUM-RXN	NIL
+RXN1F-19	NIL
+RXN1G-686	"trans-delta2-cis,cis-delta9,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-1403	NIL
+RXN-1401	"tryptamine oxidase"
+RXN-1406	NIL
+RXN-1404	NIL	"chlorophyllmax_130m_1568_1"	"chlorophyllmax_130m_5081_0"
+RXN-1405	NIL
+RXN-10661	NIL
+RXN-10660	NIL
+RXN-11246	NIL	"chlorophyllmax_130m_5007_0"	"chlorophyllmax_130m_5360_0"	"chlorophyllmax_130m_4406_1"	"chlorophyllmax_130m_3740_0"
+RXN-11244	NIL	"chlorophyllmax_130m_5728_1"	"chlorophyllmax_130m_5955_0"	"chlorophyllmax_130m_1826_0"	"chlorophyllmax_130m_1693_1"	"chlorophyllmax_130m_5681_1"	"chlorophyllmax_130m_836_0"	"chlorophyllmax_130m_5304_0"	"chlorophyllmax_130m_340_0"	"chlorophyllmax_130m_1762_0"	"chlorophyllmax_130m_3939_1"	"chlorophyllmax_130m_3623_0"	"chlorophyllmax_130m_4139_0"	"chlorophyllmax_130m_4740_0"	"chlorophyllmax_130m_5356_0"
+RXN-11245	NIL	"chlorophyllmax_130m_4047_0"	"chlorophyllmax_130m_1722_0"	"chlorophyllmax_130m_4_0"
+RXN0-901	NIL	"chlorophyllmax_130m_6166_0"	"chlorophyllmax_130m_988_0"
+GLUTRACE-RXN	NIL
+RXN1G-1149	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+GLYCEROL-KIN-RXN	NIL	"chlorophyllmax_130m_2560_0"	"chlorophyllmax_130m_2046_0"	"chlorophyllmax_130m_5667_0"
+3-OXOACYL-ACP-SYNTH-BASE-RXN	"acetoacetyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+UGD-RXN	NIL	"chlorophyllmax_130m_3370_0"	"chlorophyllmax_130m_4937_1"	"chlorophyllmax_130m_3546_1"
+PGLYCDEHYDROG-RXN	NIL	"chlorophyllmax_130m_2916_0"	"chlorophyllmax_130m_5239_0"	"chlorophyllmax_130m_1769_0"	"chlorophyllmax_130m_970_0"
+RXN0-4222	NIL	"chlorophyllmax_130m_2161_0"	"chlorophyllmax_130m_1788_0"
+KETOACYLCOATHIOL-RXN	NIL	"chlorophyllmax_130m_5007_0"	"chlorophyllmax_130m_5360_0"	"chlorophyllmax_130m_4406_1"	"chlorophyllmax_130m_3740_0"
+DUTP-PYROP-RXN	NIL	"chlorophyllmax_130m_4394_0"
+PALMITOYL-COA-HYDROLASE-RXN	NIL
+RXN1G-1212	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] synthase"
+SUCCORNTRANSAM-RXN	NIL
+GALACTARDEHYDRA-RXN	NIL
+RXN-13110	"theophylline <i>N</i>1-demethylase"
+THYKI-RXN	NIL	"chlorophyllmax_130m_743_0"
+L-ASPARTATE-OXID-RXN	NIL	"chlorophyllmax_130m_4726_0"
+RXN3DJ-35528	"Serotonin acetyltransferase"
+PHOSPHO-DETHIO-RXN	NIL
+RXN-9990	NIL	"chlorophyllmax_130m_849_0"
+INOSINE-NUCLEOSIDASE-RXN	NIL
+UDP-NACMURALGLDAPLIG-RXN	NIL
+HISTPRATPHYD-RXN	NIL	"chlorophyllmax_130m_797_1"	"chlorophyllmax_130m_797_0"
+RXN1G-53	"trans-delta2-cis-delta21-C40:2-[acyl-carrier protein] reductase"
+RXN-7904	NIL	"chlorophyllmax_130m_4411_0"	"chlorophyllmax_130m_1736_0"	"chlorophyllmax_130m_3080_0"	"chlorophyllmax_130m_4877_1"	"chlorophyllmax_130m_794_1"	"chlorophyllmax_130m_3830_1"	"chlorophyllmax_130m_3910_0"	"chlorophyllmax_130m_2074_0"
+RXN1G-210	"trans-delta2-cis-delta11-C30:2[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-214	"cis,cis-delta5,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN66-336	"leukotriene-C4 gamma-glutamyl transferase"	"chlorophyllmax_130m_492_0"	"chlorophyllmax_130m_800_0"
+RXN66-337	"LTD4 dipeptidase"	"chlorophyllmax_130m_229_1"
+RXN-7909	NIL
+RXN-7908	NIL	"chlorophyllmax_130m_4656_0"
+ALLENE-OXIDE-CYCLASE-RXN	NIL
+TETRAACYLDISACC4KIN-RXN	NIL
+TIGLYLCOA-HYDROXY-RXN	"Tiglyl-CoA hydratase"	"chlorophyllmax_130m_5728_1"	"chlorophyllmax_130m_5955_0"	"chlorophyllmax_130m_1826_0"	"chlorophyllmax_130m_1693_1"	"chlorophyllmax_130m_5681_1"	"chlorophyllmax_130m_836_0"	"chlorophyllmax_130m_5304_0"	"chlorophyllmax_130m_340_0"	"chlorophyllmax_130m_1762_0"	"chlorophyllmax_130m_3939_1"	"chlorophyllmax_130m_3623_0"	"chlorophyllmax_130m_4139_0"	"chlorophyllmax_130m_4740_0"	"chlorophyllmax_130m_5356_0"
+2.6.1.37-RXN	NIL	"chlorophyllmax_130m_4730_1"
+RXN1G-962	"trans-delta2-cis-delta17-C36:2-[acyl-carrier protein] reductase"
+MERCURY-II-REDUCTASE-RXN	NIL	"chlorophyllmax_130m_4365_0"
+RXN-9538	"<i>trans</i> tetradec-2-enoyl-[acyl-carrier-protein] reductase (NADPH, B-specific)"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_3630_0"
+RXN-9539	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-9536	"3-oxo-meristoyl-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_411_0"
+RXN-9537	"3-hydroxymyristoyl-[acyl-carrier protein] dehydratase"	"chlorophyllmax_130m_126_0"
+RXN-9534	"<i>trans</i> dodec-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_3630_0"
+4-COUMARATE--COA-LIGASE-RXN	NIL
+NAD-SYNTH-GLN-RXN	NIL	"chlorophyllmax_130m_5092_0"	"chlorophyllmax_130m_5940_0"
+RXN-9533	"3-hydroxydodecanoyl-[acyl-carrier protein] dehydratase"	"chlorophyllmax_130m_126_0"
+RXN-9530	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]reductase (NADPH, B-specific)"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_3630_0"
+RXN-9531	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+PHOSACETYLGLUCOSAMINEMUT-RXN	NIL
+ASPARAGINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_3668_1"
+TRANSALDOL-RXN	NIL	"chlorophyllmax_130m_2485_0"
+RXN1G-364	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN1G-363	"3-hydroxybehenoyl-[acyl-carrier protein] dehydratase"
+TRIACYLGLYCEROL-LIPASE-RXN	NIL	"chlorophyllmax_130m_5850_1"
+GLYCINE-FORMIMINOTRANSFERASE-RXN	NIL
+RXN1G-368	"3-oxo-arachidoyl-[acp] synthase"
+RXN1G-2544	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+6-CARBOXYHEXANOATE--COA-LIGASE-RXN	NIL
+RXN-13718	"(+)-taxifolin 5'-hydroxylase"
+3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN	"3-hydroxyisobutyryl-CoA hydrolase"
+RXN-7708	"methionine--phenylpyruvate transaminase"
+RXN-7703	NIL
+RXN-7706	"methionol dehydrogenase"	"chlorophyllmax_130m_3330_0"	"chlorophyllmax_130m_5719_1"	"chlorophyllmax_130m_4768_0"
+ACETYL-COA-ACETYLTRANSFER-RXN	NIL	"chlorophyllmax_130m_6301_0"	"chlorophyllmax_130m_3314_0"	"chlorophyllmax_130m_6101_0"	"chlorophyllmax_130m_5241_0"
+RXN-7704	NIL
+UDPGLUCEPIM-RXN	NIL	"chlorophyllmax_130m_5879_0"	"chlorophyllmax_130m_1594_1"	"chlorophyllmax_130m_4918_0"	"chlorophyllmax_130m_140_0"	"chlorophyllmax_130m_3802_0"
+CARBPSYN-RXN	NIL	"chlorophyllmax_130m_3860_0"	"chlorophyllmax_130m_1791_0"	"chlorophyllmax_130m_481_1"	"chlorophyllmax_130m_5834_0"	"chlorophyllmax_130m_3774_1"	"chlorophyllmax_130m_6303_0"	"chlorophyllmax_130m_5616_0"
+RXN1G-3232	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+RXN-12533	NIL
+RXN-12532	NIL
+RXN-12534	NIL
+ENOYL-COA-HYDRAT-RXN	NIL	"chlorophyllmax_130m_5728_1"	"chlorophyllmax_130m_5955_0"	"chlorophyllmax_130m_1826_0"	"chlorophyllmax_130m_1693_1"	"chlorophyllmax_130m_5681_1"	"chlorophyllmax_130m_836_0"	"chlorophyllmax_130m_5304_0"	"chlorophyllmax_130m_340_0"	"chlorophyllmax_130m_1762_0"	"chlorophyllmax_130m_3939_1"	"chlorophyllmax_130m_3623_0"	"chlorophyllmax_130m_4139_0"	"chlorophyllmax_130m_4740_0"	"chlorophyllmax_130m_5356_0"
+RXN0-5199	"guanosine phosphorylase"
+RXN-12280	NIL	"chlorophyllmax_130m_1612_0"
+1TRANSKETO-RXN	NIL	"chlorophyllmax_130m_3143_0"	"chlorophyllmax_130m_4314_0"	"chlorophyllmax_130m_3629_0"
+RXN-7836	NIL	"chlorophyllmax_130m_5376_0"
+HYDROXYMETHYLGLUTARYL-COA-REDUCTASE-RXN	NIL	"chlorophyllmax_130m_4380_0"
+RXN-14973	NIL
+RXN-14972	NIL
+RXN-14971	NIL	"chlorophyllmax_130m_5467_0"	"chlorophyllmax_130m_71_0"	"chlorophyllmax_130m_2612_1"
+RXN-14970	NIL
+GLUTAMATESYN-RXN	NIL	"chlorophyllmax_130m_3790_0"	"chlorophyllmax_130m_2290_0"	"chlorophyllmax_130m_2063_0"	"chlorophyllmax_130m_5220_0"	"chlorophyllmax_130m_3131_1"	"chlorophyllmax_130m_29_0"
+RXN-12755	"arachidonate &Delta;<sup>17</sup> desaturase"
+RXN0-4141	NIL
+RXN-12751	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-oxopropanoyl-CoA hydrolase"
+RXN-12750	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-hydroxypropanoate dehydrogenase"	"chlorophyllmax_130m_4047_0"	"chlorophyllmax_130m_1722_0"	"chlorophyllmax_130m_4_0"
+METHYLCROTONYL-COA-CARBOXYLASE-RXN	NIL	"chlorophyllmax_130m_4050_0"	"chlorophyllmax_130m_5517_0"	"chlorophyllmax_130m_1020_1"	"chlorophyllmax_130m_5788_1"
+PHOSPHOLIPASE-A1-RXN	NIL
+RXN-14371	NIL	"chlorophyllmax_130m_5722_1"
+RXN-2961	NIL
+RXN-14373	NIL
+RXN-14372	NIL	"chlorophyllmax_130m_5722_1"
+RXN-14374	NIL
+RXN-14378	NIL
+DUDPKIN-RXN	NIL	"chlorophyllmax_130m_919_0"
+GALACTONOLACTONE-DEHYDROGENASE-RXN	"<small>L</small>-galactonolactone dehydrogenase"
+RXN-10704	NIL	"chlorophyllmax_130m_5728_1"	"chlorophyllmax_130m_5955_0"	"chlorophyllmax_130m_1826_0"	"chlorophyllmax_130m_1693_1"	"chlorophyllmax_130m_5681_1"	"chlorophyllmax_130m_836_0"	"chlorophyllmax_130m_5304_0"	"chlorophyllmax_130m_340_0"	"chlorophyllmax_130m_1762_0"	"chlorophyllmax_130m_3939_1"	"chlorophyllmax_130m_3623_0"	"chlorophyllmax_130m_4139_0"	"chlorophyllmax_130m_4740_0"	"chlorophyllmax_130m_5356_0"
+RXN-10705	NIL	"chlorophyllmax_130m_5728_1"	"chlorophyllmax_130m_5955_0"	"chlorophyllmax_130m_1826_0"	"chlorophyllmax_130m_1693_1"	"chlorophyllmax_130m_5681_1"	"chlorophyllmax_130m_836_0"	"chlorophyllmax_130m_5304_0"	"chlorophyllmax_130m_340_0"	"chlorophyllmax_130m_1762_0"	"chlorophyllmax_130m_3939_1"	"chlorophyllmax_130m_3623_0"	"chlorophyllmax_130m_4139_0"	"chlorophyllmax_130m_4740_0"	"chlorophyllmax_130m_5356_0"
+RXN-10706	NIL
+RXN-10707	NIL
+RXN-10700	NIL	"chlorophyllmax_130m_5007_0"	"chlorophyllmax_130m_5360_0"	"chlorophyllmax_130m_4406_1"	"chlorophyllmax_130m_3740_0"
+RXN-10701	NIL	"chlorophyllmax_130m_5007_0"	"chlorophyllmax_130m_5360_0"	"chlorophyllmax_130m_4406_1"	"chlorophyllmax_130m_3740_0"
+RXN-10702	NIL	"chlorophyllmax_130m_4047_0"	"chlorophyllmax_130m_1722_0"	"chlorophyllmax_130m_4_0"
+RXN-10703	NIL	"chlorophyllmax_130m_4047_0"	"chlorophyllmax_130m_1722_0"	"chlorophyllmax_130m_4_0"
+RXN-761	NIL
+RXN-10708	NIL	"chlorophyllmax_130m_961_0"
+DIHYDRODIPICSYN-RXN	"4-hydroxy-tetrahydrodipicolinate synthase"	"chlorophyllmax_130m_2222_0"
+RXN-11099	"<i>N</i>1-amidinostreptamine 6-phosphate aminotransferase"
+RXN-11098	"ATP:1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol 6-phosphotransferase"
+RXN-11097	"1-guanidino-1-deoxy-scyllo-inositol dehydrogenase"
+RXN-11475	NIL
+RXN-11474	"3-oxo-glutaryl-[acp] methyl ester synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-11477	NIL
+RXN-11476	"3-oxo-glutaryl-[acp] methyl ester reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+R13-RXN	NIL
+RXN-11479	NIL	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-11478	NIL
+2.7.7.60-RXN	NIL	"chlorophyllmax_130m_3315_0"	"chlorophyllmax_130m_3265_1"
+3.5.4.30-RXN	NIL
+STREPTOMYCIN-6-KINASE-RXN	NIL
+DIHYDROXYMETVALDEHYDRAT-RXN	"2,3-Dihydroxy-3-methylvalerate dehydratase"	"chlorophyllmax_130m_5832_0"	"chlorophyllmax_130m_1082_0"	"chlorophyllmax_130m_2520_0"	"chlorophyllmax_130m_1888_0"	"chlorophyllmax_130m_5631_0"	"chlorophyllmax_130m_5621_1"
+RXN-14577	NIL
+RXN-14576	"acyl-CoA oxidase"
+RXN-14575	NIL
+RXN-10055	NIL
+RXN-10056	NIL
+RXN-10057	NIL
+RXN-11501	NIL
+RXN-2543	NIL
+RXN-2541	NIL
+RXN-14025	NIL
+RXN-14026	NIL
+RXN-5467	NIL
+NITROGENASE-RXN	NIL	"chlorophyllmax_130m_5724_0"
+SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	NIL	"chlorophyllmax_130m_271_0"
+RXN3O-1803	NIL	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+DETHIOBIOTIN-SYN-RXN	NIL	"chlorophyllmax_130m_4441_1"
+RXN1G-240	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+ALTRODEHYDRAT-RXN	NIL	"chlorophyllmax_130m_5854_2"	"chlorophyllmax_130m_5854_0"
+GUANIDINOBUTYRASE-RXN	NIL
+7KAPSYN-RXN	NIL	"chlorophyllmax_130m_259_0"	"chlorophyllmax_130m_4441_0"
+RXN-14386	NIL	"chlorophyllmax_130m_4334_0"	"chlorophyllmax_130m_5838_0"	"chlorophyllmax_130m_5908_0"	"chlorophyllmax_130m_3825_1"
+RXN-9189	NIL
+GLUTAMATE-N-ACETYLTRANSFERASE-RXN	NIL	"chlorophyllmax_130m_5564_0"
+RXN66-526	NIL
+BRANCHED-CHAINAMINOTRANSFERLEU-RXN	NIL	"chlorophyllmax_130m_4637_0"	"chlorophyllmax_130m_4450_0"	"chlorophyllmax_130m_2366_0"
+RXN-8746	NIL	"chlorophyllmax_130m_5749_1"	"chlorophyllmax_130m_4518_0"
+ASPARAGHYD-RXN	NIL	"chlorophyllmax_130m_5320_0"	"chlorophyllmax_130m_2439_1"	"chlorophyllmax_130m_6204_1"
+2.3.1.75-RXN	NIL	"chlorophyllmax_130m_1814_0"
+RXN-9987	"UDP-N-acetylglucosamine 2-epimerase (hydrolysing)"
+GCVP-RXN	NIL	"chlorophyllmax_130m_238_0"	"chlorophyllmax_130m_1405_0"	"chlorophyllmax_130m_1772_0"	"chlorophyllmax_130m_5466_0"	"chlorophyllmax_130m_4770_0"	"chlorophyllmax_130m_4665_0"	"chlorophyllmax_130m_864_0"
+RXN1G-45	"cis,cis-&Delta;19,31-C50:2-[acp] reductase"
+NAG6PDEACET-RXN	NIL
+SUCCARGDIHYDRO-RXN	NIL
+RXN0-5408	"Myo-inositol-1(or 4)-monophosphatase"
+GKI-RXN	NIL
+RXN-10	NIL
+RXN-6268	NIL
+BUTYRYL-COA-DEHYDROGENASE-RXN	"butanoyl-CoA dehydrogenase"	"chlorophyllmax_130m_5842_0"
+RXN-7643	NIL
+RXN1G-202	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] synthase"
+RXN1G-203	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+1.7.7.2-RXN	NIL	"chlorophyllmax_130m_749_0"
+RXN1G-184	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN-7242	NIL
+RXN-7243	NIL
+1.1.1.34-RXN	NIL	"chlorophyllmax_130m_4876_1"
+RXN-7246	NIL
+RXN-7247	NIL
+RXN-7244	NIL
+RXN-7245	NIL
+RXN-7248	NIL
+RXN-7249	NIL
+RXN-9521	"<i>trans</i> hex-2-enoyl-[acp] reductase (NADPH, B-specific)"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_3630_0"
+RXN-9520	"3-hydroxyhexanoyl-[acyl-carrier protein] dehydratase"	"chlorophyllmax_130m_126_0"
+RXN-9523	"3-oxo-octanoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-9524	"3-oxo-octanoyl-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_411_0"
+BETAGALACTOSID-RXN	"&beta;-galactosidase"	"chlorophyllmax_130m_948_0"
+S-ADENMETSYN-RXN	NIL	"chlorophyllmax_130m_881_0"
+RXN-9528	"3-oxo-decanoyl-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_411_0"
+NADPYROPHOSPHAT-RXN	NIL
+RXN1G-374	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] synthase"
+RXN1G-377	"cis-delta15-3-hydroxyC34:1-[acyl-carrier protein] dehydratase"
+RXN1G-188	"cis-delta11-3-hydroxyC30:1-[acyl-carrier protein] dehydratase"
+UDP-NACMURALGLDAPAALIG-RXN	"UDP-<I>N</I>-acetylmuramoyl-L-alanyl-D-glutamyl-<I>meso</I>-2,6-diaminopimelate ligase"
+TETHYDPICSUCC-RXN	NIL	"chlorophyllmax_130m_6169_0"
+ACETYLSEROTONIN-O-METHYLTRANSFERASE-RXN	NIL
+GUANIDINOBUTANAMIDE-NH3-RXN	NIL	"chlorophyllmax_130m_5275_0"	"chlorophyllmax_130m_5157_0"	"chlorophyllmax_130m_5111_0"	"chlorophyllmax_130m_698_0"	"chlorophyllmax_130m_5301_0"	"chlorophyllmax_130m_545_1"	"chlorophyllmax_130m_5350_0"
+RXN-13909	NIL
+RXN-13908	NIL	"chlorophyllmax_130m_4656_0"
+3-DEHYDROQUINATE-DEHYDRATASE-RXN	NIL	"chlorophyllmax_130m_809_0"	"chlorophyllmax_130m_2259_1"
+RXN-7737	NIL	"chlorophyllmax_130m_3044_0"	"chlorophyllmax_130m_3522_0"	"chlorophyllmax_130m_105_1"
+MALIC-NADP-RXN	NIL	"chlorophyllmax_130m_3316_0"	"chlorophyllmax_130m_4145_0"	"chlorophyllmax_130m_1558_0"	"chlorophyllmax_130m_5612_0"	"chlorophyllmax_130m_663_0"
+1.5.1.20-RXN	NIL	"chlorophyllmax_130m_4552_0"
+RXN1G-4140	"cis-methoxy-C59-meroacyl-[acp] synthetase"
+RXN1G-4141	"trans-methoxy-C60-meroacyl-[acp] synthetase"
+HISTOLDEHYD-RXN	"Histidinol dehydrogenase"	"chlorophyllmax_130m_4198_0"
+RXN0-5182	"maltodextrin phosphorylase"	"chlorophyllmax_130m_1765_0"
+RXN0-5183	NIL
+RXN-12520	NIL
+RXN-12521	NIL	"chlorophyllmax_130m_2985_0"
+RXN-13834	"pimeloyl-[acyl-carrier protein] synthase"
+ALDOSE-1-EPIMERASE-RXN	NIL
+RXN-600	NIL	"chlorophyllmax_130m_4144_1"
+2.3.1.168-RXN	NIL
+RXN-14966	"octanoyl transferase"	"chlorophyllmax_130m_2525_0"
+RXN1G-554	"3-cis,cis-delta15,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN1G-557	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] synthase"
+ASPAMINOTRANS-RXN	NIL	"chlorophyllmax_130m_3024_0"	"chlorophyllmax_130m_3931_2"	"chlorophyllmax_130m_3936_0"	"chlorophyllmax_130m_5829_0"	"chlorophyllmax_130m_5352_0"
+RXN-12746	"3-[(3a<i>S</i>,4<i>S</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA ligase"
+RXN-12575	"all-trans retinyl-ester hydrolase"
+BIOTIN-CARBOXYL-RXN	NIL	"chlorophyllmax_130m_6082_1"
+RXN-12748	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA dehydrogenase"
+RXN-12749	"(2<i>E</i>)-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]prop-2-enoate hydratase"
+GLUCONOLACT-RXN	NIL
+PANTOATE-BETA-ALANINE-LIG-RXN	NIL
+RXN-12203	NIL
+ARYLDIALKYL-PHOSPHATASE-RXN	"Parathion hydrolase"	"chlorophyllmax_130m_5749_1"	"chlorophyllmax_130m_4518_0"
+F16ALDOLASE-RXN	NIL	"chlorophyllmax_130m_5818_0"	"chlorophyllmax_130m_4027_1"
+DXS-RXN	NIL	"chlorophyllmax_130m_3865_1"	"chlorophyllmax_130m_3922_0"
+GLUC1PADENYLTRANS-RXN	NIL
+RXN-10841	NIL
+CARBON-MONOXIDE-DEHYDROGENASE-RXN	NIL	"chlorophyllmax_130m_5363_1"	"chlorophyllmax_130m_3525_0"	"chlorophyllmax_130m_646_0"	"chlorophyllmax_130m_4884_0"
+GART-RXN	NIL	"chlorophyllmax_130m_5911_1"	"chlorophyllmax_130m_1714_0"
+THIOREDOXIN-RXN	NIL
+1.5.99.9-RXN	NIL
+RXN-14296	"2-hexaprenyl-6-methoxyaminophenol methyltransferase"
+RXN-14297	"2-hexaprenyl-6-aminophenol deaminase"
+RXN-14294	"3-hexaprenyl-4-amino-5-methoxybenzoate decarboxylase"
+RXN-14295	"2-hexaprenyl-6-nethoxyaminobenzene hydroxylase"
+RXN-14292	"3-h3exaprenyl-4-aminobenzoate hydroxylase"
+RXN-14293	"3-hexaprenyl-4-aminobenzoate methyltransferase"
+RXN-14291	"p-aminobenzoate:hexaprenyldiphosphate heaxaprenyltransferase"
+DIHYDROFOLATEREDUCT-RXN	NIL	"chlorophyllmax_130m_2806_0"
+RXN-14298	"2-hexaprenyl-3-methyl-6-methoxyaminophenol deaminase"
+MALEYLACETOACETATE-ISOMERASE-RXN	NIL	"chlorophyllmax_130m_427_0"
+ERYTHRON4PDEHYDROG-RXN	NIL
+THIOREDOXIN-REDUCT-NADPH-RXN	NIL	"chlorophyllmax_130m_2464_0"	"chlorophyllmax_130m_4963_0"	"chlorophyllmax_130m_4628_0"	"chlorophyllmax_130m_4728_0"	"chlorophyllmax_130m_5089_0"
+AICARTRANSFORM-RXN	NIL	"chlorophyllmax_130m_3471_0"	"chlorophyllmax_130m_1080_0"
+METHYLISOCITRATE-LYASE-RXN	NIL
+ACONITATEHYDR-RXN	"cis-aconitate hydratase"	"chlorophyllmax_130m_1915_0"	"chlorophyllmax_130m_1906_0"	"chlorophyllmax_130m_3987_0"	"chlorophyllmax_130m_5917_0"	"chlorophyllmax_130m_2342_0"	"chlorophyllmax_130m_2309_0"	"chlorophyllmax_130m_1962_0"	"chlorophyllmax_130m_5552_0"	"chlorophyllmax_130m_755_0"	"chlorophyllmax_130m_1602_1"	"chlorophyllmax_130m_2535_0"
+ACYLCOASYN-RXN	"2,3,4-saturated fatty acyl-CoA synthetase"	"chlorophyllmax_130m_4411_0"	"chlorophyllmax_130m_1736_0"	"chlorophyllmax_130m_3080_0"	"chlorophyllmax_130m_4877_1"	"chlorophyllmax_130m_794_1"	"chlorophyllmax_130m_3830_1"	"chlorophyllmax_130m_3910_0"	"chlorophyllmax_130m_2074_0"
+O-SUCCINYLBENZOATE-COA-SYN-RXN	NIL
+UROPORIIIMETHYLTRANSA-RXN	"uroporphyrinogen-III <em>C</em>-methyltransferase"	"chlorophyllmax_130m_4903_0"	"chlorophyllmax_130m_98_1"
+ISPH2-RXN	NIL	"chlorophyllmax_130m_1686_1"	"chlorophyllmax_130m_4971_0"
+DCTP-DEAM-RXN	NIL
+DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN	NIL
+ORNITHINE-GLU-AMINOTRANSFORASE-RXN	"Ornithine--oxo-glutarate aminotransferase"
+MYO-INOSITOL-2-DEHYDROGENASE-RXN	"<i>myo</i>-inositol dehydrogenase"
+OXALYL-COA-DECARBOXYLASE-RXN	NIL
+PANTEPADENYLYLTRAN-RXN	NIL
+RXN-1602	NIL
+RXN-1603	NIL
+P-PANTOCYSDECARB-RXN	NIL	"chlorophyllmax_130m_1123_0"	"chlorophyllmax_130m_252_0"
+3.5.2.14-RXN	NIL	"chlorophyllmax_130m_4395_0"
+RXN-13001	NIL
+RXN1G-1439	"6-O-trans-keto-mycolyl-trehalose-6-phosphatase"	"chlorophyllmax_130m_1960_0"
+RXN1G-1438	"6-O-cis-keto-mycolyl-trehalose-6-phosphatase"	"chlorophyllmax_130m_1960_0"
+RXN1G-37	"trans-delta2-cis-delta7-C26:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-30	"trans-docos-2-enoyl-[acyl-carrier protein] reductase"
+RXN1G-32	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] synthase"
+RXN-9086	NIL
+RXN-9087	NIL
+RXN1G-1435	"6-O-mycolyl-trehalose-6-phosphatase"	"chlorophyllmax_130m_1960_0"
+RXN1G-1437	"6-O-trans-methoxy-mycolyl-trehalose-6-phosphatase"	"chlorophyllmax_130m_1960_0"
+RXN1G-1436	"6-O-cis-methoxy-mycolyl-trehalose-6-phosphatase"	"chlorophyllmax_130m_1960_0"
+RXN1G-891	"3-oxo-C87-trans-mycolate synthase"
+RXN1G-890	"3-oxo-C86-cis-keto-mycolate synthase"
+ALANINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_2461_1"
+RXN-9952	NIL	"chlorophyllmax_130m_1809_0"
+HISTALDEHYD-RXN	"Histidinal dehydrogenase"	"chlorophyllmax_130m_4198_0"
+3-ISOPROPYLMALDEHYDROG-RXN	"3-isopropylmalate dehydrogenase"
+PRTRANS-RXN	NIL	"chlorophyllmax_130m_2190_0"	"chlorophyllmax_130m_42_0"
+RXN-13646	"linustatin &beta;-diglucosidase"
+UTPHEXPURIDYLYLTRANS-RXN	NIL
+RXN-7251	NIL
+RXN-7250	NIL
+RXN-7253	NIL
+RXN-6383	NIL
+RXN-9554	"Petrosel-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN4FS-12	NIL
+RXN-9550	NIL
+RXN-9551	NIL
+RXN-9552	"3-oxo-petroslinoyl-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN-9553	"3-hydroxypetroselinoyl-[acyl-carrier protein] dehydratase"
+RXN0-5227	NIL	"chlorophyllmax_130m_3661_0"
+RXN0-5226	NIL
+RXN0-5225	NIL
+RXN1G-309	"cis,cis-delta9,21-3-hydroxyC40:2-[acyl-carrier protein] dehydratase"
+RXN1G-308	"cis,cis-delta7,19-3-hydroxyC38:2-[acyl-carrier protein] dehydratase"
+RXN1G-306	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-12197	NIL
+RXN-12196	NIL	"chlorophyllmax_130m_5558_0"
+RXN-12195	NIL	"chlorophyllmax_130m_5558_0"
+GCVT-RXN	NIL	"chlorophyllmax_130m_5548_0"
+RXN-12357	NIL
+RXN-12356	"7,8-dihydro-D-neopterin 2',3'-cyclic phosphate phosphodiesterase"
+RXN-12358	NIL
+RXN-7657	"isobutanol dehydrogenase"	"chlorophyllmax_130m_3330_0"	"chlorophyllmax_130m_5719_1"	"chlorophyllmax_130m_4768_0"
+RXN-36	NIL
+RXN-37	NIL	"chlorophyllmax_130m_5450_1"	"chlorophyllmax_130m_1957_0"	"chlorophyllmax_130m_5526_0"	"chlorophyllmax_130m_3388_0"
+RXN-12998	NIL
+RXN-12997	NIL
+RXN-12994	NIL	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN-8850	NIL	"chlorophyllmax_130m_19_1"
+RXN-8854	NIL
+PHOSPHOLIPASE-C-RXN	NIL	"chlorophyllmax_130m_2431_0"
+RXN-13824	NIL
+2.6.1.50-RXN	NIL	"chlorophyllmax_130m_2189_0"
+RXN-13826	NIL
+OHMETHYLBILANESYN-RXN	NIL	"chlorophyllmax_130m_539_0"	"chlorophyllmax_130m_1575_0"
+RXN-12519	NIL	"chlorophyllmax_130m_5376_0"
+RXN-12518	NIL
+2.1.1.151-RXN	NIL
+PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN	NIL
+LINOLENOYL-RXN	"&alpha;-linolenate&mdash;CoA ligase"	"chlorophyllmax_130m_4411_0"	"chlorophyllmax_130m_1736_0"	"chlorophyllmax_130m_3080_0"	"chlorophyllmax_130m_4877_1"	"chlorophyllmax_130m_794_1"	"chlorophyllmax_130m_3830_1"	"chlorophyllmax_130m_3910_0"	"chlorophyllmax_130m_2074_0"
+RXN0-6427	"guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase"	"chlorophyllmax_130m_3159_0"
+GLYCOPHOSPHORYL-RXN	"glycogen phosphorylase"	"chlorophyllmax_130m_1765_0"
+4.2.1.61-RXN	"3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase"	"chlorophyllmax_130m_126_0"
+RXN-14919	NIL	"chlorophyllmax_130m_4162_0"
+RXN-14918	NIL	"chlorophyllmax_130m_4162_0"
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	NIL	"chlorophyllmax_130m_2384_1"	"chlorophyllmax_130m_5051_0"	"chlorophyllmax_130m_3919_1"
+RXN-14917	NIL
+1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN	"1-acylglycerol-3-phosphate O-acyltransferase"
+RXN1G-526	"trans-tetracos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+OROTPDECARB-RXN	NIL	"chlorophyllmax_130m_6001_0"
+RXN-12777	"3-oxo-dihomo &gamma; linolenoyl-[acp] synthase"
+RXN-8457	NIL
+R23-RXN	NIL	"chlorophyllmax_130m_1565_0"
+RXN0-3962	NIL
+RXN-14354	NIL
+RXN-14353	NIL	"chlorophyllmax_130m_1765_0"
+SUCCSEMIALDDEHYDROG-RXN	NIL
+NICOTINATEPRIBOSYLTRANS-RXN	NIL
+RXN-8347	"&alpha;-linolenate &Delta;<sup>6</sup>-desaturase"
+RXN0-6510	NIL
+RXN0-6512	"3-oxo-5,6-didehydrosuberyl-CoA thiolase"
+RXN0-6513	"2,3-dehydroadipyl-CoA hydratase"	"chlorophyllmax_130m_5728_1"	"chlorophyllmax_130m_5955_0"	"chlorophyllmax_130m_1826_0"	"chlorophyllmax_130m_1693_1"	"chlorophyllmax_130m_5681_1"	"chlorophyllmax_130m_836_0"	"chlorophyllmax_130m_5304_0"	"chlorophyllmax_130m_340_0"	"chlorophyllmax_130m_1762_0"	"chlorophyllmax_130m_3939_1"	"chlorophyllmax_130m_3623_0"	"chlorophyllmax_130m_4139_0"	"chlorophyllmax_130m_4740_0"	"chlorophyllmax_130m_5356_0"
+2-METHYLCITRATE-SYNTHASE-RXN	NIL
+RXN-8631	NIL	"chlorophyllmax_130m_5818_0"	"chlorophyllmax_130m_4027_1"
+GLUCOSAMINEPNACETYLTRANS-RXN	NIL
+RXN1G-637	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN-5464	NIL
+RXN-5466	NIL
+PRAISOM-RXN	NIL
+TYROSINE-AMINOTRANSFERASE-RXN	"Tyrosine transaminase"
+RXN-5462	NIL
+RXN-5463	NIL
+RXN3DJ-170	NIL	"chlorophyllmax_130m_5539_0"
+R322-RXN	NIL
+RXN-5468	NIL
+RXN-5469	NIL
+METHYLGLUTACONYL-COA-HYDRATASE-RXN	NIL
+HISTAMINOTRANS-RXN	NIL	"chlorophyllmax_130m_944_2"	"chlorophyllmax_130m_944_1"	"chlorophyllmax_130m_5475_0"
+GLUTDEHYD-RXN	NIL	"chlorophyllmax_130m_744_0"	"chlorophyllmax_130m_3790_0"	"chlorophyllmax_130m_2290_0"	"chlorophyllmax_130m_2063_0"	"chlorophyllmax_130m_5220_0"	"chlorophyllmax_130m_3131_1"	"chlorophyllmax_130m_29_0"
+PROLINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_1058_0"	"chlorophyllmax_130m_3904_0"
+AIRCARBOXY-RXN	NIL	"chlorophyllmax_130m_373_0"
+UDPNACETYLGLUCOSAMACYLTRANS-RXN	NIL	"chlorophyllmax_130m_5432_0"
+RXN-11213	NIL	"chlorophyllmax_130m_1132_0"
+RXN-8037	NIL
+RXN-14007	"1-methylthio-xylulose 5-phosphate sulfo-lyase"
+RXN-14006	"5-methylthioribulose-1-phosphate isomerase"
+RXN-10038	NIL
+RXN-10039	NIL
+HOMOSERKIN-RXN	NIL	"chlorophyllmax_130m_5711_0"
+RXN-5061	NIL
+DIMETHUROPORDEHYDROG-RXN	NIL	"chlorophyllmax_130m_4930_0"
+RXN0-2381	NIL	"chlorophyllmax_130m_6289_0"	"chlorophyllmax_130m_1824_0"	"chlorophyllmax_130m_6173_0"
+RXN-10100	NIL	"chlorophyllmax_130m_865_1"
+RXN-10101	NIL
+RXN-10106	NIL
+RXN-10107	NIL
+PHOSACETYLTRANS-RXN	NIL
+ACSERLY-RXN	NIL	"chlorophyllmax_130m_1776_0"	"chlorophyllmax_130m_469_0"
+RXN-9092	NIL
+RXN66-485	"3<i>R</i>-hydroxyacyl-CoA dehydrogenase"
+RXN0-6483	NIL	"chlorophyllmax_130m_2975_0"
+GERANOYL-COA-CARBOXYLASE-RXN	NIL	"chlorophyllmax_130m_2123_1"
+FORMATETHFLIG-RXN	NIL
+RXN66-1	NIL	"chlorophyllmax_130m_5887_0"
+RXN66-3	"acetaldehyde dehydrogenase (NAD+)"	"chlorophyllmax_130m_5450_1"	"chlorophyllmax_130m_1957_0"	"chlorophyllmax_130m_5526_0"	"chlorophyllmax_130m_3388_0"
+2.4.1.141-RXN	NIL
+RXN-12198	NIL
+RXN1G-1530	"3-oxo-C87-trans-keto-mycolate reductase"
+ALANINE-AMINOTRANSFERASE-RXN	NIL
+ISOCHORSYN-RXN	NIL
+R310-RXN	"acrylonitrile hydratase"
+RXN1G-1247	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+FADSYN-RXN	NIL	"chlorophyllmax_130m_3002_0"
+RXN-13033	NIL	"chlorophyllmax_130m_2851_0"
+RXN-13037	"octanoyl:GcvH transferase"	"chlorophyllmax_130m_2525_0"
+ENOYL-ACP-REDUCT-NADPH-RXN	"2,3,4-saturated fatty acyl-[acp] dehydrogenase"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_3630_0"
+RXN-13035	NIL
+RXN-13034	NIL
+6PGLUCONDEHYDROG-RXN	"phosphogluconate dehydrogenase [NAD(P)+-dependent, decarboxylating]"	"chlorophyllmax_130m_1809_0"
+DCDPKIN-RXN	NIL	"chlorophyllmax_130m_919_0"
+RXN1G-27	"cis-delta5-3-hydroxyC24:1-[acyl-carrier protein] dehydratase"
+RXN1G-26	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+4.2.3.12-RXN	NIL	"chlorophyllmax_130m_4018_0"	"chlorophyllmax_130m_5900_0"
+RXN1G-2527	"cis,cis-&Delta;19-37-C56:2-[acp] reductase"
+1.18.1.2-RXN	NIL	"chlorophyllmax_130m_1840_0"
+RXN1G-886	"3-oxo-C78-&alpha;-mycolate synthase"
+RXN1G-887	"3-oxo-C85-cis-methoxy-mycolate-synthase"
+RXN1G-884	"cis,cis-delta11,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+RXN-11989	"torulene dioxygenase"
+RXN1G-883	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] synthase"
+RXN1G-881	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN1G-888	"3-oxo-C86-trans-methoxy-mycolate-synthase"
+RXN1G-951	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN-13109	"3-methylxanthine demethylase"
+1.21.3.1-RXN	NIL	"chlorophyllmax_130m_153_0"
+RXN-9542	"<i>trans</i> hexadecenoyl-[acp] reductase (NADPH, B-specific)"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_3630_0"
+RXN-9540	"3-oxo-palmitoyl-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_411_0"
+RXN-9549	NIL
+RXN-9548	NIL
+RXN-13698	NIL
+RXN-13697	NIL	"chlorophyllmax_130m_3024_0"	"chlorophyllmax_130m_3931_2"	"chlorophyllmax_130m_3936_0"	"chlorophyllmax_130m_5829_0"	"chlorophyllmax_130m_5352_0"
+RXN66-472	"fatty aldehyde dehydrogenase"	"chlorophyllmax_130m_5450_1"	"chlorophyllmax_130m_1957_0"	"chlorophyllmax_130m_5526_0"
+RXN66-471	"2-hydroxy-3-methyl-branched fatty acyl-CoA lyase"
+RXN66-470	"3-methyl-branched fatty acyl-CoA 2-hydroxylase"	"chlorophyllmax_130m_6170_0"
+SUCCINATE--COA-LIGASE-GDP-FORMING-RXN	NIL	"chlorophyllmax_130m_6119_2"	"chlorophyllmax_130m_728_1"	"chlorophyllmax_130m_728_0"	"chlorophyllmax_130m_582_0"	"chlorophyllmax_130m_4707_0"
+GTP-CYCLOHYDRO-II-RXN	NIL
+1.10.2.2-RXN	NIL	"chlorophyllmax_130m_687_0"
+ACETOOHBUTREDUCTOISOM-RXN	NIL	"chlorophyllmax_130m_1609_0"
+RXN-12611	"thiamin phosphate synthase"
+GTPPYPHOSKIN-RXN	NIL	"chlorophyllmax_130m_1588_0"	"chlorophyllmax_130m_5686_0"	"chlorophyllmax_130m_5095_0"
+TRANS-CINNAMATE-2-MONOOXYGENASE-RXN	NIL
+RXN-25	NIL
+THYMIDYLATESYN-RXN	NIL	"chlorophyllmax_130m_5006_0"	"chlorophyllmax_130m_3451_0"
+RXN-22	NIL	"chlorophyllmax_130m_4317_1"	"chlorophyllmax_130m_1929_0"
+PRPPSYN-RXN	NIL	"chlorophyllmax_130m_6006_0"	"chlorophyllmax_130m_3824_0"	"chlorophyllmax_130m_1996_0"
+LACTALDDEHYDROG-RXN	NIL
+SCYLLO-INOSAMINE-KINASE-RXN	NIL
+SHIKIMATE-KINASE-RXN	NIL	"chlorophyllmax_130m_3776_0"
+RXN1G-408	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN1G-409	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+CDPDIGLYSYN-RXN	NIL
+RXN-10058	"2,5-diamino-6-(5-phosphoribitylamino)pyrimidin-4(3H)-one deaminase"
+PYRUVFORMLY-RXN	NIL
+RXN-14903	NIL
+RXN1G-536	"cerotoyl-[acyl-carrier protein] reductase"
+3-OXOACYL-ACP-SYNTH-RXN	"3-oxoacyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-8441	"nicotinamide-&beta;-riboside hydrolase"
+RXN-8443	NIL
+RXN-8442	NIL
+RXN-8444	NIL
+RXN-8447	NIL
+RXN1G-3660	"cis-delta21-39-hydroxy-40-methyl-C59:1-[acp] synthase"
+RXN1G-3667	"trans-&Delta;20-39-hydroxy-40-methyl-C60:1-[acp] reductase"
+DIHYDROXYISOVALDEHYDRAT-RXN	NIL	"chlorophyllmax_130m_5832_0"	"chlorophyllmax_130m_1082_0"	"chlorophyllmax_130m_2520_0"	"chlorophyllmax_130m_1888_0"	"chlorophyllmax_130m_5631_0"	"chlorophyllmax_130m_5621_1"
+DGDPKIN-RXN	NIL	"chlorophyllmax_130m_919_0"
+RXN-10821	NIL
+RXN-11667	"(S)-3-hydroxybutanoyl-CoA dehydrogenase"
+RXN-8629	"dihydrolipoyl dehydrogenase"	"chlorophyllmax_130m_4790_0"	"chlorophyllmax_130m_4015_0"	"chlorophyllmax_130m_5944_0"	"chlorophyllmax_130m_1973_0"
+RXN-11662	NIL	"chlorophyllmax_130m_4047_0"	"chlorophyllmax_130m_1722_0"	"chlorophyllmax_130m_4_0"
+RXN-7101	NIL
+PYRROLINECARBREDUCT-RXN	NIL	"chlorophyllmax_130m_4691_0"	"chlorophyllmax_130m_247_0"
+RXN-5721	NIL
+RXN-5472	NIL
+RXN-5471	"dolichyl-<i>P</i>-Glc:Glc1Man2GlcNAc2-<i>PP</i>dolichol &alpha;-1,3-glucosyltransferase"
+RXN-5470	NIL
+RXN-11682	NIL
+RXN-11680	"linoleate &Delta;<sup>6</sup>-desaturase"	"chlorophyllmax_130m_1147_0"
+RXN-11681	"&gamma;-linolenate &Delta;<sup>6</sup>-acetylenase"
+METHYLACYLYLCOA-HYDROXY-RXN	"Methylacrylyl-CoA hydratase"	"chlorophyllmax_130m_5728_1"	"chlorophyllmax_130m_5955_0"	"chlorophyllmax_130m_1826_0"	"chlorophyllmax_130m_1693_1"	"chlorophyllmax_130m_5681_1"	"chlorophyllmax_130m_836_0"	"chlorophyllmax_130m_5304_0"	"chlorophyllmax_130m_340_0"	"chlorophyllmax_130m_1762_0"	"chlorophyllmax_130m_3939_1"	"chlorophyllmax_130m_3623_0"	"chlorophyllmax_130m_4139_0"	"chlorophyllmax_130m_4740_0"	"chlorophyllmax_130m_5356_0"
+3.2.1.120-RXN	NIL
+ACETYLORNDEACET-RXN	NIL	"chlorophyllmax_130m_5479_0"
+RXN-14348	NIL
+RXN-14349	NIL
+RXN-11202	NIL
+RXN-11203	NIL
+RXN-11201	"sterol 24C methyltransferase"	"chlorophyllmax_130m_1116_1"
+RXN-14014	"4-hydroxy-tetrahydrodipicolinate reductase"
+3.1.1.23-RXN	NIL
+RXN-1022	NIL
+PROPIONYL-COA-CARBOXY-RXN	NIL	"chlorophyllmax_130m_6244_0"	"chlorophyllmax_130m_3920_0"	"chlorophyllmax_130m_1618_0"	"chlorophyllmax_130m_2409_1"	"chlorophyllmax_130m_1020_0"
+RXN-1025	NIL
+GABATRANSAM-RXN	NIL	"chlorophyllmax_130m_1666_0"	"chlorophyllmax_130m_3822_1"
+DARAB5PISOM-RXN	NIL	"chlorophyllmax_130m_3246_0"
+RXN0-302	NIL
+RXN0-308	"cysteine desulfurase"	"chlorophyllmax_130m_4334_0"	"chlorophyllmax_130m_5838_0"	"chlorophyllmax_130m_5908_0"	"chlorophyllmax_130m_3825_1"
+RXN-10139	"L-tryptophan--pyruvate aminotransferase"
+RXN-3443	NIL	"chlorophyllmax_130m_5450_1"	"chlorophyllmax_130m_1957_0"	"chlorophyllmax_130m_5526_0"
+CYTIKIN-RXN	NIL	"chlorophyllmax_130m_4023_0"
+UROCANATE-HYDRATASE-RXN	NIL	"chlorophyllmax_130m_788_0"
+RXN1G-1529	"3-oxo-C86-cis-keto-mycolate-reductase"
+RXN1G-1528	"3-oxo-C86-trans-methoxy-mycolate-reductase"
+RXN1G-1527	"3-oxo-C85-cis-methoxy-mycolate reductase"
+GLUTCYSLIG-RXN	NIL	"chlorophyllmax_130m_5761_0"
+4.2.1.59-RXN	"3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase"	"chlorophyllmax_130m_126_0"
+CDPKIN-RXN	NIL	"chlorophyllmax_130m_919_0"
+PYRNUTRANSHYDROGEN-RXN	NIL	"chlorophyllmax_130m_4805_1"	"chlorophyllmax_130m_5836_0"	"chlorophyllmax_130m_4274_0"
+GLUTAMATE-SYNTHASE-FERREDOXIN-RXN	NIL	"chlorophyllmax_130m_3150_1"	"chlorophyllmax_130m_3150_0"	"chlorophyllmax_130m_3683_1"	"chlorophyllmax_130m_3598_0"	"chlorophyllmax_130m_29_0"
+RXN-9718	NIL	"chlorophyllmax_130m_5739_1"
+RXN-11998	"&beta;-<i>apo</i>-4'-carotenal oxygenase"
+RXN-11999	NIL
+RXN1G-1635	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+2-DEHYDROPANTOATE-REDUCT-RXN	NIL
+1.14.19.3-RXN	NIL
+ACETOLACTREDUCTOISOM-RXN	"ketol-acid reductoisomerase"	"chlorophyllmax_130m_1609_0"
+2OXOGLUTDECARB-RXN	NIL	"chlorophyllmax_130m_5814_0"
+ARGSUCCINLYA-RXN	NIL	"chlorophyllmax_130m_4317_1"	"chlorophyllmax_130m_1929_0"
+RXN-13111	"1-methylxanthine demethylase"
+RXN-13113	"1,3-dimethylurate synthase"
+RXN-13114	"3-methylurate synthase"
+RXN-13115	"1-methylurate synthase"
+RXN1G-138	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+DTDPDEHYRHAMREDUCT-RXN	NIL	"chlorophyllmax_130m_1594_0"
+UDPACYLGLCNACDEACETYL-RXN	NIL
+RXN1G-648	"3-cis-delta21,39-3-hydroxyC58:2-[acyl-carrier protein] dehydratase"
+MUCONOLACTONE-DELTA-ISOMERASE-RXN	NIL
+RXN-7835	NIL	"chlorophyllmax_130m_2985_0"
+RXN0-4621	NIL
+ARGININE-2-MONOOXYGENASE-RXN	NIL
+RXN1G-320	"3-hydroxyarchidoyl-[acp] dehydrase"
+RXN66-469	"3-methyl-branched fatty acyl-CoA ligase"	"chlorophyllmax_130m_4411_0"	"chlorophyllmax_130m_1736_0"	"chlorophyllmax_130m_3080_0"	"chlorophyllmax_130m_4877_1"	"chlorophyllmax_130m_794_1"	"chlorophyllmax_130m_3830_1"	"chlorophyllmax_130m_3910_0"	"chlorophyllmax_130m_2074_0"
+RXN1G-324	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-7838	NIL	"chlorophyllmax_130m_5728_1"	"chlorophyllmax_130m_5955_0"	"chlorophyllmax_130m_1826_0"	"chlorophyllmax_130m_1693_1"	"chlorophyllmax_130m_5681_1"	"chlorophyllmax_130m_836_0"	"chlorophyllmax_130m_5304_0"	"chlorophyllmax_130m_340_0"	"chlorophyllmax_130m_1762_0"	"chlorophyllmax_130m_3939_1"	"chlorophyllmax_130m_3623_0"	"chlorophyllmax_130m_4139_0"	"chlorophyllmax_130m_4740_0"	"chlorophyllmax_130m_5356_0"
+RIBOFLAVINKIN-RXN	NIL	"chlorophyllmax_130m_5050_1"	"chlorophyllmax_130m_4563_0"
+HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN	"S-adenosyl-L-methionine:L-homocysteine S-methyltransferase"
+STREPTOMYCIN-6-PHOSPHATASE-RXN	NIL
+KDPGALDOL-RXN	NIL	"chlorophyllmax_130m_1825_0"
+ACETYLORNTRANSAM-RXN	NIL	"chlorophyllmax_130m_270_0"
+DEOXYHYPUSINE-MONOOXYGENASE-RXN	NIL
+THIOESTER-RXN	NIL	"chlorophyllmax_130m_961_0"
+PYRUFLAVREDUCT-RXN	NIL
+RXN-12971	NIL
+SIROHEME-FERROCHELAT-RXN	NIL
+RXN0-2361	NIL
+RXN-7744	NIL
+RXN-7743	NIL
+RXN1G-182	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN1G-181	"&alpha;-meroacyl-AMP transferase"
+RXN-12978	NIL	"chlorophyllmax_130m_4411_0"	"chlorophyllmax_130m_1736_0"	"chlorophyllmax_130m_3080_0"	"chlorophyllmax_130m_4877_1"	"chlorophyllmax_130m_794_1"	"chlorophyllmax_130m_3830_1"	"chlorophyllmax_130m_3910_0"	"chlorophyllmax_130m_2074_0"
+RXN1G-488	"trans-docos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+BIOTINLIG-RXN	NIL	"chlorophyllmax_130m_352_0"	"chlorophyllmax_130m_181_0"
+RXN0-2161	NIL	"chlorophyllmax_130m_453_0"	"chlorophyllmax_130m_5156_0"
+RXN0-5398	NIL	"chlorophyllmax_130m_1342_0"
+RXN0-5391	NIL
+RXN0-5390	NIL	"chlorophyllmax_130m_961_0"
+RXN-12579	NIL	"chlorophyllmax_130m_5850_1"
+PROTOHEMEFERROCHELAT-RXN	NIL	"chlorophyllmax_130m_516_0"	"chlorophyllmax_130m_540_0"	"chlorophyllmax_130m_2773_0"
+DEOXYADENYLATE-KINASE-RXN	NIL
+4.1.1.72-RXN	NIL
+GLUCOKIN-RXN	NIL
+GLUCONATE-DEHYDRATASE-RXN	NIL
+ARGININE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_5486_0"	"chlorophyllmax_130m_984_0"
+HISTIDPHOS-RXN	NIL	"chlorophyllmax_130m_5874_0"
+PHENDEHYD-RXN	NIL
+RXN-7745	"3-methylmalate dehydrogenase"
+DIHYDROOROT-RXN	NIL	"chlorophyllmax_130m_4793_0"	"chlorophyllmax_130m_4981_0"	"chlorophyllmax_130m_848_0"
+RXN1G-509	"trans-delta2-cis,cis-9,21-C40:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-508	"3-oxo-lignoceroyl-[acyl-carrier protein] reductase"
+R601-RXN	NIL
+R62-RXN	NIL
+4.2.1.99-RXN	NIL
+RXN-12794	NIL
+RXN-12797	NIL
+METHENYLTHFCYCLOHYDRO-RXN	NIL
+RXN-12400	"xyloglucan XLLG oligosaccharide &beta;-galactosidase"	"chlorophyllmax_130m_948_0"
+RXN-12402	"isoprimeverose &alpha;-xylosidase"
+SUCCINYLDIAMINOPIMTRANS-RXN	NIL	"chlorophyllmax_130m_3426_1"
+6PGLUCONOLACT-RXN	NIL	"chlorophyllmax_130m_4077_0"
+TREHALOSE6PSYN-RXN	NIL	"chlorophyllmax_130m_1591_0"	"chlorophyllmax_130m_2183_0"	"chlorophyllmax_130m_1937_0"
+TRANS-RXN0-277	NIL	"chlorophyllmax_130m_4805_1"	"chlorophyllmax_130m_5836_0"
+BADH-RXN	NIL	"chlorophyllmax_130m_5662_0"	"chlorophyllmax_130m_4985_2"
+MALSYN-RXN	NIL
+RXN-14804	"&Delta;3-&Delta;2-enoyl-CoA isomerase"
+RXN-14803	"3-ketoacyl-CoA thiolase"	"chlorophyllmax_130m_5007_0"	"chlorophyllmax_130m_5360_0"	"chlorophyllmax_130m_4406_1"	"chlorophyllmax_130m_3740_0"
+RXN-14802	"3-hydroxyacyl-CoA dehydrogenase"
+RXN-14801	"trans-2-enoyl-CoA hydratase 2"
+RXN-14800	"&Delta;3-&Delta;2-enoyl-CoA isomerase"
+RXN1G-617	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+SUPEROX-DISMUT-RXN	NIL	"chlorophyllmax_130m_5433_0"
+RXN0-2382	NIL	"chlorophyllmax_130m_6289_0"	"chlorophyllmax_130m_1824_0"	"chlorophyllmax_130m_6173_0"
+RXN1G-613	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+DEOXYCYTIDINE-KINASE-RXN	NIL
+RXN-11054	NIL
+RXN-11053	NIL
+TRYPTOPHAN-AMINOTRANSFERASE-RXN	NIL
+RXN-8890	NIL
+RXN-8891	NIL
+ISOCITRATE-DEHYDROGENASE-NAD+-RXN	NIL	"chlorophyllmax_130m_1565_0"
+CHORISMATE-SYNTHASE-RXN	NIL	"chlorophyllmax_130m_456_0"	"chlorophyllmax_130m_5861_0"
+3PGAREARR-RXN	NIL	"chlorophyllmax_130m_780_0"
+RXN-8764	NIL
+RXN-8765	NIL
+RXN-8766	"cobalt-precorrin-6B methylase"
+RXN-8767	NIL
+RXN-8761	"cobalt-precorrin-3 (<i>C</i><sup>17</sup>)-methyltransferase"
+RXN-8762	"cobalt-precorrin-4 methyltransferase"
+RXN-8763	NIL
+RXN-8768	NIL
+RXN-8769	NIL
+RXN-14797	"trans-2-enoyl-CoA hydratase 2"
+RXN-14796	"fatty acyl-CoA oxidase"
+RXN-14795	NIL
+RXN-14794	"enoyl-CoA hydratase"
+RXN-14793	"3-ketoacyl-CoA thiolase"	"chlorophyllmax_130m_5007_0"	"chlorophyllmax_130m_5360_0"	"chlorophyllmax_130m_4406_1"	"chlorophyllmax_130m_3740_0"
+RXN-14792	"3-hydroxyacyl-CoA dehydrogenase"
+RXN-14791	"enoyl-CoA hydratase"
+RXN-14790	"2,4-dienoyl-CoA reductase"	"chlorophyllmax_130m_2985_0"
+RXN-14799	"3-ketoacyl-CoA thiolase"	"chlorophyllmax_130m_5007_0"	"chlorophyllmax_130m_5360_0"	"chlorophyllmax_130m_4406_1"	"chlorophyllmax_130m_3740_0"
+RXN-14798	"3-hydroxyacyl-CoA dehydrogenase"
+RXN-9535	"&beta;-ketoacyl-acyl-carrier-protein synthase I"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN	"Tryptophan decarboxylase"	"chlorophyllmax_130m_5539_0"
+RXN-9532	"3-oxo-dodecanoyl-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_411_0"
+2.6.1.22-RXN	NIL
+ANTHRANSYN-RXN	NIL	"chlorophyllmax_130m_1018_0"	"chlorophyllmax_130m_1823_0"	"chlorophyllmax_130m_2223_0"	"chlorophyllmax_130m_286_0"	"chlorophyllmax_130m_4686_0"	"chlorophyllmax_130m_2478_0"
+CATAL-RXN	NIL	"chlorophyllmax_130m_5887_0"
+R581-RXN	"(Aceto)phenylmercury lyase"
+QUINOPRIBOTRANS-RXN	NIL	"chlorophyllmax_130m_2376_0"
+RXN0-882	NIL	"chlorophyllmax_130m_4429_1"
+RXN0-884	NIL	"chlorophyllmax_130m_1686_1"	"chlorophyllmax_130m_4971_0"
+RXN1G-1081	"cis,cis-delta13,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+RXN1G-1084	"cis-delta19-3-hydroxyC38:1-[acyl-carrier protein] dehydratase"
+RIBOFLAVINSYNREDUC-RXN	NIL
+ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	NIL	"chlorophyllmax_130m_3271_1"	"chlorophyllmax_130m_990_0"
+DTMPKI-RXN	NIL	"chlorophyllmax_130m_4718_0"	"chlorophyllmax_130m_4153_1"
+RXN-1021	NIL
+RXN-9663	"<i>trans</i> hexadecenoyl-[acp] reductase"
+CYTIDEAM-RXN	NIL
+MALONYL-COA-ACP-TRANSACYL-RXN	NIL	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_3096_1"	"chlorophyllmax_130m_406_1"
+CYSTEINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_4809_0"	"chlorophyllmax_130m_721_1"	"chlorophyllmax_130m_3712_0"
+R341-RXN	NIL	"chlorophyllmax_130m_423_0"	"chlorophyllmax_130m_3604_0"
+RXN-6641	NIL
+GLYCINE--TRNA-LIGASE-RXN	NIL
+RXN-6642	NIL	"chlorophyllmax_130m_999_0"
+PORPHOBILSYNTH-RXN	NIL
+4.1.3.26-RXN	NIL
+RXN1G-334	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] synthase"
+ADENOSYLHOMOCYSTEINASE-RXN	NIL	"chlorophyllmax_130m_5810_0"	"chlorophyllmax_130m_4458_0"	"chlorophyllmax_130m_2283_0"	"chlorophyllmax_130m_4112_0"	"chlorophyllmax_130m_4218_2"	"chlorophyllmax_130m_4218_1"	"chlorophyllmax_130m_4218_0"
+RXN1G-337	"trans-delta2-cis,cis-delta13,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN0-5098	NIL
+R11-RXN	"butyryl coenzyme A transferase"
+RXN1G-339	"trans-delta2-cis-cis-delta7-19-C38:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+GLUTARYL-COA-DEHYDROG-RXN	"glutaryl-CoA dehydrogenase"
+ASPDECARBOX-RXN	NIL	"chlorophyllmax_130m_2656_0"	"chlorophyllmax_130m_2960_0"
+IMIDPHOSDEHYD-RXN	NIL
+RXN-11832	NIL
+FHLMULTI-RXN	NIL
+RXN3O-5293	NIL	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_3630_0"
+RXN-7607	NIL
+RXN-7605	NIL
+FGAMSYN-RXN	NIL	"chlorophyllmax_130m_6196_1"	"chlorophyllmax_130m_1655_0"	"chlorophyllmax_130m_40_0"	"chlorophyllmax_130m_647_0"	"chlorophyllmax_130m_478_0"
+GCVMULTI-RXN	NIL
+GLUTAMATE-SYNTHASE-NADH-RXN	NIL	"chlorophyllmax_130m_1710_0"	"chlorophyllmax_130m_2610_0"	"chlorophyllmax_130m_1607_0"	"chlorophyllmax_130m_29_0"
+RXN-12548	NIL
+RXN-12968	NIL
+RXN-12969	NIL
+RXN1G-424	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] synthase"
+RXN1G-425	"3-cis,cis-delta7,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+GSAAMINOTRANS-RXN	NIL	"chlorophyllmax_130m_2387_0"	"chlorophyllmax_130m_3733_0"	"chlorophyllmax_130m_4280_0"
+ATPPHOSPHORIBOSYLTRANS-RXN	NIL
+1.13.11.6-RXN	NIL
+3-OXOADIPATE-ENOL-LACTONASE-RXN	NIL
+COBALADENOSYLTRANS-RXN	"Cob(I)alamin adenosyltransferase"	"chlorophyllmax_130m_5730_1"	"chlorophyllmax_130m_4324_1"	"chlorophyllmax_130m_3806_1"	"chlorophyllmax_130m_2852_0"
+D-LACTALDEHYDE-DEHYDROGENASE-RXN	NIL
+RXN0-6479	NIL	"chlorophyllmax_130m_2161_0"	"chlorophyllmax_130m_1788_0"
+RXN0-6478	NIL	"chlorophyllmax_130m_1573_0"	"chlorophyllmax_130m_160_0"
+RXN-14921	NIL
+RXN-14922	NIL
+PHOSPHOKETOLASE-RXN	NIL
+RIBOFLAVIN-SYN-RXN	NIL	"chlorophyllmax_130m_97_0"	"chlorophyllmax_130m_2200_1"	"chlorophyllmax_130m_31_1"	"chlorophyllmax_130m_5871_1"	"chlorophyllmax_130m_6083_0"
+RXN1G-517	"3-hydroxylignoceroyl-[acyl-carrier protein] dehydratase"
+RXN-14929	NIL
+QUINOLINATE-SYNTHA-RXN	NIL	"chlorophyllmax_130m_3971_0"
+RXN1G-3641	"cis-&Delta;21-39-hydroxy-40-methyl-C59:1-[acp] reductase"
+RXN1G-193	"trans-delta2-cis,cis-5,17-C36:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-13415	NIL	"chlorophyllmax_130m_4359_0"	"chlorophyllmax_130m_2758_0"
+RXN-13414	NIL	"chlorophyllmax_130m_4359_0"	"chlorophyllmax_130m_2758_0"
+RXN-13417	NIL	"chlorophyllmax_130m_4359_0"	"chlorophyllmax_130m_2758_0"
+RXN-13416	NIL	"chlorophyllmax_130m_4359_0"	"chlorophyllmax_130m_2758_0"
+DCMP-DEAMINASE-RXN	NIL	"chlorophyllmax_130m_3362_1"
+3-HYDROXY-KYNURENINASE-RXN	NIL
+RXN-8391	NIL
+RXN-8390	NIL
+RXN1G-607	"trans-delta2-cis,cis-delta15,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN3O-102	"3-demethylubiquinol-6 3-O-methyltransferase"	"chlorophyllmax_130m_1644_0"
+RXN-1823	NIL	"chlorophyllmax_130m_917_0"
+RXN-1824	NIL
+RXN-1825	NIL
+RXN-1826	"starch phosphorylase"	"chlorophyllmax_130m_1765_0"
+RXN-15036	"oleoyl-CoA:lysophosphatidylethanolamine acyltransferase"
+RXN-8889	NIL
+SAICARSYN-RXN	NIL	"chlorophyllmax_130m_6125_0"	"chlorophyllmax_130m_6175_0"
+ACP-S-ACETYLTRANSFER-RXN	NIL	"chlorophyllmax_130m_126_0"
+RXN0-6491	"dihydroorotate dehydrogenase"
+RXN-8080	NIL	"chlorophyllmax_130m_6114_0"
+ALDHDEHYDROG-RXN	NIL	"chlorophyllmax_130m_5450_1"	"chlorophyllmax_130m_1957_0"	"chlorophyllmax_130m_5526_0"	"chlorophyllmax_130m_3388_0"
+MUCONATE-CYCLOISOMERASE-RXN	NIL	"chlorophyllmax_130m_2275_0"
+XANTHOSINEPHOSPHORY-RXN	"xanthosine phosphorylase"
+5.3.3.14-RXN	NIL
+ACETATEKIN-RXN	NIL
+DTDPKIN-RXN	NIL	"chlorophyllmax_130m_919_0"
+ALDEHYDE-DEHYDROGENASE-NADP+-RXN	NIL	"chlorophyllmax_130m_3388_0"
+METHYLMALONYL-COA-EPIM-RXN	NIL	"chlorophyllmax_130m_5241_1"
+6.3.2.7-RXN	NIL
+RXN-11319	NIL
+2.1.4.2-RXN	NIL
+GLYCPDIESTER-RXN	NIL	"chlorophyllmax_130m_5020_0"
+RXN-2441	NIL
+RXN-9174	NIL
+3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN	NIL	"chlorophyllmax_130m_90_1"	"chlorophyllmax_130m_3995_0"
+RXN-9172	NIL
+RXN-9173	NIL
+RXN-9170	NIL
+RXN-9171	NIL
+2.9.1.1-RXN	NIL
+RXN0-748	NIL	"chlorophyllmax_130m_5237_0"	"chlorophyllmax_130m_37_0"	"chlorophyllmax_130m_2403_0"	"chlorophyllmax_130m_4055_0"	"chlorophyllmax_130m_1907_1"	"chlorophyllmax_130m_1907_0"	"chlorophyllmax_130m_1990_0"	"chlorophyllmax_130m_5006_1"
+RXN-14789	"acyl-CoA oxidase"
+RXN-14780	NIL
+RXN-14781	NIL
+L-LACTATE-DEHYDROGENASE-RXN	NIL	"chlorophyllmax_130m_5727_1"
+RXN0-743	NIL
+RXN-14784	NIL
+RXN-14785	"acyl-CoA oxidase"
+RXN-14786	"enoyl-CoA hydratase"
+RXN-14787	"3-hydroxyacyl-CoA dehydrogenase"
+RXN-12610	"thiamine-phosphate diphosphorylase"
+URPHOS-RXN	NIL	"chlorophyllmax_130m_3496_0"
+RXN-3641	NIL
+ADCLY-RXN	NIL
+GLUTAMIN-RXN	NIL	"chlorophyllmax_130m_3860_0"	"chlorophyllmax_130m_5951_0"	"chlorophyllmax_130m_6307_1"	"chlorophyllmax_130m_1791_0"	"chlorophyllmax_130m_481_1"	"chlorophyllmax_130m_5834_0"	"chlorophyllmax_130m_409_0"	"chlorophyllmax_130m_944_0"	"chlorophyllmax_130m_3774_1"	"chlorophyllmax_130m_618_0"	"chlorophyllmax_130m_3790_0"	"chlorophyllmax_130m_2290_0"	"chlorophyllmax_130m_2063_0"	"chlorophyllmax_130m_3998_1"	"chlorophyllmax_130m_387_1"	"chlorophyllmax_130m_3150_1"	"chlorophyllmax_130m_3150_0"	"chlorophyllmax_130m_5220_0"	"chlorophyllmax_130m_3131_1"	"chlorophyllmax_130m_3683_1"	"chlorophyllmax_130m_3598_0"	"chlorophyllmax_130m_6303_0"	"chlorophyllmax_130m_29_0"	"chlorophyllmax_130m_5616_0"
+PSEUDOURIDINE-KINASE-RXN	NIL
+PYRUVATE-CARBOXYLASE-RXN	NIL	"chlorophyllmax_130m_6222_0"	"chlorophyllmax_130m_4662_0"
+2.7.7.13-RXN	NIL
+RXN0-1147	NIL	"chlorophyllmax_130m_1041_0"
+5-FORMYL-THF-CYCLO-LIGASE-RXN	NIL	"chlorophyllmax_130m_3203_0"
+2.6.1.56-RXN	NIL
+1.1.1.262-RXN	"4-hydroxythreonine-4-phosphate dehydrogenase"	"chlorophyllmax_130m_5898_0"	"chlorophyllmax_130m_600_0"
+RXN1G-1278	"cis,cis-delta15,33-3-hydroxyC52:2-[acyl-carrier protein] dehydratase"
+RXN66-483	NIL	"chlorophyllmax_130m_4411_0"	"chlorophyllmax_130m_1736_0"	"chlorophyllmax_130m_3080_0"	"chlorophyllmax_130m_4877_1"	"chlorophyllmax_130m_794_1"	"chlorophyllmax_130m_3830_1"	"chlorophyllmax_130m_3910_0"	"chlorophyllmax_130m_2074_0"
+RXN0-4641	NIL
+IMPCYCLOHYDROLASE-RXN	NIL
+THYM-PHOSPH-RXN	NIL
+ACETATE--COA-LIGASE-RXN	NIL	"chlorophyllmax_130m_2653_0"
+RXN-7614	NIL	"chlorophyllmax_130m_1557_0"	"chlorophyllmax_130m_3821_0"
+RXN1G-853	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN0-1382	NIL	"chlorophyllmax_130m_3864_1"	"chlorophyllmax_130m_6135_1"	"chlorophyllmax_130m_6135_0"	"chlorophyllmax_130m_5216_0"	"chlorophyllmax_130m_2240_0"	"chlorophyllmax_130m_200_0"	"chlorophyllmax_130m_6128_0"	"chlorophyllmax_130m_2818_0"	"chlorophyllmax_130m_4060_1"	"chlorophyllmax_130m_967_1"
+GTP-CYCLOHYDRO-I-RXN	NIL	"chlorophyllmax_130m_4943_0"	"chlorophyllmax_130m_1255_0"	"chlorophyllmax_130m_5479_1"
+GUANINE-DEAMINASE-RXN	NIL
+RXN1G-3256	"trans-&Delta;18-37-hydroxy-38-methyl-C58:1-[acp] reductase"
+RXN1G-299	"trans-delta2-cis-delta13-C32:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN0-2144	NIL
+PHOSMANMUT-RXN	NIL	"chlorophyllmax_130m_2314_0"
+RXN0-2141	NIL
+RXN1G-292	"C87-trans-keto-mycolate O-mycolyltransferase"
+RXN1G-291	"C86-cis-keto-mycolate O-mycolyltransferase"
+RXN1G-290	"C87-trans-mycolate O-mycolyltransferase"
+RXN1G-297	"trans-keto-meroacyl-AMP transferase"
+RXN1G-296	"cis-keto-meroacyl-AMP transferase"
+RXN1G-295	"trans-methoxy-meroacyl-AMP transferase"
+RXN1G-294	"3-cis,cis-delta13,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+3.2.1.91-RXN	NIL
+RXN0-5260	"sn-glycerol 3-phosphate:ubiquinone oxidoreductase"	"chlorophyllmax_130m_1893_0"
+3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN	NIL	"chlorophyllmax_130m_2098_0"	"chlorophyllmax_130m_722_0"
+NADH-KINASE-RXN	NIL
+PHOSPHOLIPASE-A2-RXN	NIL
+1.14.99.36-RXN	NIL
+NADH-DEHYDROG-A-RXN	NIL	"chlorophyllmax_130m_2151_1"	"chlorophyllmax_130m_1106_1"	"chlorophyllmax_130m_3641_1"	"chlorophyllmax_130m_1966_0"	"chlorophyllmax_130m_913_0"	"chlorophyllmax_130m_4051_0"	"chlorophyllmax_130m_4951_1"	"chlorophyllmax_130m_385_1"	"chlorophyllmax_130m_1045_0"	"chlorophyllmax_130m_667_0"	"chlorophyllmax_130m_4138_1"	"chlorophyllmax_130m_4138_0"	"chlorophyllmax_130m_6054_0"	"chlorophyllmax_130m_4547_0"	"chlorophyllmax_130m_2599_0"
+RXN0-5114	NIL	"chlorophyllmax_130m_178_0"
+RXN-8963	NIL
+GLUTAMATE-FORMIMINOTRANSFERASE-RXN	NIL	"chlorophyllmax_130m_130_1"	"chlorophyllmax_130m_3738_1"
+2-METHYLACYL-COA-DEHYDROGENASE-RXN	NIL
+RXN-8964	NIL
+RIBULP3EPIM-RXN	NIL
+TREHALOSEPHOSPHA-RXN	NIL	"chlorophyllmax_130m_1960_0"
+RXN-8743	NIL	"chlorophyllmax_130m_5749_1"	"chlorophyllmax_130m_4518_0"
+2-METHYLCITRATE-DEHYDRATASE-RXN	NIL	"chlorophyllmax_130m_5849_0"
+TOCOPHEROL-O-METHYLTRANSFERASE-RXN	NIL	"chlorophyllmax_130m_4162_0"
+NICONUCADENYLYLTRAN-RXN	NIL	"chlorophyllmax_130m_5317_0"
+L-GLN-FRUCT-6-P-AMINOTRANS-RXN	NIL	"chlorophyllmax_130m_4634_0"	"chlorophyllmax_130m_136_0"	"chlorophyllmax_130m_1981_0"	"chlorophyllmax_130m_5693_0"	"chlorophyllmax_130m_1044_0"	"chlorophyllmax_130m_418_0"	"chlorophyllmax_130m_4217_0"
+RXN1G-236	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+SUCCGLUDESUCC-RXN	NIL
+RXN-10814	"L-phenylalanine aminotransferase"	"chlorophyllmax_130m_3024_0"	"chlorophyllmax_130m_3931_2"	"chlorophyllmax_130m_3936_0"	"chlorophyllmax_130m_5829_0"	"chlorophyllmax_130m_5352_0"
+RXN-10815	"2-oxo-3-phenylpropanoate dioxygenase"
+RXN-10816	"phenylpyruvate reductase"
+RXN-10817	"phenylethylamine oxidase"
+RXN-7921	"eriodictyol 5'-hydroxylase"
+PYRIDOXKIN-RXN	NIL
+RXN-10819	NIL
+PEPCARBOX-RXN	NIL	"chlorophyllmax_130m_613_0"	"chlorophyllmax_130m_1575_1"	"chlorophyllmax_130m_1164_0"
+RXN1G-674	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase"
+CHD-RXN	NIL	"chlorophyllmax_130m_3669_0"
+RXN1G-679	"trans-delta2-cis,cis-delta21,39-C58:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-8567	NIL
+RXN-5841	NIL
+GLYCOLATEDEHYDRO-RXN	NIL	"chlorophyllmax_130m_5004_0"
+3.1.3.40-RXN	NIL
+SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	NIL	"chlorophyllmax_130m_5467_0"	"chlorophyllmax_130m_71_0"	"chlorophyllmax_130m_2612_1"
+RXN-8346	"di-homo-&gamma;-linolenate &Delta;<sup>5</sup> desaturase"
+2.3.1.135-RXN	NIL
+CHITIN-DEACETYLASE-RXN	NIL	"chlorophyllmax_130m_2214_0"
+RXN0-6482	NIL
+THI-P-KIN-RXN	NIL	"chlorophyllmax_130m_3036_0"
+RXN0-6480	NIL	"chlorophyllmax_130m_3986_1"
+RXN0-6481	NIL
+RXN1G-4142	"cis-keto-C60-meroacyl-[acp] synthetase"
+RXN1G-4143	"trans-keto-C61-meroacyl-[acp] synthetase"
+RXN0-6484	NIL	"chlorophyllmax_130m_2975_0"
+RXN0-6485	NIL	"chlorophyllmax_130m_1573_0"	"chlorophyllmax_130m_160_0"
+RXN-2902	NIL
+RXN-2901	NIL	"chlorophyllmax_130m_1666_0"	"chlorophyllmax_130m_3822_1"
+RXN-14315	NIL
+DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN	NIL
+2OXOGLUTARATEDEH-RXN	"2-oxoglutarate dehydrogenase complex"
+UDPKIN-RXN	NIL	"chlorophyllmax_130m_919_0"
+NAPHTHOATE-SYN-RXN	NIL
+CYTOCHROME-C-OXIDASE-RXN	NIL	"chlorophyllmax_130m_869_1"	"chlorophyllmax_130m_2557_0"	"chlorophyllmax_130m_6037_0"
+FORMYLTHFDEFORMYL-RXN	"formyltetrahydrofolate deformylase"	"chlorophyllmax_130m_1057_0"
+DEOXYGUANOSINE-KINASE-RXN	NIL
+DEMETHYLMACROCIN-O-METHYLTRANSFERASE-RXN	NIL
+CITRATE--COA-LIGASE-RXN	NIL
+ORNCARBAMTRANSFER-RXN	NIL
+GLUTAMINE-N-PHENYLACETYLTRANSFERASE-RXN	NIL
+GLYC3PDEHYDROGBIOSYN-RXN	NIL
+RXN-2962	NIL	"chlorophyllmax_130m_3281_0"
+RXN-9169	NIL
+RXN-9168	NIL
+H2NEOPTERINALDOL-RXN	NIL	"chlorophyllmax_130m_5648_0"
+2.3.1.157-RXN	NIL
+RXN-9167	NIL
+RXN-9518	"3-hydroxyhexanoyl-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_411_0"
+1.2.1.9-RXN	NIL
+2.5.1.19-RXN	NIL	"chlorophyllmax_130m_711_0"	"chlorophyllmax_130m_5744_1"	"chlorophyllmax_130m_5751_0"
+OXALATE-COA-TRANSFERASE-RXN	NIL
+5.3.1.23-RXN	NIL	"chlorophyllmax_130m_4758_0"	"chlorophyllmax_130m_3500_0"
+RXNMETA-12671	NIL
+METHYLACETOACETYLCOATHIOL-RXN	"2-methylacetoacetyl-CoA thiolase"	"chlorophyllmax_130m_6301_0"	"chlorophyllmax_130m_3314_0"	"chlorophyllmax_130m_6101_0"	"chlorophyllmax_130m_5241_0"
+RXNMETA-12672	NIL
+PABASYN-RXN	NIL	"chlorophyllmax_130m_1993_0"
+LACTALDEHYDE-OXI-RXN	NIL
+RXN-9296	NIL
+GDPREDUCT-RXN	NIL	"chlorophyllmax_130m_5237_0"	"chlorophyllmax_130m_37_0"	"chlorophyllmax_130m_2403_0"	"chlorophyllmax_130m_4055_0"	"chlorophyllmax_130m_1907_1"	"chlorophyllmax_130m_1907_0"	"chlorophyllmax_130m_1990_0"	"chlorophyllmax_130m_5006_1"
+RXN-6021	"choline dehydrogenase"
+PGLUCONDEHYDRAT-RXN	NIL	"chlorophyllmax_130m_1825_1"
+R-2-METHYLMALATE-DEHYDRATASE-RXN	NIL
+DIAMINOPIMEPIM-RXN	NIL	"chlorophyllmax_130m_2231_0"	"chlorophyllmax_130m_660_1"	"chlorophyllmax_130m_6055_0"
+GALACTUROISOM-RXN	"D-galacturonate isomerase"
+DEPHOSPHOCOAKIN-RXN	NIL
+ACETONE-CYANHYDRIN-LYASE-RXN	"hydroxynitrilase"
+N-CARBAMOYLSARCOSINE-AMIDASE-RXN	NIL
+RXN1G-420	"cis-delta7-3-hydroxyC26:1-[acyl-carrier protein] dehydratase"
+PEPDEPHOS-RXN	NIL
+RXN-9344	NIL
+GLUTATHIONE-PEROXIDASE-RXN	NIL	"chlorophyllmax_130m_5528_0"
+DIHYDROFOLATESYNTH-RXN	NIL
+6.3.2.26-RXN	NIL
+R342-RXN	NIL	"chlorophyllmax_130m_3187_1"	"chlorophyllmax_130m_854_0"
+GLUTAMINESYN-RXN	NIL	"chlorophyllmax_130m_740_0"
+R127-RXN	NIL
+CITTRANS-RXN	"citrate CoA-transferase"	"chlorophyllmax_130m_5043_0"
+RXN1G-840	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+HISTIDINE-AMMONIA-LYASE-RXN	NIL
+RXN1G-445	"3-oxo-behenoyl-[acp] synthase"
+RXN1G-440	"3-cis,cis-delta19,37-3-hydroxyC56:2-[acyl-carrier protein] dehydratase"
+NADNUCLEOSID-RXN	NIL
+RXN1G-288	"C78-&alpha;-mycolate-O-mycolyltransferase"
+RXN1G-289	"C85-cis-mycolate O-mycolyltransferase"
+RXN1G-285	"trans-delta2-cis-delta9-C28:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-287	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+R311-RXN	"Acrylamidase"	"chlorophyllmax_130m_5275_0"	"chlorophyllmax_130m_5157_0"	"chlorophyllmax_130m_5111_0"	"chlorophyllmax_130m_698_0"	"chlorophyllmax_130m_5301_0"	"chlorophyllmax_130m_545_1"	"chlorophyllmax_130m_5350_0"
+GLYCOGENSYN-RXN	NIL	"chlorophyllmax_130m_6207_0"
+RXN-12549	NIL
+RXN0-2142	NIL	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+PHOSPHOMEVALONATE-KINASE-RXN	NIL
+3.1.26.5-RXN	NIL	"chlorophyllmax_130m_3986_1"
+3.1.2.23-RXN	NIL
+RXN1G-1325	"trans-delta2-cis,cis-delta15,33-C52:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+MEVALONATE-KINASE-RXN	NIL	"chlorophyllmax_130m_727_0"
+RXN-8974	NIL
+ENOYL-COA-DELTA-ISOM-RXN	"Dodecenoyl-CoA &delta;-isomerase"	"chlorophyllmax_130m_5376_0"
+RXN0-5293	NIL	"chlorophyllmax_130m_3822_0"
+RXN0-6259	NIL
+KDO-8PSYNTH-RXN	NIL
+PHOSPHASERSYN-RXN	NIL
+RXN-13435	NIL	"chlorophyllmax_130m_961_0"
+RXN-13430	"eicosapentaenoyl-CoA hydrolase"	"chlorophyllmax_130m_961_0"
+DURIDKI-RXN	NIL	"chlorophyllmax_130m_743_0"
+RXN1G-660	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] synthase"
+RXN-11026	NIL
+GLUTAMATE-DEHYDROGENASE-RXN	NIL
+2TRANSKETO-RXN	"D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase"	"chlorophyllmax_130m_3143_0"	"chlorophyllmax_130m_4314_0"	"chlorophyllmax_130m_3629_0"
+RXN-8350	"eicosatetraenoate &Delta;<sup>5</sup> desaturase"
+MEPROPCOA-FAD-RXN	"isobutyryl-CoA dehydrogenase"
+1.1.1.220-RXN	NIL
+OHBUTYRYL-COA-EPIM-RXN	"3-hydroxybutyryl-CoA epimerase"
+GLYOHMETRANS-RXN	NIL	"chlorophyllmax_130m_2411_1"
+UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN	NIL
+1.1.1.178-RXN	NIL
+GLUTKIN-RXN	NIL	"chlorophyllmax_130m_5474_0"
+RXN-8755	NIL
+RXN-8754	NIL
+RXN-8751	NIL
+RXN1G-717	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN-8753	NIL
+RXN-8752	NIL
+NITRATE-REDUCTASE-NADH-RXN	NIL	"chlorophyllmax_130m_1692_0"
+RXN-8992	NIL	"chlorophyllmax_130m_6191_1"
+RXN-8991	"3-isopropylmalate dehydratase"	"chlorophyllmax_130m_405_0"	"chlorophyllmax_130m_223_0"	"chlorophyllmax_130m_365_0"	"chlorophyllmax_130m_2414_0"
+SUCROSE-PHOSPHATE-SYNTHASE-RXN	NIL
+ISOCITDEH-RXN	NIL	"chlorophyllmax_130m_4241_0"	"chlorophyllmax_130m_4158_0"	"chlorophyllmax_130m_3761_0"	"chlorophyllmax_130m_5806_0"	"chlorophyllmax_130m_1565_0"
+RXN-9311	NIL
+RXN0-299	NIL	"chlorophyllmax_130m_4463_0"	"chlorophyllmax_130m_4682_0"	"chlorophyllmax_130m_4847_0"
+RXN-2043	NIL
+DLACTDEHYDROGNAD-RXN	NIL
+ARGDECARBOX-RXN	NIL
+RXN-11480	"3-oxo-pimeloyl-[acp] methyl ester reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN-11481	NIL
+RXN-11482	NIL
+RXN-11483	NIL
+RXN-11484	NIL	"chlorophyllmax_130m_259_0"	"chlorophyllmax_130m_4441_0"
+RXN-10773	"cellobiose &beta;-glucosidase"	"chlorophyllmax_130m_1005_2"	"chlorophyllmax_130m_5331_0"	"chlorophyllmax_130m_903_0"
+BENZOATE-12-DIOXYGENASE-RXN	NIL	"chlorophyllmax_130m_3918_0"
+URIDINE-NUCLEOSIDASE-RXN	NIL	"chlorophyllmax_130m_5562_0"
+3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	NIL	"chlorophyllmax_130m_126_0"
+PPGPPSYN-RXN	NIL	"chlorophyllmax_130m_3159_0"
+KDGALDOL-RXN	"5-dehydro-4-deoxy-D-glucarate aldolase"	"chlorophyllmax_130m_427_1"
+RXN0-2301	NIL	"chlorophyllmax_130m_2026_0"
+ADENPHOSPHOR-RXN	"adenosine phosphorylase"
+2.1.1.79-RXN	NIL	"chlorophyllmax_130m_615_0"
+BRANCHED-CHAINAMINOTRANSFERVAL-RXN	"Valine transaminase"	"chlorophyllmax_130m_4637_0"	"chlorophyllmax_130m_4450_0"	"chlorophyllmax_130m_2366_0"
+RXN1G-1053	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN1G-1050	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN1G-1057	"trans-delta2-cis,cis-delta19,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+ALTRO-OXIDOREDUCT-RXN	NIL
+IMP-DEHYDROG-RXN	NIL	"chlorophyllmax_130m_3004_1"	"chlorophyllmax_130m_3004_0"	"chlorophyllmax_130m_4383_1"	"chlorophyllmax_130m_4383_0"
+HOMOSERDEHYDROG-RXN	NIL	"chlorophyllmax_130m_5899_1"
+FERREDOXIN--NITRITE-REDUCTASE-RXN	NIL
+RXN-9023	NIL
+RXN-9025	"maltodextrin phosphorylase"	"chlorophyllmax_130m_1765_0"
+PDXJ-RXN	NIL	"chlorophyllmax_130m_378_0"	"chlorophyllmax_130m_734_1"
+F16BDEPHOS-RXN	NIL	"chlorophyllmax_130m_5438_0"
+2.3.1.80-RXN	NIL
+UDP-NACMUR-ALA-LIG-RXN	NIL	"chlorophyllmax_130m_1747_0"
+RXN6666-7	NIL
+CDP-GLUCOSE-46-DEHYDRATASE-RXN	NIL	"chlorophyllmax_130m_1882_1"
+RXN-6161	NIL
+RXN-9624	"Stearoyl-CoA hydrolase"
+N-ACETYLNEURAMINATE-SYNTHASE-RXN	NIL	"chlorophyllmax_130m_4187_0"	"chlorophyllmax_130m_5302_0"
+RXN66-221	NIL	"chlorophyllmax_130m_5539_0"
+GLYRIBONUCSYN-RXN	NIL	"chlorophyllmax_130m_1881_1"	"chlorophyllmax_130m_2479_0"	"chlorophyllmax_130m_3467_0"	"chlorophyllmax_130m_4024_1"
+RXN-2542	NIL
+RXN1G-874	NIL
+RXN-10059	NIL
+RXN1G-473	"trehalose-cis-keto-mono-mycolate transport"
+RXN1G-472	"trehalose-trans-methoxy-mono-mycolate transport"
+RXN1G-471	"trans-delta2-cis,cis-delta19,37-C56:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-11502	NIL
+RXN1G-474	"trehalose-trans-keto-mono-mycolate transport"
+PHOSCHOL-RXN	NIL
+TRANS-RXN-213	NIL
+RXN0-1342	NIL
+RXN1G-276	"trans-delta2-cis,cis-delta17,35-C54:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+DEOXYGLUCONOKIN-RXN	NIL
+THIAZOLSYN2-RXN	NIL
+RXN-7968	NIL
+RXN-12204	NIL
+RXN-11974	"<i>all-trans</i>-lycopene desaturase"
+RXN-11976	"torulene synthase"
+2.4.1.114-RXN	NIL
+GLUC1PURIDYLTRANS-RXN	NIL	"chlorophyllmax_130m_6249_0"	"chlorophyllmax_130m_1121_0"
+RXN1G-196	"trans-delta2-cis,cis-delta11,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-7567	"indole-3-acetonitrile hydratase"
+RXN-7566	NIL
+RXN-7775	NIL
+4.99.1.3-RXN	NIL
+PGLUCISOM-RXN	"glucose-6-phosphate isomerase"
+AMYLOMALT-RXN	"4-&alpha;-glucanotransferase"
+RXN-13108	"theophylline <i>N</i>3-demethylase"
+RXN1G-384	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+ACETOACETATE-DECARBOXYLASE-RXN	NIL
+SULFATE-ADENYLYLTRANS-RXN	NIL	"chlorophyllmax_130m_652_0"	"chlorophyllmax_130m_2406_0"	"chlorophyllmax_130m_671_1"	"chlorophyllmax_130m_671_0"	"chlorophyllmax_130m_5384_0"	"chlorophyllmax_130m_5209_1"	"chlorophyllmax_130m_5209_0"	"chlorophyllmax_130m_5753_1"
+3.2.1.48-RXN	NIL
+RXN-13426	"&alpha;-linolenoyl-CoA &Delta;<sup>6</sup>-desaturase"
+RXN-7784	NIL	"chlorophyllmax_130m_4144_1"
+RXN-13428	NIL
+RXN-13429	"eicosatetraenoyl-CoA &Delta;<sup>5</sup> desaturase"
+3-ISOPROPYLMALISOM-RXN	"3-isopropylmalate dehydratase"	"chlorophyllmax_130m_405_0"	"chlorophyllmax_130m_223_0"	"chlorophyllmax_130m_365_0"	"chlorophyllmax_130m_2414_0"
+1.1.1.8-RXN	NIL
+OHACYL-COA-DEHYDROG-RXN	NIL	"chlorophyllmax_130m_4047_0"	"chlorophyllmax_130m_1722_0"	"chlorophyllmax_130m_4_0"
+RXN-1321	NIL
+ACETYLHOMOSER-CYS-RXN	NIL	"chlorophyllmax_130m_1131_0"
+ORNITHINE-CYCLODEAMINASE-RXN	NIL	"chlorophyllmax_130m_6001_1"
+PRPPAMIDOTRANS-RXN	NIL	"chlorophyllmax_130m_5055_1"	"chlorophyllmax_130m_4024_0"
+RXN1G-127	"cis,cis-delta11,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN1G-499	"3-oxo-lignoceroyl-[acyl-carrier protein] synthase"
+5.5.1.2-RXN	NIL
+IGPSYN-RXN	NIL	"chlorophyllmax_130m_5642_0"	"chlorophyllmax_130m_5966_0"
+RXN-5822	"NADP phosphatase"
+THIOSULFATE-SULFURTRANSFERASE-RXN	NIL	"chlorophyllmax_130m_5732_0"	"chlorophyllmax_130m_494_0"
+RXN-12064	"indol-3-ylacetaldoxime isomerase"
+RXN-12063	"<i>N,N</i>-dihydroxy-L-tryptophan carboxy-lyase"
+RXN-12062	"<i>N</i>-hydroxy-L-tryptophan <em>N</em>-monooxygenase"
+RXN-12061	"tryptophan <em>N</em>-monooxygenase"
+RXN3O-3797	NIL
+GDPKIN-RXN	NIL	"chlorophyllmax_130m_919_0"
+MALATE-DEHYDROGENASE-NADP+-RXN	NIL
+RXNN-404	"indole acetamide hydrolase"	"chlorophyllmax_130m_5275_0"	"chlorophyllmax_130m_5157_0"	"chlorophyllmax_130m_5111_0"	"chlorophyllmax_130m_698_0"	"chlorophyllmax_130m_5301_0"	"chlorophyllmax_130m_545_1"	"chlorophyllmax_130m_5350_0"
+CDPREDUCT-RXN	NIL	"chlorophyllmax_130m_5237_0"	"chlorophyllmax_130m_37_0"	"chlorophyllmax_130m_2403_0"	"chlorophyllmax_130m_4055_0"	"chlorophyllmax_130m_1907_1"	"chlorophyllmax_130m_1907_0"	"chlorophyllmax_130m_1990_0"	"chlorophyllmax_130m_5006_1"
+RXN-10696	NIL
+RXN-10697	NIL	"chlorophyllmax_130m_5728_1"	"chlorophyllmax_130m_5955_0"	"chlorophyllmax_130m_1826_0"	"chlorophyllmax_130m_1693_1"	"chlorophyllmax_130m_5681_1"	"chlorophyllmax_130m_836_0"	"chlorophyllmax_130m_5304_0"	"chlorophyllmax_130m_340_0"	"chlorophyllmax_130m_1762_0"	"chlorophyllmax_130m_3939_1"	"chlorophyllmax_130m_3623_0"	"chlorophyllmax_130m_4139_0"	"chlorophyllmax_130m_4740_0"	"chlorophyllmax_130m_5356_0"
+RXN-10695	NIL
+RXN-8035	NIL
+RXN-8036	NIL	"chlorophyllmax_130m_1005_2"	"chlorophyllmax_130m_5331_0"	"chlorophyllmax_130m_903_0"
+DIHYDROKAEMPFEROL-4-REDUCTASE-RXN	NIL	"chlorophyllmax_130m_4144_1"
+2.1.1.19-RXN	NIL
+GMKALT-RXN	NIL
+DAHPSYN-RXN	NIL	"chlorophyllmax_130m_6286_0"	"chlorophyllmax_130m_4959_1"	"chlorophyllmax_130m_4959_0"	"chlorophyllmax_130m_5332_1"
+GLURS-RXN	NIL	"chlorophyllmax_130m_4467_2"	"chlorophyllmax_130m_280_1"	"chlorophyllmax_130m_280_0"
+GUANPRIBOSYLTRAN-RXN	NIL	"chlorophyllmax_130m_3632_0"
+RXN-14958	"octanoyl-CoA protein transferase"
+AIRS-RXN	NIL
+METHYLENETHFDEHYDROG-NADP-RXN	NIL	"chlorophyllmax_130m_2842_0"	"chlorophyllmax_130m_3028_1"
+N-ACETYLTRANSFER-RXN	NIL	"chlorophyllmax_130m_2247_0"	"chlorophyllmax_130m_2375_0"
+RXN-15035	"lysophospholipase"
+TRYPTOPHAN--TRNA-LIGASE-RXN	NIL
+GLYOXIII-RXN	NIL	"chlorophyllmax_130m_5566_0"	"chlorophyllmax_130m_454_1"
+FATTY-ACYL-COA-SYNTHASE-RXN	NIL	"chlorophyllmax_130m_126_0"
+PYRIDOXINE-4-DEHYDROGENASE-RXN	NIL
+RXN-14730	"D-glucosaminate 6-phosphate ammonia-lyase"
+PYRIMSYN3-RXN	NIL
+GLUTSEMIALDEHYDROG-RXN	NIL	"chlorophyllmax_130m_2227_0"
+N-ACETYLGLUTPREDUCT-RXN	NIL	"chlorophyllmax_130m_563_0"
+RXN1G-1117	"trans-delta2-cis,cis-delta13,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+MANNPISOM-RXN	NIL
+PHOSGLYPHOS-RXN	NIL	"chlorophyllmax_130m_899_0"	"chlorophyllmax_130m_2263_0"	"chlorophyllmax_130m_5770_1"
+ACETYL-COA-CARBOXYLTRANSFER-RXN	NIL	"chlorophyllmax_130m_2555_0"
+HISTCYCLOHYD-RXN	NIL
+GLUTACONYL-COA-DECARBOXYLASE-RXN	NIL	"chlorophyllmax_130m_2574_2"
+4.3.1.4-RXN	NIL
+DEOXYADENOSINE-KINASE-RXN	NIL
+ISOHEXENYLGLUTACONYL-COA-HYDRATASE-RXN	NIL
+AMP-NUCLEOSID-RXN	NIL	"chlorophyllmax_130m_529_1"
+RXN-9633	"3-oxo-stearoyl-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_411_0"
+RXN-9632	"3-oxo-stearoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN-9635	"<i>trans</i>-octadec-2-enoyl-[acyl-carrier-protein] reductase"
+RXN-9634	"3-hydroxystearoyl-[acyl-carrier protein] dehydratase"	"chlorophyllmax_130m_126_0"
+MALATE-DEH-RXN	NIL	"chlorophyllmax_130m_44_0"	"chlorophyllmax_130m_4927_0"
+AMP-DEAMINASE-RXN	NIL
+6.3.2.10-RXN	NIL
+4.2.1.58-RXN	"(3<em>R</em>)-3-hydroxybutanoyl-[acyl-carrier-protein] hydratase"	"chlorophyllmax_130m_126_0"
+KDO-8PPHOSPHAT-RXN	NIL	"chlorophyllmax_130m_2006_0"
+1.13.11.25-RXN	NIL
+KETOHEXOKINASE-RXN	NIL
+2.4.1.117-RXN	NIL
+RXN1G-865	"<i>trans</i>-methoxy-meroacyl transferase"
+RXN1G-866	"cis-keto-meroacyl-transferase"
+RXN1G-867	"<i>trans</i>-keto-meroacyl transferase"
+NAD-SYNTH-NH3-RXN	NIL	"chlorophyllmax_130m_5483_0"	"chlorophyllmax_130m_4624_1"	"chlorophyllmax_130m_735_0"
+RXN1G-464	"cis,cis-delta5,17-3-hydroxyC36:2-[acyl-carrier protein] dehydratase"
+GARTRANSFORMYL2-RXN	NIL
+XMPXAN-RXN	"XMP-5'-nucleotidase"
+PHOSPHOGLUCMUT-RXN	NIL
+PPPGPPHYDRO-RXN	NIL
+RXN1G-468	"trans-delta2-cis,cis-delta7,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-469	"3-oxobehenoyl-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN1G-262	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN1G-260	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN1G-266	"cis-delta9-3-hydroxyC28:1-[acyl-carrier protein] dehydratase"
+FUMARYLACETOACETASE-RXN	NIL
+LACTOSE-DEHYDRO-RXN	"lactose 3-dehydrogenase"
+HOMOCYSMETB12-RXN	NIL	"chlorophyllmax_130m_4147_0"	"chlorophyllmax_130m_4565_1"
+2PGADEHYDRAT-RXN	NIL	"chlorophyllmax_130m_4350_0"	"chlorophyllmax_130m_2481_0"	"chlorophyllmax_130m_767_0"	"chlorophyllmax_130m_3937_0"	"chlorophyllmax_130m_2352_0"
+RXN0-5055	NIL	"chlorophyllmax_130m_2555_0"
+P-PANTOCYSLIG-RXN	NIL
+1.1.1.39-RXN	NIL	"chlorophyllmax_130m_4494_0"
+RXN1G-396	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-395	"trans-eicos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-12104	NIL
+RXN-8081	NIL
+RXN-12691	NIL
+GDPPYPHOSKIN-RXN	NIL	"chlorophyllmax_130m_1588_0"	"chlorophyllmax_130m_5686_0"	"chlorophyllmax_130m_5095_0"
+PHOSPHASERDECARB-RXN	NIL	"chlorophyllmax_130m_5732_1"
+RXN1G-3993	"C52-&alpha;-meroacyl-[acp] synthetase"
+RXN0-2044	"3-hydroxyadipyl-CoA dehydrogenase"	"chlorophyllmax_130m_4047_0"	"chlorophyllmax_130m_1722_0"	"chlorophyllmax_130m_4_0"
+RXN0-2042	NIL
+RXN1G-132	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+RXN1G-645	"3-cis,cis-delta9,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN1G-137	"trehalose-mono-mycolate transport"
+RXN-525	"(+)-dihydrokaempferol 3'-hydroxylase"
+RXN-11002	NIL
+RXN1G-481	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+O-ACETYLHOMOSERINE-THIOL-LYASE-RXN	NIL	"chlorophyllmax_130m_1131_0"
+LEUCINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_1285_0"	"chlorophyllmax_130m_2654_0"	"chlorophyllmax_130m_4512_0"
+2KETO-3METHYLVALERATE-RXN	"(<i>S</i>)-3-methyl-2-oxopentanoate dehydrogenase (acylating)"
+DAPASYN-RXN	NIL	"chlorophyllmax_130m_2734_0"	"chlorophyllmax_130m_1_0"	"chlorophyllmax_130m_554_0"
+5.4.1.2-RXN	NIL
+LUMAZINESYN-RXN	NIL	"chlorophyllmax_130m_4225_1"
+RXN-0	NIL
+RXN-1	NIL
+TRYPTOPHAN-2-MONOOXYGENASE-RXN	NIL
+RXN-9	NIL
+NICOTINAMID-RXN	NIL	"chlorophyllmax_130m_5301_0"	"chlorophyllmax_130m_545_1"	"chlorophyllmax_130m_5350_0"
+RXNQT-4142	NIL
+RXNQT-4141	NIL
+SARCOX-RXN	NIL	"chlorophyllmax_130m_3832_0"	"chlorophyllmax_130m_561_0"	"chlorophyllmax_130m_4818_0"	"chlorophyllmax_130m_308_0"	"chlorophyllmax_130m_865_0"
+RXN-14506	NIL
+RXN-14507	"2'-hydroxypyridoxol hydratase"
+GLUTATHIONE-SYN-RXN	NIL	"chlorophyllmax_130m_2647_1"	"chlorophyllmax_130m_5290_0"	"chlorophyllmax_130m_5424_0"
+RXN0-363	NIL
+RXN0-361	NIL	"chlorophyllmax_130m_5562_0"
+RXN0-366	"guanosine hydrolase"
+RXN-14187	NIL
+O-SUCCHOMOSERLYASE-RXN	NIL	"chlorophyllmax_130m_2971_0"	"chlorophyllmax_130m_1965_0"	"chlorophyllmax_130m_5071_0"
+RXN-2401	NIL	"chlorophyllmax_130m_1780_1"
+GLUCOSAMINE-6-P-DEAMIN-RXN	NIL	"chlorophyllmax_130m_4246_0"
+2.1.1.133-RXN	NIL
+IMIDAZOLONEPROPIONASE-RXN	NIL	"chlorophyllmax_130m_6018_0"
+RXN-13036	"octanoyl-[GcvH]:protein <i>N</i>-octanoyltransferase"
+PEPCARBOXYKIN-RXN	NIL	"chlorophyllmax_130m_5626_0"
+GALACTOKIN-RXN	NIL	"chlorophyllmax_130m_5859_0"
+RXN-14729	NIL	"chlorophyllmax_130m_503_0"
+1.8.98.1-RXN	NIL	"chlorophyllmax_130m_5346_1"	"chlorophyllmax_130m_5346_0"
+RXN0-949	NIL	"chlorophyllmax_130m_1143_0"
+ARACHIDONATE-5-LIPOXYGENASE-RXN	"arachidonate 5-lipoxygenase"
+RXN0-947	NIL	"chlorophyllmax_130m_2525_0"
+ARGININE-N-SUCCINYLTRANSFERASE-RXN	NIL
+H2PTERIDINEPYROPHOSPHOKIN-RXN	NIL	"chlorophyllmax_130m_5648_1"
+DXPREDISOM-RXN	NIL	"chlorophyllmax_130m_9_0"
+TRIOKINASE-RXN	NIL
+HYDROGEN-DEHYDROGENASE-RXN	NIL	"chlorophyllmax_130m_1704_0"
+GLUTAMATE-DEHYDROGENASE-NADP+-RXN	NIL
+ACETOLACTSYN-RXN	NIL	"chlorophyllmax_130m_213_0"	"chlorophyllmax_130m_4332_0"	"chlorophyllmax_130m_4344_1"	"chlorophyllmax_130m_6187_0"	"chlorophyllmax_130m_5743_1"	"chlorophyllmax_130m_5743_0"	"chlorophyllmax_130m_602_0"	"chlorophyllmax_130m_431_1"	"chlorophyllmax_130m_431_0"	"chlorophyllmax_130m_5127_0"
+2.7.8.15-RXN	NIL
+4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	NIL
+3-DEHYDROQUINATE-SYNTHASE-RXN	NIL
+RXN-9648	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"chlorophyllmax_130m_1444_0"	"chlorophyllmax_130m_1841_1"	"chlorophyllmax_130m_126_0"	"chlorophyllmax_130m_498_1"	"chlorophyllmax_130m_1903_0"
+GDPMANDEHYDRA-RXN	NIL
+RXN-9310	NIL
+1.1.1.271-RXN	NIL	"chlorophyllmax_130m_1083_1"	"chlorophyllmax_130m_221_1"	"chlorophyllmax_130m_846_0"
+HOMOGLUTATHIONE-SYNTHASE-RXN	NIL
+1.11.1.12-RXN	NIL
+4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN	NIL
+RXNDQC-2	"indole-3-pyruvate monooxygenase"
+HOMOSERINE-O-ACETYLTRANSFERASE-RXN	NIL	"chlorophyllmax_130m_4487_0"
+RXN1G-818	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] synthase"
+CREATININE-DEAMINASE-RXN	NIL
+THIOL-S-METHYLTRANSFERASE-RXN	NIL
+RXN1G-811	"6-O-trans-keto-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-810	"6-O-cis-keto-mycolyl-trehalose O-mycolyltransferase"
+1.1.1.283-RXN	NIL
+1.5.1.15-RXN	NIL
+RXN0-5330	NIL
+2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN	"4-methyl-2-oxopentanoate dehydrogenase (acylating)"
+PANTOTHENATE-KIN-RXN	NIL	"chlorophyllmax_130m_4075_0"
+HISTIDINE--TRNA-LIGASE-RXN	NIL	"chlorophyllmax_130m_203_0"	"chlorophyllmax_130m_4429_0"
+ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	NIL	"chlorophyllmax_130m_6282_0"
+RXN1G-252	"cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] reductase"	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN0-1321	NIL	"chlorophyllmax_130m_1019_0"
+D-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	NIL	"chlorophyllmax_130m_374_0"	"chlorophyllmax_130m_5211_0"	"chlorophyllmax_130m_6014_1"	"chlorophyllmax_130m_3849_0"
+RXN-11917	"7-methyl-3-oxo-6-octenoyl-CoA:acetyl-CoA C-acyltransferase"
+BENZOATE--COA-LIGASE-RXN	NIL	"chlorophyllmax_130m_4160_0"
+RXN-11918	"5-methylhex-4-enoyl-CoA dehydrogenase"
+RXN-11919	"(2<i>E</i>)-5-methylhexa-2,4-dienoyl-CoA hydratase"
+RXN-6321	NIL
+RXN-12867	NIL
+RXN-12865	NIL
+RXN-12864	"Painter reaction"
+3.1.4.11-RXN	NIL
+2.5.1.64-RXN	NIL
+PROTOPORGENOXI-RXN	NIL
+DIAMINOPIMDECARB-RXN	NIL	"chlorophyllmax_130m_4128_0"	"chlorophyllmax_130m_1145_1"
+RXN-12460	"L-asparaginyl-tRNA<SUP>asn</SUP> hydrolase"	"chlorophyllmax_130m_4318_1"
+RXN1G-3613	"cis,cis-&Delta;21,39-C58:2-[acp] reductase"
+OROPRIBTRANS-RXN	NIL	"chlorophyllmax_130m_4522_1"
+RXN-13446	NIL
+RXN-12912	NIL
+RXN-13444	NIL
+RXN-13445	NIL
+RXN-13442	NIL
+RXN-13443	NIL	"chlorophyllmax_130m_723_0"	"chlorophyllmax_130m_5795_0"	"chlorophyllmax_130m_411_0"
+RXN-13441	NIL
+1.2.4.4-RXN	NIL	"chlorophyllmax_130m_2974_1"
+RIBOFLAVINSYNDEAM-RXN	NIL	"chlorophyllmax_130m_1266_0"	"chlorophyllmax_130m_1065_0"
+TRIOSEPISOMERIZATION-RXN	NIL	"chlorophyllmax_130m_5224_0"
+RXN-7241	NIL	"chlorophyllmax_130m_6243_1"
+RXN-15067	"phospholipase A2"
+RXN-15064	NIL
+RXN-15062	NIL
+RXN-15063	NIL
+RXN-15060	NIL
+RXN-15061	NIL
+RXN-12001	NIL
+RXN-12000	NIL	"chlorophyllmax_130m_3388_0"
+RXN-12002	NIL
+RXN-14770	NIL

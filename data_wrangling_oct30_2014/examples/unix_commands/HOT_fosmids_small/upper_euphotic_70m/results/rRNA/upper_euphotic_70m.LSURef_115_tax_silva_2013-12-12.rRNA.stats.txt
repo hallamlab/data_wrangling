@@ -1,0 +1,29 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	21
+
+	LSURef_115_tax_silva_2013-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+upper_euphotic_70m_5344	1	491	84.39	1e-130	468.0	Eukaryota;Fungi;Dikarya;Ascomycota;Pezizomycotina;Sordariomycetes;Hypocreomycetidae;Hypocreales;Cordycipitaceae;Cordyceps;;Cordyceps taishanensis
+upper_euphotic_70m_3333	3	729	90.34	0.0	944.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;marine metagenome
+upper_euphotic_70m_8362	5	758	82.42	5e-179	628.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+upper_euphotic_70m_2761	504	827	79.52	9e-57	222.0	Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma sp. 31948
+upper_euphotic_70m_6359	22	892	86.21	0.0	926.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;marine metagenome
+upper_euphotic_70m_5850	33	500	94.87	0.0	715.0	Bacteria;Proteobacteria;Gammaproteobacteria;Xanthomonadales;Xanthomonadaceae;Stenotrophomonas;Pseudomonas geniculata N1
+upper_euphotic_70m_10070	363	913	90.5	0.0	723.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+upper_euphotic_70m_5086	1	869	86.76	0.0	946.0	Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Acidimicrobiaceae;Ant4E12;uncultured actinobacterium HF0130_15N16
+upper_euphotic_70m_9623	1	981	90.04	0.0	1258.0	Bacteria;Proteobacteria;Gammaproteobacteria;Legionellales;Coxiellaceae;Coxiella;uncultured bacterium ARCTIC45_G_10
+upper_euphotic_70m_639	1	718	86.76	0.0	785.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;marine metagenome
+upper_euphotic_70m_4985	13	840	85.05	0.0	828.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;marine metagenome
+upper_euphotic_70m_1624	1	443	97.52	0.0	758.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade;Candidatus Puniceispirillum;Candidatus Puniceispirillum marinum IMCC1322
+upper_euphotic_70m_6610	521	968	83.74	2e-113	411.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade;uncultured bacterium KM3-69-D9
+upper_euphotic_70m_7753	362	755	78.42	2e-59	231.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+upper_euphotic_70m_7314	1	1010	90.22	0.0	1308.0	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;SAR86 clade;marine metagenome
+upper_euphotic_70m_1292	1	899	86.59	0.0	981.0	Bacteria;Proteobacteria;Deltaproteobacteria;Desulfuromonadales;Geobacteraceae;Geobacter;Geobacter metallireducens GS-15
+upper_euphotic_70m_4274	3	932	89.86	0.0	1190.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade;Candidatus Puniceispirillum;marine metagenome
+upper_euphotic_70m_994	350	729	79.64	1e-69	265.0	Bacteria;Lentisphaerae;Lentisphaeria;Lentisphaerales;Lentisphaeraceae;Lentisphaera;Lentisphaera araneosa HTCC2155
+upper_euphotic_70m_8067	29	471	79.42	2e-77	291.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+upper_euphotic_70m_1075	585	841	84.88	3e-67	257.0	Bacteria;Firmicutes;Bacilli;Bacillales;Stapyhlococcaceae;Staphylococcus;Staphylococcus aureus subsp. aureus CIGC93
+upper_euphotic_70m_1578	1	443	97.52	0.0	758.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade;Candidatus Puniceispirillum;Candidatus Puniceispirillum marinum IMCC1322

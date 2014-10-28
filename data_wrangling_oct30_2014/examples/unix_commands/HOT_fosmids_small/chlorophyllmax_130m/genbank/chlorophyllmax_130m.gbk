@@ -1,0 +1,2000 @@
+LOCUS       chlorophyllmax_130m_558   442 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..442
+                     /organism="1..442"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..441
+                     /locus_tag="chlorophyllmax_130m_558_0"
+     CDS             1..441
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_558_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=YICVAGKKTREFSSPTIKEEISSLSYSFPPGIQREEIWEGI
+                     RIGVEGAKSWPVTSTSSIENLEHEILAMIGKFDHVYTILGVSEEVDKISKEIDV
+                     ISDPTPIIDMMRRIKSTKEIEHMQEAASIGSQAHRFAMEKAIPGMGEWEIQ
+ORIGIN               
+        1 TATATTTGTG TGGCTGGGAA GAAGACGAGG GAGTTTTCGT CGCCCACAAT CAAAGAGGAA 
+       61 ATCTCGAGTC TATCCTATTC GTTCCCCCCA GGGATACAAA GAGAGGAAAT CTGGGAGGGC 
+      121 ATCAGAATTG GTGTAGAAGG CGCTAAATCA TGGCCCGTTA CCTCCACATC TTCAATAGAA 
+      181 AATTTAGAGC ATGAAATTTT GGCGATGATA GGCAAGTTCG ATCACGTTTA CACGATACTA 
+      241 GGCGTATCAG AGGAAGTTGA CAAGATTTCC AAAGAGATTG ATGTGATTTC AGACCCGACC 
+      301 CCAATTATCG ACATGATGAG GCGCATTAAA TCAACCAAAG AGATAGAGCA TATGCAGGAA 
+      361 GCAGCATCGA TAGGCTCCCA AGCACACAGA TTTGCGATGG AGAAAGCCAT CCCAGGGATG 
+      421 GGGGAGTGGG AAATACAATC TG
+//
+LOCUS       chlorophyllmax_130m_559   755 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..755
+                     /organism="1..755"
+                     /strain="1"
+                     /chromosome="1"
+     gene            2..754
+                     /locus_tag="chlorophyllmax_130m_559_0"
+     CDS             2..754
+                     /product=protein unknown function DUF224 cysteine-rich
+                      region domain
+                     /locus_tag="chlorophyllmax_130m_559_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=CTMCGRCTAVCPAHATGKPLDPREIVLKTGEVMAATGEHGQ
+                     VSPPIGTDTEITIEANSIFERISNEELWSCTTCRACDEHCPVNIEILDKILDMR
+                     RYLTLMESDFPNELGGAFRGMENNANPWNMNNAERADWAEDIDVEVVDPSDPFD
+                     HEYLYWVGCAGSFDDKNQKVSEATAKLLRRAGVDFAILGPSEMCTGDSARRSGN
+                     EYLIQMLATENHHNLNEMGVQKIVTQCPHCFNALSNEYSQYGGNWEV
+ORIGIN               
+        1 CTGCACGATG TGTGGTCGGT GCACAGCTGT GTGTCCCGCC CACGCAACAG GAAAACCACT 
+       61 TGATCCAAGG GAAATCGTCC TCAAAACAGG CGAAGTGATG GCAGCAACAG GAGAACACGG 
+      121 ACAGGTTTCT CCCCCAATAG GCACCGATAC CGAAATAACA ATCGAAGCAA ATAGCATCTT 
+      181 CGAGCGCATC AGCAACGAAG AGTTGTGGTC GTGCACCACC TGTCGAGCCT GCGATGAACA 
+      241 TTGTCCTGTC AATATTGAAA TCTTGGACAA GATCCTCGAC ATGCGTCGCT ATCTGACCCT 
+      301 TATGGAAAGC GACTTCCCTA ACGAGTTGGG CGGTGCTTTC CGGGGCATGG AAAACAACGC 
+      361 CAACCCTTGG AATATGAATA ATGCCGAACG GGCGGATTGG GCCGAAGATA TTGATGTTGA 
+      421 GGTTGTCGAC CCGTCAGATC CGTTTGATCA CGAGTATTTG TATTGGGTTG GATGCGCCGG 
+      481 TTCTTTCGAC GACAAGAATC AGAAGGTGTC CGAGGCAACA GCGAAGTTGC TGCGCCGCGC 
+      541 TGGCGTTGAT TTCGCCATTC TCGGACCATC AGAAATGTGC ACAGGCGATA GTGCCCGACG 
+      601 TTCAGGAAAT GAATACCTTA TTCAGATGTT GGCAACCGAA AATCATCACA ACCTCAACGA 
+      661 GATGGGGGTT CAGAAAATCG TTACTCAATG CCCCCATTGC TTTAACGCGC TAAGCAACGA 
+      721 ATACTCGCAG TACGGAGGGA ATTGGGAAGT ACTCC
+//
+LOCUS       chlorophyllmax_130m_2879   257 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..257
+                     /organism="1..257"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(2..256)
+                     /locus_tag="chlorophyllmax_130m_2879_0"
+     CDS             complement(2..256)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_2879_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=SSAPGVVAGACSAGGRVGVVWAGGRVARGVWVWLALLRRRV
+                     GCLRRGARRPWLVVSRPACPLGGGVVLRALGAVWRPAAAGRWRW
+ORIGIN               
+        1 ACCACCGCCA CCGACCAGCC GCAGCCGGCC GCCACACCGC CCCAAGGGCC CGGAGCACGA 
+       61 CCCCGCCGCC CAGGGGACAC GCCGGCCGAG ACACAACGAG CCAAGGCCGG CGGGCACCCC 
+      121 GCCGCAAGCA GCCCACCCGG CGACGGAGGA GCGCGAGCCA GACCCAGACA CCGCGGGCGA 
+      181 CCCGGCCACC GGCCCAGACC ACGCCCACGC GCCCGCCAGC AGAGCACGCG CCGGCCACAA 
+      241 CCCCCGGCGC GGAGGAC
+//
+LOCUS       chlorophyllmax_130m_550   570 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..570
+                     /organism="1..570"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(1..471)
+                     /locus_tag="chlorophyllmax_130m_550_0"
+     CDS             complement(1..471)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_550_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=LTRLGAKARVVKWKGQVGVYYQDRPDPIATVFRNPEVLKTN
+                     RPTRFEHKPAIYGSNFERRRENLRKREEKERISSMHRWKLGTEGFRRRNTESSE
+                     DSKWSSGYCHEYAIKLQRENPKLQLRFARGYDENAIEDDDFFVEHVWVIDENGR
+                     ATDASGTY
+ORIGIN               
+        1 GTAAGTTCCA GAAGCATCTG TAGCTCTGCC GTTCTCATCA ATTACCCAAA CATGTTCGAC 
+       61 AAAGAAATCA TCATCTTCGA TAGCGTTTTC ATCATAACCC CTTGCAAACC TTAATTGGAG 
+      121 CTTCGGGTTC TCTCTCTGCA GCTTAATTGC ATATTCATGG CAATAACCAC TACTCCATTT 
+      181 CGAATCTTCT GATGATTCAG TATTCCTTCT TCTAAATCCT TCAGTACCTA ATTTCCATCT 
+      241 ATGCATCGAT GAAATCCTCT CTTTTTCTTC ACGCTTTCGA AGATTTTCCC TTCTTCTTTC 
+      301 AAAATTAGAT CCATAAATTG CAGGCTTATG CTCGAACCTG GTTGGCCTGT TTGTTTTCAG 
+      361 AACTTCAGGG TTTCTGAATA CTGTAGCTAT TGGATCGGGC CTGTCCTGGT AATACACCCC 
+      421 AACCTGTCCT TTCCACTTAA CGACCCTTGC TTTAGCTCCC AACCGTGTCA AATCCTTTGA 
+      481 GCAAGTTCTT TCGATATTGC AATTTGCTCT GCGAATGTAT TCTCAATGTT AGCTGTTCCA 
+      541 GCAAGCCCGC AGCTCGTACC GCTGATGGAT
+//
+LOCUS       chlorophyllmax_130m_551   784 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..784
+                     /organism="1..784"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(2..79)
+                     /locus_tag="chlorophyllmax_130m_551_0"
+     CDS             complement(2..79)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_551_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+     gene            complement(116..718)
+                     /locus_tag="chlorophyllmax_130m_551_1"
+     CDS             complement(116..718)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_551_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MPRNSTDTKTRLLDHAEKMFAEDGVYAVTNRQITEAAGQKN
+                     ESALNYHFGTRNELIIALLTRRGKELDDARSERLAQIGDNPTTRELVHLLVEVY
+                     ANCLHTENGCHYLRIVDQLRGWMTDWEFIASFEDDNVHEHLRYILEILQKETDA
+                     QRVLAMIMLMTAMTATRAQQVSVGRKLPNTHDEYVETLTDMLTGVLLGSNK
+ORIGIN               
+        1 TGCATCTCTG AATAATACGG CAGCGATCCA ACGATTCTGG ATGGATCGCA TGTTCCTCGG 
+       61 CTAGGGGCAT GCGATCCATC AATCGTTATT GCCTGGTATT CCGGTTTTAC GTGGGCTATT 
+      121 TGTTTGATCC GAGGAGAACA CCGGTCAGCA TGTCTGTAAG CGTTTCCACA TATTCGTCAT 
+      181 GCGTGTTCGG GAGTTTACGC CCGACAGAGA CTTGTTGAGC TCGGGTAGCT GTCATTGCTG 
+      241 TCATAAGCAT AATCATGGCG AGCACACGTT GGGCGTCAGT TTCTTTTTGA AGAATCTCGA 
+      301 GGATGTATCG AAGGTGTTCA TGGACATTAT CGTCCTCAAA GGAAGCGATA AATTCCCAAT 
+      361 CGGTCATCCA CCCTCGCAAT TGGTCTACGA TCCGCAGGTA GTGGCATCCG TTCTCCGTGT 
+      421 GAAGGCAGTT GGCATAAACT TCAACTAGGA GATGCACGAG CTCACGTGTC GTCGGGTTGT 
+      481 CCCCTATCTG TGCAAGTCGT TCTGAGCGAG CGTCATCCAA CTCTTTACCT CTTCGGGTTA 
+      541 GCAATGCGAT TATGAGTTCG TTGCGAGTCC CGAAATGATA ATTTAGGGCT GATTCATTCT 
+      601 TCTGGCCAGC GGCTTCTGTA ATCTGCCGAT TCGTTACCGC GTAGACGCCA TCTTCAGCGA 
+      661 ACATTTTCTC AGCGTGATCA AGTAGCCGTG TTTTCGTATC TGTACTGTTG CGGGGCATGA 
+      721 GATGTCTGAA GGTTCTATTC GCTTATGCAC TTATCGGCAG TATTGCAGAT TCTGGGGATA 
+      781 TGCT
+//
+LOCUS       chlorophyllmax_130m_552   773 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..773
+                     /organism="1..773"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(2..772)
+                     /locus_tag="chlorophyllmax_130m_552_0"
+     CDS             complement(2..772)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_552_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=TGAVSVLGTITYEDVTNVDSVGLITARTGVRVTAGGLVVTA
+                     GVSTFSNQLNIGSNIKAGTAGVVTATSFSGSGANLTGIENNPGLRTDRGQGRNT
+                     IGGSSAGGALASGDGSWENTFIGFDAGKLNSGGDYNTFIGAYVGDANTTGGYNS
+                     VLGRQAFSANTVGMHNVAVGVNALLGNTTGSNNTAIGNYTLDANTTANDNTALG
+                     YGALSANTTSSGNTGIGVSALASQSSGGEWSTAVGHHAGKSITGGDENTAIGAF
+ORIGIN               
+        1 CAAATGCGCC TATGGCAGTG TTTTCATCTC CTCCTGTAAT TGATTTTCCA GCATGATGAC 
+       61 CAACAGCAGT ACTCCATTCA CCACCACTGC TTTGTGAAGC TAATGCACTA ACACCAATAC 
+      121 CAGTATTACC AGATGATGTT GTATTTGCAG ATAATGCACC ATAACCAAGA GCAGTATTAT 
+      181 CATTTGCAGT TGTATTTGCA TCTAATGTAT AATTACCAAT AGCAGTATTA TTAGATCCTG 
+      241 TTGTGTTTCC TAATAATGCA TTTACACCAA CAGCAACGTT ATGCATACCT ACTGTATTTG 
+      301 CACTGAATGC TTGTCTACCA AGAACACTAT TATAACCACC TGTTGTGTTT GCATCCCCAA 
+      361 CATATGCACC AATAAAAGTA TTATAATCTC CACCCGAATT TAATTTTCCT GCATCAAATC 
+      421 CTATAAAAGT ATTTTCCCAT GATCCATCAC CAGAAGCAAG AGCTCCTCCA GCACTTGAAC 
+      481 CACCGATAGT ATTACGACCC TGACCTCTAT CAGTACGCAA TCCTGGATTA TTCTCAATAC 
+      541 CTGTTAAGTT TGCACCACTA CCACTAAAAC TTGTAGCAGT TACAACACCA GCAGTTCCAG 
+      601 CTTTGATATT TGATCCAATA TTTAATTGAT TTGAAAAAGT TGAAACACCA GCAGTTACAA 
+      661 CTAAACCACC AGCAGTTACT CTTACTCCTG TTCTTGCAGT TATTAAACCT ACCGAGTCTA 
+      721 CATTCGTTAC GTCTTCATAT GTTATTGTTC CCAGCACAGA TACAGCACCT GTT
+//
+LOCUS       chlorophyllmax_130m_553   748 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..748
+                     /organism="1..748"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(65..205)
+                     /locus_tag="chlorophyllmax_130m_553_0"
+     CDS             complement(65..205)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_553_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+     gene            complement(202..429)
+                     /locus_tag="chlorophyllmax_130m_553_1"
+     CDS             complement(202..429)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_553_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MTRLEFTSEELLADDDHEAPLSVGAVWYHGGYINGTYVSPR
+                     GLHRRPAIGEWRQRLRDEGAALIHIPDTYVPPYG
+     gene            complement(426..551)
+                     /locus_tag="chlorophyllmax_130m_553_2"
+     CDS             complement(426..551)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_553_2"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+ORIGIN               
+        1 GTCTCAATCC GGCCGGCCTC CGCCACTGGC GCGTCGGTCA GCCCCGCGTT TTGTTGTGTT 
+       61 CCGCTCAAAA TGTTCCCCCT GTCATCCTGT CAGCCAAGCC CCAGCGTATT AGCCAATTCA 
+      121 TCAGCTGATC GATCTCAATG CCAGCATCAA GAATCACGGC CCGGTCAGTA ATCTTGAACC 
+      181 CTTCAACAAA CGCCATAAAG ATCACCCGTA CGGGGGTACA TAGGTATCCG GAATGTGAAT 
+      241 TAGCGCGGCG CCCTCGTCGC GTAGTCGTTG TCGCCACTCT CCGATCGCGG GCCGACGGTG 
+      301 CAATCCGCGC GGCGAAACAT ACGTGCCGTT GATATAGCCG CCGTGATACC ACACCGCACC 
+      361 AACCGATAGG GGCGCCTCAT GGTCGTCGTC CGCGAGGAGT TCCTCAGAAG TGAATTCAAG 
+      421 CCGTGTCATT CGTTCCCTCC ATTGCCCCTC AGATCGCGCC CCGCGATTGC CCCAGCCATG 
+      481 GCCTGGTGCT CGCCGCCTGC CACAGCAAGG CCCGCCTCGT CCACAAAATC CACACCTAGC 
+      541 AACTCGCCCA TATGAGTTCC TCTCGAAGCA ATCGATGAAC TGATGCCGGC ACCGCCGCCG 
+      601 TCAAACCGTG CGGGACATAC TCATGCTGGA GGCAAGTAGT TTGGCCTAAT CTCGCTGATG 
+      661 CTGCGCAACT TTTTCCGCAA TCAGGCGCTT CTGTGAATCA GTCAGAGCCG TGTCCTGCAC 
+      721 CTCGATCCGC GGTGCAAACA CATAGGGT
+//
+LOCUS       chlorophyllmax_130m_554   763 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..763
+                     /organism="1..763"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(2..658)
+                     /locus_tag="chlorophyllmax_130m_554_0"
+     CDS             complement(2..658)
+                     /product=bioA adenosylmethionine-8-amino-7-oxononanoat
+                     e transaminase (EC:2.6.1.62) K00833 aminotransferase [
+                     EC:2.6.1.62]
+                     /locus_tag="chlorophyllmax_130m_554_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MPSRTQYLSDIDSSHVWHPFTQMQDYVSSNPIIIERGEGVY
+                     LYDTDGNRYLDAFSSVWCNVHGHRVPAIDEAIHEQLDQIGHSTLLGLGNVPSIE
+                     LASKLVNITPEGLNHVFYSDSGATAVEVAIKIAYQYWQQREDPRPQKTKFLHIA
+                     SSYHGDTVGTVSVGGIDLFHKAYGPLLFETLAVPAPHPYRCSFCSEAIECNQGC
+                     TQALEETLERHGDTIA
+ORIGIN               
+        1 CCGCGATCGT GTCACCGTGT CGTTCGAGGG TCTCTTCGAG CGCCTGGGTG CATCCCTGAT 
+       61 TGCACTCGAT CGCTTCCGAG CAGAACGAAC AGCGATAGGG GTGCGGTGCG GGCACGGCCA 
+      121 GCGTCTCGAA CAGTAAGGGC CCATATGCCT TGTGGAAAAG GTCGATGCCG CCGACACTGA 
+      181 CGGTTCCGAC CGTATCGCCG TGGTAGCTGG AGGCGATGTG GAGGAACTTC GTCTTCTGAG 
+      241 GGCGTGGATC CTCCCGCTGC TGCCAGTACT GGTAAGCGAT CTTGATCGCC ACCTCGACGG 
+      301 CGGTTGCCCC ACTGTCCGAG TAGAAGACGT GGTTGAGGCC TTCCGGAGTG ATGTTGACCA 
+      361 ATTTGCTGGC TAGCTCGATA GACGGAACGT TCCCCAGCCC CAGGAGCGTA CTGTGGCCGA 
+      421 TCTGGTCAAG TTGCTCGTGG ATGGCCTCGT CGATGGCTGG TACACGGTGG CCGTGTACGT 
+      481 TGCACCAGAC GGACGAGAAG GCGTCCAGAT ACCGATTACC GTCGGTGTCG TACAGGTATA 
+      541 CGCCCTCCCC GCGTTCGATG ATGATCGGGT TCGAAGAGAC GTAGTCCTGC ATCTGGGTAA 
+      601 ACGGATGCCA GACGTGACTG CTGTCGATGT CGCTGAGGTA TTGTGTACGA GAAGGCATTT 
+      661 GCTTGGCCCG TTCGGTGGAT AGGCTGAGAA GTGAATGTAT GGGCTCGCTC CTTGAGATCC 
+      721 AGCTTCAGGG CACAGGTTAC AGGCTTAATC CGCTATGTGG CCC
+//
+LOCUS       chlorophyllmax_130m_555   579 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..579
+                     /organism="1..579"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(26..568)
+                     /locus_tag="chlorophyllmax_130m_555_0"
+     CDS             complement(26..568)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_555_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MQDLVAEYAPWYPTKSEDGGTRVIDVGGMSVVPGFVDSHTH
+                     LVWSGDRSNELAMRISGKTYKEIAKIGGGIMKTVNSTRSTPQNHIVESGLRRLE
+                     TAMKNGTTSIEAKSGYGLDLDSEVKLLESISVIDRMSACDVQATWLGAHDFPKE
+                     MSRDEYVEHLITEQLPVVSELVSGKMGRRFL
+ORIGIN               
+        1 TTGCTCGTTA GTGTACCACC CTTCTTCACA GAAAACGTCT ACCCATTTTG CCAGAGACCA 
+       61 ATTCGGAAAC AACAGGCAAT TGTTCGGTTA TGAGATGTTC TACATACTCA TCCCTAGACA 
+      121 TCTCTTTGGG AAAATCGTGT GCTCCCAGCC AAGTTGCTTG AACGTCGCAA GCGGACATCC 
+      181 TGTCTATCAC AGATATTGAC TCAAGAAGCT TAACTTCAGA GTCTAAATCC AATCCATAAC 
+      241 CACTCTTAGC TTCGATCGAA GTTGTCCCGT TTTTCATTGC CGTCTCGAGC CTTCTGAGAC 
+      301 CACTTTCGAC AATATGATTC TGGGGAGTAC TTCGAGTACT GTTCACAGTC TTCATTATCC 
+      361 CGCCTCCAAT CTTGGCGATT TCTTTGTACG TCTTTCCTGA TATCCTCATG GCTAGCTCAT 
+      421 TTGATCTATC CCCAGACCAA ACTAGATGTG TGTGACTGTC TACGAATCCG GGCACGACAG 
+      481 ACATTCCTCC GACATCAATC ACCCTAGTTC CGCCATCCTC ACTCTTGGTT GGGTACCATG 
+      541 GAGCATACTC GGCAACCAGA TCTTGCATTG GCTCGATTT
+//
+LOCUS       chlorophyllmax_130m_556   746 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..746
+                     /organism="1..746"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(3..425)
+                     /locus_tag="chlorophyllmax_130m_556_0"
+     CDS             complement(3..425)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_556_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MVMTPTKKRPSNLGSRATLAFSKTSSGAGSIVFQHYGFDVI
+                     QYLSTVEHCPTATLCQLVGSGHRCPRQQQLTSDTHARVRCHSPYRRTRTVLKEL
+                     GTLSHADEAAAMLDTVDSDLAGVHFNLPISTWWEPEPRTVNLDAIL
+ORIGIN               
+        1 GCCAGGATCG CATCCAGGTT TACCGTCCTT GGCTCCGGCT CCCACCAGGT TGATATAGGC 
+       61 AGATTGAAGT GAACCCCAGC GAGGTCCGAA TCCACGGTGT CGAGCATGGC GGCTGCTTCA 
+      121 TCAGCGTGGC TGAGGGTTCC GAGCTCTTTT AGCACGGTCC TGGTCCGTCT ATATGGGGAG 
+      181 TGGCATCTTA CACGTGCGTG GGTGTCCGAC GTAAGCTGCT GCTGGCGTGG GCAACGATGT 
+      241 CCCGACCCTA CTAGCTGACA TAGGGTGGCA GTGGGACAAT GTTCGACGGT CGACAGATAC 
+      301 TGGATGACGT CAAAGCCATA GTGCTGAAAT ACGATGCTCC CAGCCCCCGA ACTTGTTTTT 
+      361 GAGAAGGCCA GAGTCGCTCG CGATCCGAGG TTTGACGGAC GCTTCTTTGT TGGCGTCATT 
+      421 ACCATAGGCA TTCACTGCTG CCCGACATTA CAGGTACGTA TGCCCGCAGC AGGCCTTGTT 
+      481 AGATTGCGCG GCTCTGCGAC CGCCGCGATG GAAACTGGCT ATAGGCCCTG CCTGCGTTGC 
+      541 CGCCCCGAGT CAGCTCCGGG TACGCCTACC TGTTGGGATG GCACCTCGGC ACCCGCTATT 
+      601 GGACAACAGA TGTTCACCGA GACTTAGCTC TCCGTGAGCG AGATTGCCAT GGCAGCCGGG 
+      661 TATAGGAACA TCAGGAACTT CAGCGCTCAT AATGGGTAGG TCTATGCCCG TTTATCGACG 
+      721 AAACTGCGAG GCTACGTAGT CGAAGC
+//
+LOCUS       chlorophyllmax_130m_557   852 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..852
+                     /organism="1..852"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..639
+                     /locus_tag="chlorophyllmax_130m_557_0"
+     CDS             1..639
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_557_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MKADYVELSAGEHRRLGELFHLVNRYDWAEDCFQRANDLNP
+                     EDESSLRALSSIQRENGDLEALDRTLERLLAITPDDVSVLDEQTLLLDGREDDR
+                     ISRNRKRLDALGISSEASQEQSELSQIAQRARESIDGEKSLSGQPLSANRLVER
+                     AAKQLLIGEISAATESVEKAIEYDANFGQAWALKARLLAAGKGGTKDALKCIRR
+                     AHALGEYTL
+     gene            642..851
+                     /locus_tag="chlorophyllmax_130m_557_1"
+     CDS             642..851
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_557_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MESEILENDGRTDAAIEVLDEHLTQTPGDAEARGKLSQIWL
+                     SQGATESSKKDLDDAPEESWEISTMHVM
+ORIGIN               
+        1 ATGAAAGCCG ATTACGTCGA GCTTTCTGCT GGAGAGCACA GGAGGCTTGG TGAGTTGTTC 
+       61 CATCTGGTAA ACAGGTATGA CTGGGCCGAA GACTGCTTCC AGAGGGCCAA TGATTTGAAT 
+      121 CCGGAAGACG AATCTTCATT GCGGGCACTA TCTTCTATCC AAAGAGAGAA TGGCGATTTG 
+      181 GAAGCTCTAG ACAGAACTCT GGAGAGATTG CTGGCAATCA CTCCCGACGA CGTCAGTGTT 
+      241 CTCGACGAGC AGACATTGCT ACTAGATGGA AGAGAAGATG ATAGAATTAG TAGGAATAGA 
+      301 AAGAGGCTAG ATGCTCTCGG AATCTCTTCA GAAGCTTCAC AAGAACAATC CGAACTATCG 
+      361 CAGATTGCCC AGAGAGCCAG AGAGTCGATA GATGGCGAGA AATCTCTTTC TGGCCAACCA 
+      421 CTTAGTGCAA ACAGGTTGGT AGAGCGTGCA GCAAAGCAAC TGCTCATTGG GGAGATTAGT 
+      481 GCTGCGACTG AATCCGTGGA AAAGGCAATA GAATATGATG CGAATTTTGG CCAAGCATGG 
+      541 GCACTAAAGG CAAGACTTCT GGCTGCAGGC AAGGGTGGAA CTAAGGACGC GTTAAAGTGC 
+      601 ATTAGACGAG CACACGCTCT TGGCGAGTAC ACTCTGTAGT AATGGAATCC GAGATTCTAG 
+      661 AGAATGATGG AAGAACAGAC GCTGCCATAG AAGTACTAGA TGAGCATCTG ACCCAGACTC 
+      721 CGGGAGATGC CGAAGCTAGG GGCAAACTAA GCCAGATTTG GCTCAGCCAG GGGGCTACAG 
+      781 AATCATCCAA GAAGGACCTA GATGATGCAC CCGAGGAATC TTGGGAAATC AGCACAATGC 
+      841 ACGTGATGAA GG
+//
+LOCUS       chlorophyllmax_130m_5068   529 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..529
+                     /organism="1..529"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(460..528)
+                     /locus_tag="chlorophyllmax_130m_5068_0"
+     CDS             complement(460..528)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_5068_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+ORIGIN               
+        1 GCGTTGTCCT CGTGTCCGTG CTAGAGTGAA ACCTTTTCGA CGATCCCCAT ATCTCCCTTC 
+       61 CTGTTTTACA TTGTCTCTTT CTGTAATTAT GTAATATTCC TTCGTCTCTT ACTATTCTTC 
+      121 TATATATTCT CTTTTTTAAT TCGTTCCATA TGATACTCGC CGACTCTTAT TACTTGTCGT 
+      181 ATGTCCCTTT TTCTATAATT ATTTTGTCAT TTTTTTCCTT CTCCTCTATT TATCTTCTTT 
+      241 TTTTCTTCTC ATTTTGTTGT TTTCTTTCTT TTTTTTCTTC CTACCTTACC GCTTCTTTTC 
+      301 TTCTTTTTTA TCCTCTTTAT CCTCGTTCTC TTTCTCATCT CCTATTCTTT CATATCTTCT 
+      361 TTCTGTGCTG ATTTGTCTTA TTGACTCTTC TACTGTCTTC GTTTATCTTT TCTTTCTGTT 
+      421 CACCTTTTTT ATTTTTTCCA AATTGTTTTT CCTGCTGTGT CACTGTTTCC TTCCATTTTG 
+      481 ATTATTTCTA GTTTTTTCTT TTATTCTTAT TTCCTTTGTT TTTGTATTT
+//
+LOCUS       chlorophyllmax_130m_5069   939 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..939
+                     /organism="1..939"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(3..128)
+                     /locus_tag="chlorophyllmax_130m_5069_0"
+     CDS             complement(3..128)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_5069_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+     gene            168..635
+                     /locus_tag="chlorophyllmax_130m_5069_1"
+     CDS             168..635
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_5069_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=VLKDEPSRDAARAKVKAEKDWLDGELRPLVLEAYLLKELLA
+                     RVKKGLPPKRKRKPSAPSTSARKRPRTSGQRAATVVHRRAGWRFALAGANEATV
+                     AETDAIVACTDLPKKLVRSAGERARFFWDPKVDRDAIMASLFEHDCDGNVSVLL
+                     FHGTSL
+ORIGIN               
+        1 CCCCGACGGC GCGGCTTCTC GAAATCGAGC TTGACGCCAA GGCGACCCAG ATCAAATGAG 
+       61 CCTGCGAGGC TCATGACTGG CCCGTCGATC GCGCGCTCGG CCTCCTCACG AAACTTCCAA 
+      121 GCGTCCATGG AGTCGGACGA TGGTCGCAAG ATTGGTGGAC GCGAGCCGTG CTCAAGGACG 
+      181 AGCCGTCCCG CGACGCCGCC AGAGCGAAGG TGAAAGCCGA GAAGGACTGG CTCGACGGCG 
+      241 AGCTCCGGCC GCTCGTGCTC GAGGCCTATT TGCTCAAGGA GCTGTTAGCA CGCGTCAAGA 
+      301 AAGGCCTGCC GCCCAAGCGC AAGCGCAAGC CGTCAGCGCC GAGCACTAGC GCTCGCAAGC 
+      361 GCCCCAGGAC CTCCGGCCAG CGGGCGGCCA CTGTCGTCCA CCGTCGCGCG GGCTGGAGGT 
+      421 TTGCCTTGGC CGGCGCCAAC GAGGCGACGG TAGCCGAGAC CGACGCGATC GTGGCCTGCA 
+      481 CGGACCTGCC GAAGAAGCTC GTCCGTAGCG CTGGAGAGCG TGCACGCTTC TTCTGGGACC 
+      541 CGAAAGTCGA CCGCGACGCC ATCATGGCGT CGCTGTTCGA GCACGATTGC GACGGCAACG 
+      601 TATCGGTACT TCTGTTCCAC GGCACGTCTT TGTAGAACGC TCAAAGCATT GCGGCGGAGG 
+      661 GCTTTTTTTT TGGAAGTCCA AAACGAAACC ATTGATGCCC TTGGCCAGGG GGTCCCCTAT 
+      721 TCCTCCCGTC CCTCTTCGGG GACGGTCGGT CGCATTATTT TGAAACTCTC TTCAACCTTG 
+      781 TTTCTCCGGG GGAGAGCGAC CTGTCCCCAT CCTTGAACCT TGTTCGGGTT TTTTGGGTGT 
+      841 TCGGTTTCCA AATTCCCTTC GATGAGGCTC TCTCAATGTG TAATTCCTTT ACCCTTCTCT 
+      901 CTGCTTTTCT TCCTTATACT TTATTTTATT TTGTCTTTC
+//
+LOCUS       chlorophyllmax_130m_5062   769 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..769
+                     /organism="1..769"
+                     /strain="1"
+                     /chromosome="1"
+     gene            2..769
+                     /locus_tag="chlorophyllmax_130m_5062_0"
+     CDS             2..769
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_5062_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=LENLIACSRGTQTRIAAAIDREIEISGAAFALGGGVDAILI
+                     PGGLVDDAIKFLGDRWTKEDPPENTEINPTEARILSMESAGVGERVCIDLTRRI
+                     NEGQGAATGSISGKLCLIHGETISSEYVPNRPFRINAGAIHSYILMADGRTKYM
+                     SELETGDEIAILSSPGYIETAVVGRLKIEMRPLLVVRFEISGEEGQTVVQQAET
+                     VRFVSPTGTAVSVTDAKAGDKITVFTDDRVRHTGIALDGGDGGEILFFFFIF
+ORIGIN               
+        1 CCTCGAGAAT CTAATCGCAT GTTCCAGAGG GACTCAGACA AGAATCGCCG CAGCAATAGA 
+       61 TAGAGAAATA GAAATTTCCG GAGCAGCATT TGCACTTGGA GGGGGTGTCG ATGCTATCCT 
+      121 GATACCAGGA GGTTTGGTAG ACGATGCGAT CAAGTTTCTG GGAGACAGAT GGACGAAGGA 
+      181 AGATCCTCCC GAGAATACAG AAATCAACCC CACAGAGGCA AGAATCCTAT CTATGGAGAG 
+      241 TGCAGGTGTT GGTGAGAGAG TATGTATAGA TCTGACAAGA AGGATAAACG AAGGACAAGG 
+      301 GGCAGCGACT GGCTCTATCT CAGGAAAATT ATGCCTAATA CATGGTGAAA CTATTTCCTC 
+      361 AGAATATGTT CCCAATAGGC CATTCAGGAT AAATGCTGGA GCGATTCACT CTTACATCCT 
+      421 AATGGCAGAT GGAAGAACGA AGTACATGAG CGAATTAGAA ACTGGTGACG AAATAGCAAT 
+      481 CCTGTCATCG CCCGGATATA TCGAAACTGC CGTTGTAGGC CGGTTGAAGA TCGAAATGCG 
+      541 CCCCCTTCTC GTTGTCAGAT TCGAGATTTC TGGAGAAGAG GGCCAGACAG TAGTACAGCA 
+      601 AGCAGAGACA GTTAGATTTG TTTCCCCAAC GGGGACAGCC GTTTCAGTAA CAGATGCAAA 
+      661 GGCTGGAGAC AAGATAACCG TATTCACAGA CGATAGAGTC AGGCACACCG GAATCGCACT 
+      721 AGATGGGGGG GATGGTGGAG AAATTCTCTT TTTTTTTTTT ATTTTTTTA
+//
+LOCUS       chlorophyllmax_130m_5063   943 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..943
+                     /organism="1..943"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..357
+                     /locus_tag="chlorophyllmax_130m_5063_0"
+     CDS             1..357
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_5063_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=PYVEVYVGATVCWIWNDESMAHNVAQIAMEGDTTRYMGGVY
+                     SGESMTTVDYRYTFDIDQTFNYICEPHATSGMAGQIVVGEGSIVEPEEESNNTP
+                     GFSAGIAALAVIGALMIAGRRLR
+ORIGIN               
+        1 CCATACGTGG AAGTCTATGT AGGAGCAACC GTATGTTGGA TTTGGAACGA CGAATCCATG 
+       61 GCCCACAATG TAGCACAGAT TGCTATGGAA GGCGATACTA CTCGTTACAT GGGTGGTGTA 
+      121 TACAGTGGTG AATCAATGAC AACTGTCGAT TACAGATACA CCTTCGATAT CGATCAAACA 
+      181 TTCAACTACA TCTGTGAACC ACACGCTACC TCCGGAATGG CGGGACAGAT TGTGGTTGGC 
+      241 GAAGGTTCCA TCGTAGAGCC AGAAGAGGAG TCAAACAACA CTCCTGGATT CTCTGCTGGA 
+      301 ATCGCTGCAT TAGCAGTCAT CGGTGCATTG ATGATAGCCG GTCGTAGACT GCGCTAAATC 
+      361 AGCGCTTAAG CAATTACGTA ACCCTTGCTG GGGGATGAGA AAATAACTCT CCCAGCGAGG 
+      421 GACCCTTAGG GGTACTATAC AGAAGGGGTC CAACCGAAGG TATCCGTAGT CCGTCCTTCT 
+      481 TGAATTGCTG TTAGTGCATC ATAGAGTTGC TTGGTTATGG CGCCGACTTC TCCATCACAA 
+      541 TAAGTTGCGA TACTACCGCC ATGTTCAATT GAACCAATCG GGGAGATTAC AGCAGCCGTA 
+      601 CCAGCACAAA ATGCTTCATC AGCATCCATT GCAAAATCGA TGTCTACCTT AGTCTCGAGA 
+      661 ACTTGGTAGC CTAGACTTCG AGCCAATTCG ATAACCCGAA AGTCGAGTAA TTTCTGGAAG 
+      721 GATAGTTCCA GTTTACTCAG GAATGTAGAG GGGCCTTATC CTTGATACAA AAGAAGTTTG 
+      781 GCTGCCCCAA CTTCTTCGAA CTAGCGATGA TTGACTGCAT CAAGATAAAT AATCTCAGCT 
+      841 CATCCGTCAG CCTTTTCGTT CTTTGAAGGC ATCATTTCCC GGCGCATAGT TTCCCAATGC 
+      901 CTTTACCCCC CCAAAGCCAC CTGGGGCGGG CTCTTTGAAA TTC
+//
+LOCUS       chlorophyllmax_130m_5060   930 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..930
+                     /organism="1..930"
+                     /strain="1"
+                     /chromosome="1"
+     gene            2..661
+                     /locus_tag="chlorophyllmax_130m_5060_0"
+     CDS             2..661
+                     /product=glycosyl transferase family 2
+                     /locus_tag="chlorophyllmax_130m_5060_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=GRGSPLNEGESIGPTIDQIPRDLPWLDVKVLIVDGNSTDNT
+                     AEEAEKRGAIVHNEPRKGYGRAYKTGFSLVDTDYVATIDGDTTYPADKIPHVLA
+                     FLINNNLDFVTCNRLDRMDSDAMSITHQIGNWGLTFGTNLFHGINIKDSQSGMW
+                     VFKKEVIGKVELTSDGMPLSEEFKIEAFKRGLRAVEIPVPFHARVGEVKLNTWE
+                     DGIWNLWFLVTKMRDF
+     gene            complement(662..913)
+                     /locus_tag="chlorophyllmax_130m_5060_1"
+     CDS             complement(662..913)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_5060_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MGGPYTYSSGTPTNFNDIQVGQVSLSLILDASEFYESEGSG
+                     DYTVFFDFTNDFGSDSSTFDGRTYWAWFHVCETRSNGLCNNS
+ORIGIN               
+        1 CGGACGGGGA TCACCACTAA ATGAAGGAGA ATCAATAGGG CCTACAATTG ATCAAATCCC 
+       61 ACGAGATTTA CCTTGGTTAG ATGTTAAAGT CTTAATTGTT GATGGAAATT CAACAGATAA 
+      121 TACTGCAGAA GAAGCTGAGA AAAGAGGAGC AATTGTTCAC AATGAACCTA GGAAAGGTTA 
+      181 TGGAAGGGCA TACAAAACTG GATTCAGTTT AGTAGATACT GACTATGTGG CCACAATTGA 
+      241 TGGAGATACT ACATATCCTG CTGATAAGAT ACCACACGTC CTTGCTTTTT TGATTAATAA 
+      301 CAACCTAGAT TTTGTAACAT GTAATAGATT AGACAGAATG GACTCGGATG CAATGTCTAT 
+      361 AACTCATCAA ATTGGTAATT GGGGATTAAC ATTTGGAACA AATTTATTCC ATGGAATTAA 
+      421 TATTAAAGAT TCACAAAGTG GAATGTGGGT TTTCAAGAAA GAAGTAATCG GCAAAGTAGA 
+      481 ATTGACGAGT GATGGTATGC CACTATCTGA AGAATTTAAG ATTGAAGCTT TCAAAAGAGG 
+      541 ATTAAGAGCT GTAGAAATTC CGGTACCATT TCATGCAAGA GTGGGTGAAG TTAAGCTAAA 
+      601 TACTTGGGAA GATGGAATCT GGAATCTTTG GTTTTTAGTT ACTAAAATGA GAGATTTTTA 
+      661 ACTAACTATT GTTACACAGG CCATTGCTTC TAGTTTCACA TACATGAAAC CAAGCCCAGT 
+      721 AAGTGCGCCC ATCAAAAGTT GAGCTATCTG AACCAAAATC GTTTGTAAAA TCGAAAAACA 
+      781 CAGTGTAGTC TCCACTGCCC TCAGATTCAT AAAACTCACT TGCATCCAAG ATTAAACTCA 
+      841 AACTAACTTG ACCAACTTGG ATATCATTGA AATTTGTTGG TGTTCCCGAT GAATAGGTAT 
+      901 AGGGACCCCC CATTGCTATT TATTTCAAAA
+//
+LOCUS       chlorophyllmax_130m_5061   942 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..942
+                     /organism="1..942"
+                     /strain="1"
+                     /chromosome="1"
+     gene            248..802
+                     /locus_tag="chlorophyllmax_130m_5061_0"
+     CDS             248..802
+                     /product=ABC-type transport system involved cytochrome
+                      c biogenesis, permease component K02195 heme exporter
+                      protein C
+                     /locus_tag="chlorophyllmax_130m_5061_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MFKLLEPNKIFSVTSKAPKYVLFLFIVVLSVGLTEALILSP
+                     EDYKQSHAVRIMYVHVPAAWITLGIFSSITFLSILGYIFKIKNFFLIAKSLAPS
+                     GFVFNIIALVTGSIWGKPTWGTWWAWDARITSMLILALFYLMYLLAWRIYEKKE
+                     PLYKITAIITILGNINIPIITTQLIGGYTPSTCFN
+ORIGIN               
+        1 ACATCCATTA ATTGAGTAAA TTTTTTCTGG TAAAAAAGGA TCAAGCTATT TTAAGCTTTC 
+       61 AAATTAGAAA AATCACCTTT TTAAACACAT TTAGCTCAAA TCTTCGACAC AGCAATTCAT 
+      121 TATGATAAAG CTAATTCTGA TCAAGAGTGT AAACTTTTTA CCCTTCGTTA TTATCTCCCT 
+      181 CAACATTCTT GATCAGACTT TAAATTCATA ATAAATAATC TTAAACCATA TTAAAAAAAT 
+      241 AAAATTTATG TTTAAGCTTT TAGAACCTAA TAAAATCTTC TCTGTTACAT CTAAAGCCCC 
+      301 AAAATATGTT TTATTTTTAT TTATTGTTGT TTTGTCAGTA GGATTAACTG AAGCTCTAAT 
+      361 TTTATCTCCT GAAGATTATA AACAAAGTCA TGCTGTAAGA ATTATGTATG TTCATGTTCC 
+      421 TGCAGCCTGG ATCACGCTTG GCATTTTTTC CTCAATTACC TTTTTATCAA TTTTAGGATA 
+      481 TATTTTTAAA ATTAAAAATT TCTTTTTAAT TGCAAAAAGT TTAGCTCCAT CAGGTTTTGT 
+      541 GTTTAATATA ATAGCACTGG TTACAGGTTC TATTTGGGGA AAACCAACCT GGGGAACTTG 
+      601 GTGGGCTTGG GACGCAAGAA TAACTTCTAT GTTAATTTTA GCCTTATTTT ATTTAATGTA 
+      661 TTTACTTGCT TGGAGAATTT ATGAAAAGAA AGAACCATTA TATAAAATTA CTGCAATAAT 
+      721 AACAATTTTG GGGAATATAA ATATTCCAAT AATAACTACT CAGTTGATTG GGGGATACAC 
+      781 TCCATCAACC TGCTTCAATT AACATATTAT CAAAAACCTC GATTCATTCC TCATGTACAT 
+      841 TCCATATTTA TAATGACTGG CGGAATTTGC CTGGTCCCAT TACTTATTTT TTTGAGGGAA 
+      901 TATAATTCCG GAACTGGATA AAAATTTAAA ATTAAAGGCT TA
+//
+LOCUS       chlorophyllmax_130m_5066  1028 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..1028
+                     /organism="1..1028"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..597
+                     /locus_tag="chlorophyllmax_130m_5066_0"
+     CDS             1..597
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_5066_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=TDTSVLSGGRGAQRNLSGGLKNPEGRRNSREFRKFSGGCTK
+                     IPPPKFGRGGFSPLGVKNKLSQKGVFLCEYSPRPPERKIFPQKRIFFGGGGVSG
+                     GEKNSSKKILCPPGGPKTPPLCVGGGGVFSPLPRGGGPKKTLGGFFKKRFFPPA
+                     PPHTKGERGGGGVSLLPSKKKKNTTLVGGGGGKKKLFFFFSGAGGGGRK
+ORIGIN               
+        1 ACGGACACAT CTGTCCTTTC GGGCGGCCGG GGGGCCCAAC GGAACCTTTC CGGGGGTTTA 
+       61 AAAAACCCTG AGGGAAGGAG AAATTCCCGG GAGTTCCGGA AATTCTCCGG GGGTTGTACA 
+      121 AAAATTCCCC CCCCCAAATT TGGGCGGGGG GGTTTTTCCC CTCTGGGAGT AAAAAACAAA 
+      181 CTTTCCCAAA AAGGCGTCTT TCTGTGTGAA TATTCTCCGC GCCCCCCCGA AAGAAAAATT 
+      241 TTTCCACAAA AAAGGATTTT TTTTGGGGGG GGGGGGGTGT CGGGGGGGGA AAAAAATTCT 
+      301 TCTAAAAAAA TATTGTGCCC CCCGGGGGGC CCAAAAACCC CCCCTCTTTG TGTGGGGGGG 
+      361 GGGGGGGTTT TTTCTCCTTT ACCCCGGGGG GGGGGGCCCA AAAAAACCCT TGGGGGGTTT 
+      421 TTTAAAAAGA GGTTTTTTCC CCCGGCCCCC CCACACACAA AAGGAGAGAG GGGGGGGGGG 
+      481 GGGGTTTCTC TCCTCCCATC CAAAAAAAAA AAAAACACAA CTCTTGTGGG GGGGGGGGGA 
+      541 GGAAAAAAAA AATTATTTTT TTTTTTTTCG GGGGCGGGGG GGGGGGGGAG GAAATAATTT 
+      601 TTTTTTTTCT TTTTAAGGAG AAAAAAAAAA TTATAATTTT TTTTTTTTTT TTTTTTCCAA 
+      661 CAATAAGGGG GTGTGTTTCC TTTTATATCA ATATAACTGG GTGGGTGTAA TTAGTATTTT 
+      721 TTTCTTTTTT TTTATTTTAA TATTTTATTT TTTTTTCTCT TCCCCCTTAG TTGGTGGTGT 
+      781 GTTTATATAT TTTATTAATT TTTTCGTTTG TTTTTGTTTT GTTTTTTTTT TTTATTTCCC 
+      841 TTTCTTTTGT ATTCTTGATT ATCCTTATCT CTACAAGTGT TGTTTCATCT TTTCTCTTTC 
+      901 CTTTTTATGA CTTTGTTTTT TTTCTTTTTT TTTCTTTTTT TTTATTCTAG TATTTTATTC 
+      961 TTTCTTCTAG TCTTATTTTA GTTTAGTTTT TTCTATTTTA TGTGCTTTTA TTTTGTTTTT 
+     1021 TTTTGTTT
+//
+LOCUS       chlorophyllmax_130m_5067   954 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..954
+                     /organism="1..954"
+                     /strain="1"
+                     /chromosome="1"
+     gene            2..820
+                     /locus_tag="chlorophyllmax_130m_5067_0"
+     CDS             2..820
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_5067_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=SGDPPESGAQGTGKEVEVGPVEPLNLGAGPELAQAVVAENT
+                     EGGPEKSDNAAQGPATTTPDLPSALNAEMLLPLAPQQQQQPLAPRHSGHVTTFM
+                     FKKEKQLRTILFRLLHQLNLLNFEGTPHDVPSVHNVIIDPRTGALSMQSVGSKY
+                     DATRLVSQGHPRAGWAPEICLQWLEQQHQKQQPGAFQSKEDNPVFVPLAKADTW
+                     AVGVLLCDLLGLVLPWHDEMTNVKGTSSFSPSSSPPPRLIPDCIVRWGIDHIED
+                     SVGIFLHARRTTVCT
+ORIGIN               
+        1 GTCCGGGGAT CCACCCGAGT CGGGAGCGCA GGGAACTGGG AAGGAGGTGG AGGTCGGCCC 
+       61 TGTCGAGCCG TTAAACTTGG GGGCGGGACC AGAACTAGCC CAAGCTGTGG TGGCGGAAAA 
+      121 TACAGAGGGC GGGCCCGAGA AAAGTGATAA CGCTGCGCAA GGTCCGGCCA CCACCACACC 
+      181 AGATCTACCC TCTGCACTCA ACGCTGAAAT GCTCCTGCCA CTGGCCCCGC AACAACAGCA 
+      241 ACAGCCTTTG GCCCCACGTC ACAGCGGCCA CGTCACCACA TTTATGTTCA AGAAGGAAAA 
+      301 GCAACTTCGC ACCATCCTGT TCCGTCTATT GCACCAGCTG AACCTGCTGA ATTTTGAAGG 
+      361 AACGCCGCAT GACGTGCCAA GCGTGCATAA TGTCATTATT GATCCGCGTA CTGGCGCACT 
+      421 CTCCATGCAA TCTGTAGGCT CAAAGTACGA TGCCACGCGG CTTGTGTCTC AAGGTCACCC 
+      481 TCGAGCTGGA TGGGCGCCTG AGATCTGTTT GCAGTGGTTA GAGCAACAGC ATCAAAAACA 
+      541 GCAACCAGGG GCATTTCAGT CGAAAGAAGA TAATCCTGTG TTTGTCCCTC TAGCAAAGGC 
+      601 CGACACGTGG GCGGTCGGTG TGTTGCTGTG CGACTTACTG GGCTTGGTGT TGCCCTGGCA 
+      661 CGACGAAATG ACAAACGTAA AAGGAACATC TTCCTTTTCC CCGTCCTCAT CACCACCGCC 
+      721 TAGACTTATA CCAGATTGCA TTGTACGATG GGGTATCGAC CACATTGAAG ATTCGGTGGG 
+      781 GATCTTCCTG CATGCACGAA GGACTACCGT CTGCACTTAG CCCCAGTCTC TCCAATTTTG 
+      841 TTTTCGAATG TCTCTGGGTC TTCCCAACTA GAACAACCGT CCCTCCCCCG AAATGAAAAA 
+      901 GCCCCCCTTT TTTCCCCAAG GCAAACGTGG CTAAAACGGT CCCTGGGTAA TGGG
+//
+LOCUS       chlorophyllmax_130m_5064   914 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..914
+                     /organism="1..914"
+                     /strain="1"
+                     /chromosome="1"
+     gene            13..255
+                     /locus_tag="chlorophyllmax_130m_5064_0"
+     CDS             13..255
+                     /product=Putative cytoplasmic protein [Acetonema longu
+                     m DSM 6540]
+                     /locus_tag="chlorophyllmax_130m_5064_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MSEITMTENPEWTIPSLDYQGVPTGIDIRRVVETGIVPTIN
+                     TGIAHREPGVGQVGAGVVKAPMDCFEKALRALAKRLGVS
+     gene            252..914
+                     /locus_tag="chlorophyllmax_130m_5064_1"
+     CDS             252..914
+                     /product=fdrA putative FdrA
+                     /locus_tag="chlorophyllmax_130m_5064_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MSMTVNLVRRGFFLDSVALMRISRTVAELPNIEDAALMMGT
+                     PSNKQIMRDAGLLTDDGEAALGGDLILGVRGADTAATNAAIAAAAELLDAPKRS
+                     ADDGTVWRPRSLRAAVAAKPDRNFAIISVPGDFAAAEARKALKHGLNVMIFSDN
+                     VPIEEEVSLKAEAQDRGLLLLGPDCGTAIIGGCPLAFANVGRNGDVGVIRASGK
+                     GISGITSLIDRAGGRIF
+ORIGIN               
+        1 ACAACCCACG CGATGTCCGA GATTACGATG ACCGAGAATC CCGAATGGAC TATCCCCTCT 
+       61 CTCGACTATC AGGGCGTGCC GACGGGTATC GATATTCGGC GCGTCGTCGA AACCGGCATT 
+      121 GTACCGACAA TCAATACCGG CATCGCCCAT CGCGAACCGG GTGTCGGACA AGTCGGCGCC 
+      181 GGCGTGGTCA AAGCACCAAT GGATTGTTTC GAAAAAGCTC TGCGCGCCCT CGCAAAACGA 
+      241 TTGGGCGTCT CATGAGCATG ACCGTGAACT TGGTTCGGCG CGGGTTCTTT TTGGATTCTG 
+      301 TTGCACTTAT GCGCATCTCC CGAACCGTCG CTGAGCTGCC GAACATCGAA GATGCCGCTC 
+      361 TGATGATGGG CACGCCTTCC AACAAGCAAA TCATGCGGGA CGCCGGTCTT CTTACGGATG 
+      421 ACGGCGAGGC TGCGCTCGGC GGCGATCTTA TACTTGGCGT TCGCGGCGCC GATACAGCCG 
+      481 CCACGAACGC TGCGATCGCA GCTGCAGCGG AGCTTCTCGA CGCCCCCAAA CGCAGCGCAG 
+      541 ACGACGGAAC CGTTTGGCGG CCGAGATCGC TCCGGGCCGC TGTCGCCGCC AAACCGGACC 
+      601 GAAATTTTGC AATAATCTCG GTCCCTGGGG ACTTCGCCGC GGCCGAGGCC CGCAAAGCCC 
+      661 TTAAACATGG CCTCAATGTT ATGATCTTCA GCGACAACGT GCCGATTGAA GAGGAAGTTT 
+      721 CGCTAAAAGC TGAAGCACAA GACCGCGGTC TGCTCCTTTT GGGGCCCGAT TGCGGCACCG 
+      781 CTATTATCGG GGGGTGTCCA CTGGCTTTTG CAAATGTGGG GCGAAACGGT GATGTCGGCG 
+      841 TCATCCGTGC GTCGGGCAAG GGCATTTCAG GAATAACCAG CCTTATCGAC CGGGCCGGGG 
+      901 GGCGGATATT CCAT
+//
+LOCUS       chlorophyllmax_130m_5065   932 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..932
+                     /organism="1..932"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(1..654)
+                     /locus_tag="chlorophyllmax_130m_5065_0"
+     CDS             complement(1..654)
+                     /product=putative enoyl-CoA isomerase [Ilumatobacter c
+                     occineus]
+                     /locus_tag="chlorophyllmax_130m_5065_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MPHPSMTTEQIDNVLCISVDDGRANAFSTPLLVALSEELAQ
+                     AEADPNIGAVVLSGNDKIFFAGFDLDVINSGDPKAITEMTTAGGAFIRQVYGAS
+                     VPVVAASTGHAVAAGALLLCGCDYRVGVDGPVKIGLNEVAIALTLPKWALLIAS
+                     ERLSKRYLQIAVANAQIFDGRGAVDAGFLDEVAASDQVTARAIEVAQGLAEQLD
+                     AKAYASTVRALRGDL
+     gene            743..931
+                     /locus_tag="chlorophyllmax_130m_5065_1"
+     CDS             743..931
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_5065_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MPTLISDLDLPTVTTDLSLSEAERREALHQLAQDHWIAKGE
+                     LGYVITTHDDCARMLRDRKWV
+ORIGIN               
+        1 CAAATCACCT CGTAAGGCTC GCACAGTTGA CGCGTATGCC TTGGCGTCGA GTTGTTCAGC 
+       61 GAGGCCCTGA GCTACTTCAA TCGCGCGAGC CGTTACTTGG TCTGATGCAG CTACTTCGTC 
+      121 TAGAAATCCT GCATCCACTG CACCGCGGCC ATCAAATATC TGTGCGTTAG CTACAGCAAT 
+      181 TTGTAAATAA CGCTTCGAGA GCCGCTCACT AGCGATCAGC AATGCCCACT TGGGGAGGGT 
+      241 GAGCGCGATA GCAACCTCAT TGAGCCCGAT CTTGACTGGG CCATCTACTC CAACGCGATA 
+      301 GTCACAGCCA CACAAAAGCA ATGCGCCGGC CGCCACGGCA TGCCCAGTGG ACGCCGCTAC 
+      361 GACCGGGACT GAAGCTCCAT AAACTTGTCG GATAAAGGCC CCTCCAGCAG TTGTCATTTC 
+      421 TGTAATTGCT TTGGGGTCAC CTGAATTAAT TACGTCCAAA TCAAACCCGG CAAAAAATAT 
+      481 TTTGTCGTTT CCAGAGAGAA CTACCGCTCC TATGTTGGGA TCAGCTTCCG CTTGAGCTAA 
+      541 CTCTTCACTG AGAGCTACTA AGAGCGGGGT CGAGAAGGCG TTGGCTCTGC CATCGTCAAC 
+      601 GGAAATACAA AGAACGTTGT CGATTTGTTC GGTAGTCATC GATGGATGGG GCATAGCTGC 
+      661 GACCGTAGCG CCATTGTCAT CTATTTGCAG TTAACTCACC TGCTGTTTTC GCTTCAAACT 
+      721 CCTGAATTAC TAGGCTGACT CAATGCCGAC CTTGATTAGC GATCTGGATT TGCCCACCGT 
+      781 CACAACAGAT TTATCTCTTT CAGAGGCAGA ACGACGCGAG GCACTTCACC AACTAGCTCA 
+      841 AGATCATTGG ATCGCTAAAG GCGAACTTGG TTACGTGATC ACTACCCACG ACGACTGTGC 
+      901 CCGCATGCTC CGGGATCGTA AGTGGGTCAG CG
+//
+LOCUS       chlorophyllmax_130m_2870   468 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..468
+                     /organism="1..468"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(2..187)
+                     /locus_tag="chlorophyllmax_130m_2870_0"
+     CDS             complement(2..187)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_2870_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=LLFFWFVRFGLLLVFVCGFFFCFVLGSGVCVAGGGAERAGR
+                     GVSERGGGRGRGAGPPRQSTI
+     gene            complement(194..466)
+                     /locus_tag="chlorophyllmax_130m_2870_1"
+     CDS             complement(194..466)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_2870_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=FVFFLCFCCGCVVFVFLLVVFFVAVVFCVFGVVFLFVVGFF
+                     FVVLWCCVFVVFGGCLLFVLSCSVCCFVLLCGAVLFWCFLFVFVACLGG
+ORIGIN               
+        1 GTATCGTGCT CTGGCGTGGC GGGCCCGCCC CCCGCCCGCG CCCCCCCCCC CGCTCCGAGA 
+       61 CGCCGCGCCC CGCGCGCTCC GCCCCGCCGC CCGCGACGCA GACACCCGAA CCCAACACAA 
+      121 AACAAAAAAA AAACCCACAA ACAAAAACCA ACAACAAACC AAAACGAACA AACCAAAAAA 
+      181 ACAACAAAAC AAACTAACCA CCAAGACACG CAACAAACAC AAACAAAAAA CACCAAAACA 
+      241 ACACAGCACC ACACAACAAA ACGAAACAAC AAACAGAACA CGAAAGAACA AACAACAAAC 
+      301 ACCCACCAAA AACAACAAAA ACACAACACC ACAAAACCAC GAAAAAAAAA CCAACAACAA 
+      361 ACAGAAAAAC AACACCAAAA ACACAAAAAA CAACAGCAAC AAAAAAAACA ACCAACAAAA 
+      421 ACACAAAAAC AACACAACCA CAACAAAAAC ACAAAAAAAA CACAAAAA
+//
+LOCUS       chlorophyllmax_130m_2871   579 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..579
+                     /organism="1..579"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(444..563)
+                     /locus_tag="chlorophyllmax_130m_2871_0"
+     CDS             complement(444..563)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_2871_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+ORIGIN               
+        1 CTTTCTGCTC TCTGCTCTGC ATCTGCCATC TCTTTTCTAT TTTATAACAT TCTTCTCTAT 
+       61 CACTCCTCTT CACAACTTTA TACTAATCTA CTCATCTCTA CATATTCTAT ACTCCTTCAT 
+      121 TACCATTTAT CTCATACATA CCTTTCTTAT ATTAACTTCC CTCTCTTCTC TCCACTCCAT 
+      181 TGACTTGCTA TTCTACTCAC TTCCCACCTT CTTATCTTAT TATCATCTGT CTTCTCACCA 
+      241 CTAACTTATA CCCTACTATT TCTATTCTAT TTCTATCTCT TACTCCACTC ACTACTCATC 
+      301 AATATCTTGC TCCATAGCAA CTAAATTCTC TCATCATCTA TGATCTATCA TCCATACTTT 
+      361 CCACCTCCTC ACTCATCTTC TCTACATCAC TTCATACTCC CTCTTCCTCT TCGCCATATT 
+      421 AACTATCTCC TATATTTTCT CACTCATACT CTCTTCTCCT TCCTTCTTCT TCCTCTTCTC 
+      481 TTCTCCTTTA TTTCCTCCCC TCCTATATCT CTCTCTCTCT CCATCATTTC ACCTTCCTCC 
+      541 TTCTCCTCAA TCCTTTTCTT CATTCTCACT CTTCTCTCT
+//
+LOCUS       chlorophyllmax_130m_2872   602 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..602
+                     /organism="1..602"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(2..262)
+                     /locus_tag="chlorophyllmax_130m_2872_0"
+     CDS             complement(2..262)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_2872_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MASRDAAGGDNDTPGRLTFHTTADGASSATERLRIDKDGLL
+                     GLNVTPSYSGLFGGSQKGMHIGGTTAPFLRITSSTGGQGDLILQAG
+ORIGIN               
+        1 TTCCTGCTTG TAATATAAGA TCACCTTGAC CACCCGTAGA AGAAGTAATT CTTAAGAAGG 
+       61 GTGCAGTAGT TCCTCCAATA TGCATACCTT TCTGAGAACC ACCAAATAAT CCAGAATAGG 
+      121 AAGGAGTAAC ATTAAGTCCT AATAATCCAT CTTTGTCGAT GCGAAGTCTT TCTGTAGCAG 
+      181 ATGATGCTCC ATCTGCTGTG GTATGGAAAG TTAAACGACC AGGTGTATCA TTATCACCAC 
+      241 CAGCAGCATC TCTAGATGCC ATAATTCTAG CACATTGATG AAAATCTGTT CCATCATATA 
+      301 CAGTAAAACC AATTACTCCA GCATCTAAAC CAGATGTATT GTTTGCTTGA CTTCTTACAA 
+      361 GAAGAAGTGA TGCATTTTCA TTTGTACAAT TTATTGCTAA TGACCCGTGA TGGCTTGTTT 
+      421 GTCCTACATC AATCGCACCT TTAAATTCTG CCTGGACTTT TCCTGCCGTT GGATAAGCAG 
+      481 GGAATAGAGG GTCAGATGTT GCACCTTAGG TAAAAAACAT TAGCGTTGTG ATGCAAATGC 
+      541 TCTCCCCCGA ACTTTAAATG AATTACTCCT TCGAGGGAAC TTATTGCGTT TTATATCTCC 
+      601 GT
+//
+LOCUS       chlorophyllmax_130m_2873   305 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..305
+                     /organism="1..305"
+                     /strain="1"
+                     /chromosome="1"
+     gene            167..304
+                     /locus_tag="chlorophyllmax_130m_2873_0"
+     CDS             167..304
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_2873_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+ORIGIN               
+        1 CACAGCGGCC AGTAGGATAA ACCCGCGACG AGATGGAGAC ACCAGTGCTT CCACTATAAA 
+       61 CGGAGGCTGG GGGTGACGCC ACAACTCTAA ACCCCACAGC AGAACACATG CACCCCTGTT 
+      121 TTTAATAGGC GGCTAGCCGG ATGGTGAGAC GTCGGTGAAG GAGCAAATGA ACCCGCGCCC 
+      181 CGGGCCAGAC CGACGGCAGT TTTTTTTAGA CCCGCCTCGG GTCGCGAGGA GGATAAGGGG 
+      241 ACCGGTTTTT TTTTTTTTTT TTACCGCGGG AGCGCCGCGC GCGCACCGAC GGGACACCGC 
+      301 CGGGA
+//
+LOCUS       chlorophyllmax_130m_2874   301 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..301
+                     /organism="1..301"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(2..286)
+                     /locus_tag="chlorophyllmax_130m_2874_0"
+     CDS             complement(2..286)
+                     /product=RND family efflux transporter
+                     /locus_tag="chlorophyllmax_130m_2874_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MLILVIGGVTSYFTVKRELFPTFSLDLVTVRVPYLGASPEE
+                     VEESVILRVEEAIQSVDGIKEMNSLNQEGFGSVNVTVEKGYDIGKKRGLYKTRV
+ORIGIN               
+        1 CGACTCTGGT CTTGTAAAGG CCCCTTTTTT TTCCGATGTC GTACCCCTTC TCAACGGTGA 
+       61 CATTCACCGA TCCAAACCCT TCCTGATTCA GGGAATTCAT TTCCTTGATA CCATCGACTG 
+      121 ATTGAATGGC CTCTTCTACA CGTAAAATAA CCGACTCCTC CACCTCCTCT GGCGATGCTC 
+      181 CGAGGTAGGG AACTCGGACG GTTACTAAAT CGAGCGAAAA CGTCGGGAAT AGCTCTCTTT 
+      241 TGACCGTAAA ATAAGAGGTC ACCCCGCCAA TTACAAGGAT CAGCATCACG AGGTTGGCGG 
+      301 C
+//
+LOCUS       chlorophyllmax_130m_2875   956 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..956
+                     /organism="1..956"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..762
+                     /locus_tag="chlorophyllmax_130m_2875_0"
+     CDS             1..762
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_2875_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=WREHEQVHFTVYEAEKGKLITVEKLKKKIKISSSLAGKYGS
+                     GGGGLADRQYKGIGGTVYSNDFDVEIPEFVPPEPPKFMKANMKLGWSPIGEGPY
+                     DYDKQFMNAMKGHFAFAIKRFLPGAEFAGTLAIKYAEGDLTPITKSPGRAFDSK
+                     VVDLVKRSIQLGNNPIGVIDDVYNHPHPVQAKTDLIARLSLGRFNYKLTSKGIQ
+                     VIDQFDFTDGNLSLGAAGKLPGHMGQWGGLQKDAKLLMQMATRKALIIGI
+ORIGIN               
+        1 TGGAGAGAAC ATGAGCAGGT CCATTTTACA GTTTATGAAG CTGAAAAGGG TAAGTTAATA 
+       61 ACAGTAGAAA AATTAAAAAA GAAAATAAAA ATTAGTAGTT CTCTTGCTGG AAAGTATGGT 
+      121 TCAGGTGGTG GTGGTCTTGC AGATCGTCAA TATAAGGGTA TTGGAGGAAC TGTATATAGC 
+      181 AATGATTTTG ATGTAGAGAT TCCAGAGTTT GTTCCACCAG AACCACCTAA ATTTATGAAG 
+      241 GCAAATATGA AGTTAGGTTG GTCTCCTATT GGCGAAGGAC CATATGATTA TGATAAACAA 
+      301 TTTATGAATG CTATGAAGGG ACATTTTGCT TTTGCAATAA AGCGTTTCTT ACCAGGTGCA 
+      361 GAGTTTGCTG GTACATTAGC AATAAAATAT GCCGAAGGAG ATCTTACTCC TATTACTAAA 
+      421 TCTCCTGGTA GAGCATTTGA TTCAAAAGTT GTTGATTTAG TTAAGAGGTC AATTCAATTA 
+      481 GGTAACAATC CAATTGGAGT AATTGATGAT GTTTATAATC ACCCCCATCC CGTTCAGGCA 
+      541 AAAACAGATC TTATTGCTCG TCTTTCTCTT GGTAGATTTA ATTATAAACT TACTTCTAAG 
+      601 GGTATACAGG TTATTGATCA ATTTGACTTT ACTGATGGTA ATCTATCATT AGGTGCAGCA 
+      661 GGAAAATTAC CTGGTCATAT GGGTCAGTGG GGTGGATTGC AAAAAGATGC AAAATTGTTA 
+      721 ATGCAGATGG CAACAAGAAA AGCCCTCATA ATTGGGATAT GATATGAAGA AACTTTACCT 
+      781 AATGAACAAA CTGGTAATTT ATACCCGGGG AAATTCCCCC CCCAAAAATT TAATTCCTGA 
+      841 TGAAACGGTT ACGCCTTTAA TTTACGCTGA AATTGAAAGG TGAACCTTGT CATCCTTCAC 
+      901 CTTCTGCAAT AAAATTCCCG CACACACCTC CCAATGGATT TGCCTTCCCC ATCATC
+//
+LOCUS       chlorophyllmax_130m_2876   232 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..232
+                     /organism="1..232"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..231
+                     /locus_tag="chlorophyllmax_130m_2876_0"
+     CDS             1..231
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_2876_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=EEKEQERKGKEEKARKERATSQPTPDKAQPPPATRPHPPQQ
+                     PAPPSDPRTATTARPAPAQTTPRAGAQTRQTTQHP
+ORIGIN               
+        1 GAGGAAAAGG AGCAAGAGAG AAAGGGAAAA GAGGAAAAAG CGAGAAAGGA GAGGGCGACC 
+       61 AGCCAACCCA CCCCCGACAA AGCACAACCC CCCCCCGCCA CACGGCCGCA CCCACCACAA 
+      121 CAACCCGCCC CCCCCAGCGA CCCGCGCACA GCCACGACAG CCAGACCCGC CCCCGCACAA 
+      181 ACAACCCCAC GCGCCGGCGC CCAAACACGC CAAACCACAC AACACCCCCC CG
+//
+LOCUS       chlorophyllmax_130m_1523   615 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..615
+                     /organism="1..615"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(1..270)
+                     /locus_tag="chlorophyllmax_130m_1523_0"
+     CDS             complement(1..270)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_1523_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=VKKQGGLEPKIAASSSSITVALVVLTALLIGLNYTVMKWAL
+                     DHTTPLALAALRTSVGAPFLLAIAMLRGEKLPQNRHQWMAVWWFSLAIT
+     gene            complement(445..615)
+                     /locus_tag="chlorophyllmax_130m_1523_1"
+     CDS             complement(445..615)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_1523_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+ORIGIN               
+        1 CGTTATAGCA AGGGAGAACC ACCAAACAGC CATCCACTGG TGACGGTTTT GGGGCAACTT 
+       61 TTCTCCGCGA AGCATGGCTA TTGCCAATAG AAAGGGAGCG CCCACAGATG TTCGAAGCGC 
+      121 GGCCAAAGCG AGTGGCGTGG TGTGGTCTAG AGCCCACTTC ATCACGGTGT AGTTGAGTCC 
+      181 TATAAGTAGC GCTGTGAGTA CGACCAGAGC AACTGTTATG GAACTAGAGG ATGCGGCAAT 
+      241 TTTGGGTTCA AGCCCGCCCT GCTTCTTCAC GCTCCCTCTA AAAGATCGAG AGATCTTCTA 
+      301 CGAAGTCGTC GCATCCCATT TAGCCACCGA TCAGGATCCG AAGCTTTTGC GTCTGTGTAG 
+      361 GTCTGGACTT CCGGATGAGA CAGGATCAAG AACTTCTTCG TTACGCATCG CTTGCGTGAT 
+      421 TTTGTCGCGA CGAAATCAGC TTCACTATCC CATCGGTTCC ACCGTCGCCC AGTTGTCGAG 
+      481 GCGCCATAAG CGTGTTGACT CCCCTGAGAC TAGAACTGAC ACTCCGATAC CGTCATCGCC 
+      541 GGGAGTTATA GCAAGGGTCT CAGACAGTTT GATGCATGCA GCTTTGGTGA CCGAGTAAGG 
+      601 GGCTGAACCC ACTGC
+//
+LOCUS       chlorophyllmax_130m_1522   351 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..351
+                     /organism="1..351"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..351
+                     /locus_tag="chlorophyllmax_130m_1522_0"
+     CDS             1..351
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_1522_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=DHGAQQPPQEDKTGQKPTRKTDKKNTTGTGGHGGGHEKAGG
+                     ATTPKKKPQKPEPPKTPTGKKKGPHTPDERTPNRPGKTAPTENGTQEPPKEGNK
+                     TPKKTRPPTAERTKNTNEARP
+ORIGIN               
+        1 GACCACGGGG CCCAGCAGCC CCCGCAAGAG GACAAAACAG GGCAAAAGCC AACGCGGAAG 
+       61 ACCGACAAAA AAAACACCAC CGGAACGGGG GGACACGGGG GAGGCCACGA AAAAGCAGGA 
+      121 GGGGCAACAA CCCCAAAAAA AAAACCACAA AAGCCCGAAC CCCCAAAAAC CCCAACAGGC 
+      181 AAAAAAAAAG GCCCACACAC CCCCGACGAA AGGACCCCCA ACCGACCGGG AAAAACCGCA 
+      241 CCAACCGAGA ACGGCACACA AGAACCCCCG AAAGAGGGAA ACAAAACGCC AAAAAAAACC 
+      301 CGGCCCCCCA CCGCGGAACG AACCAAAAAC ACCAACGAAG CCCGGCCCAC C
+//
+LOCUS       chlorophyllmax_130m_1521   650 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..650
+                     /organism="1..650"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(3..650)
+                     /locus_tag="chlorophyllmax_130m_1521_0"
+     CDS             complement(3..650)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_1521_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=RCVWFWRFGRGGVWASGVGRGGVAVWGGLGRGPAVAGRVGG
+                     WVSALRVLVLRRGRGGLLGWWCAVCAGGRARLCWAAAAFFGVAGRAGWRFRSGW
+                     WAGRGLVGVVLVLAGPCAGRCGCVWRLGLSRRPGVPRFLRLVVSVVSGSRVGLA
+                     PVVLAVSSCFVRSCWVGGSVRSVFFGAPVGVSPPRSRGFVCGFVCALCGGGGCP
+                     PLAWFGFRCAKKT
+ORIGIN               
+        1 CAGGTTTTTT TTGCACAACG GAACCCAAAC CAAGCGAGGG GGGGGCAGCC GCCCCCCCCA 
+       61 CAGAGGGCAC AGACGAACCC ACAGACGAAC CCCCGCGAAC GGGGAGGGGA CACGCCCACC 
+      121 GGGGCCCCGA AGAAGACGGA CCGGACAGAC CCCCCAACCC AGCAAGACCG CACAAAGCAC 
+      181 GACGACACAG CCAGAACAAC CGGCGCAAGC CCAACGCGCG ACCCAGAAAC CACCGACACA 
+      241 ACCAACCGCA AGAACCGCGG CACACCAGGA CGACGCGACA ACCCCAAGCG CCACACACAC 
+      301 CCACACCGGC CCGCACACGG ACCAGCCAGC ACGAGAACCA CCCCCACCAG GCCGCGCCCA 
+      361 GCCCACCACC CCGACCGAAA ACGCCACCCC GCACGCCCCG CCACGCCAAA AAACGCAGCA 
+      421 GCCGCCCAAC ACAACCGCGC ACGCCCCCCC GCACACACGG CACACCACCA CCCAAGCAGC 
+      481 CCCCCACGCC CACGCCGCAG CACCAGCACG CGCAAGGCCG ACACCCACCC CCCCACCCGG 
+      541 CCCGCGACCG CAGGCCCGCG CCCCAACCCG CCCCACACCG CCACGCCCCC ACGACCAACA 
+      601 CCCGACGCCC ACACCCCCCC ACGGCCGAAC CGCCAGAACC ACACACAACG
+//
+LOCUS       chlorophyllmax_130m_1520   303 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..303
+                     /organism="1..303"
+                     /strain="1"
+                     /chromosome="1"
+     gene            1..303
+                     /locus_tag="chlorophyllmax_130m_1520_0"
+     CDS             1..303
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_1520_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=EGERGPKAPRPPGHAATAGAPPSATHPGAGNEEGRDPQTPR
+                     QRSQADPKPPQAQRGNGGTGPQRDHTKTEPQTGKRGQGRRPPREKGRKTGQGGD
+                     KKTPP
+ORIGIN               
+        1 GAAGGGGAGC GGGGCCCGAA GGCCCCGAGG CCCCCAGGAC ACGCCGCCAC GGCGGGGGCG 
+       61 CCACCGAGCG CAACCCACCC CGGAGCAGGA AACGAAGAGG GCCGGGACCC CCAGACCCCG 
+      121 CGCCAAAGGA GCCAAGCCGA CCCCAAGCCC CCGCAGGCGC AAAGGGGAAA CGGAGGGACC 
+      181 GGGCCCCAGC GGGACCACAC GAAAACGGAA CCCCAAACCG GCAAACGCGG CCAAGGAAGG 
+      241 CGACCACCGA GAGAGAAAGG GCGAAAAACC GGGCAAGGAG GGGACAAGAA GACGCCGCCC 
+      301 CCC
+//
+LOCUS       chlorophyllmax_130m_1527   975 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..975
+                     /organism="1..975"
+                     /strain="1"
+                     /chromosome="1"
+     gene            18..353
+                     /locus_tag="chlorophyllmax_130m_1527_0"
+     CDS             18..353
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_1527_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=VSSAFFSPLFLIFEEPCTSLSIYGPASVGADSYLQGKSCVQ
+                     NVAVCWRLVVCSAGKAVSLVHVEVRGRENLRLGRLLTLLPLSSTIVALSLIPEL
+                     LVVATQGRGCALFFFF
+     gene            complement(285..545)
+                     /locus_tag="chlorophyllmax_130m_1527_1"
+     CDS             complement(285..545)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_1527_1"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=MRQHSGARQQRPTNIFGRRSNLDSKTGLLNISMGRQPLGQS
+                     KYVVLHGPPQDRKTIWWSRCLEKLKKKKKGASPALSSHHKQFWDE
+ORIGIN               
+        1 TTTTACTGGA GCGGATGGTG AGCTCCGCTT TTTTCAGTCC CCTCTTTCTA ATATTCGAAG 
+       61 AACCCTGTAC ATCACTTTCT ATCTATGGTC CTGCATCCGT TGGTGCAGAT TCATATCTTC 
+      121 AAGGAAAATC ATGCGTCCAG AATGTTGCCG TCTGCTGGCG ACTTGTGGTC TGTTCTGCAG 
+      181 GAAAAGCTGT TTCGCTGGTA CATGTCGAGG TTAGGGGGAG AGAAAACCTT AGACTTGGTA 
+      241 GGCTTTTGAC TCTCTTGCCT TTGTCTAGTA CTATTGTTGC GCTCTCACTC ATCCCAGAAC 
+      301 TGCTTGTGGT GGCTACTCAG GGCCGGGGAT GCGCCCTTTT TTTTTTTTTT TAATTTCTCG 
+      361 AGGCACCTGC TCCACCAGAT GGTCTTTCTG TCCTGTGGAG GTCCATGCAA TACCACATAC 
+      421 TTGCTTTGAC CCAATGGTTG TCGCCCCATG CTTATATTCA ACAGTCCCGT TTTGGAATCC 
+      481 AGATTGCTAC GCCTGCCAAA AATGTTAGTT GGCCTCTGTT GCCTAGCCCC TGAATGTTGC 
+      541 CTCATTGACC CCTCCTCAAA TCCAGAATTC TATCATTTCT CGCTTACCCT TAGGCTAATG 
+      601 CACCGCTCTC CTTTCCTTAT CCCCTCTTTT TATACACTTT CCTCTATCGT TATTTCAACT 
+      661 CTTGCCTCTG CAAATTCTTA TTAAATTCCT CTCGTCTTCC TTCTATTCGT CTAGCGTTCC 
+      721 ATGTCACCTT AACTACTTCT CCTACTTTAT TTACTCCCCA TAAATCTTTT CTCCCTCTTA 
+      781 TTGTTCTTAT CTCTTCTTGC TCACTCTCTC TCCATTTCTC TCAATTATCT CTCATCTTCT 
+      841 AACCTTTCCC ATCCATTTTC CTACTTACCA AATCTACCTT ACTTTTCTTC TTCTCAATGT 
+      901 ATCTCGTTCT CTCAATTTAC TAGTCCTTCT ATATCCATTG TTTCCGACCT CTCTATATTC 
+      961 TTCATCTTCA CCCTT
+//
+LOCUS       chlorophyllmax_130m_1526   660 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /organism="1..660"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(2..370)
+                     /locus_tag="chlorophyllmax_130m_1526_0"
+     CDS             complement(2..370)
+                     /product=rnhB ribonuclease HII (EC:3.1.26.4) K03470 [E
+                     C:3.1.26.4]
+                     /locus_tag="chlorophyllmax_130m_1526_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=VKVGFASAEEIDDLGIVESAKLAMHRALKESIIKSEYLLVD
+                     ALDLTEWGIPCRSIIKGDQISTTIAAASIVAKVARDSLMIEFNQIYPRYKFDSN
+                     KGYGTKDHIESLQKYGPSSVRRKKKTPV
+ORIGIN               
+        1 AAACGGGAGT TTTTTTTTTT CTACGAACAG AGGAGGGACC ATATTTTTGT AACGACTCAA 
+       61 TATGATCTTT TGTACCGTAA CCTTTATTAG AATCAAATTT ATATCTAGGA TAAATTTGAT 
+      121 TAAATTCAAT CATTAATGAA TCTCTGGCAA CTTTTGCTAC TATTGATGCT GCCGCAATAG 
+      181 TAGTGCTAAT TTGATCACCT TTTATAATTG ACCTGCAAGG AATACCCCAT TCAGTTAAAT 
+      241 CTAATGCGTC AACAAGTAGA TATTCAGATT TTATAATTGA CTCCTTTAAG GCCCGATGCA 
+      301 TTGCCAATTT TGCCGATTCT ACAATTCCCA AATCATCGAT CTCCTCAGCC GAGGCAAATC 
+      361 CAACCTTCAC AAATTAGTGC TAAATTTCTT GATAATACCT GACAACTTGT TTGGTCGGGC 
+      421 AGAAGATAAT TTTTTTCTAG CAGTGACCTC GGTCGATGTT CCTTTTCCAA TCACTCCTGG 
+      481 AAAAGCAGTA CTCTGAACCG CAAACTGGTC CAGCTCAAGG CTCCTGCTTC CCTCTAGACT 
+      541 AACCCCAAAA CAACACAATA TCGTGGATAT TGTAATCCTT TCTTCGCCAG AAGTTGGGGA 
+      601 GGTCTGCACT TCACCCATAC CCCTTCAATT TTAAGTGCGG GCATGGGTTA CATCTGTTTG
+//
+LOCUS       chlorophyllmax_130m_1525   558 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /organism="1..558"
+                     /strain="1"
+                     /chromosome="1"
+     gene            complement(1..558)
+                     /locus_tag="chlorophyllmax_130m_1525_0"
+     CDS             complement(1..558)
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_1525_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=VLGVGRSCALLSSVSGLLALPFRLLRWVVVLCAFGAGCVVG
+                     GAFSGGVVPLFCVLVGSLAVPWGVCWPGFWAVLLFGVGFGFSFLVCAFSVGWAL
+                     RAAVGFAPVVVPFSPGLWPSLLAVWWCARRSCVWPAGRGLAGRRGFGFVRFVLL
+                     GRGLAGAAGPGLVLVPVRGLVFAGAAFPVAGGFARWR
+ORIGIN               
+        1 CCGCCAACGG GCGAAACCGC CCGCGACCGG GAACGCGGCG CCGGCAAAGA CGAGGCCCCG 
+       61 AACCGGGACG AGCACCAGAC CGGGCCCGGC CGCACCGGCA AGCCCCCGGC CGAGCAGCAC 
+      121 GAAGCGAACG AAGCCGAAGC CACGCCGACC GGCAAGGCCC CGACCGGCGG GCCACACACA 
+      181 GGAACGGCGG GCGCACCACC AAACCGCCAG GAGCGACGGC CACAAGCCCG GCGAGAACGG 
+      241 CACGACCACC GGAGCAAACC CGACAGCGGC GCGGAGGGCC CAGCCAACCG AAAAGGCGCA 
+      301 GACGAGAAAG GAAAAACCAA AACCAACGCC GAACAGGAGC ACAGCCCAAA ACCCGGGCCA 
+      361 ACAAACCCCC CACGGCACCG CCAGAGAGCC CACCAACACG CAAAAGAGAG GAACCACCCC 
+      421 ACCGGAAAAC GCACCCCCCA CAACACAACC AGCGCCGAAC GCACACAGCA CAACCACCCA 
+      481 CCGCAGAAGG CGGAAAGGCA ACGCCAAGAG ACCCGACACA GACGACAAAA GCGCACACGA 
+      541 GCGGCCAACA CCAAGCAC
+//
+LOCUS       chlorophyllmax_130m_1524   425 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..425
+                     /organism="1..425"
+                     /strain="1"
+                     /chromosome="1"
+     gene            3..425
+                     /locus_tag="chlorophyllmax_130m_1524_0"
+     CDS             3..425
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_1524_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=PQQGGPTAGKGPTGGRGAQAENPAGGEQGGGRHEDPPRPPG
+                     HPASGREKKTQDRGGGTTDKGGEGGRNPAGRGAPRRQKTQAATQTEGPAGAAGR
+                     PARGGAAAPPAGGRPAGEPPGHGGRAGEDPQPPGRAPGPRGAAGR
+ORIGIN               
+        1 GGCCCCAACA GGGGGGCCCG ACGGCCGGGA AAGGGCCAAC GGGGGGAAGA GGGGCCCAGG 
+       61 CAGAAAACCC CGCGGGCGGG GAGCAAGGCG GGGGACGCCA CGAGGACCCC CCGAGGCCGC 
+      121 CGGGCCACCC CGCCAGCGGG CGGGAAAAAA AGACCCAGGA CCGGGGGGGG GGGACAACCG 
+      181 ACAAGGGGGG GGAGGGAGGA CGAAACCCGG CGGGCCGGGG GGCCCCCCGG AGGCAGAAAA 
+      241 CGCAGGCCGC GACCCAAACG GAGGGCCCGG CCGGGGCCGC CGGGCGCCCC GCCCGGGGCG 
+      301 GCGCCGCCGC GCCCCCGGCG GGAGGGCGGC CCGCGGGCGA GCCGCCAGGA CACGGGGGCA 
+      361 GAGCGGGGGA GGACCCGCAG CCCCCGGGGC GGGCGCCGGG GCCCCGGGGA GCAGCAGGCC 
+      421 GCACG
+//
+LOCUS       chlorophyllmax_130m_1529   515 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..515
+                     /organism="1..515"
+                     /strain="1"
+                     /chromosome="1"
+     gene            2..289
+                     /locus_tag="chlorophyllmax_130m_1529_0"
+     CDS             2..289
+                     /product=coiled coil protein K07220
+                     /locus_tag="chlorophyllmax_130m_1529_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=TEPTVLGADETHKLNEIIRSLNSDSAKSIELAQDTQKLERE
+                     IDIKYRKMVLKALEISTTSEMLLMKDTIEGIEEMADKCQEVSDSFILLALSLQL
+ORIGIN               
+        1 AACAGAACCA ACTGTATTAG GAGCAGACGA GACTCACAAA TTAAATGAAA TTATTAGAAG 
+       61 TCTAAATTCA GATTCTGCAA AATCAATTGA ATTAGCACAA GATACACAAA AACTAGAAAG 
+      121 AGAAATTGAT ATCAAATATC GAAAAATGGT ATTGAAAGCA CTTGAAATTT CTACTACAAG 
+      181 TGAAATGCTA TTGATGAAAG ATACAATAGA AGGAATTGAA GAAATGGCAG ACAAATGTCA 
+      241 AGAAGTATCA GATTCATTCA TTCTTTTGGC ATTGAGTTTA CAGCTTTGAA AACAGAATTA 
+      301 CCAGAAAAAT CGTTGGGTTG CATGGGAATC AAATGATTCT AAAAAATTAT TCGGGCAAGG 
+      361 TAACAAGGAA AACCTATCGG AATCCCAAAA CCCAAAATTT TTTTTTTTTT TTTTGTTCCA 
+      421 CAAAGGGAAG AAGCAAGTGA AGGACAATAA CCCAAGGAGC AAACCACAAA CCCAAAACGC 
+      481 AAAAAAGAAA ACGAAAATCG CACTCATTAA AAGCC
+//
+LOCUS       chlorophyllmax_130m_1528   326 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..326
+                     /organism="1..326"
+                     /strain="1"
+                     /chromosome="1"
+     gene            254..325
+                     /locus_tag="chlorophyllmax_130m_1528_0"
+     CDS             254..325
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_1528_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=
+ORIGIN               
+        1 AACCATTGTA ACAAATGAAT GAATACTGAT TAGCTCTTTT ATTCACTGAT AAGTCATCCA 
+       61 GACACATTAG ATTGAGTGCG ACATGATTTA ATCAAATCAC CTGATCTCCT TCACTCATCT 
+      121 ACGTGATTTT CGACAAGCCC AGGACGCCTC ACTTCGTTCG TCTACCTTTG TTCATCGTCA 
+      181 TCTCCACTGT ACCTCGTCAC AGTCATCATC CCCCTATCCT CGACAATGCC CTCCACTTCG 
+      241 TTTCGGGTTG ATCATGCCCC CGATCGGGTT TTTTCTTGGC ATTGGTTCAT CATTAGTTCT 
+      301 TGGGTCATTC CAACAAGAAA AAAACG
+//
+LOCUS       chlorophyllmax_130m_1839   663 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..663
+                     /organism="1..663"
+                     /strain="1"
+                     /chromosome="1"
+     gene            2..544
+                     /locus_tag="chlorophyllmax_130m_1839_0"
+     CDS             2..544
+                     /product=type IIs modification methyltransferase K0622
+                     3 DNA adenine methylase [EC:2.1.1.72]
+                     /locus_tag="chlorophyllmax_130m_1839_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=LRWAGSKRYLAKYLLPQFPQVMHRYIEPFCGSASLFFLSEP
+                     SSSVLSDINSELINALDLIKSRNKSVMEKYESLPDDREIYYLVRSLEPQALTKV
+                     ERAARFLYLNRLCFNGLYRTNKSGQFNVPYSGQRNSKLLSREEVSDASRLLNNC
+                     ELRNDDFKTTISRTKRGDFLYVDPPTPPRTQ
+ORIGIN               
+        1 TCTTCGCTGG GCAGGAAGTA AGAGATATTT GGCAAAGTAT CTTTTACCAC AGTTTCCACA 
+       61 GGTTATGCAT CGCTATATTG AGCCATTTTG TGGATCAGCT AGTTTATTTT TCTTATCTGA 
+      121 ACCATCAAGT TCAGTACTAT CAGACATCAA CTCGGAGTTG ATAAATGCAC TCGACTTAAT 
+      181 TAAATCAAGA AATAAGTCAG TTATGGAGAA ATATGAAAGC TTGCCTGATG ATCGAGAAAT 
+      241 ATATTATTTA GTTCGTTCAC TTGAACCGCA AGCTCTGACC AAGGTGGAGC GCGCCGCGCG 
+      301 TTTTCTCTAT CTCAATAGGC TTTGCTTTAA CGGGCTTTAT CGAACAAATA AATCCGGTCA 
+      361 GTTTAACGTT CCATATAGCG GCCAGCGAAA CTCAAAACTT CTGTCAAGGG AAGAAGTATC 
+      421 CGACGCGAGT AGACTTCTCA ATAACTGCGA ACTCAGAAAC GACGATTTCA AAACAACGAT 
+      481 TTCTCGTACT AAAAGAGGAG ATTTCTTGTA TGTCGATCCA CCTACGCCTC CCAGAACACA 
+      541 ATGAATTTTG CGAGTATGAC CGCAGTTCTT TTGGCCTGCG AGATTTTCAA AACTCTGGGT 
+      601 TGAACTGAAT GCGGCTGATA GAAAAAGATT GAAATTCCTG CTCCTCCTAA CCCGAATGGG 
+      661 CCG
+//
+LOCUS       chlorophyllmax_130m_1838   672 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..672
+                     /organism="1..672"
+                     /strain="1"
+                     /chromosome="1"
+     gene            2..496
+                     /locus_tag="chlorophyllmax_130m_1838_0"
+     CDS             2..496
+                     /product=hypothetical protein
+                     /locus_tag="chlorophyllmax_130m_1838_0"
+                     /codon_start=1
+                     /transl_table=11
+                     /translation=EIERVDILVFLRWVLGTLHAAVRAPAEFFLVRLDVRVVGRA
+                     LKGDIECDLDPKIRGPGHQVPEIFRCTQCRQDRLVATLDGTDRPGTADITRLTG
+                     QCIVFALRCTSPMGWIGGKYRTSNPIPANTGRRASTPLKGCVGQAQARQTEEKT
+                     RIRGLKRAGAGPRAT
+ORIGIN               
+        1 CGAAATTGAA CGGGTAGATA TCCTGGTATT TCTTCGGTGG GTTCTCGGCA CACTGCACGC 
+       61 TGCCGTCAGG GCGCCAGCGG AATTTTTTTT GGTGCGCCTT GACGTAAGGG TGGTCGGGCG 
+      121 CGCACTGAAA GGCGATATCG AGTGCGATCT CGATCCCAAA ATCCGCGGCC CTGGCCACCA 
+      181 GGTGCCTGAA ATCTTCCGGT GCACCCAGTG TCGGCAGGAT CGACTTGTGG CCACCCTCGA 
+      241 TGGCACCGAT CGCCCAGGGA CTGCCGACAT CACCAGGCTC ACTGGTCAGT GCATTGTTTT 
+      301 TGCCTTGCGC TGCACCAGTC CGATGGGATG GATCGGTGGG AAGTACAGAA CATCGAACCC 
+      361 CATCCCTGCG AATACAGGCA GGCGGGCCTC CACACCTTTG AAAGGCTGTG TCGGCCAGGC 
+      421 CCAAGCGCGG CAGACTGAGG AAAAAACTCG TATCAGGGGG CTGAAGCGCG CCGGGGCCGG 
+      481 CCCGAGAGCC ACGTGAATCC CTGACCGAGC TTGCACCGAA TGCCGTCCGA TAACTGCCCG 
+      541 TAATTCCCCA GAGACTCCCC CACGCCCCCC GCTCGACCCG GTTGTGCAAC CACCCGGCGT 
+      601 TCCCCGCTCC CTTACCCCCT GCCCCGCCCG AATTATCCGC CCCCCCCCCC CGCGTCTACT 
+      661 TCCTCCCCCC CT
+//
+LOCUS       chlorophyllmax_130m_4821   645 bp   DNA           BCT      10-AUG-2014
+DEFINITION  chlorophyllmax_130m
+ACCESSION   .
+VERSION     .          GI:.
+DBLINK      chlorophyllmax_130m
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  chlorophyllmax_130m
+            Metagenome
+REFERENCE   1  (bases 1 to XXXXX)
+  AUTHORS   YYYYYY,X.
+  CONSRTM   XXXXX
+  TITLE     XXXXX
+  JOURNAL   XXXXX
+   PUBMED   XXXXX
+  REMARK    XXXXX
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to fin
+            al NCBI review   COMPLETENESS: XXXXX
+FEATURES             Location/Qualifiers
+     source          1..645
+                     /organism="1..645"
+                     /strain="1"

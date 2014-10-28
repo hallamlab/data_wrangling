@@ -1,0 +1,2000 @@
+ID	uppermesopelagic_500m_5156_0
+NAME	uppermesopelagic_500m_5156_0
+STARTBASE	3016
+ENDBASE	3585
+PRODUCT	glpK putative glycerol kinase (EC:2.7.1.30) K00864 [EC:2.7.1.30]
+PRODUCT-TYPE	P
+EC	2.7.1.30
+//
+ID	uppermesopelagic_500m_8603_0
+NAME	uppermesopelagic_500m_8603_0
+STARTBASE	4731
+ENDBASE	5621
+PRODUCT	protein translocase subunit SecY/sec61 alpha K03076 preprotein SecY
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8602_1
+NAME	uppermesopelagic_500m_8602_1
+STARTBASE	6315
+ENDBASE	6515
+PRODUCT	UspA domain-containing protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8607_0
+NAME	uppermesopelagic_500m_8607_0
+STARTBASE	8482
+ENDBASE	9177
+PRODUCT	[Alcanivorax sp. W11-5]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4034_1
+NAME	uppermesopelagic_500m_4034_1
+STARTBASE	10787
+ENDBASE	11209
+PRODUCT	peptide deformylase (EC:3.5.1.88) K01462 [EC:3.5.1.88]
+PRODUCT-TYPE	P
+EC	3.5.1.88
+//
+ID	uppermesopelagic_500m_4035_0
+NAME	uppermesopelagic_500m_4035_0
+STARTBASE	13804
+ENDBASE	14385
+PRODUCT	transposase IS4 family protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3146_0
+NAME	uppermesopelagic_500m_3146_0
+STARTBASE	17083
+ENDBASE	17481
+PRODUCT	putative glutamine synthetase, catalytic region K01915 synthetase [EC:6.3.1.2]
+PRODUCT-TYPE	P
+EC	6.3.1.2
+//
+ID	uppermesopelagic_500m_3141_0
+NAME	uppermesopelagic_500m_3141_0
+STARTBASE	18024
+ENDBASE	18959
+PRODUCT	acdA putative acyl-CoA dehydrogenase K00257 [EC:1.3.99.-]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3142_0
+NAME	uppermesopelagic_500m_3142_0
+STARTBASE	20932
+ENDBASE	21153
+PRODUCT	ACS2 acetyl CoA synthetase (EC:6.2.1.1) K01895 acetyl-CoA [EC:6.2.1.1]
+PRODUCT-TYPE	P
+EC	6.2.1.1
+//
+ID	uppermesopelagic_500m_3142_1
+NAME	uppermesopelagic_500m_3142_1
+STARTBASE	21362
+ENDBASE	21619
+PRODUCT	nuclease (SNase domain protein)
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3025_0
+NAME	uppermesopelagic_500m_3025_0
+STARTBASE	21634
+ENDBASE	22248
+PRODUCT	Choline dehydrogenase (EC 1.1.99.1) [Sorangium cellulosum 'So ce 56']
+PRODUCT-TYPE	P
+EC	1.1.99.1
+//
+ID	uppermesopelagic_500m_3022_1
+NAME	uppermesopelagic_500m_3022_1
+STARTBASE	23069
+ENDBASE	23470
+PRODUCT	luciferase family oxidoreductase, group 1
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8609_1
+NAME	uppermesopelagic_500m_8609_1
+STARTBASE	23912
+ENDBASE	24649
+PRODUCT	ahcY S-adenosyl-L-homocysteine hydrolase (EC:3.3.1.1) K01251 adenosylhomocysteinase [EC:3.3.1.1]
+PRODUCT-TYPE	P
+EC	3.3.1.1
+//
+ID	uppermesopelagic_500m_3023_2
+NAME	uppermesopelagic_500m_3023_2
+STARTBASE	25182
+ENDBASE	25424
+PRODUCT	ACAA2, DSAEC, FLJ35992, FLJ95265 acetyl-CoA acyltransferase 2 (EC:2.3.1.16) K07508 [EC:2.3.1.16]
+PRODUCT-TYPE	P
+EC	2.3.1.16
+//
+ID	uppermesopelagic_500m_3020_1
+NAME	uppermesopelagic_500m_3020_1
+STARTBASE	26651
+ENDBASE	26932
+PRODUCT	sulfite reductase (NADPH) flavoprotein, alpha chain K00380 flavoprotein alpha-component [EC:1.8.1.2]
+PRODUCT-TYPE	P
+EC	1.8.1.2
+//
+ID	uppermesopelagic_500m_3021_0
+NAME	uppermesopelagic_500m_3021_0
+STARTBASE	27254
+ENDBASE	27997
+PRODUCT	lipase/acylhydrolase family protein [Victivallis vadensis ATCC BAA-548]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7745_0
+NAME	uppermesopelagic_500m_7745_0
+STARTBASE	29701
+ENDBASE	30435
+PRODUCT	mismatch repair ATPase K07456 DNA protein MutS2
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7032_0
+NAME	uppermesopelagic_500m_7032_0
+STARTBASE	30752
+ENDBASE	31141
+PRODUCT	DNA helicase
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7742_0
+NAME	uppermesopelagic_500m_7742_0
+STARTBASE	33460
+ENDBASE	34359
+PRODUCT	histidinol dehydrogenase (EC:1.1.1.23) K00013 [EC:1.1.1.23]
+PRODUCT-TYPE	P
+EC	1.1.1.23
+//
+ID	uppermesopelagic_500m_7740_0
+NAME	uppermesopelagic_500m_7740_0
+STARTBASE	35088
+ENDBASE	35429
+PRODUCT	aminotransferase, class III (EC:2.6.1.-)
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7740_1
+NAME	uppermesopelagic_500m_7740_1
+STARTBASE	35543
+ENDBASE	36025
+PRODUCT	LysR family transcriptional regulator
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2020_0
+NAME	uppermesopelagic_500m_2020_0
+STARTBASE	36163
+ENDBASE	36957
+PRODUCT	spsCA spore coat biosynthesis protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2768_0
+NAME	uppermesopelagic_500m_2768_0
+STARTBASE	36995
+ENDBASE	37399
+PRODUCT	3-hydroxyacyl-CoA dehydrogenase / short chain enoyl-CoA hydratase (EC:1.1.1.35 4.2.1.17) K01782 3-hydroxybutyryl-CoA epimerase [EC:1.1.1.35 4.2.1.17 5.1.2.3]
+PRODUCT-TYPE	P
+EC	1.1.1.35
+//
+ID	uppermesopelagic_500m_2768_1
+NAME	uppermesopelagic_500m_2768_1
+STARTBASE	37399
+ENDBASE	37704
+PRODUCT	atuA expressed protein apparent function citronellol catabolism
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2763_0
+NAME	uppermesopelagic_500m_2763_0
+STARTBASE	40728
+ENDBASE	41024
+PRODUCT	peptidase, M23 family [Pelagibacterium halotolerans B2]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2767_1
+NAME	uppermesopelagic_500m_2767_1
+STARTBASE	43987
+ENDBASE	44475
+PRODUCT	putative 2-hydroxy-3-oxopropionate reductase (EC:1.1.1.60) K00042 [EC:1.1.1.60]
+PRODUCT-TYPE	P
+EC	1.1.1.60
+//
+ID	uppermesopelagic_500m_2764_1
+NAME	uppermesopelagic_500m_2764_1
+STARTBASE	44785
+ENDBASE	45420
+PRODUCT	ABC transporter
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2765_0
+NAME	uppermesopelagic_500m_2765_0
+STARTBASE	45816
+ENDBASE	46526
+PRODUCT	, partial [SAR406 cluster bacterium SCGC AB-629-J13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1223_0
+NAME	uppermesopelagic_500m_1223_0
+STARTBASE	47654
+ENDBASE	47908
+PRODUCT	aminoglycoside phosphotransferase K06979
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1223_1
+NAME	uppermesopelagic_500m_1223_1
+STARTBASE	47924
+ENDBASE	48241
+PRODUCT	K00632 acetyl-CoA acyltransferase [EC:2.3.1.16]
+PRODUCT-TYPE	P
+EC	2.3.1.16
+//
+ID	uppermesopelagic_500m_1220_0
+NAME	uppermesopelagic_500m_1220_0
+STARTBASE	48503
+ENDBASE	48808
+PRODUCT	dnaC replicative DNA helicase (EC:3.6.1.-) K02314 [EC:3.6.4.12]
+PRODUCT-TYPE	P
+EC	3.6.4.12
+//
+ID	uppermesopelagic_500m_1226_0
+NAME	uppermesopelagic_500m_1226_0
+STARTBASE	50153
+ENDBASE	50755
+PRODUCT	exodeoxyribonuclease VII, large subunit (EC:3.1.11.6) K03601 VII [EC:3.1.11.6]
+PRODUCT-TYPE	P
+EC	3.1.11.6
+//
+ID	uppermesopelagic_500m_1226_1
+NAME	uppermesopelagic_500m_1226_1
+STARTBASE	50700
+ENDBASE	50900
+PRODUCT	exodeoxyribonuclease VII large subunit (EC:3.1.11.6) K03601 [EC:3.1.11.6]
+PRODUCT-TYPE	P
+EC	3.1.11.6
+//
+ID	uppermesopelagic_500m_1227_0
+NAME	uppermesopelagic_500m_1227_0
+STARTBASE	51044
+ENDBASE	51658
+PRODUCT	aps sulfate adenylyltransferase aps-Penicillium chrysogenum K00958 [EC:2.7.7.4]
+PRODUCT-TYPE	P
+EC	2.7.7.4
+//
+ID	uppermesopelagic_500m_1229_2
+NAME	uppermesopelagic_500m_1229_2
+STARTBASE	54631
+ENDBASE	55020
+PRODUCT	OsmC/Ohr family protein K07397 putative redox protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4089_0
+NAME	uppermesopelagic_500m_4089_0
+STARTBASE	55155
+ENDBASE	55760
+PRODUCT	[Candidatus Poribacteria sp. WGA-4E]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4088_0
+NAME	uppermesopelagic_500m_4088_0
+STARTBASE	56158
+ENDBASE	56655
+PRODUCT	[SAR406 cluster bacterium SCGC AB-629-J13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4081_1
+NAME	uppermesopelagic_500m_4081_1
+STARTBASE	57462
+ENDBASE	57929
+PRODUCT	Aerobic-type carbon monoxide dehydrogenase, small subunit CoxS/CutS-like protein K03518 carbon-monoxide dehydrogenase [EC:1.2.99.2]
+PRODUCT-TYPE	P
+EC	1.2.99.2
+//
+ID	uppermesopelagic_500m_4080_0
+NAME	uppermesopelagic_500m_4080_0
+STARTBASE	58201
+ENDBASE	58569
+PRODUCT	Glycine/D-amino acid oxidase deaminating [gamma proteobacterium SCGC AAA007-O20]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4080_1
+NAME	uppermesopelagic_500m_4080_1
+STARTBASE	58577
+ENDBASE	58972
+PRODUCT	saccharopine dehydrogenase (NADP+, L-glutamate forming) (EC:1.5.1.10) K00293 [EC:1.5.1.10]
+PRODUCT-TYPE	P
+EC	1.5.1.10
+//
+ID	uppermesopelagic_500m_4085_0
+NAME	uppermesopelagic_500m_4085_0
+STARTBASE	61223
+ENDBASE	61867
+PRODUCT	cel5B endo-1,4-beta glucanase (EC:3.2.1.4) K01179 endoglucanase [EC:3.2.1.4]
+PRODUCT-TYPE	P
+EC	3.2.1.4
+//
+ID	uppermesopelagic_500m_4087_0
+NAME	uppermesopelagic_500m_4087_0
+STARTBASE	63189
+ENDBASE	63791
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7682_1
+NAME	uppermesopelagic_500m_7682_1
+STARTBASE	65659
+ENDBASE	66096
+PRODUCT	succinate dehydrogenase or fumarate reductase, flavoprotein subunit (EC:1.3.99.1) K00239 [EC:1.3.99.1]
+PRODUCT-TYPE	P
+EC	1.3.99.1
+//
+ID	uppermesopelagic_500m_7683_0
+NAME	uppermesopelagic_500m_7683_0
+STARTBASE	66400
+ENDBASE	67125
+PRODUCT	EMB2247 (embryo defective 2247) ATP binding / aminoacyl-tRNA ligase/ nucleotide valine-tRNA ligase (EC:6.1.1.9) K01873 valyl-tRNA synthetase [EC:6.1.1.9]
+PRODUCT-TYPE	P
+EC	6.1.1.9
+//
+ID	uppermesopelagic_500m_7680_0
+NAME	uppermesopelagic_500m_7680_0
+STARTBASE	67288
+ENDBASE	68178
+PRODUCT	polynucleotide phosphorylase/polyadenylase (EC:2.7.7.8) K00962 polyribonucleotide nucleotidyltransferase [EC:2.7.7.8]
+PRODUCT-TYPE	P
+EC	2.7.7.8
+//
+ID	uppermesopelagic_500m_7687_0
+NAME	uppermesopelagic_500m_7687_0
+STARTBASE	69334
+ENDBASE	70065
+PRODUCT	tolB protein precursor, periplasmic involved tonb-independent uptake group A colicins [Caldithrix abyssi DSM 13497]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7689_1
+NAME	uppermesopelagic_500m_7689_1
+STARTBASE	72486
+ENDBASE	73100
+PRODUCT	cti cis/trans isomerase
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5424_0
+NAME	uppermesopelagic_500m_5424_0
+STARTBASE	77387
+ENDBASE	77617
+PRODUCT	K03405 magnesium chelatase subunit I [EC:6.6.1.1]
+PRODUCT-TYPE	P
+EC	6.6.1.1
+//
+ID	uppermesopelagic_500m_5424_1
+NAME	uppermesopelagic_500m_5424_1
+STARTBASE	77821
+ENDBASE	78147
+PRODUCT	binding-protein-dependent transport systems inner membrane component K02034 peptide/nickel system permease protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5425_0
+NAME	uppermesopelagic_500m_5425_0
+STARTBASE	78437
+ENDBASE	79240
+PRODUCT	molybdopterin dehydrogenase FAD-binding protein K03519 carbon-monoxide medium subunit [EC:1.2.99.2]
+PRODUCT-TYPE	P
+EC	1.2.99.2
+//
+ID	uppermesopelagic_500m_5427_1
+NAME	uppermesopelagic_500m_5427_1
+STARTBASE	80642
+ENDBASE	81304
+PRODUCT	triosephosphate isomerase [Thermoplasmatales archaeon SCGC AB-539-N05]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5938_0
+NAME	uppermesopelagic_500m_5938_0
+STARTBASE	83671
+ENDBASE	84651
+PRODUCT	protein unknown function DUF323
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4333_1
+NAME	uppermesopelagic_500m_4333_1
+STARTBASE	85860
+ENDBASE	86186
+PRODUCT	hydroxymethylglutaryl-CoA lyase (EC:4.1.3.4)
+PRODUCT-TYPE	P
+EC	4.1.3.4
+//
+ID	uppermesopelagic_500m_4332_0
+NAME	uppermesopelagic_500m_4332_0
+STARTBASE	86468
+ENDBASE	86779
+PRODUCT	DNA polymerase III, alpha subunit (EC:2.7.7.7) K02337 III [EC:2.7.7.7]
+PRODUCT-TYPE	P
+EC	2.7.7.7
+//
+ID	uppermesopelagic_500m_4331_0
+NAME	uppermesopelagic_500m_4331_0
+STARTBASE	87278
+ENDBASE	88030
+PRODUCT	ethe1, MGC53036 ethylmalonic encephalopathy 1
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4330_0
+NAME	uppermesopelagic_500m_4330_0
+STARTBASE	88042
+ENDBASE	88770
+PRODUCT	von Willebrand factor type A domain protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4335_1
+NAME	uppermesopelagic_500m_4335_1
+STARTBASE	91310
+ENDBASE	91687
+PRODUCT	tsf elongation factor Ts K02357 Ts
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4338_0
+NAME	uppermesopelagic_500m_4338_0
+STARTBASE	93734
+ENDBASE	94366
+PRODUCT	[Verrucomicrobia bacterium SCGC AAA164-N20]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7310_0
+NAME	uppermesopelagic_500m_7310_0
+STARTBASE	94788
+ENDBASE	95528
+PRODUCT	similar to Glutamine:fructose-6-phosphate amidotransferase 2 K00820 glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]
+PRODUCT-TYPE	P
+EC	2.6.1.16
+//
+ID	uppermesopelagic_500m_958_0
+NAME	uppermesopelagic_500m_958_0
+STARTBASE	95648
+ENDBASE	95959
+PRODUCT	adenylosuccinate synthetase (EC:6.3.4.4) K01939 synthase [EC:6.3.4.4]
+PRODUCT-TYPE	P
+EC	6.3.4.4
+//
+ID	uppermesopelagic_500m_958_1
+NAME	uppermesopelagic_500m_958_1
+STARTBASE	96005
+ENDBASE	96466
+PRODUCT	[Nitrosopumilus maritimus SCM1]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7311_0
+NAME	uppermesopelagic_500m_7311_0
+STARTBASE	98906
+ENDBASE	99163
+PRODUCT	phosphatidylethanolamine:Kdo2-lipid A phosphoethanolamine transferase, partial [gamma proteobacterium SCGC AAA001-B15]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7311_1
+NAME	uppermesopelagic_500m_7311_1
+STARTBASE	99203
+ENDBASE	99838
+PRODUCT	[gamma proteobacterium SCGC AAA076-D02]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_224_1
+NAME	uppermesopelagic_500m_224_1
+STARTBASE	100176
+ENDBASE	100556
+PRODUCT	FIG01040179:  [Saccharopolyspora erythraea NRRL 2338]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_226_0
+NAME	uppermesopelagic_500m_226_0
+STARTBASE	101481
+ENDBASE	102101
+PRODUCT	cation diffusion facilitator family transporter K03295 efflux system protein, CDF
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_227_0
+NAME	uppermesopelagic_500m_227_0
+STARTBASE	102282
+ENDBASE	102890
+PRODUCT	Isoquinoline 1-oxidoreductase (EC:1.3.99.16) K07303 isoquinoline 1-oxidoreductase, beta subunit [EC:1.3.99.16]
+PRODUCT-TYPE	P
+EC	1.3.99.16
+//
+ID	uppermesopelagic_500m_222_0
+NAME	uppermesopelagic_500m_222_0
+STARTBASE	104708
+ENDBASE	105481
+PRODUCT	ACS1 acetyl CoA synthetase (EC:6.2.1.1) K01895 acetyl-CoA [EC:6.2.1.1]
+PRODUCT-TYPE	P
+EC	6.2.1.1
+//
+ID	uppermesopelagic_500m_223_0
+NAME	uppermesopelagic_500m_223_0
+STARTBASE	105802
+ENDBASE	106236
+PRODUCT	Predicted hydrolases or acyltransferases (alpha/beta hydrolase superfamily) [Burkholderia sp. Ch1-1]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5684_0
+NAME	uppermesopelagic_500m_5684_0
+STARTBASE	106333
+ENDBASE	107148
+PRODUCT	zwf1 glucose-6-phosphate 1-dehydrogenase (EC:1.1.1.49) K00036 [EC:1.1.1.49]
+PRODUCT-TYPE	P
+EC	1.1.1.49
+//
+ID	uppermesopelagic_500m_5685_0
+NAME	uppermesopelagic_500m_5685_0
+STARTBASE	107272
+ENDBASE	107802
+PRODUCT	MlrC family protein 3
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5687_1
+NAME	uppermesopelagic_500m_5687_1
+STARTBASE	109282
+ENDBASE	109743
+PRODUCT	hydro-lyase, Fe-S type, tartrate/fumarate subfamily subunit alpha K01676 fumarate hydratase, class I [EC:4.2.1.2]
+PRODUCT-TYPE	P
+EC	4.2.1.2
+//
+ID	uppermesopelagic_500m_5681_0
+NAME	uppermesopelagic_500m_5681_0
+STARTBASE	111299
+ENDBASE	111754
+PRODUCT	dctP3 TRAP dicarboxylate transporter subunit DctP
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5682_0
+NAME	uppermesopelagic_500m_5682_0
+STARTBASE	111793
+ENDBASE	112002
+PRODUCT	pyrE orotate phosphoribosyltransferase (EC:2.4.2.10) K00762 [EC:2.4.2.10]
+PRODUCT-TYPE	P
+EC	2.4.2.10
+//
+ID	uppermesopelagic_500m_5682_1
+NAME	uppermesopelagic_500m_5682_1
+STARTBASE	112221
+ENDBASE	112499
+PRODUCT	dnaB replicative DNA helicase (EC:3.6.1.-) K02314 [EC:3.6.4.12]
+PRODUCT-TYPE	P
+EC	3.6.4.12
+//
+ID	uppermesopelagic_500m_5688_0
+NAME	uppermesopelagic_500m_5688_0
+STARTBASE	114726
+ENDBASE	115598
+PRODUCT	Dihydroorotase (EC 3.5.2.3) [Chthoniobacter flavus Ellin428]
+PRODUCT-TYPE	P
+EC	3.5.2.3
+//
+ID	uppermesopelagic_500m_5689_0
+NAME	uppermesopelagic_500m_5689_0
+STARTBASE	115820
+ENDBASE	116380
+PRODUCT	2-methylcitrate synthase/citrate synthase II (EC:2.3.3.1) K01647 citrate [EC:2.3.3.1]
+PRODUCT-TYPE	P
+EC	2.3.3.1
+//
+ID	uppermesopelagic_500m_7315_0
+NAME	uppermesopelagic_500m_7315_0
+STARTBASE	116872
+ENDBASE	117210
+PRODUCT	radical SAM domain-containing protein K06937
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7315_1
+NAME	uppermesopelagic_500m_7315_1
+STARTBASE	117319
+ENDBASE	117780
+PRODUCT	transcriptional regulator TrmB
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7316_1
+NAME	uppermesopelagic_500m_7316_1
+STARTBASE	118055
+ENDBASE	118561
+PRODUCT	peptide deformylase [SAR406 cluster bacterium SCGC AAA298-D23]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7317_0
+NAME	uppermesopelagic_500m_7317_0
+STARTBASE	118581
+ENDBASE	119003
+PRODUCT	pepA leucyl aminopeptidase (EC:3.4.11.1) K01255 [EC:3.4.11.1]
+PRODUCT-TYPE	P
+EC	3.4.11.1
+//
+ID	uppermesopelagic_500m_6792_0
+NAME	uppermesopelagic_500m_6792_0
+STARTBASE	120634
+ENDBASE	120921
+PRODUCT	[Thalassospira xiamenensis M-5 DSM 17429]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6792_1
+NAME	uppermesopelagic_500m_6792_1
+STARTBASE	120990
+ENDBASE	121349
+PRODUCT	TraR/DksA family transcriptional regulator K06204 DnaK suppressor protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6791_0
+NAME	uppermesopelagic_500m_6791_0
+STARTBASE	121759
+ENDBASE	122271
+PRODUCT	APT1 APT1 (ADENINE PHOSPHORIBOSYL TRANSFERASE 1) adenine phosphoribosyltransferase (EC:2.4.2.7) K00759 [EC:2.4.2.7]
+PRODUCT-TYPE	P
+EC	2.4.2.7
+//
+ID	uppermesopelagic_500m_8557_0
+NAME	uppermesopelagic_500m_8557_0
+STARTBASE	123569
+ENDBASE	123940
+PRODUCT	MgtE intracellular region K06213 magnesium transporter
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8557_1
+NAME	uppermesopelagic_500m_8557_1
+STARTBASE	124000
+ENDBASE	124305
+PRODUCT	uncharacterized conserved protein containing predicted Zn-ribbon like domain [Colwellia psychrerythraea 34H]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6795_0
+NAME	uppermesopelagic_500m_6795_0
+STARTBASE	125621
+ENDBASE	126457
+PRODUCT	tRNA pseudouridine synthase A (EC 4.2.1.70) [SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+EC	4.2.1.70
+//
+ID	uppermesopelagic_500m_6799_0
+NAME	uppermesopelagic_500m_6799_0
+STARTBASE	127006
+ENDBASE	127854
+PRODUCT	mfd transcription repair coupling factor (EC:3.6.1.-) K03723 transcription-repair (superfamily II helicase) [EC:3.6.4.-]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6798_0
+NAME	uppermesopelagic_500m_6798_0
+STARTBASE	127994
+ENDBASE	128857
+PRODUCT	K07793 putative tricarboxylic transport membrane protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8030_0
+NAME	uppermesopelagic_500m_8030_0
+STARTBASE	129000
+ENDBASE	129731
+PRODUCT	M23/M37 peptidase [Thalassospira xiamenensis M-5 DSM 17429]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8031_0
+NAME	uppermesopelagic_500m_8031_0
+STARTBASE	130054
+ENDBASE	130452
+PRODUCT	aldehyde oxidase xanthine dehydrogenase molybdopterin binding protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8031_1
+NAME	uppermesopelagic_500m_8031_1
+STARTBASE	130449
+ENDBASE	130886
+PRODUCT	(2Fe-2S)-binding domain-containing protein K03518 carbon-monoxide dehydrogenase small subunit [EC:1.2.99.2]
+PRODUCT-TYPE	P
+EC	1.2.99.2
+//
+ID	uppermesopelagic_500m_8032_0
+NAME	uppermesopelagic_500m_8032_0
+STARTBASE	130899
+ENDBASE	131618
+PRODUCT	rpb1 RNA polymerase II core subunit K03006 DNA-directed subunit RPB1 [EC:2.7.7.6]
+PRODUCT-TYPE	P
+EC	2.7.7.6
+//
+ID	uppermesopelagic_500m_8033_1
+NAME	uppermesopelagic_500m_8033_1
+STARTBASE	132720
+ENDBASE	133346
+PRODUCT	sul dihydropteroate synthase (EC:2.5.1.15) K00796 [EC:2.5.1.15]
+PRODUCT-TYPE	P
+EC	2.5.1.15
+//
+ID	uppermesopelagic_500m_8034_1
+NAME	uppermesopelagic_500m_8034_1
+STARTBASE	134398
+ENDBASE	135039
+PRODUCT	nucleotide sugar dehydrogenase (EC:1.1.1.22) K00012 UDPglucose 6-dehydrogenase [EC:1.1.1.22]
+PRODUCT-TYPE	P
+EC	1.1.1.22
+//
+ID	uppermesopelagic_500m_8035_0
+NAME	uppermesopelagic_500m_8035_0
+STARTBASE	135600
+ENDBASE	136442
+PRODUCT	Twin-arginine translocation pathway signal [Verrucomicrobia bacterium SCGC AAA168-F10]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6245_0
+NAME	uppermesopelagic_500m_6245_0
+STARTBASE	136673
+ENDBASE	137335
+PRODUCT	enoyl-CoA hydratase/isomerase (EC:4.2.1.17) K01692 hydratase [EC:4.2.1.17]
+PRODUCT-TYPE	P
+EC	4.2.1.17
+//
+ID	uppermesopelagic_500m_6245_1
+NAME	uppermesopelagic_500m_6245_1
+STARTBASE	137277
+ENDBASE	137537
+PRODUCT	enoyl-CoA hydratase/isomerase family protein K01692 hydratase [EC:4.2.1.17]
+PRODUCT-TYPE	P
+EC	4.2.1.17
+//
+ID	uppermesopelagic_500m_6244_1
+NAME	uppermesopelagic_500m_6244_1
+STARTBASE	137842
+ENDBASE	138546
+PRODUCT	fliG flagellar motor switch protein flig K02410 FliG
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6247_0
+NAME	uppermesopelagic_500m_6247_0
+STARTBASE	138730
+ENDBASE	138927
+PRODUCT	Tripartite ATP-independent periplasmic transporter, DctQ component [Citreicella sp. SE45]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6247_1
+NAME	uppermesopelagic_500m_6247_1
+STARTBASE	138924
+ENDBASE	139562
+PRODUCT	transcriptional regulator, IclR family [Citreicella sp. SE45]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6246_0
+NAME	uppermesopelagic_500m_6246_0
+STARTBASE	139575
+ENDBASE	140000
+PRODUCT	, partial [SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6243_0
+NAME	uppermesopelagic_500m_6243_0
+STARTBASE	142496
+ENDBASE	142924
+PRODUCT	Transcription termination protein NusA [SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8037_0
+NAME	uppermesopelagic_500m_8037_0
+STARTBASE	144653
+ENDBASE	145219
+PRODUCT	FIG027190: Putative transmembrane protein [Xanthomonas axonopodis pv. punicae str. LMG 859]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6248_0
+NAME	uppermesopelagic_500m_6248_0
+STARTBASE	146634
+ENDBASE	147623
+PRODUCT	K07793 putative tricarboxylic transport membrane protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6300_0
+NAME	uppermesopelagic_500m_6300_0
+STARTBASE	148380
+ENDBASE	149189
+PRODUCT	Xylose isomerase, putative (EC:5.3.1.5) K01805 xylose isomerase [EC:5.3.1.5]
+PRODUCT-TYPE	P
+EC	5.3.1.5
+//
+ID	uppermesopelagic_500m_6303_0
+NAME	uppermesopelagic_500m_6303_0
+STARTBASE	151398
+ENDBASE	152054
+PRODUCT	, partial [Chloroflexi bacterium SCGC AB-629-P13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6304_0
+NAME	uppermesopelagic_500m_6304_0
+STARTBASE	152360
+ENDBASE	152815
+PRODUCT	isoprenylcysteine carboxyl methyltransferase family protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6304_1
+NAME	uppermesopelagic_500m_6304_1
+STARTBASE	152829
+ENDBASE	153122
+PRODUCT	diguanylate cyclase PAS/PAC sensor [Aurantimonas sp. SI85-9A1]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6305_1
+NAME	uppermesopelagic_500m_6305_1
+STARTBASE	153606
+ENDBASE	154196
+PRODUCT	nusA transcription elongation factor NusA K02600 N utilization substance protein A
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6308_0
+NAME	uppermesopelagic_500m_6308_0
+STARTBASE	156512
+ENDBASE	157099
+PRODUCT	coenzyme A transferase K01041 [EC:2.8.3.-]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6308_1
+NAME	uppermesopelagic_500m_6308_1
+STARTBASE	157096
+ENDBASE	157353
+PRODUCT	CoA transferase subunit beta
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6309_0
+NAME	uppermesopelagic_500m_6309_0
+STARTBASE	157424
+ENDBASE	158194
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3969_0
+NAME	uppermesopelagic_500m_3969_0
+STARTBASE	159167
+ENDBASE	160003
+PRODUCT	ABC transporter related K06147 ATP-binding cassette, subfamily B, bacterial
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3967_0
+NAME	uppermesopelagic_500m_3967_0
+STARTBASE	160291
+ENDBASE	160995
+PRODUCT	short-chain dehydrogenase/reductase sdr
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3966_0
+NAME	uppermesopelagic_500m_3966_0
+STARTBASE	161237
+ENDBASE	161875
+PRODUCT	FIG00954774:  [Pseudomonas chlororaphis O6]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3965_0
+NAME	uppermesopelagic_500m_3965_0
+STARTBASE	162272
+ENDBASE	163081
+PRODUCT	Ldhd, 4733401P21Rik, D8Bwg1320e lactate dehydrogenase D (EC:1.1.2.4) K00102 D-lactate (cytochrome) [EC:1.1.2.4]
+PRODUCT-TYPE	P
+EC	1.1.2.4
+//
+ID	uppermesopelagic_500m_3963_0
+NAME	uppermesopelagic_500m_3963_0
+STARTBASE	164228
+ENDBASE	165070
+PRODUCT	ABC transporter, transmembrane ATP-binding protein K06147 cassette, subfamily B, bacterial
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3962_0
+NAME	uppermesopelagic_500m_3962_0
+STARTBASE	165257
+ENDBASE	165892
+PRODUCT	[SAR324 cluster bacterium SCGC AB-629-O05]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3961_0
+NAME	uppermesopelagic_500m_3961_0
+STARTBASE	166220
+ENDBASE	166861
+PRODUCT	[Thioflavicoccus mobilis 8321]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6675_0
+NAME	uppermesopelagic_500m_6675_0
+STARTBASE	168363
+ENDBASE	168854
+PRODUCT	cation transporter (EC:2.7.7.7) K03498 trk system potassium uptake protein TrkH
+PRODUCT-TYPE	P
+EC	2.7.7.7
+//
+ID	uppermesopelagic_500m_655_0
+NAME	uppermesopelagic_500m_655_0
+STARTBASE	169218
+ENDBASE	169679
+PRODUCT	secA, azi, div preprotein translocase subunit SecA K03070 SecA
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_654_0
+NAME	uppermesopelagic_500m_654_0
+STARTBASE	170109
+ENDBASE	170384
+PRODUCT	UDP-glucose 4-epimerase (EC 5.1.3.2) [Blastococcus saxobsidens DD2]
+PRODUCT-TYPE	P
+EC	5.1.3.2
+//
+ID	uppermesopelagic_500m_654_1
+NAME	uppermesopelagic_500m_654_1
+STARTBASE	170446
+ENDBASE	170715
+PRODUCT	putative GDP-D-mannose dehydratase (EC:4.2.1.46) K01710 dTDP-glucose 4,6-dehydratase [EC:4.2.1.46]
+PRODUCT-TYPE	P
+EC	4.2.1.46
+//
+ID	uppermesopelagic_500m_4533_0
+NAME	uppermesopelagic_500m_4533_0
+STARTBASE	170894
+ENDBASE	171652
+PRODUCT	glutaminyl-tRNA synthetase, putative (EC:6.1.1.18) K01886 synthetase [EC:6.1.1.18]
+PRODUCT-TYPE	P
+EC	6.1.1.18
+//
+ID	uppermesopelagic_500m_875_0
+NAME	uppermesopelagic_500m_875_0
+STARTBASE	173680
+ENDBASE	174240
+PRODUCT	Outer membrane lipoprotein-sorting protein [marine gamma proteobacterium HTCC2143]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_650_0
+NAME	uppermesopelagic_500m_650_0
+STARTBASE	174538
+ENDBASE	175173
+PRODUCT	helicase C2 K03722 ATP-dependent DNA DinG [EC:3.6.4.12]
+PRODUCT-TYPE	P
+EC	3.6.4.12
+//
+ID	uppermesopelagic_500m_876_0
+NAME	uppermesopelagic_500m_876_0
+STARTBASE	175380
+ENDBASE	176054
+PRODUCT	Flagellar basal-body rod modification protein FlgD [SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4534_0
+NAME	uppermesopelagic_500m_4534_0
+STARTBASE	176170
+ENDBASE	177057
+PRODUCT	pyruvate phosphate dikinase (EC:2.7.9.1) K01006 pyruvate,orthophosphate [EC:2.7.9.1]
+PRODUCT-TYPE	P
+EC	2.7.9.1
+//
+ID	uppermesopelagic_500m_2151_0
+NAME	uppermesopelagic_500m_2151_0
+STARTBASE	177197
+ENDBASE	177391
+PRODUCT	type II secretion system protein E K02652 IV pilus assembly PilB
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2151_1
+NAME	uppermesopelagic_500m_2151_1
+STARTBASE	177476
+ENDBASE	177907
+PRODUCT	type II secretion system protein E K02652 IV pilus assembly PilB
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2153_0
+NAME	uppermesopelagic_500m_2153_0
+STARTBASE	179109
+ENDBASE	179948
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2155_0
+NAME	uppermesopelagic_500m_2155_0
+STARTBASE	181149
+ENDBASE	181568
+PRODUCT	superoxide dismutase [Mn], mitochondrial precursor K04564 dismutase, Fe-Mn family [EC:1.15.1.1]
+PRODUCT-TYPE	P
+EC	1.15.1.1
+//
+ID	uppermesopelagic_500m_2157_0
+NAME	uppermesopelagic_500m_2157_0
+STARTBASE	182640
+ENDBASE	183608
+PRODUCT	acetyl-CoA carboxylase, carboxyl transferase, beta subunit
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2159_0
+NAME	uppermesopelagic_500m_2159_0
+STARTBASE	184809
+ENDBASE	185036
+PRODUCT	amino acid permease-associated region K03294 basic acid/polyamine antiporter, APA family
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2158_0
+NAME	uppermesopelagic_500m_2158_0
+STARTBASE	185053
+ENDBASE	185895
+PRODUCT	[Verrucomicrobia bacterium SCGC AAA164-E04]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2488_0
+NAME	uppermesopelagic_500m_2488_0
+STARTBASE	188299
+ENDBASE	188628
+PRODUCT	Propionyl-CoA carboxylase (EC:6.4.1.3)
+PRODUCT-TYPE	P
+EC	6.4.1.3
+//
+ID	uppermesopelagic_500m_7152_0
+NAME	uppermesopelagic_500m_7152_0
+STARTBASE	188641
+ENDBASE	189090
+PRODUCT	inner-membrane translocator (EC:3.6.3.25) K01997 branched-chain amino acid transport system permease protein
+PRODUCT-TYPE	P
+EC	3.6.3.25
+//
+ID	uppermesopelagic_500m_7152_1
+NAME	uppermesopelagic_500m_7152_1
+STARTBASE	189096
+ENDBASE	189413
+PRODUCT	livF1 branched-chain amino acid ABC transporter ATP-binding protein LivF (EC:3.6.3.22) K01996 transport system
+PRODUCT-TYPE	P
+EC	3.6.3.22
+//
+ID	uppermesopelagic_500m_2480_0
+NAME	uppermesopelagic_500m_2480_0
+STARTBASE	191774
+ENDBASE	192391
+PRODUCT	TonB-like [Verrucomicrobia bacterium SCGC AAA164-L15]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2487_0
+NAME	uppermesopelagic_500m_2487_0
+STARTBASE	192405
+ENDBASE	193028
+PRODUCT	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase, FabA/FabZ
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6876_0
+NAME	uppermesopelagic_500m_6876_0
+STARTBASE	195458
+ENDBASE	195850
+PRODUCT	pncB nicotinate phosphoribosyltransferase (EC:2.4.2.11) K00763 [EC:2.4.2.11]
+PRODUCT-TYPE	P
+EC	2.4.2.11
+//
+ID	uppermesopelagic_500m_6876_1
+NAME	uppermesopelagic_500m_6876_1
+STARTBASE	196016
+ENDBASE	196384
+PRODUCT	Conserved secreted protein [Alcanivorax dieselolei B5]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6877_0
+NAME	uppermesopelagic_500m_6877_0
+STARTBASE	196515
+ENDBASE	197384
+PRODUCT	phage integrase family protein K04763 integrase/recombinase XerD
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6874_1
+NAME	uppermesopelagic_500m_6874_1
+STARTBASE	197594
+ENDBASE	197821
+PRODUCT	Gene Transfer Agent (GTA) ORFG10b [Roseovarius sp. HTCC2601]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6875_0
+NAME	uppermesopelagic_500m_6875_0
+STARTBASE	198409
+ENDBASE	199275
+PRODUCT	5-enolpyruvylshikimate-3-phosphate synthase (EC:2.5.1.19) K00800 3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]
+PRODUCT-TYPE	P
+EC	2.5.1.19
+//
+ID	uppermesopelagic_500m_6872_1
+NAME	uppermesopelagic_500m_6872_1
+STARTBASE	199840
+ENDBASE	200346
+PRODUCT	binding-protein-dependent transport systems inner membrane component K02033 peptide/nickel system permease protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6871_0
+NAME	uppermesopelagic_500m_6871_0
+STARTBASE	202409
+ENDBASE	202936
+PRODUCT	[SAR406 cluster bacterium SCGC AAA298-D23]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6878_0
+NAME	uppermesopelagic_500m_6878_0
+STARTBASE	203368
+ENDBASE	203685
+PRODUCT	cysG putative uroporphyrin-III C-methyltransferase (EC:2.1.1.107) K02303 [EC:2.1.1.107]
+PRODUCT-TYPE	P
+EC	2.1.1.107
+//
+ID	uppermesopelagic_500m_6878_1
+NAME	uppermesopelagic_500m_6878_1
+STARTBASE	203682
+ENDBASE	204320
+PRODUCT	uroporphyrinogen-III synthase/methyltransferase (EC:2.1.1.107 4.2.1.75) K13542 uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75]
+PRODUCT-TYPE	P
+EC	2.1.1.107
+//
+ID	uppermesopelagic_500m_6879_0
+NAME	uppermesopelagic_500m_6879_0
+STARTBASE	204471
+ENDBASE	205046
+PRODUCT	pco144726 LOC100272498
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7151_0
+NAME	uppermesopelagic_500m_7151_0
+STARTBASE	205903
+ENDBASE	206667
+PRODUCT	sdhB1 fumarate reductase iron-sulfur subunit (EC:1.3.99.1) K00240 succinate dehydrogenase protein [EC:1.3.99.1]
+PRODUCT-TYPE	P
+EC	1.3.99.1
+//
+ID	uppermesopelagic_500m_4654_0
+NAME	uppermesopelagic_500m_4654_0
+STARTBASE	206698
+ENDBASE	207474
+PRODUCT	[marine gamma proteobacterium HTCC2148]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4655_0
+NAME	uppermesopelagic_500m_4655_0
+STARTBASE	207487
+ENDBASE	208140
+PRODUCT	pheS phenylalanyl-tRNA synthetase subunit alpha (EC:6.1.1.20) K01889 chain [EC:6.1.1.20]
+PRODUCT-TYPE	P
+EC	6.1.1.20
+//
+ID	uppermesopelagic_500m_3683_1
+NAME	uppermesopelagic_500m_3683_1
+STARTBASE	211783
+ENDBASE	212088
+PRODUCT	uncharacterized protein [Clostridium sp. CAG:440]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7156_0
+NAME	uppermesopelagic_500m_7156_0
+STARTBASE	218822
+ENDBASE	219238
+PRODUCT	aceF branched-chain alpha-keto acid dehydrogenase subunit E2 K00627 pyruvate E2 component (dihydrolipoamide acetyltransferase) [EC:2.3.1.12]
+PRODUCT-TYPE	P
+EC	2.3.1.12
+//
+ID	uppermesopelagic_500m_8308_0
+NAME	uppermesopelagic_500m_8308_0
+STARTBASE	219969
+ENDBASE	220358
+PRODUCT	oligopeptide abc transporter, putative (EC:3.6.3.30)
+PRODUCT-TYPE	P
+EC	3.6.3.30
+//
+ID	uppermesopelagic_500m_8308_1
+NAME	uppermesopelagic_500m_8308_1
+STARTBASE	220351
+ENDBASE	220611
+PRODUCT	oligopeptide/dipeptide ABC transporter ATPase subunit K02032 peptide/nickel transport system ATP-binding protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8309_0
+NAME	uppermesopelagic_500m_8309_0
+STARTBASE	220967
+ENDBASE	221566
+PRODUCT	primosomal protein N, (replication factor Y) (superfamily II helicase) K04066 N' helicase) [EC:3.6.4.-]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8306_0
+NAME	uppermesopelagic_500m_8306_0
+STARTBASE	222140
+ENDBASE	222583
+PRODUCT	[Acidovorax sp. MR-S7]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8307_0
+NAME	uppermesopelagic_500m_8307_0
+STARTBASE	223143
+ENDBASE	223736
+PRODUCT	TRP3 likely bifunctional tryptophan biosynthesis enzyme similar to S. cerevisiae TRP3 (YKL211C) indole-3-glycerol phosphate synthase anthranilate component II K01656 / [EC:4.1.3.27 4.1.1.48]
+PRODUCT-TYPE	P
+EC	4.1.3.27
+//
+ID	uppermesopelagic_500m_8304_0
+NAME	uppermesopelagic_500m_8304_0
+STARTBASE	223922
+ENDBASE	224647
+PRODUCT	aco2 aconitase, mitochondrial K01681 aconitate hydratase 1 [EC:4.2.1.3]
+PRODUCT-TYPE	P
+EC	4.2.1.3
+//
+ID	uppermesopelagic_500m_8303_0
+NAME	uppermesopelagic_500m_8303_0
+STARTBASE	226098
+ENDBASE	226805
+PRODUCT	orotidine 5'-phosphate decarboxylase (EC:4.1.1.23) K01591 orotidine-5'-phosphate [EC:4.1.1.23]
+PRODUCT-TYPE	P
+EC	4.1.1.23
+//
+ID	uppermesopelagic_500m_8300_0
+NAME	uppermesopelagic_500m_8300_0
+STARTBASE	227064
+ENDBASE	227783
+PRODUCT	prephenate dehydratase/chorismate mutase (EC:5.4.99.5 4.2.1.51) K14170 chorismate / dehydratase [EC:5.4.99.5 4.2.1.51]
+PRODUCT-TYPE	P
+EC	5.4.99.5
+//
+ID	uppermesopelagic_500m_8301_1
+NAME	uppermesopelagic_500m_8301_1
+STARTBASE	228202
+ENDBASE	228933
+PRODUCT	dehydrogenase (flavoprotein)-like protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4431_0
+NAME	uppermesopelagic_500m_4431_0
+STARTBASE	231729
+ENDBASE	232106
+PRODUCT	similar to EMB2394 (EMBRYO DEFECTIVE 2394) structural constituent ribosome
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4432_0
+NAME	uppermesopelagic_500m_4432_0
+STARTBASE	232613
+ENDBASE	233497
+PRODUCT	Dihydroxy-acid dehydratase (EC 4.2.1.9) [alpha proteobacterium BAL199]
+PRODUCT-TYPE	P
+EC	4.2.1.9
+//
+ID	uppermesopelagic_500m_4437_0
+NAME	uppermesopelagic_500m_4437_0
+STARTBASE	237759
+ENDBASE	238265
+PRODUCT	FIG00480798:  [Caulobacter sp. AP07]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6490_1
+NAME	uppermesopelagic_500m_6490_1
+STARTBASE	238817
+ENDBASE	239446
+PRODUCT	inorganic polyphosphate/ATP-NAD kinase, putative (EC:2.7.1.23) K00858 NAD+ kinase [EC:2.7.1.23]
+PRODUCT-TYPE	P
+EC	2.7.1.23
+//
+ID	uppermesopelagic_500m_6494_0
+NAME	uppermesopelagic_500m_6494_0
+STARTBASE	242687
+ENDBASE	243640
+PRODUCT	NreB protein K07785 MFS transporter, NRE family, putaive nickel resistance protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6495_0
+NAME	uppermesopelagic_500m_6495_0
+STARTBASE	243653
+ENDBASE	244372
+PRODUCT	peptidase S1 S6 chymotrypsin/Hap K12600 superkiller protein 3
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_6499_0
+NAME	uppermesopelagic_500m_6499_0
+STARTBASE	246793
+ENDBASE	247227
+PRODUCT	[Thauera linaloolentis 47Lol DSM 12138]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_569_0
+NAME	uppermesopelagic_500m_569_0
+STARTBASE	247544
+ENDBASE	248203
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5749_0
+NAME	uppermesopelagic_500m_5749_0
+STARTBASE	256285
+ENDBASE	256788
+PRODUCT	GI10131 gene product from transcript GI10131-RA K01623 fructose-bisphosphate aldolase, class I [EC:4.1.2.13]
+PRODUCT-TYPE	P
+EC	4.1.2.13
+//
+ID	uppermesopelagic_500m_5748_1
+NAME	uppermesopelagic_500m_5748_1
+STARTBASE	257708
+ENDBASE	258226
+PRODUCT	3-alpha,7-alpha, 12-alpha-trihydroxy-5-beta-cholest-24-enoyl-CoAhydratase (EC:4.2.1.107)
+PRODUCT-TYPE	P
+EC	4.2.1.107
+//
+ID	uppermesopelagic_500m_5219_0
+NAME	uppermesopelagic_500m_5219_0
+STARTBASE	258308
+ENDBASE	259051
+PRODUCT	peptidase M24 K01262 Xaa-Pro aminopeptidase [EC:3.4.11.9]
+PRODUCT-TYPE	P
+EC	3.4.11.9
+//
+ID	uppermesopelagic_500m_5215_0
+NAME	uppermesopelagic_500m_5215_0
+STARTBASE	262338
+ENDBASE	263207
+PRODUCT	Acads, NV12056 acyl-Coenzyme A dehydrogenase, C-2 to C-3 short chain (EC:1.3.99.2) K00248 butyryl-CoA dehydrogenase [EC:1.3.99.2]
+PRODUCT-TYPE	P
+EC	1.3.99.2
+//
+ID	uppermesopelagic_500m_5213_1
+NAME	uppermesopelagic_500m_5213_1
+STARTBASE	264420
+ENDBASE	264875
+PRODUCT	DNA topoisomerase I (EC:5.99.1.2)
+PRODUCT-TYPE	P
+EC	5.99.1.2
+//
+ID	uppermesopelagic_500m_5212_1
+NAME	uppermesopelagic_500m_5212_1
+STARTBASE	265459
+ENDBASE	265968
+PRODUCT	Diadenylate cyclase spyDAC Bacterial checkpoint controller DisA nucleotide-binding domain [Acetonema longum DSM 6540]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5210_0
+NAME	uppermesopelagic_500m_5210_0
+STARTBASE	267540
+ENDBASE	268199
+PRODUCT	imidazolonepropionase (EC:3.5.2.7)
+PRODUCT-TYPE	P
+EC	3.5.2.7
+//
+ID	uppermesopelagic_500m_1059_0
+NAME	uppermesopelagic_500m_1059_0
+STARTBASE	268474
+ENDBASE	269106
+PRODUCT	aprA adenylylsulfate reductase subunit alpha (EC:1.8.99.2) K00394 reductase, A [EC:1.8.99.2]
+PRODUCT-TYPE	P
+EC	1.8.99.2
+//
+ID	uppermesopelagic_500m_1058_0
+NAME	uppermesopelagic_500m_1058_0
+STARTBASE	269233
+ENDBASE	269883
+PRODUCT	[Alcanivorax dieselolei B5]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1051_1
+NAME	uppermesopelagic_500m_1051_1
+STARTBASE	270368
+ENDBASE	270847
+PRODUCT	mitochondrial peroxiredoxin PRX1 K03386 (alkyl hydroperoxide reductase subunit C) [EC:1.11.1.15]
+PRODUCT-TYPE	P
+EC	1.11.1.15
+//
+ID	uppermesopelagic_500m_1050_0
+NAME	uppermesopelagic_500m_1050_0
+STARTBASE	270933
+ENDBASE	271310
+PRODUCT	5 nucleotidase, deoxy, cytosolic type C
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1050_1
+NAME	uppermesopelagic_500m_1050_1
+STARTBASE	271405
+ENDBASE	271779
+PRODUCT	pseudouridine synthase, RluA family
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1053_0
+NAME	uppermesopelagic_500m_1053_0
+STARTBASE	271832
+ENDBASE	272305
+PRODUCT	electron transport complex, RnfABCDGE type, B subunit K03616 complex protein RnfB
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1054_0
+NAME	uppermesopelagic_500m_1054_0
+STARTBASE	274461
+ENDBASE	274928
+PRODUCT	short-chain dehydrogenase/reductase SDR
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1057_0
+NAME	uppermesopelagic_500m_1057_0
+STARTBASE	275254
+ENDBASE	275547
+PRODUCT	dgkA diacylglycerol kinase DagK (EC:2.7.1.107) K00901 [EC:2.7.1.107]
+PRODUCT-TYPE	P
+EC	2.7.1.107
+//
+ID	uppermesopelagic_500m_1057_1
+NAME	uppermesopelagic_500m_1057_1
+STARTBASE	275552
+ENDBASE	275797
+PRODUCT	[SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1056_0
+NAME	uppermesopelagic_500m_1056_0
+STARTBASE	276144
+ENDBASE	276401
+PRODUCT	rpl16 ribosomal protein L16
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1056_1
+NAME	uppermesopelagic_500m_1056_1
+STARTBASE	276414
+ENDBASE	276653
+PRODUCT	rpsC 30S ribosomal protein S3 K02982 small subunit S3
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2972_1
+NAME	uppermesopelagic_500m_2972_1
+STARTBASE	278451
+ENDBASE	279041
+PRODUCT	putative oxidase
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2971_0
+NAME	uppermesopelagic_500m_2971_0
+STARTBASE	279056
+ENDBASE	279508
+PRODUCT	FIG01040775:  [Salinibacter ruber DSM 13855]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2971_1
+NAME	uppermesopelagic_500m_2971_1
+STARTBASE	279468
+ENDBASE	280028
+PRODUCT	phosphomannomutase (EC:5.4.2.8) K01840 [EC:5.4.2.8]
+PRODUCT-TYPE	P
+EC	5.4.2.8
+//
+ID	uppermesopelagic_500m_2970_0
+NAME	uppermesopelagic_500m_2970_0
+STARTBASE	280042
+ENDBASE	280320
+PRODUCT	K09123 protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2970_1
+NAME	uppermesopelagic_500m_2970_1
+STARTBASE	280367
+ENDBASE	280864
+PRODUCT	[Marine Group I thaumarchaeote SCGC AB-629-I23]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2977_0
+NAME	uppermesopelagic_500m_2977_0
+STARTBASE	281013
+ENDBASE	281765
+PRODUCT	D-aminoacylase (N-acyl-D-amino-acid deacylase)( EC:3.5.1.81 ) [Reyranella massiliensis 521]
+PRODUCT-TYPE	P
+EC	3.5.1.81
+//
+ID	uppermesopelagic_500m_2975_0
+NAME	uppermesopelagic_500m_2975_0
+STARTBASE	283015
+ENDBASE	283716
+PRODUCT	[Zavarzinella formosa DSM 19928]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1448_0
+NAME	uppermesopelagic_500m_1448_0
+STARTBASE	287043
+ENDBASE	287690
+PRODUCT	ABC transporter ATPase (EC:3.6.3.-) K02052 putative spermidine/putrescine transport system ATP-binding protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1449_0
+NAME	uppermesopelagic_500m_1449_0
+STARTBASE	287857
+ENDBASE	288651
+PRODUCT	Sulfite reductase [NADPH] hemoprotein beta-component (EC 1.8.1.2) [Alcanivorax dieselolei B5]
+PRODUCT-TYPE	P
+EC	1.8.1.2
+//
+ID	uppermesopelagic_500m_1446_0
+NAME	uppermesopelagic_500m_1446_0
+STARTBASE	288703
+ENDBASE	289065
+PRODUCT	Esd, Es-10, Es10, sid478 esterase D/formylglutathione hydrolase (EC:3.1.2.12) K01070 S-formylglutathione [EC:3.1.2.12]
+PRODUCT-TYPE	P
+EC	3.1.2.12
+//
+ID	uppermesopelagic_500m_1447_0
+NAME	uppermesopelagic_500m_1447_0
+STARTBASE	289608
+ENDBASE	290009
+PRODUCT	amino acid carrier protein K03310 alanine or glycine:cation symporter, AGCS family
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1443_0
+NAME	uppermesopelagic_500m_1443_0
+STARTBASE	292982
+ENDBASE	293263
+PRODUCT	ribBA 3,4-dihydroxy-2-butanone 4-phosphate synthase/GTP cyclohydrolase II (EC:3.5.4.25) K14652 3,4-dihydroxy 2-butanone synthase / GTP [EC:4.1.99.12 3.5.4.25]
+PRODUCT-TYPE	P
+EC	3.5.4.25
+//
+ID	uppermesopelagic_500m_1443_1
+NAME	uppermesopelagic_500m_1443_1
+STARTBASE	293260
+ENDBASE	293724
+PRODUCT	identified similarity to GB:BAB50941.1 [Silicibacter pomeroyi DSS-3]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1440_0
+NAME	uppermesopelagic_500m_1440_0
+STARTBASE	293737
+ENDBASE	294498
+PRODUCT	polyribonucleotide nucleotidyltransferase, putative (EC:2.7.7.8) K00962 nucleotidyltransferase [EC:2.7.7.8]
+PRODUCT-TYPE	P
+EC	2.7.7.8
+//
+ID	uppermesopelagic_500m_1441_0
+NAME	uppermesopelagic_500m_1441_0
+STARTBASE	294510
+ENDBASE	295070
+PRODUCT	putative mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase [Leptotrichia sp. oral taxon 225]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3517_0
+NAME	uppermesopelagic_500m_3517_0
+STARTBASE	296008
+ENDBASE	296760
+PRODUCT	5-oxoprolinase (ATP-hydrolyzing) (EC:3.5.2.9) K01474 N-methylhydantoinase B [EC:3.5.2.14]
+PRODUCT-TYPE	P
+EC	3.5.2.9
+//
+ID	uppermesopelagic_500m_3514_0
+NAME	uppermesopelagic_500m_3514_0
+STARTBASE	296974
+ENDBASE	297354
+PRODUCT	thiosulfate sulfurtransferase (EC:2.8.1.1) K01011 thiosulfate/3-mercaptopyruvate [EC:2.8.1.1 2.8.1.2]
+PRODUCT-TYPE	P
+EC	2.8.1.1
+//
+ID	uppermesopelagic_500m_3514_1
+NAME	uppermesopelagic_500m_3514_1
+STARTBASE	297364
+ENDBASE	297786
+PRODUCT	SNARE associated Golgi protein-like protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3511_0
+NAME	uppermesopelagic_500m_3511_0
+STARTBASE	300097
+ENDBASE	300432
+PRODUCT	[SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3511_1
+NAME	uppermesopelagic_500m_3511_1
+STARTBASE	300515
+ENDBASE	300874
+PRODUCT	organic solvent tolerance protein [SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3166_0
+NAME	uppermesopelagic_500m_3166_0
+STARTBASE	304314
+ENDBASE	304883
+PRODUCT	Ig family protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3164_1
+NAME	uppermesopelagic_500m_3164_1
+STARTBASE	306501
+ENDBASE	306788
+PRODUCT	FIG00444181:  [Bradyrhizobium japonicum USDA 6]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_3163_0
+NAME	uppermesopelagic_500m_3163_0
+STARTBASE	307016
+ENDBASE	307843
+PRODUCT	[candidate division WS3 bacterium SCGC AAA252-E07]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7512_0
+NAME	uppermesopelagic_500m_7512_0
+STARTBASE	311989
+ENDBASE	312774
+PRODUCT	transcription factor TFIIB cyclin-related protein K03124 initiation
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_7510_0
+NAME	uppermesopelagic_500m_7510_0
+STARTBASE	313806
+ENDBASE	314042
+PRODUCT	guaA gmp synthase (glutamine amidotransferase) protein (EC:6.3.5.2 6.3.4.1) K01951 GMP (glutamine-hydrolysing) [EC:6.3.5.2]
+PRODUCT-TYPE	P
+EC	6.3.5.2
+//
+ID	uppermesopelagic_500m_7510_1
+NAME	uppermesopelagic_500m_7510_1
+STARTBASE	314029
+ENDBASE	314316
+PRODUCT	GMP synthase, large subunit (EC:6.3.5.2) K01951 synthase (glutamine-hydrolysing) [EC:6.3.5.2]
+PRODUCT-TYPE	P
+EC	6.3.5.2
+//
+ID	uppermesopelagic_500m_7515_0
+NAME	uppermesopelagic_500m_7515_0
+STARTBASE	317616
+ENDBASE	317954
+PRODUCT	putative acetyl-CoA acetyltransferase (acetoacetyl-CoA thiolase) (EC:2.3.1.9) K00626 C-acetyltransferase [EC:2.3.1.9]
+PRODUCT-TYPE	P
+EC	2.3.1.9
+//
+ID	uppermesopelagic_500m_2744_0
+NAME	uppermesopelagic_500m_2744_0
+STARTBASE	318567
+ENDBASE	318968
+PRODUCT	secA preprotein translocase subunit SecA K03070 SecA
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2745_0
+NAME	uppermesopelagic_500m_2745_0
+STARTBASE	319537
+ENDBASE	319818
+PRODUCT	ATPase (EC:2.1.1.35) K03631 DNA repair protein RecN (Recombination N)
+PRODUCT-TYPE	P
+EC	2.1.1.35
+//
+ID	uppermesopelagic_500m_2745_1
+NAME	uppermesopelagic_500m_2745_1
+STARTBASE	319828
+ENDBASE	320220
+PRODUCT	tetratricopeptide repeat family protein K05807 putative lipoprotein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2747_0
+NAME	uppermesopelagic_500m_2747_0
+STARTBASE	321403
+ENDBASE	321744
+PRODUCT	ATP binding cassette (abc) transporter, putative (EC:3.6.3.28)
+PRODUCT-TYPE	P
+EC	3.6.3.28
+//
+ID	uppermesopelagic_500m_2740_0
+NAME	uppermesopelagic_500m_2740_0
+STARTBASE	322416
+ENDBASE	323117
+PRODUCT	helicase, C-terminal:DEAD/DEAH box N-terminal K03724 ATP-dependent helicase Lhr Lhr-like [EC:3.6.4.-]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_2741_0
+NAME	uppermesopelagic_500m_2741_0
+STARTBASE	323352
+ENDBASE	324185
+PRODUCT	DEAD/DEAH box helicase domain protein K05592 ATP-dependent RNA DeaD [EC:3.6.4.13]
+PRODUCT-TYPE	P
+EC	3.6.4.13
+//
+ID	uppermesopelagic_500m_2742_0
+NAME	uppermesopelagic_500m_2742_0
+STARTBASE	324455
+ENDBASE	324772
+PRODUCT	FIG00431945:  [Bordetella pertussis B1917]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8742_0
+NAME	uppermesopelagic_500m_8742_0
+STARTBASE	327456
+ENDBASE	328184
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8743_0
+NAME	uppermesopelagic_500m_8743_0
+STARTBASE	328215
+ENDBASE	328469
+PRODUCT	[Candidatus Microthrix parvicella]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1205_0
+NAME	uppermesopelagic_500m_1205_0
+STARTBASE	329906
+ENDBASE	330502
+PRODUCT	[SAR406 cluster bacterium SCGC AB-629-J13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1206_0
+NAME	uppermesopelagic_500m_1206_0
+STARTBASE	330743
+ENDBASE	331171
+PRODUCT	K09004 protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1202_1
+NAME	uppermesopelagic_500m_1202_1
+STARTBASE	334599
+ENDBASE	335096
+PRODUCT	[SAR406 cluster bacterium SCGC AB-629-J13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1203_0
+NAME	uppermesopelagic_500m_1203_0
+STARTBASE	335296
+ENDBASE	335859
+PRODUCT	EMB2761 (EMBRYO DEFECTIVE 2761) ATP binding / aminoacyl-tRNA ligase/ ligase, forming related compounds nucleotide threonine-tRNA ligase (EC:6.1.1.3) K01868 threonyl-tRNA synthetase [EC:6.1.1.3]
+PRODUCT-TYPE	P
+EC	6.1.1.3
+//
+ID	uppermesopelagic_500m_8741_0
+NAME	uppermesopelagic_500m_8741_0
+STARTBASE	336136
+ENDBASE	336465
+PRODUCT	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100) [SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+EC	1.1.1.100
+//
+ID	uppermesopelagic_500m_8741_1
+NAME	uppermesopelagic_500m_8741_1
+STARTBASE	336437
+ENDBASE	336994
+PRODUCT	Apolipoprotein N-acyltransferase (EC 2.3.1.-) / Copper homeostasis protein CutE [SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_1209_0
+NAME	uppermesopelagic_500m_1209_0
+STARTBASE	337901
+ENDBASE	338560
+PRODUCT	lon ATP-dependent protease La (EC:3.4.21.53) K01338 Lon [EC:3.4.21.53]
+PRODUCT-TYPE	P
+EC	3.4.21.53
+//
+ID	uppermesopelagic_500m_4406_0
+NAME	uppermesopelagic_500m_4406_0
+STARTBASE	338710
+ENDBASE	339471
+PRODUCT	L-carnitine dehydratase/bile acid-inducible protein F (EC 2.8.3.16) [Frankia sp. CN3]
+PRODUCT-TYPE	P
+EC	2.8.3.16
+//
+ID	uppermesopelagic_500m_3361_0
+NAME	uppermesopelagic_500m_3361_0
+STARTBASE	339715
+ENDBASE	339996
+PRODUCT	Rod shape-determining protein RodA [SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4400_0
+NAME	uppermesopelagic_500m_4400_0
+STARTBASE	340275
+ENDBASE	340991
+PRODUCT	[SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4402_1
+NAME	uppermesopelagic_500m_4402_1
+STARTBASE	341720
+ENDBASE	342133
+PRODUCT	allantoate amidohydrolase (EC:3.5.1.87) K06016 N-carbamoyl-L-amino-acid hydrolase [EC:3.5.1.87]
+PRODUCT-TYPE	P
+EC	3.5.1.87
+//
+ID	uppermesopelagic_500m_5916_0
+NAME	uppermesopelagic_500m_5916_0
+STARTBASE	343820
+ENDBASE	344596
+PRODUCT	Indolepyruvate ferredoxin oxidoreductase IorA-like protein K04090 indolepyruvate oxidoreductase [EC:1.2.7.8]
+PRODUCT-TYPE	P
+EC	1.2.7.8
+//
+ID	uppermesopelagic_500m_5917_0
+NAME	uppermesopelagic_500m_5917_0
+STARTBASE	344795
+ENDBASE	345391
+PRODUCT	-putative related to sulfatases [Verrucomicrobia bacterium SCGC AAA168-F10]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5913_0
+NAME	uppermesopelagic_500m_5913_0
+STARTBASE	348490
+ENDBASE	348714
+PRODUCT	[Marine Group I thaumarchaeote SCGC AB-629-I23]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5913_1
+NAME	uppermesopelagic_500m_5913_1
+STARTBASE	348793
+ENDBASE	349191
+PRODUCT	metal-dependent protease PAD1/JA B1 superfamily
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8749_0
+NAME	uppermesopelagic_500m_8749_0
+STARTBASE	349623
+ENDBASE	349913
+PRODUCT	ribulose-phosphate 3-epimerase (EC:5.1.3.1) K01783 [EC:5.1.3.1]
+PRODUCT-TYPE	P
+EC	5.1.3.1
+//
+ID	uppermesopelagic_500m_8749_1
+NAME	uppermesopelagic_500m_8749_1
+STARTBASE	349941
+ENDBASE	350393
+PRODUCT	ATP-dependent Clp protease proteolytic subunit, putative (EC:3.4.21.92)
+PRODUCT-TYPE	P
+EC	3.4.21.92
+//
+ID	uppermesopelagic_500m_4355_0
+NAME	uppermesopelagic_500m_4355_0
+STARTBASE	353992
+ENDBASE	354315
+PRODUCT	fabG 3-ketoacyl-(acyl-carrier-protein) reductase (EC:1.1.1.100) K00059 3-oxoacyl-[acyl-carrier protein] [EC:1.1.1.100]
+PRODUCT-TYPE	P
+EC	1.1.1.100
+//
+ID	uppermesopelagic_500m_4354_0
+NAME	uppermesopelagic_500m_4354_0
+STARTBASE	355084
+ENDBASE	355740
+PRODUCT	[SAR86 cluster bacterium SAR86E]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4356_0
+NAME	uppermesopelagic_500m_4356_0
+STARTBASE	357011
+ENDBASE	357628
+PRODUCT	acyl-coa dehydrogenase (EC:1.3.99.3) K00249 acyl-CoA [EC:1.3.99.3]
+PRODUCT-TYPE	P
+EC	1.3.99.3
+//
+ID	uppermesopelagic_500m_4350_0
+NAME	uppermesopelagic_500m_4350_0
+STARTBASE	359064
+ENDBASE	359432
+PRODUCT	sdhB succinate dehydrogenase/fumarate reductase Fe-s protein subunit (EC:1.3.99.1) K00240 dehydrogenase iron-sulfur [EC:1.3.99.1]
+PRODUCT-TYPE	P
+EC	1.3.99.1
+//
+ID	uppermesopelagic_500m_4350_1
+NAME	uppermesopelagic_500m_4350_1
+STARTBASE	359432
+ENDBASE	359635
+PRODUCT	sdh1 succinate dehydrogenase Sdh1 (EC:1.3.5.1) K00234 (ubiquinone) flavoprotein subunit [EC:1.3.5.1]
+PRODUCT-TYPE	P
+EC	1.3.5.1
+//
+ID	uppermesopelagic_500m_4353_0
+NAME	uppermesopelagic_500m_4353_0
+STARTBASE	360079
+ENDBASE	360561
+PRODUCT	YgjD/Kae1/Qri7 family, required threonylcarbamoyladenosine (t(6)A) formation tRNA K01409 O-sialoglycoprotein endopeptidase [EC:3.4.24.57]
+PRODUCT-TYPE	P
+EC	3.4.24.57
+//
+ID	uppermesopelagic_500m_4353_1
+NAME	uppermesopelagic_500m_4353_1
+STARTBASE	360618
+ENDBASE	360827
+PRODUCT	hemC hydroxymethylbilane synthase (EC:2.5.1.61) K01749 [EC:2.5.1.61]
+PRODUCT-TYPE	P
+EC	2.5.1.61
+//
+ID	uppermesopelagic_500m_4352_0
+NAME	uppermesopelagic_500m_4352_0
+STARTBASE	361123
+ENDBASE	361581
+PRODUCT	transposase IS4 family protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4359_0
+NAME	uppermesopelagic_500m_4359_0
+STARTBASE	362210
+ENDBASE	362470
+PRODUCT	Steryl-sulfatase (EC:3.1.6.2)
+PRODUCT-TYPE	P
+EC	3.1.6.2
+//
+ID	uppermesopelagic_500m_4359_1
+NAME	uppermesopelagic_500m_4359_1
+STARTBASE	362695
+ENDBASE	363003
+PRODUCT	probable iron binding protein from family [Verrucomicrobium spinosum DSM 4136]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4358_1
+NAME	uppermesopelagic_500m_4358_1
+STARTBASE	363147
+ENDBASE	363923
+PRODUCT	cytochrome c oxidase assembly protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_794_0
+NAME	uppermesopelagic_500m_794_0
+STARTBASE	364093
+ENDBASE	364530
+PRODUCT	NHL repeat containing protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_795_0
+NAME	uppermesopelagic_500m_795_0
+STARTBASE	364952
+ENDBASE	365737
+PRODUCT	MoxR-type regulator protein K03924 MoxR-like ATPase [EC:3.6.3.-]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_797_0
+NAME	uppermesopelagic_500m_797_0
+STARTBASE	366658
+ENDBASE	367503
+PRODUCT	FAD linked oxidase, C-terminal:FAD N-terminal K00104 glycolate oxidase [EC:1.1.3.15]
+PRODUCT-TYPE	P
+EC	1.1.3.15
+//
+ID	uppermesopelagic_500m_792_0
+NAME	uppermesopelagic_500m_792_0
+STARTBASE	369254
+ENDBASE	369571
+PRODUCT	MerR family transcriptional regulator K13640 regulator, heat shock protein HspR
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_792_1
+NAME	uppermesopelagic_500m_792_1
+STARTBASE	369583
+ENDBASE	370020
+PRODUCT	ATPase AAA-2 domain-containing protein K03696 ATP-dependent Clp protease ATP-binding subunit ClpC
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_799_0
+NAME	uppermesopelagic_500m_799_0
+STARTBASE	373354
+ENDBASE	373983
+PRODUCT	ATPase associated various cellular activities K03924 MoxR-like [EC:3.6.3.-]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5931_0
+NAME	uppermesopelagic_500m_5931_0
+STARTBASE	374218
+ENDBASE	374994
+PRODUCT	outer membrane efflux protein
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5936_0
+NAME	uppermesopelagic_500m_5936_0
+STARTBASE	375189
+ENDBASE	375788
+PRODUCT	major facilitator superfamily
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_4451_0
+NAME	uppermesopelagic_500m_4451_0
+STARTBASE	376175
+ENDBASE	377092
+PRODUCT	methionine synthase vitamin-B12 independent K00549 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase [EC:2.1.1.14]
+PRODUCT-TYPE	P
+EC	2.1.1.14
+//
+ID	uppermesopelagic_500m_5934_0
+NAME	uppermesopelagic_500m_5934_0
+STARTBASE	378144
+ENDBASE	379013
+PRODUCT	TPR domain protein, putative component TonB system [Treponema primitia ZAS-1]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_5935_0
+NAME	uppermesopelagic_500m_5935_0
+STARTBASE	379186
+ENDBASE	379722
+PRODUCT	UbiD-like subunit putative (de) carboxylase K03182 3-octaprenyl-4-hydroxybenzoate carboxy-lyase UbiD [EC:4.1.1.-]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8537_0
+NAME	uppermesopelagic_500m_8537_0
+STARTBASE	381722
+ENDBASE	382291
+PRODUCT	protein-export membrane protein SecD K03072 preprotein translocase subunit SecD
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8536_0
+NAME	uppermesopelagic_500m_8536_0
+STARTBASE	382729
+ENDBASE	383415
+PRODUCT	440aa long  [SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8533_0
+NAME	uppermesopelagic_500m_8533_0
+STARTBASE	385705
+ENDBASE	385989
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8533_1
+NAME	uppermesopelagic_500m_8533_1
+STARTBASE	386081
+ENDBASE	386533
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	uppermesopelagic_500m_8532_0
+NAME	uppermesopelagic_500m_8532_0
+STARTBASE	386731
+ENDBASE	387384
+PRODUCT	[Loktanella cinnabarina]
+PRODUCT-TYPE	P

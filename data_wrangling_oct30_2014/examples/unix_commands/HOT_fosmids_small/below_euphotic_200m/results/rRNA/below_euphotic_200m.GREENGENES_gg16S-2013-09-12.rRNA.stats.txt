@@ -1,0 +1,13 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	5
+
+	GREENGENES_gg16S-2013-09-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+below_euphotic_200m_1134	129	815	92.44	0.0	963.0	k__Bacteria;p__Bacteroidetes;c__Flavobacteriia;o__Flavobacteriales;f__Flavobacteriaceae;g__Leeuwenhoekiella;
+below_euphotic_200m_1762	517	933	96.43	0.0	686.0	k__Archaea;p__Euryarchaeota;c__Thermoplasmata;o__E2;g__;
+below_euphotic_200m_4972	6	863	93.12	0.0	1260.0	k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__Halomonadaceae;
+below_euphotic_200m_4916	98	518	98.1	0.0	734.0	k__Archaea;p__Euryarchaeota;c__Thermoplasmata;o__E2;g__;
+below_euphotic_200m_6375	1	919	97.51	0.0	1574.0	k__Archaea;p__Euryarchaeota;c__Thermoplasmata;o__E2;g__;

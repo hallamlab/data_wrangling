@@ -1,0 +1,2000 @@
+ID	deepabyss_4000m_1704_1
+NAME	deepabyss_4000m_1704_1
+STARTBASE	225
+ENDBASE	800
+PRODUCT	[Chloroflexi bacterium SCGC AB-629-P13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8348_0
+NAME	deepabyss_4000m_8348_0
+STARTBASE	1028
+ENDBASE	1858
+PRODUCT	Bile acid:sodium symporter
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8349_0
+NAME	deepabyss_4000m_8349_0
+STARTBASE	1951
+ENDBASE	2169
+PRODUCT	[Bacteria]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8346_0
+NAME	deepabyss_4000m_8346_0
+STARTBASE	2345
+ENDBASE	2875
+PRODUCT	cation efflux protein/ zinc transporter, putative
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8344_0
+NAME	deepabyss_4000m_8344_0
+STARTBASE	3760
+ENDBASE	4389
+PRODUCT	binding-protein-dependent transport systems inner membrane component K02011 iron(III) system permease protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8342_0
+NAME	deepabyss_4000m_8342_0
+STARTBASE	5065
+ENDBASE	5616
+PRODUCT	dinG ATP-dependent DNA helicase DinG K03722 DinG [EC:3.6.4.12]
+PRODUCT-TYPE	P
+EC	3.6.4.12
+//
+ID	deepabyss_4000m_8343_0
+NAME	deepabyss_4000m_8343_0
+STARTBASE	5629
+ENDBASE	6363
+PRODUCT	glutamate--putrescine ligase (EC:6.3.1.11) K01915 glutamine synthetase [EC:6.3.1.2]
+PRODUCT-TYPE	P
+EC	6.3.1.11
+//
+ID	deepabyss_4000m_8340_0
+NAME	deepabyss_4000m_8340_0
+STARTBASE	6624
+ENDBASE	6983
+PRODUCT	ATP-binding component metal import ABC transporter K06158 cassette, sub-family F, member 3
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_9414_0
+NAME	deepabyss_4000m_9414_0
+STARTBASE	7617
+ENDBASE	8165
+PRODUCT	translation elongation factor EFTs/EF1B dimerization K02357 Ts
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_789_0
+NAME	deepabyss_4000m_789_0
+STARTBASE	9022
+ENDBASE	9369
+PRODUCT	xylose isomerase domain-containing protein TIM barrel K01816 hydroxypyruvate [EC:5.3.1.22]
+PRODUCT-TYPE	P
+EC	5.3.1.22
+//
+ID	deepabyss_4000m_788_0
+NAME	deepabyss_4000m_788_0
+STARTBASE	9462
+ENDBASE	10367
+PRODUCT	Sarcosine oxidase alpha subunit (EC 1.5.3.1) [alpha proteobacterium HIMB5]
+PRODUCT-TYPE	P
+EC	1.5.3.1
+//
+ID	deepabyss_4000m_783_0
+NAME	deepabyss_4000m_783_0
+STARTBASE	10379
+ENDBASE	11188
+PRODUCT	, partial [Bacteria]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_782_1
+NAME	deepabyss_4000m_782_1
+STARTBASE	11406
+ENDBASE	12182
+PRODUCT	ABC transporter
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_781_0
+NAME	deepabyss_4000m_781_0
+STARTBASE	12195
+ENDBASE	12935
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_786_0
+NAME	deepabyss_4000m_786_0
+STARTBASE	14738
+ENDBASE	15625
+PRODUCT	PCCB, MGC134255 propionyl CoA carboxylase, beta polypeptide (EC:6.4.1.3) K01966 propionyl-CoA carboxylase chain [EC:6.4.1.3]
+PRODUCT-TYPE	P
+EC	6.4.1.3
+//
+ID	deepabyss_4000m_785_0
+NAME	deepabyss_4000m_785_0
+STARTBASE	15838
+ENDBASE	16506
+PRODUCT	threonine--tRNA ligase, chloroplast or mitochondrial K01868 threonyl-tRNA synthetase [EC:6.1.1.3]
+PRODUCT-TYPE	P
+EC	6.1.1.3
+//
+ID	deepabyss_4000m_784_0
+NAME	deepabyss_4000m_784_0
+STARTBASE	16517
+ENDBASE	17122
+PRODUCT	MscS mechanosensitive ion channel
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_784_1
+NAME	deepabyss_4000m_784_1
+STARTBASE	17131
+ENDBASE	17349
+PRODUCT	COG2363 [Chondromyces apiculatus DSM 436]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_9417_0
+NAME	deepabyss_4000m_9417_0
+STARTBASE	17543
+ENDBASE	17881
+PRODUCT	rnhB ribonuclease HII (EC:3.1.26.4) K03470 [EC:3.1.26.4]
+PRODUCT-TYPE	P
+EC	3.1.26.4
+//
+ID	deepabyss_4000m_9417_1
+NAME	deepabyss_4000m_9417_1
+STARTBASE	17986
+ENDBASE	18327
+PRODUCT	FIG01073044:  [Phaeobacter gallaeciensis BS107]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2020_0
+NAME	deepabyss_4000m_2020_0
+STARTBASE	19353
+ENDBASE	19703
+PRODUCT	clpP3 ATP-dependent Clp protease proteolytic subunit (EC:3.4.21.92) K01358 protease, [EC:3.4.21.92]
+PRODUCT-TYPE	P
+EC	3.4.21.92
+//
+ID	deepabyss_4000m_2023_0
+NAME	deepabyss_4000m_2023_0
+STARTBASE	20441
+ENDBASE	21259
+PRODUCT	putative multi-domain protein [Echinicola vietnamensis DSM 17526]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4140_0
+NAME	deepabyss_4000m_4140_0
+STARTBASE	21344
+ENDBASE	22180
+PRODUCT	ISA3 isoamylase, starch debranching enzyme (EC:3.2.1.- 3.2.1.10 3.2.1.68) K02438 glycogen operon protein GlgX [EC:3.2.1.-]
+PRODUCT-TYPE	P
+EC	3.2.1.10
+//
+ID	deepabyss_4000m_4142_0
+NAME	deepabyss_4000m_4142_0
+STARTBASE	23202
+ENDBASE	23768
+PRODUCT	mazG nucleoside triphosphate pyrophosphohydrolase (EC:3.6.1.19) K02428 nucleoside-triphosphate pyrophosphatase [EC:3.6.1.19]
+PRODUCT-TYPE	P
+EC	3.6.1.19
+//
+ID	deepabyss_4000m_4143_1
+NAME	deepabyss_4000m_4143_1
+STARTBASE	24706
+ENDBASE	25050
+PRODUCT	[delta proteobacterium NaphS2]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4413_0
+NAME	deepabyss_4000m_4413_0
+STARTBASE	26215
+ENDBASE	26859
+PRODUCT	TonB-dependent siderophore receptor
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4146_0
+NAME	deepabyss_4000m_4146_0
+STARTBASE	27094
+ENDBASE	28023
+PRODUCT	nirA ferredoxin-nitrite reductase (EC:1.7.7.1) K00366 [EC:1.7.7.1]
+PRODUCT-TYPE	P
+EC	1.7.7.1
+//
+ID	deepabyss_4000m_4148_0
+NAME	deepabyss_4000m_4148_0
+STARTBASE	29047
+ENDBASE	29334
+PRODUCT	FIG085779: Lipoprotein [Pseudomonas stutzeri DSM 10701]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4148_1
+NAME	deepabyss_4000m_4148_1
+STARTBASE	29331
+ENDBASE	29996
+PRODUCT	3-oxoacyl-(acyl carrier protein) synthase I (EC:2.3.1.41) K00647 3-oxoacyl-[acyl-carrier-protein] [EC:2.3.1.41]
+PRODUCT-TYPE	P
+EC	2.3.1.41
+//
+ID	deepabyss_4000m_4418_0
+NAME	deepabyss_4000m_4418_0
+STARTBASE	30886
+ENDBASE	31374
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4419_0
+NAME	deepabyss_4000m_4419_0
+STARTBASE	31498
+ENDBASE	31764
+PRODUCT	xseB exodeoxyribonuclease VII small subunit (EC:3.1.11.6) K03602 [EC:3.1.11.6]
+PRODUCT-TYPE	P
+EC	3.1.11.6
+//
+ID	deepabyss_4000m_4419_1
+NAME	deepabyss_4000m_4419_1
+STARTBASE	31901
+ENDBASE	32086
+PRODUCT	[Pseudomonas aeruginosa group]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2027_0
+NAME	deepabyss_4000m_2027_0
+STARTBASE	32234
+ENDBASE	32515
+PRODUCT	putative transcriptional regulator containing HTH domain (EC:3.4.16.6) K06024 segregation condensation protein B
+PRODUCT-TYPE	P
+EC	3.4.16.6
+//
+ID	deepabyss_4000m_2027_1
+NAME	deepabyss_4000m_2027_1
+STARTBASE	32648
+ENDBASE	32893
+PRODUCT	sec-independent protein translocase TatA K03116 TatA
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_10723_0
+NAME	deepabyss_4000m_10723_0
+STARTBASE	35396
+ENDBASE	36022
+PRODUCT	NADPH:adrenodoxin oxidoreductase, mitochondrial precursor, putative (EC:1.18.1.2) K00528 ferredoxin--NADP+ reductase [EC:1.18.1.2]
+PRODUCT-TYPE	P
+EC	1.18.1.2
+//
+ID	deepabyss_4000m_9438_0
+NAME	deepabyss_4000m_9438_0
+STARTBASE	36586
+ENDBASE	37254
+PRODUCT	phospho-2-dehydro-3-deoxyheptonate aldolase K03856 3-deoxy-7-phosphoheptulonate synthase [EC:2.5.1.54]
+PRODUCT-TYPE	P
+EC	2.5.1.54
+//
+ID	deepabyss_4000m_9436_0
+NAME	deepabyss_4000m_9436_0
+STARTBASE	37769
+ENDBASE	38080
+PRODUCT	Gifsy-2 prophage protein [Parvibaculum lavamentivorans DS-1]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_9436_1
+NAME	deepabyss_4000m_9436_1
+STARTBASE	38107
+ENDBASE	38688
+PRODUCT	AAA ATPase (EC:3.6.4.6)
+PRODUCT-TYPE	P
+EC	3.6.4.6
+//
+ID	deepabyss_4000m_9434_1
+NAME	deepabyss_4000m_9434_1
+STARTBASE	39137
+ENDBASE	39568
+PRODUCT	uppS undecaprenyl pyrophosphate synthetase (EC:2.5.1.31) K12503 short-chain Z-isoprenyl diphosphate synthase [EC:2.5.1.68]
+PRODUCT-TYPE	P
+EC	2.5.1.31
+//
+ID	deepabyss_4000m_9432_0
+NAME	deepabyss_4000m_9432_0
+STARTBASE	40955
+ENDBASE	41398
+PRODUCT	TDH1 glyceraldehyde-3-phosphate dehydrogenase, putative (EC:1.2.1.12) K00134 glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]
+PRODUCT-TYPE	P
+EC	1.2.1.12
+//
+ID	deepabyss_4000m_9431_0
+NAME	deepabyss_4000m_9431_0
+STARTBASE	41830
+ENDBASE	42051
+PRODUCT	3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7) [alpha proteobacterium HIMB5]
+PRODUCT-TYPE	P
+EC	3.1.3.7
+//
+ID	deepabyss_4000m_5540_1
+NAME	deepabyss_4000m_5540_1
+STARTBASE	46287
+ENDBASE	46658
+PRODUCT	pntB pyridine nucleotide transhydrogenase subunit beta (EC:1.6.1.2) K00325 NAD(P) [EC:1.6.1.2]
+PRODUCT-TYPE	P
+EC	1.6.1.2
+//
+ID	deepabyss_4000m_5540_2
+NAME	deepabyss_4000m_5540_2
+STARTBASE	46661
+ENDBASE	46978
+PRODUCT	NAD(P) transhydrogenase, subunit alpha (EC:1.6.1.2) K00324 transhydrogenase [EC:1.6.1.2]
+PRODUCT-TYPE	P
+EC	1.6.1.2
+//
+ID	deepabyss_4000m_1648_0
+NAME	deepabyss_4000m_1648_0
+STARTBASE	47197
+ENDBASE	47742
+PRODUCT	threonine synthase (EC:4.2.3.1) K01733 [EC:4.2.3.1]
+PRODUCT-TYPE	P
+EC	4.2.3.1
+//
+ID	deepabyss_4000m_5545_0
+NAME	deepabyss_4000m_5545_0
+STARTBASE	49440
+ENDBASE	50000
+PRODUCT	hydrolase CocE/NonD family protein K06978
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_1644_1
+NAME	deepabyss_4000m_1644_1
+STARTBASE	51151
+ENDBASE	51429
+PRODUCT	Succinoglycan biosynthesis protein [Rhodospirillum photometricum DSM 122]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_1645_1
+NAME	deepabyss_4000m_1645_1
+STARTBASE	52085
+ENDBASE	52396
+PRODUCT	[Nitrosopumilus maritimus SCM1]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_1645_2
+NAME	deepabyss_4000m_1645_2
+STARTBASE	52550
+ENDBASE	52834
+PRODUCT	Uncharacterized glycosyltransferase MJ1255 (EC 2.-.-.-) [Nitrosopumilus maritimus SCM1]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_1646_1
+NAME	deepabyss_4000m_1646_1
+STARTBASE	53513
+ENDBASE	53929
+PRODUCT	class I II aminotransferase K00812 aspartate aminotransferase [EC:2.6.1.1]
+PRODUCT-TYPE	P
+EC	2.6.1.1
+//
+ID	deepabyss_4000m_1647_0
+NAME	deepabyss_4000m_1647_0
+STARTBASE	53942
+ENDBASE	54652
+PRODUCT	multidrug ABC transporter [SAR406 cluster bacterium SCGC AAA160-I06]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_1640_0
+NAME	deepabyss_4000m_1640_0
+STARTBASE	55021
+ENDBASE	55392
+PRODUCT	5-formyltetrahydrofolate cyclo-ligase (EC:6.3.3.2) K01934 [EC:6.3.3.2]
+PRODUCT-TYPE	P
+EC	6.3.3.2
+//
+ID	deepabyss_4000m_1640_1
+NAME	deepabyss_4000m_1640_1
+STARTBASE	55387
+ENDBASE	55923
+PRODUCT	phosphoribosylamine/glycine ligase (EC:6.3.4.13 4.1.1.21) K01945 phosphoribosylamine--glycine [EC:6.3.4.13]
+PRODUCT-TYPE	P
+EC	6.3.4.13
+//
+ID	deepabyss_4000m_1641_0
+NAME	deepabyss_4000m_1641_0
+STARTBASE	55936
+ENDBASE	56958
+PRODUCT	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase (EC 1.17.7.1) [bacterium Ellin514]
+PRODUCT-TYPE	P
+EC	1.17.7.1
+//
+ID	deepabyss_4000m_1642_0
+NAME	deepabyss_4000m_1642_0
+STARTBASE	56970
+ENDBASE	57626
+PRODUCT	coenzyme F390 synthetase (EC:6.2.1.-) K01912 phenylacetate-CoA ligase [EC:6.2.1.30]
+PRODUCT-TYPE	P
+EC	6.2.1.30
+//
+ID	deepabyss_4000m_1643_0
+NAME	deepabyss_4000m_1643_0
+STARTBASE	58088
+ENDBASE	58513
+PRODUCT	transmembrane protein K08973 putative membrane protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_10729_0
+NAME	deepabyss_4000m_10729_0
+STARTBASE	61331
+ENDBASE	61804
+PRODUCT	LysR family transcriptional regulator
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_1469_1
+NAME	deepabyss_4000m_1469_1
+STARTBASE	63367
+ENDBASE	63885
+PRODUCT	intradiol ring-cleavage dioxygenase K00449 protocatechuate 3,4-dioxygenase, beta subunit [EC:1.13.11.3]
+PRODUCT-TYPE	P
+EC	1.13.11.3
+//
+ID	deepabyss_4000m_1398_2
+NAME	deepabyss_4000m_1398_2
+STARTBASE	64148
+ENDBASE	64687
+PRODUCT	exosome complex exonuclease Rrp41 (EC:2.7.7.56) K11600 component RRP41
+PRODUCT-TYPE	P
+EC	2.7.7.56
+//
+ID	deepabyss_4000m_1392_0
+NAME	deepabyss_4000m_1392_0
+STARTBASE	66080
+ENDBASE	66442
+PRODUCT	ISCc3 transposase OrfA K07483
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_1392_1
+NAME	deepabyss_4000m_1392_1
+STARTBASE	66580
+ENDBASE	66861
+PRODUCT	similar to LOC495931 protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_1397_0
+NAME	deepabyss_4000m_1397_0
+STARTBASE	71044
+ENDBASE	71409
+PRODUCT	paaG enoyl-CoA hydratase (EC:4.2.1.17)
+PRODUCT-TYPE	P
+EC	4.2.1.17
+//
+ID	deepabyss_4000m_1397_1
+NAME	deepabyss_4000m_1397_1
+STARTBASE	71413
+ENDBASE	71895
+PRODUCT	molybdopterin dehydrogenase FAD-binding protein K03519 carbon-monoxide medium subunit [EC:1.2.99.2]
+PRODUCT-TYPE	P
+EC	1.2.99.2
+//
+ID	deepabyss_4000m_1395_0
+NAME	deepabyss_4000m_1395_0
+STARTBASE	73129
+ENDBASE	73713
+PRODUCT	glyS glycyl-tRNA synthetase (EC:6.1.1.14) K01880 [EC:6.1.1.14]
+PRODUCT-TYPE	P
+EC	6.1.1.14
+//
+ID	deepabyss_4000m_6015_0
+NAME	deepabyss_4000m_6015_0
+STARTBASE	77278
+ENDBASE	77988
+PRODUCT	wbtF NAD-dependent epimerase/dehydratase family protein K01784 UDP-glucose 4-epimerase [EC:5.1.3.2]
+PRODUCT-TYPE	P
+EC	5.1.3.2
+//
+ID	deepabyss_4000m_6010_0
+NAME	deepabyss_4000m_6010_0
+STARTBASE	80522
+ENDBASE	80857
+PRODUCT	leuA 2-isopropylmalate synthase (EC:2.3.3.13) K01649 [EC:2.3.3.13]
+PRODUCT-TYPE	P
+EC	2.3.3.13
+//
+ID	deepabyss_4000m_7941_1
+NAME	deepabyss_4000m_7941_1
+STARTBASE	85929
+ENDBASE	86159
+PRODUCT	Alanyl-tRNA synthetase (EC 6.1.1.7) [Zavarzinella formosa DSM 19928]
+PRODUCT-TYPE	P
+EC	6.1.1.7
+//
+ID	deepabyss_4000m_7943_0
+NAME	deepabyss_4000m_7943_0
+STARTBASE	87394
+ENDBASE	87771
+PRODUCT	extracellular solute-binding protein, family 7
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7943_1
+NAME	deepabyss_4000m_7943_1
+STARTBASE	88063
+ENDBASE	88317
+PRODUCT	gamma-glutamyltransferase (EC:2.3.2.2) K00681 gamma-glutamyltranspeptidase [EC:2.3.2.2]
+PRODUCT-TYPE	P
+EC	2.3.2.2
+//
+ID	deepabyss_4000m_7942_0
+NAME	deepabyss_4000m_7942_0
+STARTBASE	88420
+ENDBASE	88647
+PRODUCT	putative transcriptional regulator
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7945_0
+NAME	deepabyss_4000m_7945_0
+STARTBASE	89294
+ENDBASE	89947
+PRODUCT	dTDP-4-dehydrorhamnose reductase (EC:1.1.1.133) K00067 [EC:1.1.1.133]
+PRODUCT-TYPE	P
+EC	1.1.1.133
+//
+ID	deepabyss_4000m_140_0
+NAME	deepabyss_4000m_140_0
+STARTBASE	92961
+ENDBASE	93359
+PRODUCT	Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46) [Pelagibacter sp. HTCC7211]
+PRODUCT-TYPE	P
+EC	3.1.4.46
+//
+ID	deepabyss_4000m_140_1
+NAME	deepabyss_4000m_140_1
+STARTBASE	93395
+ENDBASE	93874
+PRODUCT	ald aldehyde dehydrogenase family protein, putative (EC:1.2.1.3) K00128 (NAD+) [EC:1.2.1.3]
+PRODUCT-TYPE	P
+EC	1.2.1.3
+//
+ID	deepabyss_4000m_143_0
+NAME	deepabyss_4000m_143_0
+STARTBASE	93903
+ENDBASE	94085
+PRODUCT	LSU ribosomal protein L32p @ L32p, zinc-dependent [Geobacter metallireducens RCH3]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_143_1
+NAME	deepabyss_4000m_143_1
+STARTBASE	94095
+ENDBASE	94424
+PRODUCT	conserved  [Nitrospina gracilis]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_145_1
+NAME	deepabyss_4000m_145_1
+STARTBASE	96181
+ENDBASE	96426
+PRODUCT	transposase, IS4 family
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_144_1
+NAME	deepabyss_4000m_144_1
+STARTBASE	96970
+ENDBASE	97608
+PRODUCT	[SAR406 cluster bacterium SCGC AAA160-I06]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_147_1
+NAME	deepabyss_4000m_147_1
+STARTBASE	98166
+ENDBASE	98537
+PRODUCT	peptide methionine sulfoxide reductase MsrA (EC:1.8.4.11) K07304 peptide-methionine (S)-S-oxide [EC:1.8.4.11]
+PRODUCT-TYPE	P
+EC	1.8.4.11
+//
+ID	deepabyss_4000m_146_0
+NAME	deepabyss_4000m_146_0
+STARTBASE	98603
+ENDBASE	98938
+PRODUCT	cysteine desulfurase family protein (EC:2.8.1.7)
+PRODUCT-TYPE	P
+EC	2.8.1.7
+//
+ID	deepabyss_4000m_146_2
+NAME	deepabyss_4000m_146_2
+STARTBASE	99059
+ENDBASE	99367
+PRODUCT	cysteine desulfurase (EC:2.8.1.7)
+PRODUCT-TYPE	P
+EC	2.8.1.7
+//
+ID	deepabyss_4000m_149_0
+NAME	deepabyss_4000m_149_0
+STARTBASE	99550
+ENDBASE	100374
+PRODUCT	UDP-glucose 6-dehydrogenase (EC:1.1.1.22) K00012 UDPglucose [EC:1.1.1.22]
+PRODUCT-TYPE	P
+EC	1.1.1.22
+//
+ID	deepabyss_4000m_148_1
+NAME	deepabyss_4000m_148_1
+STARTBASE	100742
+ENDBASE	101056
+PRODUCT	[Salmonella enterica subsp. serovar Choleraesuis str. SC-B67]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8913_0
+NAME	deepabyss_4000m_8913_0
+STARTBASE	101433
+ENDBASE	102416
+PRODUCT	hom homoserine dehydrogenase (EC:1.1.1.3) K00003 [EC:1.1.1.3]
+PRODUCT-TYPE	P
+EC	1.1.1.3
+//
+ID	deepabyss_4000m_208_0
+NAME	deepabyss_4000m_208_0
+STARTBASE	108270
+ENDBASE	108878
+PRODUCT	Indole-3-glycerol phosphate synthase (EC 4.1.1.48) [SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+EC	4.1.1.48
+//
+ID	deepabyss_4000m_204_0
+NAME	deepabyss_4000m_204_0
+STARTBASE	112267
+ENDBASE	113100
+PRODUCT	family 5 extracellular solute-binding protein K02035 peptide/nickel transport system substrate-binding protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_202_0
+NAME	deepabyss_4000m_202_0
+STARTBASE	114537
+ENDBASE	114992
+PRODUCT	putative tRNA synthetases class I (C) catalytic domain protein [uncultured marine microorganism (GT:2)
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_203_0
+NAME	deepabyss_4000m_203_0
+STARTBASE	115103
+ENDBASE	115426
+PRODUCT	era GTP-binding protein Era K03595 Era
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_203_1
+NAME	deepabyss_4000m_203_1
+STARTBASE	115395
+ENDBASE	116057
+PRODUCT	rnc RNAse III (EC:3.1.26.3) K03685 ribonuclease [EC:3.1.26.3]
+PRODUCT-TYPE	P
+EC	3.1.26.3
+//
+ID	deepabyss_4000m_2661_0
+NAME	deepabyss_4000m_2661_0
+STARTBASE	120035
+ENDBASE	120853
+PRODUCT	tkt-2 transketolase (EC:2.2.1.1) K00615 [EC:2.2.1.1]
+PRODUCT-TYPE	P
+EC	2.2.1.1
+//
+ID	deepabyss_4000m_2660_1
+NAME	deepabyss_4000m_2660_1
+STARTBASE	121375
+ENDBASE	121878
+PRODUCT	FIG00907357:  [Pedobacter heparinus DSM 2366]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2664_0
+NAME	deepabyss_4000m_2664_0
+STARTBASE	125184
+ENDBASE	125972
+PRODUCT	[gamma proteobacterium SCGC AB-629-K02]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7058_0
+NAME	deepabyss_4000m_7058_0
+STARTBASE	128565
+ENDBASE	129392
+PRODUCT	htrA protease DO (EC:3.4.21.-) K04771 serine Do [EC:3.4.21.107]
+PRODUCT-TYPE	P
+EC	3.4.21.107
+//
+ID	deepabyss_4000m_7051_0
+NAME	deepabyss_4000m_7051_0
+STARTBASE	131388
+ENDBASE	132242
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7056_0
+NAME	deepabyss_4000m_7056_0
+STARTBASE	134268
+ENDBASE	135092
+PRODUCT	adenine deaminase (EC:3.5.4.2) K01486 [EC:3.5.4.2]
+PRODUCT-TYPE	P
+EC	3.5.4.2
+//
+ID	deepabyss_4000m_7054_0
+NAME	deepabyss_4000m_7054_0
+STARTBASE	136036
+ENDBASE	136947
+PRODUCT	putative integral membrane protein [Tepidanaerobacter acetatoxydans Re1]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3282_0
+NAME	deepabyss_4000m_3282_0
+STARTBASE	136961
+ENDBASE	137830
+PRODUCT	SMC domain-containing protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3283_0
+NAME	deepabyss_4000m_3283_0
+STARTBASE	137926
+ENDBASE	138864
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3281_0
+NAME	deepabyss_4000m_3281_0
+STARTBASE	139850
+ENDBASE	140578
+PRODUCT	ATP-dependent metalloprotease FtsH (EC:3.6.4.3) K03798 cell division protease [EC:3.4.24.-]
+PRODUCT-TYPE	P
+EC	3.6.4.3
+//
+ID	deepabyss_4000m_3539_1
+NAME	deepabyss_4000m_3539_1
+STARTBASE	142111
+ENDBASE	142653
+PRODUCT	metal-dependent hydrolase-like protein K07044
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3285_0
+NAME	deepabyss_4000m_3285_0
+STARTBASE	143601
+ENDBASE	144419
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3534_0
+NAME	deepabyss_4000m_3534_0
+STARTBASE	144791
+ENDBASE	145471
+PRODUCT	OPT family oligopeptide transporter
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3535_0
+NAME	deepabyss_4000m_3535_0
+STARTBASE	145482
+ENDBASE	146210
+PRODUCT	short chain dehydrogenase/reductase family oxidoreductase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3530_0
+NAME	deepabyss_4000m_3530_0
+STARTBASE	148296
+ENDBASE	148616
+PRODUCT	similar to polymerase (DNA directed), kappa K03511 DNA kappa subunit [EC:2.7.7.7]
+PRODUCT-TYPE	P
+EC	2.7.7.7
+//
+ID	deepabyss_4000m_3821_1
+NAME	deepabyss_4000m_3821_1
+STARTBASE	151386
+ENDBASE	151784
+PRODUCT	peptidase [Leucothrix mucor]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5428_0
+NAME	deepabyss_4000m_5428_0
+STARTBASE	152168
+ENDBASE	152404
+PRODUCT	sugar-phosphate nucleotidyl transferase (EC:2.7.7.13 2.7.7.24) K00966 mannose-1-phosphate guanylyltransferase [EC:2.7.7.13] K00973 glucose-1-phosphate thymidylyltransferase [EC:2.7.7.24]
+PRODUCT-TYPE	P
+EC	2.7.7.13
+//
+ID	deepabyss_4000m_5428_1
+NAME	deepabyss_4000m_5428_1
+STARTBASE	152414
+ENDBASE	153010
+PRODUCT	aminoglycoside phosphotransferase K07102
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2485_0
+NAME	deepabyss_4000m_2485_0
+STARTBASE	157080
+ENDBASE	157322
+PRODUCT	rplT 50S ribosomal protein L20 K02887 large subunit L20
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2483_0
+NAME	deepabyss_4000m_2483_0
+STARTBASE	159091
+ENDBASE	159510
+PRODUCT	NHL repeat containing protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2481_0
+NAME	deepabyss_4000m_2481_0
+STARTBASE	161135
+ENDBASE	161389
+PRODUCT	TonB-dependent receptor [Owenweeksia hongkongensis DSM 17368]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2481_1
+NAME	deepabyss_4000m_2481_1
+STARTBASE	161379
+ENDBASE	161759
+PRODUCT	Iron-regulated protein A precursor [Owenweeksia hongkongensis DSM 17368]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2480_0
+NAME	deepabyss_4000m_2480_0
+STARTBASE	162181
+ENDBASE	162693
+PRODUCT	transposase IS4 family protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4629_0
+NAME	deepabyss_4000m_4629_0
+STARTBASE	162997
+ENDBASE	163428
+PRODUCT	poly-gamma-glutamate biosynthesis protein K07282 synthesis protein (capsule protein)
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4620_0
+NAME	deepabyss_4000m_4620_0
+STARTBASE	166719
+ENDBASE	167444
+PRODUCT	peptidase, M24 family protein (EC:3.4.-.-) K01423 [EC:3.4.-.-]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4623_0
+NAME	deepabyss_4000m_4623_0
+STARTBASE	167729
+ENDBASE	168403
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4625_0
+NAME	deepabyss_4000m_4625_0
+STARTBASE	169688
+ENDBASE	170020
+PRODUCT	protein unknown function DUF151 K08999 hypothetical
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4625_1
+NAME	deepabyss_4000m_4625_1
+STARTBASE	170072
+ENDBASE	170569
+PRODUCT	S-adenosyl-L-homocysteine hydrolase (EC:3.3.1.1) K01251 adenosylhomocysteinase [EC:3.3.1.1]
+PRODUCT-TYPE	P
+EC	3.3.1.1
+//
+ID	deepabyss_4000m_4417_0
+NAME	deepabyss_4000m_4417_0
+STARTBASE	174330
+ENDBASE	174647
+PRODUCT	-putative related to sulfatases [Schlesneria paludicola DSM 18645]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4417_1
+NAME	deepabyss_4000m_4417_1
+STARTBASE	174682
+ENDBASE	175050
+PRODUCT	-putative related to sulfatases [Zavarzinella formosa DSM 19928]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4414_0
+NAME	deepabyss_4000m_4414_0
+STARTBASE	175305
+ENDBASE	175664
+PRODUCT	hisA 1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC:5.3.1.16) K01814 phosphoribosylformimino-5-aminoimidazole carboxamide ribotide [EC:5.3.1.16]
+PRODUCT-TYPE	P
+EC	5.3.1.16
+//
+ID	deepabyss_4000m_4414_1
+NAME	deepabyss_4000m_4414_1
+STARTBASE	175674
+ENDBASE	175955
+PRODUCT	imidazole glycerol phosphate synthase subunit (IGP cyclase subunit) K01663 glutamine amidotransferase / [EC:2.4.2.- 4.1.3.-]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3758_1
+NAME	deepabyss_4000m_3758_1
+STARTBASE	176293
+ENDBASE	176802
+PRODUCT	, partial [SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4415_0
+NAME	deepabyss_4000m_4415_0
+STARTBASE	179005
+ENDBASE	179742
+PRODUCT	RNA modification enzyme, MiaB family (EC:1.3.1.74) K06168 bifunctional enzyme involved thiolation methylation tRNA
+PRODUCT-TYPE	P
+EC	1.3.1.74
+//
+ID	deepabyss_4000m_10717_0
+NAME	deepabyss_4000m_10717_0
+STARTBASE	179863
+ENDBASE	180663
+PRODUCT	ubiA 4-hydroxybenzoate polyprenyl transferase (EC:2.5.1.-) K03179 octaprenyltransferase [EC:2.5.1.-]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_10716_0
+NAME	deepabyss_4000m_10716_0
+STARTBASE	180901
+ENDBASE	181188
+PRODUCT	amidotransferase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_10716_1
+NAME	deepabyss_4000m_10716_1
+STARTBASE	181225
+ENDBASE	181596
+PRODUCT	GMP synthase glutamine amidotransferase subunit K01951 (glutamine-hydrolysing) [EC:6.3.5.2]
+PRODUCT-TYPE	P
+EC	6.3.5.2
+//
+ID	deepabyss_4000m_10715_0
+NAME	deepabyss_4000m_10715_0
+STARTBASE	181896
+ENDBASE	182594
+PRODUCT	glycosyl hydrolase BNR repeat-containing
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3750_0
+NAME	deepabyss_4000m_3750_0
+STARTBASE	183648
+ENDBASE	184268
+PRODUCT	similar to MTIF2 protein K02519 translation initiation factor IF-2
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3752_0
+NAME	deepabyss_4000m_3752_0
+STARTBASE	185707
+ENDBASE	186222
+PRODUCT	Uncharacterized conserved protein [Zavarzinella formosa DSM 19928]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3753_0
+NAME	deepabyss_4000m_3753_0
+STARTBASE	186483
+ENDBASE	186902
+PRODUCT	glutathione-dependent formaldehyde-activating, GFA [SAR86 cluster bacterium SAR86A]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3754_0
+NAME	deepabyss_4000m_3754_0
+STARTBASE	187407
+ENDBASE	187652
+PRODUCT	putative membrane protein (TRAP-type transport system, large permease component)
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3754_1
+NAME	deepabyss_4000m_3754_1
+STARTBASE	187662
+ENDBASE	188120
+PRODUCT	[alpha proteobacterium BAL199]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3757_0
+NAME	deepabyss_4000m_3757_0
+STARTBASE	190335
+ENDBASE	191096
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5425_0
+NAME	deepabyss_4000m_5425_0
+STARTBASE	193820
+ENDBASE	194275
+PRODUCT	L-carnitine dehydratase/bile acid-inducible protein F
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4088_1
+NAME	deepabyss_4000m_4088_1
+STARTBASE	196846
+ENDBASE	197136
+PRODUCT	K04078 chaperonin GroES
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4084_0
+NAME	deepabyss_4000m_4084_0
+STARTBASE	198514
+ENDBASE	199020
+PRODUCT	frr ribosome recycling factor (ribosome releasing factor) K02838
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4084_1
+NAME	deepabyss_4000m_4084_1
+STARTBASE	199025
+ENDBASE	199483
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4081_1
+NAME	deepabyss_4000m_4081_1
+STARTBASE	201746
+ENDBASE	202237
+PRODUCT	[Streptosporangium roseum DSM 43021]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4082_0
+NAME	deepabyss_4000m_4082_0
+STARTBASE	203940
+ENDBASE	204269
+PRODUCT	muconate lactonizing enzyme (EC:5.5.1.7)
+PRODUCT-TYPE	P
+EC	5.5.1.7
+//
+ID	deepabyss_4000m_3251_0
+NAME	deepabyss_4000m_3251_0
+STARTBASE	204861
+ENDBASE	205448
+PRODUCT	intracellular proteinase I (EC:3.2.-.-) K05520 protease [EC:3.2.-.-]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5978_0
+NAME	deepabyss_4000m_5978_0
+STARTBASE	205932
+ENDBASE	206813
+PRODUCT	CSR1 CSR1 (CHLORSULFURON/IMIDAZOLINONE RESISTANT 1) acetolactate synthase/ pyruvate decarboxylase (EC:2.2.1.6) K01652 synthase I/II/III large subunit [EC:2.2.1.6]
+PRODUCT-TYPE	P
+EC	2.2.1.6
+//
+ID	deepabyss_4000m_5973_0
+NAME	deepabyss_4000m_5973_0
+STARTBASE	208798
+ENDBASE	209568
+PRODUCT	K02069 putative ABC transport system permease protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5973_1
+NAME	deepabyss_4000m_5973_1
+STARTBASE	209462
+ENDBASE	209737
+PRODUCT	K09919 protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5970_0
+NAME	deepabyss_4000m_5970_0
+STARTBASE	209750
+ENDBASE	210556
+PRODUCT	polA DNA polymerase I (EC:2.7.7.7) K02335 [EC:2.7.7.7]
+PRODUCT-TYPE	P
+EC	2.7.7.7
+//
+ID	deepabyss_4000m_5976_0
+NAME	deepabyss_4000m_5976_0
+STARTBASE	211794
+ENDBASE	212333
+PRODUCT	cytochrome b/b6 domain
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5976_1
+NAME	deepabyss_4000m_5976_1
+STARTBASE	212383
+ENDBASE	212727
+PRODUCT	putative 4Fe-4S ferredoxin [Ilumatobacter coccineus]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3250_0
+NAME	deepabyss_4000m_3250_0
+STARTBASE	216066
+ENDBASE	216467
+PRODUCT	similar to Heat Shock Protein family member (hsp-60)
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3250_1
+NAME	deepabyss_4000m_3250_1
+STARTBASE	216537
+ENDBASE	216824
+PRODUCT	groES co-chaperonin GroES K04078 chaperonin GroES
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8282_0
+NAME	deepabyss_4000m_8282_0
+STARTBASE	219717
+ENDBASE	220133
+PRODUCT	gliding motility protein GldG [Hyphomonas neptunium ATCC 15444]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8287_0
+NAME	deepabyss_4000m_8287_0
+STARTBASE	221435
+ENDBASE	222097
+PRODUCT	dnaG DNA primase (EC:2.7.7.-) K02316 [EC:2.7.7.-]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8286_0
+NAME	deepabyss_4000m_8286_0
+STARTBASE	222152
+ENDBASE	222583
+PRODUCT	beta/gamma crystallin [Ponticaulis koreensis]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8286_1
+NAME	deepabyss_4000m_8286_1
+STARTBASE	222634
+ENDBASE	222960
+PRODUCT	rimM 16S rRNA-processing protein RimM K02860 rRNA processing RimM
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8285_0
+NAME	deepabyss_4000m_8285_0
+STARTBASE	222973
+ENDBASE	223470
+PRODUCT	COG3807: Uncharacterized protein conserved bacteria [Azospirillum amazonense Y2]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8285_1
+NAME	deepabyss_4000m_8285_1
+STARTBASE	223636
+ENDBASE	223953
+PRODUCT	cation efflux protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8130_1
+NAME	deepabyss_4000m_8130_1
+STARTBASE	225557
+ENDBASE	225769
+PRODUCT	metH B12-dependent methionine synthase (EC:2.1.1.13) K00548 5-methyltetrahydrofolate--homocysteine methyltransferase [EC:2.1.1.13]
+PRODUCT-TYPE	P
+EC	2.1.1.13
+//
+ID	deepabyss_4000m_8132_0
+NAME	deepabyss_4000m_8132_0
+STARTBASE	227339
+ENDBASE	228157
+PRODUCT	rpoB DNA-directed RNA polymerase subunit beta/beta' K13797 beta-beta' [EC:2.7.7.6]
+PRODUCT-TYPE	P
+EC	2.7.7.6
+//
+ID	deepabyss_4000m_8134_0
+NAME	deepabyss_4000m_8134_0
+STARTBASE	229128
+ENDBASE	229958
+PRODUCT	putative NADH-quinone oxidoreductase, subunit G [Nitrospina gracilis]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8137_0
+NAME	deepabyss_4000m_8137_0
+STARTBASE	230139
+ENDBASE	230873
+PRODUCT	putative Sulfite reductase (ferredoxin) [Nitrospina gracilis]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8136_0
+NAME	deepabyss_4000m_8136_0
+STARTBASE	230994
+ENDBASE	231632
+PRODUCT	gidA tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA K03495 glucose inhibited division protein A
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8139_1
+NAME	deepabyss_4000m_8139_1
+STARTBASE	231965
+ENDBASE	232690
+PRODUCT	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC:5.3.1.16) K01814 phosphoribosylformimino-5-aminoimidazole carboxamide ribotide [EC:5.3.1.16]
+PRODUCT-TYPE	P
+EC	5.3.1.16
+//
+ID	deepabyss_4000m_8138_0
+NAME	deepabyss_4000m_8138_0
+STARTBASE	232920
+ENDBASE	233585
+PRODUCT	K01696 tryptophan synthase beta chain [EC:4.2.1.20]
+PRODUCT-TYPE	P
+EC	4.2.1.20
+//
+ID	deepabyss_4000m_4881_1
+NAME	deepabyss_4000m_4881_1
+STARTBASE	239318
+ENDBASE	239776
+PRODUCT	glucose dehydrogenase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2757_0
+NAME	deepabyss_4000m_2757_0
+STARTBASE	242597
+ENDBASE	243457
+PRODUCT	uroporphyrin-III C/tetrapyrrole (corrin/porphyrin) methyltransferase K07056
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_4889_0
+NAME	deepabyss_4000m_4889_0
+STARTBASE	244743
+ENDBASE	245489
+PRODUCT	Choline-sulfatase (EC 3.1.6.6) [Blastopirellula marina DSM 3645]
+PRODUCT-TYPE	P
+EC	3.1.6.6
+//
+ID	deepabyss_4000m_4888_0
+NAME	deepabyss_4000m_4888_0
+STARTBASE	245605
+ENDBASE	246144
+PRODUCT	FAD dependent oxidoreductase [Variovorax sp. CF313]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2755_0
+NAME	deepabyss_4000m_2755_0
+STARTBASE	247413
+ENDBASE	248267
+PRODUCT	putative H+-transporting two-sector ATPase, gamma subunit (AcrC-family protein)
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3252_0
+NAME	deepabyss_4000m_3252_0
+STARTBASE	249428
+ENDBASE	249928
+PRODUCT	proton-translocating NADH-quinone oxidoreductase, chain M (EC:1.6.99.5) K00342 NADH dehydrogenase I subunit [EC:1.6.5.3]
+PRODUCT-TYPE	P
+EC	1.6.99.5
+//
+ID	deepabyss_4000m_2209_0
+NAME	deepabyss_4000m_2209_0
+STARTBASE	250610
+ENDBASE	251209
+PRODUCT	binding-protein-dependent transport systems inner membrane component K02034 peptide/nickel system permease protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_9915_0
+NAME	deepabyss_4000m_9915_0
+STARTBASE	252398
+ENDBASE	252739
+PRODUCT	putative amidotransferase subunit A K01426 amidase [EC:3.5.1.4]
+PRODUCT-TYPE	P
+EC	3.5.1.4
+//
+ID	deepabyss_4000m_2758_1
+NAME	deepabyss_4000m_2758_1
+STARTBASE	253111
+ENDBASE	253578
+PRODUCT	K07090
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2758_2
+NAME	deepabyss_4000m_2758_2
+STARTBASE	253594
+ENDBASE	253851
+PRODUCT	similar to Phosphoglycerate mutase 1 K01834 phosphoglycerate [EC:5.4.2.1]
+PRODUCT-TYPE	P
+EC	5.4.2.1
+//
+ID	deepabyss_4000m_3376_0
+NAME	deepabyss_4000m_3376_0
+STARTBASE	254074
+ENDBASE	255024
+PRODUCT	phosphoglucomutase/phosphomannomutase family protein K01840 phosphomannomutase [EC:5.4.2.8]
+PRODUCT-TYPE	P
+EC	5.4.2.8
+//
+ID	deepabyss_4000m_3255_0
+NAME	deepabyss_4000m_3255_0
+STARTBASE	255036
+ENDBASE	255791
+PRODUCT	K03596 GTP-binding protein LepA
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_3377_0
+NAME	deepabyss_4000m_3377_0
+STARTBASE	256936
+ENDBASE	257604
+PRODUCT	glucose/sorbosone dehydrogenase family protein (EC:1.1.5.-)
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8125_1
+NAME	deepabyss_4000m_8125_1
+STARTBASE	257952
+ENDBASE	258548
+PRODUCT	alkylhydroperoxidase AhpD family core domain-containing protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_38_0
+NAME	deepabyss_4000m_38_0
+STARTBASE	259773
+ENDBASE	260678
+PRODUCT	Fe-S oxidoreductase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_36_0
+NAME	deepabyss_4000m_36_0
+STARTBASE	261594
+ENDBASE	262529
+PRODUCT	rpoB DNA-directed RNA polymerase subunit beta (EC:2.7.7.6) K03043 [EC:2.7.7.6]
+PRODUCT-TYPE	P
+EC	2.7.7.6
+//
+ID	deepabyss_4000m_35_0
+NAME	deepabyss_4000m_35_0
+STARTBASE	264439
+ENDBASE	265197
+PRODUCT	tktB, tktA transketolase (EC:2.2.1.1) K00615 [EC:2.2.1.1]
+PRODUCT-TYPE	P
+EC	2.2.1.1
+//
+ID	deepabyss_4000m_30_0
+NAME	deepabyss_4000m_30_0
+STARTBASE	267306
+ENDBASE	267566
+PRODUCT	pco064740 LOC100274396 K02835 peptide chain release factor 1
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_31_0
+NAME	deepabyss_4000m_31_0
+STARTBASE	268262
+ENDBASE	268717
+PRODUCT	coxL aerobic-type carbon monoxide dehydrogenase, large subunit K00087 xanthine dehydrogenase molybdenum-binding subunit [EC:1.17.1.4]
+PRODUCT-TYPE	P
+EC	1.17.1.4
+//
+ID	deepabyss_4000m_6954_0
+NAME	deepabyss_4000m_6954_0
+STARTBASE	269767
+ENDBASE	270444
+PRODUCT	adenylate class-3/4/guanylyl cyclase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_6956_0
+NAME	deepabyss_4000m_6956_0
+STARTBASE	271394
+ENDBASE	272272
+PRODUCT	L-aspartate dehydrogenase K06989 aspartate dehydrogenase [EC:1.4.1.21]
+PRODUCT-TYPE	P
+EC	1.4.1.21
+//
+ID	deepabyss_4000m_6950_0
+NAME	deepabyss_4000m_6950_0
+STARTBASE	273114
+ENDBASE	273935
+PRODUCT	pycB1 pyruvate/oxaloacetate carboxyltransferase (EC:6.4.1.1) K01960 pyruvate carboxylase subunit B [EC:6.4.1.1]
+PRODUCT-TYPE	P
+EC	6.4.1.1
+//
+ID	deepabyss_4000m_6953_0
+NAME	deepabyss_4000m_6953_0
+STARTBASE	274074
+ENDBASE	274385
+PRODUCT	putative hydrolase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_6952_0
+NAME	deepabyss_4000m_6952_0
+STARTBASE	274986
+ENDBASE	275402
+PRODUCT	atpC F0F1 ATP synthase subunit epsilon (EC:3.6.3.14) K02114 F-type H+-transporting ATPase [EC:3.6.3.14]
+PRODUCT-TYPE	P
+EC	3.6.3.14
+//
+ID	deepabyss_4000m_6952_1
+NAME	deepabyss_4000m_6952_1
+STARTBASE	275490
+ENDBASE	275705
+PRODUCT	N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase 2.3.1.157) [Campylobacter upsaliensis RM3195]
+PRODUCT-TYPE	P
+EC	2.7.7.23
+//
+ID	deepabyss_4000m_3254_0
+NAME	deepabyss_4000m_3254_0
+STARTBASE	275782
+ENDBASE	276018
+PRODUCT	integral membrane sensor signal transduction histidine kinase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_6958_0
+NAME	deepabyss_4000m_6958_0
+STARTBASE	277619
+ENDBASE	278497
+PRODUCT	Phosphonate monoester hydrolase [Oceanibaculum indicum P24]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5288_0
+NAME	deepabyss_4000m_5288_0
+STARTBASE	278512
+ENDBASE	279450
+PRODUCT	[Chloroflexi bacterium SCGC AB-629-P13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5289_1
+NAME	deepabyss_4000m_5289_1
+STARTBASE	279605
+ENDBASE	280150
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5281_0
+NAME	deepabyss_4000m_5281_0
+STARTBASE	281384
+ENDBASE	281839
+PRODUCT	peptidase S45 penicillin amidase K01434 amidase [EC:3.5.1.11]
+PRODUCT-TYPE	P
+EC	3.5.1.11
+//
+ID	deepabyss_4000m_5283_1
+NAME	deepabyss_4000m_5283_1
+STARTBASE	283524
+ENDBASE	283913
+PRODUCT	TRAP transporter solute receptor, unknown substrate 3 [Bradyrhizobium japonicum USDA 6]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5284_0
+NAME	deepabyss_4000m_5284_0
+STARTBASE	284472
+ENDBASE	285344
+PRODUCT	putative nitrilase (EC:3.5.1.77) K01459 [EC:3.5.1.77]
+PRODUCT-TYPE	P
+EC	3.5.1.77
+//
+ID	deepabyss_4000m_5285_0
+NAME	deepabyss_4000m_5285_0
+STARTBASE	285483
+ENDBASE	286199
+PRODUCT	fusA-3, fusA elongation factor G K02355 G
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5286_0
+NAME	deepabyss_4000m_5286_0
+STARTBASE	286481
+ENDBASE	286873
+PRODUCT	putative Zn-dependent hydrolase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5286_1
+NAME	deepabyss_4000m_5286_1
+STARTBASE	286896
+ENDBASE	287216
+PRODUCT	putative gluconolactonase (EC:3.1.1.17) K01053 [EC:3.1.1.17]
+PRODUCT-TYPE	P
+EC	3.1.1.17
+//
+ID	deepabyss_4000m_5287_1
+NAME	deepabyss_4000m_5287_1
+STARTBASE	287534
+ENDBASE	287998
+PRODUCT	[Thioflavicoccus mobilis 8321]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_1075_0
+NAME	deepabyss_4000m_1075_0
+STARTBASE	290313
+ENDBASE	290900
+PRODUCT	alanine racemase domain protein K06997
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5028_0
+NAME	deepabyss_4000m_5028_0
+STARTBASE	295679
+ENDBASE	296092
+PRODUCT	Putative ABC transporter (ATP binding protein) [gamma proteobacterium IMCC3088]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5028_1
+NAME	deepabyss_4000m_5028_1
+STARTBASE	296184
+ENDBASE	296405
+PRODUCT	phospholipase D [Pseudomonas pelagia]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5029_0
+NAME	deepabyss_4000m_5029_0
+STARTBASE	296586
+ENDBASE	297446
+PRODUCT	[SAR406 cluster bacterium SCGC AB-629-J13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7531_0
+NAME	deepabyss_4000m_7531_0
+STARTBASE	300209
+ENDBASE	301000
+PRODUCT	aldehyde dehydrogenase family protein (EC:1.2.1.16)
+PRODUCT-TYPE	P
+EC	1.2.1.16
+//
+ID	deepabyss_4000m_7532_0
+NAME	deepabyss_4000m_7532_0
+STARTBASE	301015
+ENDBASE	301800
+PRODUCT	biotin/lipoyl attachment domain-containing protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7533_0
+NAME	deepabyss_4000m_7533_0
+STARTBASE	301957
+ENDBASE	302631
+PRODUCT	NHL repeat-containing protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7534_0
+NAME	deepabyss_4000m_7534_0
+STARTBASE	302851
+ENDBASE	303279
+PRODUCT	putative group 2 family glycosyl transferase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7535_0
+NAME	deepabyss_4000m_7535_0
+STARTBASE	303901
+ENDBASE	304194
+PRODUCT	similar to Seryl-tRNA synthetase 2 K01875 seryl-tRNA [EC:6.1.1.11]
+PRODUCT-TYPE	P
+EC	6.1.1.11
+//
+ID	deepabyss_4000m_7536_0
+NAME	deepabyss_4000m_7536_0
+STARTBASE	304753
+ENDBASE	305502
+PRODUCT	gpmI phosphoglyceromutase (EC:5.4.2.1) K01834 phosphoglycerate mutase [EC:5.4.2.1]
+PRODUCT-TYPE	P
+EC	5.4.2.1
+//
+ID	deepabyss_4000m_7537_1
+NAME	deepabyss_4000m_7537_1
+STARTBASE	306054
+ENDBASE	306503
+PRODUCT	Porphobilinogen deaminase (EC 2.5.1.61) [bacterium Ellin514]
+PRODUCT-TYPE	P
+EC	2.5.1.61
+//
+ID	deepabyss_4000m_7538_0
+NAME	deepabyss_4000m_7538_0
+STARTBASE	306516
+ENDBASE	307193
+PRODUCT	short chain dehydrogenase family protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7539_0
+NAME	deepabyss_4000m_7539_0
+STARTBASE	307482
+ENDBASE	307751
+PRODUCT	thymidylate kinase (EC:2.7.4.9) K00943 dTMP [EC:2.7.4.9]
+PRODUCT-TYPE	P
+EC	2.7.4.9
+//
+ID	deepabyss_4000m_7539_1
+NAME	deepabyss_4000m_7539_1
+STARTBASE	307751
+ENDBASE	308326
+PRODUCT	holB DNA polymerase III subunit delta' (EC:2.7.7.7) K02341 [EC:2.7.7.7]
+PRODUCT-TYPE	P
+EC	2.7.7.7
+//
+ID	deepabyss_4000m_6480_0
+NAME	deepabyss_4000m_6480_0
+STARTBASE	311475
+ENDBASE	312209
+PRODUCT	putative proline racemase protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_6487_0
+NAME	deepabyss_4000m_6487_0
+STARTBASE	312503
+ENDBASE	313060
+PRODUCT	2-phosphosulpholactate phosphatase family protein( EC:3.1.3.71 ) [Rhodovulum sp. PH10]
+PRODUCT-TYPE	P
+EC	3.1.3.71
+//
+ID	deepabyss_4000m_6485_0
+NAME	deepabyss_4000m_6485_0
+STARTBASE	314384
+ENDBASE	314920
+PRODUCT	luciferase-like monooxygenase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_6489_1
+NAME	deepabyss_4000m_6489_1
+STARTBASE	316587
+ENDBASE	317192
+PRODUCT	Enoyl-CoA hydratase (EC 4.2.1.17) [Mycobacterium thermoresistibile ATCC 19527]
+PRODUCT-TYPE	P
+EC	4.2.1.17
+//
+ID	deepabyss_4000m_6488_0
+NAME	deepabyss_4000m_6488_0
+STARTBASE	317464
+ENDBASE	318021
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5403_0
+NAME	deepabyss_4000m_5403_0
+STARTBASE	318416
+ENDBASE	319309
+PRODUCT	thrC threonine synthase (EC:4.2.3.1) K01733 [EC:4.2.3.1]
+PRODUCT-TYPE	P
+EC	4.2.3.1
+//
+ID	deepabyss_4000m_9662_0
+NAME	deepabyss_4000m_9662_0
+STARTBASE	319372
+ENDBASE	319581
+PRODUCT	hydroxyproline-2-epimerase K12658 4-hydroxyproline epimerase [EC:5.1.1.8]
+PRODUCT-TYPE	P
+EC	5.1.1.8
+//
+ID	deepabyss_4000m_9662_1
+NAME	deepabyss_4000m_9662_1
+STARTBASE	319768
+ENDBASE	320265
+PRODUCT	luciferase-like monooxygenase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_9663_0
+NAME	deepabyss_4000m_9663_0
+STARTBASE	320288
+ENDBASE	321127
+PRODUCT	N-acyl-D-amino-acid deacylase precursor (EC 3.5.1.81) [gamma proteobacterium KT 71]
+PRODUCT-TYPE	P
+EC	3.5.1.81
+//
+ID	deepabyss_4000m_9660_0
+NAME	deepabyss_4000m_9660_0
+STARTBASE	321262
+ENDBASE	322122
+PRODUCT	[Cyclobacterium qasimii]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_9661_0
+NAME	deepabyss_4000m_9661_0
+STARTBASE	322247
+ENDBASE	323194
+PRODUCT	Glutamate synthase [NADPH] small chain (EC 1.4.1.13) [SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+EC	1.4.1.13
+//
+ID	deepabyss_4000m_9666_0
+NAME	deepabyss_4000m_9666_0
+STARTBASE	323240
+ENDBASE	323581
+PRODUCT	Orf33 [Actinoplanes sp. N902-109]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_9666_1
+NAME	deepabyss_4000m_9666_1
+STARTBASE	323609
+ENDBASE	323821
+PRODUCT	glycosyl hydrolase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_9667_1
+NAME	deepabyss_4000m_9667_1
+STARTBASE	324791
+ENDBASE	325129
+PRODUCT	ilvE branched-chain amino acid aminotransferase (EC:2.6.1.42) K00826 [EC:2.6.1.42]
+PRODUCT-TYPE	P
+EC	2.6.1.42
+//
+ID	deepabyss_4000m_9664_0
+NAME	deepabyss_4000m_9664_0
+STARTBASE	325329
+ENDBASE	325622
+PRODUCT	leuS leucyl-tRNA synthetase (EC:6.1.1.4) K01869 [EC:6.1.1.4]
+PRODUCT-TYPE	P
+EC	6.1.1.4
+//
+ID	deepabyss_4000m_9665_0
+NAME	deepabyss_4000m_9665_0
+STARTBASE	325980
+ENDBASE	326408
+PRODUCT	putative phage integrase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_9668_0
+NAME	deepabyss_4000m_9668_0
+STARTBASE	327978
+ENDBASE	328283
+PRODUCT	5-oxoprolinase (ATP-hydrolyzing) (EC:3.5.2.9) K01473 N-methylhydantoinase A [EC:3.5.2.14]
+PRODUCT-TYPE	P
+EC	3.5.2.9
+//
+ID	deepabyss_4000m_9669_0
+NAME	deepabyss_4000m_9669_0
+STARTBASE	328563
+ENDBASE	329045
+PRODUCT	succinate dehydrogenase fumarate reductase iron-sulfur protein (EC:1.3.99.1) K00240 [EC:1.3.99.1]
+PRODUCT-TYPE	P
+EC	1.3.99.1
+//
+ID	deepabyss_4000m_5546_0
+NAME	deepabyss_4000m_5546_0
+STARTBASE	329310
+ENDBASE	330179
+PRODUCT	[Reyranella massiliensis 521]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5400_0
+NAME	deepabyss_4000m_5400_0
+STARTBASE	330193
+ENDBASE	330927
+PRODUCT	heat shock protein 90 K04079 molecular chaperone HtpG
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7288_0
+NAME	deepabyss_4000m_7288_0
+STARTBASE	330939
+ENDBASE	331352
+PRODUCT	histidine kinase [Calothrix parietina]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7288_1
+NAME	deepabyss_4000m_7288_1
+STARTBASE	331434
+ENDBASE	331808
+PRODUCT	FIG099352:  [Selenomonas sp. CM52]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7287_0
+NAME	deepabyss_4000m_7287_0
+STARTBASE	333334
+ENDBASE	334080
+PRODUCT	DEAD-box ATP dependent DNA helicase
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7285_0
+NAME	deepabyss_4000m_7285_0
+STARTBASE	335027
+ENDBASE	335551
+PRODUCT	ATP synthase gamma chain (EC 3.6.3.14) [Prochlorococcus marinus bv. HNLC2]
+PRODUCT-TYPE	P
+EC	3.6.3.14
+//
+ID	deepabyss_4000m_7285_1
+NAME	deepabyss_4000m_7285_1
+STARTBASE	335566
+ENDBASE	335910
+PRODUCT	ATP2 Atp2p (EC:3.6.3.14) K02133 F-type H+-transporting ATPase subunit beta [EC:3.6.3.14]
+PRODUCT-TYPE	P
+EC	3.6.3.14
+//
+ID	deepabyss_4000m_5549_0
+NAME	deepabyss_4000m_5549_0
+STARTBASE	336882
+ENDBASE	337361
+PRODUCT	glutamyl-tRNA(Gln) amidotransferase, subunit alpha (EC:3.5.1.4) K02433 aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase A [EC:6.3.5.6 6.3.5.7]
+PRODUCT-TYPE	P
+EC	3.5.1.4
+//
+ID	deepabyss_4000m_7281_0
+NAME	deepabyss_4000m_7281_0
+STARTBASE	338585
+ENDBASE	339121
+PRODUCT	(EC:1.8.-.-) K14441 ribosomal S12 methylthiotransferase [EC:2.-.-.-]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_7281_1
+NAME	deepabyss_4000m_7281_1
+STARTBASE	339215
+ENDBASE	339478
+PRODUCT	LSU ribosomal protein L17p [SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_5548_0
+NAME	deepabyss_4000m_5548_0
+STARTBASE	339871
+ENDBASE	340638
+PRODUCT	kynurenine aminotransferase, putative (EC:2.6.1.1)
+PRODUCT-TYPE	P
+EC	2.6.1.1
+//
+ID	deepabyss_4000m_5401_0
+NAME	deepabyss_4000m_5401_0
+STARTBASE	341839
+ENDBASE	342675
+PRODUCT	[Planctomyces brasiliensis DSM 5305]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8832_0
+NAME	deepabyss_4000m_8832_0
+STARTBASE	342821
+ENDBASE	343306
+PRODUCT	signal peptide
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_8833_0
+NAME	deepabyss_4000m_8833_0
+STARTBASE	343558
+ENDBASE	344430
+PRODUCT	transketolase (EC:2.2.1.1)
+PRODUCT-TYPE	P
+EC	2.2.1.1
+//
+ID	deepabyss_4000m_1341_0
+NAME	deepabyss_4000m_1341_0
+STARTBASE	344503
+ENDBASE	345495
+PRODUCT	abortive infection protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_9251_0
+NAME	deepabyss_4000m_9251_0
+STARTBASE	349218
+ENDBASE	349850
+PRODUCT	fdsB NADH dehydrogenase (quinone) (EC:1.2.1.2) K00124 formate dehydrogenase, beta subunit [EC:1.2.1.2]
+PRODUCT-TYPE	P
+EC	1.2.1.2
+//
+ID	deepabyss_4000m_9257_0
+NAME	deepabyss_4000m_9257_0
+STARTBASE	351101
+ENDBASE	351817
+PRODUCT	N-Acetylneuraminate cytidylyltransferase (EC 2.7.7.43) [Campylobacter jejuni subsp. LMG 9217]
+PRODUCT-TYPE	P
+EC	2.7.7.43
+//
+ID	deepabyss_4000m_8836_0
+NAME	deepabyss_4000m_8836_0
+STARTBASE	351829
+ENDBASE	352686
+PRODUCT	homoserine dehydrogenase (EC:1.1.1.3) K00003 [EC:1.1.1.3]
+PRODUCT-TYPE	P
+EC	1.1.1.3
+//
+ID	deepabyss_4000m_9259_0
+NAME	deepabyss_4000m_9259_0
+STARTBASE	354102
+ENDBASE	354746
+PRODUCT	3-oxoadipate CoA-transferase subunit A K01031 CoA-transferase, alpha [EC:2.8.3.6]
+PRODUCT-TYPE	P
+EC	2.8.3.6
+//
+ID	deepabyss_4000m_8837_1
+NAME	deepabyss_4000m_8837_1
+STARTBASE	355384
+ENDBASE	355671
+PRODUCT	[Gracilimonas tropica]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_1340_0
+NAME	deepabyss_4000m_1340_0
+STARTBASE	356076
+ENDBASE	356348
+PRODUCT	[candidate division KSB1 bacterium SCGC AAA252-M08]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_6227_0
+NAME	deepabyss_4000m_6227_0
+STARTBASE	360830
+ENDBASE	361243
+PRODUCT	sur-5 SUppressor activated let-60 Ras family member (sur-5) K01907 acetoacetyl-CoA synthetase [EC:6.2.1.16]
+PRODUCT-TYPE	P
+EC	6.2.1.16
+//
+ID	deepabyss_4000m_6224_0
+NAME	deepabyss_4000m_6224_0
+STARTBASE	363790
+ENDBASE	364251
+PRODUCT	[Poribacteria sp. WGA-A3]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_6222_1
+NAME	deepabyss_4000m_6222_1
+STARTBASE	365916
+ENDBASE	366473
+PRODUCT	mucin-desulfating sulfatase (N-acetylglucosamine-6-sulfatase) (EC:3.1.6.14) K01137 N-acetylglucosamine-6-sulfatase [EC:3.1.6.14]
+PRODUCT-TYPE	P
+EC	3.1.6.14
+//
+ID	deepabyss_4000m_6221_0
+NAME	deepabyss_4000m_6221_0
+STARTBASE	366867
+ENDBASE	367280
+PRODUCT	DNA-directed RNA polymerase (ISS) K03006 II subunit RPB1 [EC:2.7.7.6]
+PRODUCT-TYPE	P
+EC	2.7.7.6
+//
+ID	deepabyss_4000m_11121_0
+NAME	deepabyss_4000m_11121_0
+STARTBASE	370733
+ENDBASE	371488
+PRODUCT	N-sulfoglucosamine sulfohydrolase (EC:3.10.1.1)
+PRODUCT-TYPE	P
+EC	3.10.1.1
+//
+ID	deepabyss_4000m_11127_0
+NAME	deepabyss_4000m_11127_0
+STARTBASE	372185
+ENDBASE	372532
+PRODUCT	putative transthyretin family protein K07127 5-hydroxyisourate hydrolase [EC:3.5.2.17]
+PRODUCT-TYPE	P
+EC	3.5.2.17
+//
+ID	deepabyss_4000m_11127_1
+NAME	deepabyss_4000m_11127_1
+STARTBASE	372532
+ENDBASE	372765
+PRODUCT	xdhA xanthine dehydrogenase, small subunit (EC:1.17.1.4) K13481 dehydrogenase [EC:1.17.1.4]
+PRODUCT-TYPE	P
+EC	1.17.1.4
+//
+ID	deepabyss_4000m_3159_1
+NAME	deepabyss_4000m_3159_1
+STARTBASE	379953
+ENDBASE	380453
+PRODUCT	EMB2247 (embryo defective 2247) ATP binding / aminoacyl-tRNA ligase/ nucleotide valine-tRNA ligase (EC:6.1.1.9) K01873 valyl-tRNA synthetase [EC:6.1.1.9]
+PRODUCT-TYPE	P
+EC	6.1.1.9
+//
+ID	deepabyss_4000m_10598_0
+NAME	deepabyss_4000m_10598_0
+STARTBASE	381468
+ENDBASE	382262
+PRODUCT	-signal peptide transmembrane prediction [Lentisphaera araneosa HTCC2155]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2837_0
+NAME	deepabyss_4000m_2837_0
+STARTBASE	383284
+ENDBASE	384300
+PRODUCT	FAD dependent oxidoreductase K09516 all-trans-retinol 13,14-reductase [EC:1.3.99.23]
+PRODUCT-TYPE	P
+EC	1.3.99.23
+//
+ID	deepabyss_4000m_2347_0
+NAME	deepabyss_4000m_2347_0
+STARTBASE	385288
+ENDBASE	385845
+PRODUCT	5-oxoprolinase (ATP-hydrolyzing) (EC:3.5.2.9) K01473 N-methylhydantoinase A [EC:3.5.2.14]
+PRODUCT-TYPE	P
+EC	3.5.2.9
+//
+ID	deepabyss_4000m_2347_1
+NAME	deepabyss_4000m_2347_1
+STARTBASE	385896
+ENDBASE	386117
+PRODUCT	N-methylhydantoinase B (ATP-hydrolyzing) OS Geobacillus kaustophilus GN GK2893 PE 4 SV 1 # UNIPROT Q5KVV8 3.5.2.14-RXN GKAU235909:GK2893-MONOMER 3.5.2.14
+PRODUCT-TYPE	P
+EC	3.5.2.14
+//
+ID	deepabyss_4000m_2832_0
+NAME	deepabyss_4000m_2832_0
+STARTBASE	386249
+ENDBASE	386467
+PRODUCT	uroporphyrin-III C-methyltransferase K13542 uroporphyrinogen III methyltransferase / synthase [EC:2.1.1.107 4.2.1.75]
+PRODUCT-TYPE	P
+EC	2.1.1.107
+//
+ID	deepabyss_4000m_2832_1
+NAME	deepabyss_4000m_2832_1
+STARTBASE	386448
+ENDBASE	386915
+PRODUCT	uroporphyrinogen-III C-methyltransferase / synthase (EC:2.1.1.107 4.2.1.75) K13542 uroporphyrinogen III methyltransferase [EC:2.1.1.107 4.2.1.75]
+PRODUCT-TYPE	P
+EC	2.1.1.107
+//
+ID	deepabyss_4000m_2833_0
+NAME	deepabyss_4000m_2833_0
+STARTBASE	387646
+ENDBASE	388029
+PRODUCT	IS4 family transposase K07481 transposase, IS5
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2830_0
+NAME	deepabyss_4000m_2830_0
+STARTBASE	388190
+ENDBASE	388414
+PRODUCT	CRISPR-associated protein, Csn1 family [Pseudaminobacter salicylatoxidans KCT001]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2343_0
+NAME	deepabyss_4000m_2343_0
+STARTBASE	389219
+ENDBASE	389728
+PRODUCT	cbbP phosphoribulokinase (EC:2.7.1.19) K00855 [EC:2.7.1.19]
+PRODUCT-TYPE	P
+EC	2.7.1.19
+//
+ID	deepabyss_4000m_2349_1
+NAME	deepabyss_4000m_2349_1
+STARTBASE	391428
+ENDBASE	391727
+PRODUCT	PhoH family protein K06217 phosphate starvation-inducible protein related proteins
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_2839_0
+NAME	deepabyss_4000m_2839_0
+STARTBASE	393225
+ENDBASE	393674
+PRODUCT	twin-arginine translocation pathway signal K02027 multiple sugar transport system substrate-binding protein
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_10524_0
+NAME	deepabyss_4000m_10524_0
+STARTBASE	394278
+ENDBASE	394985
+PRODUCT	-putative related to sulfatase [Planctomyces maris DSM 8797]
+PRODUCT-TYPE	P
+//
+ID	deepabyss_4000m_10525_0
+NAME	deepabyss_4000m_10525_0
+STARTBASE	394997
+ENDBASE	395338
+PRODUCT	Os09g0252100 K00626 acetyl-CoA C-acetyltransferase [EC:2.3.1.9]
+PRODUCT-TYPE	P
+EC	2.3.1.9

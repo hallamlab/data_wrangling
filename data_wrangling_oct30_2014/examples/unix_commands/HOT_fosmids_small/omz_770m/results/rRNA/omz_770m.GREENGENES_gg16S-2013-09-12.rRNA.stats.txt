@@ -1,0 +1,12 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	4
+
+	GREENGENES_gg16S-2013-09-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+omz_770m_3717	1	845	89.42	0.0	1046.0	k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__;
+omz_770m_3819	203	902	91.9	0.0	965.0	k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodospirillales;f__Rhodospirillaceae;g__;
+omz_770m_1027	1	775	88.49	0.0	928.0	k__Bacteria;p__Chloroflexi;c__SAR202;o__;f__;g__;
+omz_770m_11139	203	912	97.76	0.0	1223.0	k__Archaea;p__Crenarchaeota;c__Thaumarchaeota;o__Cenarchaeales;f__Cenarchaeaceae;g__Nitrosopumilus;

@@ -1,0 +1,2000 @@
+ID	upper_euphotic_10m_1772_0
+NAME	upper_euphotic_10m_1772_0
+STARTBASE	63
+ENDBASE	518
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_4305_0
+NAME	upper_euphotic_10m_4305_0
+STARTBASE	589
+ENDBASE	1227
+PRODUCT	Enoyl-CoA hydratase (EC 4.2.1.17) [Cupriavidus basilensis OR16]
+PRODUCT-TYPE	P
+EC	4.2.1.17
+//
+ID	upper_euphotic_10m_1770_0
+NAME	upper_euphotic_10m_1770_0
+STARTBASE	1580
+ENDBASE	1993
+PRODUCT	, partial [Candidatus Poribacteria sp. WGA-4E]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1770_1
+NAME	upper_euphotic_10m_1770_1
+STARTBASE	1932
+ENDBASE	2408
+PRODUCT	5-oxoprolinase (EC:3.5.2.9) K01473 N-methylhydantoinase A [EC:3.5.2.14]
+PRODUCT-TYPE	P
+EC	3.5.2.9
+//
+ID	upper_euphotic_10m_1777_1
+NAME	upper_euphotic_10m_1777_1
+STARTBASE	4821
+ENDBASE	5066
+PRODUCT	Xylose isomerase domain-containing protein TIM barrel K01816 hydroxypyruvate [EC:5.3.1.22]
+PRODUCT-TYPE	P
+EC	5.3.1.22
+//
+ID	upper_euphotic_10m_1774_0
+NAME	upper_euphotic_10m_1774_0
+STARTBASE	5227
+ENDBASE	6048
+PRODUCT	GTPase (EC:3.6.1.-)
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7512_0
+NAME	upper_euphotic_10m_7512_0
+STARTBASE	12312
+ENDBASE	12557
+PRODUCT	4Fe-4S ferredoxin, iron-sulfur binding protein (EC:1.-.-.-) K05524 ferredoxin
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7512_1
+NAME	upper_euphotic_10m_7512_1
+STARTBASE	12815
+ENDBASE	13069
+PRODUCT	transcriptional regulator (EC:3.6.1.-) K07736 CarD family
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7514_0
+NAME	upper_euphotic_10m_7514_0
+STARTBASE	13647
+ENDBASE	13970
+PRODUCT	cytochrome c (EC:1.9.3.1) K08738
+PRODUCT-TYPE	P
+EC	1.9.3.1
+//
+ID	upper_euphotic_10m_7514_2
+NAME	upper_euphotic_10m_7514_2
+STARTBASE	14126
+ENDBASE	14470
+PRODUCT	IMPL2 IMPL2 (MYO-INOSITOL MONOPHOSPHATASE LIKE 2) 3'(2'),5'-bisphosphate nucleotidase/ L-galactose-1-phosphate phosphatase/ inositol or phosphatidylinositol inositol-1(or 4)-monophosphatase (EC:3.1.3.25)
+PRODUCT-TYPE	P
+EC	3.1.3.25
+//
+ID	upper_euphotic_10m_7515_1
+NAME	upper_euphotic_10m_7515_1
+STARTBASE	14809
+ENDBASE	15441
+PRODUCT	alpha/beta hydrolase fold protein (EC:3.1.1.-)
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7517_1
+NAME	upper_euphotic_10m_7517_1
+STARTBASE	16887
+ENDBASE	17195
+PRODUCT	short-chain dehydrogenase/reductase SDR
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7519_0
+NAME	upper_euphotic_10m_7519_0
+STARTBASE	18207
+ENDBASE	18515
+PRODUCT	translation initiation factor eIF-1A K03236 1A
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_4237_0
+NAME	upper_euphotic_10m_4237_0
+STARTBASE	19210
+ENDBASE	19878
+PRODUCT	isocitrate dehydrogenase, NADP-dependent (EC:1.1.1.42) K00031 dehydrogenase [EC:1.1.1.42]
+PRODUCT-TYPE	P
+EC	1.1.1.42
+//
+ID	upper_euphotic_10m_877_0
+NAME	upper_euphotic_10m_877_0
+STARTBASE	19893
+ENDBASE	20450
+PRODUCT	dolichyl-phosphate-mannose-protein mannosyltransferase
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_876_0
+NAME	upper_euphotic_10m_876_0
+STARTBASE	20626
+ENDBASE	21465
+PRODUCT	LOC100242944 K01259 proline iminopeptidase [EC:3.4.11.5]
+PRODUCT-TYPE	P
+EC	3.4.11.5
+//
+ID	upper_euphotic_10m_875_0
+NAME	upper_euphotic_10m_875_0
+STARTBASE	21651
+ENDBASE	22502
+PRODUCT	phosphodiesterase/alkaline phosphatase D-like protein K01113 alkaline D [EC:3.1.3.1]
+PRODUCT-TYPE	P
+EC	3.1.3.1
+//
+ID	upper_euphotic_10m_872_0
+NAME	upper_euphotic_10m_872_0
+STARTBASE	23976
+ENDBASE	24956
+PRODUCT	ileS isoleucyl-tRNA synthetase (EC:6.1.1.5) K01870 [EC:6.1.1.5]
+PRODUCT-TYPE	P
+EC	6.1.1.5
+//
+ID	upper_euphotic_10m_871_0
+NAME	upper_euphotic_10m_871_0
+STARTBASE	24967
+ENDBASE	25461
+PRODUCT	zinc-binding dehydrogenase family oxidoreductase K00344 NADPH2:quinone reductase [EC:1.6.5.5]
+PRODUCT-TYPE	P
+EC	1.6.5.5
+//
+ID	upper_euphotic_10m_871_1
+NAME	upper_euphotic_10m_871_1
+STARTBASE	25494
+ENDBASE	25823
+PRODUCT	Predicted transcription regulator, contains HTH domain (MarR family) [Burkholderia pseudomallei 91]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_870_0
+NAME	upper_euphotic_10m_870_0
+STARTBASE	25955
+ENDBASE	26731
+PRODUCT	Alanine--glyoxylate transaminase (EC:2.6.1.44)
+PRODUCT-TYPE	P
+EC	2.6.1.44
+//
+ID	upper_euphotic_10m_879_0
+NAME	upper_euphotic_10m_879_0
+STARTBASE	26743
+ENDBASE	27312
+PRODUCT	hsd17b10, MGC81276, abad, camr, erab, hadh2, hcd2, hsd10, mhbd, mrpp2, mrx17, mrx31, mrxs10, schad, sdr5c1 hydroxysteroid (17-beta) dehydrogenase 10 K08683 3-hydroxyacyl-CoA / 3-hydroxy-2-methylbutyryl-CoA [EC:1.1.1.35 1.1.1.178]
+PRODUCT-TYPE	P
+EC	1.1.1.35
+//
+ID	upper_euphotic_10m_705_0
+NAME	upper_euphotic_10m_705_0
+STARTBASE	28802
+ENDBASE	29677
+PRODUCT	MTR 5-methyltetrahydrofolate-homocysteine methyltransferase (EC:2.1.1.13) K00548 5-methyltetrahydrofolate--homocysteine [EC:2.1.1.13]
+PRODUCT-TYPE	P
+EC	2.1.1.13
+//
+ID	upper_euphotic_10m_707_1
+NAME	upper_euphotic_10m_707_1
+STARTBASE	31099
+ENDBASE	31551
+PRODUCT	cobJ bifunctional CbiH protein precorrin-3B C17-methyltransferase (EC:2.1.1.131) K13541 cobalamin biosynthesis CbiG / [EC:2.1.1.131]
+PRODUCT-TYPE	P
+EC	2.1.1.131
+//
+ID	upper_euphotic_10m_702_1
+NAME	upper_euphotic_10m_702_1
+STARTBASE	35317
+ENDBASE	35637
+PRODUCT	possibly connected to lactam utilization allophanate hydrolase [Bacillus subtilis subsp. spizizenii TU-B-10]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_708_0
+NAME	upper_euphotic_10m_708_0
+STARTBASE	36644
+ENDBASE	36955
+PRODUCT	MRPL2 Putative mitochondrial ribosomal protein L2
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_708_1
+NAME	upper_euphotic_10m_708_1
+STARTBASE	36977
+ENDBASE	37255
+PRODUCT	rps19 30S ribosomal protein S19 K02965 small subunit S19
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_708_2
+NAME	upper_euphotic_10m_708_2
+STARTBASE	37255
+ENDBASE	37551
+PRODUCT	LSU ribosomal protein L22p (L17e) [Clostridium butyricum E4 str. BoNT E BL5262]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3213_1
+NAME	upper_euphotic_10m_3213_1
+STARTBASE	37591
+ENDBASE	37977
+PRODUCT	GH19068 gene product from transcript GH19068-RA K01620 threonine aldolase [EC:4.1.2.5]
+PRODUCT-TYPE	P
+EC	4.1.2.5
+//
+ID	upper_euphotic_10m_3217_0
+NAME	upper_euphotic_10m_3217_0
+STARTBASE	41355
+ENDBASE	42080
+PRODUCT	1-deoxy-D-xylulose 5-phosphate reductoisomerase K00099 1-deoxy-D-xylulose-5-phosphate reductoisomerase [EC:1.1.1.267]
+PRODUCT-TYPE	P
+EC	1.1.1.267
+//
+ID	upper_euphotic_10m_3215_0
+NAME	upper_euphotic_10m_3215_0
+STARTBASE	43103
+ENDBASE	43936
+PRODUCT	preprotein translocase, SecY subunit K03076 translocase subunit
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3219_0
+NAME	upper_euphotic_10m_3219_0
+STARTBASE	45112
+ENDBASE	45972
+PRODUCT	SGA1a, SGA1b serine glyoxylate aminotransferase (EC:2.6.1.45) K00830 alanine-glyoxylate transaminase / serine-glyoxylate serine-pyruvate [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+PRODUCT-TYPE	P
+EC	2.6.1.45
+//
+ID	upper_euphotic_10m_3218_1
+NAME	upper_euphotic_10m_3218_1
+STARTBASE	46210
+ENDBASE	46800
+PRODUCT	6-phosphogluconate dehydrogenase NAD-binding protein K00020 3-hydroxyisobutyrate [EC:1.1.1.31]
+PRODUCT-TYPE	P
+EC	1.1.1.31
+//
+ID	upper_euphotic_10m_4807_0
+NAME	upper_euphotic_10m_4807_0
+STARTBASE	46814
+ENDBASE	47140
+PRODUCT	glycosyl hydrolase (EC:3.2.1.37) K01198 xylan 1,4-beta-xylosidase [EC:3.2.1.37]
+PRODUCT-TYPE	P
+EC	3.2.1.37
+//
+ID	upper_euphotic_10m_2362_0
+NAME	upper_euphotic_10m_2362_0
+STARTBASE	48694
+ENDBASE	49530
+PRODUCT	luciferase family oxidoreductase, group 1
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5404_0
+NAME	upper_euphotic_10m_5404_0
+STARTBASE	50526
+ENDBASE	51134
+PRODUCT	coiled-coil protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2365_1
+NAME	upper_euphotic_10m_2365_1
+STARTBASE	51571
+ENDBASE	52104
+PRODUCT	pyridoxine 4-dehydrogenase (EC:1.1.1.65)
+PRODUCT-TYPE	P
+EC	1.1.1.65
+//
+ID	upper_euphotic_10m_2366_1
+NAME	upper_euphotic_10m_2366_1
+STARTBASE	52623
+ENDBASE	52955
+PRODUCT	Zinc ABC transporter, periplasmic-binding protein ZnuA [SAR86 cluster bacterium SAR86B]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6485_0
+NAME	upper_euphotic_10m_6485_0
+STARTBASE	55713
+ENDBASE	56051
+PRODUCT	cobalamin synthesis protein P47K
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6487_0
+NAME	upper_euphotic_10m_6487_0
+STARTBASE	57705
+ENDBASE	58079
+PRODUCT	tyrosyl-tRNA synthetase (EC:6.1.1.1) K01866 [EC:6.1.1.1]
+PRODUCT-TYPE	P
+EC	6.1.1.1
+//
+ID	upper_euphotic_10m_6486_0
+NAME	upper_euphotic_10m_6486_0
+STARTBASE	58727
+ENDBASE	59449
+PRODUCT	F-ATPase family transporter: protons (vacuolar) K02145 V-type H+-transporting ATPase subunit A [EC:3.6.3.14]
+PRODUCT-TYPE	P
+EC	3.6.3.14
+//
+ID	upper_euphotic_10m_6480_0
+NAME	upper_euphotic_10m_6480_0
+STARTBASE	60553
+ENDBASE	61167
+PRODUCT	cytoplasmic chaperone TorD family protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_4306_0
+NAME	upper_euphotic_10m_4306_0
+STARTBASE	63898
+ENDBASE	64320
+PRODUCT	Protein-N(5)-glutamine methyltransferase PrmC, methylates polypeptide chain release factors RF1 RF2 [SAR116 cluster alpha proteobacterium HIMB100]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_4306_1
+NAME	upper_euphotic_10m_4306_1
+STARTBASE	64317
+ENDBASE	64694
+PRODUCT	pco064740 LOC100274396 K02835 peptide chain release factor 1
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2030_0
+NAME	upper_euphotic_10m_2030_0
+STARTBASE	67526
+ENDBASE	68224
+PRODUCT	cation efflux system protein K07239 heavy-metal exporter, HME family
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2033_0
+NAME	upper_euphotic_10m_2033_0
+STARTBASE	70469
+ENDBASE	70744
+PRODUCT	phgdh phosphoglycerate dehydrogenase (EC:1.1.1.95) K00058 D-3-phosphoglycerate [EC:1.1.1.95]
+PRODUCT-TYPE	P
+EC	1.1.1.95
+//
+ID	upper_euphotic_10m_2033_1
+NAME	upper_euphotic_10m_2033_1
+STARTBASE	70784
+ENDBASE	71365
+PRODUCT	Septum formation protein Maf [bacterium Ellin514]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2034_2
+NAME	upper_euphotic_10m_2034_2
+STARTBASE	72057
+ENDBASE	72359
+PRODUCT	N-methylhydantoinase B (EC:3.5.2.14)
+PRODUCT-TYPE	P
+EC	3.5.2.14
+//
+ID	upper_euphotic_10m_4939_0
+NAME	upper_euphotic_10m_4939_0
+STARTBASE	77711
+ENDBASE	78601
+PRODUCT	malate synthase G (EC:2.3.3.9) K01638 [EC:2.3.3.9]
+PRODUCT-TYPE	P
+EC	2.3.3.9
+//
+ID	upper_euphotic_10m_6261_0
+NAME	upper_euphotic_10m_6261_0
+STARTBASE	79400
+ENDBASE	80023
+PRODUCT	delta-aminolevulinic acid dehydratase, putative (EC:4.2.1.24) K01698 porphobilinogen synthase [EC:4.2.1.24]
+PRODUCT-TYPE	P
+EC	4.2.1.24
+//
+ID	upper_euphotic_10m_6262_0
+NAME	upper_euphotic_10m_6262_0
+STARTBASE	82482
+ENDBASE	83225
+PRODUCT	histidinol dehydrogenase, putative K00013 dehydrogenase [EC:1.1.1.23]
+PRODUCT-TYPE	P
+EC	1.1.1.23
+//
+ID	upper_euphotic_10m_6265_0
+NAME	upper_euphotic_10m_6265_0
+STARTBASE	83374
+ENDBASE	84300
+PRODUCT	-putative related to sulfatases [Verrucomicrobia bacterium SCGC AAA168-F10]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6264_1
+NAME	upper_euphotic_10m_6264_1
+STARTBASE	84712
+ENDBASE	85359
+PRODUCT	ATP-dependent metalloprotease FtsH (EC:3.6.4.3) K03798 cell division protease [EC:3.4.24.-]
+PRODUCT-TYPE	P
+EC	3.6.4.3
+//
+ID	upper_euphotic_10m_6267_0
+NAME	upper_euphotic_10m_6267_0
+STARTBASE	85447
+ENDBASE	86001
+PRODUCT	hypothetical LOC575554
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6266_0
+NAME	upper_euphotic_10m_6266_0
+STARTBASE	86524
+ENDBASE	87144
+PRODUCT	Beta-lactamase [Flavobacteria bacterium BBFL7]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6268_0
+NAME	upper_euphotic_10m_6268_0
+STARTBASE	88576
+ENDBASE	89283
+PRODUCT	probable serine/threonine protein kinase related [Verrucomicrobia bacterium SCGC AAA164-O14]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1219_0
+NAME	upper_euphotic_10m_1219_0
+STARTBASE	89534
+ENDBASE	89917
+PRODUCT	dnaK HSP70 family molecular chaperone
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1215_0
+NAME	upper_euphotic_10m_1215_0
+STARTBASE	91255
+ENDBASE	91821
+PRODUCT	30S ribosomal protein S9 (EC:2.4.99.-) K02996 small subunit
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1216_0
+NAME	upper_euphotic_10m_1216_0
+STARTBASE	93809
+ENDBASE	94045
+PRODUCT	acyl-CoA dehydrogenase domain-containing protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1211_0
+NAME	upper_euphotic_10m_1211_0
+STARTBASE	94773
+ENDBASE	95474
+PRODUCT	pheT phenylalanyl-tRNA synthetase subunit beta (EC:6.1.1.20) K01890 chain [EC:6.1.1.20]
+PRODUCT-TYPE	P
+EC	6.1.1.20
+//
+ID	upper_euphotic_10m_1210_0
+NAME	upper_euphotic_10m_1210_0
+STARTBASE	95710
+ENDBASE	96141
+PRODUCT	ATPase associated various cellular activities K03924 MoxR-like [EC:3.6.3.-]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1213_0
+NAME	upper_euphotic_10m_1213_0
+STARTBASE	96294
+ENDBASE	96512
+PRODUCT	phosphate ABC transporter inner membrane subunit PstC K02037 transport system permease protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5688_1
+NAME	upper_euphotic_10m_5688_1
+STARTBASE	97995
+ENDBASE	98234
+PRODUCT	rod shape-determining protein Mbl K03569 MreB related proteins
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5689_0
+NAME	upper_euphotic_10m_5689_0
+STARTBASE	98247
+ENDBASE	98684
+PRODUCT	aminotransferase family protein, putative
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5682_0
+NAME	upper_euphotic_10m_5682_0
+STARTBASE	99056
+ENDBASE	99277
+PRODUCT	vacB putative acetazolamide conferring resistance protein Zam K12573 ribonuclease R [EC:3.1.-.-]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5681_0
+NAME	upper_euphotic_10m_5681_0
+STARTBASE	101235
+ENDBASE	102002
+PRODUCT	similar to Protein translocase subunit secA, chloroplastic K03070 preprotein SecA
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5684_0
+NAME	upper_euphotic_10m_5684_0
+STARTBASE	103551
+ENDBASE	104108
+PRODUCT	purB adenylosuccinate lyase (EC:4.3.2.2) K01756 [EC:4.3.2.2]
+PRODUCT-TYPE	P
+EC	4.3.2.2
+//
+ID	upper_euphotic_10m_5684_1
+NAME	upper_euphotic_10m_5684_1
+STARTBASE	104157
+ENDBASE	104375
+PRODUCT	fumC fumarate hydratase (EC:4.2.1.2) K01679 hydratase, class II [EC:4.2.1.2]
+PRODUCT-TYPE	P
+EC	4.2.1.2
+//
+ID	upper_euphotic_10m_5685_0
+NAME	upper_euphotic_10m_5685_0
+STARTBASE	104550
+ENDBASE	104873
+PRODUCT	membrane protein, multidrug efflux associated K01992 ABC-2 type transport system permease protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_4759_0
+NAME	upper_euphotic_10m_4759_0
+STARTBASE	108214
+ENDBASE	108918
+PRODUCT	transcription initiation factor IIB (TFIIB) K03124 TFIIB
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1325_0
+NAME	upper_euphotic_10m_1325_0
+STARTBASE	109692
+ENDBASE	110054
+PRODUCT	LL-diaminopimelate aminotransferase (EC:2.6.1.83)
+PRODUCT-TYPE	P
+EC	2.6.1.83
+//
+ID	upper_euphotic_10m_1324_0
+NAME	upper_euphotic_10m_1324_0
+STARTBASE	110136
+ENDBASE	110663
+PRODUCT	tmk Tmk (EC:2.7.4.9) K00943 dTMP kinase [EC:2.7.4.9]
+PRODUCT-TYPE	P
+EC	2.7.4.9
+//
+ID	upper_euphotic_10m_1324_1
+NAME	upper_euphotic_10m_1324_1
+STARTBASE	110660
+ENDBASE	110980
+PRODUCT	malY putative aminotransferase K14155 cystathione beta-lyase [EC:4.4.1.8]
+PRODUCT-TYPE	P
+EC	4.4.1.8
+//
+ID	upper_euphotic_10m_1327_0
+NAME	upper_euphotic_10m_1327_0
+STARTBASE	110992
+ENDBASE	111336
+PRODUCT	leuB 3-isopropylmalate dehydrogenase (EC:1.1.1.85) K00052 [EC:1.1.1.85]
+PRODUCT-TYPE	P
+EC	1.1.1.85
+//
+ID	upper_euphotic_10m_1326_0
+NAME	upper_euphotic_10m_1326_0
+STARTBASE	111992
+ENDBASE	112249
+PRODUCT	N-acetyl sugar amidotransferase
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1321_0
+NAME	upper_euphotic_10m_1321_0
+STARTBASE	112921
+ENDBASE	113625
+PRODUCT	UDP-N-acetylenolpyruvoylglucosamine reductase
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_4752_0
+NAME	upper_euphotic_10m_4752_0
+STARTBASE	113885
+ENDBASE	114817
+PRODUCT	tRNA rRNA cytosine-C5-methylase, putative K03500 ribosomal RNA small subunit methyltransferase B [EC:2.1.1.-]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_4751_0
+NAME	upper_euphotic_10m_4751_0
+STARTBASE	114832
+ENDBASE	115149
+PRODUCT	bacA bacitracin resistance protein BacA/undecaprenol kinase (EC:2.7.1.66) K06153 undecaprenyl-diphosphatase [EC:3.6.1.27]
+PRODUCT-TYPE	P
+EC	2.7.1.66
+//
+ID	upper_euphotic_10m_5879_0
+NAME	upper_euphotic_10m_5879_0
+STARTBASE	115772
+ENDBASE	116581
+PRODUCT	mutL DNA mismatch repair protein K03572 protein MutL
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5877_0
+NAME	upper_euphotic_10m_5877_0
+STARTBASE	119446
+ENDBASE	120327
+PRODUCT	FAD dependent oxidoreductase K00315 dimethylglycine dehydrogenase [EC:1.5.99.2]
+PRODUCT-TYPE	P
+EC	1.5.99.2
+//
+ID	upper_euphotic_10m_6419_0
+NAME	upper_euphotic_10m_6419_0
+STARTBASE	125754
+ENDBASE	126731
+PRODUCT	ileS isoleucyl-tRNA synthetase (EC:6.1.1.5) K01870 [EC:6.1.1.5]
+PRODUCT-TYPE	P
+EC	6.1.1.5
+//
+ID	upper_euphotic_10m_6476_0
+NAME	upper_euphotic_10m_6476_0
+STARTBASE	126820
+ENDBASE	127326
+PRODUCT	silent information regulator protein Sir2
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7655_0
+NAME	upper_euphotic_10m_7655_0
+STARTBASE	132282
+ENDBASE	133103
+PRODUCT	folC folylpolyglutamate synthetase (EC:6.3.2.17) K11754 dihydrofolate synthase / [EC:6.3.2.12 6.3.2.17]
+PRODUCT-TYPE	P
+EC	6.3.2.17
+//
+ID	upper_euphotic_10m_7308_0
+NAME	upper_euphotic_10m_7308_0
+STARTBASE	138702
+ENDBASE	139394
+PRODUCT	acs-11 fatty Acid CoA Synthetase family member (acs-11)
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7659_1
+NAME	upper_euphotic_10m_7659_1
+STARTBASE	139901
+ENDBASE	140533
+PRODUCT	pars2, fc83e06, wu:fc83e06, zgc:77163 prolyl-tRNA synthetase (mitochondrial) (EC:6.1.1.15) K01881 [EC:6.1.1.15]
+PRODUCT-TYPE	P
+EC	6.1.1.15
+//
+ID	upper_euphotic_10m_7658_0
+NAME	upper_euphotic_10m_7658_0
+STARTBASE	140548
+ENDBASE	141453
+PRODUCT	surface colonization protein K11016 hemolysin
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3395_2
+NAME	upper_euphotic_10m_3395_2
+STARTBASE	144341
+ENDBASE	144607
+PRODUCT	ftsZ-1 cell division protein FtsZ K03531 FtsZ
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3420_0
+NAME	upper_euphotic_10m_3420_0
+STARTBASE	144621
+ENDBASE	145388
+PRODUCT	sufD component SufBCD complex K09015 Fe-S cluster assembly protein SufD
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3937_0
+NAME	upper_euphotic_10m_3937_0
+STARTBASE	145558
+ENDBASE	145809
+PRODUCT	secY preprotein translocase subunit SecY K03076 SecY
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3937_1
+NAME	upper_euphotic_10m_3937_1
+STARTBASE	145802
+ENDBASE	146374
+PRODUCT	methionine aminopeptidase, type I K01265 methionyl aminopeptidase [EC:3.4.11.18]
+PRODUCT-TYPE	P
+EC	3.4.11.18
+//
+ID	upper_euphotic_10m_3935_0
+NAME	upper_euphotic_10m_3935_0
+STARTBASE	147489
+ENDBASE	148259
+PRODUCT	yhdY, aapM membrane protein ABC superfamily putative amino-acid transporter K09971 general L-amino acid transport system permease
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3411_1
+NAME	upper_euphotic_10m_3411_1
+STARTBASE	150992
+ENDBASE	151441
+PRODUCT	taurine catabolism dioxygenase TauD [Marinobacter sp. BSs20148]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3020_0
+NAME	upper_euphotic_10m_3020_0
+STARTBASE	151453
+ENDBASE	152043
+PRODUCT	putative acyl-CoA synthetase K00666 fatty-acyl-CoA synthase [EC:6.2.1.-]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3025_0
+NAME	upper_euphotic_10m_3025_0
+STARTBASE	155444
+ENDBASE	156280
+PRODUCT	tlyC hemolysin-like protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3537_0
+NAME	upper_euphotic_10m_3537_0
+STARTBASE	158705
+ENDBASE	159373
+PRODUCT	class I/II aminotransferase K11358 aspartate aminotransferase [EC:2.6.1.1]
+PRODUCT-TYPE	P
+EC	2.6.1.1
+//
+ID	upper_euphotic_10m_3535_0
+NAME	upper_euphotic_10m_3535_0
+STARTBASE	160755
+ENDBASE	161651
+PRODUCT	xanthine dehydrogenase, molybdenum binding subunit apoprotein (EC:1.17.1.4) K03520 carbon-monoxide dehydrogenase large [EC:1.2.99.2]
+PRODUCT-TYPE	P
+EC	1.17.1.4
+//
+ID	upper_euphotic_10m_6012_1
+NAME	upper_euphotic_10m_6012_1
+STARTBASE	162216
+ENDBASE	162683
+PRODUCT	FIG00793900:  [Mesorhizobium amorphae CCNWGS0123]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3531_0
+NAME	upper_euphotic_10m_3531_0
+STARTBASE	164782
+ENDBASE	165525
+PRODUCT	putative hydroxylase K00480 salicylate hydroxylase [EC:1.14.13.1]
+PRODUCT-TYPE	P
+EC	1.14.13.1
+//
+ID	upper_euphotic_10m_3539_0
+NAME	upper_euphotic_10m_3539_0
+STARTBASE	166661
+ENDBASE	167647
+PRODUCT	Pyridoxine 4-oxidase (EC 1.1.3.12) [Mesorhizobium australicum WSM2073]
+PRODUCT-TYPE	P
+EC	1.1.3.12
+//
+ID	upper_euphotic_10m_2771_0
+NAME	upper_euphotic_10m_2771_0
+STARTBASE	172274
+ENDBASE	173191
+PRODUCT	Phage baseplate wedge initiator (T4-like gp7) [Prochlorococcus phage P-HM2.]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2770_0
+NAME	upper_euphotic_10m_2770_0
+STARTBASE	173310
+ENDBASE	173708
+PRODUCT	oxidoreductase domain-containing protein (EC:1.2.1.45) K10219 4-carboxy-2-hydroxymuconate-6-semialdehyde dehydrogenase [EC:1.2.1.45]
+PRODUCT-TYPE	P
+EC	1.2.1.45
+//
+ID	upper_euphotic_10m_2770_1
+NAME	upper_euphotic_10m_2770_1
+STARTBASE	173732
+ENDBASE	174007
+PRODUCT	amidohydrolase 2 (EC:4.2.1.83) K10220 4-oxalmesaconate hydratase [EC:4.2.1.83]
+PRODUCT-TYPE	P
+EC	4.2.1.83
+//
+ID	upper_euphotic_10m_1975_0
+NAME	upper_euphotic_10m_1975_0
+STARTBASE	180849
+ENDBASE	181220
+PRODUCT	similar to aspartate ammonia lyase K01679 fumarate hydratase, class II [EC:4.2.1.2]
+PRODUCT-TYPE	P
+EC	4.2.1.2
+//
+ID	upper_euphotic_10m_1976_0
+NAME	upper_euphotic_10m_1976_0
+STARTBASE	181726
+ENDBASE	182586
+PRODUCT	putative sugar ABC transporter substrate-binding protein K02023 multiple transport system ATP-binding protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1978_0
+NAME	upper_euphotic_10m_1978_0
+STARTBASE	183498
+ENDBASE	184238
+PRODUCT	aroA 3-phosphoshikimate 1-carboxyvinyltransferase (EC:2.5.1.19) K00800 [EC:2.5.1.19]
+PRODUCT-TYPE	P
+EC	2.5.1.19
+//
+ID	upper_euphotic_10m_1979_0
+NAME	upper_euphotic_10m_1979_0
+STARTBASE	184410
+ENDBASE	185294
+PRODUCT	pdhD dihydrolipoyl dehydrogenase (EC:1.8.1.4) K00382 dihydrolipoamide [EC:1.8.1.4]
+PRODUCT-TYPE	P
+EC	1.8.1.4
+//
+ID	upper_euphotic_10m_5098_0
+NAME	upper_euphotic_10m_5098_0
+STARTBASE	186240
+ENDBASE	186866
+PRODUCT	3-isopropylmalate dehydratase small subunit (EC 4.2.1.33) [Burkholderia sp. SJ98]
+PRODUCT-TYPE	P
+EC	4.2.1.33
+//
+ID	upper_euphotic_10m_5097_0
+NAME	upper_euphotic_10m_5097_0
+STARTBASE	187196
+ENDBASE	187978
+PRODUCT	preprotein translocase subunit SecD [SAR406 cluster bacterium SCGC AAA160-C11]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5095_1
+NAME	upper_euphotic_10m_5095_1
+STARTBASE	189427
+ENDBASE	190080
+PRODUCT	Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4) [SAR116 cluster alpha proteobacterium HIMB100]
+PRODUCT-TYPE	P
+EC	6.3.5.4
+//
+ID	upper_euphotic_10m_5094_0
+NAME	upper_euphotic_10m_5094_0
+STARTBASE	190093
+ENDBASE	190620
+PRODUCT	binding-protein-dependent transporters inner membrane component K02053 putative spermidine/putrescine transport system permease protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5094_1
+NAME	upper_euphotic_10m_5094_1
+STARTBASE	190625
+ENDBASE	190912
+PRODUCT	potA2 spermidine/putrescine import ATP-binding protein (EC:3.6.3.31) K02052 putative transport system
+PRODUCT-TYPE	P
+EC	3.6.3.31
+//
+ID	upper_euphotic_10m_5093_0
+NAME	upper_euphotic_10m_5093_0
+STARTBASE	191058
+ENDBASE	191768
+PRODUCT	glmU bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase (EC:2.7.7.23 2.3.1.157) K04042 UDP-N-acetylglucosamine pyrophosphorylase / Glucosamine-1-phosphate N-acetyltransferase [EC:2.7.7.23 2.3.1.157]
+PRODUCT-TYPE	P
+EC	2.7.7.23
+//
+ID	upper_euphotic_10m_5091_0
+NAME	upper_euphotic_10m_5091_0
+STARTBASE	192741
+ENDBASE	193514
+PRODUCT	aldo/keto reductase family oxidoreductase
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5090_0
+NAME	upper_euphotic_10m_5090_0
+STARTBASE	193527
+ENDBASE	194159
+PRODUCT	Ferric siderophore transport system, periplasmic binding protein TonB [SAR86 cluster bacterium SAR86B]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5090_1
+NAME	upper_euphotic_10m_5090_1
+STARTBASE	194166
+ENDBASE	194438
+PRODUCT	TonB system transport protein ExbD2 K03559 biopolymer ExbD
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1798_1
+NAME	upper_euphotic_10m_1798_1
+STARTBASE	194847
+ENDBASE	195443
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1793_0
+NAME	upper_euphotic_10m_1793_0
+STARTBASE	204537
+ENDBASE	205106
+PRODUCT	two component transcriptional regulator, winged helix family [Planctomyces maris DSM 8797]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7538_1
+NAME	upper_euphotic_10m_7538_1
+STARTBASE	205492
+ENDBASE	205902
+PRODUCT	phosphoribosylaminoimidazole synthetase [Prochlorococcus phage P-HM1.]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7539_0
+NAME	upper_euphotic_10m_7539_0
+STARTBASE	205932
+ENDBASE	206312
+PRODUCT	Membrane protein [alpha proteobacterium HIMB5]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7539_1
+NAME	upper_euphotic_10m_7539_1
+STARTBASE	206319
+ENDBASE	206948
+PRODUCT	eutG alcohol dehydrogenase (EC:1.1.1.1) K00100 [EC:1.1.1.-]
+PRODUCT-TYPE	P
+EC	1.1.1.1
+//
+ID	upper_euphotic_10m_7530_0
+NAME	upper_euphotic_10m_7530_0
+STARTBASE	209019
+ENDBASE	209432
+PRODUCT	acetyl-CoA carboxylase, carboxyl transferase, beta subunit K01963 carboxylase transferase subunit [EC:6.4.1.2]
+PRODUCT-TYPE	P
+EC	6.4.1.2
+//
+ID	upper_euphotic_10m_7531_0
+NAME	upper_euphotic_10m_7531_0
+STARTBASE	210045
+ENDBASE	210350
+PRODUCT	putative lipid transfer protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7531_1
+NAME	upper_euphotic_10m_7531_1
+STARTBASE	210366
+ENDBASE	210773
+PRODUCT	K07068
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7536_0
+NAME	upper_euphotic_10m_7536_0
+STARTBASE	211095
+ENDBASE	211466
+PRODUCT	carA carbamoyl phosphate synthase small subunit (EC:6.3.5.5) K01956 carbamoyl-phosphate [EC:6.3.5.5]
+PRODUCT-TYPE	P
+EC	6.3.5.5
+//
+ID	upper_euphotic_10m_7536_1
+NAME	upper_euphotic_10m_7536_1
+STARTBASE	211605
+ENDBASE	211916
+PRODUCT	ArsR family transcriptional regulator
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7534_2
+NAME	upper_euphotic_10m_7534_2
+STARTBASE	213320
+ENDBASE	213583
+PRODUCT	multi-sensor signal transduction histidine kinase [SAR324 cluster bacterium JCVI-SC AAA005]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7535_0
+NAME	upper_euphotic_10m_7535_0
+STARTBASE	213910
+ENDBASE	214581
+PRODUCT	glutathione S-transferase K00799 S-transferase [EC:2.5.1.18]
+PRODUCT-TYPE	P
+EC	2.5.1.18
+//
+ID	upper_euphotic_10m_3515_0
+NAME	upper_euphotic_10m_3515_0
+STARTBASE	214727
+ENDBASE	215377
+PRODUCT	hisH imidazole glycerol phosphate synthase subunit HisH (EC:2.4.2.14) K02501 glutamine amidotransferase [EC:2.4.2.-]
+PRODUCT-TYPE	P
+EC	2.4.2.14
+//
+ID	upper_euphotic_10m_3516_0
+NAME	upper_euphotic_10m_3516_0
+STARTBASE	217572
+ENDBASE	218252
+PRODUCT	Permease drug/metabolite transporter (DMT) superfamily [Aromatoleum aromaticum EbN1]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1053_0
+NAME	upper_euphotic_10m_1053_0
+STARTBASE	220453
+ENDBASE	220980
+PRODUCT	GTP-binding protein LepA, putative K03596 LepA
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_813_1
+NAME	upper_euphotic_10m_813_1
+STARTBASE	224751
+ENDBASE	225143
+PRODUCT	O-succinylhomoserine sulfhydrylase (EC:2.5.1.48) K10764 [EC:2.5.1.-]
+PRODUCT-TYPE	P
+EC	2.5.1.48
+//
+ID	upper_euphotic_10m_814_0
+NAME	upper_euphotic_10m_814_0
+STARTBASE	227081
+ENDBASE	227449
+PRODUCT	phosphoserine aminotransferase (EC:2.6.1.52) K00831 [EC:2.6.1.52]
+PRODUCT-TYPE	P
+EC	2.6.1.52
+//
+ID	upper_euphotic_10m_817_1
+NAME	upper_euphotic_10m_817_1
+STARTBASE	228554
+ENDBASE	228835
+PRODUCT	putative saccharopine dehydrogenase family protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_816_0
+NAME	upper_euphotic_10m_816_0
+STARTBASE	228917
+ENDBASE	229666
+PRODUCT	rbsK ribokinase (EC:2.7.1.15) K00852 [EC:2.7.1.15]
+PRODUCT-TYPE	P
+EC	2.7.1.15
+//
+ID	upper_euphotic_10m_818_0
+NAME	upper_euphotic_10m_818_0
+STARTBASE	230917
+ENDBASE	231639
+PRODUCT	iron-containing alcohol dehydrogenase K00001 dehydrogenase [EC:1.1.1.1]
+PRODUCT-TYPE	P
+EC	1.1.1.1
+//
+ID	upper_euphotic_10m_4112_0
+NAME	upper_euphotic_10m_4112_0
+STARTBASE	231947
+ENDBASE	232633
+PRODUCT	aminotransferase class V K00830 alanine-glyoxylate transaminase / serine-glyoxylate serine-pyruvate [EC:2.6.1.44 2.6.1.45 2.6.1.51]
+PRODUCT-TYPE	P
+EC	2.6.1.44
+//
+ID	upper_euphotic_10m_3510_0
+NAME	upper_euphotic_10m_3510_0
+STARTBASE	233119
+ENDBASE	234042
+PRODUCT	peptidase M14, carboxypeptidase A
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1059_0
+NAME	upper_euphotic_10m_1059_0
+STARTBASE	234125
+ENDBASE	234409
+PRODUCT	ILL2 IAA-Ala conjugate hydrolase/ IAA-amino acid metallopeptidase K14664 hydrolase [EC:3.5.1.-]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3511_0
+NAME	upper_euphotic_10m_3511_0
+STARTBASE	236334
+ENDBASE	237230
+PRODUCT	signal peptide
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_729_0
+NAME	upper_euphotic_10m_729_0
+STARTBASE	237298
+ENDBASE	238284
+PRODUCT	ATP-dependent DNA helicase UvrD/PcrA [SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_724_2
+NAME	upper_euphotic_10m_724_2
+STARTBASE	242752
+ENDBASE	243048
+PRODUCT	rpoE1 DNA-directed RNA polymerase subunit E' (EC:2.7.7.6) K03049 [EC:2.7.7.6]
+PRODUCT-TYPE	P
+EC	2.7.7.6
+//
+ID	upper_euphotic_10m_723_0
+NAME	upper_euphotic_10m_723_0
+STARTBASE	243196
+ENDBASE	244053
+PRODUCT	glycine dehydrogenase, putative (EC:1.4.4.2) K00281 dehydrogenase [EC:1.4.4.2]
+PRODUCT-TYPE	P
+EC	1.4.4.2
+//
+ID	upper_euphotic_10m_720_0
+NAME	upper_euphotic_10m_720_0
+STARTBASE	246167
+ENDBASE	246505
+PRODUCT	glycosyltransferase family 2 [Prochlorococcus phage P-SSM2.]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3513_0
+NAME	upper_euphotic_10m_3513_0
+STARTBASE	249100
+ENDBASE	250044
+PRODUCT	rpsA 30S ribosomal protein S1 K02945 small subunit S1
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3238_0
+NAME	upper_euphotic_10m_3238_0
+STARTBASE	251856
+ENDBASE	252662
+PRODUCT	ligA NAD-dependent DNA ligase LigA (EC:6.5.1.2) K01972 (NAD+) [EC:6.5.1.2]
+PRODUCT-TYPE	P
+EC	6.5.1.2
+//
+ID	upper_euphotic_10m_3235_0
+NAME	upper_euphotic_10m_3235_0
+STARTBASE	253245
+ENDBASE	254009
+PRODUCT	flagellar biosynthetic protein FliR K02421 FliR
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3234_0
+NAME	upper_euphotic_10m_3234_0
+STARTBASE	254211
+ENDBASE	254756
+PRODUCT	initiation factor 2b related family protein K08963 methylthioribose-1-phosphate isomerase [EC:5.3.1.23]
+PRODUCT-TYPE	P
+EC	5.3.1.23
+//
+ID	upper_euphotic_10m_3237_0
+NAME	upper_euphotic_10m_3237_0
+STARTBASE	255063
+ENDBASE	255878
+PRODUCT	processing peptidase (EC:3.4.24.64)
+PRODUCT-TYPE	P
+EC	3.4.24.64
+//
+ID	upper_euphotic_10m_5490_0
+NAME	upper_euphotic_10m_5490_0
+STARTBASE	259389
+ENDBASE	259748
+PRODUCT	seryl-tRNA synthetase, putative (EC:6.1.1.11) K01875 synthetase [EC:6.1.1.11]
+PRODUCT-TYPE	P
+EC	6.1.1.11
+//
+ID	upper_euphotic_10m_5490_1
+NAME	upper_euphotic_10m_5490_1
+STARTBASE	259758
+ENDBASE	260003
+PRODUCT	stationary phase survival protein SurE (EC:3.1.3.6 3.1.3.5 3.6.1.11) K03787 5'-nucleotidase [EC:3.1.3.5]
+PRODUCT-TYPE	P
+EC	3.1.3.6
+//
+ID	upper_euphotic_10m_5497_0
+NAME	upper_euphotic_10m_5497_0
+STARTBASE	260017
+ENDBASE	260322
+PRODUCT	FIG01023126:  [gamma proteobacterium SCGC AAA007-O20]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5494_0
+NAME	upper_euphotic_10m_5494_0
+STARTBASE	261851
+ENDBASE	262282
+PRODUCT	TRAP C4-dicarboxylate transport system permease DctM subunit
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5494_1
+NAME	upper_euphotic_10m_5494_1
+STARTBASE	262282
+ENDBASE	262791
+PRODUCT	TRAP dicarboxylate transporter, DctQ subunit, putative
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3491_0
+NAME	upper_euphotic_10m_3491_0
+STARTBASE	262805
+ENDBASE	263596
+PRODUCT	Nickel-transporting ATPase. Sulfate-transporting ATPase (EC:3.6.3.25 3.6.3.24)
+PRODUCT-TYPE	P
+EC	3.6.3.25
+//
+ID	upper_euphotic_10m_3492_0
+NAME	upper_euphotic_10m_3492_0
+STARTBASE	265535
+ENDBASE	266407
+PRODUCT	general secretion pathway protein D [SAR324 cluster bacterium JCVI-SC AAA005]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3949_0
+NAME	upper_euphotic_10m_3949_0
+STARTBASE	267671
+ENDBASE	267934
+PRODUCT	putative periplasmic substrate-binding protein K02016 iron complex transport system protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3946_1
+NAME	upper_euphotic_10m_3946_1
+STARTBASE	270456
+ENDBASE	271001
+PRODUCT	maf2 maf protein K06287 septum formation protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3943_1
+NAME	upper_euphotic_10m_3943_1
+STARTBASE	272901
+ENDBASE	273392
+PRODUCT	[SAR406 cluster bacterium SCGC AAA160-C11]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3942_0
+NAME	upper_euphotic_10m_3942_0
+STARTBASE	273609
+ENDBASE	274535
+PRODUCT	tyrB aromatic amino acid aminotransferase (EC:2.6.1.57) K00832 aromatic-amino-acid transaminase [EC:2.6.1.57]
+PRODUCT-TYPE	P
+EC	2.6.1.57
+//
+ID	upper_euphotic_10m_3941_1
+NAME	upper_euphotic_10m_3941_1
+STARTBASE	274856
+ENDBASE	275209
+PRODUCT	L-lactate dehydrogenase, putative K00101 dehydrogenase (cytochrome) [EC:1.1.2.3]
+PRODUCT-TYPE	P
+EC	1.1.2.3
+//
+ID	upper_euphotic_10m_3940_1
+NAME	upper_euphotic_10m_3940_1
+STARTBASE	275368
+ENDBASE	276129
+PRODUCT	maspC aromatic amino acid aminotransferase (EC:2.6.1.1) K00813 aspartate [EC:2.6.1.1]
+PRODUCT-TYPE	P
+EC	2.6.1.1
+//
+ID	upper_euphotic_10m_4911_0
+NAME	upper_euphotic_10m_4911_0
+STARTBASE	276188
+ENDBASE	276466
+PRODUCT	porB4 2-oxoglutarate ferredoxin oxidoreductase subunit beta (EC:1.2.7.3) K00175 [EC:1.2.7.3]
+PRODUCT-TYPE	P
+EC	1.2.7.3
+//
+ID	upper_euphotic_10m_2548_0
+NAME	upper_euphotic_10m_2548_0
+STARTBASE	279522
+ENDBASE	280226
+PRODUCT	Phage baseplate wedge initiator (T4-like gp7) [Synechococcus phage S-SSM7.]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_4916_0
+NAME	upper_euphotic_10m_4916_0
+STARTBASE	281758
+ENDBASE	282180
+PRODUCT	magnesium transporter K06213 transporter
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2012_0
+NAME	upper_euphotic_10m_2012_0
+STARTBASE	282194
+ENDBASE	282988
+PRODUCT	adenylate cyclase (EC:4.6.1.1)
+PRODUCT-TYPE	P
+EC	4.6.1.1
+//
+ID	upper_euphotic_10m_2010_0
+NAME	upper_euphotic_10m_2010_0
+STARTBASE	284061
+ENDBASE	284849
+PRODUCT	[Rhodopirellula baltica SH 1]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2542_0
+NAME	upper_euphotic_10m_2542_0
+STARTBASE	287694
+ENDBASE	287987
+PRODUCT	3-oxoacyl-[acyl-carrier-protein] synthase, putative (EC:2.3.1.41) K09458 synthase II [EC:2.3.1.179]
+PRODUCT-TYPE	P
+EC	2.3.1.41
+//
+ID	upper_euphotic_10m_2542_1
+NAME	upper_euphotic_10m_2542_1
+STARTBASE	288066
+ENDBASE	288374
+PRODUCT	3-oxoacyl-[acyl-carrier-protein] synthase, putative (EC:2.3.1.41) K09458 synthase II [EC:2.3.1.179]
+PRODUCT-TYPE	P
+EC	2.3.1.41
+//
+ID	upper_euphotic_10m_6209_0
+NAME	upper_euphotic_10m_6209_0
+STARTBASE	290356
+ENDBASE	291132
+PRODUCT	Protein unknown function DUF3604 [Halomonas titanicae]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6208_0
+NAME	upper_euphotic_10m_6208_0
+STARTBASE	291160
+ENDBASE	291960
+PRODUCT	polyprenyltransferase K02301 protoheme IX farnesyltransferase [EC:2.5.1.-]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6203_0
+NAME	upper_euphotic_10m_6203_0
+STARTBASE	292195
+ENDBASE	292530
+PRODUCT	Phage integrase [gamma proteobacterium HIMB30]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6201_1
+NAME	upper_euphotic_10m_6201_1
+STARTBASE	294427
+ENDBASE	295137
+PRODUCT	putative Zn-dependent protease (EC:3.4.24.-) K03592 PmbA protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6207_0
+NAME	upper_euphotic_10m_6207_0
+STARTBASE	296127
+ENDBASE	296354
+PRODUCT	4-carboxymuconolactone decarboxylase (EC 4.1.1.44) [Serratia marcescens Db11]
+PRODUCT-TYPE	P
+EC	4.1.1.44
+//
+ID	upper_euphotic_10m_6207_1
+NAME	upper_euphotic_10m_6207_1
+STARTBASE	296356
+ENDBASE	297156
+PRODUCT	glucose-methanol-choline oxidoreductase K00119 [EC:1.1.99.-]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6205_0
+NAME	upper_euphotic_10m_6205_0
+STARTBASE	297882
+ENDBASE	298256
+PRODUCT	ABC-type multidrug transport system, ATPase permease component (EC:3.6.3.27) K06147 ATP-binding cassette, subfamily B, bacterial
+PRODUCT-TYPE	P
+EC	3.6.3.27
+//
+ID	upper_euphotic_10m_6205_1
+NAME	upper_euphotic_10m_6205_1
+STARTBASE	298258
+ENDBASE	298863
+PRODUCT	Lipid A export ATP-binding/permease protein MsbA [marine gamma proteobacterium HTCC2080]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6204_0
+NAME	upper_euphotic_10m_6204_0
+STARTBASE	298905
+ENDBASE	299774
+PRODUCT	ruvB Holliday junction DNA helicase RuvB (EC:3.1.22.4) K03551 holliday
+PRODUCT-TYPE	P
+EC	3.1.22.4
+//
+ID	upper_euphotic_10m_357_1
+NAME	upper_euphotic_10m_357_1
+STARTBASE	304314
+ENDBASE	304568
+PRODUCT	cytidine/deoxycytidylate deaminase family protein (EC:3.5.4.26) K11752 diaminohydroxyphosphoribosylaminopyrimidine / 5-amino-6-(5-phosphoribosylamino)uracil reductase [EC:3.5.4.26 1.1.1.193]
+PRODUCT-TYPE	P
+EC	3.5.4.26
+//
+ID	upper_euphotic_10m_1893_0
+NAME	upper_euphotic_10m_1893_0
+STARTBASE	304583
+ENDBASE	305236
+PRODUCT	membrane protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1890_0
+NAME	upper_euphotic_10m_1890_0
+STARTBASE	306482
+ENDBASE	306820
+PRODUCT	leucyl/phenylalanyl-tRNA--protein transferase
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1895_0
+NAME	upper_euphotic_10m_1895_0
+STARTBASE	308382
+ENDBASE	308990
+PRODUCT	zinc metallohydrolase, glyoxalase II family
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1894_0
+NAME	upper_euphotic_10m_1894_0
+STARTBASE	309061
+ENDBASE	309936
+PRODUCT	[SAR406 cluster bacterium SCGC AB-629-J13]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_601_0
+NAME	upper_euphotic_10m_601_0
+STARTBASE	311626
+ENDBASE	312495
+PRODUCT	[gamma proteobacterium KT 71]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5545_0
+NAME	upper_euphotic_10m_5545_0
+STARTBASE	312612
+ENDBASE	313301
+PRODUCT	[Candidatus Pelagibacter ubique]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_351_0
+NAME	upper_euphotic_10m_351_0
+STARTBASE	314274
+ENDBASE	314507
+PRODUCT	ribosome-associated GTPase K06949 ribosome biogenesis GTPase [EC:3.6.1.-]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_351_1
+NAME	upper_euphotic_10m_351_1
+STARTBASE	314578
+ENDBASE	314865
+PRODUCT	ribonuclease R (EC:3.1.13.1) K12573 [EC:3.1.-.-]
+PRODUCT-TYPE	P
+EC	3.1.13.1
+//
+ID	upper_euphotic_10m_5546_0
+NAME	upper_euphotic_10m_5546_0
+STARTBASE	315546
+ENDBASE	315953
+PRODUCT	binding-protein-dependent transport systems inner membrane component K02053 putative spermidine/putrescine system permease protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5546_1
+NAME	upper_euphotic_10m_5546_1
+STARTBASE	315956
+ENDBASE	316474
+PRODUCT	binding-protein-dependent transport systems inner membrane component K02054 putative spermidine/putrescine system permease protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5541_0
+NAME	upper_euphotic_10m_5541_0
+STARTBASE	316544
+ENDBASE	316804
+PRODUCT	FIG00801583:  [Sinorhizobium meliloti CCNWSX0020]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5540_1
+NAME	upper_euphotic_10m_5540_1
+STARTBASE	317644
+ENDBASE	318045
+PRODUCT	udgA uracil-DNA glycosylase (EC:2.7.7.7) K02334 DNA polymerase bacteriophage-type [EC:2.7.7.7]
+PRODUCT-TYPE	P
+EC	2.7.7.7
+//
+ID	upper_euphotic_10m_5543_1
+NAME	upper_euphotic_10m_5543_1
+STARTBASE	318113
+ENDBASE	318727
+PRODUCT	ksgA ribosomal RNA small subunit methyltransferase A K02528 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase [EC:2.1.1.182]
+PRODUCT-TYPE	P
+EC	2.1.1.182
+//
+ID	upper_euphotic_10m_5237_0
+NAME	upper_euphotic_10m_5237_0
+STARTBASE	319998
+ENDBASE	320795
+PRODUCT	Sterol desaturase [marine gamma proteobacterium HTCC2080]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1092_0
+NAME	upper_euphotic_10m_1092_0
+STARTBASE	322974
+ENDBASE	323207
+PRODUCT	ketol-acid reductoisomerase (EC:1.1.1.86) K00053 [EC:1.1.1.86]
+PRODUCT-TYPE	P
+EC	1.1.1.86
+//
+ID	upper_euphotic_10m_1092_1
+NAME	upper_euphotic_10m_1092_1
+STARTBASE	323318
+ENDBASE	323626
+PRODUCT	ATP-dependent Clp protease proteolytic subunit, putative (EC:3.4.21.92) K01358 protease, subunit [EC:3.4.21.92]
+PRODUCT-TYPE	P
+EC	3.4.21.92
+//
+ID	upper_euphotic_10m_1091_0
+NAME	upper_euphotic_10m_1091_0
+STARTBASE	323930
+ENDBASE	324592
+PRODUCT	MiaB-like tRNA modifying enzyme YliG (EC:1.3.1.74) K14441 ribosomal protein S12 methylthiotransferase [EC:2.-.-.-]
+PRODUCT-TYPE	P
+EC	1.3.1.74
+//
+ID	upper_euphotic_10m_1090_0
+NAME	upper_euphotic_10m_1090_0
+STARTBASE	324876
+ENDBASE	325103
+PRODUCT	argH argininosuccinate lyase (EC:4.3.2.1) K01755 [EC:4.3.2.1]
+PRODUCT-TYPE	P
+EC	4.3.2.1
+//
+ID	upper_euphotic_10m_1097_0
+NAME	upper_euphotic_10m_1097_0
+STARTBASE	325450
+ENDBASE	325704
+PRODUCT	Cyanophage-encoded porphyrin biosynthetic protein, CobS #T4 GC0150 [Prochlorococcus phage P-HM2.]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1097_1
+NAME	upper_euphotic_10m_1097_1
+STARTBASE	325794
+ENDBASE	326183
+PRODUCT	T4-like phage peptidase #T4 GC146 [Prochlorococcus P-HM1.]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1094_0
+NAME	upper_euphotic_10m_1094_0
+STARTBASE	327622
+ENDBASE	327879
+PRODUCT	[Poribacteria bacterium WGA-3G]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1098_0
+NAME	upper_euphotic_10m_1098_0
+STARTBASE	328265
+ENDBASE	328873
+PRODUCT	ATRABE1B (ARABIDOPSIS RAB GTPASE HOMOLOG E1B) GTP binding / GTPase/ translation elongation factor K02358 factor Tu
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7274_1
+NAME	upper_euphotic_10m_7274_1
+STARTBASE	330065
+ENDBASE	330523
+PRODUCT	csdB putative L-cysteine/cystine lyase K11325 lyase
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7494_1
+NAME	upper_euphotic_10m_7494_1
+STARTBASE	331957
+ENDBASE	332478
+PRODUCT	[Prochlorococcus marinus bv. HNLC2]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7497_0
+NAME	upper_euphotic_10m_7497_0
+STARTBASE	332547
+ENDBASE	332897
+PRODUCT	glutamyl-tRNA amidotransferase subunit B K02434 aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) B [EC:6.3.5.6 6.3.5.7]
+PRODUCT-TYPE	P
+EC	6.3.5.6
+//
+ID	upper_euphotic_10m_7497_1
+NAME	upper_euphotic_10m_7497_1
+STARTBASE	332901
+ENDBASE	333314
+PRODUCT	coaE dephospho-CoA kinase (EC:2.7.1.24) K00859 [EC:2.7.1.24]
+PRODUCT-TYPE	P
+EC	2.7.1.24
+//
+ID	upper_euphotic_10m_7491_0
+NAME	upper_euphotic_10m_7491_0
+STARTBASE	334519
+ENDBASE	335376
+PRODUCT	citT DASS family sodium/sulfate transporter
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7490_0
+NAME	upper_euphotic_10m_7490_0
+STARTBASE	335489
+ENDBASE	336403
+PRODUCT	DNA polymerase II (EC:2.7.7.7) K02319 I [EC:2.7.7.7]
+PRODUCT-TYPE	P
+EC	2.7.7.7
+//
+ID	upper_euphotic_10m_7492_0
+NAME	upper_euphotic_10m_7492_0
+STARTBASE	337425
+ENDBASE	338144
+PRODUCT	trypsin-like serine protease
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7499_0
+NAME	upper_euphotic_10m_7499_0
+STARTBASE	338476
+ENDBASE	339180
+PRODUCT	cytochrome c biogenesis protein CcmF K02198 c-type CcmF
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5725_0
+NAME	upper_euphotic_10m_5725_0
+STARTBASE	341296
+ENDBASE	341676
+PRODUCT	yhiN oxidoreductase FAD/NAD(P)-binding domain K07007
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2116_1
+NAME	upper_euphotic_10m_2116_1
+STARTBASE	342528
+ENDBASE	342821
+PRODUCT	metal-binding integral membrane protein-like protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1637_0
+NAME	upper_euphotic_10m_1637_0
+STARTBASE	343543
+ENDBASE	344472
+PRODUCT	FAD dependent oxidoreductase
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1634_0
+NAME	upper_euphotic_10m_1634_0
+STARTBASE	346275
+ENDBASE	346628
+PRODUCT	purH bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase (EC:2.1.2.3) K00602 formyltransferase / IMP [EC:2.1.2.3 3.5.4.10]
+PRODUCT-TYPE	P
+EC	2.1.2.3
+//
+ID	upper_euphotic_10m_1639_0
+NAME	upper_euphotic_10m_1639_0
+STARTBASE	350276
+ENDBASE	350569
+PRODUCT	thymidylate synthase, flavin-dependent (EC:2.1.1.148) K03465 synthase (FAD) [EC:2.1.1.148]
+PRODUCT-TYPE	P
+EC	2.1.1.148
+//
+ID	upper_euphotic_10m_1638_0
+NAME	upper_euphotic_10m_1638_0
+STARTBASE	350581
+ENDBASE	351423
+PRODUCT	putative manganese/divalent cation transport protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7671_0
+NAME	upper_euphotic_10m_7671_0
+STARTBASE	351457
+ENDBASE	352188
+PRODUCT	glcB malate synthase G (EC:2.3.3.9) K01638 [EC:2.3.3.9]
+PRODUCT-TYPE	P
+EC	2.3.3.9
+//
+ID	upper_euphotic_10m_7673_0
+NAME	upper_euphotic_10m_7673_0
+STARTBASE	353168
+ENDBASE	353941
+PRODUCT	rpoC DNA-directed RNA polymerase subunit beta' (EC:2.7.7.6) K03046 [EC:2.7.7.6]
+PRODUCT-TYPE	P
+EC	2.7.7.6
+//
+ID	upper_euphotic_10m_7672_0
+NAME	upper_euphotic_10m_7672_0
+STARTBASE	354094
+ENDBASE	354762
+PRODUCT	glucosamine/fructose-6-phosphate aminotransferase, isomerizing K00820 glucosamine--fructose-6-phosphate aminotransferase (isomerizing) [EC:2.6.1.16]
+PRODUCT-TYPE	P
+EC	2.6.1.16
+//
+ID	upper_euphotic_10m_7675_0
+NAME	upper_euphotic_10m_7675_0
+STARTBASE	355085
+ENDBASE	355846
+PRODUCT	putative alcohol dehydrogenase class III (EC:1.1.1.1) K00121 S-(hydroxymethyl)glutathione / [EC:1.1.1.284 1.1.1.1]
+PRODUCT-TYPE	P
+EC	1.1.1.1
+//
+ID	upper_euphotic_10m_7674_0
+NAME	upper_euphotic_10m_7674_0
+STARTBASE	355873
+ENDBASE	356193
+PRODUCT	rplS 50S ribosomal protein L19 K02884 large subunit L19
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7674_1
+NAME	upper_euphotic_10m_7674_1
+STARTBASE	356469
+ENDBASE	356813
+PRODUCT	trmD tRNA (guanine-N1)-methyltransferase (EC:2.1.1.31) K00554 (guanine-N1-)-methyltransferase [EC:2.1.1.31]
+PRODUCT-TYPE	P
+EC	2.1.1.31
+//
+ID	upper_euphotic_10m_7676_0
+NAME	upper_euphotic_10m_7676_0
+STARTBASE	357545
+ENDBASE	358189
+PRODUCT	-transmembrane prediction [Flavobacterium columnare ATCC 49512]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_7679_0
+NAME	upper_euphotic_10m_7679_0
+STARTBASE	358406
+ENDBASE	359182
+PRODUCT	fgs1, GLSF, ferredoxin-dependent glutamate synthase1 (EC:1.4.7.1) K00284 synthase (ferredoxin) [EC:1.4.7.1]
+PRODUCT-TYPE	P
+EC	1.4.7.1
+//
+ID	upper_euphotic_10m_1462_0
+NAME	upper_euphotic_10m_1462_0
+STARTBASE	361176
+ENDBASE	362159
+PRODUCT	K09123 protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1460_0
+NAME	upper_euphotic_10m_1460_0
+STARTBASE	362883
+ENDBASE	363104
+PRODUCT	gph phosphoglycolate phosphatase (EC:3.1.3.18) K01091 [EC:3.1.3.18]
+PRODUCT-TYPE	P
+EC	3.1.3.18
+//
+ID	upper_euphotic_10m_4147_0
+NAME	upper_euphotic_10m_4147_0
+STARTBASE	365015
+ENDBASE	365320
+PRODUCT	Sodium/proline symporter [Plesiocystis pacifica SIR-1]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1464_0
+NAME	upper_euphotic_10m_1464_0
+STARTBASE	365800
+ENDBASE	366408
+PRODUCT	, partial [SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1465_0
+NAME	upper_euphotic_10m_1465_0
+STARTBASE	366798
+ENDBASE	367175
+PRODUCT	phosphopyruvate hydratase (EC:4.2.1.11) K01689 enolase [EC:4.2.1.11]
+PRODUCT-TYPE	P
+EC	4.2.1.11
+//
+ID	upper_euphotic_10m_6009_0
+NAME	upper_euphotic_10m_6009_0
+STARTBASE	368207
+ENDBASE	369118
+PRODUCT	ATPase (EC:3.4.21.92) K03694 ATP-dependent Clp protease ATP-binding subunit ClpA
+PRODUCT-TYPE	P
+EC	3.4.21.92
+//
+ID	upper_euphotic_10m_6008_0
+NAME	upper_euphotic_10m_6008_0
+STARTBASE	369297
+ENDBASE	369965
+PRODUCT	[Planctomyces maris DSM 8797]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3521_1
+NAME	upper_euphotic_10m_3521_1
+STARTBASE	372152
+ENDBASE	372556
+PRODUCT	40S ribosomal protein S14, putative
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3521_2
+NAME	upper_euphotic_10m_3521_2
+STARTBASE	372565
+ENDBASE	372924
+PRODUCT	rpsM 30S ribosomal protein S13 K02952 small subunit S13
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_4279_1
+NAME	upper_euphotic_10m_4279_1
+STARTBASE	373981
+ENDBASE	374244
+PRODUCT	cytosol aminopeptidase PepA (EC:3.4.11.1) K01255 leucyl [EC:3.4.11.1]
+PRODUCT-TYPE	P
+EC	3.4.11.1
+//
+ID	upper_euphotic_10m_4279_2
+NAME	upper_euphotic_10m_4279_2
+STARTBASE	374237
+ENDBASE	374647
+PRODUCT	nucleoside diphosphate kinase, putative (EC:2.7.4.6)
+PRODUCT-TYPE	P
+EC	2.7.4.6
+//
+ID	upper_euphotic_10m_3523_0
+NAME	upper_euphotic_10m_3523_0
+STARTBASE	374864
+ENDBASE	375289
+PRODUCT	radA DNA repair protein RadA K04485 RadA/Sms
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3523_1
+NAME	upper_euphotic_10m_3523_1
+STARTBASE	375349
+ENDBASE	375786
+PRODUCT	[SAR406 cluster bacterium SCGC AAA160-I06]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3522_0
+NAME	upper_euphotic_10m_3522_0
+STARTBASE	376190
+ENDBASE	376594
+PRODUCT	rpsK 30S ribosomal protein S11 K02948 small subunit S11
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3524_0
+NAME	upper_euphotic_10m_3524_0
+STARTBASE	378163
+ENDBASE	378744
+PRODUCT	emrB multidrug resistance protein B (EC:3.6.3.44) K03446 MFS transporter, DHA2 family,
+PRODUCT-TYPE	P
+EC	3.6.3.44
+//
+ID	upper_euphotic_10m_3527_0
+NAME	upper_euphotic_10m_3527_0
+STARTBASE	378773
+ENDBASE	379072
+PRODUCT	[SAR406 cluster bacterium SCGC AAA298-D23]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3527_1
+NAME	upper_euphotic_10m_3527_1
+STARTBASE	379080
+ENDBASE	379691
+PRODUCT	recombinase RecG [SAR406 cluster bacterium SCGC AAA160-I06]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3550_1
+NAME	upper_euphotic_10m_3550_1
+STARTBASE	382235
+ENDBASE	382657
+PRODUCT	[Chloroflexi bacterium SCGC AB-629-P13]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6071_0
+NAME	upper_euphotic_10m_6071_0
+STARTBASE	382855
+ENDBASE	383325
+PRODUCT	Hypothetical protein L-Asparaginase type 2-like superfamily [alpha proteobacterium BAL199]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6073_1
+NAME	upper_euphotic_10m_6073_1
+STARTBASE	385098
+ENDBASE	385706
+PRODUCT	purB adenylosuccinate lyase (EC:4.3.2.2) K01756 [EC:4.3.2.2]
+PRODUCT-TYPE	P
+EC	4.3.2.2
+//
+ID	upper_euphotic_10m_3556_1
+NAME	upper_euphotic_10m_3556_1
+STARTBASE	387818
+ENDBASE	388381
+PRODUCT	putative acyl-CoA dehydrogenase (EC:1.3.99.-) K00257 [EC:1.3.99.-]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_3559_0
+NAME	upper_euphotic_10m_3559_0
+STARTBASE	390413
+ENDBASE	390811
+PRODUCT	[Glaciecola arctica BSs20135]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2750_1
+NAME	upper_euphotic_10m_2750_1
+STARTBASE	393497
+ENDBASE	394030
+PRODUCT	putative sugar-phosphate nucleotidyl transferase (EC:2.7.7.13) K00966 mannose-1-phosphate guanylyltransferase [EC:2.7.7.13]
+PRODUCT-TYPE	P
+EC	2.7.7.13
+//
+ID	upper_euphotic_10m_2753_0
+NAME	upper_euphotic_10m_2753_0
+STARTBASE	394341
+ENDBASE	394781
+PRODUCT	mqo2 malate:quinone oxidoreductase (EC:1.1.5.4) K00116 malate dehydrogenase (quinone) [EC:1.1.5.4]
+PRODUCT-TYPE	P
+EC	1.1.5.4
+//
+ID	upper_euphotic_10m_5259_0
+NAME	upper_euphotic_10m_5259_0
+STARTBASE	396052
+ENDBASE	396723
+PRODUCT	mfd transcriptional-repair coupling factor K03723 transcription-repair factor (superfamily II helicase) [EC:3.6.4.-]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2209_0
+NAME	upper_euphotic_10m_2209_0
+STARTBASE	397362
+ENDBASE	397619
+PRODUCT	HPr kinase/phosphorylase (EC 2.7.1.-) 2.7.4.-) [bacterium Ellin514]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5528_0
+NAME	upper_euphotic_10m_5528_0
+STARTBASE	398315
+ENDBASE	398527
+PRODUCT	[Pelagibacter ubique HTCC1002]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5528_1
+NAME	upper_euphotic_10m_5528_1
+STARTBASE	398482
+ENDBASE	398916
+PRODUCT	[Pelagibacter ubique HTCC1002]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2758_2
+NAME	upper_euphotic_10m_2758_2
+STARTBASE	400780
+ENDBASE	401004
+PRODUCT	[SAR116 cluster alpha proteobacterium HIMB100]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_5257_0
+NAME	upper_euphotic_10m_5257_0
+STARTBASE	401050
+ENDBASE	401307
+PRODUCT	putative monovalent cation/H+ antiporter subunit D (EC:1.6.99.5) K05568 multicomponent Na+:H+
+PRODUCT-TYPE	P
+EC	1.6.99.5
+//
+ID	upper_euphotic_10m_5257_1
+NAME	upper_euphotic_10m_5257_1
+STARTBASE	401271
+ENDBASE	401573
+PRODUCT	putative monovalent cation/H+ antiporter subunit D (EC:1.6.99.5) K05568 multicomponent Na+:H+
+PRODUCT-TYPE	P
+EC	1.6.99.5
+//
+ID	upper_euphotic_10m_2204_0
+NAME	upper_euphotic_10m_2204_0
+STARTBASE	401863
+ENDBASE	402723
+PRODUCT	amidohydrolase
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2202_0
+NAME	upper_euphotic_10m_2202_0
+STARTBASE	403198
+ENDBASE	403431
+PRODUCT	rps19 30S ribosomal protein S19
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2202_1
+NAME	upper_euphotic_10m_2202_1
+STARTBASE	403442
+ENDBASE	404128
+PRODUCT	rpl2 50S ribosomal protein L2 K02886 large subunit L2
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_2200_1
+NAME	upper_euphotic_10m_2200_1
+STARTBASE	405278
+ENDBASE	405871
+PRODUCT	L-carnitine dehydratase/bile acid-inducible protein F K01796 alpha-methylacyl-CoA racemase [EC:5.1.99.4]
+PRODUCT-TYPE	P
+EC	5.1.99.4
+//
+ID	upper_euphotic_10m_1952_0
+NAME	upper_euphotic_10m_1952_0
+STARTBASE	408419
+ENDBASE	408994
+PRODUCT	hemagglutinin/hemolysin-related protein, partial [Thalassospira profundimaris]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1953_0
+NAME	upper_euphotic_10m_1953_0
+STARTBASE	409419
+ENDBASE	410219
+PRODUCT	ttuD TtuD (EC:1.1.1.81) K00050 hydroxypyruvate reductase [EC:1.1.1.81]
+PRODUCT-TYPE	P
+EC	1.1.1.81
+//
+ID	upper_euphotic_10m_1951_1
+NAME	upper_euphotic_10m_1951_1
+STARTBASE	411939
+ENDBASE	412277
+PRODUCT	apaH diadenosine tetraphosphatase (EC:3.6.1.41) K01525 bis(5'-nucleosyl)-tetraphosphatase (symmetrical) [EC:3.6.1.41]
+PRODUCT-TYPE	P
+EC	3.6.1.41
+//
+ID	upper_euphotic_10m_1957_0
+NAME	upper_euphotic_10m_1957_0
+STARTBASE	413361
+ENDBASE	413693
+PRODUCT	[Verrucomicrobia bacterium SCGC AAA164-I21]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1957_1
+NAME	upper_euphotic_10m_1957_1
+STARTBASE	413695
+ENDBASE	414030
+PRODUCT	[Verrucomicrobia bacterium SCGC AAA164-I21]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_1955_0
+NAME	upper_euphotic_10m_1955_0
+STARTBASE	414435
+ENDBASE	415163
+PRODUCT	putative membrane protein [Thalassospira xiamenensis M-5 DSM 17429]
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6694_0
+NAME	upper_euphotic_10m_6694_0
+STARTBASE	415428
+ENDBASE	416303
+PRODUCT	bacA bacitracin resistance protein BacA/undecaprenol kinase (EC:2.7.1.66) K06153 undecaprenyl-diphosphatase [EC:3.6.1.27]
+PRODUCT-TYPE	P
+EC	2.7.1.66
+//
+ID	upper_euphotic_10m_6695_1
+NAME	upper_euphotic_10m_6695_1
+STARTBASE	416553
+ENDBASE	416939
+PRODUCT	DNA gyrase subunit B (EC:5.99.1.3) K02470 [EC:5.99.1.3]
+PRODUCT-TYPE	P
+EC	5.99.1.3
+//
+ID	upper_euphotic_10m_6697_0
+NAME	upper_euphotic_10m_6697_0
+STARTBASE	418289
+ENDBASE	419182
+PRODUCT	TROVE domain protein K11089 60 kDa SS-A/Ro ribonucleoprotein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6690_1
+NAME	upper_euphotic_10m_6690_1
+STARTBASE	419325
+ENDBASE	419798
+PRODUCT	mandelate racemase/muconate lactonizing protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6691_0
+NAME	upper_euphotic_10m_6691_0
+STARTBASE	419820
+ENDBASE	420281
+PRODUCT	phospholipase D family protein
+PRODUCT-TYPE	P
+//
+ID	upper_euphotic_10m_6691_1
+NAME	upper_euphotic_10m_6691_1
+STARTBASE	420284
+ENDBASE	420640
+PRODUCT	5'-nucleotidase (EC 3.1.3.5) [Janthinobacterium sp. PAMC 25724]
+PRODUCT-TYPE	P
+EC	3.1.3.5

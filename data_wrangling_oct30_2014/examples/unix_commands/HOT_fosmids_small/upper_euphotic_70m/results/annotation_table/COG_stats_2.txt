@@ -1,0 +1,26 @@
+Function Abbr	Functional Category	Gene Count
+[S]	Function unknown	179
+[R]	General function prediction only	573
+[K]	Transcription	250
+[L]	Replication, recombination and repair	388
+[B]	Chromatin structure and dynamics	0
+[A]	RNA processing and modification	18
+[J]	Translation, ribosomal structure and biogenesis	860
+[E]	Amino acid transport and metabolism	876
+[C]	Energy production and conversion	947
+[H]	Coenzyme transport and metabolism	401
+[I]	Lipid transport and metabolism	448
+[F]	Nucleotide transport and metabolism	343
+[G]	Carbohydrate transport and metabolism	381
+[P]	Inorganic ion transport and metabolism	223
+[Q]	Secondary metabolites biosynthesis, transport and catabolism	55
+[D]	Cell cycle control, cell division, chromosome partitioning	98
+[N]	Cell motility	28
+[O]	Posttranslational modification, protein turnover, chaperones	473
+[Y]	Nuclear structure	0
+[M]	Cell wall/membrane/envelope biogenesis	289
+[V]	Defense mechanisms	70
+[W]	Extracellular structures	0
+[T]	Signal transduction mechanisms	71
+[U]	Intracellular trafficking, secretion, and vesicular transport	78
+[Z]	Cytoskeleton	0

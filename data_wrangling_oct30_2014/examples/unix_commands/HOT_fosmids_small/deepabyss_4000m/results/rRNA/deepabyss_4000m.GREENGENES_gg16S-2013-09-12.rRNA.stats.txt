@@ -1,0 +1,15 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	7
+
+	GREENGENES_gg16S-2013-09-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+deepabyss_4000m_7140	20	663	99.84	0.0	1184.0	k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__;
+deepabyss_4000m_9283	12	563	97.31	0.0	941.0	k__Archaea;p__Crenarchaeota;c__Thaumarchaeota;o__Cenarchaeales;f__Cenarchaeaceae;g__Nitrosopumilus;
+deepabyss_4000m_148	20	572	94.23	0.0	845.0	k__Bacteria;p__PAUC34f;c__;o__;f__;g__;
+deepabyss_4000m_3613	62	262	94.03	6e-80	303.0	k__Archaea;p__Euryarchaeota;c__Thermoplasmata;o__E2;g__;
+deepabyss_4000m_6236	3	355	92.68	3e-141	507.0	k__Bacteria;p__Gemmatimonadetes;c__Gemm-2;o__;f__;g__;
+deepabyss_4000m_8910	3	375	87.53	3e-115	420.0	k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Oceanospirillales;f__Halomonadaceae;g__Halomonas;
+deepabyss_4000m_10849	1	600	100.0	0.0	1109.0	k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__Thiotrichales;f__Piscirickettsiaceae;g__;

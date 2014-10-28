@@ -1,0 +1,1985 @@
+R145-RXN	NIL	"deepabyss_4000m_2220_1"
+4.1.1.32-RXN	NIL	"deepabyss_4000m_494_0"
+R234-RXN	NIL
+RXN-8784	NIL
+RXN-8783	NIL	"deepabyss_4000m_8176_0"	"deepabyss_4000m_441_1"	"deepabyss_4000m_7306_0"	"deepabyss_4000m_2366_0"	"deepabyss_4000m_5286_1"
+RXN-12718	NIL
+PNKIN-RXN	NIL
+R547-RXN	NIL
+RXN-12710	"acetyl-CoA C-acyltransferase"	"deepabyss_4000m_4601_0"	"deepabyss_4000m_10316_0"	"deepabyss_4000m_5673_1"	"deepabyss_4000m_10780_1"	"deepabyss_4000m_7064_0"	"deepabyss_4000m_1471_0"	"deepabyss_4000m_7729_0"	"deepabyss_4000m_3812_0"
+RXN-12715	NIL
+RXN-12714	"androst-4-en-3,17-dione 1-dehydrogenase"
+GLU6PDEHYDROG-RXN	NIL
+VINYLACETYL-COA-DELTA-ISOMERASE-RXN	NIL	"deepabyss_4000m_5180_0"	"deepabyss_4000m_10123_0"
+RXN-11724	"3-[(1<i>S</i>)-cyclohex-3-en-1-yl)]-2-oxopropanoate aminotransferase"
+MALYL-COA-LYASE-RXN	NIL	"deepabyss_4000m_1417_0"
+BETAGALACTOSID-RXN	"&beta;-galactosidase"	"deepabyss_4000m_9038_0"
+RXN-11723	"3-(cyclohexa-1,3-dien-1-yl)-2-oxopropanoate reductase"
+RXN-11722	"dehydroprephenate dehydratase (decarboxylating)"
+RXN-8014	NIL
+RXNQT-4191	"acid phosphatase"
+1.1.1.289-RXN	NIL
+RXN-9175	NIL
+FRUCTOKINASE-RXN	"fructokinase"
+BUTANAL-DEHYDROGENASE-RXN	NIL
+3.1.6.12-RXN	NIL
+DLACTDEHYDROGFAD-RXN	NIL
+3.4.13.18-RXN	NIL
+RXN-11618	"hyaluronoglucosaminidase"
+ORNDECARBOX-RXN	NIL
+3.5.2.17-RXN	NIL	"deepabyss_4000m_2562_1"	"deepabyss_4000m_11127_0"
+OHMETPYRKIN-RXN	NIL	"deepabyss_4000m_4134_0"
+RXN1G-471	"trans-delta2-cis,cis-delta19,37-C56:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+ACYLCOADEHYDROG-RXN	"acyl-CoA dehydrogenase"	"deepabyss_4000m_5736_0"	"deepabyss_4000m_6708_0"	"deepabyss_4000m_10843_0"	"deepabyss_4000m_3728_0"	"deepabyss_4000m_3690_0"	"deepabyss_4000m_5570_0"
+ARGSUCCINSYN-RXN	NIL	"deepabyss_4000m_3865_0"	"deepabyss_4000m_4646_0"	"deepabyss_4000m_5781_0"	"deepabyss_4000m_5607_0"
+ADENINE-DEAMINASE-RXN	NIL	"deepabyss_4000m_7056_0"
+2.8.1.6-RXN	NIL	"deepabyss_4000m_5555_0"	"deepabyss_4000m_7145_0"
+DIOHBUTANONEPSYN-RXN	NIL	"deepabyss_4000m_3215_1"	"deepabyss_4000m_8051_0"
+RXN1F-20	NIL	"deepabyss_4000m_6532_0"	"deepabyss_4000m_9505_0"	"deepabyss_4000m_2697_1"
+3-HYDROXYPROPIONATE-DEHYDROGENASE-RXN	NIL
+RXN3O-9780	NIL
+METHIONINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_874_0"	"deepabyss_4000m_10136_1"	"deepabyss_4000m_287_0"	"deepabyss_4000m_5636_1"	"deepabyss_4000m_3782_0"	"deepabyss_4000m_9442_0"	"deepabyss_4000m_3874_0"	"deepabyss_4000m_10126_0"	"deepabyss_4000m_4206_0"
+RXN-10705	NIL	"deepabyss_4000m_4668_1"	"deepabyss_4000m_4336_0"	"deepabyss_4000m_5816_0"	"deepabyss_4000m_8082_1"	"deepabyss_4000m_5633_0"	"deepabyss_4000m_2259_0"	"deepabyss_4000m_5156_0"	"deepabyss_4000m_8883_0"	"deepabyss_4000m_6342_1"	"deepabyss_4000m_8257_0"	"deepabyss_4000m_9400_0"	"deepabyss_4000m_1371_0"	"deepabyss_4000m_6123_0"	"deepabyss_4000m_9607_0"	"deepabyss_4000m_6489_1"	"deepabyss_4000m_1397_0"	"deepabyss_4000m_8029_0"
+PHENYLALANINE-DECARBOXYLASE-RXN	NIL
+GALACTURIDYLYLTRANS-RXN	NIL
+UDPGLCNACEPIM-RXN	NIL	"deepabyss_4000m_1253_0"	"deepabyss_4000m_4095_0"	"deepabyss_4000m_451_0"
+RXN-7800	NIL
+PSERTRANSAM-RXN	NIL	"deepabyss_4000m_9409_1"	"deepabyss_4000m_4674_0"
+GLUTRNAREDUCT-RXN	NIL	"deepabyss_4000m_10923_1"	"deepabyss_4000m_1347_0"
+RXN-11108	NIL
+RXN1G-1486	"3-oxo-C78-&alpha;-mycolate-reductase"
+ADENYLYLSULFKIN-RXN	NIL	"deepabyss_4000m_8703_1"
+DTDPGLUCOSEPP-RXN	NIL	"deepabyss_4000m_1613_0"	"deepabyss_4000m_10341_1"	"deepabyss_4000m_11081_0"
+2.5.1.46-RXN	NIL	"deepabyss_4000m_11039_0"
+RXN1G-1130	"trans-delta2-cis-delta19-C38:2-[acyl-carrier protein] reductase"
+HOMSUCTRAN-RXN	NIL
+UREASE-RXN	NIL	"deepabyss_4000m_4487_1"	"deepabyss_4000m_4487_0"
+LYSINE-23-AMINOMUTASE-RXN	NIL	"deepabyss_4000m_10473_1"
+RXN-9787	"cysteine:[ThiI sulfur-carrier protein]-L-cysteine sulfurtransferase desulfurase"	"deepabyss_4000m_3318_0"	"deepabyss_4000m_5489_0"	"deepabyss_4000m_10238_0"	"deepabyss_4000m_1490_1"	"deepabyss_4000m_8555_0"	"deepabyss_4000m_554_1"	"deepabyss_4000m_251_1"	"deepabyss_4000m_8929_0"	"deepabyss_4000m_5235_0"	"deepabyss_4000m_10104_1"	"deepabyss_4000m_5642_1"	"deepabyss_4000m_6178_0"	"deepabyss_4000m_10996_0"	"deepabyss_4000m_146_2"	"deepabyss_4000m_146_0"
+RXN-9789	NIL
+RXN-9788	NIL
+RXN1G-276	"trans-delta2-cis,cis-delta17,35-C54:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+PEPSYNTH-RXN	NIL
+GLUTAMIDOTRANS-RXN	NIL
+DURIDKI-RXN	NIL	"deepabyss_4000m_5392_0"
+RXN1G-279	"cis-delta13-3-hydroxyC32:1-[acyl-carrier protein] dehydratase"
+GLUCUROISOM-RXN	NIL	"deepabyss_4000m_8240_0"
+SPONTPRO-RXN	NIL
+RXN3O-5304	"stearoyl-[acp]--CoA stearoyltransferase"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+PHENPRODIOLDEHYDROG-RXN	NIL
+RXN-9659	"<i>trans</i> oct-2-enoyl-[acp] reductase"
+RXN-9658	"<i>trans</i> hex-2-enoyl-[acp]-reductase"
+RXN-9657	"crotonyl-[acp] reductase"	"deepabyss_4000m_9961_1"	"deepabyss_4000m_4590_1"	"deepabyss_4000m_10237_0"
+RXN-9655	"3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase"	"deepabyss_4000m_1851_1"	"deepabyss_4000m_1223_0"
+RXN-9654	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN-9653	"3-oxo-meristoyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN-9652	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN-9651	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN-9650	"3-oxo-octanoyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN3O-54	NIL
+RXN1G-1003	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN1G-1004	"3-cis,cis-delta19,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+NAD-KIN-RXN	NIL
+THYKI-RXN	NIL	"deepabyss_4000m_5392_0"
+RXN-13290	"15-tetracosenoate&mdash;CoA ligase"	"deepabyss_4000m_398_0"	"deepabyss_4000m_8171_0"	"deepabyss_4000m_4683_0"	"deepabyss_4000m_9525_0"	"deepabyss_4000m_6837_1"	"deepabyss_4000m_1986_0"	"deepabyss_4000m_6298_0"	"deepabyss_4000m_9866_0"	"deepabyss_4000m_6394_0"	"deepabyss_4000m_8511_0"	"deepabyss_4000m_9890_0"	"deepabyss_4000m_4730_0"	"deepabyss_4000m_989_0"	"deepabyss_4000m_6937_0"	"deepabyss_4000m_1961_0"
+LIPIDADISACCHARIDESYNTH-RXN	NIL	"deepabyss_4000m_75_0"
+SERINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	"Serine--glyoxylate aminotransferase"	"deepabyss_4000m_172_0"
+1.2.1.2-RXN	NIL	"deepabyss_4000m_6344_0"	"deepabyss_4000m_10096_0"	"deepabyss_4000m_932_0"	"deepabyss_4000m_805_0"	"deepabyss_4000m_7116_0"	"deepabyss_4000m_9251_0"
+RXN1G-808	"6-O-cis-methoxy-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-809	"6-O-trans-methoxy-mycolyl-trehalose O-mycolyltransferase"
+ADPREDUCT-RXN	"ADP reductase"	"deepabyss_4000m_3868_0"	"deepabyss_4000m_10398_0"	"deepabyss_4000m_7784_1"	"deepabyss_4000m_7784_0"	"deepabyss_4000m_6944_0"	"deepabyss_4000m_10669_0"	"deepabyss_4000m_6332_0"	"deepabyss_4000m_5689_0"	"deepabyss_4000m_1442_0"
+RXN1G-807	"6-O-mycolyl-trehalose O-mycolyltransferase"
+RXN0-1133	NIL	"deepabyss_4000m_7240_1"	"deepabyss_4000m_7452_0"	"deepabyss_4000m_7792_1"	"deepabyss_4000m_4229_1"	"deepabyss_4000m_4684_0"
+RXN0-1132	"dihydrolipoyl dehydrogenase"	"deepabyss_4000m_7360_0"	"deepabyss_4000m_10359_0"	"deepabyss_4000m_555_0"	"deepabyss_4000m_7069_0"	"deepabyss_4000m_2770_0"	"deepabyss_4000m_4229_0"	"deepabyss_4000m_3981_0"	"deepabyss_4000m_4684_0"
+4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN	NIL	"deepabyss_4000m_10925_0"	"deepabyss_4000m_2822_0"	"deepabyss_4000m_4266_1"
+RXN-12717	NIL
+RXN0-1134	NIL	"deepabyss_4000m_4761_0"	"deepabyss_4000m_1888_0"	"deepabyss_4000m_4114_1"	"deepabyss_4000m_2551_0"	"deepabyss_4000m_6500_2"	"deepabyss_4000m_7063_0"	"deepabyss_4000m_4639_0"	"deepabyss_4000m_4445_0"	"deepabyss_4000m_3278_2"	"deepabyss_4000m_3278_1"	"deepabyss_4000m_646_1"	"deepabyss_4000m_1620_1"	"deepabyss_4000m_3779_0"	"deepabyss_4000m_4684_0"
+PROTOCATECHUATE-34-DIOXYGENASE-RXN	NIL	"deepabyss_4000m_1469_1"
+TOLUENE-2-MONOOXYGENASE-RXN	"toluene-2-monooxygenase"
+RXN-11725	"salinosporamide A synthase"
+HYDROXYMETHYLGLUTARYL-COA-LYASE-RXN	NIL	"deepabyss_4000m_6184_0"	"deepabyss_4000m_4933_0"
+PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	NIL
+ARGINASE-RXN	NIL	"deepabyss_4000m_9855_0"
+R344-RXN	NIL	"deepabyss_4000m_7398_1"
+PSERTRANSAMPYR-RXN	NIL	"deepabyss_4000m_9409_1"	"deepabyss_4000m_4674_0"
+THREONINE-ALDOLASE-RXN	"low-specificity L-threonine aldolase"	"deepabyss_4000m_10747_1"	"deepabyss_4000m_3115_0"
+RXN-12278	NIL
+RXN-12279	NIL
+RXN-12276	NIL
+RXN1A0-6322	NIL
+RXN-11921	"3-methylcrotonyl-CoA:acetyl-CoA C-acyltransferase"
+RXN-11920	"3-hydroxy-5-methylhex-4-enoyl-CoA dehydrogenase"
+RXN-11720	"chloroethylmalonyl-CoA dehydrogenase (decarboxylating)"
+L-LACTDEHYDROGFMN-RXN	"lactate oxidation"	"deepabyss_4000m_2254_0"	"deepabyss_4000m_7832_0"
+LIPIDXSYNTHESIS-RXN	NIL
+DEOXYRIBOSE-P-ALD-RXN	NIL
+3-OXOACYL-ACP-REDUCT-RXN	NIL	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+CITRYLY-RXN	"citryl-CoA lyase"	"deepabyss_4000m_2879_0"	"deepabyss_4000m_360_0"	"deepabyss_4000m_3603_1"
+CITC-RXN	NIL
+ETHANOLAMINE-KINASE-RXN	NIL
+RXN0-5146	NIL
+2-OXOGLUTARATE-SYNTHASE-RXN	NIL	"deepabyss_4000m_160_0"	"deepabyss_4000m_10404_0"	"deepabyss_4000m_5031_0"	"deepabyss_4000m_2229_1"	"deepabyss_4000m_2229_0"	"deepabyss_4000m_7159_0"	"deepabyss_4000m_3945_0"
+RXN-9674	NIL	"deepabyss_4000m_5678_0"	"deepabyss_4000m_10346_0"
+ACETYLSEROTONIN-O-METHYLTRANSFERASE-RXN	NIL
+2.4.1.142-RXN	NIL
+METHYLMALONYL-COA-MUT-RXN	NIL	"deepabyss_4000m_2971_0"	"deepabyss_4000m_6309_0"	"deepabyss_4000m_1175_1"	"deepabyss_4000m_3815_1"	"deepabyss_4000m_2886_0"	"deepabyss_4000m_9856_1"	"deepabyss_4000m_4655_0"	"deepabyss_4000m_3139_1"	"deepabyss_4000m_521_0"	"deepabyss_4000m_6515_0"	"deepabyss_4000m_3290_0"	"deepabyss_4000m_295_0"
+GENTISATE-12-DIOXYGENASE-RXN	NIL	"deepabyss_4000m_3472_1"	"deepabyss_4000m_9641_1"
+6PFRUCTPHOS-RXN	NIL	"deepabyss_4000m_8312_0"	"deepabyss_4000m_7065_0"
+2.7.9.3-RXN	NIL	"deepabyss_4000m_4619_0"
+LYSINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_10335_0"	"deepabyss_4000m_1965_0"	"deepabyss_4000m_3849_0"	"deepabyss_4000m_948_0"
+RXN-13729	"phytosphingosine 1-phosphate aldolase"	"deepabyss_4000m_3885_0"
+RXN-4141	NIL
+RXN-7682	NIL	"deepabyss_4000m_4530_0"	"deepabyss_4000m_7659_0"	"deepabyss_4000m_4395_0"	"deepabyss_4000m_1001_0"	"deepabyss_4000m_8273_1"	"deepabyss_4000m_2598_0"	"deepabyss_4000m_9208_0"	"deepabyss_4000m_10548_1"	"deepabyss_4000m_1839_0"	"deepabyss_4000m_8395_0"	"deepabyss_4000m_2501_2"	"deepabyss_4000m_2501_1"	"deepabyss_4000m_1998_1"	"deepabyss_4000m_11127_1"	"deepabyss_4000m_31_0"	"deepabyss_4000m_1405_0"	"deepabyss_4000m_3976_1"
+RXN4FS-2	"phosphatidyl-<i>N</i>-dimethylethanolamine <i>N</i>-methyltransferase"
+4-PYRIDOXOLACTONASE-RXN	NIL
+3.1.26.5-RXN	NIL	"deepabyss_4000m_1442_1"	"deepabyss_4000m_2563_0"
+CITRULLINASE-RXN	NIL
+3.2.1.33-RXN	NIL
+THREDEHYD-RXN	NIL	"deepabyss_4000m_9172_0"	"deepabyss_4000m_458_1"
+RIBOPHOSPHAT-RXN	NIL
+GSHTRAN-RXN	NIL	"deepabyss_4000m_11101_0"	"deepabyss_4000m_818_0"	"deepabyss_4000m_2000_1"	"deepabyss_4000m_44_0"	"deepabyss_4000m_5123_0"	"deepabyss_4000m_7196_1"	"deepabyss_4000m_1507_0"	"deepabyss_4000m_3207_1"
+RXN0-1863	NIL	"deepabyss_4000m_9714_0"
+RXN0-1862	NIL
+TRYPTOPHAN-5-MONOOXYGENASE-RXN	NIL
+ENOYL-ACP-REDUCT-NADH-RXN	"2,3,4-saturated-fatty-acid-[acp] reductase"
+3-DEHYDROQUINATE-DEHYDRATASE-RXN	NIL	"deepabyss_4000m_896_0"
+O-SUCCINYLBENZOATE-COA-LIG-RXN	NIL	"deepabyss_4000m_2910_0"	"deepabyss_4000m_340_0"	"deepabyss_4000m_4874_0"	"deepabyss_4000m_8015_1"
+OHBENZCOARED-RXN	NIL
+2.7.7.39-RXN	NIL	"deepabyss_4000m_9330_0"
+2.4.2.27-RXN	NIL
+PMPOXI-RXN	NIL	"deepabyss_4000m_7330_1"	"deepabyss_4000m_10630_1"	"deepabyss_4000m_128_0"
+RXN-5781	NIL
+MALIC-NADP-RXN	NIL	"deepabyss_4000m_83_0"	"deepabyss_4000m_2254_0"	"deepabyss_4000m_7832_0"
+RXN-646	NIL
+RXN-8798	NIL
+RXN-8797	NIL
+ALARACECAT-RXN	NIL
+ATPSYN-RXN	NIL	"deepabyss_4000m_1782_0"	"deepabyss_4000m_8302_0"	"deepabyss_4000m_4511_0"	"deepabyss_4000m_2005_1"	"deepabyss_4000m_2657_1"	"deepabyss_4000m_2657_0"	"deepabyss_4000m_8045_0"	"deepabyss_4000m_5073_0"	"deepabyss_4000m_7294_1"	"deepabyss_4000m_7002_1"	"deepabyss_4000m_7219_1"	"deepabyss_4000m_3133_0"	"deepabyss_4000m_4814_0"	"deepabyss_4000m_3348_0"	"deepabyss_4000m_1898_1"	"deepabyss_4000m_10228_0"	"deepabyss_4000m_3260_0"	"deepabyss_4000m_1777_1"	"deepabyss_4000m_7285_1"	"deepabyss_4000m_7285_0"	"deepabyss_4000m_6952_0"	"deepabyss_4000m_2005_0"
+RXN1G-4355	"cerotoyl-CoA carboxylase"	"deepabyss_4000m_9529_1"	"deepabyss_4000m_8634_0"	"deepabyss_4000m_10270_0"	"deepabyss_4000m_4675_0"	"deepabyss_4000m_8686_0"	"deepabyss_4000m_786_0"	"deepabyss_4000m_2028_0"
+RXN-12708	NIL
+R125-RXN	NIL	"deepabyss_4000m_1126_0"
+RXN-12706	"propanoyl-CoA C-acyltransferase"	"deepabyss_4000m_1040_0"	"deepabyss_4000m_2383_0"
+RXN-12707	NIL
+RXN-4961	NIL
+RXN-11737	NIL	"deepabyss_4000m_3104_1"	"deepabyss_4000m_7653_0"	"deepabyss_4000m_10235_0"	"deepabyss_4000m_9094_0"	"deepabyss_4000m_2789_1"	"deepabyss_4000m_8495_0"	"deepabyss_4000m_9898_0"	"deepabyss_4000m_5166_0"	"deepabyss_4000m_9356_0"	"deepabyss_4000m_5548_0"	"deepabyss_4000m_1646_1"
+RXN-8003	NIL
+RXN-11733	NIL
+GLUTAMINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_9079_0"	"deepabyss_4000m_10109_1"	"deepabyss_4000m_667_0"
+RXN-11738	"sulfolactate dehydrogenase"
+MALEYLACETATE-REDUCTASE-RXN	NIL
+PROPIONATE--COA-LIGASE-RXN	NIL	"deepabyss_4000m_10820_0"	"deepabyss_4000m_8625_0"
+RFFTRANS-RXN	NIL
+PYRAMKIN-RXN	NIL
+R128-RXN	NIL
+5.1.3.20-RXN	NIL	"deepabyss_4000m_109_0"	"deepabyss_4000m_9928_0"	"deepabyss_4000m_4342_0"
+ISOLEUCINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_885_0"	"deepabyss_4000m_6724_0"	"deepabyss_4000m_5058_0"	"deepabyss_4000m_10307_0"	"deepabyss_4000m_8332_0"	"deepabyss_4000m_10649_0"	"deepabyss_4000m_4361_1"	"deepabyss_4000m_6772_0"	"deepabyss_4000m_7302_0"	"deepabyss_4000m_10718_0"
+DADPKIN-RXN	NIL	"deepabyss_4000m_11058_1"	"deepabyss_4000m_6763_1"	"deepabyss_4000m_554_0"	"deepabyss_4000m_3726_0"	"deepabyss_4000m_7424_0"	"deepabyss_4000m_3058_0"
+RXN-8641	NIL
+RXN-8647	"(6E,8Z,11Z,14Z)-(5S)-5-hydroperoxyicosa-6,8,11,14-tetraenoate dehydratase"
+HYDROXYPRODEHYDROG-RXN	"hydroxyproline oxidase"
+1.3.7.3-RXN	NIL
+CATECHOL-12-DIOXYGENASE-RXN	NIL
+24-DIAMINOPENTANOATE-DEHYDROGENASE-RXN	NIL
+RXN-11619	NIL	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"
+LEUKOTRIENE-A4-HYDROLASE-RXN	NIL
+PNPOXI-RXN	NIL	"deepabyss_4000m_7330_1"
+RXN1G-1637	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+RXN1G-1636	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+RXN1G-1635	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+4OHBENZOATE-OCTAPRENYLTRANSFER-RXN	NIL	"deepabyss_4000m_3047_0"
+RXN-10087	NIL
+RXN0-723	"CTP reductase"	"deepabyss_4000m_2_0"	"deepabyss_4000m_10386_0"
+URA-PHOSPH-RXN	NIL
+RXN0-724	NIL	"deepabyss_4000m_2_0"	"deepabyss_4000m_10386_0"
+2.6.1.58-RXN	NIL
+GPPSYN-RXN	NIL	"deepabyss_4000m_3783_0"	"deepabyss_4000m_155_0"
+KYNURENINE-3-MONOOXYGENASE-RXN	NIL	"deepabyss_4000m_8097_0"
+RXN-10061	"3-hydroxycerotyl-[acp] dehydrase"
+RXN-10060	NIL
+RXN-10062	"trans-hexacos-2-enoyl-[acp] reductase"
+RXN3O-4157	NIL
+RXN1G-218	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN1G-94	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+RXN1G-98	"cis-methoxy-meroacyl-AMP transferase"
+PRIBFAICARPISOM-RXN	NIL	"deepabyss_4000m_10929_1"	"deepabyss_4000m_3881_1"	"deepabyss_4000m_8713_1"	"deepabyss_4000m_3169_0"	"deepabyss_4000m_6314_0"	"deepabyss_4000m_8139_1"	"deepabyss_4000m_4414_0"
+FORMIMINOGLUTAMATE-DEIMINASE-RXN	NIL	"deepabyss_4000m_6505_1"
+FORMYL-COA-HYDROLASE-RXN	NIL
+HEMN-RXN	NIL	"deepabyss_4000m_8994_0"	"deepabyss_4000m_9739_0"	"deepabyss_4000m_1522_1"	"deepabyss_4000m_10638_0"	"deepabyss_4000m_6872_0"	"deepabyss_4000m_8479_0"	"deepabyss_4000m_2102_0"	"deepabyss_4000m_7560_1"	"deepabyss_4000m_3448_1"	"deepabyss_4000m_1831_0"	"deepabyss_4000m_2011_1"	"deepabyss_4000m_8624_0"	"deepabyss_4000m_5867_0"
+RXN-10462	"acyl-ACP:sn-glycerol-3-phosphate 1-O-acyltransferase"	"deepabyss_4000m_7923_0"	"deepabyss_4000m_7347_0"
+R123-RXN	NIL	"deepabyss_4000m_4536_0"
+HYDROXYPYRUVATE-REDUCTASE-RXN	NIL	"deepabyss_4000m_10805_0"	"deepabyss_4000m_925_0"
+HEME-OXYGENASE-DECYCLIZING-RXN	NIL	"deepabyss_4000m_914_0"
+ASPCARBTRANS-RXN	NIL	"deepabyss_4000m_8661_0"
+SUCCCOASYN-RXN	NIL	"deepabyss_4000m_3806_0"	"deepabyss_4000m_10659_0"	"deepabyss_4000m_1443_0"
+ASNSYNB-RXN	NIL	"deepabyss_4000m_4846_0"	"deepabyss_4000m_4960_0"	"deepabyss_4000m_4296_0"	"deepabyss_4000m_8419_0"	"deepabyss_4000m_10341_0"	"deepabyss_4000m_5007_1"
+RXN-9662	"<i>trans</i> tetradec-2-enoyl-[acp] reductase"	"deepabyss_4000m_9961_1"	"deepabyss_4000m_4590_1"	"deepabyss_4000m_10237_0"
+RXN-9663	"<i>trans</i> hexadecenoyl-[acp] reductase"	"deepabyss_4000m_9961_1"	"deepabyss_4000m_4590_1"	"deepabyss_4000m_10237_0"
+RXN-9660	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]-reductase"
+RXN-9661	"<i>trans</i> dodec-2-enoyl-[acp] reductase"	"deepabyss_4000m_9961_1"	"deepabyss_4000m_4590_1"	"deepabyss_4000m_10237_0"
+RIBOFLAVIN-SYN-RXN	NIL	"deepabyss_4000m_223_0"	"deepabyss_4000m_7068_0"	"deepabyss_4000m_7726_0"	"deepabyss_4000m_1547_0"
+2.1.1.17-RXN	NIL	"deepabyss_4000m_3327_0"
+RXN-9669	NIL
+RXN-9467	NIL
+RXN-9469	NIL
+RXN1G-1015	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+RXN0-4022	NIL	"deepabyss_4000m_5587_0"	"deepabyss_4000m_10744_1"
+SARCOSINE-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_8180_1"
+ADENYLOSUCCINATE-SYNTHASE-RXN	NIL	"deepabyss_4000m_4517_0"	"deepabyss_4000m_3256_0"	"deepabyss_4000m_7251_0"	"deepabyss_4000m_9413_0"
+RXN-13288	"15-tetracosanal carbonylase"
+RXN-13289	"(<i>Z</i>)-15-tetracosenoyl-CoA reductase"
+RXN-13042	NIL
+GLYCERONE-KINASE-RXN	NIL
+RXN-13041	"(-)-camphor 5-monooxygenase"	"deepabyss_4000m_2200_0"
+RXN-13044	NIL
+R309-RXN	"Acrylonitrilase"
+RXN1G-79	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+SUCROSE-PHOSPHATASE-RXN	NIL
+2.7.1.148-RXN	NIL	"deepabyss_4000m_9825_0"
+RXN1G-72	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"
+CARBAMATE-KINASE-RXN	NIL	"deepabyss_4000m_5152_0"
+RXN-7699	NIL	"deepabyss_4000m_8029_0"
+RXN-7929	NIL	"deepabyss_4000m_3603_1"
+RXN-7694	"2-methylbutanol dehydrogenase"	"deepabyss_4000m_2879_1"	"deepabyss_4000m_360_1"	"deepabyss_4000m_1634_1"	"deepabyss_4000m_425_0"	"deepabyss_4000m_255_1"	"deepabyss_4000m_6235_0"	"deepabyss_4000m_5041_0"	"deepabyss_4000m_11026_0"	"deepabyss_4000m_1036_1"	"deepabyss_4000m_3085_1"
+RXN-9359	NIL
+RXN-7922	NIL
+RXN-7693	"3-methylbutanol dehydrogenase"	"deepabyss_4000m_2879_1"	"deepabyss_4000m_360_1"	"deepabyss_4000m_1634_1"	"deepabyss_4000m_425_0"	"deepabyss_4000m_255_1"	"deepabyss_4000m_6235_0"	"deepabyss_4000m_5041_0"	"deepabyss_4000m_11026_0"	"deepabyss_4000m_1036_1"	"deepabyss_4000m_3085_1"
+RXN-7692	NIL
+4OH2OXOGLUTARALDOL-RXN	NIL
+RXN-13600	"taxiphyllin &beta;-glucosidase"	"deepabyss_4000m_5678_0"	"deepabyss_4000m_10346_0"
+RXN-13602	"linustatin &beta;-diglucosidase"	"deepabyss_4000m_5678_0"	"deepabyss_4000m_10346_0"
+RXN-13603	"neolinustatin &beta;-diglucosidase"	"deepabyss_4000m_5678_0"	"deepabyss_4000m_10346_0"
+BRANCHED-CHAINAMINOTRANSFERILEU-RXN	"Isoleucine transaminase"	"deepabyss_4000m_11044_0"	"deepabyss_4000m_364_1"	"deepabyss_4000m_8189_0"	"deepabyss_4000m_8101_0"	"deepabyss_4000m_4581_1"	"deepabyss_4000m_2072_1"	"deepabyss_4000m_10527_1"	"deepabyss_4000m_3350_1"	"deepabyss_4000m_6205_1"	"deepabyss_4000m_9667_1"
+RXN-9518	"3-hydroxyhexanoyl-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+RXN0-3922	NIL
+1.14.19.1-RXN	NIL	"deepabyss_4000m_7660_0"	"deepabyss_4000m_517_0"
+RXN-9514	"acetoacetyl-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN-9515	"Crotonyl-[acyl-carrier protein] reductase (NADP)"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+RXN-9516	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+SUCCDIAMINOPIMDESUCC-RXN	NIL
+RXN1G-582	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+RXN1G-580	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+SPHINGANINE-KINASE-RXN	NIL
+GLUCARDEHYDRA-RXN	NIL	"deepabyss_4000m_7521_0"
+RXN-7585	NIL
+6.3.5.7-RXN	NIL	"deepabyss_4000m_2491_0"
+RXN-7586	NIL
+RXN1G-349	"3-oxo-arachidoyl-[acp] reductase"
+THRESYN-RXN	NIL	"deepabyss_4000m_1114_0"	"deepabyss_4000m_1542_1"	"deepabyss_4000m_1947_0"	"deepabyss_4000m_2311_0"	"deepabyss_4000m_3977_0"	"deepabyss_4000m_10303_1"	"deepabyss_4000m_1367_0"	"deepabyss_4000m_1157_0"	"deepabyss_4000m_10627_0"	"deepabyss_4000m_5403_0"	"deepabyss_4000m_1648_0"
+ASPARTATE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_3955_0"
+RXN-13463	NIL
+N-CARBAMOYLPUTRESCINE-AMIDASE-RXN	NIL	"deepabyss_4000m_1486_0"
+N-FORMYLGLUTAMATE-DEFORMYLASE-RXN	NIL	"deepabyss_4000m_7257_1"
+RXN1A0-6297	NIL
+RXN-12391	NIL	"deepabyss_4000m_8808_1"
+RIB5PISOM-RXN	NIL
+TEICHOICSYN3-RXN	NIL
+2.6.1.22-RXN	NIL
+RXN-12399	"xyloglucan XLXG oligosaccharide &beta;-galactosidase"	"deepabyss_4000m_9038_0"
+RXN-12398	"xyloglucan XXLG oligosaccharide &beta;-galactosidase"	"deepabyss_4000m_9038_0"
+UDPNACETYLMURAMATEDEHYDROG-RXN	NIL
+KDGALDOL-RXN	"5-dehydro-4-deoxy-D-glucarate aldolase"	"deepabyss_4000m_5639_0"
+RXN1G-697	"<i>cis</i>-methoxy-meroacyl transferase"
+RXN1G-163	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+2.3.1.80-RXN	NIL
+RXN6666-6	NIL
+RXN6666-7	NIL
+RXN6666-4	NIL	"deepabyss_4000m_3301_1"	"deepabyss_4000m_10648_1"
+RXN6666-5	NIL	"deepabyss_4000m_5406_1"	"deepabyss_4000m_6898_2"	"deepabyss_4000m_4514_0"	"deepabyss_4000m_3390_0"	"deepabyss_4000m_9826_0"	"deepabyss_4000m_429_0"	"deepabyss_4000m_3198_0"	"deepabyss_4000m_4046_0"	"deepabyss_4000m_291_0"	"deepabyss_4000m_6545_0"	"deepabyss_4000m_6738_1"	"deepabyss_4000m_9530_0"	"deepabyss_4000m_182_0"	"deepabyss_4000m_2363_0"	"deepabyss_4000m_140_1"	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"
+RXN6666-9	NIL
+ACONITATEDEHYDR-RXN	"citrate dehydratase"	"deepabyss_4000m_2604_1"	"deepabyss_4000m_8904_0"	"deepabyss_4000m_2409_0"	"deepabyss_4000m_3552_0"	"deepabyss_4000m_917_0"	"deepabyss_4000m_9959_1"	"deepabyss_4000m_8680_0"	"deepabyss_4000m_8789_0"	"deepabyss_4000m_10563_0"
+RXN-12257	NIL
+GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN	NIL
+RXN-12808	NIL
+6.3.4.16-RXN	NIL	"deepabyss_4000m_10859_0"
+RXN-12253	NIL	"deepabyss_4000m_8032_0"
+RXN1G-760	"3-cis,cis-delta17,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+2.5.1.63-RXN	NIL
+CTPSYN-RXN	NIL	"deepabyss_4000m_4998_1"
+2-ISOPROPYLMALATESYN-RXN	NIL	"deepabyss_4000m_8311_0"	"deepabyss_4000m_5298_0"	"deepabyss_4000m_5645_0"	"deepabyss_4000m_4779_1"	"deepabyss_4000m_4779_0"	"deepabyss_4000m_2385_0"	"deepabyss_4000m_10521_1"	"deepabyss_4000m_6010_0"
+ISOCIT-CLEAV-RXN	NIL	"deepabyss_4000m_5363_0"
+RXN-12736	"propanal dehydrogenase (acetylating)"
+RXN-12735	"4-hydroxy-2-oxohexanoate aldolase"
+RXN-12734	NIL
+CATECHOL-23-DIOXYGENASE-RXN	NIL	"deepabyss_4000m_6230_0"
+RXN-12730	NIL	"deepabyss_4000m_7922_1"	"deepabyss_4000m_10392_0"	"deepabyss_4000m_9567_0"	"deepabyss_4000m_6255_1"	"deepabyss_4000m_5272_1"	"deepabyss_4000m_10329_0"	"deepabyss_4000m_9016_0"	"deepabyss_4000m_4925_1"
+ALCOHOL-DEHYDROG-RXN	"ethanol dehydrogenase"	"deepabyss_4000m_2879_1"	"deepabyss_4000m_360_1"	"deepabyss_4000m_1634_1"	"deepabyss_4000m_425_0"	"deepabyss_4000m_255_1"	"deepabyss_4000m_6235_0"	"deepabyss_4000m_5041_0"	"deepabyss_4000m_11026_0"	"deepabyss_4000m_1036_1"	"deepabyss_4000m_3085_1"
+RXN-8076	NIL
+RXN-8077	NIL
+CARBOXYMETHYLENEBUTENOLIDASE-RXN	NIL	"deepabyss_4000m_5369_0"	"deepabyss_4000m_2946_0"
+RXN-8078	NIL	"deepabyss_4000m_10670_0"	"deepabyss_4000m_3330_1"	"deepabyss_4000m_3650_0"	"deepabyss_4000m_4260_1"
+RXN-8079	NIL	"deepabyss_4000m_4599_0"
+RXN-12063	"<i>N,N</i>-dihydroxy-L-tryptophan carboxy-lyase"
+RXN-745	NIL
+RXN-8675	"precorrin-1 <em>C</em>-methyltransferase"	"deepabyss_4000m_2832_1"	"deepabyss_4000m_2832_0"
+RXN1G-912	"cis-delta17-3-hydroxyC36:1-[acyl-carrier protein] dehydratase"
+SHIKIMATE-5-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_6704_0"	"deepabyss_4000m_2222_2"
+COBALAMIN5PSYN-RXN	NIL	"deepabyss_4000m_10383_0"
+CYCLOHEXANONE-MONOOXYGENASE-RXN	NIL	"deepabyss_4000m_3715_0"	"deepabyss_4000m_4762_1"	"deepabyss_4000m_5076_0"	"deepabyss_4000m_6755_0"
+CPM-KDOSYNTH-RXN	NIL	"deepabyss_4000m_2761_1"	"deepabyss_4000m_2761_0"
+L-GULONOLACTONE-OXIDASE-RXN	"<small>L</small>-gulonolactone oxidase"
+UDP-NACMURALA-GLU-LIG-RXN	NIL	"deepabyss_4000m_6627_0"	"deepabyss_4000m_2805_0"	"deepabyss_4000m_4738_0"	"deepabyss_4000m_9842_1"
+RXN-8106	NIL
+5-DEHYDRO-2-DEOXYGLUCONOKINASE-RXN	NIL	"deepabyss_4000m_6304_0"
+ASPARTATEKIN-RXN	NIL	"deepabyss_4000m_7566_0"	"deepabyss_4000m_7625_0"	"deepabyss_4000m_1855_0"	"deepabyss_4000m_5146_0"	"deepabyss_4000m_2731_0"	"deepabyss_4000m_3350_0"
+MYO-INOSOSE-2-DEHYDRATASE-RXN	NIL	"deepabyss_4000m_4330_0"
+H2NEOPTERINP3PYROPHOSPHOHYDRO-RXN	NIL
+GLUTAMATE-DEHYDROGENASE-NADP+-RXN	NIL	"deepabyss_4000m_4732_0"
+RXN-10090	"2,4-dichlorotoluene dioxygenase"
+BUTYRATE-KINASE-RXN	NIL
+RXN-10093	"2,4-dichlorotoluene dihydrodiol dehydrogenase"
+RXN3DJ-64	NIL
+RXN-10099	NIL	"deepabyss_4000m_1350_0"	"deepabyss_4000m_4082_0"
+RXN-10656	NIL
+RXN-10657	NIL
+RXN-10654	NIL	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN-10655	NIL	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN-10658	NIL
+RXN-10659	NIL	"deepabyss_4000m_2812_0"
+CYSPH-RXN	NIL
+3.2.1.76-RXN	NIL
+R82-RXN	NIL	"deepabyss_4000m_2508_0"
+ERYTHRONOLIDE-SYNTHASE-RXN	NIL	"deepabyss_4000m_4157_0"	"deepabyss_4000m_9860_1"
+2.1.1.103-RXN	NIL	"deepabyss_4000m_9161_0"
+ACETYL-COA-HYDROLASE-RXN	NIL
+PHOSPHONOACETALDEHYDE-HYDROLASE-RXN	NIL	"deepabyss_4000m_4488_0"
+RXN1G-89	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+GAPOXNPHOSPHN-RXN	NIL	"deepabyss_4000m_4038_1"	"deepabyss_4000m_4580_0"	"deepabyss_4000m_10202_1"	"deepabyss_4000m_9432_0"
+R63-RXN	NIL
+ARYLFORMAMIDASE-RXN	NIL	"deepabyss_4000m_10218_0"
+GLUTATHIONE-REDUCT-NADPH-RXN	NIL	"deepabyss_4000m_2336_0"	"deepabyss_4000m_9295_0"
+RXN-9157	NIL	"deepabyss_4000m_3869_0"	"deepabyss_4000m_10311_0"	"deepabyss_4000m_8172_0"	"deepabyss_4000m_10685_0"	"deepabyss_4000m_5050_0"	"deepabyss_4000m_3548_0"	"deepabyss_4000m_5448_0"	"deepabyss_4000m_7129_0"	"deepabyss_4000m_9877_0"	"deepabyss_4000m_4234_0"	"deepabyss_4000m_7747_1"	"deepabyss_4000m_1857_0"	"deepabyss_4000m_339_0"	"deepabyss_4000m_6711_0"	"deepabyss_4000m_7487_0"	"deepabyss_4000m_7943_1"
+RXN1G-1152	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+RXN490-3616	"Aspartate--tRNA ligase"
+RXN1G-1150	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+RXN1G-1151	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+AICARSYN-RXN	NIL
+ACETALD-DEHYDROG-RXN	NIL	"deepabyss_4000m_243_0"	"deepabyss_4000m_6430_0"	"deepabyss_4000m_3628_0"	"deepabyss_4000m_9508_0"	"deepabyss_4000m_3085_0"
+FUMHYDR-RXN	NIL	"deepabyss_4000m_839_2"	"deepabyss_4000m_276_0"	"deepabyss_4000m_10677_0"	"deepabyss_4000m_871_0"	"deepabyss_4000m_10399_1"	"deepabyss_4000m_2729_0"	"deepabyss_4000m_8102_0"	"deepabyss_4000m_509_1"	"deepabyss_4000m_10771_1"
+SERINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_9957_0"	"deepabyss_4000m_318_0"	"deepabyss_4000m_8892_0"	"deepabyss_4000m_7535_0"	"deepabyss_4000m_7283_0"
+TYROSINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_10568_0"	"deepabyss_4000m_6183_0"	"deepabyss_4000m_5167_0"	"deepabyss_4000m_7810_0"
+RXN-2364	NIL	"deepabyss_4000m_10357_1"	"deepabyss_4000m_10173_0"	"deepabyss_4000m_974_0"	"deepabyss_4000m_9551_0"	"deepabyss_4000m_10248_1"	"deepabyss_4000m_4202_0"
+THIAMIN-PYROPHOSPHOKINASE-RXN	NIL
+3.4.11.1-RXN	NIL	"deepabyss_4000m_3445_0"	"deepabyss_4000m_10403_1"
+ADENPRIBOSYLTRAN-RXN	NIL	"deepabyss_4000m_6542_1"
+RXN-9670	NIL
+RXN-9673	NIL	"deepabyss_4000m_398_0"	"deepabyss_4000m_8171_0"	"deepabyss_4000m_4683_0"	"deepabyss_4000m_9525_0"	"deepabyss_4000m_6837_1"	"deepabyss_4000m_1986_0"	"deepabyss_4000m_6298_0"	"deepabyss_4000m_9866_0"	"deepabyss_4000m_6394_0"	"deepabyss_4000m_8511_0"	"deepabyss_4000m_9890_0"	"deepabyss_4000m_4730_0"	"deepabyss_4000m_989_0"	"deepabyss_4000m_6937_0"	"deepabyss_4000m_1961_0"
+RXN3O-73	NIL
+RXN3O-75	NIL
+RXN-9471	NIL
+RXN-9470	NIL
+PHENYLALANINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_6385_0"	"deepabyss_4000m_10956_0"	"deepabyss_4000m_1880_0"	"deepabyss_4000m_2339_0"	"deepabyss_4000m_6397_0"	"deepabyss_4000m_4721_1"	"deepabyss_4000m_9723_0"
+METHIONINE-S-METHYLTRANSFERASE-RXN	NIL
+3.1.2.21-RXN	NIL
+IPPISOM-RXN	NIL	"deepabyss_4000m_7615_0"
+CYSTATHIONINE-BETA-LYASE-RXN	NIL
+HOMOCYSMET-RXN	NIL	"deepabyss_4000m_7922_1"	"deepabyss_4000m_10392_0"	"deepabyss_4000m_9567_0"	"deepabyss_4000m_6255_1"	"deepabyss_4000m_5272_1"	"deepabyss_4000m_10329_0"	"deepabyss_4000m_9016_0"	"deepabyss_4000m_4925_1"
+RXN-13077	NIL
+RXN-13076	"nicotine dehydrogenase"
+RXN1G-820	"trans-delta2-cis,cis-delta17,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-299	"trans-delta2-cis-delta13-C32:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+SUCROSE-SYNTHASE-RXN	"Sucrose synthase"
+DEOXYCYTIDINE-KINASE-RXN	NIL
+DALADALALIG-RXN	NIL	"deepabyss_4000m_5745_1"	"deepabyss_4000m_5637_0"	"deepabyss_4000m_5464_1"	"deepabyss_4000m_4006_0"
+RXN0-4301	NIL
+2-NITROPROPANE-DIOXYGENASE-RXN	NIL	"deepabyss_4000m_6717_0"
+SUCCGLUALDDEHYD-RXN	NIL	"deepabyss_4000m_3628_0"	"deepabyss_4000m_9508_0"	"deepabyss_4000m_3085_0"
+RXN0-2142	NIL	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN-7913	NIL	"deepabyss_4000m_3025_0"	"deepabyss_4000m_10470_1"	"deepabyss_4000m_6265_1"
+2.4.1.83-RXN	NIL	"deepabyss_4000m_3353_0"
+GMP-SYN-GLUT-RXN	NIL	"deepabyss_4000m_1803_2"	"deepabyss_4000m_1803_1"	"deepabyss_4000m_1496_0"	"deepabyss_4000m_10304_0"	"deepabyss_4000m_8983_0"	"deepabyss_4000m_8669_2"	"deepabyss_4000m_1703_0"	"deepabyss_4000m_2739_0"	"deepabyss_4000m_524_0"	"deepabyss_4000m_10854_1"	"deepabyss_4000m_2790_1"	"deepabyss_4000m_2790_0"	"deepabyss_4000m_6266_0"	"deepabyss_4000m_10716_1"
+RXN1G-220	"cis,cis-delta17,35-3-hydroxyC54:2-[acyl-carrier protein] dehydratase"
+RXN0-1461	NIL	"deepabyss_4000m_5576_0"
+RXN-12255	NIL
+RXNI-2	"acetoacetate CoA-transferase"	"deepabyss_4000m_2475_1"	"deepabyss_4000m_2963_1"
+RXNI-3	NIL
+RXN-12250	NIL
+RXN-12251	NIL
+RXN-982	NIL	"deepabyss_4000m_6134_0"	"deepabyss_4000m_4218_1"	"deepabyss_4000m_4165_1"
+RXN1A0-6305	NIL
+RXN1A0-6307	NIL
+RXN-12259	NIL
+RXN1A0-6303	NIL	"deepabyss_4000m_4828_0"	"deepabyss_4000m_8719_0"	"deepabyss_4000m_1344_0"	"deepabyss_4000m_4292_0"	"deepabyss_4000m_6503_0"	"deepabyss_4000m_2242_1"	"deepabyss_4000m_4091_1"	"deepabyss_4000m_2453_0"	"deepabyss_4000m_2736_0"	"deepabyss_4000m_607_0"
+RXN1A0-6302	NIL
+RXN-13678	NIL
+RXN-13675	NIL
+RXN-13677	NIL	"deepabyss_4000m_228_0"	"deepabyss_4000m_3887_1"	"deepabyss_4000m_10535_0"	"deepabyss_4000m_3542_1"	"deepabyss_4000m_5438_0"
+RXN1G-915	"trans-delta2-cis,cis-delta11,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-13673	NIL	"deepabyss_4000m_11101_0"	"deepabyss_4000m_818_0"	"deepabyss_4000m_2000_1"	"deepabyss_4000m_44_0"	"deepabyss_4000m_5123_0"	"deepabyss_4000m_7196_1"	"deepabyss_4000m_1507_0"	"deepabyss_4000m_3207_1"
+2.3.1.179-RXN	NIL	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+RXN-9508	NIL	"deepabyss_4000m_10970_1"
+TSA-REDUCT-RXN	NIL	"deepabyss_4000m_7975_0"	"deepabyss_4000m_5725_1"	"deepabyss_4000m_7512_0"
+ERYTH4PDEHYDROG-RXN	NIL	"deepabyss_4000m_4038_0"
+UROGENDECARBOX-RXN	NIL	"deepabyss_4000m_10770_0"
+CITRATE-PRO-3S-LYASE-THIOLESTERASE-RXN	NIL
+DTDPGLUCDEHYDRAT-RXN	NIL	"deepabyss_4000m_1883_0"	"deepabyss_4000m_864_0"	"deepabyss_4000m_6243_0"	"deepabyss_4000m_5935_0"	"deepabyss_4000m_3273_0"
+RXN1G-355	"cis-delta21-3-hydroxyC40:1-[acyl-carrier protein] dehydratase"
+RXN1G-358	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+5.4.2.10-RXN	NIL	"deepabyss_4000m_4648_0"	"deepabyss_4000m_4144_0"	"deepabyss_4000m_10432_0"
+S-FORMYLGLUTATHIONE-HYDROLASE-RXN	NIL
+LEUKOTRIENE-C4-SYNTHASE-RXN	NIL
+RXN-12384	NIL
+1.3.1.19-RXN	NIL
+RXN-7719	"dihydrolipoyl dehydrogenase"	"deepabyss_4000m_7360_0"	"deepabyss_4000m_10359_0"	"deepabyss_4000m_555_0"	"deepabyss_4000m_7069_0"	"deepabyss_4000m_2770_0"	"deepabyss_4000m_4229_0"	"deepabyss_4000m_3981_0"
+PYRIDOXINE-4-OXIDASE-RXN	NIL
+RXN-7710	NIL	"deepabyss_4000m_3062_0"
+RXN-7716	"dihydrolipoyl dehydrogenase"	"deepabyss_4000m_7360_0"	"deepabyss_4000m_10359_0"	"deepabyss_4000m_555_0"	"deepabyss_4000m_7069_0"	"deepabyss_4000m_2770_0"	"deepabyss_4000m_4229_0"	"deepabyss_4000m_3981_0"
+GLUCOSE-1-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_797_0"	"deepabyss_4000m_4881_1"
+AGMATIN-RXN	NIL	"deepabyss_4000m_10696_1"	"deepabyss_4000m_10679_2"	"deepabyss_4000m_10679_1"	"deepabyss_4000m_2390_1"	"deepabyss_4000m_936_0"	"deepabyss_4000m_3217_0"	"deepabyss_4000m_8188_0"	"deepabyss_4000m_6492_0"	"deepabyss_4000m_2820_0"	"deepabyss_4000m_8784_0"
+RXN1G-172	"cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+RXN1G-171	"trans-delta2-cis-delta5-C24:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+THREONINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_9794_1"	"deepabyss_4000m_2194_0"	"deepabyss_4000m_7128_1"	"deepabyss_4000m_4871_0"	"deepabyss_4000m_5623_0"	"deepabyss_4000m_11006_0"	"deepabyss_4000m_6510_0"	"deepabyss_4000m_1320_0"	"deepabyss_4000m_785_0"
+ACETYLGLUTKIN-RXN	NIL	"deepabyss_4000m_2573_1"	"deepabyss_4000m_10741_0"
+UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN	NIL
+RXN-1884	NIL
+RXN-1882	NIL	"deepabyss_4000m_8656_0"
+PHOSPHOLIPASE-A2-RXN	NIL
+3.1.3.56-RXN	NIL
+RXN-8036	NIL	"deepabyss_4000m_5678_0"	"deepabyss_4000m_10346_0"
+3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_8701_1"	"deepabyss_4000m_6105_0"	"deepabyss_4000m_6128_0"
+DIHYDROKAEMPFEROL-4-REDUCTASE-RXN	NIL	"deepabyss_4000m_7041_0"	"deepabyss_4000m_7395_1"
+3.5.1.29-RXN	NIL
+RXN1G-576	"&alpha;-meroacyl transferase"
+RXN-12720	NIL	"deepabyss_4000m_5833_0"	"deepabyss_4000m_10310_0"	"deepabyss_4000m_9008_0"	"deepabyss_4000m_9924_0"	"deepabyss_4000m_7711_0"	"deepabyss_4000m_9361_0"	"deepabyss_4000m_7105_0"	"deepabyss_4000m_8451_1"	"deepabyss_4000m_1174_0"	"deepabyss_4000m_271_0"	"deepabyss_4000m_5456_1"	"deepabyss_4000m_7115_0"
+RXN-12721	NIL
+RXN-12726	NIL	"deepabyss_4000m_598_0"	"deepabyss_4000m_10077_0"	"deepabyss_4000m_2927_0"	"deepabyss_4000m_627_0"
+6-HYDROXYHEXANOATE-OXIDATION-RXN	NIL
+RXN-12729	NIL
+RXN-8486	NIL
+THIAZOLSYN2-RXN	NIL
+CATECHOL-2-3-DIOXYGENASE-RXN	"Methylcatechol 2,3-dioxygenase"	"deepabyss_4000m_6230_0"
+RXN-1082	NIL	"deepabyss_4000m_2748_0"
+RXN-1083	NIL
+VALINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_5774_0"	"deepabyss_4000m_7386_0"	"deepabyss_4000m_10007_0"	"deepabyss_4000m_3148_0"	"deepabyss_4000m_4786_0"	"deepabyss_4000m_4781_0"	"deepabyss_4000m_7089_1"	"deepabyss_4000m_7721_0"	"deepabyss_4000m_3185_0"	"deepabyss_4000m_4291_0"	"deepabyss_4000m_3159_1"
+RXN-2622	NIL
+R233-RXN	NIL
+RXN-10711	NIL	"deepabyss_4000m_8032_0"
+RXN-10717	"indole acetaldehyde reductase"
+RXN-10715	"indole acetaldehyde dehydrogenase"	"deepabyss_4000m_5406_1"	"deepabyss_4000m_6898_2"	"deepabyss_4000m_4514_0"	"deepabyss_4000m_3390_0"	"deepabyss_4000m_9826_0"	"deepabyss_4000m_429_0"	"deepabyss_4000m_3198_0"	"deepabyss_4000m_4046_0"	"deepabyss_4000m_291_0"	"deepabyss_4000m_6545_0"	"deepabyss_4000m_6738_1"	"deepabyss_4000m_9530_0"	"deepabyss_4000m_182_0"	"deepabyss_4000m_2363_0"	"deepabyss_4000m_140_1"	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"
+RXN-11620	NIL
+RXN-11621	NIL
+RXN-11622	NIL	"deepabyss_4000m_3739_0"	"deepabyss_4000m_3106_1"	"deepabyss_4000m_10085_0"
+NMNAMIDOHYDRO-RXN	NIL
+12-OXOPHYTODIENOATE-REDUCTASE-RXN	NIL
+PYRUVDEH-RXN	NIL	"deepabyss_4000m_4684_0"
+4.1.1.86-RXN	NIL
+RXN-5341	NIL	"deepabyss_4000m_5678_0"	"deepabyss_4000m_10346_0"
+GLYOXII-RXN	"Hydroxyacylglutathione hydrolase"	"deepabyss_4000m_4207_0"
+MMUM-RXN	NIL
+RXN1F-19	NIL
+RXN1G-686	"trans-delta2-cis,cis-delta9,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1F-10	NIL
+RXN-1401	"tryptamine oxidase"	"deepabyss_4000m_3301_1"	"deepabyss_4000m_10648_1"
+RXN-1406	NIL
+RXN-1404	NIL	"deepabyss_4000m_1700_0"	"deepabyss_4000m_3316_0"
+ORNITHINE-GLU-AMINOTRANSFORASE-RXN	"Ornithine--oxo-glutarate aminotransferase"	"deepabyss_4000m_8227_1"	"deepabyss_4000m_2584_0"
+RXN3O-58	NIL
+RXN-11718	"5-chloro-4-hydroxy-2-oxopentanoate decarboxylase (acylating)"
+RXN-11719	"4-chloro-3-hydroxybutyryl-CoA dehydratase"
+RXN-10661	NIL
+RXN-10660	NIL
+RXN-11714	NIL
+RXN-11715	"chloro-purine nucleoside phosphorylase"	"deepabyss_4000m_8621_0"
+RXN-11716	"5-chloro-5-deoxyribose 1 phosphate phosphatase"
+RXN-11717	"5-chloro-5-deoxy-D-ribonate dehydratase"
+RXN-11246	NIL	"deepabyss_4000m_4601_0"	"deepabyss_4000m_10316_0"	"deepabyss_4000m_5673_1"	"deepabyss_4000m_10780_1"	"deepabyss_4000m_7064_0"	"deepabyss_4000m_1471_0"	"deepabyss_4000m_7729_0"	"deepabyss_4000m_3812_0"
+RXN-11244	NIL	"deepabyss_4000m_4668_1"	"deepabyss_4000m_4336_0"	"deepabyss_4000m_5816_0"	"deepabyss_4000m_8082_1"	"deepabyss_4000m_5633_0"	"deepabyss_4000m_2259_0"	"deepabyss_4000m_5156_0"	"deepabyss_4000m_8883_0"	"deepabyss_4000m_6342_1"	"deepabyss_4000m_8257_0"	"deepabyss_4000m_9400_0"	"deepabyss_4000m_1371_0"	"deepabyss_4000m_6123_0"	"deepabyss_4000m_9607_0"	"deepabyss_4000m_6489_1"	"deepabyss_4000m_1397_0"	"deepabyss_4000m_8029_0"
+RXN-11245	NIL	"deepabyss_4000m_1828_0"	"deepabyss_4000m_10233_0"	"deepabyss_4000m_4396_0"	"deepabyss_4000m_4253_1"	"deepabyss_4000m_4252_0"	"deepabyss_4000m_6046_0"	"deepabyss_4000m_5704_0"
+AMINEPHEN-RXN	NIL
+RXN-MG-PROTOPORPHYRIN-METHYLESTER-SYN	NIL
+RXN0-901	NIL	"deepabyss_4000m_4530_0"	"deepabyss_4000m_7659_0"	"deepabyss_4000m_4395_0"	"deepabyss_4000m_1001_0"	"deepabyss_4000m_8273_1"	"deepabyss_4000m_2598_0"	"deepabyss_4000m_9208_0"	"deepabyss_4000m_10548_1"	"deepabyss_4000m_1839_0"	"deepabyss_4000m_8395_0"	"deepabyss_4000m_2501_2"	"deepabyss_4000m_2501_1"	"deepabyss_4000m_1998_1"	"deepabyss_4000m_11127_1"	"deepabyss_4000m_31_0"	"deepabyss_4000m_1405_0"	"deepabyss_4000m_3976_1"
+RXN-10040	NIL
+GLUTRACE-RXN	NIL	"deepabyss_4000m_9949_0"
+RXN1G-1149	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+FARNESOL-DEHYDROGENASE-RXN	NIL
+GLYCEROL-KIN-RXN	NIL	"deepabyss_4000m_6154_1"	"deepabyss_4000m_8985_0"	"deepabyss_4000m_9134_0"	"deepabyss_4000m_2691_1"	"deepabyss_4000m_5161_0"
+3-OXOACYL-ACP-SYNTH-BASE-RXN	"acetoacetyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"	"deepabyss_4000m_6039_0"
+UGD-RXN	NIL	"deepabyss_4000m_8974_0"	"deepabyss_4000m_8659_0"	"deepabyss_4000m_6044_0"	"deepabyss_4000m_6000_1"	"deepabyss_4000m_486_0"	"deepabyss_4000m_3634_0"	"deepabyss_4000m_1835_0"	"deepabyss_4000m_149_0"
+PGLYCDEHYDROG-RXN	NIL	"deepabyss_4000m_3880_0"	"deepabyss_4000m_3667_0"	"deepabyss_4000m_991_1"	"deepabyss_4000m_5019_0"	"deepabyss_4000m_3322_0"	"deepabyss_4000m_4212_0"	"deepabyss_4000m_1477_0"	"deepabyss_4000m_3873_0"	"deepabyss_4000m_8668_0"
+RXN0-4222	NIL	"deepabyss_4000m_10926_0"	"deepabyss_4000m_4744_0"
+ACETOLACTREDUCTOISOM-RXN	"ketol-acid reductoisomerase"	"deepabyss_4000m_2042_0"	"deepabyss_4000m_10469_0"	"deepabyss_4000m_3504_1"	"deepabyss_4000m_6219_0"	"deepabyss_4000m_7933_1"	"deepabyss_4000m_8398_0"	"deepabyss_4000m_9368_0"	"deepabyss_4000m_3244_1"
+RXN-9190	NIL
+RXN-9191	NIL	"deepabyss_4000m_8003_1"	"deepabyss_4000m_6638_0"
+KETOACYLCOATHIOL-RXN	NIL	"deepabyss_4000m_4601_0"	"deepabyss_4000m_10316_0"	"deepabyss_4000m_5673_1"	"deepabyss_4000m_10780_1"	"deepabyss_4000m_7064_0"	"deepabyss_4000m_1471_0"	"deepabyss_4000m_7729_0"	"deepabyss_4000m_3812_0"
+DUTP-PYROP-RXN	NIL	"deepabyss_4000m_4142_0"	"deepabyss_4000m_4816_0"
+PALMITOYL-COA-HYDROLASE-RXN	NIL
+RXN1G-1212	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+UDP-GLUCURONATE-DECARBOXYLASE-RXN	NIL	"deepabyss_4000m_705_0"
+GALACTARDEHYDRA-RXN	NIL	"deepabyss_4000m_9386_1"
+1.1.1.51-RXN	NIL	"deepabyss_4000m_3410_0"
+CERAMIDASE-YEAST-RXN	"phytoceramidase"
+L-ASPARTATE-OXID-RXN	NIL
+HOMOGENTISATE-12-DIOXYGENASE-RXN	NIL	"deepabyss_4000m_2031_0"
+RXN3DJ-35528	"Serotonin acetyltransferase"
+RXN-9220	NIL	"deepabyss_4000m_8003_1"	"deepabyss_4000m_6638_0"
+RXN-9990	NIL	"deepabyss_4000m_2561_0"	"deepabyss_4000m_9257_0"
+CARNDETRU-RXN	NIL
+INOSINE-NUCLEOSIDASE-RXN	NIL
+UDP-NACMURALGLDAPLIG-RXN	NIL
+HISTPRATPHYD-RXN	NIL	"deepabyss_4000m_7266_0"	"deepabyss_4000m_4176_0"
+RXN1G-53	"trans-delta2-cis-delta21-C40:2-[acyl-carrier protein] reductase"
+RXN-7904	NIL	"deepabyss_4000m_398_0"	"deepabyss_4000m_8171_0"	"deepabyss_4000m_4683_0"	"deepabyss_4000m_9525_0"	"deepabyss_4000m_6837_1"	"deepabyss_4000m_1986_0"	"deepabyss_4000m_6298_0"	"deepabyss_4000m_9866_0"	"deepabyss_4000m_6394_0"	"deepabyss_4000m_8511_0"	"deepabyss_4000m_9890_0"	"deepabyss_4000m_4730_0"	"deepabyss_4000m_989_0"	"deepabyss_4000m_6937_0"	"deepabyss_4000m_1961_0"
+RXN1G-210	"trans-delta2-cis-delta11-C30:2[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-214	"cis,cis-delta5,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN66-336	"leukotriene-C4 gamma-glutamyl transferase"	"deepabyss_4000m_3869_0"	"deepabyss_4000m_10311_0"	"deepabyss_4000m_8172_0"	"deepabyss_4000m_10685_0"	"deepabyss_4000m_5050_0"	"deepabyss_4000m_3548_0"	"deepabyss_4000m_5448_0"	"deepabyss_4000m_7129_0"	"deepabyss_4000m_9877_0"	"deepabyss_4000m_4234_0"	"deepabyss_4000m_7747_1"	"deepabyss_4000m_1857_0"	"deepabyss_4000m_339_0"	"deepabyss_4000m_6711_0"	"deepabyss_4000m_7487_0"	"deepabyss_4000m_7943_1"
+R503-RXN	NIL
+RXN-7909	NIL
+RXN-7908	NIL	"deepabyss_4000m_1069_1"	"deepabyss_4000m_3463_0"	"deepabyss_4000m_7449_1"
+AICARTRANSFORM-RXN	NIL	"deepabyss_4000m_5617_0"	"deepabyss_4000m_3837_0"	"deepabyss_4000m_4154_0"	"deepabyss_4000m_6319_1"
+RXN1A0-6312	NIL
+6-OXOHEXANOATE-OXIDATION-RXN	NIL
+RXN1A0-6310	NIL
+ALLENE-OXIDE-CYCLASE-RXN	NIL
+RXN1A0-6316	NIL
+TETRAACYLDISACC4KIN-RXN	NIL	"deepabyss_4000m_4995_0"
+PHOSPHAGLYPSYN-RXN	NIL	"deepabyss_4000m_2004_0"
+RXN-13394	"4-hydroxybenzaldehyde dehydrogenase"
+RXN-13392	"3-(4-hydroxyphenyl)-3-hydroxy-propionyl-CoA aldolase"
+TIGLYLCOA-HYDROXY-RXN	"Tiglyl-CoA hydratase"	"deepabyss_4000m_4668_1"	"deepabyss_4000m_4336_0"	"deepabyss_4000m_5816_0"	"deepabyss_4000m_8082_1"	"deepabyss_4000m_5633_0"	"deepabyss_4000m_2259_0"	"deepabyss_4000m_5156_0"	"deepabyss_4000m_8883_0"	"deepabyss_4000m_6342_1"	"deepabyss_4000m_8257_0"	"deepabyss_4000m_9400_0"	"deepabyss_4000m_1371_0"	"deepabyss_4000m_6123_0"	"deepabyss_4000m_9607_0"	"deepabyss_4000m_6489_1"	"deepabyss_4000m_1397_0"	"deepabyss_4000m_8029_0"
+2.6.1.37-RXN	NIL	"deepabyss_4000m_3394_1"
+RXN1G-962	"trans-delta2-cis-delta17-C36:2-[acyl-carrier protein] reductase"
+RXN0-3901	NIL	"deepabyss_4000m_8343_0"
+MERCURY-II-REDUCTASE-RXN	NIL	"deepabyss_4000m_7367_0"
+RXN-9538	"<i>trans</i> tetradec-2-enoyl-[acyl-carrier-protein] reductase (NADPH, B-specific)"
+RXN-9539	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN-9536	"3-oxo-meristoyl-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+RXN-9537	"3-hydroxymyristoyl-[acyl-carrier protein] dehydratase"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+RXN-9534	"<i>trans</i> dodec-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+4-COUMARATE--COA-LIGASE-RXN	NIL	"deepabyss_4000m_1711_0"
+NAD-SYNTH-GLN-RXN	NIL	"deepabyss_4000m_4271_0"	"deepabyss_4000m_2947_0"
+RXN-9533	"3-hydroxydodecanoyl-[acyl-carrier protein] dehydratase"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+RXN-9530	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]reductase (NADPH, B-specific)"
+RXN-9531	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+ASPARAGINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_7399_0"
+TRANSALDOL-RXN	NIL	"deepabyss_4000m_7718_1"	"deepabyss_4000m_6641_1"	"deepabyss_4000m_2096_0"
+R542-RXN	NIL
+RXN1G-364	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"
+RXN1G-363	"3-hydroxybehenoyl-[acyl-carrier protein] dehydratase"
+DTDPDEHYRHAMREDUCT-RXN	NIL	"deepabyss_4000m_6895_0"	"deepabyss_4000m_5805_0"	"deepabyss_4000m_7945_0"
+UDPACYLGLCNACDEACETYL-RXN	NIL
+RXN1G-368	"3-oxo-arachidoyl-[acp] synthase"
+R122-RXN	NIL
+RXN-12625	"<i>N,N'</i>-diacetylchitobiose &beta;-<i>N</i>-acetylglucosaminidase"	"deepabyss_4000m_3739_0"	"deepabyss_4000m_3106_1"	"deepabyss_4000m_10085_0"
+RXN-12624	"chitotriose synthase"	"deepabyss_4000m_3438_0"
+RXN-12626	"chitotriose &beta;-<i>N</i>-acetylglucosaminidase"	"deepabyss_4000m_3739_0"	"deepabyss_4000m_3106_1"	"deepabyss_4000m_10085_0"
+RXN-12621	NIL
+RXN-12623	"<i>N,N'</i>-diacetylchitobiose synthase"	"deepabyss_4000m_3438_0"
+RXN1G-2544	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+RXN-13718	"(+)-taxifolin 5'-hydroxylase"
+METHYLENETHFDEHYDROG-NADP-RXN	NIL	"deepabyss_4000m_4866_1"	"deepabyss_4000m_3243_0"	"deepabyss_4000m_10779_1"
+4.1.2.29-RXN	NIL
+NAG1P-URIDYLTRANS-RXN	NIL	"deepabyss_4000m_6952_1"
+RXN-7708	"methionine--phenylpyruvate transaminase"
+RXN-7703	NIL
+RXN-7700	"2-phenylethanol dehydrogenase"	"deepabyss_4000m_2879_1"	"deepabyss_4000m_360_1"	"deepabyss_4000m_1634_1"	"deepabyss_4000m_425_0"	"deepabyss_4000m_255_1"	"deepabyss_4000m_6235_0"	"deepabyss_4000m_5041_0"	"deepabyss_4000m_11026_0"	"deepabyss_4000m_1036_1"	"deepabyss_4000m_3085_1"
+RXN-7706	"methionol dehydrogenase"	"deepabyss_4000m_2879_1"	"deepabyss_4000m_360_1"	"deepabyss_4000m_1634_1"	"deepabyss_4000m_425_0"	"deepabyss_4000m_255_1"	"deepabyss_4000m_6235_0"	"deepabyss_4000m_5041_0"	"deepabyss_4000m_11026_0"	"deepabyss_4000m_1036_1"	"deepabyss_4000m_3085_1"
+ACETYL-COA-ACETYLTRANSFER-RXN	NIL	"deepabyss_4000m_9496_0"	"deepabyss_4000m_3315_0"	"deepabyss_4000m_4740_0"	"deepabyss_4000m_1252_0"	"deepabyss_4000m_3371_0"	"deepabyss_4000m_9780_0"	"deepabyss_4000m_7912_1"	"deepabyss_4000m_6739_0"	"deepabyss_4000m_10455_1"	"deepabyss_4000m_9513_0"	"deepabyss_4000m_5572_0"	"deepabyss_4000m_10525_0"	"deepabyss_4000m_9086_0"	"deepabyss_4000m_8777_0"	"deepabyss_4000m_3342_0"
+RXN-7704	NIL
+UDPGLUCEPIM-RXN	NIL	"deepabyss_4000m_703_0"	"deepabyss_4000m_4114_0"	"deepabyss_4000m_5446_0"	"deepabyss_4000m_7522_0"	"deepabyss_4000m_4698_0"	"deepabyss_4000m_1726_0"	"deepabyss_4000m_2923_2"	"deepabyss_4000m_2923_1"	"deepabyss_4000m_3427_0"	"deepabyss_4000m_6015_0"	"deepabyss_4000m_3404_0"
+N-ACETYLTRANSFER-RXN	NIL	"deepabyss_4000m_4566_0"
+CARBPSYN-RXN	NIL	"deepabyss_4000m_3458_0"	"deepabyss_4000m_9286_0"	"deepabyss_4000m_536_0"	"deepabyss_4000m_8754_0"	"deepabyss_4000m_9981_1"	"deepabyss_4000m_9098_0"	"deepabyss_4000m_9448_0"	"deepabyss_4000m_3978_1"	"deepabyss_4000m_6188_1"	"deepabyss_4000m_5230_0"	"deepabyss_4000m_10626_0"	"deepabyss_4000m_4194_0"	"deepabyss_4000m_5685_0"	"deepabyss_4000m_5417_0"	"deepabyss_4000m_10753_0"	"deepabyss_4000m_9293_0"
+RXN1G-3232	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+RXN-12533	NIL
+PSEUDOURIDINE-KINASE-RXN	NIL
+RXN-12534	NIL
+ENOYL-COA-HYDRAT-RXN	NIL	"deepabyss_4000m_4668_1"	"deepabyss_4000m_4336_0"	"deepabyss_4000m_5816_0"	"deepabyss_4000m_8082_1"	"deepabyss_4000m_5633_0"	"deepabyss_4000m_2259_0"	"deepabyss_4000m_5156_0"	"deepabyss_4000m_8883_0"	"deepabyss_4000m_6342_1"	"deepabyss_4000m_8257_0"	"deepabyss_4000m_9400_0"	"deepabyss_4000m_1371_0"	"deepabyss_4000m_6123_0"	"deepabyss_4000m_9607_0"	"deepabyss_4000m_6489_1"	"deepabyss_4000m_1397_0"	"deepabyss_4000m_8029_0"
+RXN0-5199	"guanosine phosphorylase"	"deepabyss_4000m_8621_0"
+4.1.1.80-RXN	NIL
+RXN-12280	NIL
+RXN1G-248	"trans-delta2-cis,cis-delta5,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+1TRANSKETO-RXN	NIL	"deepabyss_4000m_164_0"	"deepabyss_4000m_4271_1"	"deepabyss_4000m_445_0"	"deepabyss_4000m_2474_0"	"deepabyss_4000m_3328_0"	"deepabyss_4000m_9175_0"	"deepabyss_4000m_3907_1"	"deepabyss_4000m_3907_0"	"deepabyss_4000m_1225_0"	"deepabyss_4000m_8833_0"	"deepabyss_4000m_35_0"	"deepabyss_4000m_2661_0"
+ORNITHINE-RACEMASE-RXN	NIL
+GLUCDEHYDROG-RXN	NIL	"deepabyss_4000m_2602_0"	"deepabyss_4000m_6349_0"	"deepabyss_4000m_5699_0"	"deepabyss_4000m_512_0"	"deepabyss_4000m_8237_0"	"deepabyss_4000m_1148_0"	"deepabyss_4000m_3745_0"	"deepabyss_4000m_3817_0"	"deepabyss_4000m_5145_0"	"deepabyss_4000m_1764_0"	"deepabyss_4000m_11028_0"	"deepabyss_4000m_9600_1"	"deepabyss_4000m_9600_0"	"deepabyss_4000m_797_0"	"deepabyss_4000m_4881_1"
+RXN-11721	NIL
+RXN1G-320	"3-hydroxyarchidoyl-[acp] dehydrase"
+CHORISMATEMUT-RXN	NIL
+O-CRESOL-METHYLCATECHOL-RXN	"methylphenol monooxygenase"
+RXN-10911	"3,4-dihydroxyphenylglycolaldehyde reductase"	"deepabyss_4000m_2879_1"	"deepabyss_4000m_360_1"	"deepabyss_4000m_1634_1"	"deepabyss_4000m_425_0"	"deepabyss_4000m_255_1"	"deepabyss_4000m_6235_0"	"deepabyss_4000m_5041_0"	"deepabyss_4000m_11026_0"	"deepabyss_4000m_1036_1"	"deepabyss_4000m_3085_1"
+RXN-10910	"normetanephrine oxidase"	"deepabyss_4000m_3301_1"	"deepabyss_4000m_10648_1"
+RXN-10913	"metanephrine oxidase"	"deepabyss_4000m_3301_1"	"deepabyss_4000m_10648_1"
+RXN-10912	"3,4-dihydroxyphenylglycolaldehyde dehydrogenase"	"deepabyss_4000m_5406_1"	"deepabyss_4000m_6898_2"	"deepabyss_4000m_4514_0"	"deepabyss_4000m_3390_0"	"deepabyss_4000m_9826_0"	"deepabyss_4000m_429_0"	"deepabyss_4000m_3198_0"	"deepabyss_4000m_4046_0"	"deepabyss_4000m_291_0"	"deepabyss_4000m_6545_0"	"deepabyss_4000m_6738_1"	"deepabyss_4000m_9530_0"	"deepabyss_4000m_182_0"	"deepabyss_4000m_2363_0"	"deepabyss_4000m_140_1"	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"
+RXN-10915	"3,4-dihydroxyphenylglycol dehydrogenase"	"deepabyss_4000m_2879_1"	"deepabyss_4000m_360_1"	"deepabyss_4000m_1634_1"	"deepabyss_4000m_425_0"	"deepabyss_4000m_255_1"	"deepabyss_4000m_6235_0"	"deepabyss_4000m_5041_0"	"deepabyss_4000m_11026_0"	"deepabyss_4000m_1036_1"	"deepabyss_4000m_3085_1"
+RXN-10914	"3,4-dihydroxyphenylglycol <i>O</i>-methyltransferase"
+RXN-10917	"3-methoxy-4-hydroxyphenylglycolaldehyde dehydrogenase"	"deepabyss_4000m_5406_1"	"deepabyss_4000m_6898_2"	"deepabyss_4000m_4514_0"	"deepabyss_4000m_3390_0"	"deepabyss_4000m_9826_0"	"deepabyss_4000m_429_0"	"deepabyss_4000m_3198_0"	"deepabyss_4000m_4046_0"	"deepabyss_4000m_291_0"	"deepabyss_4000m_6545_0"	"deepabyss_4000m_6738_1"	"deepabyss_4000m_9530_0"	"deepabyss_4000m_182_0"	"deepabyss_4000m_2363_0"	"deepabyss_4000m_140_1"	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"
+RXN-10916	"3,4-dihydroxymandelate <i>O</i>-methyltransferase"
+RXN-12755	"arachidonate &Delta;<sup>17</sup> desaturase"
+RXN0-4141	NIL
+RXN-12751	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-oxopropanoyl-CoA hydrolase"
+RXN-12750	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-hydroxypropanoate dehydrogenase"	"deepabyss_4000m_1828_0"	"deepabyss_4000m_10233_0"	"deepabyss_4000m_4396_0"	"deepabyss_4000m_4253_1"	"deepabyss_4000m_4252_0"	"deepabyss_4000m_6046_0"	"deepabyss_4000m_5704_0"
+NAPHTHOATE-SYN-RXN	NIL
+PHOSPHOLIPASE-A1-RXN	NIL
+CYANIDE-HYDRATASE-RXN	NIL	"deepabyss_4000m_3316_0"
+RXN-2961	NIL
+RXN-2962	NIL	"deepabyss_4000m_3734_0"	"deepabyss_4000m_3229_0"
+DUDPKIN-RXN	NIL
+GALACTONOLACTONE-DEHYDROGENASE-RXN	"<small>L</small>-galactonolactone dehydrogenase"
+RXN-10704	NIL	"deepabyss_4000m_4668_1"	"deepabyss_4000m_4336_0"	"deepabyss_4000m_5816_0"	"deepabyss_4000m_8082_1"	"deepabyss_4000m_5633_0"	"deepabyss_4000m_2259_0"	"deepabyss_4000m_5156_0"	"deepabyss_4000m_8883_0"	"deepabyss_4000m_6342_1"	"deepabyss_4000m_8257_0"	"deepabyss_4000m_9400_0"	"deepabyss_4000m_1371_0"	"deepabyss_4000m_6123_0"	"deepabyss_4000m_9607_0"	"deepabyss_4000m_6489_1"	"deepabyss_4000m_1397_0"	"deepabyss_4000m_8029_0"
+3PGAREARR-RXN	NIL	"deepabyss_4000m_4450_0"	"deepabyss_4000m_9210_1"	"deepabyss_4000m_2710_1"	"deepabyss_4000m_1230_0"	"deepabyss_4000m_6805_0"	"deepabyss_4000m_5496_0"	"deepabyss_4000m_4000_0"	"deepabyss_4000m_7536_0"	"deepabyss_4000m_2758_2"
+RXN-10706	NIL
+RXN-10707	NIL
+RXN-10700	NIL	"deepabyss_4000m_4601_0"	"deepabyss_4000m_10316_0"	"deepabyss_4000m_5673_1"	"deepabyss_4000m_10780_1"	"deepabyss_4000m_7064_0"	"deepabyss_4000m_1471_0"	"deepabyss_4000m_7729_0"	"deepabyss_4000m_3812_0"
+RXN-10701	NIL	"deepabyss_4000m_4601_0"	"deepabyss_4000m_10316_0"	"deepabyss_4000m_5673_1"	"deepabyss_4000m_10780_1"	"deepabyss_4000m_7064_0"	"deepabyss_4000m_1471_0"	"deepabyss_4000m_7729_0"	"deepabyss_4000m_3812_0"
+RXN-10702	NIL	"deepabyss_4000m_1828_0"	"deepabyss_4000m_10233_0"	"deepabyss_4000m_4396_0"	"deepabyss_4000m_4253_1"	"deepabyss_4000m_4252_0"	"deepabyss_4000m_6046_0"	"deepabyss_4000m_5704_0"
+RXN-10703	NIL	"deepabyss_4000m_1828_0"	"deepabyss_4000m_10233_0"	"deepabyss_4000m_4396_0"	"deepabyss_4000m_4253_1"	"deepabyss_4000m_4252_0"	"deepabyss_4000m_6046_0"	"deepabyss_4000m_5704_0"
+R221-RXN	NIL
+RXN-10708	NIL
+MANNONDEHYDRAT-RXN	NIL
+DIHYDRODIPICSYN-RXN	"4-hydroxy-tetrahydrodipicolinate synthase"	"deepabyss_4000m_7066_0"
+RXN-11099	"<i>N</i>1-amidinostreptamine 6-phosphate aminotransferase"
+RXN-11098	"ATP:1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol 6-phosphotransferase"
+RXN-11097	"1-guanidino-1-deoxy-scyllo-inositol dehydrogenase"
+HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN	"S-adenosyl-L-methionine:L-homocysteine S-methyltransferase"
+2.7.7.60-RXN	NIL
+RXN-12277	NIL
+RXN-1143	NIL
+RXN-1142	NIL
+STREPTOMYCIN-6-KINASE-RXN	NIL
+RXN1A0-6321	NIL
+R343-RXN	NIL
+CYCLOARTENOL-SYNTHASE-RXN	NIL
+PHENYLPYRUVATE-DECARBOXYLASE-RXN	NIL
+SERINE-GLYOXYLATE-AMINOTRANSFERASE-RXN	NIL	"deepabyss_4000m_172_0"
+RXN-10838	NIL
+DIHYDROXYMETVALDEHYDRAT-RXN	"2,3-Dihydroxy-3-methylvalerate dehydratase"	"deepabyss_4000m_2297_0"	"deepabyss_4000m_3477_0"	"deepabyss_4000m_3549_0"	"deepabyss_4000m_2141_0"	"deepabyss_4000m_1314_0"	"deepabyss_4000m_8662_0"
+CREATINASE-RXN	NIL
+RXN-11277	NIL
+RXN-11272	NIL
+RXN-11501	NIL	"deepabyss_4000m_9817_0"	"deepabyss_4000m_5471_0"
+RXN-10059	NIL
+RXN-11503	NIL	"deepabyss_4000m_7980_1"	"deepabyss_4000m_601_0"	"deepabyss_4000m_4678_2"
+RXN-11502	NIL
+RXN-14025	NIL
+RXN-14026	NIL	"deepabyss_4000m_1313_0"
+RXN-5467	NIL
+RXN-12728	NIL
+DEOXYHYPUSINE-MONOOXYGENASE-RXN	NIL
+RXN3O-1803	NIL	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+SERINE-O-ACETTRAN-RXN	NIL	"deepabyss_4000m_7026_0"	"deepabyss_4000m_4695_1"	"deepabyss_4000m_627_1"
+DETHIOBIOTIN-SYN-RXN	NIL	"deepabyss_4000m_419_1"
+RXN1G-240	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+3-OXOADIPATE-COA-TRANSFERASE-RXN	NIL	"deepabyss_4000m_5186_0"	"deepabyss_4000m_9484_0"	"deepabyss_4000m_2963_0"	"deepabyss_4000m_9259_0"
+ALTRODEHYDRAT-RXN	NIL
+RXN-2141	NIL	"deepabyss_4000m_5740_0"
+GUANIDINOBUTYRASE-RXN	NIL
+RXN-8347	"&alpha;-linolenate &Delta;<sup>6</sup>-desaturase"
+RXN-9189	NIL
+GLUTAMATE-N-ACETYLTRANSFERASE-RXN	NIL	"deepabyss_4000m_6479_0"
+RXN66-525	NIL	"deepabyss_4000m_8970_0"	"deepabyss_4000m_9114_1"	"deepabyss_4000m_6494_0"	"deepabyss_4000m_10127_1"	"deepabyss_4000m_961_1"
+RXN66-526	NIL
+RXN66-521	NIL
+BRANCHED-CHAINAMINOTRANSFERLEU-RXN	NIL	"deepabyss_4000m_11044_0"	"deepabyss_4000m_364_1"	"deepabyss_4000m_8189_0"	"deepabyss_4000m_8101_0"	"deepabyss_4000m_4581_1"	"deepabyss_4000m_2072_1"	"deepabyss_4000m_10527_1"	"deepabyss_4000m_3350_1"	"deepabyss_4000m_6205_1"	"deepabyss_4000m_9667_1"
+ASPARAGHYD-RXN	NIL	"deepabyss_4000m_833_1"	"deepabyss_4000m_6973_0"	"deepabyss_4000m_10207_1"	"deepabyss_4000m_506_1"
+RXN-9987	"UDP-N-acetylglucosamine 2-epimerase (hydrolysing)"
+KETOGAL-DEHYDROXY-RXN	NIL
+RXN0-4361	NIL
+GCVP-RXN	NIL	"deepabyss_4000m_7558_0"	"deepabyss_4000m_8123_2"	"deepabyss_4000m_9198_2"	"deepabyss_4000m_8494_1"	"deepabyss_4000m_9721_0"	"deepabyss_4000m_3035_1"	"deepabyss_4000m_3385_0"	"deepabyss_4000m_4957_0"	"deepabyss_4000m_3073_0"	"deepabyss_4000m_7328_0"	"deepabyss_4000m_7329_0"	"deepabyss_4000m_2560_0"
+RXN1G-45	"cis,cis-&Delta;19,31-C50:2-[acp] reductase"
+NAG6PDEACET-RXN	NIL	"deepabyss_4000m_10865_0"
+FOLYLPOLYGLUTAMATESYNTH-RXN	NIL	"deepabyss_4000m_9268_0"	"deepabyss_4000m_9740_0"
+SUCCARGDIHYDRO-RXN	NIL
+ANTHRANSYN-RXN	NIL	"deepabyss_4000m_1293_0"	"deepabyss_4000m_5112_1"	"deepabyss_4000m_5112_0"	"deepabyss_4000m_8965_1"	"deepabyss_4000m_7175_0"
+GKI-RXN	NIL
+RXN-10	NIL	"deepabyss_4000m_3865_0"	"deepabyss_4000m_4646_0"	"deepabyss_4000m_5781_0"	"deepabyss_4000m_5607_0"
+RXN-7644	"D-sorbitol 2-dehydrogenase"	"deepabyss_4000m_2586_0"
+BUTYRYL-COA-DEHYDROGENASE-RXN	"butanoyl-CoA dehydrogenase"	"deepabyss_4000m_6921_0"	"deepabyss_4000m_10919_1"	"deepabyss_4000m_10167_0"	"deepabyss_4000m_2222_1"	"deepabyss_4000m_7152_0"
+RXN-7643	NIL
+RXN1G-202	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+RXN1G-203	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN3O-504	"sphingoid base phosphate phosphatase"
+RXN-6261	NIL	"deepabyss_4000m_3858_0"	"deepabyss_4000m_10383_1"
+1.7.7.2-RXN	NIL
+VALINE-PYRUVATE-AMINOTRANSFER-RXN	NIL	"deepabyss_4000m_4169_1"
+R345-RXN	NIL	"deepabyss_4000m_7368_1"
+LCYSDESULF-RXN	NIL	"deepabyss_4000m_5931_1"
+RXN-9521	"<i>trans</i> hex-2-enoyl-[acp] reductase (NADPH, B-specific)"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+RXN-9520	"3-hydroxyhexanoyl-[acyl-carrier protein] dehydratase"
+RXN-9523	"3-oxo-octanoyl-[acyl-carrier protein] synthase"
+RXN-9524	"3-oxo-octanoyl-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+RXN-9527	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN-9526	"<i>trans</i> oct-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-9528	"3-oxo-decanoyl-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+5-METHYLTHIOADENOSINE-PHOSPHORYLASE-RXN	NIL	"deepabyss_4000m_6608_1"	"deepabyss_4000m_1937_0"
+NADPYROPHOSPHAT-RXN	NIL	"deepabyss_4000m_10213_1"	"deepabyss_4000m_4230_0"	"deepabyss_4000m_7815_0"
+RXN1G-374	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+RXN1G-377	"cis-delta15-3-hydroxyC34:1-[acyl-carrier protein] dehydratase"
+BIOTINLIG-RXN	NIL
+3.5.4.22-RXN	NIL
+UDP-NACMURALGLDAPAALIG-RXN	"UDP-<I>N</I>-acetylmuramoyl-L-alanyl-D-glutamyl-<I>meso</I>-2,6-diaminopimelate ligase"	"deepabyss_4000m_3179_0"
+TDPFUCACTRANS-RXN	"dTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase"
+INOPHOSPHOR-RXN	"inosine phosphorylase"
+RXN-13720	NIL	"deepabyss_4000m_3593_0"	"deepabyss_4000m_6871_0"	"deepabyss_4000m_10700_0"
+2.1.1.86-RXN	NIL
+GUANIDINOBUTANAMIDE-NH3-RXN	NIL	"deepabyss_4000m_1408_0"	"deepabyss_4000m_4459_0"	"deepabyss_4000m_3108_0"	"deepabyss_4000m_7439_0"	"deepabyss_4000m_956_0"	"deepabyss_4000m_3259_0"	"deepabyss_4000m_4321_0"	"deepabyss_4000m_6594_0"	"deepabyss_4000m_941_0"	"deepabyss_4000m_5624_1"	"deepabyss_4000m_6146_1"	"deepabyss_4000m_6513_0"	"deepabyss_4000m_5549_0"	"deepabyss_4000m_9915_0"	"deepabyss_4000m_7553_0"	"deepabyss_4000m_403_0"	"deepabyss_4000m_3909_0"
+RXN-13909	NIL
+RXN-13908	NIL	"deepabyss_4000m_1069_1"	"deepabyss_4000m_3463_0"	"deepabyss_4000m_7449_1"
+RXN-13907	NIL
+RXN-7737	NIL	"deepabyss_4000m_1459_1"
+RXN-7733	NIL
+1.5.1.20-RXN	NIL	"deepabyss_4000m_7036_1"	"deepabyss_4000m_7561_1"	"deepabyss_4000m_8852_0"
+RXN0-6484	NIL
+RXN0-6485	NIL
+FPPSYN-RXN	NIL	"deepabyss_4000m_2303_1"
+RXN-12081	"galactitol dehydrogenase"
+METHELENE-THMPT-OXI-RXN	NIL	"deepabyss_4000m_2972_1"	"deepabyss_4000m_6963_0"
+HISTOLDEHYD-RXN	"Histidinol dehydrogenase"	"deepabyss_4000m_832_0"	"deepabyss_4000m_1123_0"	"deepabyss_4000m_10247_1"
+RXN0-5182	"maltodextrin phosphorylase"	"deepabyss_4000m_2619_1"	"deepabyss_4000m_6635_1"	"deepabyss_4000m_6635_0"	"deepabyss_4000m_476_0"
+RXN0-5183	NIL	"deepabyss_4000m_5740_0"
+RXN-12520	NIL
+RXN-12521	NIL
+RXN-821	NIL	"deepabyss_4000m_5996_0"	"deepabyss_4000m_6046_1"
+ALDOSE-1-EPIMERASE-RXN	NIL
+RXN-600	NIL	"deepabyss_4000m_7041_0"	"deepabyss_4000m_7395_1"
+2.3.1.168-RXN	NIL	"deepabyss_4000m_6456_0"	"deepabyss_4000m_7374_0"	"deepabyss_4000m_4684_0"
+RXN-10908	"adrenaline oxidase"	"deepabyss_4000m_3301_1"	"deepabyss_4000m_10648_1"
+RXN-10909	"adrenaline <i>O</i>-methyltransferase"
+RXN1G-554	"3-cis,cis-delta15,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN1G-557	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+ASPAMINOTRANS-RXN	NIL	"deepabyss_4000m_3104_1"	"deepabyss_4000m_7653_0"	"deepabyss_4000m_10235_0"	"deepabyss_4000m_9094_0"	"deepabyss_4000m_2789_1"	"deepabyss_4000m_8495_0"	"deepabyss_4000m_9898_0"	"deepabyss_4000m_5166_0"	"deepabyss_4000m_9356_0"	"deepabyss_4000m_5548_0"	"deepabyss_4000m_1646_1"
+PROTOHEMEFERROCHELAT-RXN	NIL	"deepabyss_4000m_6343_0"	"deepabyss_4000m_6662_0"	"deepabyss_4000m_1897_0"	"deepabyss_4000m_2257_0"
+RXN-10906	"noradrenaline <i>O</i>-methyltransferase"
+RXN-10907	"noradrenaline oxidase"	"deepabyss_4000m_3301_1"	"deepabyss_4000m_10648_1"
+RXN-12746	"3-[(3a<i>S</i>,4<i>S</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA ligase"	"deepabyss_4000m_398_0"	"deepabyss_4000m_8171_0"	"deepabyss_4000m_4683_0"	"deepabyss_4000m_9525_0"	"deepabyss_4000m_6837_1"	"deepabyss_4000m_1986_0"	"deepabyss_4000m_6298_0"	"deepabyss_4000m_9866_0"	"deepabyss_4000m_6394_0"	"deepabyss_4000m_8511_0"	"deepabyss_4000m_9890_0"	"deepabyss_4000m_4730_0"	"deepabyss_4000m_989_0"	"deepabyss_4000m_6937_0"	"deepabyss_4000m_1961_0"
+RXN-12747	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA 5-dehydrogenase"
+RXN-12744	"3-oxo-23,24-bisnorchol-4,17(20)-dien-22-oyl-CoA hydratase"
+RXN-12745	"3-oxo-23,24-bisnorchol-4-en-17-ol-22-oyl-CoA lyase"
+RXN-12743	"3-oxo-23,24-bisnorchol-4-en-22-oyl-CoA 17(20)-dehydrogenase"
+BIOTIN-CARBOXYL-RXN	NIL	"deepabyss_4000m_6117_0"	"deepabyss_4000m_8420_0"
+RXN-12748	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA dehydrogenase"
+RXN-12749	"(2<i>E</i>)-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]prop-2-enoate hydratase"
+MHPELY-RXN	NIL	"deepabyss_4000m_9987_0"
+GLUCONOLACT-RXN	NIL
+MHPHYDROXY-RXN	NIL
+PANTOATE-BETA-ALANINE-LIG-RXN	NIL	"deepabyss_4000m_161_0"	"deepabyss_4000m_7570_0"	"deepabyss_4000m_4892_0"
+RXN-12203	NIL
+F16ALDOLASE-RXN	NIL	"deepabyss_4000m_4962_0"	"deepabyss_4000m_9678_0"
+ISOCITRATE-DEHYDROGENASE-NAD+-RXN	NIL
+3.4.15.6-RXN	NIL
+DXS-RXN	NIL	"deepabyss_4000m_7965_0"	"deepabyss_4000m_10373_0"
+GLUC1PADENYLTRANS-RXN	NIL
+RXN-10841	NIL
+RXN-10840	NIL
+1.13.11.16-RXN	NIL
+CARBON-MONOXIDE-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_5589_0"	"deepabyss_4000m_7617_0"	"deepabyss_4000m_3557_0"	"deepabyss_4000m_1251_0"	"deepabyss_4000m_6272_0"	"deepabyss_4000m_8685_0"	"deepabyss_4000m_7232_0"	"deepabyss_4000m_2510_0"	"deepabyss_4000m_1136_0"	"deepabyss_4000m_8774_0"	"deepabyss_4000m_6842_0"	"deepabyss_4000m_2225_1"	"deepabyss_4000m_2501_0"	"deepabyss_4000m_1998_0"	"deepabyss_4000m_5027_1"	"deepabyss_4000m_7131_0"	"deepabyss_4000m_1397_1"
+GART-RXN	NIL	"deepabyss_4000m_5358_0"	"deepabyss_4000m_1483_0"	"deepabyss_4000m_23_1"	"deepabyss_4000m_5049_0"
+THIOREDOXIN-RXN	NIL
+1.5.99.9-RXN	NIL
+DIHYDROFOLATEREDUCT-RXN	NIL	"deepabyss_4000m_10468_0"	"deepabyss_4000m_10302_1"
+RXN1F-72	NIL
+KETOLACTOSE-RXN	"3-ketolactose hydrolase"	"deepabyss_4000m_9038_0"
+MALEYLACETOACETATE-ISOMERASE-RXN	NIL
+ERYTHRON4PDEHYDROG-RXN	NIL
+THIOREDOXIN-REDUCT-NADPH-RXN	NIL	"deepabyss_4000m_5138_1"	"deepabyss_4000m_5138_0"	"deepabyss_4000m_137_0"	"deepabyss_4000m_6697_1"	"deepabyss_4000m_7990_1"	"deepabyss_4000m_2540_0"
+RXN-2802	NIL
+RXN-4142	NIL	"deepabyss_4000m_5406_1"	"deepabyss_4000m_6898_2"	"deepabyss_4000m_4514_0"	"deepabyss_4000m_3390_0"	"deepabyss_4000m_9826_0"	"deepabyss_4000m_429_0"	"deepabyss_4000m_3198_0"	"deepabyss_4000m_4046_0"	"deepabyss_4000m_291_0"	"deepabyss_4000m_6545_0"	"deepabyss_4000m_6738_1"	"deepabyss_4000m_9530_0"	"deepabyss_4000m_182_0"	"deepabyss_4000m_2363_0"	"deepabyss_4000m_140_1"	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"
+ACONITATEHYDR-RXN	"cis-aconitate hydratase"	"deepabyss_4000m_2604_1"	"deepabyss_4000m_8904_0"	"deepabyss_4000m_2409_0"	"deepabyss_4000m_3552_0"	"deepabyss_4000m_917_0"	"deepabyss_4000m_9959_1"	"deepabyss_4000m_8680_0"	"deepabyss_4000m_8789_0"	"deepabyss_4000m_10563_0"
+AKPTHIOL-RXN	NIL
+ACYLCOASYN-RXN	"2,3,4-saturated fatty acyl-CoA synthetase"	"deepabyss_4000m_398_0"	"deepabyss_4000m_8171_0"	"deepabyss_4000m_4683_0"	"deepabyss_4000m_9525_0"	"deepabyss_4000m_6837_1"	"deepabyss_4000m_1986_0"	"deepabyss_4000m_6298_0"	"deepabyss_4000m_9866_0"	"deepabyss_4000m_6394_0"	"deepabyss_4000m_8511_0"	"deepabyss_4000m_9890_0"	"deepabyss_4000m_4730_0"	"deepabyss_4000m_989_0"	"deepabyss_4000m_6937_0"	"deepabyss_4000m_1961_0"
+RXN-1403	NIL
+O-SUCCINYLBENZOATE-COA-SYN-RXN	NIL
+ADENYL-KIN-RXN	NIL	"deepabyss_4000m_222_1"	"deepabyss_4000m_7648_0"	"deepabyss_4000m_5221_1"
+UROPORIIIMETHYLTRANSA-RXN	"uroporphyrinogen-III <em>C</em>-methyltransferase"	"deepabyss_4000m_2832_1"	"deepabyss_4000m_2832_0"
+ISPH2-RXN	NIL	"deepabyss_4000m_78_0"	"deepabyss_4000m_8004_0"	"deepabyss_4000m_69_0"	"deepabyss_4000m_5234_0"
+DCTP-PYROPHOSPHATASE-RXN	NIL	"deepabyss_4000m_4142_0"
+DCTP-DEAM-RXN	NIL
+RXN-1405	NIL
+MYO-INOSITOL-2-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_6360_1"	"deepabyss_4000m_8389_0"
+RXN1G-32	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+MALATE-DEHYDROGENASE-ACCEPTOR-RXN	NIL	"deepabyss_4000m_2254_0"	"deepabyss_4000m_7832_0"
+6.3.2.30-RXN	NIL
+OXALYL-COA-DECARBOXYLASE-RXN	NIL
+PANTEPADENYLYLTRAN-RXN	NIL	"deepabyss_4000m_3712_0"	"deepabyss_4000m_10920_1"	"deepabyss_4000m_2728_1"	"deepabyss_4000m_2772_1"
+R222-RXN	"1-octanal dehydrogenase (NAD+)"	"deepabyss_4000m_3628_0"	"deepabyss_4000m_9508_0"	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"	"deepabyss_4000m_3085_0"
+R232-RXN	NIL
+P-PANTOCYSDECARB-RXN	NIL	"deepabyss_4000m_9235_0"	"deepabyss_4000m_8557_0"	"deepabyss_4000m_4094_1"
+GLYCDEH-RXN	NIL	"deepabyss_4000m_6495_0"
+3.5.2.14-RXN	NIL	"deepabyss_4000m_225_0"	"deepabyss_4000m_253_0"	"deepabyss_4000m_2504_0"	"deepabyss_4000m_19_0"	"deepabyss_4000m_11_1"	"deepabyss_4000m_2347_1"
+2.6.1.18-RXN	NIL	"deepabyss_4000m_769_0"
+RXN-13001	NIL
+RXN1G-1439	"6-O-trans-keto-mycolyl-trehalose-6-phosphatase"	"deepabyss_4000m_4494_0"
+RXN1G-1438	"6-O-cis-keto-mycolyl-trehalose-6-phosphatase"	"deepabyss_4000m_4494_0"
+RXN1G-37	"trans-delta2-cis-delta7-C26:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-30	"trans-docos-2-enoyl-[acyl-carrier protein] reductase"
+TRYPTOPHAN-23-DIOXYGENASE-RXN	NIL
+RXN-9086	NIL
+RXN-9087	NIL
+DHS-PHOSPHATASE-RXN	"dihydrosphingosine phosphatase"
+RXN1G-1435	"6-O-mycolyl-trehalose-6-phosphatase"	"deepabyss_4000m_4494_0"
+RXN1G-1437	"6-O-trans-methoxy-mycolyl-trehalose-6-phosphatase"	"deepabyss_4000m_4494_0"
+RXN1G-1436	"6-O-cis-methoxy-mycolyl-trehalose-6-phosphatase"	"deepabyss_4000m_4494_0"
+RXN1G-891	"3-oxo-C87-trans-mycolate synthase"
+RXN1G-890	"3-oxo-C86-cis-keto-mycolate synthase"
+ALANINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_5204_0"	"deepabyss_4000m_4660_0"	"deepabyss_4000m_7652_0"	"deepabyss_4000m_7848_0"	"deepabyss_4000m_4049_0"	"deepabyss_4000m_1629_0"	"deepabyss_4000m_7941_1"
+RXN-9952	NIL	"deepabyss_4000m_4827_0"
+HISTALDEHYD-RXN	"Histidinal dehydrogenase"	"deepabyss_4000m_832_0"	"deepabyss_4000m_1123_0"	"deepabyss_4000m_10247_1"
+3-ISOPROPYLMALDEHYDROG-RXN	"3-isopropylmalate dehydrogenase"	"deepabyss_4000m_6423_0"	"deepabyss_4000m_400_0"	"deepabyss_4000m_791_0"	"deepabyss_4000m_1691_0"	"deepabyss_4000m_2846_0"	"deepabyss_4000m_4774_0"	"deepabyss_4000m_6122_0"
+GLUTAMINE-N-PHENYLACETYLTRANSFERASE-RXN	NIL
+PRTRANS-RXN	NIL	"deepabyss_4000m_5655_0"	"deepabyss_4000m_4092_1"	"deepabyss_4000m_4428_0"	"deepabyss_4000m_8248_0"
+RXN0-1861	NIL
+RXN-13646	"linustatin &beta;-diglucosidase"
+UTPHEXPURIDYLYLTRANS-RXN	NIL
+2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN	NIL
+RXN-6384	NIL
+MHPCHYDROL-RXN	NIL
+RXN-6383	NIL
+RXN-9554	"Petrosel-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-9555	NIL
+RXN-9556	"3-oxo-<i>cis</i>-vaccenoyl-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"
+RXN-9557	"3-hydroxy-cis-vaccenoyl-[acyl-carrier protein] dehydratase"
+RXN-9550	NIL
+RXN-9551	NIL
+RXN-9552	"3-oxo-petroslinoyl-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"
+RXN-9553	"3-hydroxypetroselinoyl-[acyl-carrier protein] dehydratase"
+RXN-11713	NIL
+RXN-9558	NIL
+RXN0-5227	NIL	"deepabyss_4000m_2779_0"
+RXN0-5224	NIL	"deepabyss_4000m_4044_0"	"deepabyss_4000m_3949_0"	"deepabyss_4000m_3632_1"
+RXN1G-309	"cis,cis-delta9,21-3-hydroxyC40:2-[acyl-carrier protein] dehydratase"
+RXN1G-308	"cis,cis-delta7,19-3-hydroxyC38:2-[acyl-carrier protein] dehydratase"
+RXN1G-306	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] synthase"
+R231-RXN	NIL	"deepabyss_4000m_5406_0"	"deepabyss_4000m_1017_0"
+RXN-12193	"4-&alpha;-glucosyltransferase"	"deepabyss_4000m_8808_1"
+RXN-12190	"&alpha;-amylase"
+RXN-12197	NIL
+RXN-12196	NIL	"deepabyss_4000m_4331_0"	"deepabyss_4000m_7806_0"	"deepabyss_4000m_6501_0"	"deepabyss_4000m_7020_0"	"deepabyss_4000m_6561_0"
+RXN-12195	NIL	"deepabyss_4000m_4331_0"	"deepabyss_4000m_7806_0"
+RXN-12198	NIL
+2.6.1.30-RXN	NIL
+RXN-12370	NIL
+RXN-13730	"inositol-phospho-&alpha; hydroxyphytoceramide phospholipase"
+RXN-13731	"mannosyl-inositol-phospho-&alpha; hydroxyphytoceramide phospholipase"
+RXN-12609	NIL
+RXN-13733	"dihydroceramidase"
+KYNURENINASE-RXN	NIL	"deepabyss_4000m_3716_0"
+RXN-7657	"isobutanol dehydrogenase"	"deepabyss_4000m_2879_1"	"deepabyss_4000m_360_1"	"deepabyss_4000m_1634_1"	"deepabyss_4000m_425_0"	"deepabyss_4000m_255_1"	"deepabyss_4000m_6235_0"	"deepabyss_4000m_5041_0"	"deepabyss_4000m_11026_0"	"deepabyss_4000m_1036_1"	"deepabyss_4000m_3085_1"
+RXN-36	NIL
+RXN-37	NIL	"deepabyss_4000m_5406_1"	"deepabyss_4000m_6898_2"	"deepabyss_4000m_4514_0"	"deepabyss_4000m_3390_0"	"deepabyss_4000m_9826_0"	"deepabyss_4000m_429_0"	"deepabyss_4000m_3198_0"	"deepabyss_4000m_4046_0"	"deepabyss_4000m_291_0"	"deepabyss_4000m_6545_0"	"deepabyss_4000m_6738_1"	"deepabyss_4000m_9530_0"	"deepabyss_4000m_182_0"	"deepabyss_4000m_2363_0"	"deepabyss_4000m_140_1"	"deepabyss_4000m_3628_0"	"deepabyss_4000m_9508_0"	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"	"deepabyss_4000m_3085_0"
+RXN-34	NIL	"deepabyss_4000m_9855_0"
+RXN-12998	NIL
+3.8.1.8-RXN	NIL
+RXN-12997	NIL
+RXN-12994	NIL	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN-8850	NIL	"deepabyss_4000m_7746_0"
+R223-RXN	"octanoyl-CoA ligase"	"deepabyss_4000m_1961_0"
+ADENYLYLSULFATE-REDUCTASE-RXN	NIL	"deepabyss_4000m_5359_0"	"deepabyss_4000m_666_1"	"deepabyss_4000m_4163_0"	"deepabyss_4000m_666_0"
+GLYCERALDEHYDE-DEHYDRO-RXN	"glyceraldehyde dehydrogenase (FAD-containing)"
+GABATRANSAM-RXN	NIL
+2.6.1.50-RXN	NIL	"deepabyss_4000m_10922_1"	"deepabyss_4000m_968_0"
+OHMETHYLBILANESYN-RXN	NIL	"deepabyss_4000m_9932_1"	"deepabyss_4000m_7537_1"
+TEICHOICSYN2-RXN	NIL
+RXN-12519	NIL	"deepabyss_4000m_1892_0"
+RXN-12518	NIL
+RXN-4602	NIL
+PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN	NIL	"deepabyss_4000m_7900_1"	"deepabyss_4000m_3664_0"	"deepabyss_4000m_3465_0"
+LINOLENOYL-RXN	"&alpha;-linolenate&mdash;CoA ligase"	"deepabyss_4000m_398_0"	"deepabyss_4000m_8171_0"	"deepabyss_4000m_4683_0"	"deepabyss_4000m_9525_0"	"deepabyss_4000m_6837_1"	"deepabyss_4000m_1986_0"	"deepabyss_4000m_6298_0"	"deepabyss_4000m_9866_0"	"deepabyss_4000m_6394_0"	"deepabyss_4000m_8511_0"	"deepabyss_4000m_9890_0"	"deepabyss_4000m_4730_0"	"deepabyss_4000m_989_0"	"deepabyss_4000m_6937_0"	"deepabyss_4000m_1961_0"
+RXN0-6427	"guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase"
+GLYCOPHOSPHORYL-RXN	"glycogen phosphorylase"	"deepabyss_4000m_2619_1"	"deepabyss_4000m_6635_1"	"deepabyss_4000m_6635_0"	"deepabyss_4000m_476_0"
+4.2.1.61-RXN	"3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	NIL	"deepabyss_4000m_8805_0"	"deepabyss_4000m_4321_1"	"deepabyss_4000m_10163_0"	"deepabyss_4000m_3226_0"	"deepabyss_4000m_2254_0"	"deepabyss_4000m_7832_0"
+1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN	"1-acylglycerol-3-phosphate O-acyltransferase"
+2.3.1.49-RXN	NIL
+RXN1G-526	"trans-tetracos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+3.2.1.8-RXN	NIL	"deepabyss_4000m_1233_1"
+LCARNCOALIG-RXN	NIL
+RXN-12777	"3-oxo-dihomo &gamma; linolenoyl-[acp] synthase"
+RXN4FS-12	NIL
+RXN-8457	NIL
+R23-RXN	NIL
+RXN-12171	"maltodextrin phosphorylase"	"deepabyss_4000m_2619_1"	"deepabyss_4000m_6635_1"	"deepabyss_4000m_6635_0"	"deepabyss_4000m_476_0"
+RXN-5641	NIL
+RXN-5642	NIL	"deepabyss_4000m_9161_0"
+RXN-5643	NIL	"deepabyss_4000m_9161_0"
+RUBREDOXIN--NAD+-REDUCTASE-RXN	NIL	"deepabyss_4000m_2997_0"	"deepabyss_4000m_817_1"
+SUCCSEMIALDDEHYDROG-RXN	NIL
+NICOTINATEPRIBOSYLTRANS-RXN	NIL
+RXN-5647	NIL
+RXN-1381	NIL	"deepabyss_4000m_7923_0"	"deepabyss_4000m_7347_0"
+RXN0-6512	"3-oxo-5,6-dehydrosuberyl-CoA thiolase"
+RXN0-6513	"2,3-dehydroadipyl-CoA hydratase"	"deepabyss_4000m_4668_1"	"deepabyss_4000m_4336_0"	"deepabyss_4000m_5816_0"	"deepabyss_4000m_8082_1"	"deepabyss_4000m_5633_0"	"deepabyss_4000m_2259_0"	"deepabyss_4000m_5156_0"	"deepabyss_4000m_8883_0"	"deepabyss_4000m_6342_1"	"deepabyss_4000m_8257_0"	"deepabyss_4000m_9400_0"	"deepabyss_4000m_1371_0"	"deepabyss_4000m_6123_0"	"deepabyss_4000m_9607_0"	"deepabyss_4000m_6489_1"	"deepabyss_4000m_1397_0"	"deepabyss_4000m_8029_0"
+RXN-8799	NIL
+DEOXYGUANPHOSPHOR-RXN	NIL
+RXN-8631	NIL	"deepabyss_4000m_4962_0"	"deepabyss_4000m_9678_0"
+RXN1G-637	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+ADDALT-RXN	NIL	"deepabyss_4000m_9055_0"
+RXN-5464	NIL
+RXN-5466	NIL
+1.3.7.4-RXN	NIL
+TRANS-RXN0-277	NIL	"deepabyss_4000m_3719_0"	"deepabyss_4000m_10902_1"	"deepabyss_4000m_10659_1"	"deepabyss_4000m_10946_1"	"deepabyss_4000m_10946_0"	"deepabyss_4000m_7671_0"	"deepabyss_4000m_123_0"	"deepabyss_4000m_7593_0"	"deepabyss_4000m_7544_0"	"deepabyss_4000m_112_1"	"deepabyss_4000m_112_0"	"deepabyss_4000m_2109_0"	"deepabyss_4000m_4306_1"	"deepabyss_4000m_5540_2"	"deepabyss_4000m_5540_1"
+RXN-5462	NIL
+RXN-5463	NIL
+RXN3DJ-170	NIL	"deepabyss_4000m_5352_0"	"deepabyss_4000m_5708_0"
+RXN-5468	NIL
+RXN-5469	NIL
+BENZYL-ALC-DEHYDROGENASE-RXN	"benzyl alcohol dehydrogenase"	"deepabyss_4000m_4524_0"
+RXN-10836	NIL
+METHYLGLUTACONYL-COA-HYDRATASE-RXN	NIL	"deepabyss_4000m_10772_1"
+RXN-10445	"3-fumarylpyruvate hydrolase"
+RXN-10837	NIL
+GLUTDEHYD-RXN	NIL	"deepabyss_4000m_7775_0"	"deepabyss_4000m_3845_0"	"deepabyss_4000m_1874_0"	"deepabyss_4000m_2068_0"	"deepabyss_4000m_5551_1"	"deepabyss_4000m_6439_0"	"deepabyss_4000m_6694_0"	"deepabyss_4000m_2221_1"	"deepabyss_4000m_6160_0"	"deepabyss_4000m_928_0"	"deepabyss_4000m_1601_0"	"deepabyss_4000m_7516_0"	"deepabyss_4000m_10775_0"	"deepabyss_4000m_9661_0"	"deepabyss_4000m_443_1"	"deepabyss_4000m_11068_0"
+PROLINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_2686_0"	"deepabyss_4000m_6566_0"
+AIRCARBOXY-RXN	NIL	"deepabyss_4000m_10031_1"
+UDPNACETYLGLUCOSAMACYLTRANS-RXN	NIL	"deepabyss_4000m_2675_1"	"deepabyss_4000m_9700_0"
+RXN-11211	NIL	"deepabyss_4000m_550_0"	"deepabyss_4000m_8562_1"
+RXN-11210	NIL	"deepabyss_4000m_8203_0"
+RXN-11213	NIL	"deepabyss_4000m_10490_0"	"deepabyss_4000m_924_0"
+RXN-8037	NIL
+TEICHOICSYN5-RXN	NIL
+RXN-5061	NIL	"deepabyss_4000m_8852_0"
+RXN0-5228	NIL
+CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	NIL
+HCAMULTI-RXN	NIL	"deepabyss_4000m_2271_0"	"deepabyss_4000m_2795_0"
+RXNMETA-12672	NIL
+RXN490-3650	NIL
+RXN0-2381	NIL	"deepabyss_4000m_4863_0"	"deepabyss_4000m_4797_0"	"deepabyss_4000m_5426_0"	"deepabyss_4000m_3898_0"	"deepabyss_4000m_5488_0"	"deepabyss_4000m_8138_0"
+RXN-10100	NIL	"deepabyss_4000m_1350_0"	"deepabyss_4000m_4082_0"
+RXN-10101	NIL
+RXN-10106	NIL
+RXN-10107	NIL
+PHOSACETYLTRANS-RXN	NIL
+RXN-11325	NIL
+RXN-11324	"laurate hydroxylase"
+ACSERLY-RXN	NIL	"deepabyss_4000m_598_0"	"deepabyss_4000m_10077_0"	"deepabyss_4000m_2927_0"	"deepabyss_4000m_627_0"
+RXN0-6483	NIL
+GERANOYL-COA-CARBOXYLASE-RXN	NIL	"deepabyss_4000m_808_0"
+FORMATETHFLIG-RXN	NIL	"deepabyss_4000m_2882_0"	"deepabyss_4000m_4585_0"	"deepabyss_4000m_5323_0"	"deepabyss_4000m_6477_0"	"deepabyss_4000m_6738_0"	"deepabyss_4000m_10851_0"
+METHIONINE-GAMMA-LYASE-RXN	NIL	"deepabyss_4000m_8170_1"
+RXN66-1	NIL	"deepabyss_4000m_6522_0"	"deepabyss_4000m_1923_1"	"deepabyss_4000m_861_0"	"deepabyss_4000m_4226_0"
+RXN66-3	"acetaldehyde dehydrogenase (NAD+)"	"deepabyss_4000m_5406_1"	"deepabyss_4000m_6898_2"	"deepabyss_4000m_4514_0"	"deepabyss_4000m_3390_0"	"deepabyss_4000m_9826_0"	"deepabyss_4000m_429_0"	"deepabyss_4000m_3198_0"	"deepabyss_4000m_4046_0"	"deepabyss_4000m_291_0"	"deepabyss_4000m_6545_0"	"deepabyss_4000m_6738_1"	"deepabyss_4000m_9530_0"	"deepabyss_4000m_182_0"	"deepabyss_4000m_2363_0"	"deepabyss_4000m_140_1"
+2.4.1.141-RXN	NIL
+GCVT-RXN	NIL	"deepabyss_4000m_9650_0"	"deepabyss_4000m_9198_0"	"deepabyss_4000m_7006_1"	"deepabyss_4000m_866_0"	"deepabyss_4000m_4812_0"	"deepabyss_4000m_3895_0"	"deepabyss_4000m_8666_0"	"deepabyss_4000m_6124_0"	"deepabyss_4000m_10065_0"	"deepabyss_4000m_10281_1"	"deepabyss_4000m_433_1"
+RXN-2121	NIL
+RXN-2122	NIL
+RXN1G-1530	"3-oxo-C87-trans-keto-mycolate reductase"
+ALANINE-AMINOTRANSFERASE-RXN	NIL
+ISOCHORSYN-RXN	NIL
+R310-RXN	"acrylonitrile hydratase"	"deepabyss_4000m_8310_1"	"deepabyss_4000m_5609_2"
+RXN-12709	NIL	"deepabyss_4000m_1828_0"	"deepabyss_4000m_10233_0"	"deepabyss_4000m_4396_0"	"deepabyss_4000m_4253_1"	"deepabyss_4000m_4252_0"	"deepabyss_4000m_6046_0"	"deepabyss_4000m_5704_0"
+RXN0-5390	NIL
+FORMYLMETHANOFURAN-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_3464_0"
+2.7.7.15-RXN	NIL	"deepabyss_4000m_10885_1"
+FADSYN-RXN	NIL	"deepabyss_4000m_5668_0"	"deepabyss_4000m_7302_1"
+DHDOGALDOL-RXN	NIL
+RXN-13037	"octanoyl:GcvH transferase"
+RXN-13036	"octanoyl-[GcvH]:protein <i>N</i>-octanoyltransferase"
+6PGLUCONDEHYDROG-RXN	"phosphogluconate dehydrogenase [NAD(P)+-dependent, decarboxylating]"
+RXN0-4342	NIL
+RXN0-4341	NIL
+PROLINE-MULTI	NIL
+6.3.5.6-RXN	NIL	"deepabyss_4000m_729_0"	"deepabyss_4000m_6580_0"	"deepabyss_4000m_4966_0"	"deepabyss_4000m_1453_0"	"deepabyss_4000m_775_0"	"deepabyss_4000m_9683_0"	"deepabyss_4000m_4758_0"	"deepabyss_4000m_317_0"	"deepabyss_4000m_1917_0"
+PHEAMINOTRANS-RXN	"phenylalanine transaminase"
+RXN1G-27	"cis-delta5-3-hydroxyC24:1-[acyl-carrier protein] dehydratase"
+RXN1G-26	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN-9092	NIL
+RXN1G-2527	"cis,cis-&Delta;19-37-C56:2-[acp] reductase"
+RXN-13732	"mannosyl-diphosphoinositol-ceramide phospholipase"
+1.18.1.2-RXN	NIL	"deepabyss_4000m_1834_1"	"deepabyss_4000m_9729_0"	"deepabyss_4000m_8815_0"	"deepabyss_4000m_10723_0"
+RXN1G-886	"3-oxo-C78-&alpha;-mycolate synthase"
+RXN1G-887	"3-oxo-C85-cis-methoxy-mycolate-synthase"
+RXN1G-884	"cis,cis-delta11,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+RXN-11989	NIL
+UDPMANNACADEHYDROG-RXN	"UDP-N-acetyl-D-mannosamine dehydrogenase"
+RXN1G-881	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+UREA-CARBOXYLASE-RXN	NIL
+RXN1G-888	"3-oxo-C86-trans-methoxy-mycolate-synthase"
+5.4.99.17-RXN	NIL	"deepabyss_4000m_217_0"	"deepabyss_4000m_9869_0"
+RXN1G-951	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+AMYLOMALT-RXN	"4-&alpha;-glucanotransferase"	"deepabyss_4000m_8808_1"
+1.21.3.1-RXN	NIL	"deepabyss_4000m_5238_1"
+RXN-9542	"<i>trans</i> hexadecenoyl-[acp] reductase (NADPH, B-specific)"
+RXN-9540	"3-oxo-palmitoyl-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+RXN-9549	NIL
+RXN-9548	NIL
+RXN-13698	NIL
+RXN-13697	NIL	"deepabyss_4000m_3104_1"	"deepabyss_4000m_7653_0"	"deepabyss_4000m_10235_0"	"deepabyss_4000m_9094_0"	"deepabyss_4000m_2789_1"	"deepabyss_4000m_8495_0"	"deepabyss_4000m_9898_0"	"deepabyss_4000m_5166_0"	"deepabyss_4000m_9356_0"	"deepabyss_4000m_5548_0"	"deepabyss_4000m_1646_1"
+RXN66-472	"fatty aldehyde dehydrogenase"	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"
+RXN66-471	"2-hydroxy-3-methyl-branched fatty acyl-CoA lyase"
+RXN66-470	"3-methyl-branched fatty acyl-CoA 2-hydroxylase"	"deepabyss_4000m_9162_0"	"deepabyss_4000m_7690_0"
+CROBETREDUCT-RXN	NIL
+GTP-CYCLOHYDRO-II-RXN	NIL
+RXN-12614	"glycine oxidase"
+1.10.2.2-RXN	NIL	"deepabyss_4000m_9718_0"	"deepabyss_4000m_4793_0"	"deepabyss_4000m_10036_0"	"deepabyss_4000m_3099_1"	"deepabyss_4000m_3099_0"
+RXN-12610	"thiamine-phosphate diphosphorylase"	"deepabyss_4000m_1422_0"
+RXN-12611	"thiamin phosphate synthase"	"deepabyss_4000m_1422_0"
+RXN-12612	"formylaminopyrimidine deformylase"
+RXN-12613	NIL	"deepabyss_4000m_8003_0"
+6.2.1.34-RXN	NIL
+TRANS-CINNAMATE-2-MONOOXYGENASE-RXN	NIL
+RXN-25	NIL
+THYMIDYLATESYN-RXN	NIL
+DHLAXANAU-RXN	"1,2-dichloroethane dehalogenase"	"deepabyss_4000m_5581_1"
+RXN-22	NIL	"deepabyss_4000m_5205_0"	"deepabyss_4000m_2402_1"	"deepabyss_4000m_10129_0"	"deepabyss_4000m_4656_0"	"deepabyss_4000m_6730_1"
+PRPPSYN-RXN	NIL	"deepabyss_4000m_5672_0"	"deepabyss_4000m_4908_1"	"deepabyss_4000m_3523_0"	"deepabyss_4000m_153_0"	"deepabyss_4000m_1372_0"	"deepabyss_4000m_4945_0"	"deepabyss_4000m_4345_1"	"deepabyss_4000m_1872_0"	"deepabyss_4000m_8466_0"
+RXN-13968	NIL
+SCYLLO-INOSAMINE-KINASE-RXN	NIL
+RXN-35	NIL
+SHIKIMATE-KINASE-RXN	NIL	"deepabyss_4000m_7443_1"
+RXN1G-408	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN1G-409	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+2.3.1.180-RXN	NIL	"deepabyss_4000m_10764_1"
+CDPDIGLYSYN-RXN	NIL	"deepabyss_4000m_10761_0"
+PYRUVFORMLY-RXN	NIL
+RXN-8930	NIL
+RXN1G-536	"cerotoyl-[acyl-carrier protein] reductase"
+3-OXOACYL-ACP-SYNTH-RXN	"3-oxoacyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"	"deepabyss_4000m_6039_0"
+6.3.2.29-RXN	NIL	"deepabyss_4000m_9223_0"	"deepabyss_4000m_8484_0"
+RXN-8441	"nicotinamide-&beta;-riboside hydrolase"
+RXN-8443	NIL
+RXN-8442	NIL
+2.5.1.64-RXN	NIL
+RXN-8447	NIL
+RXN-4122	NIL
+PRODISULFREDUCT-A-RXN	"glutaredoxin reductase (glutathione)"
+RXN1G-3660	"cis-delta21-39-hydroxy-40-methyl-C59:1-[acp] synthase"
+RXN-4121	NIL
+RXN1G-3667	"trans-&Delta;20-39-hydroxy-40-methyl-C60:1-[acp] reductase"
+2.3.1.101-RXN	NIL
+DIHYDROXYISOVALDEHYDRAT-RXN	NIL	"deepabyss_4000m_2297_0"	"deepabyss_4000m_3477_0"	"deepabyss_4000m_3549_0"	"deepabyss_4000m_2141_0"	"deepabyss_4000m_1314_0"	"deepabyss_4000m_8662_0"
+DGDPKIN-RXN	NIL
+RXN-10829	NIL
+RXN-10828	"1-carboxyvinyl carboxyphosphonate phosphorylmutase (decarboxylating)"	"deepabyss_4000m_4214_0"	"deepabyss_4000m_3538_0"
+RXN-10824	"2-hydroxyethylphosphonate dioxygenase"
+RXN-10827	"carboxyvinyl-carboxyphosphonate phosphorylmutase"	"deepabyss_4000m_4214_0"	"deepabyss_4000m_3538_0"
+RXN-10826	NIL
+RXN-10821	NIL
+RXN-11667	"(S)-3-hydroxybutanoyl-CoA dehydrogenase"	"deepabyss_4000m_8029_0"
+RXN-8629	"dihydrolipoyl dehydrogenase"
+RXN-11662	NIL
+MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN	NIL	"deepabyss_4000m_71_0"	"deepabyss_4000m_8024_0"
+RXN-7101	NIL
+PYRROLINECARBREDUCT-RXN	NIL	"deepabyss_4000m_8435_0"
+RXN-5472	NIL
+RXN-5471	NIL
+RXN-5470	NIL
+RXN-11682	NIL
+RXN-11680	"linoleate &Delta;<sup>6</sup>-desaturase"	"deepabyss_4000m_7660_0"	"deepabyss_4000m_517_0"
+RXN-11681	"&gamma;-linolenate &Delta;<sup>6</sup>-acetylenase"
+METHYLACYLYLCOA-HYDROXY-RXN	"Methylacrylyl-CoA hydratase"	"deepabyss_4000m_4668_1"	"deepabyss_4000m_4336_0"	"deepabyss_4000m_5816_0"	"deepabyss_4000m_8082_1"	"deepabyss_4000m_5633_0"	"deepabyss_4000m_2259_0"	"deepabyss_4000m_5156_0"	"deepabyss_4000m_8883_0"	"deepabyss_4000m_6342_1"	"deepabyss_4000m_8257_0"	"deepabyss_4000m_9400_0"	"deepabyss_4000m_1371_0"	"deepabyss_4000m_6123_0"	"deepabyss_4000m_9607_0"	"deepabyss_4000m_6489_1"	"deepabyss_4000m_1397_0"	"deepabyss_4000m_8029_0"
+3.2.1.120-RXN	NIL
+OCTAPRENYL-METHYL-METHOXY-BENZOQ-OH-RXN	NIL
+BILIVERDIN-REDUCTASE-RXN	NIL
+ACETYLORNDEACET-RXN	NIL	"deepabyss_4000m_2390_0"	"deepabyss_4000m_5440_1"	"deepabyss_4000m_9195_1"	"deepabyss_4000m_7995_0"	"deepabyss_4000m_10426_0"
+RXN-12104	NIL
+RXN-11209	NIL
+RXN-14014	"4-hydroxy-tetrahydrodipicolinate reductase"
+PROPIONYL-COA-CARBOXY-RXN	NIL	"deepabyss_4000m_9529_1"	"deepabyss_4000m_8634_0"	"deepabyss_4000m_10270_0"	"deepabyss_4000m_4675_0"	"deepabyss_4000m_8686_0"	"deepabyss_4000m_786_0"	"deepabyss_4000m_2028_0"
+R545-RXN	NIL
+PHOSPHOLIPASE-C-RXN	NIL	"deepabyss_4000m_4792_1"
+RXN0-302	NIL	"deepabyss_4000m_3647_0"	"deepabyss_4000m_1754_0"	"deepabyss_4000m_3702_1"
+RXN0-308	"cysteine desulfurase"	"deepabyss_4000m_3318_0"	"deepabyss_4000m_5489_0"	"deepabyss_4000m_10238_0"	"deepabyss_4000m_1490_1"	"deepabyss_4000m_8555_0"	"deepabyss_4000m_554_1"	"deepabyss_4000m_251_1"	"deepabyss_4000m_8929_0"	"deepabyss_4000m_5235_0"	"deepabyss_4000m_10104_1"	"deepabyss_4000m_5642_1"	"deepabyss_4000m_6178_0"	"deepabyss_4000m_10996_0"	"deepabyss_4000m_146_2"	"deepabyss_4000m_146_0"
+RXN-10139	"L-tryptophan--pyruvate aminotransferase"
+RXN-3443	NIL	"deepabyss_4000m_5406_1"	"deepabyss_4000m_6898_2"	"deepabyss_4000m_4514_0"	"deepabyss_4000m_3390_0"	"deepabyss_4000m_9826_0"	"deepabyss_4000m_429_0"	"deepabyss_4000m_3198_0"	"deepabyss_4000m_4046_0"	"deepabyss_4000m_291_0"	"deepabyss_4000m_6545_0"	"deepabyss_4000m_6738_1"	"deepabyss_4000m_9530_0"	"deepabyss_4000m_182_0"	"deepabyss_4000m_2363_0"	"deepabyss_4000m_140_1"	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"
+PROPIONATE-COA-TRANSFERASE-RXN	NIL
+3.5.4.27-RXN	NIL
+UROCANATE-HYDRATASE-RXN	NIL	"deepabyss_4000m_4319_1"
+RXN1G-1529	"3-oxo-C86-cis-keto-mycolate-reductase"
+RXN1G-1528	"3-oxo-C86-trans-methoxy-mycolate-reductase"
+RXN1G-1527	"3-oxo-C85-cis-methoxy-mycolate reductase"
+RXN-1623	NIL
+GLUTCYSLIG-RXN	NIL	"deepabyss_4000m_771_1"	"deepabyss_4000m_2386_1"
+R147-RXN	NIL
+RXN-11712	"5-chloro-5-deoxy-D-ribose-1-dehydrogenase"
+4.2.1.59-RXN	"3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+RXN-10695	NIL
+2-OCTAPRENYL-6-OHPHENOL-METHY-RXN	"2-octaprenyl-6-hydroxyphenyl methylase"
+CDPKIN-RXN	NIL	"deepabyss_4000m_11058_1"	"deepabyss_4000m_6763_1"	"deepabyss_4000m_554_0"	"deepabyss_4000m_3726_0"	"deepabyss_4000m_7424_0"	"deepabyss_4000m_3058_0"
+RXN-9710	NIL
+PYRNUTRANSHYDROGEN-RXN	NIL	"deepabyss_4000m_1956_0"	"deepabyss_4000m_2406_0"
+MALATE--COA-LIGASE-RXN	NIL
+GLUTAMATE-SYNTHASE-FERREDOXIN-RXN	NIL	"deepabyss_4000m_11068_0"
+RXN-9718	NIL	"deepabyss_4000m_1896_0"
+RXN-6724	NIL
+RXN-11998	"&beta;-<i>apo</i>-4'-carotenal oxygenase"
+RXN-11999	NIL
+UROGENIIISYN-RXN	NIL	"deepabyss_4000m_10881_0"
+2-DEHYDROPANTOATE-REDUCT-RXN	NIL	"deepabyss_4000m_7160_0"	"deepabyss_4000m_1137_0"	"deepabyss_4000m_5122_0"
+1.14.19.3-RXN	NIL
+RXN1G-1634	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+2OXOGLUTDECARB-RXN	NIL	"deepabyss_4000m_10635_0"
+ARGSUCCINLYA-RXN	NIL	"deepabyss_4000m_5205_0"	"deepabyss_4000m_2402_1"	"deepabyss_4000m_10129_0"	"deepabyss_4000m_4656_0"	"deepabyss_4000m_6730_1"
+RXN1G-1633	"trehalose-mono-mycolate O-mycolyltransferase"
+RXN1G-138	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN0-3942	NIL
+GLYCINE-FORMIMINOTRANSFERASE-RXN	NIL
+RXN66-281	"squalene synthase"	"deepabyss_4000m_7507_0"
+RXN1G-648	"3-cis-delta21,39-3-hydroxyC58:2-[acyl-carrier protein] dehydratase"
+MUCONOLACTONE-DELTA-ISOMERASE-RXN	NIL
+RXN-7835	NIL
+ARGININE-2-MONOOXYGENASE-RXN	NIL
+RXN-7836	NIL	"deepabyss_4000m_1892_0"
+RXN66-469	"3-methyl-branched fatty acyl-CoA ligase"	"deepabyss_4000m_398_0"	"deepabyss_4000m_8171_0"	"deepabyss_4000m_4683_0"	"deepabyss_4000m_9525_0"	"deepabyss_4000m_6837_1"	"deepabyss_4000m_1986_0"	"deepabyss_4000m_6298_0"	"deepabyss_4000m_9866_0"	"deepabyss_4000m_6394_0"	"deepabyss_4000m_8511_0"	"deepabyss_4000m_9890_0"	"deepabyss_4000m_4730_0"	"deepabyss_4000m_989_0"	"deepabyss_4000m_6937_0"	"deepabyss_4000m_1961_0"
+RXN1G-324	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+2.1.1.114-RXN	"hexaprenyldihydroxybenzoate methyltransferase"
+RXN-7838	NIL	"deepabyss_4000m_4668_1"	"deepabyss_4000m_4336_0"	"deepabyss_4000m_5816_0"	"deepabyss_4000m_8082_1"	"deepabyss_4000m_5633_0"	"deepabyss_4000m_2259_0"	"deepabyss_4000m_5156_0"	"deepabyss_4000m_8883_0"	"deepabyss_4000m_6342_1"	"deepabyss_4000m_8257_0"	"deepabyss_4000m_9400_0"	"deepabyss_4000m_1371_0"	"deepabyss_4000m_6123_0"	"deepabyss_4000m_9607_0"	"deepabyss_4000m_6489_1"	"deepabyss_4000m_1397_0"	"deepabyss_4000m_8029_0"
+RXN1G-132	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+R13-RXN	NIL
+STREPTOMYCIN-6-PHOSPHATASE-RXN	NIL
+KDPGALDOL-RXN	NIL	"deepabyss_4000m_7123_1"
+ACETYLORNTRANSAM-RXN	NIL	"deepabyss_4000m_4572_1"	"deepabyss_4000m_4329_0"	"deepabyss_4000m_10976_0"	"deepabyss_4000m_686_0"
+R543-RXN	NIL
+TETHYDPICSUCC-RXN	NIL	"deepabyss_4000m_1519_0"	"deepabyss_4000m_4218_0"	"deepabyss_4000m_4165_0"
+DEHYDDEOXGALACTKIN-RXN	"2-dehydro-3-deoxygalactonokinase"	"deepabyss_4000m_4169_0"
+THIOESTER-RXN	NIL	"deepabyss_4000m_811_0"
+4.3.1.14-RXN	NIL
+2-OXOPENT-4-ENOATE-HYDRATASE-RXN	NIL
+RXN0-5409	NIL
+PYRUFLAVREDUCT-RXN	NIL	"deepabyss_4000m_3805_1"	"deepabyss_4000m_3805_0"	"deepabyss_4000m_5463_2"	"deepabyss_4000m_5463_1"	"deepabyss_4000m_10719_0"
+RXN-12971	NIL
+SIROHEME-FERROCHELAT-RXN	NIL
+RXN1G-184	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN1G-182	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN1G-181	"&alpha;-meroacyl-AMP transferase"
+S-ADENMETSYN-RXN	NIL	"deepabyss_4000m_9498_0"	"deepabyss_4000m_10862_1"	"deepabyss_4000m_10800_0"	"deepabyss_4000m_7561_0"	"deepabyss_4000m_4612_0"
+RXN-525	"(+)-dihydrokaempferol 3'-hydroxylase"
+RXN1G-188	"cis-delta11-3-hydroxyC30:1-[acyl-carrier protein] dehydratase"
+RXN0-2161	NIL	"deepabyss_4000m_9957_0"	"deepabyss_4000m_318_0"	"deepabyss_4000m_8892_0"	"deepabyss_4000m_7535_0"	"deepabyss_4000m_7283_0"
+RXN0-5398	NIL	"deepabyss_4000m_9925_1"	"deepabyss_4000m_11116_0"	"deepabyss_4000m_9248_0"	"deepabyss_4000m_8122_0"	"deepabyss_4000m_3174_1"	"deepabyss_4000m_1015_1"
+RXN0-5393	NIL	"deepabyss_4000m_8029_0"
+RXN-12080	"L-xylo-3-hexulose reductase"
+RXN0-5391	NIL
+RXN-12082	"L-xylo-3-hexulose reductase"
+RXN-12579	NIL
+2-OCTAPRENYLPHENOL-HYDROX-RXN	NIL
+RXN-12575	"all-trans retinyl-ester hydrolase"	"deepabyss_4000m_8032_0"
+OROTPDECARB-RXN	NIL	"deepabyss_4000m_3622_0"	"deepabyss_4000m_1283_0"
+4.1.1.72-RXN	NIL
+GLUCOKIN-RXN	NIL
+4.3.1.17-RXN	NIL
+GLUCONATE-DEHYDRATASE-RXN	NIL	"deepabyss_4000m_8379_1"	"deepabyss_4000m_8379_0"	"deepabyss_4000m_7403_0"
+ARGININE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_4182_0"	"deepabyss_4000m_9329_0"	"deepabyss_4000m_4652_0"	"deepabyss_4000m_2240_0"	"deepabyss_4000m_4798_0"
+RXN1A0-6314	NIL
+HISTIDPHOS-RXN	NIL	"deepabyss_4000m_706_1"
+PHENDEHYD-RXN	NIL
+DIHYDROOROT-RXN	NIL	"deepabyss_4000m_102_0"	"deepabyss_4000m_5509_0"	"deepabyss_4000m_1638_0"	"deepabyss_4000m_9710_1"	"deepabyss_4000m_10986_1"	"deepabyss_4000m_2045_0"	"deepabyss_4000m_2283_0"	"deepabyss_4000m_6590_0"	"deepabyss_4000m_840_0"
+RXN1G-509	"trans-delta2-cis,cis-9,21-C40:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-508	"3-oxo-lignoceroyl-[acyl-carrier protein] reductase"
+R601-RXN	NIL	"deepabyss_4000m_5154_1"
+R62-RXN	NIL
+RXN1A0-6318	NIL
+RXN-12790	"3-oxo-24-ethyl-cholest-5-ene isomerase"
+PREPHENATEDEHYDROG-RXN	NIL	"deepabyss_4000m_5135_1"	"deepabyss_4000m_5135_0"	"deepabyss_4000m_274_0"	"deepabyss_4000m_3364_1"	"deepabyss_4000m_7098_0"
+RXN-12794	NIL
+RXN-12797	NIL
+RXN-10952	NIL	"deepabyss_4000m_624_0"
+4.1.1.51-RXN	NIL
+METHENYLTHFCYCLOHYDRO-RXN	NIL
+RXN-12401	"xyloglucan-specific endo-&beta;-1,4-glucanase"
+RXN-12400	"xyloglucan XLLG oligosaccharide &beta;-galactosidase"	"deepabyss_4000m_9038_0"
+RXN-12402	"isoprimeverose &alpha;-xylosidase"
+RXN-12157	NIL
+RXN-12156	NIL
+RXN-12155	NIL
+TYRAMINOTRANS-RXN	"Tyrosine transaminase"
+SUCCINYLDIAMINOPIMTRANS-RXN	NIL
+R229-RXN	NIL	"deepabyss_4000m_6487_0"
+6PGLUCONOLACT-RXN	NIL
+TREHALOSE6PSYN-RXN	NIL	"deepabyss_4000m_7384_0"	"deepabyss_4000m_4992_0"	"deepabyss_4000m_5578_0"	"deepabyss_4000m_8877_0"
+TYROSINE-AMINOTRANSFERASE-RXN	NIL
+RXN-10839	NIL
+BADH-RXN	NIL	"deepabyss_4000m_5297_0"
+MALSYN-RXN	NIL	"deepabyss_4000m_8144_0"	"deepabyss_4000m_753_0"	"deepabyss_4000m_2162_0"	"deepabyss_4000m_5849_0"	"deepabyss_4000m_189_0"
+RXN-10834	NIL
+RXN-10835	NIL
+RXN-10832	NIL
+RXN-10833	NIL
+RXN-10830	NIL
+RXN-10831	NIL
+RXN1G-617	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+SUPEROX-DISMUT-RXN	NIL	"deepabyss_4000m_1102_1"	"deepabyss_4000m_10704_0"
+RXN0-2382	NIL	"deepabyss_4000m_4863_0"	"deepabyss_4000m_4797_0"	"deepabyss_4000m_5426_0"	"deepabyss_4000m_3898_0"	"deepabyss_4000m_5488_0"	"deepabyss_4000m_8138_0"
+RXN1G-613	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+TRYPTOPHAN-AMINOTRANSFERASE-RXN	NIL
+RXN-8890	NIL
+RXN-8891	NIL
+PROPCOASYN-RXN	NIL
+SUCCINATE--COA-LIGASE-GDP-FORMING-RXN	NIL	"deepabyss_4000m_7657_0"	"deepabyss_4000m_5900_1"	"deepabyss_4000m_7214_0"
+CHORISMATE-SYNTHASE-RXN	NIL	"deepabyss_4000m_5856_0"	"deepabyss_4000m_10639_0"	"deepabyss_4000m_10567_0"	"deepabyss_4000m_8073_1"
+RXN-1104	NIL
+RXN-1103	NIL
+RXN0-268	NIL
+LEUCINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_7030_0"	"deepabyss_4000m_4649_0"	"deepabyss_4000m_1088_1"	"deepabyss_4000m_1538_1"	"deepabyss_4000m_85_0"	"deepabyss_4000m_4299_0"	"deepabyss_4000m_1355_0"	"deepabyss_4000m_8418_0"	"deepabyss_4000m_6070_1"	"deepabyss_4000m_1629_1"	"deepabyss_4000m_9664_0"
+RXN-5282	"magnesium-protoporphyrin-IX 13-monomethyl ester,NADPH:oxygen monooxygenase"
+RXN-5283	"13<SUP>1</SUP>-hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester 13-dehydrogenase"
+RXN-5284	"13<SUP>1</SUP>-oxo-magnesium-protoporphyrin IX 13-monomethyl ester dehydrogenase"
+2.3.1.98-RXN	NIL
+1.4.1.11-RXN	NIL
+UDPMANACATRANS-RXN	NIL
+TYRAMINE-N-FERULOYLTRANSFERASE-RXN	NIL
+RXN-9535	"&beta;-ketoacyl-acyl-carrier-protein synthase I"
+AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN	"Tryptophan decarboxylase"	"deepabyss_4000m_5352_0"	"deepabyss_4000m_5708_0"
+RXN-9532	"3-oxo-dodecanoyl-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+RXN0-310	NIL	"deepabyss_4000m_2028_0"
+RXN-8162	NIL
+CATAL-RXN	NIL	"deepabyss_4000m_6522_0"	"deepabyss_4000m_1923_1"	"deepabyss_4000m_861_0"	"deepabyss_4000m_4226_0"
+R581-RXN	"(Aceto)phenylmercury lyase"
+QUINOPRIBOTRANS-RXN	NIL	"deepabyss_4000m_11013_1"
+RXN-9386	NIL
+RXN-9380	NIL	"deepabyss_4000m_3230_0"
+MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN	"Myo-inositol-1(or 4)-monophosphatase"	"deepabyss_4000m_624_0"
+RXN0-882	NIL	"deepabyss_4000m_4333_0"	"deepabyss_4000m_4344_0"	"deepabyss_4000m_1641_0"
+RXN0-884	NIL	"deepabyss_4000m_78_0"	"deepabyss_4000m_8004_0"	"deepabyss_4000m_69_0"	"deepabyss_4000m_5234_0"
+RXN1G-1081	"cis,cis-delta13,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+RXN1G-1084	"cis-delta19-3-hydroxyC38:1-[acyl-carrier protein] dehydratase"
+RXN0-6510	NIL
+RIBOFLAVINSYNREDUC-RXN	NIL
+AMINO-CARBOXYMUCONATE-SEMIALDEHYDE-RXN	NIL	"deepabyss_4000m_2934_0"
+SPHINGANINE-1-PHOSPHATE-ALDOLASE-RXN	NIL	"deepabyss_4000m_3885_0"
+BETA-GLUCURONID-RXN	NIL	"deepabyss_4000m_4904_1"
+DIACYLGLYKIN-RXN	NIL	"deepabyss_4000m_10045_1"
+ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	NIL	"deepabyss_4000m_813_0"	"deepabyss_4000m_4481_0"	"deepabyss_4000m_9806_1"
+DTMPKI-RXN	NIL	"deepabyss_4000m_2091_0"	"deepabyss_4000m_2726_0"	"deepabyss_4000m_7539_0"
+H2PTEROATESYNTH-RXN	NIL	"deepabyss_4000m_4101_1"	"deepabyss_4000m_1436_0"	"deepabyss_4000m_1034_0"
+BENZENE-12-DIOXYGENASE-RXN	NIL	"deepabyss_4000m_10038_0"
+CYTIDEAM-RXN	NIL	"deepabyss_4000m_10977_1"
+MALONYL-COA-ACP-TRANSACYL-RXN	NIL	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+RXN1G-285	"trans-delta2-cis-delta9-C28:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+CYSTEINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_6747_1"	"deepabyss_4000m_1664_1"
+RXN-6641	NIL
+GLYCINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_4664_0"	"deepabyss_4000m_3370_0"	"deepabyss_4000m_6585_0"	"deepabyss_4000m_11076_2"	"deepabyss_4000m_11076_1"	"deepabyss_4000m_26_0"	"deepabyss_4000m_6611_0"	"deepabyss_4000m_4832_0"	"deepabyss_4000m_2156_1"	"deepabyss_4000m_1395_0"
+RXN-6642	NIL	"deepabyss_4000m_228_0"	"deepabyss_4000m_3887_1"	"deepabyss_4000m_10535_0"	"deepabyss_4000m_3542_1"	"deepabyss_4000m_5438_0"
+RXN-9363	NIL	"deepabyss_4000m_8003_1"	"deepabyss_4000m_6638_0"
+ALLOPHANATE-HYDROLASE-RXN	NIL	"deepabyss_4000m_8988_1"
+RXN-9361	NIL	"deepabyss_4000m_8003_1"	"deepabyss_4000m_6638_0"
+RXN-9360	NIL
+RXN-9366	NIL	"deepabyss_4000m_8003_1"	"deepabyss_4000m_6638_0"
+PORPHOBILSYNTH-RXN	NIL	"deepabyss_4000m_1981_0"	"deepabyss_4000m_3076_0"	"deepabyss_4000m_5266_0"	"deepabyss_4000m_5240_0"
+4.1.3.26-RXN	NIL
+RXN1G-334	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+ADENOSYLHOMOCYSTEINASE-RXN	NIL	"deepabyss_4000m_6582_0"	"deepabyss_4000m_2539_0"	"deepabyss_4000m_10039_0"	"deepabyss_4000m_10603_0"	"deepabyss_4000m_4625_1"
+RXN1G-337	"trans-delta2-cis,cis-delta13,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN0-5098	NIL
+R11-RXN	"butyryl coenzyme A transferase"
+RXN1G-339	"trans-delta2-cis-cis-delta7-19-C38:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+GLUTARYL-COA-DEHYDROG-RXN	"glutaryl-CoA dehydrogenase"
+ASPDECARBOX-RXN	NIL	"deepabyss_4000m_6159_0"
+URATE-OXIDASE-RXN	NIL
+IMIDPHOSDEHYD-RXN	NIL	"deepabyss_4000m_7916_1"
+RXN-11832	NIL	"deepabyss_4000m_3025_0"	"deepabyss_4000m_10470_1"	"deepabyss_4000m_6265_1"
+FHLMULTI-RXN	NIL
+RXN3O-5293	NIL
+RXN-7607	NIL	"deepabyss_4000m_1313_0"
+RXN-7605	NIL
+RXN-7609	NIL
+FGAMSYN-RXN	NIL	"deepabyss_4000m_2877_0"	"deepabyss_4000m_7675_1"	"deepabyss_4000m_2165_0"	"deepabyss_4000m_1011_1"	"deepabyss_4000m_1011_0"	"deepabyss_4000m_4634_1"	"deepabyss_4000m_9789_0"	"deepabyss_4000m_4875_1"	"deepabyss_4000m_10479_0"
+GCVMULTI-RXN	NIL
+GLUTAMATE-SYNTHASE-NADH-RXN	NIL	"deepabyss_4000m_876_1"	"deepabyss_4000m_11068_0"
+GLYCOGENSYN-RXN	NIL
+RXN-12968	NIL
+RXN-12969	NIL
+RXN1G-424	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+RXN1G-425	"3-cis,cis-delta7,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+GSAAMINOTRANS-RXN	NIL	"deepabyss_4000m_725_0"	"deepabyss_4000m_5675_0"	"deepabyss_4000m_5588_0"	"deepabyss_4000m_2701_0"	"deepabyss_4000m_10494_0"	"deepabyss_4000m_8140_0"	"deepabyss_4000m_1853_0"	"deepabyss_4000m_4914_0"
+ATPPHOSPHORIBOSYLTRANS-RXN	NIL	"deepabyss_4000m_6391_0"
+AGMATINE-DEIMINASE-RXN	NIL
+RXN-8141	NIL
+HYDROXYPYRROLINEDEH-RXN	"pyrroline-hydroxy-carboxylate dehydrogenase"	"deepabyss_4000m_8456_0"	"deepabyss_4000m_1389_0"	"deepabyss_4000m_3890_1"
+GLUCOSE-1-PHOSPHAT-RXN	NIL
+MANNPISOM-RXN	NIL	"deepabyss_4000m_823_0"
+1.13.11.6-RXN	NIL
+RXN0-5258	"sn-glycerol 3-phosphate:ubiquinone oxidoreductase"
+3-OXOADIPATE-ENOL-LACTONASE-RXN	NIL	"deepabyss_4000m_17_1"
+COBALADENOSYLTRANS-RXN	"Cob(I)alamin adenosyltransferase"	"deepabyss_4000m_7398_1"
+D-LACTALDEHYDE-DEHYDROGENASE-RXN	NIL
+RXN0-6479	NIL	"deepabyss_4000m_10926_0"	"deepabyss_4000m_4744_0"
+RXN0-6478	NIL
+PHOSPHOKETOLASE-RXN	NIL
+RXN-9666	NIL
+RXN1G-517	"3-hydroxylignoceroyl-[acyl-carrier protein] dehydratase"
+RXN-12782	"3-oxo-24-ethyl-cholest-4,24-dien-26-oyl-CoA carboxylase"
+RXN-12780	"3,24-dioxo-cholest-4-en-26-oate:CoA ligase"
+RXN-12781	"3-oxo-24-(isopropanoate)-cholest-4,24-dien-26-oyl-CoA hydrolase"
+RXN-12786	"3-oxo-24-ethyl-26-al-cholest-4-ene dehydrogenase"
+RXN-12787	"3-oxo-24-ethyl-26-hydroxy-cholest-4-ene dehydrogenase"
+RXN-12784	"3-oxo-24-ethyl-cholest-4-en-26-oyl-CoA dehydrogenase"
+RXN-12785	"3-oxo-24-ethyl-cholest-4-en-26-oate:CoA ligase"
+RXN-12788	"3-oxo-24-ethyl-cholest-4-ene C-26 monooxygenase"
+RXN-12789	"sitosterol dehydrogenase"
+QUINOLINATE-SYNTHA-RXN	NIL	"deepabyss_4000m_6138_0"	"deepabyss_4000m_2828_0"	"deepabyss_4000m_2108_1"
+R101-RXN	NIL
+ENOYL-ACP-REDUCT-NADPH-RXN	"2,3,4-saturated fatty acyl-[acp] dehydrogenase"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+RXN1G-3641	"cis-&Delta;21-39-hydroxy-40-methyl-C59:1-[acp] reductase"
+RXN1G-193	"trans-delta2-cis,cis-5,17-C36:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-196	"trans-delta2-cis,cis-delta11,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+HISTAMINOTRANS-RXN	NIL	"deepabyss_4000m_599_0"	"deepabyss_4000m_2001_0"	"deepabyss_4000m_10276_0"	"deepabyss_4000m_2233_1"	"deepabyss_4000m_3505_0"	"deepabyss_4000m_3994_0"	"deepabyss_4000m_820_1"	"deepabyss_4000m_2521_0"
+RXN0-2001	NIL
+3-HYDROXY-KYNURENINASE-RXN	NIL	"deepabyss_4000m_3716_0"
+RXN-8391	NIL
+RXN-8390	NIL
+RXN1G-607	"trans-delta2-cis,cis-delta15,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN3O-102	"3-demethylubiquinol-6 3-O-methyltransferase"	"deepabyss_4000m_2794_1"
+3.1.2.23-RXN	NIL
+R230-RXN	"(2R)-3-sulfolactate dehydrogenase (NAD+)"
+RXN-1823	NIL
+XANPRIBOSYLTRAN-RXN	NIL
+RXN-1825	NIL
+RXN-1826	"starch phosphorylase"	"deepabyss_4000m_2619_1"	"deepabyss_4000m_6635_1"	"deepabyss_4000m_6635_0"	"deepabyss_4000m_476_0"
+RXN-1827	NIL
+RXN-8889	NIL
+AMINOBENZCOALIG-RXN	NIL
+RIBAZOLEPHOSPHAT-RXN	NIL
+SAICARSYN-RXN	NIL	"deepabyss_4000m_7562_0"	"deepabyss_4000m_4835_0"	"deepabyss_4000m_4549_0"
+ACP-S-ACETYLTRANSFER-RXN	NIL	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+RXN-8081	NIL
+RXN-8080	NIL	"deepabyss_4000m_6607_1"	"deepabyss_4000m_10670_1"	"deepabyss_4000m_10614_0"
+MUCONATE-CYCLOISOMERASE-RXN	NIL	"deepabyss_4000m_7340_2"
+RXN-8771	NIL
+XANTHOSINEPHOSPHORY-RXN	"xanthosine phosphorylase"	"deepabyss_4000m_8621_0"
+COBALAMINSYN-RXN	NIL	"deepabyss_4000m_10383_0"
+5.3.3.14-RXN	NIL
+ACETATEKIN-RXN	NIL
+DTDPKIN-RXN	NIL
+RXN66-337	"LTD4 dipeptidase"	"deepabyss_4000m_8117_0"	"deepabyss_4000m_8303_0"	"deepabyss_4000m_67_1"	"deepabyss_4000m_1133_1"
+METHYLMALONYL-COA-EPIM-RXN	NIL
+RXN-9757	NIL
+DHLBXANAU-RXN	"chloroacetate dehalogenase"	"deepabyss_4000m_2085_1"	"deepabyss_4000m_990_1"
+6.3.2.7-RXN	NIL
+RXN-11318	NIL
+RXN-11319	NIL
+RXN-8173	NIL
+2.1.4.2-RXN	NIL
+BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN	NIL
+GLYCPDIESTER-RXN	NIL	"deepabyss_4000m_8188_2"	"deepabyss_4000m_2982_1"	"deepabyss_4000m_140_0"
+SPERMINE-SYNTHASE-RXN	NIL	"deepabyss_4000m_8277_0"
+3.2.1.14-RXN	NIL	"deepabyss_4000m_3438_0"
+RXN-9174	NIL
+3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN	NIL	"deepabyss_4000m_7570_1"	"deepabyss_4000m_8177_0"	"deepabyss_4000m_9315_1"	"deepabyss_4000m_1430_0"	"deepabyss_4000m_10861_0"
+RXN-9172	NIL
+RXN-9173	NIL
+RXN-9170	NIL
+RXN-9171	NIL
+2.9.1.1-RXN	NIL	"deepabyss_4000m_10790_0"
+RXN0-748	NIL	"deepabyss_4000m_3868_0"	"deepabyss_4000m_10398_0"	"deepabyss_4000m_7784_1"	"deepabyss_4000m_7784_0"	"deepabyss_4000m_6944_0"	"deepabyss_4000m_10669_0"	"deepabyss_4000m_6332_0"	"deepabyss_4000m_5689_0"	"deepabyss_4000m_1442_0"
+GTPPYPHOSKIN-RXN	NIL	"deepabyss_4000m_7733_0"	"deepabyss_4000m_6613_0"	"deepabyss_4000m_2150_0"
+L-LACTATE-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_2254_0"	"deepabyss_4000m_7832_0"
+1.2.1.25-RXN	NIL
+RXN0-745	NIL	"deepabyss_4000m_2_0"	"deepabyss_4000m_10386_0"
+RXN0-746	NIL	"deepabyss_4000m_2_0"	"deepabyss_4000m_10386_0"
+RXN0-747	NIL	"deepabyss_4000m_3868_0"	"deepabyss_4000m_10398_0"	"deepabyss_4000m_7784_1"	"deepabyss_4000m_7784_0"	"deepabyss_4000m_6944_0"	"deepabyss_4000m_10669_0"	"deepabyss_4000m_6332_0"	"deepabyss_4000m_5689_0"	"deepabyss_4000m_1442_0"
+RXN-3641	NIL
+ADCLY-RXN	NIL
+1.3.1.2-RXN	NIL
+PHOSPHOENOLPYRUVATE-MUTASE-RXN	NIL	"deepabyss_4000m_3097_1"
+GLUTAMIN-RXN	NIL	"deepabyss_4000m_4846_0"	"deepabyss_4000m_3458_0"	"deepabyss_4000m_7775_0"	"deepabyss_4000m_1874_0"	"deepabyss_4000m_9286_0"	"deepabyss_4000m_536_0"	"deepabyss_4000m_2068_0"	"deepabyss_4000m_8754_0"	"deepabyss_4000m_4960_0"	"deepabyss_4000m_9981_1"	"deepabyss_4000m_9098_0"	"deepabyss_4000m_4296_0"	"deepabyss_4000m_9448_0"	"deepabyss_4000m_3978_1"	"deepabyss_4000m_8419_0"	"deepabyss_4000m_5551_1"	"deepabyss_4000m_6188_1"	"deepabyss_4000m_6439_0"	"deepabyss_4000m_5230_0"	"deepabyss_4000m_10341_0"	"deepabyss_4000m_5007_1"	"deepabyss_4000m_10626_0"	"deepabyss_4000m_6694_0"	"deepabyss_4000m_4194_0"	"deepabyss_4000m_2221_1"	"deepabyss_4000m_5685_0"	"deepabyss_4000m_5417_0"	"deepabyss_4000m_6160_0"	"deepabyss_4000m_928_0"	"deepabyss_4000m_10753_0"	"deepabyss_4000m_1601_0"	"deepabyss_4000m_7516_0"	"deepabyss_4000m_10775_0"	"deepabyss_4000m_9661_0"	"deepabyss_4000m_9293_0"	"deepabyss_4000m_443_1"	"deepabyss_4000m_11068_0"
+R83-RXN	NIL	"deepabyss_4000m_2508_0"
+RXN-12532	NIL
+RXN0-2921	NIL
+PYRUVATE-CARBOXYLASE-RXN	NIL	"deepabyss_4000m_6202_0"	"deepabyss_4000m_6950_0"
+2.7.7.13-RXN	NIL	"deepabyss_4000m_2719_1"	"deepabyss_4000m_5428_0"
+RXN0-1147	NIL	"deepabyss_4000m_5344_0"
+RXN-13043	NIL
+PHOSPHASERSYN-RXN	NIL	"deepabyss_4000m_6743_1"
+ACETOOHBUTSYN-RXN	"2-aceto-2-hydroxy-butyrate synthase"	"deepabyss_4000m_1877_1"	"deepabyss_4000m_1877_0"	"deepabyss_4000m_6748_0"	"deepabyss_4000m_8453_0"	"deepabyss_4000m_6981_0"	"deepabyss_4000m_3505_1"	"deepabyss_4000m_637_0"	"deepabyss_4000m_3321_0"	"deepabyss_4000m_3152_0"	"deepabyss_4000m_9576_0"	"deepabyss_4000m_7139_0"	"deepabyss_4000m_5978_0"
+2.6.1.56-RXN	NIL
+ORNMUTST-RXN	NIL
+1.1.1.262-RXN	"4-hydroxythreonine-4-phosphate dehydrogenase"	"deepabyss_4000m_6662_1"	"deepabyss_4000m_1619_0"	"deepabyss_4000m_350_0"
+RXN-13045	NIL
+HOMOSERKIN-RXN	NIL	"deepabyss_4000m_3109_1"	"deepabyss_4000m_3879_0"	"deepabyss_4000m_130_1"	"deepabyss_4000m_3673_0"
+RXN-9358	NIL
+RXN1G-1278	"cis,cis-delta15,33-3-hydroxyC52:2-[acyl-carrier protein] dehydratase"
+RXN0-5061	NIL	"deepabyss_4000m_9555_1"
+RXN66-483	NIL	"deepabyss_4000m_398_0"	"deepabyss_4000m_8171_0"	"deepabyss_4000m_4683_0"	"deepabyss_4000m_9525_0"	"deepabyss_4000m_6837_1"	"deepabyss_4000m_1986_0"	"deepabyss_4000m_6298_0"	"deepabyss_4000m_9866_0"	"deepabyss_4000m_6394_0"	"deepabyss_4000m_8511_0"	"deepabyss_4000m_9890_0"	"deepabyss_4000m_4730_0"	"deepabyss_4000m_989_0"	"deepabyss_4000m_6937_0"	"deepabyss_4000m_1961_0"
+IMPCYCLOHYDROLASE-RXN	NIL
+RXN-9825	NIL
+RXN66-241	NIL
+DEOXYADENPHOSPHOR-RXN	NIL	"deepabyss_4000m_8621_0"
+THYM-PHOSPH-RXN	NIL	"deepabyss_4000m_3638_0"
+ACETATE--COA-LIGASE-RXN	NIL	"deepabyss_4000m_5817_0"	"deepabyss_4000m_10686_0"	"deepabyss_4000m_9301_0"	"deepabyss_4000m_9865_0"	"deepabyss_4000m_6948_0"	"deepabyss_4000m_915_0"	"deepabyss_4000m_10930_0"	"deepabyss_4000m_4711_1"	"deepabyss_4000m_9359_0"	"deepabyss_4000m_2152_0"	"deepabyss_4000m_9318_1"	"deepabyss_4000m_9318_0"	"deepabyss_4000m_4209_0"
+RXN-9205	NIL	"deepabyss_4000m_8003_1"	"deepabyss_4000m_6638_0"
+1.3.7.2-RXN	NIL
+PGPPHOSPHA-RXN	NIL
+RXN-7614	NIL	"deepabyss_4000m_2910_0"	"deepabyss_4000m_340_0"	"deepabyss_4000m_4874_0"
+RXN1G-853	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN0-1382	NIL	"deepabyss_4000m_8262_0"	"deepabyss_4000m_10052_0"	"deepabyss_4000m_1982_0"	"deepabyss_4000m_9307_0"	"deepabyss_4000m_7310_0"	"deepabyss_4000m_9380_0"	"deepabyss_4000m_44_1"	"deepabyss_4000m_313_1"	"deepabyss_4000m_7994_1"
+GTP-CYCLOHYDRO-I-RXN	NIL	"deepabyss_4000m_9894_0"	"deepabyss_4000m_9850_0"
+GUANINE-DEAMINASE-RXN	NIL
+AKBLIG-RXN	NIL	"deepabyss_4000m_9633_0"
+RXN1G-3256	"trans-&Delta;18-37-hydroxy-38-methyl-C58:1-[acp] reductase"
+RXN0-2145	NIL
+RXN0-2144	NIL
+PHOSMANMUT-RXN	NIL	"deepabyss_4000m_4053_0"	"deepabyss_4000m_3376_0"
+RXN0-2141	NIL
+RXN-9362	NIL	"deepabyss_4000m_8003_1"	"deepabyss_4000m_6638_0"
+RXN1G-292	"C87-trans-keto-mycolate O-mycolyltransferase"
+RXN1G-291	"C86-cis-keto-mycolate O-mycolyltransferase"
+RXN1G-290	"C87-trans-mycolate O-mycolyltransferase"
+RXN1G-297	"trans-keto-meroacyl-AMP transferase"
+RXN1G-296	"cis-keto-meroacyl-AMP transferase"
+RXN1G-295	"trans-methoxy-meroacyl-AMP transferase"
+RXN1G-294	"3-cis,cis-delta13,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+PRDABST-RXN	NIL
+3.2.1.91-RXN	NIL
+RXN0-5260	NIL	"deepabyss_4000m_2418_0"
+RXN-9365	NIL
+3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_2819_0"	"deepabyss_4000m_3373_1"	"deepabyss_4000m_8575_1"	"deepabyss_4000m_5684_0"	"deepabyss_4000m_8245_0"
+NADH-KINASE-RXN	NIL
+PYRIDOXAL-4-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_2812_0"
+1.14.99.36-RXN	NIL
+RXN0-5118	NIL
+NADH-DEHYDROG-A-RXN	NIL	"deepabyss_4000m_1551_1"	"deepabyss_4000m_1551_0"	"deepabyss_4000m_9968_1"	"deepabyss_4000m_5716_0"	"deepabyss_4000m_5999_1"	"deepabyss_4000m_4707_1"	"deepabyss_4000m_9859_1"	"deepabyss_4000m_1382_0"	"deepabyss_4000m_5947_0"	"deepabyss_4000m_4312_0"	"deepabyss_4000m_4613_1"	"deepabyss_4000m_7024_2"	"deepabyss_4000m_7589_1"	"deepabyss_4000m_7589_0"	"deepabyss_4000m_7685_1"	"deepabyss_4000m_3090_1"	"deepabyss_4000m_3090_0"	"deepabyss_4000m_10974_1"	"deepabyss_4000m_5860_0"	"deepabyss_4000m_8742_1"	"deepabyss_4000m_9742_0"	"deepabyss_4000m_10702_0"	"deepabyss_4000m_10049_2"	"deepabyss_4000m_10049_0"	"deepabyss_4000m_1540_0"	"deepabyss_4000m_3275_0"	"deepabyss_4000m_8086_0"
+RXN0-5114	NIL	"deepabyss_4000m_9129_0"	"deepabyss_4000m_3050_1"
+RXN-8963	NIL
+GLUTAMATE-FORMIMINOTRANSFERASE-RXN	NIL	"deepabyss_4000m_8114_0"
+2-METHYLACYL-COA-DEHYDROGENASE-RXN	NIL
+RXN-8964	NIL
+RIBULP3EPIM-RXN	NIL	"deepabyss_4000m_642_0"
+TREHALOSEPHOSPHA-RXN	NIL	"deepabyss_4000m_4494_0"
+2.8.3.9-RXN	NIL
+NICONUCADENYLYLTRAN-RXN	NIL
+L-GLN-FRUCT-6-P-AMINOTRANS-RXN	NIL	"deepabyss_4000m_8488_0"	"deepabyss_4000m_6113_0"	"deepabyss_4000m_2908_0"
+RXN1G-236	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+SUCCGLUDESUCC-RXN	NIL	"deepabyss_4000m_1797_0"
+RXN-10814	"L-phenylalanine aminotransferase"	"deepabyss_4000m_3104_1"	"deepabyss_4000m_7653_0"	"deepabyss_4000m_10235_0"	"deepabyss_4000m_9094_0"	"deepabyss_4000m_2789_1"	"deepabyss_4000m_8495_0"	"deepabyss_4000m_9898_0"	"deepabyss_4000m_5166_0"	"deepabyss_4000m_9356_0"	"deepabyss_4000m_5548_0"	"deepabyss_4000m_1646_1"
+RXN-10815	"2-oxo-3-phenylpropanoate dioxygenase"	"deepabyss_4000m_7459_0"
+RXN-10816	"phenylpyruvate reductase"
+RXN-10817	"phenylethylamine oxidase"	"deepabyss_4000m_3301_1"	"deepabyss_4000m_10648_1"
+RXN-7921	"eriodictyol 5'-hydroxylase"
+PYRIDOXKIN-RXN	NIL
+RXN0-3521	NIL
+AIRS-RXN	NIL	"deepabyss_4000m_4357_0"	"deepabyss_4000m_4483_0"	"deepabyss_4000m_522_0"
+R15-RXN	NIL
+RXN-10819	NIL	"deepabyss_4000m_10945_0"	"deepabyss_4000m_9829_1"	"deepabyss_4000m_1642_0"
+PEPCARBOX-RXN	NIL	"deepabyss_4000m_10423_0"	"deepabyss_4000m_7568_0"
+RXN1G-674	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase"
+CYCLOHEXANOL-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_1069_2"
+1.2.1.32-RXN	NIL
+2.1.1.71-RXN	NIL
+3.5.99.5-RXN	NIL
+CHD-RXN	NIL	"deepabyss_4000m_7783_0"	"deepabyss_4000m_4363_0"	"deepabyss_4000m_3796_0"	"deepabyss_4000m_4203_0"
+RXN1G-679	"trans-delta2-cis,cis-delta21,39-C58:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-8567	NIL
+RXN-5841	NIL	"deepabyss_4000m_1313_0"
+3.1.3.40-RXN	NIL
+SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	NIL	"deepabyss_4000m_5045_0"	"deepabyss_4000m_7047_0"	"deepabyss_4000m_60_0"	"deepabyss_4000m_2389_0"
+RXN-8346	"di-homo-&gamma;-linolenate &Delta;<sup>5</sup> desaturase"
+2.3.1.135-RXN	NIL
+RXN-1126	NIL	"deepabyss_4000m_1711_0"
+CHITIN-DEACETYLASE-RXN	NIL
+RXN-4466	NIL
+RXN-4465	NIL
+RXN-4464	NIL
+RXN0-6482	NIL	"deepabyss_4000m_8362_0"	"deepabyss_4000m_6433_0"	"deepabyss_4000m_2037_1"	"deepabyss_4000m_9396_0"	"deepabyss_4000m_1398_2"
+THI-P-KIN-RXN	NIL
+RXN0-6480	NIL	"deepabyss_4000m_1442_1"	"deepabyss_4000m_2563_0"
+RXN0-6481	NIL	"deepabyss_4000m_8362_0"	"deepabyss_4000m_6433_0"	"deepabyss_4000m_2037_1"	"deepabyss_4000m_9396_0"	"deepabyss_4000m_1398_2"
+RXN1G-4142	"cis-keto-C60-meroacyl-[acp] synthetase"
+RXN1G-4143	"trans-keto-C61-meroacyl-[acp] synthetase"
+RXN1G-4140	"cis-methoxy-C59-meroacyl-[acp] synthetase"
+RXN1G-4141	"trans-methoxy-C60-meroacyl-[acp] synthetase"
+RXN-2902	NIL
+DIHYDRONEOPTERIN-MONO-P-DEPHOS-RXN	NIL
+4.4.1.19-RXN	NIL
+2OXOGLUTARATEDEH-RXN	"2-oxoglutarate dehydrogenase complex"
+UDPKIN-RXN	NIL	"deepabyss_4000m_11058_1"	"deepabyss_4000m_6763_1"	"deepabyss_4000m_554_0"	"deepabyss_4000m_3726_0"	"deepabyss_4000m_7424_0"	"deepabyss_4000m_3058_0"
+METHYLCROTONYL-COA-CARBOXYLASE-RXN	NIL	"deepabyss_4000m_6342_0"	"deepabyss_4000m_2679_0"	"deepabyss_4000m_9780_1"	"deepabyss_4000m_8532_0"	"deepabyss_4000m_8033_0"	"deepabyss_4000m_10772_0"
+RXN-11761	"fluoroacetate dehalogenase"	"deepabyss_4000m_2085_1"	"deepabyss_4000m_990_1"
+CYTOCHROME-C-OXIDASE-RXN	NIL	"deepabyss_4000m_5693_0"	"deepabyss_4000m_1339_1"	"deepabyss_4000m_4401_0"	"deepabyss_4000m_2788_1"	"deepabyss_4000m_2788_0"	"deepabyss_4000m_404_0"	"deepabyss_4000m_11110_0"	"deepabyss_4000m_3031_0"	"deepabyss_4000m_6942_0"	"deepabyss_4000m_1177_1"	"deepabyss_4000m_10644_0"	"deepabyss_4000m_6868_0"	"deepabyss_4000m_6402_1"
+FORMYLTHFDEFORMYL-RXN	"formyltetrahydrofolate deformylase"	"deepabyss_4000m_10171_0"	"deepabyss_4000m_7458_0"
+COBINPGUANYLYLTRANS-RXN	NIL
+AMP-DEPHOSPHORYLATION-RXN	"AMP-5'-nucleotidase"
+CITRATE--COA-LIGASE-RXN	NIL
+ORNCARBAMTRANSFER-RXN	NIL	"deepabyss_4000m_8679_0"	"deepabyss_4000m_8694_0"	"deepabyss_4000m_20_1"	"deepabyss_4000m_6861_0"	"deepabyss_4000m_2961_1"
+RXN-11496	NIL	"deepabyss_4000m_4684_0"
+RXN-8184	NIL	"deepabyss_4000m_7557_0"
+RXN-8185	NIL
+RXN-8186	NIL
+RXN-8187	NIL
+RXN-10784	"5-hydroxytryptophol UDP-glucuronosyltransferase"
+RXN-8189	NIL
+RXN-10780	"5-hydroxyindole acetaldehyde dehydrogenase"	"deepabyss_4000m_5406_1"	"deepabyss_4000m_6898_2"	"deepabyss_4000m_4514_0"	"deepabyss_4000m_3390_0"	"deepabyss_4000m_9826_0"	"deepabyss_4000m_429_0"	"deepabyss_4000m_3198_0"	"deepabyss_4000m_4046_0"	"deepabyss_4000m_291_0"	"deepabyss_4000m_6545_0"	"deepabyss_4000m_6738_1"	"deepabyss_4000m_9530_0"	"deepabyss_4000m_182_0"	"deepabyss_4000m_2363_0"	"deepabyss_4000m_140_1"	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"
+RXN-10781	"5-hydroxytryptophol dehydrogenase"	"deepabyss_4000m_2879_1"	"deepabyss_4000m_360_1"	"deepabyss_4000m_1634_1"	"deepabyss_4000m_425_0"	"deepabyss_4000m_255_1"	"deepabyss_4000m_6235_0"	"deepabyss_4000m_5041_0"	"deepabyss_4000m_11026_0"	"deepabyss_4000m_1036_1"	"deepabyss_4000m_3085_1"
+RXN-10782	"5-hydroxytryptophol sulfotransferase"
+GLYC3PDEHYDROGBIOSYN-RXN	NIL	"deepabyss_4000m_5205_1"
+RXN-9169	NIL
+RXN-9168	NIL
+GLUTAMATESYN-RXN	NIL	"deepabyss_4000m_7775_0"	"deepabyss_4000m_1874_0"	"deepabyss_4000m_2068_0"	"deepabyss_4000m_5551_1"	"deepabyss_4000m_6439_0"	"deepabyss_4000m_6694_0"	"deepabyss_4000m_2221_1"	"deepabyss_4000m_6160_0"	"deepabyss_4000m_928_0"	"deepabyss_4000m_1601_0"	"deepabyss_4000m_7516_0"	"deepabyss_4000m_10775_0"	"deepabyss_4000m_9661_0"	"deepabyss_4000m_443_1"	"deepabyss_4000m_11068_0"
+H2NEOPTERINALDOL-RXN	NIL	"deepabyss_4000m_3603_0"	"deepabyss_4000m_3941_1"
+2.3.1.157-RXN	NIL	"deepabyss_4000m_7265_0"
+RXN-9167	NIL
+RXN-8770	NIL
+HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN	NIL
+DTDPDEHYDRHAMEPIM-RXN	NIL
+BETA-LYSINE-56-AMINOMUTASE-RXN	NIL
+2.5.1.19-RXN	NIL	"deepabyss_4000m_9029_1"	"deepabyss_4000m_7295_0"	"deepabyss_4000m_4898_0"	"deepabyss_4000m_6184_1"
+RXN-11569	NIL	"deepabyss_4000m_3459_0"	"deepabyss_4000m_1599_0"	"deepabyss_4000m_4036_1"	"deepabyss_4000m_1472_0"	"deepabyss_4000m_9480_2"	"deepabyss_4000m_5001_0"
+OXALATE-COA-TRANSFERASE-RXN	NIL
+5.3.1.23-RXN	NIL	"deepabyss_4000m_9083_0"	"deepabyss_4000m_9982_1"	"deepabyss_4000m_6591_1"	"deepabyss_4000m_8621_1"	"deepabyss_4000m_11064_0"
+RXNMETA-12671	NIL
+METHYLACETOACETYLCOATHIOL-RXN	"2-methylacetoacetyl-CoA thiolase"	"deepabyss_4000m_9496_0"	"deepabyss_4000m_3315_0"	"deepabyss_4000m_4740_0"	"deepabyss_4000m_1252_0"	"deepabyss_4000m_3371_0"	"deepabyss_4000m_9780_0"	"deepabyss_4000m_7912_1"	"deepabyss_4000m_6739_0"	"deepabyss_4000m_10455_1"	"deepabyss_4000m_9513_0"	"deepabyss_4000m_5572_0"	"deepabyss_4000m_10525_0"
+DIMETHUROPORDEHYDROG-RXN	NIL	"deepabyss_4000m_1918_0"
+RXN-11565	"carboxynorspermidine synthase"
+GLUCURONATE-REDUCTASE-RXN	NIL
+MANNONOXIDOREDUCT-RXN	NIL
+PABASYN-RXN	NIL	"deepabyss_4000m_5655_1"	"deepabyss_4000m_5903_1"	"deepabyss_4000m_2419_1"
+LACTALDEHYDE-OXI-RXN	NIL
+GDPREDUCT-RXN	NIL	"deepabyss_4000m_3868_0"	"deepabyss_4000m_10398_0"	"deepabyss_4000m_7784_1"	"deepabyss_4000m_7784_0"	"deepabyss_4000m_6944_0"	"deepabyss_4000m_10669_0"	"deepabyss_4000m_6332_0"	"deepabyss_4000m_5689_0"	"deepabyss_4000m_1442_0"
+H2PTERIDINEPYROPHOSPHOKIN-RXN	NIL	"deepabyss_4000m_280_0"	"deepabyss_4000m_3941_0"
+RXN0-3921	NIL
+4-HYDROXYPROLINE-EPIMERASE-RXN	NIL	"deepabyss_4000m_9662_0"
+PGLUCONDEHYDRAT-RXN	NIL
+DIAMINOPIMEPIM-RXN	NIL	"deepabyss_4000m_7737_1"	"deepabyss_4000m_2714_0"	"deepabyss_4000m_11093_1"
+GALACTUROISOM-RXN	"D-galacturonate isomerase"	"deepabyss_4000m_8240_0"
+DEPHOSPHOCOAKIN-RXN	NIL	"deepabyss_4000m_7454_0"	"deepabyss_4000m_80_1"	"deepabyss_4000m_2133_1"
+ACETONE-CYANHYDRIN-LYASE-RXN	"hydroxynitrilase"
+GLYOHMETRANS-RXN	NIL	"deepabyss_4000m_1205_0"	"deepabyss_4000m_2829_1"	"deepabyss_4000m_2829_0"	"deepabyss_4000m_3112_0"	"deepabyss_4000m_8897_0"
+2.7.7.33-RXN	NIL
+DHHB-METHYLTRANSFER-RXN	"3-demethylubiquinone-8 3-O-methyltransferase"
+RXN1G-420	"cis-delta7-3-hydroxyC26:1-[acyl-carrier protein] dehydratase"
+PEPDEPHOS-RXN	NIL	"deepabyss_4000m_5215_0"	"deepabyss_4000m_5466_0"	"deepabyss_4000m_10815_0"	"deepabyss_4000m_2562_0"
+XYLULOKIN-RXN	NIL
+ANTHRANILOYL-COA-MONOOXYGENASE-RXN	NIL	"deepabyss_4000m_3408_2"
+RXN3O-12	NIL
+DIHYDROFOLATESYNTH-RXN	NIL	"deepabyss_4000m_2028_1"	"deepabyss_4000m_2965_0"	"deepabyss_4000m_5647_0"
+6.3.2.26-RXN	NIL
+GLUTAMINESYN-RXN	NIL	"deepabyss_4000m_9232_0"	"deepabyss_4000m_6894_1"	"deepabyss_4000m_10110_1"	"deepabyss_4000m_2919_0"	"deepabyss_4000m_8755_0"	"deepabyss_4000m_5715_0"	"deepabyss_4000m_10534_0"	"deepabyss_4000m_10625_0"	"deepabyss_4000m_967_0"	"deepabyss_4000m_283_0"	"deepabyss_4000m_8202_1"
+R127-RXN	NIL
+CITTRANS-RXN	"citrate CoA-transferase"	"deepabyss_4000m_2879_0"	"deepabyss_4000m_360_0"	"deepabyss_4000m_6002_0"
+RXN1G-840	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+HISTIDINE-AMMONIA-LYASE-RXN	NIL	"deepabyss_4000m_9183_0"	"deepabyss_4000m_10029_0"	"deepabyss_4000m_2405_0"
+2-AMINOADIPATE-AMINOTRANSFERASE-RXN	NIL
+RXN-6201	NIL
+RXN1G-1247	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN1G-445	"3-oxo-behenoyl-[acp] synthase"
+RXN1G-440	"3-cis,cis-delta19,37-3-hydroxyC56:2-[acyl-carrier protein] dehydratase"
+SUCC-FUM-OXRED-RXN	NIL	"deepabyss_4000m_8026_0"	"deepabyss_4000m_3344_1"	"deepabyss_4000m_2568_0"	"deepabyss_4000m_9669_0"	"deepabyss_4000m_5154_1"
+NADNUCLEOSID-RXN	NIL
+RXN1G-288	"C78-&alpha;-mycolate-O-mycolyltransferase"
+RXN1G-289	"C85-cis-mycolate O-mycolyltransferase"
+2-OH-6-OXOHEPTA-2-4-DIENOATE-HYDR-RXN	"2-hydroxy-6-oxohepta-2,4-dienoate hydrolase"
+RXN1G-287	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+1.1.1.127-RXN	NIL
+R311-RXN	"Acrylamidase"	"deepabyss_4000m_1408_0"	"deepabyss_4000m_4459_0"	"deepabyss_4000m_3108_0"	"deepabyss_4000m_7439_0"	"deepabyss_4000m_956_0"	"deepabyss_4000m_3259_0"	"deepabyss_4000m_4321_0"	"deepabyss_4000m_6594_0"	"deepabyss_4000m_941_0"	"deepabyss_4000m_5624_1"	"deepabyss_4000m_6146_1"	"deepabyss_4000m_6513_0"	"deepabyss_4000m_5549_0"	"deepabyss_4000m_9915_0"	"deepabyss_4000m_7553_0"	"deepabyss_4000m_403_0"	"deepabyss_4000m_3909_0"
+RXN-12548	NIL
+RXN-12549	NIL
+RXN-8617	NIL
+SUCCORNTRANSAM-RXN	NIL
+RXN-7573	NIL
+GLYOXI-RXN	NIL	"deepabyss_4000m_4950_0"
+RXN0-3601	NIL	"deepabyss_4000m_548_0"
+MOXXANAU-RXN	NIL
+UDPREDUCT-RXN	NIL
+ENZRXN-161-RXN	NIL
+RXN-8974	NIL
+ENOYL-COA-DELTA-ISOM-RXN	"Dodecenoyl-CoA &delta;-isomerase"	"deepabyss_4000m_1892_0"
+1.14.12.4-RXN	NIL
+RXN0-6259	NIL
+RXN-12124	NIL	"deepabyss_4000m_10394_0"
+KDO-8PSYNTH-RXN	NIL	"deepabyss_4000m_5021_0"
+RXN-13439	"cyanophycin primer:L-aspartate ligase"	"deepabyss_4000m_9223_0"	"deepabyss_4000m_8484_0"
+5-FORMYL-THF-CYCLO-LIGASE-RXN	NIL	"deepabyss_4000m_9215_1"	"deepabyss_4000m_1640_0"
+RXN-13435	NIL	"deepabyss_4000m_811_0"
+RXN-13430	"eicosapentaenoyl-CoA hydrolase"	"deepabyss_4000m_811_0"
+ADOMET-DMK-METHYLTRANSFER-RXN	NIL	"deepabyss_4000m_8003_1"	"deepabyss_4000m_6638_0"
+RXN1G-660	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+GLUTAMATE-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_5173_0"	"deepabyss_4000m_9696_0"
+2TRANSKETO-RXN	"D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase"	"deepabyss_4000m_164_0"	"deepabyss_4000m_4271_1"	"deepabyss_4000m_445_0"	"deepabyss_4000m_2474_0"	"deepabyss_4000m_3328_0"	"deepabyss_4000m_9175_0"	"deepabyss_4000m_3907_1"	"deepabyss_4000m_3907_0"	"deepabyss_4000m_1225_0"	"deepabyss_4000m_8833_0"	"deepabyss_4000m_35_0"	"deepabyss_4000m_2661_0"
+SQUALENE-MONOOXYGENASE-RXN	NIL
+RXN-8350	"eicosatetraenoate &Delta;<sup>5</sup> desaturase"
+MEPROPCOA-FAD-RXN	"isobutyryl-CoA dehydrogenase"
+RXN-11776	"farnesyl diphosphate phosphatase"
+RXN-1241	NIL	"deepabyss_4000m_886_0"
+3.1.6.4-RXN	NIL	"deepabyss_4000m_2319_0"	"deepabyss_4000m_152_1"	"deepabyss_4000m_152_0"	"deepabyss_4000m_1381_1"	"deepabyss_4000m_2282_0"	"deepabyss_4000m_4047_0"	"deepabyss_4000m_7206_1"	"deepabyss_4000m_3674_0"	"deepabyss_4000m_1609_1"
+OHBUTYRYL-COA-EPIM-RXN	"3-hydroxybutyryl-CoA epimerase"	"deepabyss_4000m_8628_0"
+1.13.11.9-RXN	NIL
+UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN	NIL	"deepabyss_4000m_9733_1"
+1.1.1.178-RXN	NIL
+3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN	NIL	"deepabyss_4000m_2860_0"	"deepabyss_4000m_3386_1"
+GLUTKIN-RXN	NIL	"deepabyss_4000m_2553_1"	"deepabyss_4000m_45_0"	"deepabyss_4000m_9053_0"
+RXN-8755	NIL
+RXN-8754	NIL
+RXN-8757	NIL
+RXN-8756	NIL
+RXN-8751	NIL
+RXN1G-717	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN-8753	NIL
+RXN-8752	NIL
+RXN-8999	NIL	"deepabyss_4000m_8736_0"	"deepabyss_4000m_4946_0"	"deepabyss_4000m_4037_1"	"deepabyss_4000m_3075_0"	"deepabyss_4000m_9434_1"
+NITRATE-REDUCTASE-NADH-RXN	NIL	"deepabyss_4000m_8950_0"	"deepabyss_4000m_8471_0"
+RXN-8992	NIL	"deepabyss_4000m_2674_0"	"deepabyss_4000m_3078_0"
+RXN-8991	"3-isopropylmalate dehydratase"	"deepabyss_4000m_5082_1"
+RXN-8990	"phenylaldehyde synthase"
+SUCROSE-PHOSPHATE-SYNTHASE-RXN	NIL
+RXN-1061	NIL
+ISOCITDEH-RXN	NIL	"deepabyss_4000m_3712_2"	"deepabyss_4000m_7246_0"	"deepabyss_4000m_10745_1"	"deepabyss_4000m_9701_0"	"deepabyss_4000m_1264_1"	"deepabyss_4000m_7607_0"
+DCDPKIN-RXN	NIL	"deepabyss_4000m_11058_1"	"deepabyss_4000m_6763_1"	"deepabyss_4000m_554_0"	"deepabyss_4000m_3726_0"	"deepabyss_4000m_7424_0"	"deepabyss_4000m_3058_0"
+RXN0-299	NIL	"deepabyss_4000m_8177_1"	"deepabyss_4000m_7681_0"
+RXN-11770	NIL
+RXN-11771	NIL
+RXN-2043	NIL	"deepabyss_4000m_292_1"
+RXN-11777	"farnesyl monophosphate phosphatase"
+2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN	NIL
+RXN-1063	NIL
+DLACTDEHYDROGNAD-RXN	NIL
+CREATININASE-RXN	NIL	"deepabyss_4000m_237_1"	"deepabyss_4000m_3359_0"	"deepabyss_4000m_9810_0"
+ARGDECARBOX-RXN	NIL
+PHOSPHATE-BUTYRYLTRANSFERASE-RXN	NIL	"deepabyss_4000m_1142_0"
+PHENYLALANINE-4-MONOOXYGENASE-RXN	NIL
+DIHYDROPYRIMIDINASE-RXN	NIL	"deepabyss_4000m_550_0"	"deepabyss_4000m_8562_1"
+RXN-10777	"serotonin sulfotransferase"
+RXN-10779	NIL
+RXN-10778	"serotonin oxidase"	"deepabyss_4000m_3301_1"	"deepabyss_4000m_10648_1"
+ENZRXN-201-RXN	NIL
+TRANS-RXN-213	NIL
+PRAISOM-RXN	NIL
+RXN0-6377	"nitrite reductase [NAD(P)H]"
+RXN0-2301	NIL	"deepabyss_4000m_7369_0"
+ADENPHOSPHOR-RXN	"adenosine phosphorylase"	"deepabyss_4000m_8621_0"
+RXN-1461	NIL
+2.1.1.79-RXN	NIL	"deepabyss_4000m_3547_0"	"deepabyss_4000m_3515_0"
+GUANYL-KIN-RXN	NIL	"deepabyss_4000m_9180_0"	"deepabyss_4000m_7758_0"
+BRANCHED-CHAINAMINOTRANSFERVAL-RXN	"Valine transaminase"	"deepabyss_4000m_11044_0"	"deepabyss_4000m_364_1"	"deepabyss_4000m_8189_0"	"deepabyss_4000m_8101_0"	"deepabyss_4000m_4581_1"	"deepabyss_4000m_2072_1"	"deepabyss_4000m_10527_1"	"deepabyss_4000m_3350_1"	"deepabyss_4000m_6205_1"	"deepabyss_4000m_9667_1"
+RXN1G-1053	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"
+RXN1G-1050	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN1G-1057	"trans-delta2-cis,cis-delta19,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+CYSTATHIONINE-BETA-SYNTHASE-RXN	NIL
+XYLISOM-RXN	NIL	"deepabyss_4000m_7590_0"	"deepabyss_4000m_10022_0"	"deepabyss_4000m_10611_0"
+MALIC-NAD-RXN	NIL	"deepabyss_4000m_10095_1"	"deepabyss_4000m_9489_0"	"deepabyss_4000m_2599_0"	"deepabyss_4000m_2254_0"	"deepabyss_4000m_7832_0"
+ALTRO-OXIDOREDUCT-RXN	NIL
+IMP-DEHYDROG-RXN	NIL	"deepabyss_4000m_2659_0"	"deepabyss_4000m_6371_0"	"deepabyss_4000m_9488_1"	"deepabyss_4000m_9488_0"
+RXN3O-4113	"tyrosol dehydrogenase"	"deepabyss_4000m_2879_1"	"deepabyss_4000m_360_1"	"deepabyss_4000m_1634_1"	"deepabyss_4000m_425_0"	"deepabyss_4000m_255_1"	"deepabyss_4000m_6235_0"	"deepabyss_4000m_5041_0"	"deepabyss_4000m_11026_0"	"deepabyss_4000m_1036_1"	"deepabyss_4000m_3085_1"
+RXN0-961	NIL
+HOMOSERDEHYDROG-RXN	NIL	"deepabyss_4000m_10034_0"	"deepabyss_4000m_2808_0"	"deepabyss_4000m_10303_0"	"deepabyss_4000m_10856_0"	"deepabyss_4000m_3381_0"	"deepabyss_4000m_3072_0"	"deepabyss_4000m_8836_0"	"deepabyss_4000m_8913_0"
+RXN1G-883	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+AMP-DEAMINASE-RXN	NIL
+RXN-9023	NIL	"deepabyss_4000m_8808_1"
+RXN-9756	NIL
+RXN-9025	"maltodextrin phosphorylase"	"deepabyss_4000m_2619_1"	"deepabyss_4000m_6635_1"	"deepabyss_4000m_6635_0"	"deepabyss_4000m_476_0"
+RXN-9758	NIL	"deepabyss_4000m_5406_1"	"deepabyss_4000m_6898_2"	"deepabyss_4000m_4514_0"	"deepabyss_4000m_3390_0"	"deepabyss_4000m_9826_0"	"deepabyss_4000m_429_0"	"deepabyss_4000m_3198_0"	"deepabyss_4000m_4046_0"	"deepabyss_4000m_291_0"	"deepabyss_4000m_6545_0"	"deepabyss_4000m_6738_1"	"deepabyss_4000m_9530_0"	"deepabyss_4000m_182_0"	"deepabyss_4000m_2363_0"	"deepabyss_4000m_140_1"	"deepabyss_4000m_3584_0"	"deepabyss_4000m_9416_1"
+RXN-9759	NIL
+RXN-10773	"cellobiose &beta;-glucosidase"	"deepabyss_4000m_5678_0"	"deepabyss_4000m_10346_0"
+RXN-8190	NIL
+SAMDECARB-RXN	NIL	"deepabyss_4000m_588_1"	"deepabyss_4000m_4528_0"
+PDXJ-RXN	NIL	"deepabyss_4000m_6099_0"
+F16BDEPHOS-RXN	NIL	"deepabyss_4000m_1349_0"
+ALPHAGALACTOSID-RXN	"&alpha;-galactosidase"	"deepabyss_4000m_9817_0"	"deepabyss_4000m_5471_0"
+UDP-NACMUR-ALA-LIG-RXN	NIL	"deepabyss_4000m_6586_0"
+AMPSYN-RXN	NIL
+RXN-6161	NIL
+RXN-9627	"lauroyl-CoA hydrolase"
+RXN-9624	"Stearoyl-CoA hydrolase"	"deepabyss_4000m_811_0"
+RXN-9628	"decanoyl-CoA hydrolase"	"deepabyss_4000m_811_0"
+TEICHOICSYN4-RXN	NIL
+BETA-UREIDOPROPIONASE-RXN	NIL	"deepabyss_4000m_8203_0"
+RXN-12337	NIL
+ALDXANAU-RXN	NIL
+GLYRIBONUCSYN-RXN	NIL	"deepabyss_4000m_5957_0"	"deepabyss_4000m_8669_0"	"deepabyss_4000m_1640_1"
+RXN-6763	NIL
+RXN1G-874	NIL
+RXN-13082	NIL
+RXN-13081	NIL
+RXN-13088	NIL
+RXN-13089	NIL
+RXN1G-473	"trehalose-cis-keto-mono-mycolate transport"
+RXN1G-472	"trehalose-trans-methoxy-mono-mycolate transport"
+MALEATE-ISOMERASE-RXN	NIL	"deepabyss_4000m_1546_0"	"deepabyss_4000m_6919_0"
+RXN1G-470	"trehalose-cis-methoxy-mono-mycolate transport"
+RXN1G-474	"trehalose-trans-keto-mono-mycolate transport"
+RXN-11505	NIL
+PHOSCHOL-RXN	NIL	"deepabyss_4000m_10194_1"
+3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	NIL	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+RXN0-1342	NIL
+CITSYN-RXN	NIL	"deepabyss_4000m_5855_0"	"deepabyss_4000m_1811_1"	"deepabyss_4000m_9911_0"	"deepabyss_4000m_4772_0"	"deepabyss_4000m_4713_0"	"deepabyss_4000m_4950_1"	"deepabyss_4000m_1207_2"
+DEOXYGLUCONOKIN-RXN	NIL
+RXN-7968	NIL
+PPGPPSYN-RXN	NIL
+RXN-12204	NIL
+RXN-11974	"<i>all-trans</i>-lycopene desaturase"
+RXN-11976	"torulene synthase"
+2.4.1.114-RXN	NIL
+RXN-13336	NIL
+GLUC1PURIDYLTRANS-RXN	NIL	"deepabyss_4000m_10969_0"	"deepabyss_4000m_6412_0"	"deepabyss_4000m_10873_0"
+RXN-13536	"phenylacetaldehyde reductase"
+RXN-7567	"indole-3-acetonitrile hydratase"	"deepabyss_4000m_8310_1"	"deepabyss_4000m_5609_2"
+RXN-7566	NIL	"deepabyss_4000m_8802_0"	"deepabyss_4000m_7164_2"	"deepabyss_4000m_7164_0"
+RXN-7775	NIL
+RXN-13532	"2-methylbacteriohopanetetrol synthase"
+RXN-13533	"aminobacteriohopanetriol synthase"
+SPERMIDINESYN-RXN	NIL	"deepabyss_4000m_9460_0"	"deepabyss_4000m_5887_0"
+PGLUCISOM-RXN	"glucose-6-phosphate isomerase"
+RXN1G-384	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+ACETOACETATE-DECARBOXYLASE-RXN	NIL
+TYROSINE-DECARBOXYLASE-RXN	NIL
+SULFATE-ADENYLYLTRANS-RXN	NIL	"deepabyss_4000m_5833_0"	"deepabyss_4000m_10310_0"	"deepabyss_4000m_9008_0"	"deepabyss_4000m_9924_0"	"deepabyss_4000m_7711_0"	"deepabyss_4000m_9361_0"	"deepabyss_4000m_7105_0"	"deepabyss_4000m_8451_1"	"deepabyss_4000m_1174_0"	"deepabyss_4000m_271_0"	"deepabyss_4000m_5456_1"	"deepabyss_4000m_7115_0"
+3.2.1.48-RXN	NIL
+RXN-13426	"&alpha;-linolenoyl-CoA &Delta;<sup>6</sup>-desaturase"
+RXN-7784	NIL	"deepabyss_4000m_7041_0"	"deepabyss_4000m_7395_1"
+RXN-13428	NIL
+RXN-13429	"eicosatetraenoyl-CoA &Delta;<sup>5</sup> desaturase"
+3-ISOPROPYLMALISOM-RXN	"3-isopropylmalate dehydratase"	"deepabyss_4000m_5082_1"
+1.1.1.8-RXN	NIL	"deepabyss_4000m_2183_1"
+RXN-12933	"dTDP-L-mycarosyl: erythronolide B mycarosyltransferase"
+OHACYL-COA-DEHYDROG-RXN	NIL	"deepabyss_4000m_1828_0"	"deepabyss_4000m_10233_0"	"deepabyss_4000m_4396_0"	"deepabyss_4000m_4253_1"	"deepabyss_4000m_4252_0"	"deepabyss_4000m_6046_0"	"deepabyss_4000m_5704_0"
+RXN-1321	NIL
+ACETYLHOMOSER-CYS-RXN	NIL
+PRPPAMIDOTRANS-RXN	NIL	"deepabyss_4000m_2600_0"	"deepabyss_4000m_5584_1"	"deepabyss_4000m_5584_0"	"deepabyss_4000m_7081_0"	"deepabyss_4000m_635_0"	"deepabyss_4000m_9381_0"
+1.5.1.9-RXN	NIL	"deepabyss_4000m_10503_2"	"deepabyss_4000m_6404_1"	"deepabyss_4000m_9288_0"
+RXN1G-127	"cis,cis-delta11,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN1G-499	"3-oxo-lignoceroyl-[acyl-carrier protein] synthase"
+5.5.1.2-RXN	NIL
+IGPSYN-RXN	NIL	"deepabyss_4000m_8110_0"	"deepabyss_4000m_590_0"	"deepabyss_4000m_6474_0"	"deepabyss_4000m_208_0"
+RXN-5821	NIL
+RXN-5822	"NADP phosphatase"
+GMP-SYN-NH3-RXN	NIL
+THIOSULFATE-SULFURTRANSFERASE-RXN	NIL	"deepabyss_4000m_4439_1"	"deepabyss_4000m_10653_0"	"deepabyss_4000m_64_1"	"deepabyss_4000m_9754_0"	"deepabyss_4000m_5185_0"	"deepabyss_4000m_2630_0"	"deepabyss_4000m_357_1"	"deepabyss_4000m_9717_0"
+RXN-12065	NIL
+RXN-12064	"indol-3-ylacetaldoxime isomerase"
+NMNNUCLEOSID-RXN	NIL
+RXN-12062	"<i>N</i>-hydroxy-L-tryptophan <em>N</em>-monooxygenase"
+RXN-12061	"tryptophan <em>N</em>-monooxygenase"
+RXN-4444	NIL
+RXN-4443	NIL
+PYRROLINECARBDEHYDROG-RXN	"1-pyrroline-5-carboxylate dehydrogenase"
+ALANINE-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_150_1"	"deepabyss_4000m_10248_0"
+GDPKIN-RXN	NIL
+MALATE-DEHYDROGENASE-NADP+-RXN	NIL
+RXNN-404	"indole acetamide hydrolase"	"deepabyss_4000m_1408_0"	"deepabyss_4000m_4459_0"	"deepabyss_4000m_3108_0"	"deepabyss_4000m_7439_0"	"deepabyss_4000m_956_0"	"deepabyss_4000m_3259_0"	"deepabyss_4000m_4321_0"	"deepabyss_4000m_6594_0"	"deepabyss_4000m_941_0"	"deepabyss_4000m_5624_1"	"deepabyss_4000m_6146_1"	"deepabyss_4000m_6513_0"	"deepabyss_4000m_5549_0"	"deepabyss_4000m_9915_0"	"deepabyss_4000m_7553_0"	"deepabyss_4000m_403_0"	"deepabyss_4000m_3909_0"
+CDPREDUCT-RXN	NIL
+RXN-8214	NIL
+RXN-8215	NIL
+ALKANE-1-MONOOXYGENASE-RXN	NIL	"deepabyss_4000m_726_0"	"deepabyss_4000m_9256_0"
+PSII-RXN	NIL
+RXN-10696	NIL
+RXN-10697	NIL	"deepabyss_4000m_4668_1"	"deepabyss_4000m_4336_0"	"deepabyss_4000m_5816_0"	"deepabyss_4000m_8082_1"	"deepabyss_4000m_5633_0"	"deepabyss_4000m_2259_0"	"deepabyss_4000m_5156_0"	"deepabyss_4000m_8883_0"	"deepabyss_4000m_6342_1"	"deepabyss_4000m_8257_0"	"deepabyss_4000m_9400_0"	"deepabyss_4000m_1371_0"	"deepabyss_4000m_6123_0"	"deepabyss_4000m_9607_0"	"deepabyss_4000m_6489_1"	"deepabyss_4000m_1397_0"	"deepabyss_4000m_8029_0"
+HYPOXANPRIBOSYLTRAN-RXN	NIL	"deepabyss_4000m_11034_0"	"deepabyss_4000m_482_0"
+PANTOTHENATE-KIN-RXN	NIL	"deepabyss_4000m_9105_0"	"deepabyss_4000m_4113_0"	"deepabyss_4000m_3024_0"
+1.3.7.5-RXN	NIL
+RXN-11747	NIL
+RXN-11746	NIL
+RXN-11745	"5-fluoro-5-deoxy-d-ribulose-1-phosphate aldolase"
+RXN-11744	"5-fluoro-5-deoxy-D-ribose-1-phosphate isomerase"
+RXN-11743	"5'-deoxy-5'-fluoroadenosine phosphorylase"	"deepabyss_4000m_8621_0"
+RXN-8035	NIL
+RXN-10698	NIL	"deepabyss_4000m_1828_0"	"deepabyss_4000m_10233_0"	"deepabyss_4000m_4396_0"	"deepabyss_4000m_4253_1"	"deepabyss_4000m_4252_0"	"deepabyss_4000m_6046_0"	"deepabyss_4000m_5704_0"
+RXN-10699	NIL	"deepabyss_4000m_4601_0"	"deepabyss_4000m_10316_0"	"deepabyss_4000m_5673_1"	"deepabyss_4000m_10780_1"	"deepabyss_4000m_7064_0"	"deepabyss_4000m_1471_0"	"deepabyss_4000m_7729_0"	"deepabyss_4000m_3812_0"
+2.1.1.19-RXN	NIL
+DEOXYINOPHOSPHOR-RXN	NIL	"deepabyss_4000m_8621_0"
+DAHPSYN-RXN	NIL	"deepabyss_4000m_466_0"	"deepabyss_4000m_510_0"	"deepabyss_4000m_9751_0"	"deepabyss_4000m_9805_1"	"deepabyss_4000m_4300_0"	"deepabyss_4000m_4541_0"	"deepabyss_4000m_10269_0"	"deepabyss_4000m_3366_0"	"deepabyss_4000m_9438_0"
+GLURS-RXN	NIL	"deepabyss_4000m_1757_1"	"deepabyss_4000m_1757_0"	"deepabyss_4000m_8399_0"
+GUANPRIBOSYLTRAN-RXN	NIL	"deepabyss_4000m_11034_0"	"deepabyss_4000m_482_0"
+ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	NIL	"deepabyss_4000m_7696_0"	"deepabyss_4000m_3436_0"	"deepabyss_4000m_9267_0"	"deepabyss_4000m_471_0"
+ARGININE-DEIMINASE-RXN	NIL
+ADENODEAMIN-RXN	NIL	"deepabyss_4000m_9055_0"
+RXN-12978	NIL	"deepabyss_4000m_398_0"	"deepabyss_4000m_8171_0"	"deepabyss_4000m_4683_0"	"deepabyss_4000m_9525_0"	"deepabyss_4000m_6837_1"	"deepabyss_4000m_1986_0"	"deepabyss_4000m_6298_0"	"deepabyss_4000m_9866_0"	"deepabyss_4000m_6394_0"	"deepabyss_4000m_8511_0"	"deepabyss_4000m_9890_0"	"deepabyss_4000m_4730_0"	"deepabyss_4000m_989_0"	"deepabyss_4000m_6937_0"	"deepabyss_4000m_1961_0"
+6-HEXANOLIDE-HYDROLYSIS-RXN	"6-hexanolide hydrolysis"
+THI-P-SYN-RXN	NIL	"deepabyss_4000m_1422_0"
+5.3.1.17-RXN	NIL	"deepabyss_4000m_10502_0"
+RXN-11587	NIL
+RXN-1824	NIL
+URACIL-PRIBOSYLTRANS-RXN	NIL	"deepabyss_4000m_2494_0"
+FUC4NACTRANS-RXN	NIL
+TRYPTOPHAN--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_3171_0"	"deepabyss_4000m_2055_0"	"deepabyss_4000m_908_0"	"deepabyss_4000m_7303_0"
+GLYOXIII-RXN	NIL	"deepabyss_4000m_5950_0"	"deepabyss_4000m_9612_0"	"deepabyss_4000m_6616_0"	"deepabyss_4000m_7440_0"	"deepabyss_4000m_7602_1"	"deepabyss_4000m_3140_1"
+FATTY-ACYL-COA-SYNTHASE-RXN	NIL	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+RXN-1828	NIL	"deepabyss_4000m_8808_1"
+ACETOOHBUTREDUCTOISOM-RXN	NIL	"deepabyss_4000m_2042_0"	"deepabyss_4000m_10469_0"	"deepabyss_4000m_3504_1"	"deepabyss_4000m_6219_0"	"deepabyss_4000m_7933_1"	"deepabyss_4000m_8398_0"	"deepabyss_4000m_9368_0"	"deepabyss_4000m_3244_1"
+PHENYLALANINE-AMMONIA-LYASE-RXN	NIL
+CYSTAGLY-RXN	NIL	"deepabyss_4000m_5931_1"
+PYRIMSYN3-RXN	NIL
+GLUTSEMIALDEHYDROG-RXN	NIL	"deepabyss_4000m_10650_0"	"deepabyss_4000m_1730_0"
+N-ACETYLGLUTPREDUCT-RXN	NIL	"deepabyss_4000m_10749_0"	"deepabyss_4000m_3369_0"
+RXN1G-1117	"trans-delta2-cis,cis-delta13,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+KETOGLUTREDUCT-RXN	NIL
+R541-RXN	NIL	"deepabyss_4000m_2200_0"
+PHOSGLYPHOS-RXN	NIL	"deepabyss_4000m_10585_0"	"deepabyss_4000m_9345_0"	"deepabyss_4000m_2513_0"	"deepabyss_4000m_3174_0"	"deepabyss_4000m_4145_1"
+ACETYL-COA-CARBOXYLTRANSFER-RXN	NIL	"deepabyss_4000m_896_1"	"deepabyss_4000m_8149_0"	"deepabyss_4000m_3425_0"	"deepabyss_4000m_3019_0"	"deepabyss_4000m_8014_0"
+HISTCYCLOHYD-RXN	NIL	"deepabyss_4000m_1725_1"
+GLUTACONYL-COA-DECARBOXYLASE-RXN	NIL	"deepabyss_4000m_10199_0"
+4.3.1.4-RXN	NIL
+ISOHEXENYLGLUTACONYL-COA-HYDRATASE-RXN	NIL
+1.1.1.209-RXN	"androsterone 3-dehydrogenase"
+RXN-9633	"3-oxo-stearoyl-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+RXN-9632	"3-oxo-stearoyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+RXN-9635	"<i>trans</i>-octadec-2-enoyl-[acyl-carrier-protein] reductase"	"deepabyss_4000m_9961_1"	"deepabyss_4000m_4590_1"	"deepabyss_4000m_10237_0"
+RXN-9634	"3-hydroxystearoyl-[acyl-carrier protein] dehydratase"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+R546-RXN	NIL
+MALATE-DEH-RXN	NIL	"deepabyss_4000m_8970_0"	"deepabyss_4000m_9114_1"	"deepabyss_4000m_6494_0"	"deepabyss_4000m_10127_1"	"deepabyss_4000m_961_1"	"deepabyss_4000m_2254_0"	"deepabyss_4000m_7832_0"
+DEHYDDEOXPHOSGALACT-ALDOL-RXN	"2-dehydro-3-deoxy-6-phosphogalactonate aldolase"	"deepabyss_4000m_7070_0"
+FERREDOXIN--NITRITE-REDUCTASE-RXN	NIL	"deepabyss_4000m_4146_0"
+6.3.2.10-RXN	NIL	"deepabyss_4000m_3179_0"
+4.2.1.58-RXN	"crotonoyl-[acyl-carrier-protein] hydratase"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"
+R468-RXN	NIL
+KDO-8PPHOSPHAT-RXN	NIL	"deepabyss_4000m_3778_0"	"deepabyss_4000m_3082_0"
+RXN3O-458	"phytosphingosine kinase"
+MALEYLPYRUVATE-ISOMERASE-RXN	NIL	"deepabyss_4000m_3472_0"
+RXN-13529	"ribosyl hopane synthase"
+1.13.11.25-RXN	NIL
+KETOHEXOKINASE-RXN	NIL
+2.4.1.117-RXN	NIL
+RXN1G-865	"<i>trans</i>-methoxy-meroacyl transferase"
+RXN1G-866	"cis-keto-meroacyl-transferase"
+RXN1G-867	"<i>trans</i>-keto-meroacyl transferase"
+NAD-SYNTH-NH3-RXN	NIL
+RXN1G-464	"cis,cis-delta5,17-3-hydroxyC36:2-[acyl-carrier protein] dehydratase"
+RXN-12397	NIL
+XMPXAN-RXN	"XMP-5'-nucleotidase"	"deepabyss_4000m_1313_0"
+PHOSPHOGLUCMUT-RXN	NIL	"deepabyss_4000m_9499_0"
+PPPGPPHYDRO-RXN	NIL
+RXN1G-468	"trans-delta2-cis,cis-delta7,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-469	"3-oxobehenoyl-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+RXN1G-262	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN1G-260	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] reductase"	"deepabyss_4000m_2812_0"
+RXN1G-266	"cis-delta9-3-hydroxyC28:1-[acyl-carrier protein] dehydratase"
+FORMYLTHFGLUSYNTH-RXN	NIL
+FUMARYLACETOACETASE-RXN	NIL	"deepabyss_4000m_7556_0"	"deepabyss_4000m_4662_0"	"deepabyss_4000m_539_0"	"deepabyss_4000m_8653_1"	"deepabyss_4000m_6781_0"	"deepabyss_4000m_2107_0"
+LACTOSE-DEHYDRO-RXN	"lactose 3-dehydrogenase"
+RXN-11902	NIL
+THREODEHYD-RXN	NIL	"deepabyss_4000m_7548_0"	"deepabyss_4000m_964_0"	"deepabyss_4000m_9526_0"	"deepabyss_4000m_2935_1"	"deepabyss_4000m_10871_0"
+HOMOCYSMETB12-RXN	NIL	"deepabyss_4000m_250_0"	"deepabyss_4000m_5124_0"	"deepabyss_4000m_9378_0"	"deepabyss_4000m_4263_0"	"deepabyss_4000m_8130_1"
+2PGADEHYDRAT-RXN	NIL	"deepabyss_4000m_2818_1"	"deepabyss_4000m_8563_0"	"deepabyss_4000m_9308_0"	"deepabyss_4000m_8867_0"	"deepabyss_4000m_6636_0"	"deepabyss_4000m_1626_0"	"deepabyss_4000m_9276_0"
+RXN0-5055	NIL	"deepabyss_4000m_896_1"	"deepabyss_4000m_8149_0"	"deepabyss_4000m_3425_0"	"deepabyss_4000m_3019_0"	"deepabyss_4000m_8014_0"
+3.1.3.57-RXN	NIL
+RXN0-5120	NIL
+RXN0-5121	NIL
+RXN0-5122	NIL
+RXN0-5123	NIL
+RXN0-5124	NIL
+RXN0-5125	NIL
+RXN0-5126	NIL
+RXN0-5127	NIL
+P-PANTOCYSLIG-RXN	NIL
+TRANS-CINNAMATE-4-MONOOXYGENASE-RXN	NIL
+LACTALDDEHYDROG-RXN	NIL
+1.1.1.39-RXN	NIL
+RXN1G-396	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-395	"trans-eicos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+N-CARBAMOYLSARCOSINE-AMIDASE-RXN	NIL	"deepabyss_4000m_10251_0"
+RXN0-6491	"dihydroorotate dehydrogenase"
+D-PPENTOMUT-RXN	"D-deoxyribose 1,5-phosphomutase"	"deepabyss_4000m_8057_0"
+RXN-12691	NIL
+GDPPYPHOSKIN-RXN	NIL	"deepabyss_4000m_7733_0"	"deepabyss_4000m_6613_0"	"deepabyss_4000m_2150_0"
+3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN	"3-hydroxyisobutyryl-CoA hydrolase"
+PHOSPHASERDECARB-RXN	NIL	"deepabyss_4000m_6975_1"
+RXN1G-3993	"C52-&alpha;-meroacyl-[acp] synthetase"
+RXN0-2044	"3-hydroxyadipyl-CoA dehydrogenase"	"deepabyss_4000m_1828_0"	"deepabyss_4000m_10233_0"	"deepabyss_4000m_4396_0"	"deepabyss_4000m_4253_1"	"deepabyss_4000m_4252_0"	"deepabyss_4000m_6046_0"	"deepabyss_4000m_5704_0"
+RXN0-2042	NIL
+4.1.1.77-RXN	NIL	"deepabyss_4000m_247_0"
+RIBOFLAVINKIN-RXN	NIL
+RXN1G-645	"3-cis,cis-delta9,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN1G-137	"trehalose-mono-mycolate transport"
+RXN1G-488	"trans-docos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-11002	NIL
+RXN1G-481	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN-12070	NIL
+RXN-12071	NIL
+RXN-12072	NIL	"deepabyss_4000m_2271_0"	"deepabyss_4000m_2795_0"
+RXN-12073	NIL
+RXN-12078	"&beta;-D-galactose reductase"
+RXN-12079	"D-galactitol dehydrogenase"
+2KETO-3METHYLVALERATE-RXN	"(<i>S</i>)-3-methyl-2-oxopentanoate dehydrogenase (acylating)"
+DAPASYN-RXN	NIL	"deepabyss_4000m_74_0"	"deepabyss_4000m_9292_0"
+LUMAZINESYN-RXN	NIL	"deepabyss_4000m_7726_1"	"deepabyss_4000m_10992_2"
+RXN-0	NIL
+RXN-1	NIL	"deepabyss_4000m_3301_1"	"deepabyss_4000m_10648_1"
+NICOTINATE-DEHYDROGENASE-RXN	NIL
+RXN-9	NIL
+NICOTINAMID-RXN	NIL	"deepabyss_4000m_7553_0"	"deepabyss_4000m_403_0"	"deepabyss_4000m_3909_0"
+RXNQT-4142	NIL
+RXNQT-4141	NIL
+GALACTONDEHYDRAT-RXN	NIL	"deepabyss_4000m_3441_0"	"deepabyss_4000m_4567_1"	"deepabyss_4000m_7070_1"
+SARCOX-RXN	NIL	"deepabyss_4000m_595_1"	"deepabyss_4000m_3142_1"	"deepabyss_4000m_447_1"	"deepabyss_4000m_447_0"	"deepabyss_4000m_10290_1"	"deepabyss_4000m_10290_0"	"deepabyss_4000m_197_0"	"deepabyss_4000m_3784_1"	"deepabyss_4000m_9404_0"	"deepabyss_4000m_788_0"
+RXN-8026	"&beta;-cryptoxanthin 3'-hydroxylase"
+RXN-8025	"&beta;-carotene 3-hydroxylase"
+GLUTATHIONE-SYN-RXN	NIL	"deepabyss_4000m_3855_0"
+RXN0-363	NIL
+4.1.1.82-RXN	NIL
+RXN-14188	NIL
+RXN-11353	NIL
+O-SUCCHOMOSERLYASE-RXN	NIL	"deepabyss_4000m_5150_2"	"deepabyss_4000m_9097_0"
+RXN-13440	"cyanophycin primer-L-aspartate:L-arginine ligase"
+ASNSYNA-RXN	NIL	"deepabyss_4000m_4846_0"	"deepabyss_4000m_4960_0"	"deepabyss_4000m_4296_0"	"deepabyss_4000m_8419_0"	"deepabyss_4000m_10341_0"	"deepabyss_4000m_5007_1"
+RXN-1685	NIL
+GLUCOSAMINE-6-P-DEAMIN-RXN	NIL
+IMIDAZOLONEPROPIONASE-RXN	NIL
+RXN-2881	NIL
+4-HYDROXYBENZOATE--COA-LIGASE-RXN	NIL	"deepabyss_4000m_1876_0"
+PEPCARBOXYKIN-RXN	NIL	"deepabyss_4000m_2190_0"	"deepabyss_4000m_13_0"
+GALACTOKIN-RXN	NIL
+4-HYDROXYGLUTAMATE-AMINOTRANSFERASE-RXN	NIL
+1.8.98.1-RXN	NIL	"deepabyss_4000m_6075_1"	"deepabyss_4000m_6075_0"
+RXN0-949	NIL	"deepabyss_4000m_8660_1"	"deepabyss_4000m_8660_0"
+ARACHIDONATE-5-LIPOXYGENASE-RXN	"arachidonate 5-lipoxygenase"
+RXN0-947	NIL
+ARGININE-N-SUCCINYLTRANSFERASE-RXN	NIL
+RXN-9003	NIL
+2.7.1.121-RXN	NIL
+DXPREDISOM-RXN	NIL	"deepabyss_4000m_9230_1"	"deepabyss_4000m_954_0"	"deepabyss_4000m_3701_0"	"deepabyss_4000m_9170_0"
+RXN-9009	NIL
+TRIOKINASE-RXN	NIL
+RXN1G-1325	"trans-delta2-cis,cis-delta15,33-C52:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-10096	"4,6-dichloro-3-methylcatechol dioxygenase"
+ACETOLACTSYN-RXN	NIL	"deepabyss_4000m_1877_1"	"deepabyss_4000m_1877_0"	"deepabyss_4000m_6748_0"	"deepabyss_4000m_8453_0"	"deepabyss_4000m_6981_0"	"deepabyss_4000m_3505_1"	"deepabyss_4000m_637_0"	"deepabyss_4000m_3321_0"	"deepabyss_4000m_3152_0"	"deepabyss_4000m_9576_0"	"deepabyss_4000m_7139_0"	"deepabyss_4000m_5978_0"
+2.7.8.15-RXN	NIL
+4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	NIL
+3-DEHYDROQUINATE-SYNTHASE-RXN	NIL	"deepabyss_4000m_7443_2"
+RXN-9648	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"deepabyss_4000m_9189_0"	"deepabyss_4000m_4699_1"	"deepabyss_4000m_4333_1"	"deepabyss_4000m_6152_1"	"deepabyss_4000m_9752_0"	"deepabyss_4000m_7121_0"	"deepabyss_4000m_3702_0"	"deepabyss_4000m_7745_0"	"deepabyss_4000m_1851_0"	"deepabyss_4000m_9707_0"	"deepabyss_4000m_1090_0"	"deepabyss_4000m_6771_0"	"deepabyss_4000m_6209_0"	"deepabyss_4000m_4148_1"
+GDPMANDEHYDRA-RXN	NIL	"deepabyss_4000m_3839_0"	"deepabyss_4000m_6120_0"
+RXN-9644	NIL	"deepabyss_4000m_398_0"	"deepabyss_4000m_8171_0"	"deepabyss_4000m_4683_0"	"deepabyss_4000m_9525_0"	"deepabyss_4000m_6837_1"	"deepabyss_4000m_1986_0"	"deepabyss_4000m_6298_0"	"deepabyss_4000m_9866_0"	"deepabyss_4000m_6394_0"	"deepabyss_4000m_8511_0"	"deepabyss_4000m_9890_0"	"deepabyss_4000m_4730_0"	"deepabyss_4000m_989_0"	"deepabyss_4000m_6937_0"	"deepabyss_4000m_1961_0"
+RXN-9310	NIL
+RXN-9311	NIL
+HOMOGLUTATHIONE-SYNTHASE-RXN	NIL
+2-KETO-ADIPATE-DEHYDROG-RXN	NIL
+N-ACETYLNEURAMINATE-SYNTHASE-RXN	NIL	"deepabyss_4000m_5525_0"	"deepabyss_4000m_1862_0"	"deepabyss_4000m_7780_0"	"deepabyss_4000m_806_0"
+FORMAMIDASE-RXN	NIL
+RXN-9867	NIL
+RXN-9860	NIL
+4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN	NIL	"deepabyss_4000m_7459_0"
+RXNDQC-2	"indole-3-pyruvate monooxygenase"
+HOMOSERINE-O-ACETYLTRANSFERASE-RXN	NIL	"deepabyss_4000m_6475_0"	"deepabyss_4000m_6151_1"
+TEICHOICSYN8-RXN	NIL
+RXN1G-818	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] synthase"	"deepabyss_4000m_10388_0"	"deepabyss_4000m_5573_0"
+CREATININE-DEAMINASE-RXN	NIL
+THIOL-S-METHYLTRANSFERASE-RXN	NIL
+RXN-13537	"phenylacetaldoxime hydrolase"
+RXN-13534	"2-methyltetrahymanol synthase"
+RXN-13535	"2-methyldiplopterol synthase"
+RXN1G-811	"6-O-trans-keto-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-810	"6-O-cis-keto-mycolyl-trehalose O-mycolyltransferase"
+RXN-13530	"formyl hopane synthase"
+RXN-13531	"bacteriohopanetetrol synthase"
+1.1.1.283-RXN	NIL
+1.5.1.15-RXN	NIL
+2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN	"4-methyl-2-oxopentanoate dehydrogenase (acylating)"
+1.5.1.8-RXN	NIL	"deepabyss_4000m_99_0"
+25-DIOXOVALERATE-DEHYDROGENASE-RXN	NIL
+HISTIDINE--TRNA-LIGASE-RXN	NIL	"deepabyss_4000m_6197_0"	"deepabyss_4000m_9337_0"	"deepabyss_4000m_1985_0"	"deepabyss_4000m_43_0"	"deepabyss_4000m_4813_0"	"deepabyss_4000m_1313_1"
+LYSDECARBOX-RXN	NIL	"deepabyss_4000m_4824_0"
+RXN1G-252	"cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] reductase"	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN0-1321	NIL	"deepabyss_4000m_5561_0"	"deepabyss_4000m_10663_1"
+RXN-12263	"presqualene diphosphate synthase"	"deepabyss_4000m_7507_0"
+D-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	NIL	"deepabyss_4000m_7270_0"	"deepabyss_4000m_9625_0"	"deepabyss_4000m_188_0"	"deepabyss_4000m_3771_0"	"deepabyss_4000m_4975_0"	"deepabyss_4000m_8030_0"
+R544-RXN	NIL
+RXN-11917	"7-methyl-3-oxo-6-octenoyl-CoA:acetyl-CoA C-acyltransferase"
+BENZOATE--COA-LIGASE-RXN	NIL
+GLCNACPTRANS-RXN	NIL
+3.2.1.37-RXN	NIL
+RXN-11918	"5-methylhex-4-enoyl-CoA dehydrogenase"
+RXN-11919	"(2<i>E</i>)-5-methylhexa-2,4-dienoyl-CoA hydratase"
+RXN-12867	NIL
+RXN-12865	NIL
+RXN-12864	"Painter reaction"
+3.1.4.11-RXN	NIL	"deepabyss_4000m_4792_1"
+RXN66-221	NIL	"deepabyss_4000m_5352_0"	"deepabyss_4000m_5708_0"
+RXN-8444	NIL
+PROTOPORGENOXI-RXN	NIL	"deepabyss_4000m_6756_0"
+DIAMINOPIMDECARB-RXN	NIL	"deepabyss_4000m_3560_0"
+PROLINE-RACEMASE-RXN	NIL	"deepabyss_4000m_1036_0"	"deepabyss_4000m_6480_0"
+RXN-12460	"L-asparaginyl-tRNA<SUP>asn</SUP> hydrolase"	"deepabyss_4000m_11114_0"	"deepabyss_4000m_2266_1"
+RXN1G-3613	"cis,cis-&Delta;21,39-C58:2-[acp] reductase"
+OROPRIBTRANS-RXN	NIL	"deepabyss_4000m_8096_0"	"deepabyss_4000m_6280_1"	"deepabyss_4000m_10972_1"
+RXN-13446	NIL
+RXN-12912	NIL
+RXN-13444	NIL
+RXN-13445	NIL
+RXN-13442	NIL
+RXN-13443	NIL	"deepabyss_4000m_5956_0"	"deepabyss_4000m_10698_0"	"deepabyss_4000m_5719_0"	"deepabyss_4000m_1163_0"	"deepabyss_4000m_4867_1"	"deepabyss_4000m_5195_0"	"deepabyss_4000m_3141_0"	"deepabyss_4000m_7801_0"	"deepabyss_4000m_1984_0"	"deepabyss_4000m_386_1"	"deepabyss_4000m_6060_0"	"deepabyss_4000m_7313_1"	"deepabyss_4000m_1451_0"	"deepabyss_4000m_4613_0"	"deepabyss_4000m_9978_1"	"deepabyss_4000m_6886_0"	"deepabyss_4000m_11008_0"	"deepabyss_4000m_9133_0"	"deepabyss_4000m_7408_0"	"deepabyss_4000m_3400_0"	"deepabyss_4000m_5094_0"	"deepabyss_4000m_9111_1"	"deepabyss_4000m_2222_0"	"deepabyss_4000m_7196_0"	"deepabyss_4000m_3543_0"	"deepabyss_4000m_6577_1"	"deepabyss_4000m_1934_0"	"deepabyss_4000m_2812_0"
+RXN-12667	NIL
+RXN-13441	NIL
+1.2.4.4-RXN	NIL	"deepabyss_4000m_5207_0"	"deepabyss_4000m_227_0"	"deepabyss_4000m_9566_0"	"deepabyss_4000m_8210_0"	"deepabyss_4000m_8683_0"	"deepabyss_4000m_3314_2"	"deepabyss_4000m_4684_0"
+RXN-12918	"6-deoxyerythronolide B monooxygenase"
+1.1.1.271-RXN	NIL	"deepabyss_4000m_3247_0"	"deepabyss_4000m_2766_0"
+RXN-13528	"adenosyl hopane synthase"
+RIBOFLAVINSYNDEAM-RXN	NIL	"deepabyss_4000m_3147_0"	"deepabyss_4000m_4010_1"	"deepabyss_4000m_5024_1"	"deepabyss_4000m_502_1"
+H2-METHYLENE-THMPT-DEHYDRO-RXN	NIL
+TRIOSEPISOMERIZATION-RXN	NIL	"deepabyss_4000m_8681_0"	"deepabyss_4000m_2513_1"	"deepabyss_4000m_1580_0"	"deepabyss_4000m_4145_0"	"deepabyss_4000m_10247_0"
+RXN-8527	"2-hydroxymuconate semialdehyde dehydrogenase"
+RXN-8529	NIL
+DMBPPRIBOSYLTRANS-RXN	NIL
+RXN-12001	NIL
+RXN-12000	NIL	"deepabyss_4000m_3628_0"	"deepabyss_4000m_9508_0"	"deepabyss_4000m_3085_0"
+RXN-12002	NIL	"deepabyss_4000m_3608_0"	"deepabyss_4000m_3563_1"	"deepabyss_4000m_3025_0"	"deepabyss_4000m_1324_0"	"deepabyss_4000m_10470_1"	"deepabyss_4000m_6265_1"

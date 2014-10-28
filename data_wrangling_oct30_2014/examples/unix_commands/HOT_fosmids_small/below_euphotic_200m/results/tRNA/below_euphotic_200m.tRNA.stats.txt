@@ -1,0 +1,147 @@
+sequence name	tRNA Type	anticodon	start position	 end position	strand
+below_euphotic_200m_56	Glu	ttc	178	250	+
+below_euphotic_200m_202	Glu 	 ttc	540	466	-
+below_euphotic_200m_295	Thr 	 cgt	310	238	-
+below_euphotic_200m_315	Ser	gct	71	154	+
+below_euphotic_200m_324	Glu	ctc	427	500	+
+below_euphotic_200m_340	Gly 	 tcc	142	69	-
+below_euphotic_200m_417	Gly 	 ccc	443	372	-
+below_euphotic_200m_555	Ser 	 cga	655	569	-
+below_euphotic_200m_788	Gly	ccc	385	456	+
+below_euphotic_200m_798	Val	gac	544	617	+
+below_euphotic_200m_956	Gly	gcc	316	388	+
+below_euphotic_200m_1053	Pro 	 ggg	333	259	-
+below_euphotic_200m_1258	Asn	gtt	248	319	+
+below_euphotic_200m_1541	Cys 	 gca	596	523	-
+below_euphotic_200m_2034	Gln 	 ttg	114	43	-
+below_euphotic_200m_2034	Thr 	 ggt	114	43	-
+below_euphotic_200m_2062	Pro	tgg	560	634	+
+below_euphotic_200m_2064	Arg 	 tct	582	510	-
+below_euphotic_200m_2127	Asp 	 gtc	185	114	-
+below_euphotic_200m_2212	Trp	cca	438	511	+
+below_euphotic_200m_2437	Thr 	 ggt	781	710	-
+below_euphotic_200m_2577	Ala 	 tgc	710	638	-
+below_euphotic_200m_2592	Leu 	 gag	558	475	-
+below_euphotic_200m_3392	Asp	gtc	506	580	+
+below_euphotic_200m_3705	Pro	tgg	105	179	+
+below_euphotic_200m_3729	Gln	ctg	629	701	+
+below_euphotic_200m_3857	Arg 	 tcg	659	587	-
+below_euphotic_200m_3991	Gly	tcc	484	557	+
+below_euphotic_200m_4056	His	gtg	418	490	+
+below_euphotic_200m_4075	Thr	tgt	410	482	+
+below_euphotic_200m_4093	Gln 	 ttg	361	218	-
+below_euphotic_200m_4093	Gln 	 ttg	361	218	-
+below_euphotic_200m_4093	Gln 	 ttg	361	218	-
+below_euphotic_200m_4093	Thr 	 ggt	361	218	-
+below_euphotic_200m_4093	Thr 	 ggt	361	218	-
+below_euphotic_200m_4093	Thr 	 ggt	361	218	-
+below_euphotic_200m_4093	Thr 	 ggt	361	218	-
+below_euphotic_200m_4093	Thr 	 ggt	361	218	-
+below_euphotic_200m_4093	Thr 	 ggt	361	218	-
+below_euphotic_200m_4093	Thr 	 ggt	361	218	-
+below_euphotic_200m_4093	Thr 	 ggt	361	218	-
+below_euphotic_200m_4134	Gln	ttg	451	521	+
+below_euphotic_200m_4376	Val 	 gac	789	694	-
+below_euphotic_200m_4661	Asn 	 gtt	206	69	-
+below_euphotic_200m_4686	Pro 	 ggg	479	341	-
+below_euphotic_200m_4686	Pro 	 ggg	479	341	-
+below_euphotic_200m_4686	Pro 	 ggg	479	341	-
+below_euphotic_200m_4686	Pro 	 ggg	479	341	-
+below_euphotic_200m_4686	Pro 	 ggg	479	341	-
+below_euphotic_200m_4686	Pro 	 ggg	479	341	-
+below_euphotic_200m_4686	Pro 	 ggg	479	341	-
+below_euphotic_200m_4686	Pro 	 ggg	479	341	-
+below_euphotic_200m_4686	Pro 	 ggg	479	341	-
+below_euphotic_200m_4968	Ala 	 cgc	247	174	-
+below_euphotic_200m_4971	Ser 	 tga	348	266	-
+below_euphotic_200m_5076	Lys	ttt	532	604	+
+below_euphotic_200m_5556	Gln 	 ctg	347	265	-
+below_euphotic_200m_5629	Val	gac	441	514	+
+below_euphotic_200m_5642	Asp	gtc	97	169	+
+below_euphotic_200m_5715	Glu 	 ctc	1019	902	-
+below_euphotic_200m_5715	Glu 	 ctc	1019	902	-
+below_euphotic_200m_5715	Glu 	 ctc	1019	902	-
+below_euphotic_200m_5716	Ser 	 tga	422	340	-
+below_euphotic_200m_5731	Met	cat	479	552	+
+below_euphotic_200m_5731	Val	cac	574	646	+
+below_euphotic_200m_5731	Leu	cag	656	740	+
+below_euphotic_200m_5931	Thr	ggt	14	116	+
+below_euphotic_200m_5931	 	 	15	116	+
+below_euphotic_200m_5931	 	 	16	116	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	 	 	56	176	+
+below_euphotic_200m_5931	Lys	ttt	127	237	+
+below_euphotic_200m_5931	Lys	ttt	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	 	 	127	237	+
+below_euphotic_200m_5931	Lys	ttt	140	242	+
+below_euphotic_200m_6142	Tyr 	 gta	247	147	-
+below_euphotic_200m_6142	Tyr 	 gta	247	147	-
+below_euphotic_200m_6142	Tyr 	 gta	247	147	-
+below_euphotic_200m_6274	Val 	 cac	731	659	-
+below_euphotic_200m_6274	Leu 	 cag	607	525	-
+below_euphotic_200m_6274	Arg 	 gcg	454	382	-
+below_euphotic_200m_6669	Asn	att	646	791	+
+below_euphotic_200m_6669	Asn	att	646	791	+
+below_euphotic_200m_6669	Asn	att	646	791	+
+below_euphotic_200m_6669	Asn	att	646	791	+
+below_euphotic_200m_6855	Arg 	 tcg	680	607	-
+below_euphotic_200m_6889	Pro 	 cgg	81	8	-
+below_euphotic_200m_6977	Asn	gtt	172	243	+
+below_euphotic_200m_7042	Arg	acg	496	569	+
+below_euphotic_200m_7045	Arg	acg	541	614	+
+below_euphotic_200m_7046	Thr 	 cgt	838	766	-
+below_euphotic_200m_7085	Val	tac	641	714	+
+below_euphotic_200m_7088	Val	tac	692	765	+
+below_euphotic_200m_7159	His	gtg	487	559	+
+below_euphotic_200m_7225	Thr 	 ggt	322	251	-
+below_euphotic_200m_7335	His	gtg	90	162	+
+below_euphotic_200m_7335	Lys	ctt	216	288	+
+below_euphotic_200m_7335	Leu	tag	377	458	+
+below_euphotic_200m_7395	His 	 gtg	629	558	-
+below_euphotic_200m_7429	Pro	tgg	31	104	+
+below_euphotic_200m_7541	Glu	ctc	419	494	+
+below_euphotic_200m_7579	Gly	ccc	642	713	+
+below_euphotic_200m_7637	Arg 	 cct	805	734	-
+below_euphotic_200m_7801	Gln 	 ctg	300	228	-
+below_euphotic_200m_7885	Thr 	 cgt	495	423	-
+
+number of sequences = 7981
+number of bases tested (one strand) = 6468281
+number of bases tested (both strands) = 12936562
+number of predicted tRNA=141

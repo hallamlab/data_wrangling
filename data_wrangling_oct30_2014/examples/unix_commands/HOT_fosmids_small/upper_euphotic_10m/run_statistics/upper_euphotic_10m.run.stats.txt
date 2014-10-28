@@ -1,0 +1,38 @@
+1000	Sequences BEFORE Filtering (nucleotide)	7835
+1001	min length	49
+1002	avg length	955
+1003	max length	2105
+1004	tot length	7482595
+1005	Sequences AFTER Filtering (nucleotide)	7735
+1006	min length	180
+1007	avg length	835
+1008	max length	1654
+1009	tot length	6463720
+2000	Sequences BEFORE Filtering (amino)	11769
+2001	min length	19
+2002	avg length	140
+2003	max length	421
+2004	tot length	1647892
+2005	Sequences AFTER Filtering (amino)	9617
+2006	min length	60
+2007	avg length	161
+2008	max length	421
+2009	tot length	1556239
+5000	Total Protein Annotations EggNog_v3_2013_08_07 (LAST)	13781
+5000	Total Protein Annotations KEGG_pep_2013 (LAST)	14330
+5000	Total Protein Annotations CAZy_2013-07-13 (LAST)	209
+5000	Total Protein Annotations COG_2013-12-27 (LAST)	7411
+5000	Total Protein Annotations metacyc-v5-2011-10-21 (LAST)	2194
+5000	Total Protein Annotations RefSeq_complete_nr_v62_dec2013 (LAST)	18084
+5000	Total Protein Annotations seed-2014-01-30 (LAST)	17697
+7000	Taxonomic hits in LSURef_115_tax_silva_2013-12-12	16
+7000	Taxonomic hits in GREENGENES_gg16S-2013-09-12	6
+7000	Taxonomic hits in SSURef_NR99_115_tax_silva_2012-12-12	6
+6000	Protein Annotations from EggNog_v3_2013_08_07	3218
+6001	Protein Annotations from KEGG_pep_2013	3393
+6002	Protein Annotations from CAZy_2013-07-13	64
+6003	Protein Annotations from COG_2013-12-27	1971
+6004	Protein Annotations from metacyc-v5-2011-10-21	703
+6005	Protein Annotations from RefSeq_complete_nr_v62_dec2013	4220
+6006	Protein Annotations from seed-2014-01-30	4084
+6007	Total Protein Annotations	4408

@@ -1,0 +1,2000 @@
+KO	Function Category Level 4	Gene Count
+K12199	VTA1, LIP5; vacuolar protein sorting-associated protein VTA1	0
+K10591	NEDD4, RSP5; E3 ubiquitin-protein ligase NEDD4 [EC:6.3.2.19]	0
+K01115	E3.1.4.4, PLD; phospholipase D [EC:3.1.4.4]	0
+K12492	ARFGAP1; ADP-ribosylation factor GTPase-activating protein 1	0
+K10054	PML, TRIM19; probable transcription factor PML	0
+K06751	MHC1; major histocompatibility complex, class I	0
+K04645	CLTB, LCB; clathrin light chain B	0
+K04644	CLTA, LCA; clathrin light chain A	0
+K04646	CLTC; clathrin heavy chain	0
+K11981	RNF41, NRDP1; E3 ubiquitin-protein ligase NRDP1 [EC:6.3.2.19]	0
+K00889	E2.7.1.68, PIP5K; 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]	0
+K04189	CXCR4; C-X-C chemokine receptor type 4	0
+K04500	SMAD2_3; SMAD, mothers against DPP 2/3	0
+K04180	CCR5; C-C chemokine receptor type 5	0
+K05050	IL8RB, CXCR2; interleukin 8 receptor beta	0
+K12490	ARAP; Arf-GAP, Rho-GAP domain, ANK repeat and PH domain-containing protein	0
+K00909	E2.7.11.14, GRK1, GRK7; rhodopsin kinase [EC:2.7.11.14]	0
+K04175	IL8RA, CXCR1; interleukin 8 receptor alpha	0
+K04678	SMURF; E3 ubiquitin ligase SMURF1/2 [EC:6.3.2.19]	0
+K04679	MADHIP, SARA; MAD, mothers against decapentaplegic interacting protein	0
+K12958	CAV2; caveolin 2	0
+K12959	CAV3; caveolin 3	0
+K04674	TGFBR1; TGF-beta receptor type-1 [EC:2.7.11.30]	0
+K04677	SMAD6_7; SMAD, mothers against DPP 6/7	0
+K05084	ERBB3, HER3; receptor tyrosine-protein kinase erbB-3 [EC:2.7.10.1]	0
+K02833	HRAS; GTPase HRas	0
+K12482	RUFY1, RABIP4; RUN and FYVE domain-containing protein 1	0
+K05085	ERBB4, HER4; receptor tyrosine-protein kinase erbB-4 [EC:2.7.10.1]	0
+K06278	CAV1; caveolin 1	0
+K07904	RAB11A; Ras-related protein Rab-11A	0
+K09235	RME1; zinc finger protein RME1	0
+K04513	RHOA; Ras homolog gene family, member A	0
+K07888	RAB5B; Ras-related protein Rab-5B	0
+K07889	RAB5C; Ras-related protein Rab-5C	0
+K00910	ADRBK, GRK; beta-adrenergic-receptor kinase [EC:2.7.11.15]	0
+K07887	RAB5A; Ras-related protein Rab-5A	0
+K06069	APKC; atypical protein kinase C [EC:2.7.11.13]	0
+K04357	EGF; epidermal growth factor	0
+K13305	NEDD4L; E3 ubiquitin-protein ligase NEDD4-like [EC:6.3.2.19]	0
+K12488	ASAP; Arf-GAP with SH3 domain, ANK repeat and PH domain-containing protein	0
+K12489	ACAP; Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein	0
+K12484	RAB11FIP1_2_5; Rab11 family-interacting protein 1/2/5	0
+K12485	RAB11FIP3_4; Rab11 family-interacting protein 3/4	0
+K12486	SMAP; stromal membrane-associated protein	0
+K12487	GIT2; G protein-coupled receptor kinase interactor 2	0
+K12480	RABEP1; Rab GTPase-binding effector protein 1	0
+K12481	ZFYVE20; rabenosyn-5	0
+K07879	RAB4A, RAB4; Ras-related protein Rab-4A	0
+K12483	EHD1; EH domain-containing protein 1	1
+K12494	PSD; PH and SEC7 domain-containing protein	0
+K07891	RAB22A; Ras-related protein Rab-22A	0
+K07892	RAB31, RAB22B; Ras-related protein Rab-31	0
+K07897	RAB7A; Ras-related protein Rab-7A	0
+K12469	EHD2; EH domain-containing protein 2	0
+K13649	FOLR; folate receptor	0
+K11866	STAMBP, AMSH; STAM-binding protein [EC:3.1.2.15]	0
+K07905	RAB11B; Ras-related protein Rab-11B	0
+K08291	E2.7.11.16; G protein-coupled receptor kinase [EC:2.7.11.16]	0
+K12493	ARFGAP2_3; ADP-ribosylation factor GTPase-activating protein 2/3	0
+K06093	PARD6; partitioning defective protein 6	0
+K12491	AGAP1_2_3; Arf-GAP, GTPase, ANK repeat and PH domain-containing protein 1/2/3	0
+K01528	DNM; dynamin GTPase [EC:3.6.5.5]	0
+K03914	F2R, PAR1; coagulation factor II (thrombin) receptor	0
+K12495	IQSEC; IQ motif and SEC7 domain-containing protein	0
+K03283	HSPA1_8; heat shock 70kDa protein 1/8	0
+K04439	ARRB; beta-arrestin	0
+K12475	DAB2; disabled homolog 2	0
+K12474	LDLRAP1, ARH; low density lipoprotein receptor adapter protein 1	0
+K12477	EHD4; EH domain-containing protein 4	0
+K12476	EHD3; EH domain-containing protein 3	0
+K12471	EPN; epsin	0
+K12470	SH3KBP1, CIN85; SH3 domain-containing kinase-binding protein 1	0
+K12473	LDLR; low-density lipoprotein receptor	0
+K12472	EPS15; epidermal growth factor receptor substrate 15	0
+K12479	VPS45; vacuolar protein sorting-associated protein 45	0
+K12478	EEA1; early endosome antigen 1	0
+K04237	PARD3; partitioning defective protein 3	0
+K05737	GIT1; G protein-coupled receptor kinase interactor 1	0
+K05633	AIP5, WWP1; atrophin-1 interacting protein 5 (WW domain containing E3 ubiquitin protein ligase 1) [EC:6.3.2.19]	0
+K05632	AIP4, ITCH; atrophin-1 interacting protein 4 [EC:6.3.2.19]	0
+K03176	NTRK1, TRKA; neurotrophic tyrosine kinase receptor type 1 [EC:2.7.10.1]	0
+K03175	TRAF6; TNF receptor-associated factor 6	0
+K04388	TGFBR2; TGF-beta receptor type-2 [EC:2.7.11.30]	0
+K05126	RET; proto-oncogene tyrosine-protein kinase Ret [EC:2.7.10.1]	0
+K06643	MDM2; transformed 3T3 cell double minute 2, p53-binding protein [EC:6.3.2.19]	0
+K09526	DNAJC6; DnaJ homolog subfamily C member 6	0
+K05087	IGF1R; insulin-like growth factor 1 receptor [EC:2.7.10.1]	0
+K07941	ARF6; ADP-ribosylation factor 6	0
+K13375	TGFB1; transforming growth factor beta-1	0
+K13377	TGFB3; transforming growth factor beta-3	0
+K13376	TGFB2; transforming growth factor beta-2	0
+K13712	PIP5KL1; phosphatidylinositol-4-phosphate 5-kinase-like protein 1 [EC:2.7.1.68]	0
+K11247	SH3GL; endophilin-A	0
+K11248	SH3GLB; endophilin-B	0
+K05068	IL2RA, CD25; interleukin 2 receptor alpha	0
+K05069	IL2RB; interleukin 2 receptor beta	0
+K04393	CDC42; cell division control protein 42	0
+K06503	TFRC, CD71; transferrin receptor	0
+K12192	CHMP2B; charged multivesicular body protein 2B	0
+K12193	VPS24, CHMP3; charged multivesicular body protein 3	0
+K05099	MET, HGFR; proto-oncogene tyrosine-protein kinase Met [EC:2.7.10.1]	0
+K05098	KDR, VEGFR2; kinase insert domain protein receptor [EC:2.7.10.1]	0
+K12196	VPS4; vacuolar protein-sorting-associated protein 4	0
+K12197	CHMP1, VPS46, DID2; charged multivesicular body protein 1	0
+K12194	CHMP4, SNF7, VPS32; charged multivesicular body protein 4	0
+K12195	CHMP6, VPS20; charged multivesicular body protein 6	0
+K05093	FGFR2; fibroblast growth factor receptor 2 [EC:2.7.10.1]	0
+K05091	KIT, SCFR; proto-oncogene tyrosine-protein kinase Kit [EC:2.7.10.1]	0
+K05090	CSF1R, FMS; macrophage colony-stimulating factor 1 receptor [EC:2.7.10.1]	0
+K05096	FLT1, VEGFR1; FMS-like tyrosine kinase 1 [EC:2.7.10.1]	0
+K05095	FGFR4; fibroblast growth factor receptor 4 [EC:2.7.10.1]	0
+K05094	FGFR3; fibroblast growth factor receptor 3 [EC:2.7.10.1]	0
+K04705	STAM; signal transducing adaptor molecule	0
+K12200	PDCD6IP, ALIX, RIM20; programmed cell death 6-interacting protein	0
+K04707	CBL; E3 ubiquitin-protein ligase CBL [EC:6.3.2.19]	0
+K11839	USP8, UBP5; ubiquitin carboxyl-terminal hydrolase 8 [EC:3.1.2.15]	0
+K04142	ADRB2; adrenergic receptor beta-2	0
+K04143	ADRB3; adrenergic receptor beta-3	0
+K04141	ADRB1; adrenergic receptor beta-1	0
+K05070	IL2RG; interleukin 2 receptor gamma	0
+K12190	VPS36, EAP45; ESCRT-II complex subunit VPS36	0
+K04361	EGFR, ERBB1; epidermal growth factor receptor [EC:2.7.10.1]	0
+K12191	CHMP2A; charged multivesicular body protein 2A	0
+K04363	PDGFRA; platelet-derived growth factor receptor alpha [EC:2.7.10.1]	0
+K12183	TSG101, STP22, VPS23; ESCRT-I complex subunit TSG101	0
+K12182	HGS, HRS, VPS27; hepatocyte growth factor-regulated tyrosine kinase substrate	0
+K12185	VPS37; ESCRT-I complex subunit VPS37	0
+K12184	VPS28; ESCRT-I complex subunit VPS28	0
+K12187	MVB12; ESCRT-I complex subunit MVB12	0
+K12186	FAM125; ESCRT-I complex subunit MVB12	0
+K12189	VPS25, EAP20; ESCRT-II complex subunit VPS25	0
+K12188	SNF8, EAP30; ESCRT-II complex subunit VPS22	0
+K05704	SRC; proto-oncogene tyrosine-protein kinase Src [EC:2.7.10.2]	0
+K11827	AP2S1; AP-2 complex subunit sigma-1	0
+K11826	AP2M1; AP-2 complex subunit mu-1	0
+K11825	AP2B1; AP-2 complex subunit beta-1	0
+K11824	AP2A; AP-2 complex subunit alpha	0
+K12198	CHMP5, VPS60; charged multivesicular body protein 5	0
+K01368	CTSS; cathepsin S [EC:3.4.22.27]	0
+K01365	CTSL; cathepsin L [EC:3.4.22.15]	0
+K02155	ATPeVPL, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit [EC:3.6.3.14]	0
+K02154	ATPeVI, ATP6N1A; V-type H+-transporting ATPase subunit I [EC:3.6.3.14]	0
+K02153	ATPeVH, ATP6H; V-type H+-transporting ATPase subunit H [EC:3.6.3.14]	0
+K02152	ATPeVG, ATP6G1; V-type H+-transporting ATPase subunit G [EC:3.6.3.14]	0
+K02151	ATPeVF, ATP6S14; V-type H+-transporting ATPase subunit F [EC:3.6.3.14]	0
+K02150	ATPeVE, ATP6E; V-type H+-transporting ATPase subunit E [EC:3.6.3.14]	0
+K06751	MHC1; major histocompatibility complex, class I	0
+K06752	MHC2; major histocompatibility complex, class II	0
+K09481	SEC61B, SBH2; protein transport protein SEC61 subunit beta	0
+K06513	FCAR, CD89; CD89 antigen	0
+K08488	STX7; syntaxin 7	0
+K07374	TUBA; tubulin alpha	0
+K07375	TUBB; tubulin beta	0
+K08009	CYBA, P22PHOX; cytochrome b-245, alpha polypeptide	0
+K08008	NOX, GP91; NADPH oxidase	0
+K10066	COLEC11; collectin sub-family member 11	0
+K10067	SFTPA; surfactant, pulmonary-associated protein A	0
+K10062	COLEC12; collectin sub-family member 12	0
+K05692	ACTB_G1; actin beta/gamma 1	0
+K10068	SFTPD, SFTP4; surfactant, pulmonary-associated protein D	0
+K06472	FCGR2A, CD32; low affinity immunoglobulin gamma Fc region receptor II-a	0
+K06563	CD209; CD209 antigen	0
+K06560	MRC; mannose receptor, C type	0
+K03990	C3; complement component 3	0
+K03991	MBL; mannose-binding lectin	0
+K10074	CLEC7A; C-type lectin domain family 7, member A	0
+K00914	PIK3C3, VPS34; phosphatidylinositol 3-kinase [EC:2.7.1.137]	0
+K07888	RAB5B; Ras-related protein Rab-5B	0
+K07889	RAB5C; Ras-related protein Rab-5C	0
+K07887	RAB5A; Ras-related protein Rab-5A	0
+K06463	FCGR3, CD16; low affinity immunoglobulin gamma Fc region receptor III	0
+K06461	ITGAM; integrin alpha M	0
+K06464	ITGB2; integrin beta 2	0
+K10413	DYNC1H; dynein heavy chain 1, cytosolic	0
+K13883	RILP; Rab-interacting lysosomal protein	0
+K13882	CORO1A; coronin-1A	0
+K10089	M6PR; cation-dependent mannose-6-phosphate receptor	0
+K03662	ATPeVS1, ATP6S1; V-type H+-transporting ATPase S1 subunit [EC:3.6.3.14]	0
+K03661	ATPeVPF, ATP6F; V-type H+-transporting ATPase 21kDa proteolipid subunit [EC:3.6.3.14]	0
+K10169	TLR6; toll-like receptor 6	0
+K07898	RAB7B; Ras-related protein Rab-7B	0
+K13813	STX12, STX13; syntaxin 12/13	0
+K08517	SEC22; vesicle transport protein SEC22	0
+K10160	TLR4; toll-like receptor 4	0
+K07897	RAB7A; Ras-related protein Rab-7A	0
+K08054	CANX; calnexin	0
+K08057	CALR; calreticulin	0
+K06498	FCGR1A, CD64; high affinity immunoglobulin gamma Fc receptor I	0
+K00921	PIKFYVE, FAB1; 1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150]	0
+K06493	ITGB3; integrin beta 3	0
+K13240	NOS1; nitric-oxide synthase, brain [EC:1.14.13.39]	0
+K06487	ITGAV; integrin alpha V	0
+K06259	CD36; CD36 antigen	0
+K10159	TLR2; toll-like receptor 2	0
+K12478	EEA1; early endosome antigen 1	0
+K06484	ITGA5; integrin alpha 5	0
+K10956	SEC61A; protein transport protein SEC61 subunit alpha	0
+K06481	ITGA2; integrin alpha 2	0
+K06558	MSR1; macrophage scavenger receptor 1	0
+K01330	C1R; complement component 1, r subcomponent [EC:3.4.21.41]	0
+K10789	MPO; myeloperoxidase [EC:1.11.1.7]	0
+K08763	OLR1; oxidised low-density lipoprotein receptor 1	0
+K06528	LAMP1_2, CD107; lysosomal-associated membrane protein 1/2	0
+K13885	SCARB1; scavenger receptor class B, member 1	0
+K13884	MARCO; macrophage receptor with collagenous structure	0
+K10415	DYNC1I, DNCI; dynein intermediate chain, cytosolic	0
+K10414	DYNC2H, DNCH2; dynein heavy chain 2, cytosolic	0
+K10416	DYNC1LI, DNCLI; dynein light intermediate chain 1, cytosolic	0
+K13505	VAMP3; vesicle-associated membrane protein 3	0
+K04392	RAC1; Ras-related C3 botulinum toxin substrate 1	0
+K04391	CD14; CD14 antigen	0
+K06503	TFRC, CD71; transferrin receptor	0
+K05719	ITGB1; integrin beta 1	0
+K05654	ABCB3, TAP2; ATP-binding cassette, subfamily B (MDR/TAP), member 3	0
+K12560	FCGR2B, CD32; low affinity immunoglobulin gamma Fc region receptor II-b	0
+K05653	ABCB2, TAP1; ATP-binding cassette, subfamily B (MDR/TAP), member 2	0
+K06856	IGH; immunoglobulin heavy chain	0
+K02144	ATPeV54kD; V-type H+-transporting ATPase 54 kD subunit [EC:3.6.3.14]	0
+K02145	ATPeVA, ATP6A1; V-type H+-transporting ATPase subunit A [EC:3.6.3.14]	4
+K02146	ATPeVAC39, ATP6D; V-type H+-transporting ATPase subunit AC39 [EC:3.6.3.14]	0
+K02147	ATPeVB, ATP6B1; V-type H+-transporting ATPase subunit B [EC:3.6.3.14]	5
+K02148	ATPeVC, ATP6C; V-type H+-transporting ATPase subunit C [EC:3.6.3.14]	0
+K02149	ATPeVD, ATP6M; V-type H+-transporting ATPase subunit D [EC:3.6.3.14]	0
+K12182	HGS, HRS, VPS27; hepatocyte growth factor-regulated tyrosine kinase substrate	0
+K08492	STX18; syntaxin 18	0
+K04659	THBS; thrombospondin	0
+K07342	SEC61G, SSS1, secE; protein transport protein SEC61 subunit gamma and related proteins	0
+K08010	NCF2, P67PHOX; neutrophil cytosolic factor 2	0
+K08011	NCF1, P47PHOX; neutrophil cytosolic factor 1	0
+K08012	NCF4, P40PHOX; neutrophil cytosolic factor 4	0
+K06588	ITGB5; integrin beta 5	0
+K00659	BAAT; bile acid-CoA:amino acid N-acyltransferase [EC:2.3.1.65 3.1.2.2]	0
+K13273	PMVK; phosphomevalonate kinase [EC:2.7.4.2]	0
+K10214	ACOX2; 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase [EC:1.17.99.3]	0
+K11517	HAO; (S)-2-hydroxy-acid oxidase [EC:1.1.3.15]	0
+K00106	XDH; xanthine dehydrogenase/oxidase [EC:1.17.1.4 1.17.3.2]	1
+K11147	DHRS4; dehydrogenase/reductase SDR family member 4 [EC:1.1.-.-]	0
+K00830	AGXT; alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase [EC:2.6.1.44 2.6.1.45 2.6.1.51]	2
+K03781	katE, CAT; catalase [EC:1.11.1.6]	0
+K00272	DDO; D-aspartate oxidase [EC:1.4.3.1]	0
+K01640	E4.1.3.4, HMGCL, hmgL; hydroxymethylglutaryl-CoA lyase [EC:4.1.3.4]	5
+K00624	E2.3.1.7; carnitine O-acetyltransferase [EC:2.3.1.7]	0
+K05677	ABCD3, PMP70; ATP-binding cassette, subfamily D (ALD), member 3	0
+K05676	ABCD2, ALDL1; ATP-binding cassette, subfamily D (ALD), member 2	0
+K05675	ABCD1, ALD; ATP-binding cassette, subfamily D (ALD), member 1	0
+K11187	PRDX5; peroxiredoxin 5, atypical 2-Cys peroxiredoxin [EC:1.11.1.15]	1
+K00649	GNPAT; glyceronephosphate O-acyltransferase [EC:2.3.1.42]	0
+K04565	E1.15.1.1C, sodC, SOD1; Cu/Zn superoxide dismutase [EC:1.15.1.1]	0
+K11992	ACOT8, PTE; acyl-CoA thioesterase 8 [EC:3.1.2.27]	0
+K00308	PAOX; N1-acetylpolyamine oxidase [EC:1.5.3.13]	0
+K13279	PRDX1; peroxiredoxin 1 [EC:1.11.1.15]	0
+K05678	ABCD4, PXMP1L; ATP-binding cassette, subfamily D (ALD), member 4	0
+K13348	MPV17; protein Mpv17	0
+K13349	MPV17L; Mpv17-like protein	0
+K04564	E1.15.1.1A, sodA, sodB, SOD2; superoxide dismutase, Fe-Mn family [EC:1.15.1.1]	17
+K01578	E4.1.1.9, MLYCD; malonyl-CoA decarboxylase [EC:4.1.1.9]	0
+K12261	HACL1; 2-hydroxyacyl-CoA lyase 1 [EC:4.1.-.-]	0
+K13340	PEX26; peroxin-26	0
+K13341	PEX7, PTS2R; peroxin-7	0
+K13342	PEX5, PXR1; peroxin-5	0
+K13343	PEX14; peroxin-14	0
+K13344	PEX13; peroxin-13	0
+K13345	PEX12, PAF3; peroxin-12	0
+K13346	PEX10; peroxin-10	0
+K13347	PXMP2, PMP22; peroxisomal membrane protein 2	0
+K00031	IDH1, IDH2, icd; isocitrate dehydrogenase [EC:1.1.1.42]	16
+K12405	HSD17B4; 3-hydroxyacyl-CoA dehydrogenase / 3a,7a,12a-trihydroxy-5b-cholest-24-enoyl-CoA hydratase [EC:1.1.1.35 4.2.1.107]	1
+K13299	GSTK1; glutathione S-transferase kappa 1 [EC:2.5.1.18]	0
+K12663	ECH1; delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase [EC:5.3.3.-]	4
+K13351	PEX11A; peroxin-11A	0
+K13237	DECR2; peroxisomal 2,4-dienoyl-CoA reductase [EC:1.3.1.34]	0
+K01796	E5.1.99.4, AMACR, mcr; alpha-methylacyl-CoA racemase [EC:5.1.99.4]	4
+K00869	E2.7.1.36, MVK, mvaK1; mevalonate kinase [EC:2.7.1.36]	1
+K01897	ACSL, fadD; long-chain acyl-CoA synthetase [EC:6.2.1.3]	11
+K08746	SLC27A2, FACVL1, FATP2; solute carrier family 27 (fatty acid transporter), member 2 [EC:6.2.1.- 6.2.1.3]	0
+K07753	PECR; peroxisomal trans-2-enoyl-CoA reductase [EC:1.3.1.38]	0
+K00273	E1.4.3.3, DAO; D-amino-acid oxidase [EC:1.4.3.3]	0
+K13353	PEX11C; peroxin-11C	0
+K00803	E2.5.1.26, AGPS; alkyldihydroxyacetonephosphate synthase [EC:2.5.1.26]	0
+K13352	PEX11B; peroxin-11B	0
+K08726	EPHX2; soluble epoxide hydrolase [EC:3.3.2.10]	1
+K13356	FAR; fatty acyl-CoA reductase [EC:1.2.1.-]	0
+K13355	NUDT19; nucleoside diphosphate-linked moiety X motif 19, mitochondrial [EC:3.6.1.-]	0
+K13354	SLC25A17, PMP34; solute carrier family 25 member 17	0
+K13335	PEX16; peroxin-16	0
+K06664	PEX2, PXMP3; peroxin-2	0
+K13337	PEX19; peroxin-19	0
+K13336	PEX3; peroxin-3	0
+K13339	PEX6, PXAAA1; peroxin-6	0
+K13338	PEX1; peroxin-1	0
+K00306	PIPOX; sarcosine oxidase / L-pipecolate oxidase [EC:1.5.3.1 1.5.3.7]	0
+K13350	PXMP4, PMP24; peroxisomal membrane protein 4	0
+K08764	SCP2, SCPX; sterol carrier protein 2 [EC:2.3.1.176]	2
+K00477	E1.14.11.18, PHYH; phytanoyl-CoA hydroxylase [EC:1.14.11.18]	0
+K00232	E1.3.3.6, ACOX1, ACOX3; acyl-CoA oxidase [EC:1.3.3.6]	0
+K13239	PECI; peroxisomal 3,2-trans-enoyl-CoA isomerase [EC:5.3.3.8]	0
+K05940	CROT; carnitine O-octanoyltransferase [EC:2.3.1.137]	0
+K13241	NOS2; nitric-oxide synthase, inducible [EC:1.14.13.39]	0
+K03426	E3.6.1.22, NUDT12, nudC; NAD+ diphosphatase [EC:3.6.1.22]	0
+K07513	ACAA1; acetyl-CoA acyltransferase 1 [EC:2.3.1.16]	0
+K07514	EHHADH; enoyl-CoA hydratase / 3-hydroxyacyl-CoA dehydrogenase / 3,2-trans-enoyl-CoA isomerase [EC:4.2.1.17 1.1.1.35 5.3.3.8]	0
+K08340	ATG16; autophagy-related protein 16	0
+K04687	IFNG; interferon gamma	0
+K08332	VAC8; vacuolar protein 8	0
+K08343	ATG3; autophagy-related protein 3	0
+K04526	INS; insulin	0
+K08338	ATG10; autophagy-related protein 10	0
+K08341	GABARAP, ATG8, LC3; GABA(A) receptor-associated protein (autophagy-related protein 8)	0
+K08342	ATG4; autophagy-related protein 4 [EC:3.4.22.-]	0
+K08339	ATG5; autophagy-related protein 5	0
+K00914	PIK3C3, VPS34; phosphatidylinositol 3-kinase [EC:2.7.1.137]	0
+K08269	ULK, ATG1; unc51-like kinase [EC:2.7.11.1]	0
+K08329	ATG17; autophagy-related protein 17	0
+K07198	PRKAA, AMPK; 5'-AMP-activated protein kinase, catalytic alpha subunit [EC:2.7.11.11]	0
+K08331	ATG13; autophagy-related protein 13	0
+K08330	ATG11; autophagy-related protein 11	0
+K08333	PIK3R4, VPS15; phosphoinositide-3-kinase, regulatory subunit 4, p150 [EC:2.7.11.1]	0
+K05414	IFNA; interferon alpha	0
+K08335	ATG14; autophagy-related protein 14	0
+K08334	BECN1, VPS30, ATG6; beclin 1	0
+K08337	ATG7; autophagy-related protein 7	0
+K08336	ATG12; autophagy-related protein 12	0
+K01369	LGMN; legumain [EC:3.4.22.34]	0
+K01368	CTSS; cathepsin S [EC:3.4.22.27]	0
+K01365	CTSL; cathepsin L [EC:3.4.22.15]	0
+K01366	CTSH; cathepsin H [EC:3.4.22.16]	0
+K01363	CTSB; cathepsin B [EC:3.4.22.1]	0
+K01444	E3.5.1.26; N4-(beta-N-acetylglucosaminyl)-L-asparaginase [EC:3.5.1.26]	0
+K02155	ATPeVPL, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit [EC:3.6.3.14]	0
+K02154	ATPeVI, ATP6N1A; V-type H+-transporting ATPase subunit I [EC:3.6.3.14]	0
+K08568	CTSZ; cathepsin X [EC:3.4.18.1]	0
+K08569	CTSW; cathepsin W [EC:3.4.22.-]	0
+K04645	CLTB, LCB; clathrin light chain B	0
+K04644	CLTA, LCA; clathrin light chain A	0
+K04646	CLTC; clathrin heavy chain	0
+K08565	NAPSA; napsin-A [EC:3.4.23.-]	0
+K12347	SLC11A, NRAMP; natural resistance-associated macrophage protein	0
+K01275	CTSC; cathepsin C [EC:3.4.14.1]	0
+K01279	TPP1, CLN2; tripeptidyl-peptidase I [EC:3.4.14.9]	0
+K12348	ASAH1; acid ceramidase [EC:3.5.1.23]	0
+K12404	GGA; ADP-ribosylation factor-binding protein GGA	0
+K12400	AP4E1; AP-4 complex subunit epsilon-1	0
+K12401	AP4B1; AP-4 complex subunit beta-1	0
+K12402	AP4M1; AP-4 complex subunit mu-1	0
+K12403	AP4S1; AP-4 complex subunit sigma-1	0
+K01192	E3.2.1.25, MANBA, manB; beta-mannosidase [EC:3.2.1.25]	0
+K01195	E3.2.1.31, GUSB, uidA; beta-glucuronidase [EC:3.2.1.31]	0
+K01202	GALC; galactosylceramidase [EC:3.2.1.46]	0
+K01052	LIPA; lysosomal acid lipase/cholesteryl ester hydrolase [EC:3.1.1.13]	0
+K01201	E3.2.1.45, GBA, srfJ; glucosylceramidase [EC:3.2.1.45]	0
+K01204	NAGA; alpha-N-acetylgalactosaminidase [EC:3.2.1.49]	0
+K01205	NAGLU; alpha-N-acetylglucosaminidase [EC:3.2.1.50]	0
+K06564	IGF2R; insulin-like growth factor 2 receptor	0
+K06562	LAMP3; lysosomal-associated membrane protein 3	0
+K01565	SGSH; N-sulfoglucosamine sulfohydrolase [EC:3.10.1.1]	4
+K12394	AP1S1_2; AP-1 complex subunit sigma 1/2	0
+K12395	AP1S3; AP-1 complex subunit sigma-3	0
+K12396	AP3D1; AP-3 complex subunit delta-1	0
+K12397	AP3B; AP-3 complex subunit beta	0
+K12390	CLN5; ceroid-lipofuscinosis neuronal protein 5	0
+K12391	AP1G1; AP-1 complex subunit gamma-1	0
+K12392	AP1B1; AP-1 complex subunit beta-1	0
+K12393	AP1M; AP-1 complex subunit mu	0
+K12398	AP3M; AP-3 complex subunit mu	0
+K12399	AP3S; AP-3 complex subunit sigma	0
+K09599	CTSP; cathepsin P [EC:3.4.22.-]	0
+K01186	NEU1; sialidase-1 [EC:3.2.1.18]	2
+K01189	GLA; alpha-galactosidase [EC:3.2.1.22]	0
+K12384	SCARB2, LIMP2, CD36L2; lysosome membrane protein 2	0
+K01217	IDUA; L-iduronidase [EC:3.2.1.76]	0
+K12383	GM2A; ganglioside GM2 activator	0
+K12382	PSAP, SGP1; saposin	0
+K12381	ARSG; arylsulfatase G [EC:3.1.6.-]	0
+K03661	ATPeVPF, ATP6F; V-type H+-transporting ATPase 21kDa proteolipid subunit [EC:3.6.3.14]	0
+K12387	LAPTM; lysosomal-associated transmembrane protein	0
+K12386	CTNS; cystinosin	0
+K12385	NPC1; Niemann-Pick C1 protein	0
+K10089	M6PR; cation-dependent mannose-6-phosphate receptor	0
+K03662	ATPeVS1, ATP6S1; V-type H+-transporting ATPase S1 subunit [EC:3.6.3.14]	0
+K10087	GNPTG, GNPTAG; N-acetylglucosamine-1-phosphate transferase, gamma subunit	0
+K12389	BTS, CLN3; battenin	0
+K12388	SORT1; sortilin	0
+K06497	CD63, MLA1; CD63 antigen	0
+K01134	ARSA; arylsulfatase A [EC:3.1.6.8]	3
+K01135	ARSB; arylsulfatase B [EC:3.1.6.12]	0
+K01136	IDS; iduronate 2-sulfatase [EC:3.1.6.13]	1
+K01137	GNS; N-acetylglucosamine-6-sulfatase [EC:3.1.6.14]	0
+K01132	GALNS; N-acetylgalactosamine-6-sulfatase [EC:3.1.6.4]	0
+K12316	GAA; lysosomal alpha-glucosidase [EC:3.2.1.20]	0
+K12311	MAN2B1, LAMAN; lysosomal alpha-mannosidase [EC:3.2.1.24]	0
+K06546	CD164, MGC24; CD164 antigen	0
+K12373	HEXA_B; hexosaminidase [EC:3.2.1.52]	0
+K01158	DNASE2; deoxyribonuclease II [EC:3.1.22.1]	0
+K06129	LYPLA3; lysophospholipase III [EC:3.1.1.5]	0
+K09600	CTSM; cathepsin M [EC:3.4.22.-]	0
+K12309	GLB1, ELNR1; beta-galactosidase [EC:3.2.1.23]	0
+K01125	NAGPA; N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase [EC:3.1.4.45]	0
+K12301	SLC17A5; MFS transporter, ACS family, solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 5	0
+K12307	MSFD8, CLN7; MFS transporter, ceroid-lipofuscinosis neuronal protein 7	0
+K12305	ENTPD4, LALP70; ectonucleoside triphosphate diphosphohydrolase 4 [EC:3.6.1.6]	0
+K08239	GNPTAB; UDP-N-acetylglucosamine-lysosomal-enzyme [EC:2.7.8.17]	0
+K06528	LAMP1_2, CD107; lysosomal-associated membrane protein 1/2	0
+K05642	ABCA2; ATP-binding cassette, subfamily A (ABC1), member 2	0
+K01382	CTSE; cathepsin E [EC:3.4.23.34]	0
+K12350	SMPD1, ASM; sphingomyelin phosphodiesterase [EC:3.1.4.12]	0
+K01074	PPT; palmitoyl-protein thioesterase [EC:3.1.2.22]	0
+K01319	CTSG; cathepsin G [EC:3.4.21.20]	0
+K05656	ABCB9, TAPL; ATP-binding cassette, subfamily B (MDR/TAP), member 9	0
+K04992	MCOLN1; mucolipin 1	0
+K01379	CTSD; cathepsin D [EC:3.4.23.5]	0
+K01374	CTSO; cathepsin O [EC:3.4.22.42]	0
+K01375	CTSL2, CTSV; cathepsin V [EC:3.4.22.43]	0
+K01373	CTSF; cathepsin F [EC:3.4.22.41]	0
+K01371	CTSK; cathepsin K [EC:3.4.22.38]	0
+K02144	ATPeV54kD; V-type H+-transporting ATPase 54 kD subunit [EC:3.6.3.14]	0
+K02146	ATPeVAC39, ATP6D; V-type H+-transporting ATPase subunit AC39 [EC:3.6.3.14]	0
+K13289	CTSA; cathepsin A (carboxypeptidase C) [EC:3.4.16.5]	0
+K06501	CD68; CD68 antigen	0
+K10532	HGSNAT; heparan-alpha-glucosaminide N-acetyltransferase [EC:2.3.1.78]	0
+K13444	SUMF1, FGE; sulfatase modifying factor 1	0
+K13443	NPC2; Niemann-Pick C2 protein	0
+K08048	ADCY8; adenylate cyclase 8 [EC:4.6.1.1]	0
+K08959	CSNK1D; casein kinase 1, delta [EC:2.7.11.1]	0
+K02677	CPKC; classical protein kinase C [EC:2.7.11.13]	0
+K12318	GUCY1A; guanylate cyclase soluble subunit alpha [EC:4.6.1.2]	0
+K08049	ADCY9; adenylate cyclase 9 [EC:4.6.1.1]	0
+K08043	ADCY3; adenylate cyclase 3 [EC:4.6.1.1]	0
+K08042	ADCY2; adenylate cyclase 2 [EC:4.6.1.1]	0
+K08041	ADCY1; adenylate cyclase 1 [EC:4.6.1.1]	0
+K04357	EGF; epidermal growth factor	0
+K08046	ADCY6; adenylate cyclase 6 [EC:4.6.1.1]	0
+K08045	ADCY5; adenylate cyclase 5 [EC:4.6.1.1]	0
+K08044	ADCY4; adenylate cyclase 4 [EC:4.6.1.1]	0
+K07372	GJA1, CX43; gap junction protein, alpha 1	0
+K07373	GJA9, CX36; gap junction protein, alpha 9	0
+K07374	TUBA; tubulin alpha	0
+K07375	TUBB; tubulin beta	0
+K07376	PRKG; protein kinase, cGMP-dependent [EC:2.7.11.12]	0
+K02833	HRAS; GTPase HRas	0
+K04371	ERK1_2; extracellular signal-regulated kinase 1/2 [EC:2.7.11.24]	0
+K04604	GRM1_5; metabotropic glutamate receptor 1/5	0
+K04144	DRD1; dopamine receptor D1	0
+K04145	DRD2; dopamine receptor D2	0
+K04141	ADRB1; adrenergic receptor beta-1	0
+K04960	ITPR3; inositol 1,4,5-triphosphate receptor type 3	0
+K03099	SOS; son of sevenless	0
+K04420	MAP3K2, MEKK2; mitogen-activated protein kinase kinase kinase 2 [EC:2.7.11.25]	0
+K04463	MAP2K5, MEK5; mitogen-activated protein kinase kinase 5 [EC:2.7.12.2]	0
+K04464	MAPK7, ERK5; mitogen-activated protein kinase 7 [EC:2.7.11.24]	0
+K02087	CDK1, CDC2; cyclin-dependent kinase 1 [EC:2.7.11.22]	0
+K04289	LPAR1, EDG2; lysophosphatidic acid receptor 1	0
+K08047	ADCY7; adenylate cyclase 7 [EC:4.6.1.1]	0
+K07827	KRAS, KRAS2; GTPase KRas	0
+K04157	HTR2; 5-hydroxytryptamine receptor 2	0
+K05858	PLCB; phospholipase C, beta [EC:3.1.4.11]	0
+K04345	PKA; protein kinase A [EC:2.7.11.11]	0
+K05450	PDGFC_D; platelet derived growth factor C/D	0
+K05089	PDGFRB; platelet-derived growth factor receptor beta [EC:2.7.10.1]	0
+K04634	GNAQ; guanine nucleotide binding protein (G protein), alpha q polypeptide	0
+K05701	TJP1, ZO1; tight junction protein 1	0
+K04959	ITPR2; inositol 1,4,5-triphosphate receptor type 2	0
+K04958	ITPR1; inositol 1,4,5-triphosphate receptor type 1	0
+K05704	SRC; proto-oncogene tyrosine-protein kinase Src [EC:2.7.10.2]	0
+K04368	MAP2K1, MEK1; mitogen-activated protein kinase kinase 1 [EC:2.7.12.2]	0
+K04369	MAP2K2, MEK2; mitogen-activated protein kinase kinase 2 [EC:2.7.12.2]	0
+K07828	NRAS; GTPase NRas	0
+K12319	GUCY1B; guanylate cyclase soluble subunit beta [EC:4.6.1.2]	0
+K04635	GNA11; guanine nucleotide binding protein (G protein), alpha 11	0
+K04630	GNAI; guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide	0
+K04363	PDGFRA; platelet-derived growth factor receptor alpha [EC:2.7.10.1]	0
+K04632	GNAS; guanine nucleotide binding protein (G protein), alpha stimulating activity polypeptide	0
+K04361	EGFR, ERBB1; epidermal growth factor receptor [EC:2.7.10.1]	0
+K04366	RAF1; RAF proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]	0
+K04359	PDGFA_B; platelet derived growth factor A/B	0
+K04364	GRB2; growth factor receptor-binding protein 2	0
+K07860	RAC2; Ras-related C3 botulinum toxin substrate 2	0
+K07861	RAC3; Ras-related C3 botulinum toxin substrate 3	0
+K01110	E3.1.3.67, PTEN; phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase [EC:3.1.3.67]	0
+K02158	BAD; BCL2-antagonist of cell death	0
+K05448	VEGFA_B; vascular endothelial growth factor A/B, PGF	0
+K05449	VEGFC_D; vascular endothelial growth factor C/D	0
+K06591	ITGB8; integrin beta 8	0
+K06590	ITGB7; integrin beta 7	0
+K04371	ERK1_2; extracellular signal-regulated kinase 1/2 [EC:2.7.11.24]	0
+K04375	ELK1; ETS domain-containing protein Elk-1	0
+K05699	ACTN; actinin alpha	0
+K04503	CCND1; cyclin D1	0
+K05692	ACTB_G1; actin beta/gamma 1	0
+K00907	MYLK; myosin-light-chain kinase [EC:2.7.11.18]	0
+K04368	MAP2K1, MEK1; mitogen-activated protein kinase kinase 1 [EC:2.7.12.2]	0
+K13708	DOCK1; dedicator of cytokinesis 1	0
+K13709	ARHGAP5; Rho GTPase-activating protein 5	0
+K06476	ITGA2B; integrin alpha 2B	0
+K05450	PDGFC_D; platelet derived growth factor C/D	0
+K12958	CAV2; caveolin 2	0
+K12959	CAV3; caveolin 3	0
+K05459	IGF1; insulin-like growth factor 1	0
+K05726	BCAR1, CAS; breast cancer anti-estrogen resistance 1	0
+K04349	RASGRF1; Ras-specific guanine nucleotide-releasing factor 1	0
+K06276	PDPK1; 3-phosphoinositide dependent protein kinase-1 [EC:2.7.11.1]	0
+K06277	RAPGEF1, GRF2; Rap guanine nucleotide exchange factor (GEF) 1	0
+K06274	VASP; vasodilator-stimulated phosphoprotein	0
+K10351	MYL2; myosin regulatory light chain 2	0
+K06272	ILK; integrin-linked kinase [EC:2.7.11.1]	0
+K06273	ZYX; zyxin	0
+K06270	PPP1R12A, MYPT1; protein phosphatase 1 regulatory subunit 12A	0
+K06271	TLN; talin	0
+K04456	AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]	0
+K05760	PXN; paxillin	0
+K06278	CAV1; caveolin 1	0
+K06279	SHC; src homology 2 domain-containing transforming protein C	0
+K04514	ROCK; Rho-associated, coiled-coil containing protein kinase [EC:2.7.11.1]	0
+K04513	RHOA; Ras homolog gene family, member A	0
+K04410	PAK2; p21-activated kinase 2 [EC:2.7.11.1]	0
+K04353	RAP1A; Ras-related protein Rap-1A	0
+K04357	EGF; epidermal growth factor	0
+K04359	PDGFA_B; platelet derived growth factor A/B	0
+K06275	PARV; parvin	0
+K06269	PPP1C; protein phosphatase 1, catalytic subunit [EC:3.1.3.16]	0
+K02649	PIK3R; phosphoinositide-3-kinase, regulatory subunit	0
+K02105	CTNNB1; catenin (cadherin-associated protein), beta 1	0
+K04725	BIRC2_3_4; baculoviral IAP repeat-containing 2/3/4	0
+K00922	PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]	0
+K03853	CAPN2; calpain-2 [EC:3.4.22.53]	0
+K05740	DIAPH1; diaphanous 1	0
+K05735	PAK6; p21-activated kinase 6 [EC:2.7.11.1]	0
+K06493	ITGB3; integrin beta 3	0
+K06250	SPP1, BNSP, OPN; secreted phosphoprotein 1	0
+K06251	VTN; vitronectin	0
+K06252	TN; tenascin	0
+K06253	IBSP; integrin binding sialoprotein	0
+K04437	FLNA; filamin	0
+K10151	CCND2; cyclin D2	0
+K10152	CCND3; cyclin D3	0
+K05637	LAMA1_2; laminin, alpha 1/2	0
+K04438	CRK, CRKII; proto-oncogene C-crk	0
+K05636	LAMB1; laminin, beta 1	0
+K05635	LAMC1; laminin, gamma 1	0
+K05732	GRLF1; glucocorticoid receptor DNA-binding factor 1	0
+K05733	PAK3, MRX30; p21-activated kinase 3 [EC:2.7.11.1]	0
+K05730	VAV; vav oncogene	0
+K05736	PAK7; p21-activated kinase 7 [EC:2.7.11.1]	0
+K05734	PAK4; p21-activated kinase 4 [EC:2.7.11.1]	0
+K03900	VWF; von Willebrand factor	0
+K06485	ITGA6; integrin alpha 6	0
+K06484	ITGA5; integrin alpha 5	0
+K06487	ITGAV; integrin alpha V	0
+K06481	ITGA2; integrin alpha 2	0
+K06480	ITGA1; integrin alpha 1	0
+K06483	ITGA4; integrin alpha 4	0
+K06482	ITGA3; integrin alpha 3	0
+K04440	JNK; c-Jun N-terminal kinase [EC:2.7.11.24]	0
+K06249	RELN; reelin [EC:3.4.21.-]	0
+K06248	CHAD; chondroadherin	0
+K06247	LAMC3; laminin, gamma 3	0
+K06246	LAMC2; laminin, gamma 2	0
+K06245	LAMB4; laminin, beta 4	0
+K06244	LAMB3; laminin, beta 3	0
+K06243	LAMB2; laminin, beta 2	0
+K06241	LAMA4; laminin, alpha 4	0
+K06240	LAMA3_5; laminin, alpha 3/5	0
+K02161	BCL2; apoptosis regulator BCL-2	0
+K02833	HRAS; GTPase HRas	0
+K04448	JUN; transcription factor AP-1	0
+K05725	PTK2, FAK; PTK2 protein tyrosine kinase 2 [EC:2.7.10.2]	0
+K05089	PDGFRB; platelet-derived growth factor receptor beta [EC:2.7.10.1]	0
+K06525	ITGB4; integrin beta 4	0
+K05087	IGF1R; insulin-like growth factor 1 receptor [EC:2.7.10.1]	0
+K05083	ERBB2, HER2; receptor tyrosine-protein kinase erbB-2 [EC:2.7.10.1]	0
+K06238	COL6A; collagen, type VI, alpha	0
+K06236	COL1AS; collagen, type I/II/III/V/XI, alpha	0
+K06237	COL4A; collagen, type IV, alpha	0
+K05700	VCL; vinculin	0
+K12754	MYL7; myosin regulatory light chain 7	0
+K12755	MYL9; myosin regulatory light chain 9	0
+K12756	MYL10; myosin regulatory light chain 10	0
+K12757	MYL12; myosin regulatory light chain 12	0
+K12753	MYL5; myosin regulatory light chain 5	0
+K02677	CPKC; classical protein kinase C [EC:2.7.11.13]	0
+K12758	MYLPF; fast skeletal myosin light chain 2	0
+K03083	GSK3B; glycogen synthase kinase 3 beta [EC:2.7.11.26]	0
+K04393	CDC42; cell division control protein 42	0
+K04392	RAC1; Ras-related C3 botulinum toxin substrate 1	0
+K05099	MET, HGFR; proto-oncogene tyrosine-protein kinase Met [EC:2.7.10.1]	0
+K05098	KDR, VEGFR2; kinase insert domain protein receptor [EC:2.7.10.1]	0
+K05719	ITGB1; integrin beta 1	0
+K05717	FN1; fibronectin 1	0
+K05097	FLT4, VEGFR3; FMS-like tyrosine kinase 4 [EC:2.7.10.1]	0
+K05096	FLT1, VEGFR1; FMS-like tyrosine kinase 1 [EC:2.7.10.1]	0
+K05460	HGF; hepatocyte growth factor	0
+K07836	RAP1B; Ras-related protein Rap-1B	0
+K03099	SOS; son of sevenless	0
+K04409	PAK1; p21-activated kinase 1 [EC:2.7.11.1]	0
+K05703	FYN; proto-oncogene tyrosine-protein kinase Fyn [EC:2.7.10.2]	0
+K04366	RAF1; RAF proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]	0
+K04659	THBS; thrombospondin	0
+K05704	SRC; proto-oncogene tyrosine-protein kinase Src [EC:2.7.10.2]	0
+K06584	ITGA8; integrin alpha 8	0
+K06585	ITGA9; integrin alpha 9	0
+K06586	ITGA10; integrin alpha 10	0
+K06587	ITGA11; integrin alpha 11	0
+K06583	ITGA7; integrin alpha 7	0
+K04363	PDGFRA; platelet-derived growth factor receptor alpha [EC:2.7.10.1]	0
+K04361	EGFR, ERBB1; epidermal growth factor receptor [EC:2.7.10.1]	0
+K06588	ITGB5; integrin beta 5	0
+K06589	ITGB6; integrin beta 6	0
+K04364	GRB2; growth factor receptor-binding protein 2	0
+K04365	BRAF; B-Raf proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]	0
+K06786	JAM4, JCAM; junction adhesion molecule 4	0
+K12754	MYL7; myosin regulatory light chain 7	0
+K12756	MYL10; myosin regulatory light chain 10	0
+K06785	JAM3; junction adhesion molecule 3	0
+K04513	RHOA; Ras homolog gene family, member A	0
+K02105	CTNNB1; catenin (cadherin-associated protein), beta 1	0
+K02677	CPKC; classical protein kinase C [EC:2.7.11.13]	0
+K01110	E3.1.3.67, PTEN; phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase [EC:3.1.3.67]	0
+K12758	MYLPF; fast skeletal myosin light chain 2	0
+K04456	AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]	0
+K06105	TJP4, PILT; tight junction protein 4 (peripheral)	0
+K05631	AIP3, WWP3, BAIAP1; atrophin-1 interacting protein 3 (BAI1-associated protein 1)	0
+K12757	MYL12; myosin regulatory light chain 12	0
+K04393	CDC42; cell division control protein 42	0
+K06069	APKC; atypical protein kinase C [EC:2.7.11.13]	0
+K06068	NPKC; novel protein kinase C [EC:2.7.11.13]	0
+K06108	RAB3B; Ras-related protein Rab-3B	0
+K06109	RAB13; Ras-related protein Rab-13	0
+K06735	JAM2; junctional adhesion molecule 2	0
+K04237	PARD3; partitioning defective protein 3	0
+K04354	PPP2R2; protein phosphatase 2 (formerly 2A), regulatory subunit B	0
+K06100	SYMPK; symplekin	0
+K06101	ASH1L; histone-lysine N-methyltransferase ASH1L [EC:2.1.1.43]	0
+K06102	CGN; cingulin	0
+K12753	MYL5; myosin regulatory light chain 5	0
+K06104	AMOTL1, JEAP; angiomotin like 1	0
+K06103	CASK; calcium/calmodulin-dependent serine protein kinase [EC:2.7.11.1]	0
+K06106	CTTN, EMS1; cortactin	0
+K06107	EPB41, 4.1R; erythrocyte membrane protein band 4.1	0
+K06089	F11R, JAM1; junctional adhesion molecule 1	0
+K06088	OCLN; occludin	0
+K10351	MYL2; myosin regulatory light chain 2	0
+K07831	MRAS; Ras-related protein M-Ras	0
+K07830	RRAS2, TC21; Ras-related protein R-Ras2	0
+K06087	CLDN; claudin	0
+K05699	ACTN; actinin alpha	0
+K04424	ZAK, MLTK; sterile alpha motif and leucine zipper containing kinase AZK [EC:2.7.11.25]	0
+K05692	ACTB_G1; actin beta/gamma 1	0
+K05691	CTNNA; catenin (cadherin-associated protein), alpha	0
+K03097	CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]	0
+K03456	PPP2R1; protein phosphatase 2 (formerly 2A), regulatory subunit A	0
+K06092	INADL, PATJ; InaD-like protein	0
+K03115	CSNK2B; casein kinase II subunit beta	0
+K06111	EXOC4, SEC8L1; exocyst complex component 4	0
+K06110	EXOC3, SEC6L1; exocyst complex component 3	0
+K07827	KRAS, KRAS2; GTPase KRas	0
+K02089	CDK4; cyclin-dependent kinase 4 [EC:2.7.11.22]	0
+K12755	MYL9; myosin regulatory light chain 9	0
+K05701	TJP1, ZO1; tight junction protein 1	0
+K02833	HRAS; GTPase HRas	0
+K05629	AIP1; atrophin-1 interacting protein 1	0
+K05702	AF6, MLLT4; afadin	0
+K04382	PPP2C; protein phosphatase 2 (formerly 2A), catalytic subunit [EC:3.1.3.16]	0
+K06112	MAGI3; membrane-associated guanylate kinase-related	0
+K05705	YES; proto-oncogene tyrosine-protein kinase Yes [EC:2.7.10.2]	0
+K05704	SRC; proto-oncogene tyrosine-protein kinase Src [EC:2.7.10.2]	0
+K10352	MYH; myosin heavy chain	0
+K06098	TJP2, ZO2; tight junction protein 2	0
+K06099	CSDA, ZONAB; cold shock domain protein A	0
+K07828	NRAS; GTPase NRas	0
+K07829	RRAS; Ras-related protein R-Ras	0
+K04630	GNAI; guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide	0
+K06093	PARD6; partitioning defective protein 6	0
+K06090	CRB3; crumbs 3	0
+K06091	MPP5, PALS1; membrane protein, palmitoylated 5 (MAGUK p55 subfamily member 5)	0
+K06096	VAPA; vesicle-associated membrane protein-associated protein A	0
+K06097	TJP3, ZO3; tight junction protein 3	0
+K06094	LLGL; lethal giant larvae	0
+K06095	MPDZ, MUPP1; multiple PDZ domain protein	0
+K05627	BAIAP2, IRSP53; BAI1-associated protein 2	0
+K04513	RHOA; Ras homolog gene family, member A	0
+K05698	PTPRJ, DEP1; protein tyrosine phosphatase, receptor type, J [EC:3.1.3.48]	0
+K07860	RAC2; Ras-related C3 botulinum toxin substrate 2	0
+K07861	RAC3; Ras-related C3 botulinum toxin substrate 3	0
+K04388	TGFBR2; TGF-beta receptor type-2 [EC:2.7.11.30]	0
+K05689	CDHE, CDH1; cadherin 1, type 1, E-cadherin	0
+K04393	CDC42; cell division control protein 42	0
+K04392	RAC1; Ras-related C3 botulinum toxin substrate 1	0
+K04371	ERK1_2; extracellular signal-regulated kinase 1/2 [EC:2.7.11.24]	0
+K05748	WASF2; WAS protein family, member 2	0
+K06531	PVRL2; poliovirus receptor-related protein 2	0
+K05099	MET, HGFR; proto-oncogene tyrosine-protein kinase Met [EC:2.7.10.1]	0
+K04237	PARD3; partitioning defective protein 3	0
+K04468	NLK; nemo like kinase [EC:2.7.11.24]	0
+K02620	TCF7; transcription factor 7	0
+K04501	SMAD4; SMAD, mothers against DPP 4	0
+K06593	PVRL4; poliovirus receptor-related 4	0
+K06592	PVRL3; poliovirus receptor-related protein 3	0
+K06081	PVRL1; poliovirus receptor-related protein 1	0
+K06083	WASF3; WAS protein family, member 3	0
+K05753	WASF1; WAS protein family, member 1	0
+K06085	SSX2IP, ADIP; synovial sarcoma, X breakpoint 2 interacting protein	0
+K06084	LMO7, FBXO20; F-box protein 20	0
+K06086	SORBS1, SH3D5, PONSIN, CAP; sorbin and SH3 domain containing 1	0
+K05699	ACTN; actinin alpha	0
+K02105	CTNNB1; catenin (cadherin-associated protein), beta 1	0
+K04427	MAP3K7, TAK1; mitogen-activated protein kinase kinase kinase 7 [EC:2.7.11.25]	0
+K05083	ERBB2, HER2; receptor tyrosine-protein kinase erbB-2 [EC:2.7.10.1]	0
+K04500	SMAD2_3; SMAD, mothers against DPP 2/3	0
+K04527	INSR; insulin receptor [EC:2.7.10.1]	0
+K05691	CTNNA; catenin (cadherin-associated protein), alpha	0
+K05690	CTNND1; catenin (cadherin-associated protein), delta 1	0
+K05693	PTPRM; protein tyrosine phosphatase, receptor type, M [EC:3.1.3.48]	0
+K05692	ACTB_G1; actin beta/gamma 1	0
+K05695	PTPRF, LAR; protein tyrosine phosphatase, receptor type, F [EC:3.1.3.48]	0
+K05694	PTPRB, PTPB; protein tyrosine phosphatase, receptor type, B [EC:3.1.3.48]	0
+K05697	PTPN6, SHP-1; protein tyrosine phosphatase, non-receptor type 6 [EC:3.1.3.48]	0
+K05696	PTPN1, PTP1B; protein tyrosine phosphatase, non-receptor type 1 [EC:3.1.3.48]	0
+K04362	FGFR1; fibroblast growth factor receptor 1 [EC:2.7.10.1]	0
+K03115	CSNK2B; casein kinase II subunit beta	0
+K03097	CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]	0
+K05747	WAS; Wiskott-Aldrich syndrome protein	0
+K06082	FARP2, FRG; FERM, RhoGEF and pleckstrin domain protein 2	0
+K05703	FYN; proto-oncogene tyrosine-protein kinase Fyn [EC:2.7.10.2]	0
+K05702	AF6, MLLT4; afadin	0
+K05701	TJP1, ZO1; tight junction protein 1	0
+K05700	VCL; vinculin	0
+K05707	SNAI1; snail 1	0
+K05706	SNAI2, SLUG; snail 2	0
+K05705	YES; proto-oncogene tyrosine-protein kinase Yes [EC:2.7.10.2]	0
+K05704	SRC; proto-oncogene tyrosine-protein kinase Src [EC:2.7.10.2]	0
+K04498	EP300, CREBBP, KAT3; E1A/CREB-binding protein [EC:2.3.1.48]	0
+K04674	TGFBR1; TGF-beta receptor type-1 [EC:2.7.11.30]	0
+K05087	IGF1R; insulin-like growth factor 1 receptor [EC:2.7.10.1]	0
+K04490	TCF7L1; transcription factor 7-like 1	0
+K04491	TCF7L2; transcription factor 7-like 2	0
+K04492	LEF1; lymphoid enhancer-binding factor 1	0
+K04361	EGFR, ERBB1; epidermal growth factor receptor [EC:2.7.10.1]	0
+K07860	RAC2; Ras-related C3 botulinum toxin substrate 2	0
+K07861	RAC3; Ras-related C3 botulinum toxin substrate 3	0
+K05760	PXN; paxillin	0
+K06591	ITGB8; integrin beta 8	0
+K06590	ITGB7; integrin beta 7	0
+K06594	ITGAD; integrin alpha D	0
+K04371	ERK1_2; extracellular signal-regulated kinase 1/2 [EC:2.7.11.24]	0
+K00889	E2.7.1.68, PIP5K; 1-phosphatidylinositol-4-phosphate 5-kinase [EC:2.7.1.68]	0
+K05699	ACTN; actinin alpha	0
+K05692	ACTB_G1; actin beta/gamma 1	0
+K06476	ITGA2B; integrin alpha 2B	0
+K08845	ARAF, ARAF1; A-Raf proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]	0
+K02085	APC; adenomatosis polyposis coli protein	0
+K00907	MYLK; myosin-light-chain kinase [EC:2.7.11.18]	0
+K05450	PDGFC_D; platelet derived growth factor C/D	0
+K13708	DOCK1; dedicator of cytokinesis 1	0
+K04346	GNA12; guanine nucleotide binding protein (G protein), alpha 12	0
+K04347	GNG12; guanine nucleotide binding protein (G protein), gamma 12	0
+K05754	ARPC5; actin related protein 2/3 complex, subunit 5	0
+K06525	ITGB4; integrin beta 4	0
+K04133	CHRM5; muscarinic acetylcholine receptor M5	0
+K12330	ARHGEF1; Rho guanine nucleotide exchange factor 1	0
+K02833	HRAS; GTPase HRas	0
+K05769	ARHGEF4, ASEF; Rho guanine nucleotide exchange factor 4	0
+K05756	ARPC3; actin related protein 2/3 complex, subunit 3	0
+K06270	PPP1R12A, MYPT1; protein phosphatase 1 regulatory subunit 12A	0
+K05728	CSK; c-src tyrosine kinase [EC:2.7.10.2]	0
+K05765	CFL; cofilin	0
+K05764	TMSB4; thymosin, beta 4	0
+K05767	IQGAP; IQ motif containing GTPase activating protein	0
+K05766	SSH; slingshot	0
+K05086	INSRR; insulin receptor-related receptor [EC:2.7.10.1]	0
+K05763	MSN; moesin	0
+K05762	RDX; radixin	0
+K04514	ROCK; Rho-associated, coiled-coil containing protein kinase [EC:2.7.11.1]	0
+K04513	RHOA; Ras homolog gene family, member A	0
+K13710	ARHGEF7, PIXB; Rho guanine nucleotide exchange factor 7	0
+K06462	ITGAX; integrin alpha X	0
+K06461	ITGAM; integrin alpha M	0
+K04357	EGF; epidermal growth factor	0
+K06464	ITGB2; integrin beta 2	0
+K04359	PDGFA_B; platelet derived growth factor A/B	0
+K04358	FGF; fibroblast growth factor	0
+K05758	ARPC2; actin related protein 2/3 complex, subunit 2	0
+K05759	PFN; profilin	0
+K10351	MYL2; myosin regulatory light chain 2	0
+K05750	NCKAP1, NAP125; NCK-associated protein 1	0
+K05751	ABI2; abl interactor 2	0
+K05752	C3ORF10, HSPC300; chromosome 3 open reading frame 10	0
+K05753	WASF1; WAS protein family, member 1	0
+K06269	PPP1C; protein phosphatase 1, catalytic subunit [EC:3.1.3.16]	0
+K05755	ARPC4; actin related protein 2/3 complex, subunit 4	0
+K02649	PIK3R; phosphoinositide-3-kinase, regulatory subunit	0
+K05757	ARPC1A_B; actin related protein 2/3 complex, subunit 1A/1B	0
+K04526	INS; insulin	0
+K00920	E2.7.1.149, PIP4K; 1-phosphatidylinositol-5-phosphate 4-kinase [EC:2.7.1.149]	0
+K00921	PIKFYVE, FAB1; 1-phosphatidylinositol-3-phosphate 5-kinase [EC:2.7.1.150]	0
+K00922	PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]	0
+K05737	GIT1; G protein-coupled receptor kinase interactor 1	0
+K05747	WAS; Wiskott-Aldrich syndrome protein	0
+K05746	ENAH, MENA; enabled	0
+K05745	DIAPH3, DRF3; diaphanous 3	0
+K05744	LIMK2; LIM domain kinase 2 [EC:2.7.11.1]	0
+K05743	LIMK1; LIM domain kinase 1 [EC:2.7.11.1]	0
+K05742	SLC9A1, NHE1; solute carrier family 9 (sodium/hydrogen exchanger), member 1	0
+K05741	DIAPH2; diaphanous 2	0
+K05740	DIAPH1; diaphanous 1	0
+K05627	BAIAP2, IRSP53; BAI1-associated protein 2	0
+K06493	ITGB3; integrin beta 3	0
+K05749	CYFIP; cytoplasmic FMR1 interacting protein	0
+K05748	WASF2; WAS protein family, member 2	0
+K03914	F2R, PAR1; coagulation factor II (thrombin) receptor	0
+K03915	BDKRB1; bradykinin receptor B1	0
+K03916	BDKRB2; bradykinin receptor B2	0
+K12754	MYL7; myosin regulatory light chain 7	0
+K04438	CRK, CRKII; proto-oncogene C-crk	0
+K05732	GRLF1; glucocorticoid receptor DNA-binding factor 1	0
+K05733	PAK3, MRX30; p21-activated kinase 3 [EC:2.7.11.1]	0
+K05730	VAV; vav oncogene	0
+K05731	TIAM; T-cell lymphoma invasion and metastasis	0
+K05736	PAK7; p21-activated kinase 7 [EC:2.7.11.1]	0
+K04129	CHRM1; muscarinic acetylcholine receptor M1	0
+K05734	PAK4; p21-activated kinase 4 [EC:2.7.11.1]	0
+K05735	PAK6; p21-activated kinase 6 [EC:2.7.11.1]	0
+K06485	ITGA6; integrin alpha 6	0
+K06484	ITGA5; integrin alpha 5	0
+K06487	ITGAV; integrin alpha V	0
+K06481	ITGA2; integrin alpha 2	0
+K06480	ITGA1; integrin alpha 1	0
+K06483	ITGA4; integrin alpha 4	0
+K06482	ITGA3; integrin alpha 3	0
+K05768	GSN; gelsolin	0
+K08007	VIL2; villin 2 (ezrin)	0
+K05720	FGD1; FYVE, RhoGEF and PH domain containing 1	0
+K05722	FGD3; FYVE, RhoGEF and PH domain containing 3	0
+K05725	PTK2, FAK; PTK2 protein tyrosine kinase 2 [EC:2.7.10.2]	0
+K05089	PDGFRB; platelet-derived growth factor receptor beta [EC:2.7.10.1]	0
+K06524	ITGAE; integrin alpha E	0
+K05726	BCAR1, CAS; breast cancer anti-estrogen resistance 1	0
+K05729	ARHGEF6, PIXA; Rho guanine nucleotide exchange factor 6	0
+K04132	CHRM4; muscarinic acetylcholine receptor M4	0
+K04131	CHRM3; muscarinic acetylcholine receptor M3	0
+K04130	CHRM2; muscarinic acetylcholine receptor M2	0
+K04639	GNA13; guanine nucleotide binding protein (G protein), alpha 13	0
+K07828	NRAS; GTPase NRas	0
+K07829	RRAS; Ras-related protein R-Ras	0
+K07827	KRAS, KRAS2; GTPase KRas	0
+K07532	ARHGEF12, LARG; Rho guanine nucleotide exchange factor 12	0
+K04410	PAK2; p21-activated kinase 2 [EC:2.7.11.1]	0
+K12755	MYL9; myosin regulatory light chain 9	0
+K12756	MYL10; myosin regulatory light chain 10	0
+K12757	MYL12; myosin regulatory light chain 12	0
+K12753	MYL5; myosin regulatory light chain 5	0
+K12758	MYLPF; fast skeletal myosin light chain 2	0
+K04393	CDC42; cell division control protein 42	0
+K04392	RAC1; Ras-related C3 botulinum toxin substrate 1	0
+K04391	CD14; CD14 antigen	0
+K05718	ITGAL; integrin alpha L	0
+K05719	ITGB1; integrin beta 1	0
+K05093	FGFR2; fibroblast growth factor receptor 2 [EC:2.7.10.1]	0
+K05717	FN1; fibronectin 1	0
+K06586	ITGA10; integrin alpha 10	0
+K05095	FGFR4; fibroblast growth factor receptor 4 [EC:2.7.10.1]	0
+K05094	FGFR3; fibroblast growth factor receptor 3 [EC:2.7.10.1]	0
+K06587	ITGA11; integrin alpha 11	0
+K07831	MRAS; Ras-related protein M-Ras	0
+K07830	RRAS2, TC21; Ras-related protein R-Ras2	0
+K01313	F2; coagulation factor II (thrombin) [EC:3.4.21.5]	0
+K03099	SOS; son of sevenless	0
+K04409	PAK1; p21-activated kinase 1 [EC:2.7.11.1]	0
+K06588	ITGB5; integrin beta 5	0
+K05700	VCL; vinculin	0
+K06589	ITGB6; integrin beta 6	0
+K06584	ITGA8; integrin alpha 8	0
+K06585	ITGA9; integrin alpha 9	0
+K04368	MAP2K1, MEK1; mitogen-activated protein kinase kinase 1 [EC:2.7.12.2]	0
+K04369	MAP2K2, MEK2; mitogen-activated protein kinase kinase 2 [EC:2.7.12.2]	0
+K06583	ITGA7; integrin alpha 7	0
+K04362	FGFR1; fibroblast growth factor receptor 1 [EC:2.7.10.1]	0
+K04363	PDGFRA; platelet-derived growth factor receptor alpha [EC:2.7.10.1]	0
+K04361	EGFR, ERBB1; epidermal growth factor receptor [EC:2.7.10.1]	0
+K04366	RAF1; RAF proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]	0
+K04367	MOS; proto-oncogene serine/threonine-protein kinase mos [EC:2.7.11.1]	0
+K04365	BRAF; B-Raf proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]	0
+K03776	aer; aerotaxis receptor	0
+K13924	cheBR; two-component system, chemotaxis family, CheB/CheR fusion protein [EC:2.1.1.80 3.1.1.61]	0
+K03411	cheD; chemotaxis protein CheD [EC:3.5.1.44]	0
+K03410	cheC; chemotaxis protein CheC	0
+K03413	cheY; two-component system, chemotaxis family, response regulator CheY	3
+K03412	cheB; two-component system, chemotaxis family, response regulator CheB [EC:3.1.1.61]	5
+K03415	cheV; two-component system, chemotaxis family, response regulator CheV	0
+K03414	cheZ; chemotaxis protein CheZ	0
+K10540	mglB; methyl-galactoside transport system substrate-binding protein	0
+K02557	motB; chemotaxis protein MotB	4
+K02556	motA; chemotaxis protein MotA	4
+K12368	dppA; dipeptide transport system substrate-binding protein	0
+K02410	fliG; flagellar motor switch protein FliG	6
+K02416	fliM; flagellar motor switch protein FliM	0
+K02417	fliNY, fliN; flagellar motor switch protein FliN/FliY	3
+K10108	malE; maltose/maltodextrin transport system substrate-binding protein	0
+K00575	cheR; chemotaxis protein methyltransferase CheR [EC:2.1.1.80]	0
+K05875	tar; methyl-accepting chemotaxis protein II, aspartate sensor receptor	0
+K05874	tsr; methyl-accepting chemotaxis protein I, serine sensor receptor	0
+K05877	tap; methyl-accepting chemotaxis protein IV, peptide sensor receptor	0
+K05876	trg; methyl-accepting chemotaxis protein III, ribose and galactose sensor receptor	0
+K10439	rbsB; ribose transport system substrate-binding protein	0
+K03406	mcp; methyl-accepting chemotaxis protein	1
+K03407	cheA; two-component system, chemotaxis family, sensor kinase CheA [EC:2.7.13.3]	0
+K03408	cheW; purine-binding chemotaxis protein CheW	0
+K03409	cheX; chemotaxis protein CheX	0
+K02409	fliF; flagellar M-ring protein FliF	0
+K02408	fliE; flagellar hook-basal body complex protein FliE	0
+K02399	flgN; flagella synthesis protein FlgN	0
+K02398	flgM; negative regulator of flagellin synthesis FlgM	0
+K02401	flhB; flagellar biosynthetic protein FlhB	0
+K02400	flhA; flagellar biosynthesis protein FlhA	0
+K02403	flhD; flagellar transcriptional activator FlhD	0
+K02402	flhC; flagellar transcriptional activator FlhC	0
+K02391	flgF; flagellar basal-body rod protein FlgF	0
+K02390	flgE; flagellar hook protein FlgE	5
+K02393	flgH; flagellar L-ring protein precursor FlgH	0
+K02392	flgG; flagellar basal-body rod protein FlgG	5
+K13820	fliR-flhB; flagellar biosynthetic protein FliR/FlhB	0
+K02386	flgA; flagella basal body P-ring formation protein FlgA	0
+K02396	flgK; flagellar hook-associated protein 1 FlgK	5
+K10565	motD; chemotaxis protein MotD	0
+K02557	motB; chemotaxis protein MotB	4
+K02556	motA; chemotaxis protein MotA	4
+K04562	flhG, fleN; flagellar biosynthesis protein FlhG	0
+K10564	motC; chemotaxis protein MotC	0
+K02397	flgL; flagellar hook-associated protein 3 FlgL	0
+K02418	fliOZ, fliO; flagellar protein FliO/FliZ	0
+K02419	fliP; flagellar biosynthetic protein FliP	0
+K02388	flgC; flagellar basal-body rod protein FlgC	0
+K02389	flgD; flagellar basal-body rod modification protein FlgD	0
+K02412	fliI; flagellum-specific ATP synthase [EC:3.6.3.14]	4
+K02413	fliJ; flagellar FliJ protein	0
+K02410	fliG; flagellar motor switch protein FliG	6
+K02411	fliH; flagellar assembly protein FliH	0
+K02416	fliM; flagellar motor switch protein FliM	0
+K02417	fliNY, fliN; flagellar motor switch protein FliN/FliY	3
+K02414	fliK; flagellar hook-length control protein FliK	0
+K02387	flgB; flagellar basal-body rod protein FlgB	0
+K02407	fliD; flagellar hook-associated protein 2	2
+K02406	fliC; flagellin	7
+K06604	flaI; flagellar rod protein FlaI	0
+K02394	flgI; flagellar P-ring protein precursor FlgI	3
+K02423	fliT; flagellar protein FliT	0
+K02422	fliS; flagellar protein FliS	0
+K02421	fliR; flagellar biosynthetic protein FliR	0
+K02420	fliQ; flagellar biosynthetic protein FliQ	0
+K02159	BAX; apoptosis regulator BAX, membrane protein (BCL2-associated)	0
+K10139	SERPINB5; serpin B5	0
+K10151	CCND2; cyclin D2	0
+K10152	CCND3; cyclin D3	0
+K01110	E3.1.3.67, PTEN; phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase [EC:3.1.3.67]	0
+K04390	TNFRSF6, FAS; tumor necrosis factor receptor superfamily member 6	0
+K10141	SESN; sestrin	0
+K10136	PERP; TP53 apoptosis effector	0
+K10137	ZMAT3; zinc finger, matrin type 3	0
+K13773	TP53AIP1; p53-regulated apoptosis-inducing protein 1	0
+K10135	SCOTIN; scotin	0
+K10131	PMAIP1; phorbol-12-myristate-13-acetate-induced protein 1	0
+K10133	TP53I3; tumor protein p53-inducible protein 3 [EC:1.-.-.-]	0
+K02216	CHK1; serine/threonine-protein kinase Chk1 [EC:2.7.11.1]	0
+K02091	CDK6; cyclin-dependent kinase 6 [EC:2.7.11.22]	0
+K07207	TSC2; tuberous sclerosis 2	0
+K04399	CASP9; caspase 9 [EC:3.4.22.62]	0
+K04398	CASP8; caspase 8 [EC:3.4.22.61]	0
+K10808	RRM2; ribonucleoside-diphosphate reductase subunit M2 [EC:1.17.4.1]	0
+K05868	CCNB; cyclin B	0
+K10129	GTSE1, B99; G-2 and S-phase expressed protein 1	0
+K08738	CYC; cytochrome c	5
+K10146	CCNG2; cyclin G2	0
+K10138	IGFBP3; insulin-like growth factor-binding protein 3	0
+K02187	CASP3; caspase 3 [EC:3.4.22.56]	0
+K04506	SIAH1; E3 ubiquitin-protein ligase SIAH1 [EC:6.3.2.19]	0
+K10142	STEAP3, TSAP6; metalloreductase STEAP3 [EC:1.16.1.-]	0
+K04728	ATM, TEL1; ataxia telangectasia mutated family protein [EC:2.7.11.1]	0
+K10140	DDB2; DNA damage-binding protein 2	0
+K10147	PPM1D, WIP1; protein phosphatase 1D (formerly 2C) [EC:3.1.3.16]	0
+K04503	CCND1; cyclin D1	0
+K10145	CCNG1; cyclin G1	0
+K10144	RCHY1, PIRH2; ring finger and CHY zinc finger domain-containing protein 1	0
+K10148	TP73; tumor protein p73	0
+K04726	BID; BH3 interacting domain death agonist	0
+K04402	GADD45; growth arrest and DNA-damage-inducible protein	0
+K03982	SERPINE1, PAI1; plasminogen activator inhibitor-1	0
+K02084	APAF1; apoptotic protease-activating factor	0
+K02087	CDK1, CDC2; cyclin-dependent kinase 1 [EC:2.7.11.22]	0
+K02206	CDK2; cyclin-dependent kinase 2 [EC:2.7.11.22]	0
+K02089	CDK4; cyclin-dependent kinase 4 [EC:2.7.11.22]	0
+K10128	RPRM; reprimo, TP53-dependent G2 arrest mediator candidate	0
+K10143	RFWD2, COP1; E3 ubiquitin-protein ligase RFWD2 [EC:6.3.2.19]	0
+K04596	BAI1; brain-specific angiogenesis inhibitor 1	0
+K06509	KAI1, CD82; kangai 1	0
+K06643	MDM2; transformed 3T3 cell double minute 2, p53-binding protein [EC:6.3.2.19]	0
+K06641	CHK2; serine/threonine-protein kinase Chk2 [EC:2.7.11.1]	0
+K06640	ATR; ataxia telangiectasia and Rad3 related [EC:2.7.11.1]	0
+K10127	MDM4, MDMX; transformed 3T3 cell double minute 4, p53-binding protein	0
+K06644	SFN; stratifin	0
+K04451	TP53, P53; tumor protein p53	0
+K10130	LRDD, PIDD; leucine-rich repeats and death domain-containing protein	0
+K06625	CDKN1A, P21, CIP1; cyclin-dependent kinase inhibitor 1A	0
+K10132	BBC3, PUMA; BCL2-binding component 3	0
+K06626	CCNE; cyclin E	0
+K06621	CDKN2A, P16, INK4A; cyclin-dependent kinase inhibitor 2A	0
+K05459	IGF1; insulin-like growth factor 1	0
+K10134	EI24; etoposide-induced 2.4 mRNA	0
+K04515	CAMK2; calcium/calmodulin-dependent protein kinase (CaM kinase) II [EC:2.7.11.17]	0
+K02183	CALM; calmodulin	0
+K05087	IGF1R; insulin-like growth factor 1 receptor [EC:2.7.10.1]	0
+K08694	SPDY, RINGO; speedy	0
+K02365	ESP1; separase [EC:3.4.22.49]	0
+K04348	PPP3C, CNA; protein phosphatase 3, catalytic subunit [EC:3.1.3.16]	0
+K11580	SGOL1; shugoshin-like 1	0
+K10318	FBXO43, EMI2; F-box protein 43	0
+K08836	SLK; STE20-like kinase [EC:2.7.11.1]	0
+K12456	APC13; anaphase-promoting complex subunit 13	0
+K05861	PLCZ; phospholipase C, zeta	0
+K02178	BUB1; checkpoint serine/threonine-protein kinase [EC:2.7.11.1]	0
+K03363	CDC20; cell division cycle 20, cofactor of APC complex	0
+K08043	ADCY3; adenylate cyclase 3 [EC:4.6.1.1]	0
+K08042	ADCY2; adenylate cyclase 2 [EC:4.6.1.1]	0
+K08041	ADCY1; adenylate cyclase 1 [EC:4.6.1.1]	0
+K06636	SMC1; structural maintenance of chromosome 1	0
+K08047	ADCY7; adenylate cyclase 7 [EC:4.6.1.1]	0
+K08046	ADCY6; adenylate cyclase 6 [EC:4.6.1.1]	0
+K08045	ADCY5; adenylate cyclase 5 [EC:4.6.1.1]	0
+K08044	ADCY4; adenylate cyclase 4 [EC:4.6.1.1]	0
+K04382	PPP2C; protein phosphatase 2 (formerly 2A), catalytic subunit [EC:3.1.3.16]	0
+K05867	CDC25C; cell division cycle 25C [EC:3.1.3.48]	0
+K08049	ADCY9; adenylate cyclase 9 [EC:4.6.1.1]	0
+K08048	ADCY8; adenylate cyclase 8 [EC:4.6.1.1]	0
+K11584	PPP2R5; protein phosphatase 2 (formerly 2A), regulatory subunit B'	0
+K03352	APC5; anaphase-promoting complex subunit 5	0
+K03353	APC6, CDC16; anaphase-promoting complex subunit 6	0
+K03350	APC3, CDC27; anaphase-promoting complex subunit 3	0
+K03351	APC4; anaphase-promoting complex subunit 4	0
+K03356	APC9; anaphase-promoting complex subunit 9	0
+K03357	APC10, DOC1; anaphase-promoting complex subunit 10	0
+K03354	APC7; anaphase-promoting complex subunit 7	0
+K03355	APC8, CDC23; anaphase-promoting complex subunit 8	0
+K04371	ERK1_2; extracellular signal-regulated kinase 1/2 [EC:2.7.11.24]	0
+K02602	ORB; oo18 RNA-binding protein	0
+K04373	RPS6KA, RSK2; p90 ribosomal S6 kinase [EC:2.7.11.1]	0
+K03359	APC12, CDC26; anaphase-promoting complex subunit 12	0
+K06269	PPP1C; protein phosphatase 1, catalytic subunit [EC:3.1.3.16]	0
+K06633	PKMYT; membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase [EC:2.7.11.1]	0
+K06630	YWHA; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein	0
+K06631	PLK1; polo-like kinase 1 [EC:2.7.11.21]	0
+K11481	AURKA; aurora kinase A [EC:2.7.11.1]	0
+K02537	MAD2; mitotic spindle assembly checkpoint protein MAD2	0
+K04526	INS; insulin	0
+K13056	C3H-4; CCCH zinc finger protein C3H-4	0
+K03094	SKP1, CBF3D; S-phase kinase-associated protein 1	0
+K03456	PPP2R1; protein phosphatase 2 (formerly 2A), regulatory subunit A	0
+K03348	APC1; anaphase-promoting complex subunit 1	0
+K10292	FBXO5, EMI1; F-box protein 5	0
+K02087	CDK1, CDC2; cyclin-dependent kinase 1 [EC:2.7.11.22]	0
+K08557	NR3C4, AR; androgen receptor	0
+K03868	RBX1, ROC1; RING-box protein 1	0
+K02206	CDK2; cyclin-dependent kinase 2 [EC:2.7.11.22]	0
+K03358	APC11; anaphase-promoting complex subunit 11	0
+K04960	ITPR3; inositol 1,4,5-triphosphate receptor type 3	0
+K04345	PKA; protein kinase A [EC:2.7.11.11]	0
+K06635	PTTG; pituitary tumor-transforming	0
+K06679	MAD1; mitotic spindle assembly checkpoint protein MAD1	0
+K13728	MAD2L2; mitotic spindle assembly checkpoint protein MAD2B	0
+K13054	REC8L; meiotic recombination protein REC8, animal type	0
+K13055	STAG3; cohesin complex subunit SA-3	0
+K05459	IGF1; insulin-like growth factor 1	0
+K08556	NR3C3, PGR; progesterone receptor	0
+K04959	ITPR2; inositol 1,4,5-triphosphate receptor type 2	0
+K04958	ITPR1; inositol 1,4,5-triphosphate receptor type 1	0
+K06268	PPP3R, CNB; protein phosphatase 3, regulatory subunit	0
+K06669	SMC3, CSPG6; structural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6)	0
+K04368	MAP2K1, MEK1; mitogen-activated protein kinase kinase 1 [EC:2.7.12.2]	0
+K03347	CUL1, CDC53; cullin 1	0
+K03349	APC2; anaphase-promoting complex subunit 2	0
+K03362	FBXW1_11, BTRC, beta-TRCP; F-box and WD-40 domain protein 1/11	0
+K06626	CCNE; cyclin E	0
+K04367	MOS; proto-oncogene serine/threonine-protein kinase mos [EC:2.7.11.1]	0
+K06683	CDC15; cell division control protein CDC15 [EC:2.7.11.1]	0
+K01768	E4.6.1.1; adenylate cyclase [EC:4.6.1.1]	5
+K04563	CDC28, CDC2; cyclin-dependent kinase [EC:2.7.11.22]	0
+K11582	SGO1; shugoshin	0
+K11584	PPP2R5; protein phosphatase 2 (formerly 2A), regulatory subunit B'	0
+K02537	MAD2; mitotic spindle assembly checkpoint protein MAD2	0
+K12781	MND2; anaphase-promoting complex subunit MND2	0
+K06636	SMC1; structural maintenance of chromosome 1	0
+K04345	PKA; protein kinase A [EC:2.7.11.11]	0
+K02212	MCM4, CDC54; minichromosome maintenance protein 4 (cell division control protein 54)	0
+K02830	HRAD1, RAD17; cell cycle checkpoint protein [EC:3.1.11.2]	0
+K02831	RAD53; ser/thr/tyr protein kinase RAD53 [EC:2.7.11.-]	0
+K12779	SUM1; suppressor of MAR1-1 protein	0
+K02541	MCM3; minichromosome maintenance protein 3	0
+K09235	RME1; zinc finger protein RME1	0
+K12414	TAH11; DNA replication licensing factor, required for pre-replication complex assembly	0
+K10872	DMC1; meiotic recombination protein DMC1	5
+K10878	SPO11; meiotic recombination protein SPO11	0
+K09468	MSN2_4; zinc finger protein MSN2/4	0
+K09358	MATA1; mating-type protein A1	0
+K09359	MATA2; mating-type protein A2	0
+K06679	MAD1; mitotic spindle assembly checkpoint protein MAD1	0
+K06269	PPP1C; protein phosphatase 1, catalytic subunit [EC:3.1.3.16]	0
+K03456	PPP2R1; protein phosphatase 2 (formerly 2A), regulatory subunit A	0
+K03114	SWE1; mitosis inhibitor protein kinase SWE1 [EC:2.7.11.1]	0
+K12575	SLK19; kinetochore protein SLK19	0
+K06661	RAD9; DNA repair protein RAD9	0
+K06660	CDC5; cell cycle serine/threonine-protein kinase CDC5/MSD2 [EC:2.7.11.21]	0
+K06663	DDC1; DNA damage checkpoint protein	0
+K06662	HRAD17, RAD24; cell cycle checkpoint protein	0
+K06669	SMC3, CSPG6; structural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6)	0
+K02210	MCM7, CDC47; minichromosome maintenance protein 7 (cell division control protein 47)	0
+K12778	HOP1; meiosis-specific protein HOP1	0
+K02213	CDC6; cell division control protein 6	0
+K02214	CDC7; cell division control protein 7 [EC:2.7.11.1]	0
+K02216	CHK1; serine/threonine-protein kinase Chk1 [EC:2.7.11.1]	0
+K12772	SPS4; sporulation-specific protein 4	0
+K12773	SPR3; sporulation-regulated protein 3	0
+K12770	GIP1; GLC7-interacting protein 1	0
+K12771	SPS1; sporulation-specific protein 1 [EC:2.7.11.1]	0
+K12776	MEK1; meiosis-specific serine/threonine-protein kinase MEK1 [EC:2.7.11.1]	0
+K12777	RED1; protein RED1	0
+K12774	MAM1; monopolin complex subunit MAM1	0
+K12775	LRS4; monopolin complex subunit LRS4	0
+K06659	CLB3_4; G2/mitotic-specific cyclin 3/4	0
+K06650	CLN2; G1/S-specific cyclin CLN2	0
+K06651	CLB5_6; S-phase entry cyclin 5/6	0
+K03352	APC5; anaphase-promoting complex subunit 5	0
+K03353	APC6, CDC16; anaphase-promoting complex subunit 6	0
+K03350	APC3, CDC27; anaphase-promoting complex subunit 3	0
+K03351	APC4; anaphase-promoting complex subunit 4	0
+K03356	APC9; anaphase-promoting complex subunit 9	0
+K03357	APC10, DOC1; anaphase-promoting complex subunit 10	0
+K02627	PDS1; cell cycle regulator	0
+K03355	APC8, CDC23; anaphase-promoting complex subunit 8	0
+K12783	SSP1; sporulation-specific protein 1	0
+K03358	APC11; anaphase-promoting complex subunit 11	0
+K03359	APC12, CDC26; anaphase-promoting complex subunit 12	0
+K12782	AMA1; meiosis-specific APC/C activator protein AMA1	0
+K02365	ESP1; separase [EC:3.4.22.49]	0
+K03354	APC7; anaphase-promoting complex subunit 7	0
+K12780	REC8; meiotic recombination protein REC8, fungi type	0
+K12769	NDT80; meiosis-specific transcription factor NDT80	0
+K12768	ZIP1; synaptonemal complex protein ZIP1	0
+K02209	MCM5, CDC46; minichromosome maintenance protein 5 (cell division control protein 46)	0
+K12761	SNF1; carbon catabolite-derepressing protein kinase [EC:2.7.11.1]	0
+K12763	SOK2; protein SOK2	0
+K12762	K12762, GPR1; G protein-coupled receptor GPR1	0
+K12765	IME2; meiosis induction protein kinase IME2/SME1 [EC:2.7.11.1]	0
+K12764	IME1; meiosis-inducing protein 1	0
+K12767	RIM15; serine/threonine-protein kinase RIM15 [EC:2.7.11.1]	0
+K12766	MDS1, RIM11; serine/threonine-protein kinase MDS1/RIM11 [EC:2.7.11.1]	0
+K06649	SWI4; regulatory protein SWI4	0
+K06648	SWI6; regulatory protein SWI6	0
+K09243	UME6; transcriptional regulatory protein UME6	0
+K04382	PPP2C; protein phosphatase 2 (formerly 2A), catalytic subunit [EC:3.1.3.16]	0
+K06646	CLN3; G1/S-specific cyclin CLN3	0
+K08139	HXT; MFS transporter, SP family, sugar:H+ symporter	0
+K03349	APC2; anaphase-promoting complex subunit 2	0
+K03348	APC1; anaphase-promoting complex subunit 1	0
+K12576	SPO12; sporulation-specific protein 12	0
+K03085	SIC1; substrate and inhibitor of the cyclin-dependent protein kinase CDC28	0
+K02178	BUB1; checkpoint serine/threonine-protein kinase [EC:2.7.11.1]	0
+K12416	SWM1, APC13; anaphase-promoting complex subunit SWM1	0
+K02608	ORC6; origin recognition complex subunit 6	0
+K06639	CDC14; cell division cycle 14 [EC:3.1.3.48]	0
+K02603	ORC1; origin recognition complex subunit 1	0
+K02607	ORC5; origin recognition complex subunit 5	0
+K02606	ORC4; origin recognition complex subunit 4	0
+K02605	ORC3; origin recognition complex subunit 3	0
+K02604	ORC2; origin recognition complex subunit 2	0
+K06671	STAG1_2, SCC3, IRR1; cohesin complex subunit SA-1/2	0
+K02309	DBF4; regulatory subunit for Cdc7p protein kinase	0
+K02544	MEC3; G2-specific checkpoint protein	0
+K02540	MCM2; minichromosome maintenance protein 2	0
+K06628	CDC45; cell division control protein 45	0
+K02542	MCM6; minichromosome maintenance protein 6	0
+K02543	MEC1; cell cycle checkpoint protein MEC1	0
+K03363	CDC20; cell division cycle 20, cofactor of APC complex	0
+K11749	rseP; regulator of sigma E protease [EC:3.4.24.-]	11
+K02563	murG; UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase [EC:2.4.1.227]	0
+K03589	ftsQ; cell division protein FtsQ	0
+K03588	ftsW, spoVE; cell division protein FtsW	0
+K13591	popA; two-component system, cell cycle response regulator PopA	0
+K02314	dnaB; replicative DNA helicase [EC:3.6.4.12]	22
+K13593	tipF; cyclic-di-GMP phosphodiesterase, flagellum assembly factor TipF	0
+K13592	rcdA; regulator of CtrA degradation	0
+K02313	dnaA; chromosomal replication initiator protein	7
+K07716	pleC; two-component system, cell cycle sensor histidine kinase PleC [EC:2.7.13.3]	1
+K03531	ftsZ; cell division protein FtsZ	4
+K02651	flp, pilA; pilus assembly protein Flp/PilA	0
+K01338	E3.4.21.53, lon; ATP-dependent Lon protease [EC:3.4.21.53]	22
+K01358	clpP, CLPP; ATP-dependent Clp protease, protease subunit [EC:3.4.21.92]	3
+K03590	ftsA; cell division protein FtsA	4
+K11443	divK; two-component system, cell cycle response regulator DivK	0
+K13582	podJ; localization factor PodJL	0
+K13583	gcrA; GcrA cell cycle regulator	0
+K13581	ccrM; modification methylase [EC:2.1.1.72]	0
+K13586	hfaB; holdfast attachment protein HfaB	0
+K13587	cckA; two-component system, cell cycle sensor histidine kinase and response regulator CckA [EC:2.7.13.3]	10
+K13584	ctrA; two-component system, cell cycle response regulator CtrA	0
+K13585	hfaA; holdfast attachment protein HfaA	0
+K13588	chpT; histidine phosphotransferase ChpT	0
+K13589	cpdR; two-component system, cell cycle response regulator CpdR	0
+K11357	divJ; two-component system, cell cycle sensor histidine kinase DivJ [EC:2.7.13.3]	0
+K13590	dgcB; diguanylate cyclase	0
+K02488	pleD; two-component system, cell cycle response regulator	0
+K03544	clpX, CLPX; ATP-dependent Clp protease ATP-binding subunit ClpX	5
+K13245	pdeA; c-di-GMP-specific phosphodiesterase [EC:3.1.4.52]	0
+K06985	K06985; aspartyl protease family protein	0
+K06687	NET1, ESC5; nucleolar protein involved in exit from mitosis	0
+K06686	DBF20; cell cycle protein kinase DBF20 [EC:2.7.11.-]	0
+K06685	MOB1; maintenance of ploidy protein MOB1 (MPS1 binder 1)	0
+K06684	DBF2; cell cycle protein kinase DBF2 [EC:2.7.11.-]	0
+K06683	CDC15; cell division control protein CDC15 [EC:2.7.11.1]	0
+K06682	TEM1; Gtp-binding protein of the ras superfamily involved in termination of M-phase	0
+K06681	LTE1; Gdp/GTP exchange factor required for growth at low temperatures	0
+K06680	MAD3; spindle assembly checkpoint component MAD3	0
+K09175	RFXX; regulatory factor X, other	0
+K02555	MIH1; M-phase inducer tyrosine phosphatase [EC:3.1.3.48]	0
+K04563	CDC28, CDC2; cyclin-dependent kinase [EC:2.7.11.22]	0
+K02537	MAD2; mitotic spindle assembly checkpoint protein MAD2	0
+K06636	SMC1; structural maintenance of chromosome 1	0
+K09202	SWI5; regulatory protein SWI5	0
+K02830	HRAD1, RAD17; cell cycle checkpoint protein [EC:3.1.11.2]	0
+K02831	RAD53; ser/thr/tyr protein kinase RAD53 [EC:2.7.11.-]	0
+K02541	MCM3; minichromosome maintenance protein 3	0
+K06641	CHK2; serine/threonine-protein kinase Chk2 [EC:2.7.11.1]	0
+K12413	WHI5; G1-specific transcriptional repressor WHI5	0
+K12412	MCM1; minichromosome maintenance protein 1	0
+K12416	SWM1, APC13; anaphase-promoting complex subunit SWM1	0
+K12414	TAH11; DNA replication licensing factor, required for pre-replication complex assembly	0
+K06672	SCC2, NIPBL; cohesin loading factor subunit SCC2	0
+K06673	SCC4; cohesin loading factor subunit SCC4	0
+K06670	SCC1, MCD1, RAD21; cohesin complex subunit SCC1	0
+K06671	STAG1_2, SCC3, IRR1; cohesin complex subunit SA-1/2	0
+K06676	BRRN1, BRN1, CAPH; condensin complex subunit 2	0
+K06677	YCS4, CNAP1, CAPD2; condensin complex subunit 1	0
+K06674	SMC2; structural maintenance of chromosome 2	0
+K04354	PPP2R2; protein phosphatase 2 (formerly 2A), regulatory subunit B	0
+K06678	YCG1, CAPG; condensin complex subunit 3	0
+K06679	MAD1; mitotic spindle assembly checkpoint protein MAD1	0
+K02646	PHO2; regulatory protein PHO2	0
+K02516	PRMT5, HSL7; protein arginine N-methyltransferase 5 [EC:2.1.1.125]	0
+K02515	HSL1; serine/threonine-protein kinase HSL1,negative regulator of Swe1 kinase [EC:2.7.11.-]	0
+K03456	PPP2R1; protein phosphatase 2 (formerly 2A), regulatory subunit A	0
+K03114	SWE1; mitosis inhibitor protein kinase SWE1 [EC:2.7.11.1]	0
+K02220	CLB1_2; G2/mitotic-specific cyclin 1/2	0
+K03348	APC1; anaphase-promoting complex subunit 1	0
+K11272	MRC1; mediator of replication checkpoint protein 1	0
+K03868	RBX1, ROC1; RING-box protein 1	0
+K06661	RAD9; DNA repair protein RAD9	0
+K06660	CDC5; cell cycle serine/threonine-protein kinase CDC5/MSD2 [EC:2.7.11.21]	0
+K06663	DDC1; DNA damage checkpoint protein	0
+K06662	HRAD17, RAD24; cell cycle checkpoint protein	0
+K06665	SSN6; glucose repression mediator protein	0
+K06667	CAK1; serine/threonine-protein kinase CAK1 [EC:2.7.11.22]	0
+K06666	TUP1; glucose repression regulatory protein TUP1	0
+K06669	SMC3, CSPG6; structural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6)	0
+K06668	GIN4; serine/threonine-protein kinase GIN4 [EC:2.7.11.-]	0
+K02210	MCM7, CDC47; minichromosome maintenance protein 7 (cell division control protein 47)	0
+K02212	MCM4, CDC54; minichromosome maintenance protein 4 (cell division control protein 54)	0
+K02213	CDC6; cell division control protein 6	0
+K02214	CDC7; cell division control protein 7 [EC:2.7.11.1]	0
+K02216	CHK1; serine/threonine-protein kinase Chk1 [EC:2.7.11.1]	0
+K02219	CKS1; cyclin-dependent kinase regulatory subunit CKS1	0
+K06658	PHO4; phosphate system positive regulatory protein PHO4	0
+K06659	CLB3_4; G2/mitotic-specific cyclin 3/4	0
+K06654	PHO80; phosphate system cyclin PHO80	0
+K06655	PHO85; negative regulator of the PHO system [EC:2.7.11.22]	0
+K06656	PCL1; G1/S-specific cyclin PLC1	0
+K06657	PCL2; G1/S-specific cyclin PLC2	0
+K06650	CLN2; G1/S-specific cyclin CLN2	0
+K06651	CLB5_6; S-phase entry cyclin 5/6	0
+K06652	FAR1; cyclin-dependent kinase inhibitor FAR1	0
+K06653	PHO81; CDK inhibitor PHO81	0
+K03352	APC5; anaphase-promoting complex subunit 5	0
+K03353	APC6, CDC16; anaphase-promoting complex subunit 6	0
+K03350	APC3, CDC27; anaphase-promoting complex subunit 3	0
+K03351	APC4; anaphase-promoting complex subunit 4	0
+K03356	APC9; anaphase-promoting complex subunit 9	0
+K03357	APC10, DOC1; anaphase-promoting complex subunit 10	0
+K02627	PDS1; cell cycle regulator	0
+K03355	APC8, CDC23; anaphase-promoting complex subunit 8	0
+K03358	APC11; anaphase-promoting complex subunit 11	0
+K03359	APC12, CDC26; anaphase-promoting complex subunit 12	0
+K02180	BUB3; cell cycle arrest protein BUB3	0
+K02181	BFA1; cell cycle arrest protein BFA1	0
+K02365	ESP1; separase [EC:3.4.22.49]	0
+K03354	APC7; anaphase-promoting complex subunit 7	0
+K02209	MCM5, CDC46; minichromosome maintenance protein 5 (cell division control protein 46)	0
+K12760	CLN1; G1/S-specific cyclin CLN1	0
+K06649	SWI4; regulatory protein SWI4	0
+K06648	SWI6; regulatory protein SWI6	0
+K04382	PPP2C; protein phosphatase 2 (formerly 2A), catalytic subunit [EC:3.1.3.16]	0
+K06647	MBP1; transcription factor MBP1	0
+K06646	CLN3; G1/S-specific cyclin CLN3	0
+K12578	LCD1, ddc2; DNA damage checkpoint protein LCD1	0
+K03347	CUL1, CDC53; cullin 1	0
+K03349	APC2; anaphase-promoting complex subunit 2	0
+K12575	SLK19; kinetochore protein SLK19	0
+K12576	SPO12; sporulation-specific protein 12	0
+K12577	FOB1; DNA replication fork-blocking protein FOB1	0
+K03085	SIC1; substrate and inhibitor of the cyclin-dependent protein kinase CDC28	0
+K02179	BUB2; cell cycle arrest protein BUB2	0
+K02178	BUB1; checkpoint serine/threonine-protein kinase [EC:2.7.11.1]	0
+K02608	ORC6; origin recognition complex subunit 6	0
+K06639	CDC14; cell division cycle 14 [EC:3.1.3.48]	0
+K02603	ORC1; origin recognition complex subunit 1	0
+K02607	ORC5; origin recognition complex subunit 5	0
+K02606	ORC4; origin recognition complex subunit 4	0
+K02605	ORC3; origin recognition complex subunit 3	0
+K02604	ORC2; origin recognition complex subunit 2	0
+K10259	MET30; F-box and WD-40 domain protein MET30	0
+K08866	TTK, MPS1; serine/threonine-protein kinase TTK/MPS1 [EC:2.7.12.1]	0
+K03094	SKP1, CBF3D; S-phase kinase-associated protein 1	0
+K02307	DAM1; DASH complex subunit DAM1	0
+K02309	DBF4; regulatory subunit for Cdc7p protein kinase	0
+K06675	SMC4; structural maintenance of chromosome 4	0
+K02544	MEC3; G2-specific checkpoint protein	0
+K02540	MCM2; minichromosome maintenance protein 2	0
+K06628	CDC45; cell division control protein 45	0
+K02542	MCM6; minichromosome maintenance protein 6	0
+K02543	MEC1; cell cycle checkpoint protein MEC1	0
+K03363	CDC20; cell division cycle 20, cofactor of APC complex	0
+K03361	CDC4; F-box and WD-40 domain protein CDC4	0
+K03360	GRR1; F-box and leucine-rich repeat protein GRR1	0
+K03364	CDH1; cell division cycle 20-like protein 1, cofactor of APC complex	0
+K02091	CDK6; cyclin-dependent kinase 6 [EC:2.7.11.22]	0
+K06618	RB1; retinoblastoma-associated protein	0
+K06619	ABL1; proto-oncogene tyrosine-protein kinase ABL1 [EC:2.7.10.2]	0
+K04377	MYC; Myc proto-oncogene protein	0
+K02537	MAD2; mitotic spindle assembly checkpoint protein MAD2	0
+K04503	CCND1; cyclin D1	0
+K04500	SMAD2_3; SMAD, mothers against DPP 2/3	0
+K04501	SMAD4; SMAD, mothers against DPP 4	0
+K02603	ORC1; origin recognition complex subunit 1	0
+K02087	CDK1, CDC2; cyclin-dependent kinase 1 [EC:2.7.11.22]	0
+K02089	CDK4; cyclin-dependent kinase 4 [EC:2.7.11.22]	0
+K02540	MCM2; minichromosome maintenance protein 2	0
+K02607	ORC5; origin recognition complex subunit 5	0
+K02606	ORC4; origin recognition complex subunit 4	0
+K02605	ORC3; origin recognition complex subunit 3	0
+K02604	ORC2; origin recognition complex subunit 2	0
+K06622	CDKN2C, P18, INK4C; cyclin-dependent kinase inhibitor 2C	0
+K06067	HDAC1_2; histone deacetylase 1/2 [EC:3.5.1.98]	0
+K06645	CDC25A; cell division cycle 25A [EC:3.1.3.48]	0
+K06670	SCC1, MCD1, RAD21; cohesin complex subunit SCC1	0
+K06671	STAG1_2, SCC3, IRR1; cohesin complex subunit SA-1/2	0
+K10500	ZBTB17, MIZ1; zinc finger and BTB domain-containing protein 17	0
+K04685	CDKN2B, P15, INK4B; cyclin-dependent kinase inhibitor 2B	0
+K04728	ATM, TEL1; ataxia telangectasia mutated family protein [EC:2.7.11.1]	0
+K04681	RBL; retinoblastoma-like	0
+K04683	TFDP1; transcription factor Dp-1	0
+K04682	E2F4_5; E2F transcription factor 4/5	0
+K13375	TGFB1; transforming growth factor beta-1	0
+K06669	SMC3, CSPG6; structural maintenance of chromosome 3 (chondroitin sulfate proteoglycan 6)	0
+K04451	TP53, P53; tumor protein p53	0
+K10151	CCND2; cyclin D2	0
+K10152	CCND3; cyclin D3	0
+K02210	MCM7, CDC47; minichromosome maintenance protein 7 (cell division control protein 47)	0
+K04802	PCNA; proliferating cell nuclear antigen	2
+K02212	MCM4, CDC54; minichromosome maintenance protein 4 (cell division control protein 54)	0
+K02213	CDC6; cell division control protein 6	0
+K02214	CDC7; cell division control protein 7 [EC:2.7.11.1]	0
+K02216	CHK1; serine/threonine-protein kinase Chk1 [EC:2.7.11.1]	0
+K03868	RBX1, ROC1; RING-box protein 1	0
+K03352	APC5; anaphase-promoting complex subunit 5	0
+K03353	APC6, CDC16; anaphase-promoting complex subunit 6	0
+K03350	APC3, CDC27; anaphase-promoting complex subunit 3	0
+K03351	APC4; anaphase-promoting complex subunit 4	0
+K03356	APC9; anaphase-promoting complex subunit 9	0
+K03357	APC10, DOC1; anaphase-promoting complex subunit 10	0
+K03354	APC7; anaphase-promoting complex subunit 7	0
+K03355	APC8, CDC23; anaphase-promoting complex subunit 8	0
+K03358	APC11; anaphase-promoting complex subunit 11	0
+K03359	APC12, CDC26; anaphase-promoting complex subunit 12	0
+K02180	BUB3; cell cycle arrest protein BUB3	0
+K02365	ESP1; separase [EC:3.4.22.49]	0
+K09993	CDKN1C, P57, KIP2; cyclin-dependent kinase inhibitor 1C	0
+K02209	MCM5, CDC46; minichromosome maintenance protein 5 (cell division control protein 46)	0
+K02206	CDK2; cyclin-dependent kinase 2 [EC:2.7.11.22]	0
+K02202	CDK7; cyclin-dependent kinase 7 [EC:2.7.11.22]	0
+K06643	MDM2; transformed 3T3 cell double minute 2, p53-binding protein [EC:6.3.2.19]	0
+K06642	PRKDC; DNA-dependent protein kinase catalytic subunit [EC:2.7.11.1]	0
+K06641	CHK2; serine/threonine-protein kinase Chk2 [EC:2.7.11.1]	0
+K06640	ATR; ataxia telangiectasia and Rad3 related [EC:2.7.11.1]	0
+K03875	SKP2, FBXL1; F-box and leucine-rich repeat protein 1 (S-phase kinase-associated protein 2)	0
+K06644	SFN; stratifin	0
+K03347	CUL1, CDC53; cullin 1	0
+K03349	APC2; anaphase-promoting complex subunit 2	0
+K03348	APC1; anaphase-promoting complex subunit 1	0
+K13377	TGFB3; transforming growth factor beta-3	0
+K13376	TGFB2; transforming growth factor beta-2	0
+K03083	GSK3B; glycogen synthase kinase 3 beta [EC:2.7.11.26]	0
+K09392	TFDP2; transcription factor Dp-2	0
+K02541	MCM3; minichromosome maintenance protein 3	0
+K12456	APC13; anaphase-promoting complex subunit 13	0
+K02178	BUB1; checkpoint serine/threonine-protein kinase [EC:2.7.11.1]	0
+K05868	CCNB; cyclin B	0
+K05866	CDC25B; cell division cycle 25B [EC:3.1.3.48]	0
+K05867	CDC25C; cell division cycle 25C [EC:3.1.3.48]	0
+K02608	ORC6; origin recognition complex subunit 6	0
+K06638	MAD1L; mitotic spindle assembly checkpoint protein MAD1	0
+K06639	CDC14; cell division cycle 14 [EC:3.1.3.48]	0
+K06636	SMC1; structural maintenance of chromosome 1	0
+K06637	BUB1B, BUBR1, MAD3L; mitotic checkpoint serine/threonine-protein kinase BUB1 beta [EC:2.7.11.1]	0
+K06634	CCNH; cyclin H	0
+K06635	PTTG; pituitary tumor-transforming	0
+K06632	WEE1; wee1-like protein kinase [EC:2.7.11.1]	0
+K06633	PKMYT; membrane-associated tyrosine- and threonine-specific cdc2-inhibitory kinase [EC:2.7.11.1]	0
+K06630	YWHA; tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein	0
+K06631	PLK1; polo-like kinase 1 [EC:2.7.11.21]	0
+K09389	E2F2; E2F transcription factor 2	0
+K08866	TTK, MPS1; serine/threonine-protein kinase TTK/MPS1 [EC:2.7.12.1]	0
+K03094	SKP1, CBF3D; S-phase kinase-associated protein 1	0
+K04402	GADD45; growth arrest and DNA-damage-inducible protein	0
+K03363	CDC20; cell division cycle 20, cofactor of APC complex	0
+K13728	MAD2L2; mitotic spindle assembly checkpoint protein MAD2B	0
+K04498	EP300, CREBBP, KAT3; E1A/CREB-binding protein [EC:2.3.1.48]	0
+K06629	ASK, DBF4; activator of S phase kinase	0
+K06628	CDC45; cell division control protein 45	0
+K02542	MCM6; minichromosome maintenance protein 6	0
+K06625	CDKN1A, P21, CIP1; cyclin-dependent kinase inhibitor 1A	0
+K06624	CDKN1B, P27, KIP1; cyclin-dependent kinase inhibitor 1B	0
+K06627	CCNA; cyclin A	0
+K06626	CCNE; cyclin E	0
+K06621	CDKN2A, P16, INK4A; cyclin-dependent kinase inhibitor 2A	0
+K06620	E2F1_3; E2F transcription factor 1/3	0
+K06623	CDKN2D, P19, INK4D; cyclin-dependent kinase inhibitor 2D	0
+K03364	CDH1; cell division cycle 20-like protein 1, cofactor of APC complex	0
+K02373	FADD; FAS (TNFRSF6)-associated via death domain	0
+K04738	CSF2RB, IL3RB; cytokine receptor common subunit beta	0
+K01173	E3.1.30.-; endonuclease [EC:3.1.30.-]	0
+K04741	CASP12; caspase 12 [EC:3.4.22.-]	0
+K04731	IRAK2; interleukin-1 receptor-associated kinase 2 [EC:2.7.11.1]	0
+K04730	IRAK1; interleukin-1 receptor-associated kinase 1 [EC:2.7.11.1]	0
+K04733	IRAK4; interleukin-1 receptor-associated kinase 4 [EC:2.7.11.1]	0
+K04732	IRAK3; interleukin-1 receptor-associated kinase 3 [EC:2.7.11.1]	0
+K04519	IL1B; interleukin 1 beta	0
+K04728	ATM, TEL1; ataxia telangectasia mutated family protein [EC:2.7.11.1]	0
+K04737	IL3RA; interleukin 3 receptor alpha	0
+K04736	IL3; interleukin 3	0
+K04397	CASP7; caspase 7 [EC:3.4.22.60]	0
+K04396	CASP6; caspase 6 [EC:3.4.22.59]	0
+K02311	DFFB, DFF40; DNA fragmentation factor, 40 kD, beta subunit [EC:3.-.-.-]	0
+K02310	DFFA, DFF45; DNA fragmentation factor, 45 kD, alpha subunit	0
+K02159	BAX; apoptosis regulator BAX, membrane protein (BCL2-associated)	0
+K04390	TNFRSF6, FAS; tumor necrosis factor receptor superfamily member 6	0
+K04399	CASP9; caspase 9 [EC:3.4.22.62]	0
+K04398	CASP8; caspase 8 [EC:3.4.22.61]	0
+K02861	RIPK1, RIP1; receptor-interacting serine/threonine-protein kinase 1 [EC:2.7.11.1]	0
+K03171	TRADD; tnfrsf1a-associated via death domain	0
+K04735	RELA; transcription factor p65	0
+K08738	CYC; cytochrome c	5
+K01367	CAPN1; calpain-1 [EC:3.4.22.52]	0
+K04723	IL1RAP; interleukin 1 receptor accessory protein	0
+K02187	CASP3; caspase 3 [EC:3.4.22.56]	0
+K06268	PPP3R, CNB; protein phosphatase 3, regulatory subunit	0
+K02649	PIK3R; phosphoinositide-3-kinase, regulatory subunit	0
+K04739	PRKAR; cAMP-dependent protein kinase regulator	0
+K03156	TNFA; tumor necrosis factor superfamily, member 2	0
+K04729	MYD88; myeloid differentiation primary response protein MyD88	0
+K07210	IKBKG, IKKG, NEMO; inhibitor of nuclear factor kappa-B kinase subunit gamma	0
+K07209	IKBKB, IKKB; inhibitor of nuclear factor kappa-B kinase subunit beta [EC:2.7.11.10]	0
+K04722	TNFRSF10, TRAILR; tumor necrosis factor receptor superfamily member 10	0
+K04726	BID; BH3 interacting domain death agonist	0
+K04466	MAP3K14, NIK; mitogen-activated protein kinase kinase kinase 14 [EC:2.7.11.25]	0
+K04721	TNFSF10, TRAIL; tumor necrosis factor ligand superfamily member 10	0
+K03158	TNFRSF1A, TNFR1; tumor necrosis factor receptor superfamily member 1A	0
+K04727	PDCD8, AIF; programmed cell death 8 (apoptosis-inducing factor) [EC:1.-.-.-]	0
+K04724	CFLAR, FLIP; CASP8 and FADD-like apoptosis regulator	0
+K04725	BIRC2_3_4; baculoviral IAP repeat-containing 2/3/4	0
+K02084	APAF1; apoptotic protease-activating factor	0
+K00922	PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]	0
+K02158	BAD; BCL2-antagonist of cell death	0
+K04467	IKBKA, IKKA, CHUK; inhibitor of nuclear factor kappa-B kinase subunit alpha [EC:2.7.11.10]	0
+K02161	BCL2; apoptosis regulator BCL-2	0
+K03173	TRAF2; TNF receptor-associated factor 2	0
+K04400	CASP10; caspase 10 [EC:3.4.22.63]	0
+K03176	NTRK1, TRKA; neurotrophic tyrosine kinase receptor type 1 [EC:2.7.10.1]	0
+K04389	TNFSF6, FASL; tumor necrosis factor ligand superfamily member 6	0
+K03853	CAPN2; calpain-2 [EC:3.4.22.53]	0
+K04345	PKA; protein kinase A [EC:2.7.11.11]	0
+K04734	NFKBIA; NF-kappa-B inhibitor alpha	0
+K04383	IL1A; interleukin 1 alpha	0
+K04348	PPP3C, CNA; protein phosphatase 3, catalytic subunit [EC:3.1.3.16]	0
+K04386	IL1R1; interleukin 1 receptor type I	0
+K04456	AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]	0
+K04570	BCL2L1, bcl-xL; BCL2-like 1 (apoptosis regulator Bcl-X)	0
+K04451	TP53, P53; tumor protein p53	0
+K02580	NFKB1; nuclear factor NF-kappa-B p105 subunit	0
+K02582	NGFB; nerve growth factor, beta	0
+K04696	SOCS3, CIS3; suppressor of cytokine signaling 3	0
+K04697	SOCS4; suppressor of cytokine signaling 4	0
+K04694	SOCS1, JAB; suppressor of cytokine signaling 1	0
+K04695	SOCS2, CIS2; suppressor of cytokine signaling 2	0
+K07594	IPF1, PDX1; insulin promoter factor 1	0
+K07595	MAFA; transcription factor MAFA	0
+K12406	PKLR; pyruvate kinase isozymes R/L [EC:2.7.1.40]	0
+K04851	CACNA1D; voltage-dependent calcium channel L type alpha-1D	0
+K07593	SLC2A2, GLUT2; MFS transporter, SP family, solute carrier family 2 (facilitated glucose transporter), member 2	0
+K00873	PK, pyk; pyruvate kinase [EC:2.7.1.40]	3
+K07191	SLC2A4, GLUT4; MFS transporter, SP family, solute carrier family 2 (facilitated glucose transporter), member 4	0
+K04849	CACNA1B; voltage-dependent calcium channel N type alpha-1B	0
+K00844	HK; hexokinase [EC:2.7.1.1]	0
+K04440	JNK; c-Jun N-terminal kinase [EC:2.7.11.24]	0
+K04371	ERK1_2; extracellular signal-regulated kinase 1/2 [EC:2.7.11.24]	0
+K07296	ACDC; adiponectin	0
+K02649	PIK3R; phosphoinositide-3-kinase, regulatory subunit	0
+K04344	CACNA1A; voltage-dependent calcium channel P/Q type alpha-1A	0
+K03156	TNFA; tumor necrosis factor superfamily, member 2	0
+K12407	GCK; glucokinase [EC:2.7.1.2]	0
+K04526	INS; insulin	0
+K04527	INSR; insulin receptor [EC:2.7.10.1]	0
+K05032	ABCC8, SUR1; ATP-binding cassette subfamily C (CFTR/MRP) member 8	0
+K00922	PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]	0
+K07187	IRS; insulin receptor substrate	0
+K04850	CACNA1C; voltage-dependent calcium channel L type alpha-1C	0
+K07209	IKBKB, IKKB; inhibitor of nuclear factor kappa-B kinase subunit beta [EC:2.7.11.10]	0
+K04852	CACNA1E; voltage-dependent calcium channel R type alpha-1E	0
+K04854	CACNA1G; voltage-dependent calcium channel T type alpha-1G	0
+K07203	FRAP; FKBP12-rapamycin complex-associated protein	0
+K05004	KCNJ11; potassium inwardly-rectifying channel subfamily J member 11	0
+K07593	SLC2A2, GLUT2; MFS transporter, SP family, solute carrier family 2 (facilitated glucose transporter), member 2	0
+K07594	IPF1, PDX1; insulin promoter factor 1	0
+K07595	MAFA; transcription factor MAFA	0
+K08040	BHLHB8, MIST1; class B basic helix-loop-helix protein 8	0
+K08025	HLXB9, HB9; homeobox protein HB9	0
+K08024	HHEX, HEX, PRH; homeobox protein HEX	0
+K08027	NR5A2, FTF; nuclear receptor subfamily 5 group A member 2	0
+K08026	ONECUT1, HNF6; one cut domain, family member 1, hepatocyte nuclear factor 6	0
+K08029	NKX2-2; homeobox protein Nkx-2.2	0
+K07292	NR2A1, HNF4A; hepatocyte nuclear factor 4-alpha	0
+K12406	PKLR; pyruvate kinase isozymes R/L [EC:2.7.1.40]	0
+K12407	GCK; glucokinase [EC:2.7.1.2]	0
+K04526	INS; insulin	0
+K06054	HES1; hairy and enhancer of split 1	0
+K08028	NEUROG3; neurogenin 3	0
+K08036	TCF1, HNF1A; transcription factor 1, hepatocyte nuclear factor 1-alpha	0
+K08037	NR2A2, HNF4G; hepatocyte nuclear factor 4-gamma	0
+K08034	TCF2, HNF1B; transcription factor 2, hepatocyte nuclear factor 1-beta	0
+K08035	FOXA2, HNF3B; forkhead box protein A2, hepatocyte nuclear factor 3-beta	0
+K08032	PAX4; paired box protein 4	0
+K08033	NEUROD1; neurogenic differentiation factor 1	0
+K08030	NKX6-1; homeobox protein Nkx-6.1	0
+K08031	PAX6; paired box protein 6	0
+K08038	FOXA3, HNF3G; forkhead box protein A3, hepatocyte nuclear factor 3-gamma	0
+K08039	IAPP; islet amyloid polypeptide	0
+K04519	IL1B; interleukin 1 beta	0
+K03156	TNFA; tumor necrosis factor superfamily, member 2	0
+K01580	E4.1.1.15, gadB; glutamate decarboxylase [EC:4.1.1.15]	0
+K04390	TNFRSF6, FAS; tumor necrosis factor receptor superfamily member 6	0
+K06751	MHC1; major histocompatibility complex, class I	0
+K06752	MHC2; major histocompatibility complex, class II	0
+K05468	LTA, TNFB; lymphotoxin alpha (TNF superfamily, member 1)	0
+K05425	IL12B; interleukin 12B	0
+K05406	IL12A; interleukin 12A	0
+K07818	PRF1; perforin 1	0
+K05429	IL2; interleukin 2	0
+K04687	IFNG; interferon gamma	0
+K07817	PTPRN; protein tyrosine phosphatase, receptor type, N [EC:3.1.3.48]	0
+K04526	INS; insulin	0
+K01353	GZMB; granzyme B [EC:3.4.21.79]	0
+K10785	TRBV; T-cell receptor beta chain V region	0
+K01294	CPE; carboxypeptidase E [EC:3.4.17.10]	0
+K04389	TNFSF6, FASL; tumor necrosis factor ligand superfamily member 6	0
+K06470	CD28; CD28 antigen	0
+K10784	TRAV; T cell receptor alpha chain V region	0
+K04383	IL1A; interleukin 1 alpha	0
+K04077	groEL, HSPD1; chaperonin GroEL	8
+K05413	CD86; CD86 antigen	0
+K05412	CD80; CD80 antigen	0
+K05689	CDHE, CDH1; cadherin 1, type 1, E-cadherin	0
+K04513	RHOA; Ras homolog gene family, member A	0
+K06106	CTTN, EMS1; cortactin	0
+K07863	RHOG; Ras homolog gene family, member G	0
+K04438	CRK, CRKII; proto-oncogene C-crk	0
+K04393	CDC42; cell division control protein 42	0
+K13925	pfbA; plasmin and fibronectin-binding protein A	0
+K05704	SRC; proto-oncogene tyrosine-protein kinase Src [EC:2.7.10.2]	0
+K09593	GAB1; GRB2-associated-binding protein 1	0
+K05099	MET, HGFR; proto-oncogene tyrosine-protein kinase Met [EC:2.7.10.1]	0
+K01528	DNM; dynamin GTPase [EC:3.6.5.5]	0
+K04645	CLTB, LCB; clathrin light chain B	0
+K13738	CD2AP; CD2-associated protein	0
+K04646	CLTC; clathrin heavy chain	0
+K13735	yeeJ; adhesin/invasin	0
+K13734	sfb1; fibronectin-binding protein 1	0
+K13737	SEPT1; septin 1	0
+K13736	ARHGAP10; Rho GTPase-activating protein 10	0
+K13731	inlB; internalin B	0
+K13730	inlA; internalin A	0
+K13733	fnbB; fibronectin-binding protein B	0
+K13732	fnbA; fibronectin-binding protein A	0
+K05758	ARPC2; actin related protein 2/3 complex, subunit 2	0
+K12785	espG, virA; LEE-encoded effector EspG	0
+K04707	CBL; E3 ubiquitin-protein ligase CBL [EC:6.3.2.19]	0
+K05719	ITGB1; integrin beta 1	0
+K05753	WASF1; WAS protein family, member 1	0
+K05754	ARPC5; actin related protein 2/3 complex, subunit 5	0
+K05755	ARPC4; actin related protein 2/3 complex, subunit 4	0
+K02649	PIK3R; phosphoinositide-3-kinase, regulatory subunit	0
+K05757	ARPC1A_B; actin related protein 2/3 complex, subunit 1A/1B	0
+K05717	FN1; fibronectin 1	0
+K02105	CTNNB1; catenin (cadherin-associated protein), beta 1	0
+K12366	ELMO1, CED12; engulfment and cell motility protein 1	0
+K05691	CTNNA; catenin (cadherin-associated protein), alpha	0
+K13085	ipgD, sopB; phosphatidylinositol-4,5-bisphosphate 4-phosphatase [EC:3.1.3.78]	0
+K05692	ACTB_G1; actin beta/gamma 1	0
+K13286	sipC, ipaC, bipC; invasin C	0
+K00922	PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]	0
+K13744	SGEF; SH3 domain-containing guanine exchange factor	0
+K13739	sopD; secreted effector protein SopD	0
+K13740	sptP; secreted effector protein SptP	0
+K13741	sopE; guanine nucleotide exchange factor SopE	0
+K13742	ipgB1; protein IpgB1	0
+K04644	CLTA, LCA; clathrin light chain A	0
+K13708	DOCK1; dedicator of cytokinesis 1	0
+K13743	ipgB2; protein IpgB2	0
+K05725	PTK2, FAK; PTK2 protein tyrosine kinase 2 [EC:2.7.10.2]	0
+K13728	MAD2L2; mitotic spindle assembly checkpoint protein MAD2B	0
+K12958	CAV2; caveolin 2	0
+K12959	CAV3; caveolin 3	0
+K13285	sipB, ipaB, bipB; invasin B	0
+K13284	sipA, ipaA; invasin A	0
+K13287	sipD, ipaD, bipD; invasin D	0
+K05726	BCAR1, CAS; breast cancer anti-estrogen resistance 1	0
+K05747	WAS; Wiskott-Aldrich syndrome protein	0
+K05700	VCL; vinculin	0
+K05748	WASF2; WAS protein family, member 2	0
+K06272	ILK; integrin-linked kinase [EC:2.7.11.1]	0
+K05756	ARPC3; actin related protein 2/3 complex, subunit 3	0
+K06484	ITGA5; integrin alpha 5	0
+K06279	SHC; src homology 2 domain-containing transforming protein C	0
+K05760	PXN; paxillin	0
+K06278	CAV1; caveolin 1	0
+K04392	RAC1; Ras-related C3 botulinum toxin substrate 1	0
+K06786	JAM4, JCAM; junction adhesion molecule 4	0
+K06785	JAM3; junction adhesion molecule 3	0
+K04430	MAP2K4, MKK4; mitogen-activated protein kinase kinase 4 [EC:2.7.12.2]	0
+K02187	CASP3; caspase 3 [EC:3.4.22.56]	0
+K04735	RELA; transcription factor p65	0
+K04734	NFKBIA; NF-kappa-B inhibitor alpha	0
+K01428	ureC; urease subunit alpha [EC:3.5.1.5]	0
+K04393	CDC42; cell division control protein 42	0
+K04392	RAC1; Ras-related C3 botulinum toxin substrate 1	0
+K07210	IKBKG, IKKG, NEMO; inhibitor of nuclear factor kappa-B kinase subunit gamma	0
+K02155	ATPeVPL, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit [EC:3.6.3.14]	0
+K02154	ATPeVI, ATP6N1A; V-type H+-transporting ATPase subunit I [EC:3.6.3.14]	0
+K02153	ATPeVH, ATP6H; V-type H+-transporting ATPase subunit H [EC:3.6.3.14]	0
+K02152	ATPeVG, ATP6G1; V-type H+-transporting ATPase subunit G [EC:3.6.3.14]	0
+K02151	ATPeVF, ATP6S14; V-type H+-transporting ATPase subunit F [EC:3.6.3.14]	0
+K10030	IL8, CXCL8; interleukin 8	0
+K05099	MET, HGFR; proto-oncogene tyrosine-protein kinase Met [EC:2.7.10.1]	0
+K05737	GIT1; G protein-coupled receptor kinase interactor 1	0
+K08303	K08303; putative protease [EC:3.4.-.-]	0
+K06089	F11R, JAM1; junctional adhesion molecule 1	0
+K04441	P38; p38 MAP kinase [EC:2.7.11.24]	0
+K04440	JNK; c-Jun N-terminal kinase [EC:2.7.11.24]	0
+K08523	HBEGF; heparin-binding EGF-like growth factor	0
+K07293	PTPN11; protein tyrosine phosphatase, non-receptor type 11 [EC:3.1.3.48]	0
+K14048	ureAB; urease subunit gamma/beta [EC:3.5.1.5]	0
+K02150	ATPeVE, ATP6E; V-type H+-transporting ATPase subunit E [EC:3.6.3.14]	0
+K04409	PAK1; p21-activated kinase 1 [EC:2.7.11.1]	0
+K08727	NOD1, CARD4; nucleotide-binding oligomerization domain-containing protein 1	0
+K03662	ATPeVS1, ATP6S1; V-type H+-transporting ATPase S1 subunit [EC:3.6.3.14]	0
+K03191	ureI; acid-activated urea channel	0
+K03661	ATPeVPF, ATP6F; V-type H+-transporting ATPase 21kDa proteolipid subunit [EC:3.6.3.14]	0
+K06735	JAM2; junctional adhesion molecule 2	0
+K04467	IKBKA, IKKA, CHUK; inhibitor of nuclear factor kappa-B kinase subunit alpha [EC:2.7.11.10]	0
+K05050	IL8RB, CXCR2; interleukin 8 receptor beta	0
+K05854	LYN; tyrosine-protein kinase Lyn [EC:2.7.10.2]	0
+K02144	ATPeV54kD; V-type H+-transporting ATPase 54 kD subunit [EC:3.6.3.14]	0
+K02145	ATPeVA, ATP6A1; V-type H+-transporting ATPase subunit A [EC:3.6.3.14]	4
+K02146	ATPeVAC39, ATP6D; V-type H+-transporting ATPase subunit AC39 [EC:3.6.3.14]	0
+K02147	ATPeVB, ATP6B1; V-type H+-transporting ATPase subunit B [EC:3.6.3.14]	5
+K02148	ATPeVC, ATP6C; V-type H+-transporting ATPase subunit C [EC:3.6.3.14]	0
+K02149	ATPeVD, ATP6M; V-type H+-transporting ATPase subunit D [EC:3.6.3.14]	0
+K04466	MAP3K14, NIK; mitogen-activated protein kinase kinase kinase 14 [EC:2.7.11.25]	0
+K05859	PLCG; phospholipase C, gamma [EC:3.1.4.11]	0
+K07209	IKBKB, IKKB; inhibitor of nuclear factor kappa-B kinase subunit beta [EC:2.7.11.10]	0
+K04175	IL8RA, CXCR1; interleukin 8 receptor alpha	0
+K04448	JUN; transcription factor AP-1	0
+K06059	ADAM17, TACE; disintegrin and metalloproteinase domain-containing protein 17 [EC:3.4.24.86]	0
+K05728	CSK; c-src tyrosine kinase [EC:2.7.10.2]	0
+K05701	TJP1, ZO1; tight junction protein 1	0
+K05704	SRC; proto-oncogene tyrosine-protein kinase Src [EC:2.7.10.2]	0
+K08114	PTPRZ; protein tyrosine phosphatase, receptor-type, Z polypeptide [EC:3.1.3.48]	0
+K12499	CCL5; C-C motif chemokine 5	0
+K02580	NFKB1; nuclear factor NF-kappa-B p105 subunit	0
+K06704	ADAM10; disintegrin and metalloproteinase domain-containing protein 10 [EC:3.4.24.81]	0
+K04361	EGFR, ERBB1; epidermal growth factor receptor [EC:2.7.10.1]	0
+K04514	ROCK; Rho-associated, coiled-coil containing protein kinase [EC:2.7.11.1]	0
+K05689	CDHE, CDH1; cadherin 1, type 1, E-cadherin	0
+K04513	RHOA; Ras homolog gene family, member A	0
+K12790	eae; intimin	0
+K12791	ARHGEF2, GEF-H1; Rho guanine nucleotide exchange factor 2	0
+K11007	stxB; shiga toxin subunit B	0
+K11006	stxA; shiga toxin subunit A	0
+K12787	map; LEE-encoded effector Map	0
+K04393	CDC42; cell division control protein 42	0
+K04391	CD14; CD14 antigen	0
+K06088	OCLN; occludin	0
+K12809	espG2; T3SS secreted effector EspG-like protein	0
+K05719	ITGB1; integrin beta 1	0
+K06619	ABL1; proto-oncogene tyrosine-protein kinase ABL1 [EC:2.7.10.2]	0
+K07374	TUBA; tubulin alpha	0
+K07375	TUBB; tubulin beta	0
+K06106	CTTN, EMS1; cortactin	0
+K05400	LY96, MD-2; lymphocyte antigen 96	0
+K12786	espF; LEE-encoded effector EspF	0
+K12785	espG, virA; LEE-encoded effector EspG	0
+K12784	tir; translocated intimin receptor	0
+K08007	VIL2; villin 2 (ezrin)	0
+K05758	ARPC2; actin related protein 2/3 complex, subunit 2	0
+K05754	ARPC5; actin related protein 2/3 complex, subunit 5	0
+K05755	ARPC4; actin related protein 2/3 complex, subunit 4	0
+K12789	tccP; Tir-cytoskeleton coupling protein	0
+K12788	espH; LEE-encoded effector EspH	0
+K02105	CTNNB1; catenin (cadherin-associated protein), beta 1	0
+K05692	ACTB_G1; actin beta/gamma 1	0
+K11294	NCL, NSR1; nucleolin	0
+K10168	TLR5; toll-like recepto 5	0
+K07365	NCK; NCK adaptor protein	0
+K12810	bfpA; major structural subunit of bundle-forming pilus	0
+K10160	TLR4; toll-like receptor 4	0
+K05747	WAS; Wiskott-Aldrich syndrome protein	0
+K05703	FYN; proto-oncogene tyrosine-protein kinase Fyn [EC:2.7.10.2]	0
+K05756	ARPC3; actin related protein 2/3 complex, subunit 3	0
+K05757	ARPC1A_B; actin related protein 2/3 complex, subunit 1A/1B	0
+K04514	ROCK; Rho-associated, coiled-coil containing protein kinase [EC:2.7.11.1]	0
+K05700	VCL; vinculin	0
+K12679	icsA, virG; outer membrane protein IcsA	0
+K07863	RHOG; Ras homolog gene family, member G	0
+K04735	RELA; transcription factor p65	0
+K04734	NFKBIA; NF-kappa-B inhibitor alpha	0
+K04438	CRK, CRKII; proto-oncogene C-crk	0
+K11007	stxB; shiga toxin subunit B	0
+K04393	CDC42; cell division control protein 42	0
+K04392	RAC1; Ras-related C3 botulinum toxin substrate 1	0
+K07210	IKBKG, IKKG, NEMO; inhibitor of nuclear factor kappa-B kinase subunit gamma	0
+K10030	IL8, CXCL8; interleukin 8	0
+K13450	ospF, mkaD; phosphothreonine lyase [EC:4.2.3.-]	0
+K11006	stxA; shiga toxin subunit A	0
+K05719	ITGB1; integrin beta 1	0
+K05759	PFN; profilin	0
+K06484	ITGA5; integrin alpha 5	0
+K04441	P38; p38 MAP kinase [EC:2.7.11.24]	0
+K06106	CTTN, EMS1; cortactin	0
+K05758	ARPC2; actin related protein 2/3 complex, subunit 2	0
+K06619	ABL1; proto-oncogene tyrosine-protein kinase ABL1 [EC:2.7.10.2]	0
+K12785	espG, virA; LEE-encoded effector EspG	0
+K04440	JNK; c-Jun N-terminal kinase [EC:2.7.11.24]	0
+K13792	ospG; secreted effector OspG	0
+K04371	ERK1_2; extracellular signal-regulated kinase 1/2 [EC:2.7.11.24]	0
+K05753	WASF1; WAS protein family, member 1	0
+K05754	ARPC5; actin related protein 2/3 complex, subunit 5	0
+K05755	ARPC4; actin related protein 2/3 complex, subunit 4	0
+K05756	ARPC3; actin related protein 2/3 complex, subunit 3	0
+K05757	ARPC1A_B; actin related protein 2/3 complex, subunit 1A/1B	0
+K05747	WAS; Wiskott-Aldrich syndrome protein	0
+K05692	ACTB_G1; actin beta/gamma 1	0
+K07209	IKBKB, IKKB; inhibitor of nuclear factor kappa-B kinase subunit beta [EC:2.7.11.10]	0
+K13085	ipgD, sopB; phosphatidylinositol-4,5-bisphosphate 4-phosphatase [EC:3.1.3.78]	0
+K12366	ELMO1, CED12; engulfment and cell motility protein 1	0
+K11012	set1B; enterotoxin Set1B	0
+K08846	RIPK2; receptor-interacting serine/threonine-protein kinase 2 [EC:2.7.11.1]	0
+K04467	IKBKA, IKKA, CHUK; inhibitor of nuclear factor kappa-B kinase subunit alpha [EC:2.7.11.10]	0
+K12836	U2AF1; splicing factor U2AF 35 kDa subunit	0
+K03362	FBXW1_11, BTRC, beta-TRCP; F-box and WD-40 domain protein 1/11	0
+K11011	set1A; enterotoxin Set1A	0
+K10165	NOD2, CARD15; nucleotide-binding oligomerization domain-containing protein 2	0
+K13742	ipgB1; protein IpgB1	0
+K13743	ipgB2; protein IpgB2	0
+K13708	DOCK1; dedicator of cytokinesis 1	0
+K08727	NOD1, CARD4; nucleotide-binding oligomerization domain-containing protein 1	0
+K13728	MAD2L2; mitotic spindle assembly checkpoint protein MAD2B	0
+K05740	DIAPH1; diaphanous 1	0
+K13285	sipB, ipaB, bipB; invasin B	0
+K05728	CSK; c-src tyrosine kinase [EC:2.7.10.2]	0
+K13287	sipD, ipaD, bipD; invasin D	0
+K13286	sipC, ipaC, bipC; invasin C	0
+K05748	WASF2; WAS protein family, member 2	0
+K08339	ATG5; autophagy-related protein 5	0
+K13793	ospE, espO; secreted effector OspE	0
+K13791	ipaH9.8; invasion plasmid antigen	0
+K06256	CD44; CD44 antigen	0
+K13284	sipA, ipaA; invasin A	0
+K02580	NFKB1; nuclear factor NF-kappa-B p105 subunit	0
+K02581	NFKBIB; NF-kappa-B inhibitor beta	0
+K13790	icsB, bopA; virulence protein IcsB	0
+K04696	SOCS3, CIS3; suppressor of cytokine signaling 3	0
+K04692	STAT3; signal transducer and activator of transcription 3	0
+K12473	LDLR; low-density lipoprotein receptor	0
+K04371	ERK1_2; extracellular signal-regulated kinase 1/2 [EC:2.7.11.24]	0
+K06625	CDKN1A, P21, CIP1; cyclin-dependent kinase inhibitor 1A	0
+K02158	BAD; BCL2-antagonist of cell death	0
+K04735	RELA; transcription factor p65	0
+K04734	NFKBIA; NF-kappa-B inhibitor alpha	0
+K12077	PDK1; pyruvate dehydrogenase kinase isoform 1 [EC:2.7.11.2]	0
+K03173	TRAF2; TNF receptor-associated factor 2	0
+K11221	STAT2; signal transducer and activator of transcription 2	0
+K11220	STAT1; signal transducer and activator of transcription 1	0
+K07211	IKBKE, IKKE; inhibitor of nuclear factor kappa-B kinase subunit epsilon [EC:2.7.11.10]	0
+K07210	IKBKG, IKKG, NEMO; inhibitor of nuclear factor kappa-B kinase subunit gamma	0
+K08524	NR2B1, RXRA; retinoid X receptor alpha	0
+K10030	IL8, CXCL8; interleukin 8	0
+K02861	RIPK1, RIP1; receptor-interacting serine/threonine-protein kinase 1 [EC:2.7.11.1]	0
+K03171	TRADD; tnfrsf1a-associated via death domain	0
+K04357	EGF; epidermal growth factor	0
+K06088	OCLN; occludin	0
+K03083	GSK3B; glycogen synthase kinase 3 beta [EC:2.7.11.26]	0
+K05842	TRIF; toll-like receptor adapter molecule 1	0
+K09444	IRF1; interferon regulatory factor 1	0
+K04441	P38; p38 MAP kinase [EC:2.7.11.24]	0
+K09447	IRF7; interferon regulatory factor 7	0
+K04693	IRF9, ISGF3G, P48; interferon regulatory factor 9	0
+K05401	TLR3; toll-like recepto 3	0
+K04706	PIAS; protein inhibitor of activated STAT	0
+K04440	JNK; c-Jun N-terminal kinase [EC:2.7.11.24]	0
+K03237	eIF-2A, EIF2S1; translation initiation factor eIF-2 alpha subunit	0
+K05130	IFNAR1; interferon receptor 1	0
+K05131	IFNAR2; interferon receptor 2	0
+K03250	eIF-36, EIF3S6, INT6; translation initiation factor eIF-3 subunit 6	0
+K06087	CLDN; claudin	0
+K04451	TP53, P53; tumor protein p53	0
+K08860	EIF2AK; eukaryotic translation initiation factor 2-alpha kinase [EC:2.7.11.1]	0
+K03156	TNFA; tumor necrosis factor superfamily, member 2	0
+K03099	SOS; son of sevenless	0
+K04365	BRAF; B-Raf proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]	0
+K06698	PSME3; proteasome activator subunit 3 (PA28 gamma)	0
+K07294	NR1C1, PPARA; peroxisome proliferator-activated receptor alpha	0
+K01165	RNASEL; ribonuclease L [EC:3.1.26.-]	0
+K03456	PPP2R1; protein phosphatase 2 (formerly 2A), regulatory subunit A	0
+K03158	TNFRSF1A, TNFR1; tumor necrosis factor receptor superfamily member 1A	0
+K04467	IKBKA, IKKA, CHUK; inhibitor of nuclear factor kappa-B kinase subunit alpha [EC:2.7.11.10]	0
+K02649	PIK3R; phosphoinositide-3-kinase, regulatory subunit	0
+K14217	IFIT1; interferon-induced protein with tetratricopeptide repeats 1	0
+K14216	OAS; 2'-5'-oligoadenylate synthetase	0
+K12648	MAVS, IPS1; mitochondrial antiviral-signaling protein	0
+K08845	ARAF, ARAF1; A-Raf proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]	0
+K11217	JAK1; Janus kinase 1 [EC:2.7.10.2]	0
+K11219	TYK2; non-receptor tyrosine kinase [EC:2.7.10.2]	0
+K07827	KRAS, KRAS2; GTPase KRas	0
+K12646	DDX58, RIG-I; ATP-dependent RNA helicase DDX58 [EC:3.6.3.14]	0
+K08536	NR1H3, LXRA; liver X receptor alpha	0
+K03174	TRAF3; TNF receptor-associated factor 3	0
+K03175	TRAF6; TNF receptor-associated factor 6	0
+K07209	IKBKB, IKKB; inhibitor of nuclear factor kappa-B kinase subunit beta [EC:2.7.11.10]	0
+K04361	EGFR, ERBB1; epidermal growth factor receptor [EC:2.7.10.1]	0
+K06508	CD81, TAPA1; CD81 antigen	0
+K04382	PPP2C; protein phosphatase 2 (formerly 2A), catalytic subunit [EC:3.1.3.16]	0
+K04354	PPP2R2; protein phosphatase 2 (formerly 2A), regulatory subunit B	0
+K00922	PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]	0
+K13885	SCARB1; scavenger receptor class B, member 1	0
+K02833	HRAS; GTPase HRas	0
+K07828	NRAS; GTPase NRas	0
+K04364	GRB2; growth factor receptor-binding protein 2	0
+K02580	NFKB1; nuclear factor NF-kappa-B p105 subunit	0
+K04456	AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]	0
+K05415	IFNB; interferon beta	0
+K05414	IFNA; interferon alpha	0
+K04366	RAF1; RAF proto-oncogene serine/threonine-protein kinase [EC:2.7.11.1]	0
+K05411	IRF3; interferon regulatory factor 3	0
+K05410	TBK1; TANK-binding kinase 1 [EC:2.7.11.10]	0
+K11224	STAT5B; signal transducer and activator of transcription 5B	0
+K11221	STAT2; signal transducer and activator of transcription 2	0
+K11220	STAT1; signal transducer and activator of transcription 1	0
+K11223	STAT5A; signal transducer and activator of transcription 5A	0
+K02091	CDK6; cyclin-dependent kinase 6 [EC:2.7.11.22]	0
+K12646	DDX58, RIG-I; ATP-dependent RNA helicase DDX58 [EC:3.6.3.14]	0
+K04007	CD46, MCP; membrane cofactor protein	0
+K04389	TNFSF6, FASL; tumor necrosis factor ligand superfamily member 6	0
+K11859	TNFAIP3, A20; tumor necrosis factor, alpha-induced protein 3 [EC:3.-.-.-]	0
+K04503	CCND1; cyclin D1	0
+K04447	JAK2; Janus kinase 2 [EC:2.7.10.2]	0
+K04467	IKBKA, IKKA, CHUK; inhibitor of nuclear factor kappa-B kinase subunit alpha [EC:2.7.11.10]	0
+K04734	NFKBIA; NF-kappa-B inhibitor alpha	0
+K12648	MAVS, IPS1; mitochondrial antiviral-signaling protein	0
+K11217	JAK1; Janus kinase 1 [EC:2.7.10.2]	0
+K11218	JAK3; Janus kinase 3 [EC:2.7.10.2]	0
+K11219	TYK2; non-receptor tyrosine kinase [EC:2.7.10.2]	0
+K02089	CDK4; cyclin-dependent kinase 4 [EC:2.7.11.22]	0
+K12647	IFIH1, MDA5; interferon-induced helicase C domain-containing protein 1 [EC:3.6.4.13]	0
+K03237	eIF-2A, EIF2S1; translation initiation factor eIF-2 alpha subunit	0
+K06470	CD28; CD28 antigen	0
+K07900	RAB9B; Ras-related protein Rab-9B	0
+K06563	CD209; CD209 antigen	0
+K05763	MSN; moesin	0
+K04692	STAT3; signal transducer and activator of transcription 3	0
+K04693	IRF9, ISGF3G, P48; interferon regulatory factor 9	0
+K04519	IL1B; interleukin 1 beta	0
+K05425	IL12B; interleukin 12B	0
+K02649	PIK3R; phosphoinositide-3-kinase, regulatory subunit	0
+K05429	IL2; interleukin 2	0
+K04687	IFNG; interferon gamma	0
+K04729	MYD88; myeloid differentiation primary response protein MyD88	0
+K04722	TNFRSF10, TRAILR; tumor necrosis factor receptor superfamily member 10	0
+K04721	TNFSF10, TRAIL; tumor necrosis factor ligand superfamily member 10	0
+K07899	RAB9A, RAB9; Ras-related protein Rab-9A	0
+K14216	OAS; 2'-5'-oligoadenylate synthetase	0
+K00922	PIK3C; phosphatidylinositol-4,5-bisphosphate 3-kinase [EC:2.7.1.153]	0
+K03115	CSNK2B; casein kinase II subunit beta	0
+K10161	TLR9; toll-like receptor 9	0
+K10160	TLR4; toll-like receptor 4	0
+K05435	IL13; interleukin 13	0
+K04456	AKT; RAC serine/threonine-protein kinase [EC:2.7.11.1]	0
+K05430	IL4; interleukin 4	0
+K02580	NFKB1; nuclear factor NF-kappa-B p105 subunit	0
+K14753	RACK1; guanine nucleotide-binding protein subunit beta-2-like 1 protein	0
+K14754	MX1; interferon-induced GTP-binding protein Mx1	0
+K03283	HSPA1_8; heat shock 70kDa protein 1/8	0
+K10151	CCND2; cyclin D2	0
+K10152	CCND3; cyclin D3	0
+K04730	IRAK1; interleukin-1 receptor-associated kinase 1 [EC:2.7.11.1]	0
+K04733	IRAK4; interleukin-1 receptor-associated kinase 4 [EC:2.7.11.1]	0
+K04735	RELA; transcription factor p65	0
+K10159	TLR2; toll-like receptor 2	0
+K12968	ADAR, ADAR1; double-stranded RNA-specific adenosine deaminase [EC:3.5.4.-]	0
+K09447	IRF7; interferon regulatory factor 7	0
+K05404	TLR7; toll-like receptor 7	0
+K05405	IL6; interleukin 6	0
+K05406	IL12A; interleukin 12A	0
+K05130	IFNAR1; interferon receptor 1	0
+K05131	IFNAR2; interferon receptor 2	0
+K05132	IFNGR1, CD119; interferon gamma receptor 1	0
+K05133	IFNGR2; interferon gamma receptor 2	0
+K04427	MAP3K7, TAK1; mitogen-activated protein kinase kinase kinase 7 [EC:2.7.11.25]	0
+K10144	RCHY1, PIRH2; ring finger and CHY zinc finger domain-containing protein 1	0
+K10148	TP73; tumor protein p73	0
+K02206	CDK2; cyclin-dependent kinase 2 [EC:2.7.11.22]	0
+K03175	TRAF6; TNF receptor-associated factor 6	0
+K04222	TACR1; tachykinin receptor 1	0
+K10785	TRBV; T-cell receptor beta chain V region	0
+K10784	TRAV; T cell receptor alpha chain V region	0
+K04383	IL1A; interleukin 1 alpha	0
+K05415	IFNB; interferon beta	0
+K05414	IFNA; interferon alpha	0
+K05411	IRF3; interferon regulatory factor 3	0
+K05410	TBK1; TANK-binding kinase 1 [EC:2.7.11.10]	0
+K04390	TNFRSF6, FAS; tumor necrosis factor receptor superfamily member 6	0
+K03083	GSK3B; glycogen synthase kinase 3 beta [EC:2.7.11.26]	0
+K05068	IL2RA, CD25; interleukin 2 receptor alpha	0
+K05069	IL2RB; interleukin 2 receptor beta	0
+K10132	BBC3, PUMA; BCL2-binding component 3	0
+K07211	IKBKE, IKKE; inhibitor of nuclear factor kappa-B kinase subunit epsilon [EC:2.7.11.10]	0
+K03247	eIF-33, EIF3S3; translation initiation factor eIF-3 subunit 3	0
+K06536	SLAMF1, CD150; signaling lymphocytic activation molecule family member 1	0
+K12560	FCGR2B, CD32; low affinity immunoglobulin gamma Fc region receptor II-b	0
+K04451	TP53, P53; tumor protein p53	0
+K06856	IGH; immunoglobulin heavy chain	0
+K08860	EIF2AK; eukaryotic translation initiation factor 2-alpha kinase [EC:2.7.11.1]	0
+K07990	SH2D1A, SAP; SH2 domain protein 1A	0
+K05070	IL2RG; interleukin 2 receptor gamma	0
+K03097	CSNK2A; casein kinase II subunit alpha [EC:2.7.11.1]	0
+K04404	MAP3K7IP2, TAB2; TAK1-binding protein 2	0
+K14752	DOK1; docking protein 1	0
+K02581	NFKBIB; NF-kappa-B inhibitor beta	0
+K06451	CD3E; CD3E antigen, epsilon polypeptide	0
+K05703	FYN; proto-oncogene tyrosine-protein kinase Fyn [EC:2.7.10.2]	0
+K06452	CD3G; CD3G antigen, gamma polypeptide	0
+K06624	CDKN1B, P27, KIP1; cyclin-dependent kinase inhibitor 1B	0
+K06450	CD3D; CD3D antigen, delta polypeptide	0
+K06626	CCNE; cyclin E	0
+K02677	CPKC; classical protein kinase C [EC:2.7.11.13]	0
+K04926	KCNQ1; potassium voltage-gated channel KQT-like subfamily member 1	0
+K02155	ATPeVPL, ATP6L; V-type H+-transporting ATPase 16kDa proteolipid subunit [EC:3.6.3.14]	0
+K02154	ATPeVI, ATP6N1A; V-type H+-transporting ATPase subunit I [EC:3.6.3.14]	0
+K02153	ATPeVH, ATP6H; V-type H+-transporting ATPase subunit H [EC:3.6.3.14]	0
+K02152	ATPeVG, ATP6G1; V-type H+-transporting ATPase subunit G [EC:3.6.3.14]	0
+K02151	ATPeVF, ATP6S14; V-type H+-transporting ATPase subunit F [EC:3.6.3.14]	0
+K02150	ATPeVE, ATP6E; V-type H+-transporting ATPase subunit E [EC:3.6.3.14]	0
+K08043	ADCY3; adenylate cyclase 3 [EC:4.6.1.1]	0
+K09481	SEC61B, SBH2; protein transport protein SEC61 subunit beta	0
+K10954	zot; zona occludens toxin	0
+K10955	MUC2; intestinal mucin-2	0
+K10956	SEC61A; protein transport protein SEC61 subunit alpha	0
+K10950	ERO1L; ERO1-like protein alpha [EC:1.8.4.-]	0
+K10951	SLC12A2, NKCC1; solute carrier family 12 (sodium/potassium/chloride transporter), member 2	0
+K10952	ace; accessory cholera enterotoxin	0
+K10953	rtxA; RTX toxin RtxA	0
+K05031	CFTR; cystic fibrosis transmembrane conductance regulator [EC:3.6.3.49]	0
+K07937	ARF1; ADP-ribosylation factor 1	0
+K10934	tcpE; toxin co-regulated pilus biosynthesis protein E	0
+K10935	tcpF; toxin co-regulated pilus biosynthesis protein F	0
+K10932	tcpC; toxin co-regulated pilus biosynthesis outer membrane protein C	0
+K10933	tcpD; toxin co-regulated pilus biosynthesis protein D	0
+K10930	tcpA; toxin co-regulated pilin	0
+K10931	tcpB; toxin co-regulated pilus biosynthesis protein B	0
+K05692	ACTB_G1; actin beta/gamma 1	0
+K03662	ATPeVS1, ATP6S1; V-type H+-transporting ATPase S1 subunit [EC:3.6.3.14]	0
+K03661	ATPeVPF, ATP6F; V-type H+-transporting ATPase 21kDa proteolipid subunit [EC:3.6.3.14]	0
+K02144	ATPeV54kD; V-type H+-transporting ATPase 54 kD subunit [EC:3.6.3.14]	0
+K02145	ATPeVA, ATP6A1; V-type H+-transporting ATPase subunit A [EC:3.6.3.14]	4
+K02146	ATPeVAC39, ATP6D; V-type H+-transporting ATPase subunit AC39 [EC:3.6.3.14]	0
+K02147	ATPeVB, ATP6B1; V-type H+-transporting ATPase subunit B [EC:3.6.3.14]	5
+K02148	ATPeVC, ATP6C; V-type H+-transporting ATPase subunit C [EC:3.6.3.14]	0
+K02149	ATPeVD, ATP6M; V-type H+-transporting ATPase subunit D [EC:3.6.3.14]	0
+K05859	PLCG; phospholipase C, gamma [EC:3.1.4.11]	0

@@ -1,0 +1,2000 @@
+ORF_ID	ORF_length	start	end	Contig_Name	Contig_length	strand	ec	taxonomy	product
+omz_770m_9884_0	413	197	610	omz_770m_9884	931	+		Cyanobacteria	30S ribosomal protein S5, putative K02988 small subunit S5
+omz_770m_9884_1	191	607	798	omz_770m_9884	931	+		all	50S ribosomal protein L15
+omz_770m_9883_0	578	1	579	omz_770m_9883	960	+		all	hypothetical protein
+omz_770m_9883_1	425	534	959	omz_770m_9883	960	-		all	hypothetical protein
+omz_770m_9882_0	425	18	443	omz_770m_9882	964	+		all	
+omz_770m_2158_0	74	3	77	omz_770m_2158	948	+		all	hypothetical protein
+omz_770m_2158_1	779	118	897	omz_770m_2158	948	+	2.3.1.31	Bacteria	homoserine O-acetyltransferase (EC:2.3.1.31) K00641
+omz_770m_2159_0	440	119	559	omz_770m_2159	1001	-		all	hypothetical protein
+omz_770m_9881_0	626	27	653	omz_770m_9881	969	-	5.99.1.2	"Alphabacteria" Cavalier-Smith 1992	DNA topoisomerase IV subunit B (EC:5.99.1.2) K02622
+omz_770m_2150_0	872	2	874	omz_770m_2150	925	+		all	hypothetical protein
+omz_770m_2151_0	338	3	341	omz_770m_2151	973	+		all	hypothetical protein
+omz_770m_2151_1	488	484	972	omz_770m_2151	973	+		Desulfotalea psychrophila LSv54	Conserved  22
+omz_770m_2152_0	569	19	588	omz_770m_2152	994	+	6.2.1.30	Bacteria	coenzyme F390 synthetase II K01912 phenylacetate-CoA ligase
+omz_770m_2152_1	299	615	914	omz_770m_2152	994	+		all	
+omz_770m_2153_0	722	1	723	omz_770m_2153	991	-	2.7.7.4	Gammaproteobacteria	sopT sulfate adenylyltransferase (EC:2.7.7.4) K00958
+omz_770m_2154_0	761	1	762	omz_770m_2154	929	-		all	hypothetical protein
+omz_770m_2155_0	593	200	793	omz_770m_2155	936	+	2.8.3.5	Bacteria	oxct1, MGC69180 3-oxoacid CoA transferase 1 (EC:2.8.3.5) K01027 CoA-transferase
+omz_770m_2155_1	131	804	935	omz_770m_2155	936	+		all	hypothetical protein
+omz_770m_2156_0	125	1	126	omz_770m_2156	947	-		all	hypothetical protein
+omz_770m_2156_1	317	629	946	omz_770m_2156	947	+	2.1.1.14	SAR324 cluster	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14)
+omz_770m_2157_0	641	3	644	omz_770m_2157	988	+	6.2.1.3	Bradyrhizobium japonicum USDA 6	fatty-acid--CoA ligase (EC:6.2.1.3) K01897 long-chain acyl-CoA synthetase
+omz_770m_2157_1	191	701	892	omz_770m_2157	988	+		all	hypothetical protein
+omz_770m_2157_2	122	864	986	omz_770m_2157	988	+		all	hypothetical protein
+omz_770m_5465_0	155	3	158	omz_770m_5465	910	-		all	hypothetical protein
+omz_770m_5465_1	512	257	769	omz_770m_5465	910	-	4.99.1.1	Alteromonadaceae	ferrochelatase (EC:4.99.1.1) K01772
+omz_770m_5464_0	173	2	175	omz_770m_5464	343	+		all	hypothetical protein
+omz_770m_5467_0	137	176	313	omz_770m_5467	981	-		all	hypothetical protein
+omz_770m_5467_1	125	362	487	omz_770m_5467	981	-		all	hypothetical protein
+omz_770m_5467_2	161	820	981	omz_770m_5467	981	-		all	hypothetical protein
+omz_770m_5466_0	722	208	930	omz_770m_5466	932	+		all	hypothetical protein
+omz_770m_5461_0	698	1	699	omz_770m_5461	936	-		all	hypothetical protein
+omz_770m_5461_1	164	771	935	omz_770m_5461	936	+		all	hypothetical protein
+omz_770m_5460_0	722	176	898	omz_770m_5460	898	-		all	hypothetical protein
+omz_770m_5463_0	137	2	139	omz_770m_5463	900	+		all	hypothetical protein
+omz_770m_5463_1	212	382	594	omz_770m_5463	900	-		all	hypothetical protein
+omz_770m_5462_0	68	508	576	omz_770m_5462	576	-		all	hypothetical protein
+omz_770m_5469_0	113	28	141	omz_770m_5469	532	-		all	hypothetical protein
+omz_770m_5469_1	113	418	531	omz_770m_5469	532	-		all	hypothetical protein
+omz_770m_5468_0	74	368	442	omz_770m_5468	444	-		all	hypothetical protein
+omz_770m_3657_0	98	12	110	omz_770m_3657	1039	-		all	hypothetical protein
+omz_770m_3657_1	512	327	839	omz_770m_3657	1039	-	1.11.1.15	"Candidatus Nitrospira defluvii" Spieck et al. 2006	putative thiol peroxidase (EC:1.11.1.-) K11065 peroxidase, atypical 2-Cys peroxiredoxin
+omz_770m_3650_0	431	392	823	omz_770m_3650	1019	-		all	hypothetical protein
+omz_770m_3651_0	86	3	89	omz_770m_3651	913	-		all	hypothetical protein
+omz_770m_3651_1	254	184	438	omz_770m_3651	913	+		all	hypothetical protein
+omz_770m_3651_2	278	515	793	omz_770m_3651	913	+		all	hypothetical protein
+omz_770m_3651_3	170	742	912	omz_770m_3651	913	+		all	hypothetical protein
+omz_770m_1502_0	149	2	151	omz_770m_1502	1019	-		all	hypothetical protein
+omz_770m_1502_1	533	148	681	omz_770m_1502	1019	-		all	hypothetical protein
+omz_770m_1502_2	185	832	1017	omz_770m_1502	1019	-		all	hypothetical protein
+omz_770m_2704_0	839	3	842	omz_770m_2704	842	-		Bacteria	protein unknown function DUF1446
+omz_770m_2707_0	350	488	838	omz_770m_2707	839	+	2.7.7.4	Bacteria	translation elongation factor, putative (EC:2.7.7.4)
+omz_770m_8654_0	746	178	924	omz_770m_8654	924	-		all	hypothetical protein
+omz_770m_7438_0	341	2	343	omz_770m_7438	841	-		all	hypothetical protein
+omz_770m_7438_1	131	603	734	omz_770m_7438	841	+		all	hypothetical protein
+omz_770m_2706_0	671	166	837	omz_770m_2706	853	+	6.1.1.21	Candidatus Nitrosopumilus maritimus SCM1	histidyl-tRNA synthetase (EC:6.1.1.21) K01892
+omz_770m_7439_0	869	2	871	omz_770m_7439	873	+		all	hypothetical protein
+omz_770m_2701_0	596	44	640	omz_770m_2701	893	-	2.3.3.13	Bacteria	putative alpha-isopropylmalate/homocitrate synthase family transferase (EC:2.3.3.13) K01649 2-isopropylmalate
+omz_770m_2701_1	125	767	892	omz_770m_2701	893	-		all	hypothetical protein
+omz_770m_2700_0	551	2	553	omz_770m_2700	946	-		all	hypothetical protein
+omz_770m_2703_0	194	1	195	omz_770m_2703	834	+		all	hypothetical protein
+omz_770m_2703_1	485	202	687	omz_770m_2703	834	-		all	hypothetical protein
+omz_770m_2702_0	521	3	524	omz_770m_2702	838	+		all	hypothetical protein
+omz_770m_2702_1	272	565	837	omz_770m_2702	838	+		all	hypothetical protein
+omz_770m_10912_0	323	57	380	omz_770m_10912	1106	-	6.1.1.22	Bacillus/Clostridium group	asnC asparaginyl-tRNA synthetase (EC:6.1.1.22) K01893
+omz_770m_10912_1	335	392	727	omz_770m_10912	1106	-		all	hypothetical protein
+omz_770m_10913_0	725	19	744	omz_770m_10913	999	-		SAR324 cluster bacterium SCGC AAA001-C10	
+omz_770m_10913_1	140	859	999	omz_770m_10913	999	-		all	hypothetical protein
+omz_770m_10910_0	761	34	795	omz_770m_10910	1112	+	6.2.1.1	Proteobacteria	AAE7 AAE7 (ACYL-ACTIVATING ENZYME 7) AMP binding / acetate-CoA ligase (EC:6.2.1.1)
+omz_770m_7430_0	101	2	103	omz_770m_7430	991	-		all	hypothetical protein
+omz_770m_7430_1	227	283	510	omz_770m_7430	991	+		all	hypothetical protein
+omz_770m_7430_2	143	847	990	omz_770m_7430	991	+		all	hypothetical protein
+omz_770m_10911_0	269	204	473	omz_770m_10911	1071	+		SAR324 cluster	
+omz_770m_10911_1	314	757	1071	omz_770m_10911	1071	+		all	hypothetical protein
+omz_770m_7431_0	203	372	575	omz_770m_7431	929	-		all	hypothetical protein
+omz_770m_10916_0	677	38	715	omz_770m_10916	988	-		all	hypothetical protein
+omz_770m_7432_0	200	218	418	omz_770m_7432	1082	+		all	hypothetical protein
+omz_770m_7432_1	197	443	640	omz_770m_7432	1082	+		all	hypothetical protein
+omz_770m_7432_2	260	637	897	omz_770m_7432	1082	+		all	hypothetical protein
+omz_770m_7432_3	62	1018	1080	omz_770m_7432	1082	+		all	hypothetical protein
+omz_770m_2850_0	575	58	633	omz_770m_2850	867	-	2.5.1.47	Shewanella	cysM cysteine synthase B (EC:2.5.1.47) K12339
+omz_770m_6833_0	308	3	311	omz_770m_6833	903	-		all	hypothetical protein
+omz_770m_3209_0	866	1	867	omz_770m_3209	906	+		all	hypothetical protein
+omz_770m_3208_0	266	2	268	omz_770m_3208	899	+		"Alphabacteria" Cavalier-Smith 1992	mreD rod shape-determining protein MreD K05837 shape determining RodA
+omz_770m_3208_1	362	374	736	omz_770m_3208	899	+		alpha proteobacterium HIMB114	
+omz_770m_10914_0	584	51	635	omz_770m_10914	1013	+	3.4.13.9	Proteobacteria	eutD ectoine utilization protein EutD (EC:3.-.-.-) K01271 Xaa-Pro dipeptidase
+omz_770m_6832_0	131	1	132	omz_770m_6832	910	+		all	hypothetical protein
+omz_770m_6832_1	185	132	317	omz_770m_6832	910	+		Bacteria	rpsN 30S ribosomal protein S14 K02954 small subunit S14
+omz_770m_6832_2	398	330	728	omz_770m_6832	910	+		Bacillus/Clostridium group	rpsH 30S ribosomal protein S8 K02994 small subunit S8
+omz_770m_6832_3	173	735	908	omz_770m_6832	910	+		all	hypothetical protein
+omz_770m_3203_0	209	16	225	omz_770m_3203	967	+		all	hypothetical protein
+omz_770m_3203_1	458	285	743	omz_770m_3203	967	-		all	
+omz_770m_3202_0	437	2	439	omz_770m_3202	872	+	3.6.3.20	SAR324 cluster bacterium JCVI-SC AAA005	ugpC3 sugar ABC transporter (EC:3.6.3.20) K10112 maltose/maltodextrin transport system ATP-binding protein
+omz_770m_3202_1	377	479	856	omz_770m_3202	872	+		Proteobacteria	cupin 2 barrel domain-containing protein (EC:1.-.-.-)
+omz_770m_3201_0	749	3	752	omz_770m_3201	754	+	4.6.1.1	'Bradyrhizobiaceae'	adenylate/guanylate cyclase CHASE sensor K01768 adenylate
+omz_770m_3200_0	872	2	874	omz_770m_3200	875	+		Melioribacter roseus P3M	peptidase M16-like K07263 zinc protease
+omz_770m_8967_0	368	44	412	omz_770m_8967	1074	-		all	
+omz_770m_8967_1	149	399	548	omz_770m_8967	1074	-		all	hypothetical protein
+omz_770m_8967_2	182	594	776	omz_770m_8967	1074	-		all	hypothetical protein
+omz_770m_3206_0	395	272	667	omz_770m_3206	900	-	4.2.1.108	Bacteria	ectC L-ectoine synthase K06720 synthase
+omz_770m_3205_0	815	3	818	omz_770m_3205	819	-	6.3.5.7	Bacteria	GATB GATB (GLU-ADT SUBUNIT B) carbon-nitrogen ligase, glutamine as amido-N-donor / glutaminyl-tRNA synthase (glutamine-hydrolyzing)/ ligase (EC:6.3.5.7) K02434 aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit B
+omz_770m_3204_0	260	1	261	omz_770m_3204	836	+		all	hypothetical protein
+omz_770m_3204_1	599	237	836	omz_770m_3204	836	+		"Alphabacteria" Cavalier-Smith 1992	uncharacterized conserved protein ucp033924
+omz_770m_6830_0	638	193	831	omz_770m_6830	897	+	2.7.8.13	"Alphabacteria" Cavalier-Smith 1992	mraY phospho-N-acetylmuramoyl-pentapeptide-transferase (EC:2.7.8.13) K01000
+omz_770m_7436_0	614	2	616	omz_770m_7436	881	-	3.1.4.16	Bacteria	metal dependent phosphohydrolase (EC:3.1.4.16) K06950 uncharacterized protein
+omz_770m_6837_0	476	354	830	omz_770m_6837	924	+		Proteobacteria	putative monomeric sarcosine oxidase
+omz_770m_7437_0	548	2	550	omz_770m_7437	1012	-		ATCC 43812	SSS sodium solute transporter superfamily K03307 solute:Na+ symporter, family
+omz_770m_8424_0	707	1	708	omz_770m_8424	844	-		all	hypothetical protein
+omz_770m_8424_1	131	713	844	omz_770m_8424	844	-		all	hypothetical protein
+omz_770m_6836_0	800	3	803	omz_770m_6836	896	-		all	hypothetical protein
+omz_770m_8425_0	512	330	842	omz_770m_8425	950	+		all	hypothetical protein
+omz_770m_6835_0	152	3	155	omz_770m_6835	947	+		all	hypothetical protein
+omz_770m_6835_1	758	187	945	omz_770m_6835	947	-		all	hypothetical protein
+omz_770m_6834_0	176	735	911	omz_770m_6834	913	-		all	hypothetical protein
+omz_770m_3148_0	632	1	633	omz_770m_3148	934	+		Glaciecola	TonB-dependent receptor K02014 iron complex outermembrane recepter protein
+omz_770m_3148_1	209	617	826	omz_770m_3148	934	+		all	hypothetical protein
+omz_770m_3149_0	329	3	332	omz_770m_3149	850	+		all	hypothetical protein
+omz_770m_3149_1	410	417	827	omz_770m_3149	850	+		Gammaproteobacteria	aminopeptidase C
+omz_770m_3144_0	71	3	74	omz_770m_3144	912	-		all	hypothetical protein
+omz_770m_3144_1	311	123	434	omz_770m_3144	912	-		all	hypothetical protein
+omz_770m_3145_0	842	2	844	omz_770m_3145	845	-		all	hypothetical protein
+omz_770m_3146_0	722	1	723	omz_770m_3146	835	+		all	hypothetical protein
+omz_770m_3146_1	71	762	833	omz_770m_3146	835	+		all	hypothetical protein
+omz_770m_3147_0	272	3	275	omz_770m_3147	878	-		all	hypothetical protein
+omz_770m_3147_1	398	315	713	omz_770m_3147	878	+		all	hypothetical protein
+omz_770m_3140_0	845	3	848	omz_770m_3140	848	-		all	hypothetical protein
+omz_770m_3141_0	83	3	86	omz_770m_3141	878	-		all	hypothetical protein
+omz_770m_3141_1	224	654	878	omz_770m_3141	878	+		SAR324 cluster bacterium SCGC AAA001-C10	Transcriptional regulator, MarR family
+omz_770m_3142_0	866	1	867	omz_770m_3142	869	-		all	hypothetical protein
+omz_770m_3143_0	512	308	820	omz_770m_3143	875	-	2.7.7.4	Bacteria	translation elongation factor, putative (EC:2.7.7.4)
+omz_770m_8344_0	191	297	488	omz_770m_8344	956	+		all	hypothetical protein
+omz_770m_10123_0	914	1	915	omz_770m_10123	930	-	3.4.11.2	Bacteria	putative peptidase M1, membrane alanine aminopeptidase (EC:3.4.11.2)
+omz_770m_4499_0	818	3	821	omz_770m_4499	956	-	1.14.13.2	Proteobacteria	pobA 4-hydroxybenzoate 3-monooxygenase (EC:1.14.13.2) K00481 p-hydroxybenzoate
+omz_770m_4498_0	803	38	841	omz_770m_4498	1007	+	1.2.1.3	Gammaproteobacteria	aldH aldehyde dehydrogenase (NAD(+)) (EC:1.2.1.3) K00128 (NAD+)
+omz_770m_4497_0	815	118	933	omz_770m_4497	963	+	1.3.3.1	Bacteria	dihydroorotate oxidase B, catalytic subunit (EC:1.3.3.1) K00226
+omz_770m_4496_0	479	1	480	omz_770m_4496	980	-		all	hypothetical protein
+omz_770m_4496_1	209	632	841	omz_770m_4496	980	-		all	hypothetical protein
+omz_770m_4496_2	122	858	980	omz_770m_4496	980	-		all	hypothetical protein
+omz_770m_4495_0	965	2	967	omz_770m_4495	967	-		all	hypothetical protein
+omz_770m_4494_0	653	146	799	omz_770m_4494	974	+		all	hypothetical protein
+omz_770m_4493_0	845	52	897	omz_770m_4493	988	+		Bacteria	
+omz_770m_4492_0	980	2	982	omz_770m_4492	983	+		all	hypothetical protein
+omz_770m_4491_0	659	3	662	omz_770m_4491	664	+		Bacteria	major facilitator superfamily
+omz_770m_4490_0	218	3	221	omz_770m_4490	986	-		all	hypothetical protein
+omz_770m_4490_1	308	557	865	omz_770m_4490	986	-		all	hypothetical protein
+omz_770m_2639_0	620	1	621	omz_770m_2639	863	-		Bermanella marisrubri	
+omz_770m_2639_1	122	587	709	omz_770m_2639	863	-		all	hypothetical protein
+omz_770m_2638_0	461	320	781	omz_770m_2638	909	+		Roseobacter sp. AzwK-3b	integrase/recombinase, phage integrase family
+omz_770m_2635_0	752	3	755	omz_770m_2635	981	-	1.1.1.23	Proteobacteria	histidinol dehydrogenase, putative K00013 dehydrogenase
+omz_770m_2634_0	560	3	563	omz_770m_2634	906	-	1.1.99.1	Bacteria	glucose-methanol-choline oxidoreductase K00108 choline dehydrogenase
+omz_770m_2637_0	218	2	220	omz_770m_2637	912	+		all	hypothetical protein
+omz_770m_2637_1	485	251	736	omz_770m_2637	912	-		all	hypothetical protein
+omz_770m_2636_0	335	522	857	omz_770m_2636	973	+		all	hypothetical protein
+omz_770m_2631_0	251	45	296	omz_770m_2631	883	-		all	hypothetical protein
+omz_770m_2631_1	479	403	882	omz_770m_2631	883	+		Actinomycetales	DEAD/DEAH box helicase domain-containing protein
+omz_770m_2630_0	350	2	352	omz_770m_2630	886	+		all	hypothetical protein
+omz_770m_2630_1	398	488	886	omz_770m_2630	886	-		all	
+omz_770m_2633_0	641	1	642	omz_770m_2633	899	-	1.5.1.5	BCF group	C1-5,6,7,8-tetrahydrofolate (THF) synthase (EC:1.5.1.5 3.5.4.9 6.3.4.3) K00288 methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase formyltetrahydrofolate synthetase
+omz_770m_2632_0	671	1	672	omz_770m_2632	983	+		unclassified Gammaproteobacteria (miscellaneous)	Hypothetical protein COG3496
+omz_770m_2632_1	287	695	982	omz_770m_2632	983	+		all	hypothetical protein
+omz_770m_8778_0	314	2	316	omz_770m_8778	949	-	6.3.4.13	Bacteria	phosphoribosylamine/glycine ligase (EC:6.3.4.13 4.1.1.21) K01945 phosphoribosylamine--glycine
+omz_770m_8778_1	491	401	892	omz_770m_8778	949	+		Chroococcales	FIG01041350:
+omz_770m_8779_0	656	168	824	omz_770m_8779	947	+		all	hypothetical protein
+omz_770m_8776_0	875	3	878	omz_770m_8776	878	+		Bacteria	von Willebrand factor type A K07114 uncharacterized protein
+omz_770m_8777_0	806	14	820	omz_770m_8777	889	+		all	putative (Protein-PII) uridylyltransferase
+omz_770m_8774_0	662	63	725	omz_770m_8774	904	+		all	
+omz_770m_8775_0	563	3	566	omz_770m_8775	881	-	3.6.4.12	Gammaproteobacteria	recG RecG-like helicases K03655 ATP-dependent DNA helicase RecG
+omz_770m_8775_1	254	598	852	omz_770m_8775	881	-		Proteobacteria	putative endoribonuclease L-PSP K07567 TdcF protein
+omz_770m_8772_0	653	204	857	omz_770m_8772	858	+		all	hypothetical protein
+omz_770m_8773_0	902	1	903	omz_770m_8773	904	-	1.6.99.5	Bacteria	proton-translocating NADH-quinone oxidoreductase, chain L (EC:1.6.99.5) K00341 NADH dehydrogenase I subunit
+omz_770m_8770_0	170	2	172	omz_770m_8770	965	-		all	hypothetical protein
+omz_770m_8770_1	173	296	469	omz_770m_8770	965	-		all	hypothetical protein
+omz_770m_8771_0	707	2	709	omz_770m_8771	709	+		Bacteria	N-acetylgalactosamine 6-sulfatase (GALNS)
+omz_770m_10129_0	860	3	863	omz_770m_10129	883	+		all	
+omz_770m_9177_0	491	35	526	omz_770m_9177	962	+		all	hypothetical protein
+omz_770m_9177_1	359	551	910	omz_770m_9177	962	+		all	hypothetical protein
+omz_770m_9176_0	500	2	502	omz_770m_9176	989	+	5.3.1.6	Bacteria	sugar-phosphate isomerase, RpiB/LacA/LacB family (EC:5.3.1.6) K01808 ribose 5-phosphate isomerase B
+omz_770m_9176_1	278	512	790	omz_770m_9176	989	+		Actinomycetales	FIG01050400:
+omz_770m_9175_0	74	1034	1108	omz_770m_9175	1110	-		all	hypothetical protein
+omz_770m_9174_0	137	3	140	omz_770m_9174	1003	+		all	hypothetical protein
+omz_770m_9174_1	407	292	699	omz_770m_9174	1003	-		all	hypothetical protein
+omz_770m_9173_0	179	688	867	omz_770m_9173	868	+		all	hypothetical protein
+omz_770m_9172_0	101	1	102	omz_770m_9172	1109	-		all	hypothetical protein
+omz_770m_9172_1	191	664	855	omz_770m_9172	1109	-		all	hypothetical protein
+omz_770m_9172_2	101	1006	1107	omz_770m_9172	1109	-		all	hypothetical protein
+omz_770m_9170_0	194	2	196	omz_770m_9170	858	+		all	
+omz_770m_9170_1	233	524	757	omz_770m_9170	858	+		all	hypothetical protein
+omz_770m_10507_0	128	1	129	omz_770m_10507	1059	-		all	hypothetical protein
+omz_770m_10507_1	725	332	1057	omz_770m_10507	1059	-		all	hypothetical protein
+omz_770m_9179_0	563	2	565	omz_770m_9179	941	-		"Microstreptospora" Yan et al.	carbon-monoxide dehydrogenase medium subunit
+omz_770m_9179_1	323	618	941	omz_770m_9179	941	+		all	transcriptional regulator
+omz_770m_9178_0	980	3	983	omz_770m_9178	985	+		all	hypothetical protein
+omz_770m_1780_0	161	2	163	omz_770m_1780	872	+		all	hypothetical protein
+omz_770m_1780_1	521	156	677	omz_770m_1780	872	-		all	hypothetical protein
+omz_770m_1781_0	611	55	666	omz_770m_1781	921	-		all	hypothetical protein
+omz_770m_1781_1	125	749	874	omz_770m_1781	921	+		all	hypothetical protein
+omz_770m_1782_0	257	3	260	omz_770m_1782	935	-	3.5.2.9	Gammaproteobacteria	5-oxoprolinase (ATP-hydrolyzing) (EC:3.5.2.9) K01473 N-methylhydantoinase A
+omz_770m_1782_1	188	498	686	omz_770m_1782	935	+	3.2.2.23	Proteobacteria	DNA-(apurinic or apyrimidinic site) lyase / formamidopyrimidine-DNA glycosylase (EC:3.2.2.23 4.2.99.18) K10563
+omz_770m_1782_2	212	721	933	omz_770m_1782	935	+	3.2.2.23	Gammaproteobacteria	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+omz_770m_1783_0	584	15	599	omz_770m_1783	912	-		all	hypothetical protein
+omz_770m_1783_1	122	789	911	omz_770m_1783	912	-		all	hypothetical protein
+omz_770m_1784_0	428	2	430	omz_770m_1784	1019	+		all	hypothetical protein
+omz_770m_1784_1	143	875	1018	omz_770m_1784	1019	+		all	hypothetical protein
+omz_770m_1785_0	290	247	537	omz_770m_1785	1033	+		all	
+omz_770m_1785_1	149	539	688	omz_770m_1785	1033	+		all	hypothetical protein
+omz_770m_1786_0	590	196	786	omz_770m_1786	971	+		all	hypothetical protein
+omz_770m_1787_0	497	14	511	omz_770m_1787	835	+		all	hypothetical protein
+omz_770m_1788_0	584	177	761	omz_770m_1788	1060	-	6.2.1.26	Bacteria	putative O-succinylbenzoate--CoA ligase (EC:6.2.1.26)
+omz_770m_1789_0	548	2	550	omz_770m_1789	944	+		Proteobacteria	ccmF cytochrome c biogenesis protein CcmF K02198 c-type CcmF
+omz_770m_1789_1	230	602	832	omz_770m_1789	944	+		all	hypothetical protein
+omz_770m_10506_0	308	164	472	omz_770m_10506	1078	+	2.7.7.15	Proteobacteria	Cholinephosphate cytidylyltransferase (EC 2.7.7.15)
+omz_770m_10506_1	173	469	642	omz_770m_10506	1078	+		all	hypothetical protein
+omz_770m_10501_0	299	2	301	omz_770m_10501	935	+	1.4.99.1	Proteobacteria	dadA, dadR D-amino acid dehydrogenase small subunit (EC:1.4.99.1) K00285 D-amino-acid
+omz_770m_10501_1	362	294	656	omz_770m_10501	935	+	5.1.1.1	Proteobacteria	alr alanine racemase (EC:5.1.1.1) K01775
+omz_770m_6268_0	62	2	64	omz_770m_6268	927	-		all	hypothetical protein
+omz_770m_6268_1	497	67	564	omz_770m_6268	927	-		all	hydantoinase
+omz_770m_6268_2	281	602	883	omz_770m_6268	927	-		all	hypothetical protein
+omz_770m_10500_0	125	353	478	omz_770m_10500	995	+		all	hypothetical protein
+omz_770m_10500_1	158	506	664	omz_770m_10500	995	+		all	hypothetical protein
+omz_770m_10500_2	182	639	821	omz_770m_10500	995	+		all	hypothetical protein
+omz_770m_6262_0	593	233	826	omz_770m_6262	917	+		all	hypothetical protein
+omz_770m_6263_0	146	204	350	omz_770m_6263	1036	-		all	hypothetical protein
+omz_770m_6260_0	167	141	308	omz_770m_6260	1053	-		all	hypothetical protein
+omz_770m_6260_1	155	312	467	omz_770m_6260	1053	-		all	hypothetical protein
+omz_770m_6644_0	227	3	230	omz_770m_6644	971	-		all	hypothetical protein
+omz_770m_6644_1	683	287	970	omz_770m_6644	971	+		all	hypothetical protein
+omz_770m_6645_0	536	89	625	omz_770m_6645	1015	-		Bacteria	infB translation initiation factor IF-2 K02519 IF-2
+omz_770m_6645_1	101	625	726	omz_770m_6645	1015	-		all	hypothetical protein
+omz_770m_6646_0	128	39	167	omz_770m_6646	973	-		all	hypothetical protein
+omz_770m_6646_1	674	164	838	omz_770m_6646	973	-	6.2.1.30	'Rhodobacteraceae'	Phenylacetate-coenzyme A ligase (EC 6.2.1.30)
+omz_770m_6647_0	440	2	442	omz_770m_6647	968	+	1.1.1.81	Proteobacteria	ttuD2 hydroxypyruvate reductase oxidoreductase (EC:1.1.1.81) K00050
+omz_770m_6640_0	620	1	621	omz_770m_6640	939	-	3.1.6.1	Planctomyces maris DSM 8797	Arylsulfatase (EC 3.1.6.1)
+omz_770m_6640_1	155	784	939	omz_770m_6640	939	+		all	hypothetical protein
+omz_770m_6641_0	131	1	132	omz_770m_6641	938	-		all	hypothetical protein
+omz_770m_6641_1	602	174	776	omz_770m_6641	938	+		all	hypothetical protein
+omz_770m_6641_2	101	773	874	omz_770m_6641	938	-		all	hypothetical protein
+omz_770m_6642_0	566	49	615	omz_770m_6642	975	-		all	hypothetical protein
+omz_770m_6643_0	779	2	781	omz_770m_6643	952	-		all	hypothetical protein
+omz_770m_6643_1	227	723	950	omz_770m_6643	952	-		all	hypothetical protein
+omz_770m_6266_0	497	239	736	omz_770m_6266	902	-		Bacillales	putative heme peroxidase K09162
+omz_770m_6648_0	812	3	815	omz_770m_6648	961	-		all	hypothetical protein
+omz_770m_6649_0	395	3	398	omz_770m_6649	1049	-		all	hypothetical protein
+omz_770m_6649_1	464	401	865	omz_770m_6649	1049	-		all	hypothetical protein
+omz_770m_6267_0	122	741	863	omz_770m_6267	865	+		all	hypothetical protein
+omz_770m_6264_0	656	162	818	omz_770m_6264	1019	+	2.3.1.61	all	2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase K00658 dehydrogenase component (dihydrolipoamide succinyltransferase)
+omz_770m_1945_0	743	3	746	omz_770m_1945	916	-		Verrucomicrobia bacterium SCGC AAA168-F10	phenazine biosynthesis protein, PhzF family K06998
+omz_770m_10502_0	203	883	1086	omz_770m_10502	1638	-		all	hypothetical protein
+omz_770m_3922_0	491	2	493	omz_770m_3922	993	-		all	hypothetical protein
+omz_770m_3922_1	428	523	951	omz_770m_3922	993	+		all	hypothetical protein
+omz_770m_3923_0	347	208	555	omz_770m_3923	901	+		all	hypothetical protein
+omz_770m_3923_1	332	545	877	omz_770m_3923	901	+		all	hypothetical protein
+omz_770m_3920_0	677	303	980	omz_770m_3920	982	+		all	hypothetical protein
+omz_770m_3921_0	137	248	385	omz_770m_3921	1055	+		all	hypothetical protein
+omz_770m_3921_1	95	774	869	omz_770m_3921	1055	+		all	hypothetical protein
+omz_770m_3921_2	176	818	994	omz_770m_3921	1055	+		all	hypothetical protein
+omz_770m_3921_3	98	955	1053	omz_770m_3921	1055	+		all	hypothetical protein
+omz_770m_3926_0	632	136	768	omz_770m_3926	950	+		"Microspira" Schroeter 1886	muropeptide permease (EC:2.3.1.-) K08218 MFS transporter, PAT family, beta-lactamase induction signal transducer AmpG
+omz_770m_3926_1	107	825	932	omz_770m_3926	950	-		all	hypothetical protein
+omz_770m_3927_0	824	3	827	omz_770m_3927	847	+		all	hypothetical protein
+omz_770m_3924_0	788	127	915	omz_770m_3924	917	-		all	hypothetical protein
+omz_770m_3925_0	176	40	216	omz_770m_3925	1146	+		all	hypothetical protein
+omz_770m_3925_1	347	744	1091	omz_770m_3925	1146	+		all	hypothetical protein
+omz_770m_3928_0	683	88	771	omz_770m_3928	1036	-		all	hypothetical protein
+omz_770m_3929_0	578	3	581	omz_770m_3929	948	-		all	hypothetical protein
+omz_770m_8901_0	590	1	591	omz_770m_8901	947	-		all	hypothetical protein
+omz_770m_8901_1	164	775	939	omz_770m_8901	947	-		all	hypothetical protein
+omz_770m_1977_0	596	3	599	omz_770m_1977	846	-	4.4.1.8	Proteobacteria	IRC7 Irc7p (EC:4.4.1.8) K01760 cystathionine beta-lyase
+omz_770m_1977_1	263	583	846	omz_770m_1977	846	-	1.7.1.13	SAR324 cluster bacterium JCVI-SC AAA005	GTP cyclohydrolase I K09457 7-cyano-7-deazaguanine reductase
+omz_770m_1976_0	839	1	840	omz_770m_1976	840	+		all	hypothetical protein
+omz_770m_1975_0	71	3	74	omz_770m_1975	893	-		all	hypothetical protein
+omz_770m_1975_1	518	80	598	omz_770m_1975	893	-		Bacteria	Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase related flavin-dependent oxidoreductases
+omz_770m_1974_0	755	2	757	omz_770m_1974	915	-	3.5.2.14	Bacteria	hyuB N-methylhydantoinase B/acetone carboxylase subunit alpha K01474 B
+omz_770m_1973_0	467	1	468	omz_770m_1973	878	+		all	hypothetical protein
+omz_770m_1973_1	449	428	877	omz_770m_1973	878	+		all	hypothetical protein
+omz_770m_1972_0	221	61	282	omz_770m_1972	978	+		all	hypothetical protein
+omz_770m_1972_1	626	261	887	omz_770m_1972	978	+		all	hypothetical protein
+omz_770m_1971_0	836	1	837	omz_770m_1971	838	+	2.7.1.30	Bacteria	glpK glycerol kinase (EC:2.7.1.30) K00864
+omz_770m_1970_0	134	2	136	omz_770m_1970	982	-		all	hypothetical protein
+omz_770m_1970_1	278	538	816	omz_770m_1970	982	-		all	hypothetical protein
+omz_770m_1970_2	179	801	980	omz_770m_1970	982	-		all	hypothetical protein
+omz_770m_1979_0	242	243	485	omz_770m_1979	993	+		all	hypothetical protein
+omz_770m_1979_1	239	486	725	omz_770m_1979	993	+		all	hypothetical protein
+omz_770m_1978_0	689	1	690	omz_770m_1978	924	+		Bacteria	short chain dehydrogenase/reductase family
+omz_770m_5698_0	704	86	790	omz_770m_5698	792	-		all	hypothetical protein
+omz_770m_5699_0	725	2	727	omz_770m_5699	1016	+	6.3.2.31	Proteobacteria	coenzyme F420-0 gamma-glutamyl ligase (EC:6.3.2.-) K12234 F420-0:L-glutamate / F420-1:gamma-L-glutamate
+omz_770m_5696_0	473	3	476	omz_770m_5696	1054	+		all	hypothetical protein
+omz_770m_5696_1	158	894	1052	omz_770m_5696	1054	+		all	hypothetical protein
+omz_770m_5697_0	848	43	891	omz_770m_5697	921	+	1.3.1.34	'Burkholderiales'	2,4-dienoyl-CoA reductase (EC:1.3.1.34)
+omz_770m_5694_0	74	3	77	omz_770m_5694	389	-		all	hypothetical protein
+omz_770m_5695_0	707	512	1219	omz_770m_5695	1373	+		all	hypothetical protein
+omz_770m_5692_0	656	125	781	omz_770m_5692	893	+		Brevibacillus sp. BC25	putative gluconate dehydrogenase
+omz_770m_5693_0	932	1	933	omz_770m_5693	933	+		all	hypothetical protein
+omz_770m_5690_0	494	418	912	omz_770m_5690	958	+		all	hypothetical protein
+omz_770m_5691_0	671	2	673	omz_770m_5691	920	+		all	hypothetical protein
+omz_770m_11142_0	491	3	494	omz_770m_11142	952	+		Salinisphaera shabanensis E1L3A	AIG2 family protein
+omz_770m_11142_1	353	477	830	omz_770m_11142	952	-		all	hypothetical protein
+omz_770m_11143_0	788	2	790	omz_770m_11143	959	+		Gammaproteobacteria	FIG00922337:
+omz_770m_11140_0	230	1	231	omz_770m_11140	914	-		all	hypothetical protein
+omz_770m_11140_1	338	236	574	omz_770m_11140	914	-	6.2.1.1	Mycobacterium	thiolase (EC:6.2.1.1)
+omz_770m_11141_0	779	1	780	omz_770m_11141	906	-		all	
+omz_770m_11146_0	683	1	684	omz_770m_11146	910	-		"Euryarchaeota" Woese et al. 1990	GTP binding / GTPase/ translation initiation factor K03243 factor 5B
+omz_770m_11147_0	152	1	153	omz_770m_11147	906	-		all	hypothetical protein
+omz_770m_11147_1	650	252	902	omz_770m_11147	906	+		all	
+omz_770m_11144_0	155	2	157	omz_770m_11144	920	+		all	hypothetical protein
+omz_770m_11144_1	476	175	651	omz_770m_11144	920	-		all	hypothetical protein
+omz_770m_11144_2	239	681	920	omz_770m_11144	920	-		all	
+omz_770m_11145_0	773	2	775	omz_770m_11145	910	+	6.4.1.2	Bacteria	accA acetyl-CoA carboxylase carboxyltransferase subunit alpha K01962 carboxyl transferase alpha
+omz_770m_11148_0	335	214	549	omz_770m_11148	989	+		'Betaproteobacteria'	proline synthetase associated protein, putative
+omz_770m_11148_1	281	610	891	omz_770m_11148	989	+	1.5.1.2	Gammaproteobacteria	Pyrroline-5-carboxylate reductase (EC 1.5.1.2)
+omz_770m_11149_0	638	1	639	omz_770m_11149	882	+	1.2.1.38	Bacteria	N2-acetyl-L-aminoadipate semialdehyde dehydrogenase N-acetyl-gamma-glutamyl-phosphate reductase (EC:1.2.1.- 1.2.1.38) K00145 N-acetyl-gamma-glutamyl-phosphate/N-acetyl-gamma-aminoadipyl-phosphate
+omz_770m_11149_1	161	706	867	omz_770m_11149	882	-		all	hypothetical protein
+omz_770m_9995_0	842	2	844	omz_770m_9995	846	-		all	hypothetical protein
+omz_770m_9994_0	866	17	883	omz_770m_9994	885	+		all	
+omz_770m_9997_0	155	6	161	omz_770m_9997	876	-		all	hypothetical protein
+omz_770m_9997_1	248	221	469	omz_770m_9997	876	-		all	hypothetical protein
+omz_770m_9996_0	596	189	785	omz_770m_9996	910	-	6.1.1.15	"Candidatus Pelagibacter" Rappe et al. 2002	prolyl-tRNA synthetase Bacterial type (EC:6.1.1.15) K01881
+omz_770m_9991_0	863	3	866	omz_770m_9991	922	+	2.3.3.9	Gammaproteobacteria	glcB, glc malate synthase G (EC:2.3.3.9) K01638
+omz_770m_9990_0	260	2	262	omz_770m_9990	903	+	3.4.13.19	SAR324 cluster bacterium JCVI-SC AAA005	renal dipeptidase family protein, putative K01273 membrane
+omz_770m_9990_1	560	259	819	omz_770m_9990	903	+		Pseudomonas fluorescens Wayne1	FIG01203280:
+omz_770m_9993_0	134	2	136	omz_770m_9993	857	+		all	hypothetical protein
+omz_770m_9993_1	578	140	718	omz_770m_9993	857	+		all	hypothetical protein
+omz_770m_9992_0	929	1	930	omz_770m_9992	932	+		all	
+omz_770m_9999_0	629	42	671	omz_770m_9999	943	-		all	hypothetical protein
+omz_770m_9999_1	263	678	941	omz_770m_9999	943	-		all	hypothetical protein
+omz_770m_9998_0	893	2	895	omz_770m_9998	896	-	1.10.2.2	Bacteria	Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2)
+omz_770m_2406_0	518	2	520	omz_770m_2406	840	+		"Bacillus sporogenes var. A" Metchnikoff 1908	Flagellin protein FlaA
+omz_770m_2407_0	881	2	883	omz_770m_2407	971	-		all	hypothetical protein
+omz_770m_2404_0	242	386	628	omz_770m_2404	1692	+		all	hypothetical protein
+omz_770m_2405_0	857	48	905	omz_770m_2405	906	-	1.14.13.3	Bacteria	putative 4-hydroxyphenylacetic hydroxylase (EC:1.14.13.3) K00483 4-hydroxyphenylacetate-3-hydroxylase large chain
+omz_770m_2402_0	404	2	406	omz_770m_2402	951	+		SAR324 cluster bacterium SCGC AAA001-C10	
+omz_770m_2402_1	158	407	565	omz_770m_2402	951	+		all	hypothetical protein
+omz_770m_2403_0	179	2	181	omz_770m_2403	874	-		all	
+omz_770m_2403_1	317	247	564	omz_770m_2403	874	-		all	
+omz_770m_2403_2	176	697	873	omz_770m_2403	874	-		all	hypothetical protein
+omz_770m_7120_0	371	62	433	omz_770m_7120	874	+		all	hypothetical protein
+omz_770m_2401_0	146	63	209	omz_770m_2401	877	+		all	hypothetical protein
+omz_770m_2401_1	329	397	726	omz_770m_2401	877	-		all	hypothetical protein
+omz_770m_2401_2	137	739	876	omz_770m_2401	877	-		all	hypothetical protein
+omz_770m_2408_0	356	3	359	omz_770m_2408	996	+		all	hypothetical protein
+omz_770m_2408_1	218	427	645	omz_770m_2408	996	+		all	hypothetical protein
+omz_770m_2408_2	200	680	880	omz_770m_2408	996	+		all	hypothetical protein
+omz_770m_2409_0	701	2	703	omz_770m_2409	936	-		Acinetobacter	type II secretion system protein E K02652 IV pilus assembly PilB
+omz_770m_2409_1	98	837	935	omz_770m_2409	936	-		all	hypothetical protein
+omz_770m_506_0	146	1	147	omz_770m_506	932	+		all	hypothetical protein
+omz_770m_506_1	560	175	735	omz_770m_506	932	+		all	hypothetical protein
+omz_770m_507_0	755	2	757	omz_770m_507	927	-		all	hypothetical protein
+omz_770m_504_0	917	2	919	omz_770m_504	919	+		Planctomyces brasiliensis ATCC 49424	heme-binding protein
+omz_770m_505_0	740	3	743	omz_770m_505	872	-		all	hypothetical protein
+omz_770m_505_1	131	740	871	omz_770m_505	872	-		all	hypothetical protein
+omz_770m_502_0	677	153	830	omz_770m_502	866	-	2.7.1.30	Bacteria	LOC100251587 K00864 glycerol kinase
+omz_770m_503_0	299	1	300	omz_770m_503	919	+		"Candidatus Pelagibacter ubique" Rappe et al. 2002	putative monomeric sarcosine oxidase
+omz_770m_503_1	452	391	843	omz_770m_503	919	+	6.3.1.2	Oscillatoriophycideae	GlnT-like protein (EC:6.3.1.2) K01915 glutamine synthetase
+omz_770m_501_0	515	190	705	omz_770m_501	849	+		SAR324 cluster bacterium SCGC AAA001-C10	
+omz_770m_501_1	137	712	849	omz_770m_501	849	+		all	hypothetical protein
+omz_770m_508_0	695	1	696	omz_770m_508	1064	-		Bacteria	Putative sodium-dependent transporter
+omz_770m_509_0	173	2	175	omz_770m_509	906	+		all	hypothetical protein
+omz_770m_509_1	581	236	817	omz_770m_509	906	+	1.13.12.16	"Chlorobacterium" Guillebeau 1890, nom. rejic. Opin. 6 (not "Chlorobacterium" Lauterborn 1916)	2-nitropropane dioxygenase, NPD K00459 nitronate monooxygenase
+omz_770m_10439_0	278	154	432	omz_770m_10439	870	+	5.2.1.8	Proteobacteria	ppiC peptidyl-prolyl cis-trans isomerase C (rotamase C) (EC:5.2.1.8) K03769
+omz_770m_10438_0	620	1	621	omz_770m_10438	978	+		all	hypothetical protein
+omz_770m_10430_0	89	1182	1271	omz_770m_10430	1272	+		all	hypothetical protein
+omz_770m_10432_0	185	143	328	omz_770m_10432	988	-		all	hypothetical protein
+omz_770m_10435_0	320	88	408	omz_770m_10435	1091	-		all	hypothetical protein
+omz_770m_10435_1	155	408	563	omz_770m_10435	1091	-		all	hypothetical protein
+omz_770m_10434_0	383	1	384	omz_770m_10434	973	+	1.1.1.85	Bacteria	3-isopropylmalate dehydrogenase (EC:1.1.1.85) K00052
+omz_770m_10434_1	542	431	973	omz_770m_10434	973	+		Proteobacteria	FIG01166001:
+omz_770m_10437_0	425	341	766	omz_770m_10437	1022	-		all	hypothetical protein
+omz_770m_10436_0	83	3	86	omz_770m_10436	1596	-		all	hypothetical protein
+omz_770m_10436_1	206	663	869	omz_770m_10436	1596	-		all	hypothetical protein
+omz_770m_8163_0	467	3	470	omz_770m_8163	920	+		all	hypothetical protein
+omz_770m_8163_1	269	480	749	omz_770m_8163	920	+		all	hypothetical protein
+omz_770m_8163_2	128	792	920	omz_770m_8163	920	+		all	hypothetical protein
+omz_770m_8162_0	665	82	747	omz_770m_8162	905	+		all	hypothetical protein
+omz_770m_8161_0	752	18	770	omz_770m_8161	924	-	6.1.1.14	"Microstreptospora" Yan et al.	glyS glycyl-tRNA synthetase (EC:6.1.1.14) K01880
+omz_770m_8160_0	878	1	879	omz_770m_8160	879	+	4.2.1.3	Gammaproteobacteria	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase (EC:4.2.1.3) K01682 2
+omz_770m_8167_0	185	1	186	omz_770m_8167	967	+		alpha proteobacterium HIMB5	Protein unknown function (DUF423)
+omz_770m_8167_1	137	183	320	omz_770m_8167	967	+		all	hypothetical protein
+omz_770m_8167_2	422	322	744	omz_770m_8167	967	+	1.5.1.2	SAR 11 cluster	pyrroline-5-carboxylate reductase (EC:1.5.1.2) K00286
+omz_770m_8166_0	389	2	391	omz_770m_8166	1013	+		all	hypothetical protein
+omz_770m_8166_1	209	754	963	omz_770m_8166	1013	-		all	hypothetical protein
+omz_770m_8165_0	911	64	975	omz_770m_8165	976	+		all	
+omz_770m_8164_0	758	159	917	omz_770m_8164	917	-		all	hypothetical protein
+omz_770m_8169_0	371	2	373	omz_770m_8169	860	-		all	hypothetical protein
+omz_770m_8168_0	806	61	867	omz_770m_8168	919	+		Flavobacteriaceae	TonB-dependent receptor
+omz_770m_1379_0	125	2	127	omz_770m_1379	905	-		all	hypothetical protein
+omz_770m_1379_1	782	112	894	omz_770m_1379	905	-	3.2.1.20	"Alphabacteria" Cavalier-Smith 1992	alpha amylase, catalytic region K01187 alpha-glucosidase
+omz_770m_1378_0	851	1	852	omz_770m_1378	1108	+		all	hypothetical protein
+omz_770m_9690_0	287	99	386	omz_770m_9690	972	-		all	hypothetical protein
+omz_770m_9690_1	119	476	595	omz_770m_9690	972	-		all	hypothetical protein
+omz_770m_9690_2	92	879	971	omz_770m_9690	972	+		all	hypothetical protein
+omz_770m_9691_0	533	1	534	omz_770m_9691	1007	-		all	hypothetical protein
+omz_770m_9696_0	920	3	923	omz_770m_9696	923	+		all	hypothetical protein
+omz_770m_9697_0	701	149	850	omz_770m_9697	1108	+		all	hypothetical protein
+omz_770m_9697_1	113	974	1087	omz_770m_9697	1108	-		all	hypothetical protein
+omz_770m_9694_0	470	136	606	omz_770m_9694	961	-		Bacillus/Clostridium group	ABC transporter, ATPase subunit K02003
+omz_770m_9695_0	212	275	487	omz_770m_9695	1053	+	3.6.3.30	Bacteria	ATP binding cassette (abc) transporter, putative (EC:3.6.3.30)
+omz_770m_1371_0	380	2	382	omz_770m_1371	383	+		all	hypothetical protein
+omz_770m_1370_0	881	25	906	omz_770m_1370	1008	-	4.2.3.1	SAR324 cluster	Threonine synthase (EC 4.2.3.1)
+omz_770m_1373_0	389	152	541	omz_770m_1373	954	-		'Sphingomonadales'	glyoxalase/bleomycin resistance protein/dioxygenase
+omz_770m_1373_1	272	680	952	omz_770m_1373	954	+		Novosphingobium	MerR family transcriptional regulator K13639 regulator, redox-sensitive activator SoxR
+omz_770m_1372_0	767	3	770	omz_770m_1372	1066	+		Parvibaculum lavamentivorans DS-1	beta-lactamase domain-containing protein
+omz_770m_1375_0	188	1	189	omz_770m_1375	1015	+		all	hypothetical protein
+omz_770m_1375_1	272	258	530	omz_770m_1375	1015	+		all	hypothetical protein
+omz_770m_1375_2	113	538	651	omz_770m_1375	1015	-		all	hypothetical protein
+omz_770m_1374_0	383	3	386	omz_770m_1374	1091	-		all	hypothetical protein
+omz_770m_1374_1	236	671	907	omz_770m_1374	1091	-	1.1.1.91	Bacteria	aldo/keto reductase (EC:1.1.1.91)
+omz_770m_1374_2	224	867	1091	omz_770m_1374	1091	-		all	hypothetical protein
+omz_770m_1377_0	209	11	220	omz_770m_1377	1077	-		all	hypothetical protein
+omz_770m_1377_1	473	407	880	omz_770m_1377	1077	+		all	hypothetical protein
+omz_770m_1376_0	641	3	644	omz_770m_1376	1085	+		all	hypothetical protein
+omz_770m_8968_0	539	2	541	omz_770m_8968	975	-		all	
+omz_770m_3469_0	890	2	892	omz_770m_3469	892	-		Microcystis aeruginosa PCC 9443	hemolysin-type calcium-binding region
+omz_770m_3468_0	128	3	131	omz_770m_3468	952	+		all	hypothetical protein
+omz_770m_3468_1	203	231	434	omz_770m_3468	952	+		Gammaproteobacteria	Sulfur carrier protein ThiS
+omz_770m_3468_2	215	492	707	omz_770m_3468	952	+		Bacteria	thiG thiazole synthase K03149 thiamine biosynthesis ThiG
+omz_770m_3467_0	668	1	669	omz_770m_3467	925	+		all	
+omz_770m_3466_0	578	2	580	omz_770m_3466	993	+		all	hypothetical protein
+omz_770m_3466_1	170	823	993	omz_770m_3466	993	-		all	hypothetical protein
+omz_770m_3465_0	134	1	135	omz_770m_3465	961	-		all	hypothetical protein
+omz_770m_3465_1	650	309	959	omz_770m_3465	961	+		all	hypothetical protein
+omz_770m_3464_0	839	37	876	omz_770m_3464	1031	+	3.5.2.9	Proteobacteria	5-oxoprolinase (ATP-hydrolyzing) (EC:3.5.2.9) K01474 N-methylhydantoinase B
+omz_770m_3463_0	707	2	709	omz_770m_3463	933	-		SAR324 cluster bacterium SCGC AAA001-C10	
+omz_770m_3463_1	266	667	933	omz_770m_3463	933	-		all	hypothetical protein
+omz_770m_3462_0	764	3	767	omz_770m_3462	769	+		all	hypothetical protein
+omz_770m_3461_0	134	261	395	omz_770m_3461	1105	+		all	hypothetical protein
+omz_770m_3461_1	185	810	995	omz_770m_3461	1105	+		all	hypothetical protein
+omz_770m_8340_0	485	1	486	omz_770m_8340	769	+		all	hypothetical protein
+omz_770m_8340_1	242	489	731	omz_770m_8340	769	+		Rhodospirillaceae	AsnC family transcriptional regulator
+omz_770m_8963_0	554	160	714	omz_770m_8963	1097	-		all	hypothetical protein
+omz_770m_8962_0	446	2	448	omz_770m_8962	957	+	2.7.1.72	Bacteria	Streptomycin 6-kinase (EC 2.7.1.72) (Streptidine kinase) (Streptomycin 6-phosphotransferase) (APH(6))
+omz_770m_8962_1	392	563	955	omz_770m_8962	957	+	3.5.4.26	"Alphabacteria" Cavalier-Smith 1992	Pyrimidine deaminase archaeal predicted (EC 3.5.4.26)
+omz_770m_8961_0	152	954	1106	omz_770m_8961	1152	-		all	hypothetical protein
+omz_770m_1195_0	548	194	742	omz_770m_1195	989	+	6.1.1.9	Bacteria	putative valyl tRNA synthetase (ISS) K01873 valyl-tRNA
+omz_770m_1194_0	884	1	885	omz_770m_1194	885	-		all	DNA repair protein RecN
+omz_770m_1197_0	635	1	636	omz_770m_1197	1059	-		all	hypothetical protein
+omz_770m_1196_0	86	2	88	omz_770m_1196	1056	-		all	hypothetical protein
+omz_770m_1196_1	581	275	856	omz_770m_1196	1056	+	1.1.1.18	Flavobacteriaceae	Gfo/Idh/MocA family oxidoreductase (EC:1.1.1.18)
+omz_770m_1191_0	206	3	209	omz_770m_1191	978	+		all	hypothetical protein
+omz_770m_1191_1	308	225	533	omz_770m_1191	978	+		all	
+omz_770m_1191_2	335	554	889	omz_770m_1191	978	-		Nitrosococcus halophilus Nc 4	integrase family protein
+omz_770m_1190_0	899	2	901	omz_770m_1190	1074	+		Gammaproteobacteria	L-lactate permease, putative K03303 lactate transporter, LctP family
+omz_770m_1193_0	707	18	725	omz_770m_1193	1001	-		all	hypothetical protein
+omz_770m_1193_1	155	846	1001	omz_770m_1193	1001	+		all	hypothetical protein
+omz_770m_1192_0	104	1	105	omz_770m_1192	929	-		all	hypothetical protein
+omz_770m_1192_1	473	44	517	omz_770m_1192	929	-		all	putative N-acetylmuramyl-L-alanine amidase, negative regulator AmpC, AmpD
+omz_770m_1192_2	137	562	699	omz_770m_1192	929	-		all	hypothetical protein
+omz_770m_1192_3	137	790	927	omz_770m_1192	929	-		all	hypothetical protein
+omz_770m_3207_0	785	143	928	omz_770m_3207	928	+	3.5.1.77	Cupriavidus necator N-1	N-carbamoyl-D-amino acid hydrolase (EC:3.5.1.77) K01459
+omz_770m_1199_0	1040	3	1043	omz_770m_1199	1045	-	1.1.1.100	Methylobacterium sp. GXF4	3-oxoacyl- reductase (EC 1.1.1.100)
+omz_770m_1198_0	245	3	248	omz_770m_1198	1005	-		all	hypothetical protein
+omz_770m_1198_1	701	303	1004	omz_770m_1198	1005	-		all	hypothetical protein
+omz_770m_8966_0	179	3	182	omz_770m_8966	940	+		all	hypothetical protein
+omz_770m_8966_1	701	229	930	omz_770m_8966	940	+	1.3.99.2	Bacteria	Butyryl-CoA dehydrogenase (EC 1.3.99.2)
+omz_770m_8965_0	221	1	222	omz_770m_8965	852	+		all	
+omz_770m_8965_1	140	330	470	omz_770m_8965	852	+		all	hypothetical protein
+omz_770m_8965_2	242	486	728	omz_770m_8965	852	+		all	hypothetical protein
+omz_770m_8699_0	701	2	703	omz_770m_8699	781	+		all	hypothetical protein
+omz_770m_8699_1	149	632	781	omz_770m_8699	781	-		all	hypothetical protein
+omz_770m_8964_0	242	614	856	omz_770m_8964	1003	-		all	hypothetical protein
+omz_770m_8698_0	521	1	522	omz_770m_8698	689	+		all	hypothetical protein
+omz_770m_8698_1	290	397	687	omz_770m_8698	689	-		all	hypothetical protein
+omz_770m_10781_0	506	2	508	omz_770m_10781	871	+		all	
+omz_770m_10781_1	209	505	714	omz_770m_10781	871	+		all	
+omz_770m_10780_0	173	226	399	omz_770m_10780	982	-		all	hypothetical protein
+omz_770m_10780_1	233	521	754	omz_770m_10780	982	-		Bacteria	putative GTPase (ISS) K06207 GTP-binding protein
+omz_770m_946_0	1016	3	1019	omz_770m_946	1020	-		all	hypothetical protein
+omz_770m_947_0	248	406	654	omz_770m_947	920	-		all	hypothetical protein
+omz_770m_10871_0	578	1	579	omz_770m_10871	1080	-	4.6.1.1	Bacteriovorax marinus SJ	Adenylate cyclase (EC 4.6.1.1)
+omz_770m_10871_1	176	705	881	omz_770m_10871	1080	+		all	hypothetical protein
+omz_770m_944_0	320	94	414	omz_770m_944	1071	+	2.1.2.10	"Bacillus difficilis" Hall and O'Toole 1935	putative bi-functional glycine dehydrogenase/aminomethyl transferase protein (EC:2.1.2.10 1.4.4.2) K00282 dehydrogenase subunit 1
+omz_770m_944_1	209	591	800	omz_770m_944	1071	+		all	
+omz_770m_945_0	122	1091	1213	omz_770m_945	1550	+		all	hypothetical protein
+omz_770m_8691_0	176	10	186	omz_770m_8691	897	-		all	hypothetical protein
+omz_770m_8691_1	98	203	301	omz_770m_8691	897	-		all	hypothetical protein
+omz_770m_8691_2	299	525	824	omz_770m_8691	897	+		all	hypothetical protein
+omz_770m_943_0	317	605	922	omz_770m_943	1116	+		all	hypothetical protein
+omz_770m_10789_0	341	21	362	omz_770m_10789	898	+		Micrococcineae	hydrolase alpha/beta-hydrolase fold family K07020
+omz_770m_10789_1	113	785	898	omz_770m_10789	898	+		all	hypothetical protein
+omz_770m_10870_0	551	3	554	omz_770m_10870	1025	-		Proteobacteria	TrkA domain-containing protein
+omz_770m_941_0	254	1	255	omz_770m_941	1092	-		all	hypothetical protein
+omz_770m_941_1	350	659	1009	omz_770m_941	1092	-		all	hypothetical protein
+omz_770m_941_2	131	960	1091	omz_770m_941	1092	-		all	hypothetical protein
+omz_770m_5508_0	782	2	784	omz_770m_5508	887	-	3.1.21.2	Bacteria	apurinic endonuclease Apn1 (EC:3.1.21.2) K01151 deoxyribonuclease IV
+omz_770m_5509_0	110	48	158	omz_770m_5509	975	+		all	hypothetical protein
+omz_770m_5509_1	485	233	718	omz_770m_5509	975	+	3.1.2.6	ATCC BAA-2433	Hydroxyacylglutathione hydrolase (EC 3.1.2.6)
+omz_770m_5509_2	230	745	975	omz_770m_5509	975	+		all	hypothetical protein
+omz_770m_5506_0	125	88	213	omz_770m_5506	847	-		all	hypothetical protein
+omz_770m_5507_0	830	1	831	omz_770m_5507	832	+	3.6.4.12	Proteobacteria	recQ DNA helicase (EC:3.6.1.-) K03654 ATP-dependent RecQ
+omz_770m_5504_0	191	12	203	omz_770m_5504	811	+		all	hypothetical protein
+omz_770m_5504_1	206	535	741	omz_770m_5504	811	+		all	hypothetical protein
+omz_770m_5505_0	356	206	562	omz_770m_5505	952	-		all	hypothetical protein
+omz_770m_5505_1	296	656	952	omz_770m_5505	952	+		all	hypothetical protein
+omz_770m_5502_0	302	1	303	omz_770m_5502	798	+		all	hypothetical protein
+omz_770m_5502_1	326	329	655	omz_770m_5502	798	+		all	hypothetical protein
+omz_770m_5503_0	425	3	428	omz_770m_5503	916	-		all	hypothetical protein
+omz_770m_5503_1	227	601	828	omz_770m_5503	916	+		all	hypothetical protein
+omz_770m_5500_0	89	615	704	omz_770m_5500	860	-		all	hypothetical protein
+omz_770m_5501_0	158	2	160	omz_770m_5501	837	+		all	hypothetical protein
+omz_770m_5501_1	299	153	452	omz_770m_5501	837	+	1.14.13.9	BCF group	similar to Kynurenine 3-monooxygenase (kynurenine 3-hydroxylase) K00486 kynurenine
+omz_770m_9348_0	1037	2	1039	omz_770m_9348	1041	+		all	hypothetical protein
+omz_770m_9349_0	356	18	374	omz_770m_9349	1040	-		unclassified Verrucomicrobia (miscellaneous)	protein unknown function DUF1549
+omz_770m_9349_1	563	431	994	omz_770m_9349	1040	+		all	hypothetical protein
+omz_770m_9349_2	95	943	1038	omz_770m_9349	1040	+		all	hypothetical protein
+omz_770m_10873_0	266	169	435	omz_770m_10873	1059	-		all	hypothetical protein
+omz_770m_10873_1	92	738	830	omz_770m_10873	1059	-		all	hypothetical protein
+omz_770m_4118_0	743	2	745	omz_770m_4118	971	+		all	hypothetical protein
+omz_770m_4118_1	281	690	971	omz_770m_4118	971	+		all	hypothetical protein
+omz_770m_4119_0	89	414	503	omz_770m_4119	1185	+		all	hypothetical protein
+omz_770m_4119_1	200	591	791	omz_770m_4119	1185	+		all	hypothetical protein
+omz_770m_4119_2	143	1008	1151	omz_770m_4119	1185	+		all	hypothetical protein
+omz_770m_4116_0	401	1	402	omz_770m_4116	935	-	1.2.1.2	Corynebacterineae	formate dehydrogenase (EC:1.2.1.2) K00122
+omz_770m_4116_1	158	578	736	omz_770m_4116	935	+		all	hypothetical protein
+omz_770m_4116_2	113	820	933	omz_770m_4116	935	+		all	hypothetical protein
+omz_770m_4117_0	677	2	679	omz_770m_4117	777	-		all	
+omz_770m_4114_0	887	1	888	omz_770m_4114	890	-		all	hypothetical protein
+omz_770m_4115_0	509	3	512	omz_770m_4115	895	+	4.1.3.34	Tistrella mobilis KA081020-065	Citryl-CoA lyase (EC:4.1.3.34) K01644 citrate subunit beta / citryl-CoA
+omz_770m_4112_0	308	225	533	omz_770m_4112	978	+		"Alphabacteria" Cavalier-Smith 1992	putative permease major facilitator superfamily
+omz_770m_4112_1	209	546	755	omz_770m_4112	978	+		'Syntrophaceae'	family 2 glycosyl transferase
+omz_770m_4112_2	140	801	941	omz_770m_4112	978	+		all	hypothetical protein
+omz_770m_4113_0	671	2	673	omz_770m_4113	913	+	3.6.4.3	Chloroflexi	ATP-dependent metalloprotease FtsH (EC:3.6.4.3) K03798 cell division protease
+omz_770m_9430_0	161	1	162	omz_770m_9430	900	-		all	hypothetical protein
+omz_770m_9430_1	611	255	866	omz_770m_9430	900	+	4.2.1.11	Bacteria	Cbr-enol-1 C. briggsae CBR-ENOL-1 protein K01689 enolase
+omz_770m_4111_0	371	3	374	omz_770m_4111	874	+		all	hypothetical protein
+omz_770m_4111_1	122	410	532	omz_770m_4111	874	-		all	hypothetical protein
+omz_770m_4111_2	278	529	807	omz_770m_4111	874	-		all	hypothetical protein
+omz_770m_10872_0	446	2	448	omz_770m_10872	979	-		all	hypothetical protein
+omz_770m_5443_0	311	86	397	omz_770m_5443	912	+		biota	GJ23436 gene product from transcript GJ23436-RA
+omz_770m_5443_1	206	467	673	omz_770m_5443	912	+		'Burkholderiales'	
+omz_770m_5442_0	83	2	85	omz_770m_5442	1827	+		all	hypothetical protein
+omz_770m_5442_1	206	412	618	omz_770m_5442	1827	+		all	hypothetical protein
+omz_770m_5442_2	158	1438	1596	omz_770m_5442	1827	+		all	hypothetical protein
+omz_770m_5441_0	110	3	113	omz_770m_5441	1326	-		all	hypothetical protein
+omz_770m_5441_1	149	819	968	omz_770m_5441	1326	-		all	hypothetical protein
+omz_770m_5440_0	356	3	359	omz_770m_5440	869	-		Proteobacteria	hisH imidazole glycerol phosphate synthase subunit HisH (EC:2.4.2.-) K02501 glutamine amidotransferase
+omz_770m_5440_1	368	387	755	omz_770m_5440	869	-	4.2.1.19	Proteobacteria	hisB imidazoleglycerol-phosphate dehydratase (EC:4.2.1.19) K01693
+omz_770m_5447_0	575	1	576	omz_770m_5447	618	+		all	hypothetical protein
+omz_770m_5446_0	881	2	883	omz_770m_5446	923	+	1.2.7.3	Bacteria	pyruvate flavodoxin/ferredoxin oxidoreductase domain-containing protein K00174 2-oxoglutarate ferredoxin subunit alpha
+omz_770m_5445_0	359	1	360	omz_770m_5445	1404	+		all	hypothetical protein
+omz_770m_5449_0	110	1	111	omz_770m_5449	952	+		all	hypothetical protein
+omz_770m_5449_1	428	395	823	omz_770m_5449	952	+		all	hypothetical protein
+omz_770m_11130_0	257	3	260	omz_770m_11130	963	-		Bacteria	diadenosine tetraphosphate (Ap4A) hydrolase K02503 Hit-like protein involved cell-cycle regulation
+omz_770m_11130_1	662	301	963	omz_770m_11130	963	-		all	hypothetical protein
+omz_770m_10875_0	824	91	915	omz_770m_10875	1011	+		all	hypothetical protein
+omz_770m_10874_0	359	1	360	omz_770m_10874	1035	+		all	
+omz_770m_10874_1	335	405	740	omz_770m_10874	1035	-		all	putative Spermine synthase
+omz_770m_10874_2	68	966	1034	omz_770m_10874	1035	+		all	hypothetical protein
+omz_770m_5999_0	158	4	162	omz_770m_5999	663	-		all	hypothetical protein
+omz_770m_5999_1	218	316	534	omz_770m_5999	663	-		all	hypothetical protein
+omz_770m_5998_0	905	3	908	omz_770m_5998	910	-	2.4.1.129	Gammaproteobacteria	peptidoglycan glycosyltransferase (EC:2.4.1.129) K05515 penicillin-binding protein 2
+omz_770m_11139_0	101	731	832	omz_770m_11139	914	-		all	hypothetical protein
+omz_770m_11139_1	83	829	912	omz_770m_11139	914	-		all	hypothetical protein
+omz_770m_9266_0	527	360	887	omz_770m_9266	912	-		all	hypothetical protein
+omz_770m_5991_0	605	2	607	omz_770m_5991	833	-		all	
+omz_770m_5990_0	743	18	761	omz_770m_5990	828	-		all	hypothetical protein
+omz_770m_5993_0	671	2	673	omz_770m_5993	867	-		all	hypothetical protein
+omz_770m_5992_0	593	42	635	omz_770m_5992	907	-		all	hypothetical protein
+omz_770m_5995_0	338	2	340	omz_770m_5995	871	+	1.3.3.1	Bacteria	pyrD dihydroorotate dehydrogenase 1B K00226 oxidase
+omz_770m_5995_1	437	355	792	omz_770m_5995	871	+		Bacteria	rare lipoprotein A K03642 A
+omz_770m_5994_0	194	54	248	omz_770m_5994	732	+		all	hypothetical protein
+omz_770m_5994_1	302	306	608	omz_770m_5994	732	+	3.5.4.12	Bacillus/Clostridium group	cytidine deoxycytidylate deaminase zinc-binding domain-containing protein K01493 dCMP
+omz_770m_5994_2	77	654	731	omz_770m_5994	732	+		all	hypothetical protein
+omz_770m_5997_0	80	1	81	omz_770m_5997	848	-		all	hypothetical protein
+omz_770m_5997_1	155	693	848	omz_770m_5997	848	-		all	hypothetical protein
+omz_770m_5996_0	644	19	663	omz_770m_5996	963	-	5.99.1.2	Bacillales	topA DNA topoisomerase I (EC:5.99.1.2) K03168
+omz_770m_7103_0	908	2	910	omz_770m_7103	910	-		all	
+omz_770m_10877_0	590	54	644	omz_770m_10877	990	-		all	
+omz_770m_10877_1	218	770	988	omz_770m_10877	990	-		all	hypothetical protein
+omz_770m_10651_0	590	22	612	omz_770m_10651	987	+	4.99.1.1	Bacteria	ferrochelatase (EC:4.99.1.1) K01772
+omz_770m_10876_0	116	1	117	omz_770m_10876	1050	-		all	hypothetical protein
+omz_770m_10876_1	614	190	804	omz_770m_10876	1050	+		all	putative Diheme cytochrome c
+omz_770m_3261_0	842	2	844	omz_770m_3261	848	-		all	hypothetical protein
+omz_770m_3260_0	137	3	140	omz_770m_3260	848	+		all	hypothetical protein
+omz_770m_3260_1	590	258	848	omz_770m_3260	848	+		all	hypothetical protein
+omz_770m_8903_0	176	2	178	omz_770m_8903	910	-		all	hypothetical protein
+omz_770m_8903_1	785	123	908	omz_770m_8903	910	-		all	hypothetical protein
+omz_770m_3262_0	869	3	872	omz_770m_3262	873	-		Chlamydia/Chlamydophila group	rho transcription termination factor Rho K03628 Rho
+omz_770m_3265_0	200	654	854	omz_770m_3265	856	-		all	hypothetical protein
+omz_770m_3264_0	557	3	560	omz_770m_3264	835	-		all	hypothetical protein
+omz_770m_3264_1	272	563	835	omz_770m_3264	835	-		Bacteria	mucin-desulfating sulfatase (N-acetylglucosamine-6-sulfatase)
+omz_770m_3267_0	476	1	477	omz_770m_3267	849	+		all	hypothetical protein
+omz_770m_3267_1	218	425	643	omz_770m_3267	849	+		all	hypothetical protein
+omz_770m_3266_0	437	3	440	omz_770m_3266	813	-		all	hypothetical protein
+omz_770m_3266_1	380	433	813	omz_770m_3266	813	-		all	hypothetical protein
+omz_770m_3269_0	869	1	870	omz_770m_3269	871	+		all	hypothetical protein
+omz_770m_3268_0	560	3	563	omz_770m_3268	912	-		all	putative Molybdenum cofactor guanylyltransferase
+omz_770m_7135_0	728	3	731	omz_770m_7135	805	-	5.1.1.4	Bacteria	proline racemase K01777 racemase
+omz_770m_7134_0	851	1	852	omz_770m_7134	936	+		all	hypothetical protein
+omz_770m_7137_0	587	1	588	omz_770m_7137	964	-		all	hypothetical protein
+omz_770m_3128_0	425	2	427	omz_770m_3128	799	+		all	hypothetical protein
+omz_770m_3128_1	344	455	799	omz_770m_3128	799	-		all	hypothetical protein
+omz_770m_3129_0	620	226	846	omz_770m_3129	847	+	1.5.3.1	Proteobacteria	sarcosine oxidase subunit alpha family protein (EC:1.5.3.1) K00302 oxidase,
+omz_770m_3122_0	806	3	809	omz_770m_3122	822	-	1.8.1.4	Rhodospirillales	lpd dihydrolipoyl dehydrogenase (EC:1.8.1.4) K00382 dihydrolipoamide
+omz_770m_3123_0	659	3	662	omz_770m_3123	872	-	1.13.11.15	'Burkholderiales'	hpaD homoprotocatechuate 2,3-dioxygenase (EC:1.13.11.15) K00455 3,4-dihydroxyphenylacetate
+omz_770m_3123_1	194	677	871	omz_770m_3123	872	-	1.2.1.3	Agromonas	putative 5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase, HpcC-like protein (EC:1.2.1.3 1.2.1.-) K00151 5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase
+omz_770m_3120_0	593	2	595	omz_770m_3120	1025	+	4.1.3.34	Mesorhizobium amorphae CCNWGS0123	citE1 citrate lyase (EC:4.1.3.34) K01644 subunit beta / citryl-CoA
+omz_770m_3120_1	302	627	929	omz_770m_3120	1025	+	6.2.1.5	"Alphabacteria" Cavalier-Smith 1992	sucC malate--CoA ligase subunit beta (EC:6.2.1.5) K14067 malate-CoA
+omz_770m_3121_0	536	124	660	omz_770m_3121	882	-		all	hypothetical protein
+omz_770m_3126_0	767	2	769	omz_770m_3126	833	+		Rhodospirillales	rpsB 30S ribosomal protein S2 K02967 small subunit S2
+omz_770m_3127_0	659	3	662	omz_770m_3127	830	-		all	hypothetical protein
+omz_770m_3127_1	131	697	828	omz_770m_3127	830	-		all	hypothetical protein
+omz_770m_3124_0	185	424	609	omz_770m_3124	878	+		all	hypothetical protein
+omz_770m_3125_0	863	71	934	omz_770m_3125	934	-		Micromonospora	Maebl
+omz_770m_7133_0	335	218	553	omz_770m_7133	978	+		Hyphomicrobiales	
+omz_770m_7133_1	428	550	978	omz_770m_7133	978	-	1.5.1.3	Brucella	folA dihydrofolate reductase (EC:1.5.1.3) K00287
+omz_770m_7132_0	689	176	865	omz_770m_7132	867	-		all	hypothetical protein
+omz_770m_7876_0	485	1	486	omz_770m_7876	915	-		Proteobacteria	FIG00912340:
+omz_770m_7876_1	218	425	643	omz_770m_7876	915	-		all	hypothetical protein
+omz_770m_7877_0	197	2	199	omz_770m_7877	913	-		all	hypothetical protein
+omz_770m_7877_1	419	201	620	omz_770m_7877	913	-		"Archaea" Woese et al. 1990	Cell division protein FtsH (EC 3.4.24.-)
+omz_770m_7877_2	221	692	913	omz_770m_7877	913	-		all	hypothetical protein
+omz_770m_7720_0	437	1	438	omz_770m_7720	913	+	1.14.13.8	Proteobacteria	flavin-containing monooxygenase (EC:1.14.13.8) K00485 dimethylaniline (N-oxide forming)
+omz_770m_7720_1	407	505	912	omz_770m_7720	913	+	6.3.1.2	"Alphabacteria" Cavalier-Smith 1992	glnT glutamine synthetase III (EC:6.3.1.2) K01915
+omz_770m_7721_0	650	77	727	omz_770m_7721	831	-		all	hypothetical protein
+omz_770m_7139_0	542	143	685	omz_770m_7139	972	+		all	hypothetical protein
+omz_770m_7139_1	200	704	904	omz_770m_7139	972	+	3.6.3.14	Ancona	ATP synthase alpha chain heart isoform, mitochondrial precursor (EC:3.6.3.14) K02132 F-type H+-transporting ATPase subunit
+omz_770m_7722_0	839	2	841	omz_770m_7722	842	-		all	hypothetical protein
+omz_770m_7138_0	146	803	949	omz_770m_7138	949	-		all	hypothetical protein
+omz_770m_3690_0	749	3	752	omz_770m_3690	886	-		all	
+omz_770m_3690_1	137	749	886	omz_770m_3690	886	-		all	hypothetical protein
+omz_770m_3691_0	515	3	518	omz_770m_3691	838	-	1.14.11.1	"Chlorobacterium" Guillebeau 1890, nom. rejic. Opin. 6 (not "Chlorobacterium" Lauterborn 1916)	gamma-butyrobetaine hydroxylase (EC:1.14.11.1) K00471 dioxygenase
+omz_770m_3692_0	176	20	196	omz_770m_3692	1315	-		all	hypothetical protein
+omz_770m_3693_0	176	147	323	omz_770m_3693	1014	+		all	hypothetical protein
+omz_770m_3693_1	518	349	867	omz_770m_3693	1014	+		all	hypothetical protein
+omz_770m_3694_0	215	147	362	omz_770m_3694	914	-		all	hypothetical protein
+omz_770m_3695_0	578	47	625	omz_770m_3695	963	-		all	hypothetical protein
+omz_770m_3696_0	500	2	502	omz_770m_3696	898	+		all	hypothetical protein
+omz_770m_3697_0	221	1	222	omz_770m_3697	850	+		Cyanobacteria	FIG00557508:
+omz_770m_3697_1	248	406	654	omz_770m_3697	850	-		all	
+omz_770m_3698_0	878	2	880	omz_770m_3698	880	+		all	hypothetical protein
+omz_770m_3699_0	878	29	907	omz_770m_3699	977	-	6.3.1.2	Bacteria	GlnT-like protein (EC:6.3.1.2) K01915 glutamine synthetase
+omz_770m_7725_0	494	3	497	omz_770m_7725	833	+		all	hypothetical protein
+omz_770m_7725_1	281	526	807	omz_770m_7725	833	+		all	hypothetical protein
+omz_770m_7726_0	656	2	658	omz_770m_7726	908	-	3.6.1.1	Bacteria	membrane-bound proton-translocating pyrophosphatase (EC:3.6.1.1) K01507 inorganic
+omz_770m_7727_0	155	3	158	omz_770m_7727	830	+		all	hypothetical protein
+omz_770m_7727_1	665	164	829	omz_770m_7727	830	-		all	
+omz_770m_10879_0	680	2	682	omz_770m_10879	1052	-		all	hypothetical protein
+omz_770m_7729_0	242	1	243	omz_770m_7729	836	+	2.7.9.1	Bacteria	PPDK PPDK (pyruvate orthophosphate dikinase) kinase/ pyruvate, phosphate dikinase K01006 pyruvate,orthophosphate dikinase
+omz_770m_7729_1	326	247	573	omz_770m_7729	836	-		all	hypothetical protein
+omz_770m_269_0	566	3	569	omz_770m_269	882	+	6.3.5.3	Proteobacteria	Formylglycinamidine-ribonucleotide (FGAM)-synthetase K01952 phosphoribosylformylglycinamidine synthase
+omz_770m_269_1	305	576	881	omz_770m_269	882	-	1.5.5.1	Gammaproteobacteria	let-721 LEThal family member (let-721) K00311 electron-transferring-flavoprotein dehydrogenase
+omz_770m_268_0	572	3	575	omz_770m_268	862	+	6.3.4.16	Rhodospirillales	ATP binding protein, putative (EC:6.3.4.16) K01955 carbamoyl-phosphate synthase large subunit
+omz_770m_267_0	674	37	711	omz_770m_267	968	-	2.7.7.7	"Alphabacteria" Cavalier-Smith 1992	DNA polymerase I (EC:2.7.7.7) K02335
+omz_770m_266_0	902	22	924	omz_770m_266	925	+	3.5.2.9	Bacteria	5-oxoprolinase (ATP-hydrolyzing) (EC:3.5.2.9) K01473 N-methylhydantoinase A
+omz_770m_265_0	188	15	203	omz_770m_265	950	-		all	hypothetical protein
+omz_770m_265_1	482	207	689	omz_770m_265	950	-		Gammaproteobacterium HTCC2148	Metallo-beta-lactamase family protein
+omz_770m_264_0	707	20	727	omz_770m_264	839	+		all	hypothetical protein
+omz_770m_263_0	926	30	956	omz_770m_263	956	-	1.3.1.74	Chloroflexi	RNA modification enzyme, MiaB family (EC:1.3.1.74) K06168 bifunctional enzyme involved thiolation methylation tRNA
+omz_770m_262_0	275	1	276	omz_770m_262	916	+		all	hypothetical protein
+omz_770m_262_1	641	273	914	omz_770m_262	916	+		all	hypothetical protein
+omz_770m_261_0	218	2	220	omz_770m_261	306	-		all	hypothetical protein
+omz_770m_261_1	89	217	306	omz_770m_261	306	-		all	hypothetical protein
+omz_770m_260_0	884	3	887	omz_770m_260	948	-		Proteobacteria	FIG00884428:
+omz_770m_8525_0	842	55	897	omz_770m_8525	917	+		Hyphomicrobiales	K09121 protein
+omz_770m_8525_1	68	848	916	omz_770m_8525	917	+		all	hypothetical protein
+omz_770m_8524_0	923	1	924	omz_770m_8524	924	+	1.1.1.95	Bacteria	D-isomer specific 2-hydroxyacid dehydrogenase NAD-binding protein K00058 D-3-phosphoglycerate
+omz_770m_4475_0	527	1	528	omz_770m_4475	916	+	5.1.3.20	Gammaproteobacteria	NAD-dependent epimerase/dehydratase (EC:5.1.3.20) K03274 ADP-L-glycero-D-manno-heptose 6-epimerase
+omz_770m_4475_1	380	518	898	omz_770m_4475	916	+		all	hypothetical protein
+omz_770m_4474_0	923	1	924	omz_770m_4474	974	+		Chthoniobacter flavus Ellin428	pyrrolo-quinoline quinone repeat-containing protein
+omz_770m_4477_0	950	2	952	omz_770m_4477	954	-		Chthoniobacter flavus Ellin514	Secreted enzyme, contains two amidohydrolase related domains
+omz_770m_4476_0	356	3	359	omz_770m_4476	992	-		all	hypothetical protein
+omz_770m_4476_1	104	687	791	omz_770m_4476	992	-		all	hypothetical protein
+omz_770m_4476_2	98	791	889	omz_770m_4476	992	-		all	hypothetical protein
+omz_770m_4471_0	617	85	702	omz_770m_4471	924	+		Bacteria	mucin-desulfating sulfatase
+omz_770m_4470_0	407	2	409	omz_770m_4470	966	-	6.6.1.2	"Alphabacteria" Cavalier-Smith 1992	cobS cobalamin biosynthesis protein CobS (EC:6.6.1.2) K09882 cobaltochelatase
+omz_770m_4470_1	317	522	839	omz_770m_4470	966	+	2.3.1.30	Gammaproteobacteria	cysE serine acetyltransferase (EC:2.3.1.30) K00640 O-acetyltransferase
+omz_770m_4473_0	293	268	561	omz_770m_4473	977	+		SAR324 cluster bacterium SCGC AAA001-C10	
+omz_770m_4472_0	623	3	626	omz_770m_4472	990	+		Alteromonadaceae	Outer membrane protein assembly factor YaeT precursor
+omz_770m_4472_1	269	699	968	omz_770m_4472	990	+		all	hypothetical protein
+omz_770m_4479_0	758	3	761	omz_770m_4479	1003	+		all	peptidase M23B
+omz_770m_4478_0	458	3	461	omz_770m_4478	845	+		all	hypothetical protein
+omz_770m_2619_0	824	36	860	omz_770m_2619	888	+	6.3.2.8	Bacteria	murC UDP-N-acetylmuramate--L-alanine ligase K01924 UDP-N-acetylmuramate--alanine ligase
+omz_770m_2618_0	275	1	276	omz_770m_2618	946	-		all	hypothetical protein
+omz_770m_2618_1	419	276	695	omz_770m_2618	946	-		all	hypothetical protein
+omz_770m_2618_2	203	742	945	omz_770m_2618	946	+		all	hypothetical protein
+omz_770m_2613_0	458	301	759	omz_770m_2613	873	+		all	hypothetical protein
+omz_770m_2612_0	386	19	405	omz_770m_2612	971	-		Bacteria	putative substrate binding component ABC transporter K02051 sulfonate/nitrate/taurine transport system substrate-binding protein
+omz_770m_2612_1	101	869	970	omz_770m_2612	971	+		all	hypothetical protein
+omz_770m_2611_0	74	758	832	omz_770m_2611	833	+		all	hypothetical protein
+omz_770m_2610_0	395	61	456	omz_770m_2610	898	-		Candidatus Nitrosopumilus maritimus SCM1	4-methyl-5-(beta-hydroxyethyl)thiazole monophosphate synthesis protein
+omz_770m_2610_1	431	458	889	omz_770m_2610	898	-	4.2.3.1	Cyanobacteria	L-threonine synthase (EC:4.2.3.1) K01733 threonine
+omz_770m_2617_0	707	73	780	omz_770m_2617	893	+		Candidatus Pelagibacter sp. IMCC9063	hflK integral membrane proteinase (EC:3.4.-.-) K04088 protease subunit HflK
+omz_770m_2617_1	89	803	892	omz_770m_2617	893	+		all	hypothetical protein
+omz_770m_2616_0	347	128	475	omz_770m_2616	866	+		Verrucomicrobia bacterium SCGC AAA164-O14	transcription factor K03626 nascent polypeptide-associated complex subunit alpha
+omz_770m_2616_1	161	505	666	omz_770m_2616	866	+		all	hypothetical protein
+omz_770m_2615_0	665	1	666	omz_770m_2615	861	+	5.99.1.2	Gammaproteobacteria	DNA topoisomerase I (EC:5.99.1.2) K03168
+omz_770m_2614_0	143	2	145	omz_770m_2614	925	+		all	hypothetical protein
+omz_770m_2614_1	296	441	737	omz_770m_2614	925	+		all	hypothetical protein
+omz_770m_8754_0	137	1	138	omz_770m_8754	916	+		all	hypothetical protein
+omz_770m_8754_1	788	128	916	omz_770m_8754	916	+		Proteobacteria	recombination factor protein RarA K07478 putative ATPase
+omz_770m_8755_0	785	1	786	omz_770m_8755	922	+		all	hypothetical protein
+omz_770m_8755_1	167	755	922	omz_770m_8755	922	+		all	hypothetical protein
+omz_770m_8756_0	689	1	690	omz_770m_8756	922	+		all	hypothetical protein
+omz_770m_8757_0	602	1	603	omz_770m_8757	935	+		all	hypothetical protein
+omz_770m_8757_1	188	609	797	omz_770m_8757	935	-	1.17.1.4	ATCC 9930	dehydrogenase K00087 xanthine dehydrogenase molybdenum-binding subunit
+omz_770m_8750_0	374	311	685	omz_770m_8750	951	-	1.5.1.15	biota	GI10194 gene product from transcript GI10194-RA K13403 methylenetetrahydrofolate dehydrogenase(NAD+) / 5,10-methenyltetrahydrofolate cyclohydrolase
+omz_770m_8751_0	758	206	964	omz_770m_8751	965	+		all	hypothetical protein
+omz_770m_8752_0	695	1	696	omz_770m_8752	964	-		"Euryarchaeota" Woese et al. 1990	rph exosome complex exonuclease Rrp41 K11600 component RRP41
+omz_770m_8753_0	911	3	914	omz_770m_8753	915	+	1.2.1.2	'Bradyrhizobiaceae'	fdhA formate dehydrogenase, alpha subunit (EC:1.2.1.2) K00123
+omz_770m_8758_0	917	1	918	omz_770m_8758	985	+		all	hypothetical protein
+omz_770m_8759_0	254	10	264	omz_770m_8759	961	-		all	NADH-quinone oxidoreductase, subunit L
+omz_770m_8759_1	314	275	589	omz_770m_8759	961	-	1.6.5.3	Leptospirillum ferriphilum ML-04	NADH-ubiquinone oxidoreductase, chain 4L K00340 NADH dehydrogenase I subunit K
+omz_770m_8759_2	368	592	960	omz_770m_8759	961	-		all	NADH-quinone oxidoreductase, subunit J
+omz_770m_10378_0	245	253	498	omz_770m_10378	922	+		"Chlorobacterium" Guillebeau 1890, nom. rejic. Opin. 6 (not "Chlorobacterium" Lauterborn 1916)	K09948 protein
+omz_770m_10378_1	287	539	826	omz_770m_10378	922	+		'Rhodobacteraceae'	Aldo-keto reductase
+omz_770m_10378_2	98	823	921	omz_770m_10378	922	+		all	hypothetical protein
+omz_770m_10379_0	665	171	836	omz_770m_10379	1063	+	2.1.3.3	Candidatus Nitrosopumilus maritimus SCM1	ornithine carbamoyltransferase (EC:2.1.3.3) K00611
+omz_770m_10376_0	194	730	924	omz_770m_10376	1132	-		all	hypothetical protein
+omz_770m_10376_1	110	937	1047	omz_770m_10376	1132	-		all	hypothetical protein
+omz_770m_10377_0	146	276	422	omz_770m_10377	1093	+		all	hypothetical protein
+omz_770m_10374_0	104	1206	1310	omz_770m_10374	1589	-		all	hypothetical protein
+omz_770m_10374_1	167	1422	1589	omz_770m_10374	1589	-		all	hypothetical protein
+omz_770m_10375_0	425	394	819	omz_770m_10375	1022	+		all	hypothetical protein
+omz_770m_10375_1	125	896	1021	omz_770m_10375	1022	-		all	hypothetical protein
+omz_770m_10372_0	674	239	913	omz_770m_10372	1032	+		all	hypothetical protein
+omz_770m_10373_0	125	2	127	omz_770m_10373	1103	-		all	hypothetical protein
+omz_770m_10370_0	812	73	885	omz_770m_10370	956	-	2.7.13.3	SAR86 cluster bacterium SAR86A	Phosphate regulon sensor protein PhoR (SphS) (EC 2.7.13.3)
+omz_770m_10371_0	743	12	755	omz_770m_10371	928	-		SAR324 cluster bacterium SCGC AAA001-C10	
+omz_770m_6622_0	128	15	143	omz_770m_6622	929	+		all	hypothetical protein
+omz_770m_6622_1	581	204	785	omz_770m_6622	929	-		Prochlorococcus marinus str. NATL1A	SPFH domain-containing protein/band 7 family protein
+omz_770m_6622_2	188	739	927	omz_770m_6622	929	-		all	hypothetical protein
+omz_770m_6623_0	128	18	146	omz_770m_6623	858	+		all	hypothetical protein
+omz_770m_6623_1	425	431	856	omz_770m_6623	858	-		all	hypothetical protein
+omz_770m_6620_0	110	3	113	omz_770m_6620	971	-		all	hypothetical protein
+omz_770m_6621_0	290	72	362	omz_770m_6621	883	+		Gammaproteobacteria	deoxycytidine triphosphate deaminase K09948
+omz_770m_6621_1	182	378	560	omz_770m_6621	883	+		all	hypothetical protein
+omz_770m_6626_0	356	2	358	omz_770m_6626	924	+	6.1.1.17	Candidatus Nitrosopumilus maritimus SCM1	glutamyl-tRNA synthetase (EC:6.1.1.17) K01885
+omz_770m_6626_1	368	355	723	omz_770m_6626	924	+		all	
+omz_770m_6627_0	554	1	555	omz_770m_6627	949	+		Bacteria	abc transporter  K05662 ATP-binding cassette, subfamily B (MDR/TAP), member 7
+omz_770m_6624_0	347	181	528	omz_770m_6624	904	-		Rhodospirillaceae	2Fe-2S ferredoxin
+omz_770m_6625_0	251	3	254	omz_770m_6625	915	+		all	hypothetical protein
+omz_770m_6625_1	242	258	500	omz_770m_6625	915	+		all	hypothetical protein
+omz_770m_6628_0	929	3	932	omz_770m_6628	934	-		gamma proteobacterium HIMB55	Rieske  domain
+omz_770m_6629_0	485	2	487	omz_770m_6629	930	-	1.1.1.95	"Planctomycetaceae" Schlesner and Stackebrandt 1987 emend. Ward 2011	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+omz_770m_6629_1	413	517	930	omz_770m_6629	930	-		all	hypothetical protein
+omz_770m_3908_0	635	2	637	omz_770m_3908	1041	-		all	hypothetical protein
+omz_770m_3908_1	176	771	947	omz_770m_3908	1041	+		all	hypothetical protein
+omz_770m_3909_0	734	2	736	omz_770m_3909	998	-	1.8.1.4	"Alphabacteria" Cavalier-Smith 1992	lpd dihydrolipoyl dehydrogenase (EC:1.8.1.4) K00382 dihydrolipoamide
+omz_770m_3900_0	194	1	195	omz_770m_3900	1009	+		all	hypothetical protein
+omz_770m_3900_1	680	192	872	omz_770m_3900	1009	+	3.5.4.25	Bacteria	ATGCH 3,4-dihydroxy-2-butanone-4-phosphate synthase/ GTP cyclohydrolase II (EC:3.5.4.25) K14652 3,4-dihydroxy 2-butanone 4-phosphate synthase /
+omz_770m_3901_0	668	1	669	omz_770m_3901	1020	-		Rhodospirillum rubrum F11	RmuC domain-containing protein K09760 DNA recombination protein
+omz_770m_3902_0	641	67	708	omz_770m_3902	1018	-		all	hypothetical protein
+omz_770m_3903_0	140	1	141	omz_770m_3903	918	-		all	hypothetical protein
+omz_770m_3903_1	464	138	602	omz_770m_3903	918	-	1.3.3.1	Chloropseudomonas ethylica	Dihydroorotate dehydrogenase electron transfer subunit (EC 1.3.3.1)
+omz_770m_3904_0	602	118	720	omz_770m_3904	974	+	3.1.1.23	Proteobacteria	lysophospholipase (EC:3.1.1.23) K01054 acylglycerol lipase
+omz_770m_3904_1	146	693	839	omz_770m_3904	974	+		all	hypothetical protein
+omz_770m_3905_0	224	1	225	omz_770m_3905	870	-		all	hypothetical protein
+omz_770m_3906_0	263	82	345	omz_770m_3906	1029	-		all	hypothetical protein
+omz_770m_3907_0	329	507	836	omz_770m_3907	1244	+		all	hypothetical protein
+omz_770m_3907_1	110	977	1087	omz_770m_3907	1244	+		all	hypothetical protein
+omz_770m_6367_0	800	1	801	omz_770m_6367	801	+		all	hypothetical protein
+omz_770m_6366_0	602	1	603	omz_770m_6366	885	+		Planctomyces maris DSM 8797	peptidase S9 prolyl oligopeptidase active site domain protein
+omz_770m_6366_1	257	627	884	omz_770m_6366	885	-		all	hypothetical protein
+omz_770m_6365_0	191	1	192	omz_770m_6365	856	-		all	hypothetical protein
+omz_770m_6365_1	536	319	855	omz_770m_6365	856	+		all	hypothetical protein
+omz_770m_6364_0	719	21	740	omz_770m_6364	818	-		all	
+omz_770m_6363_0	206	32	238	omz_770m_6363	877	+	1.4.1.13	Candidatus Pelagibacter ubique HTCC1002	glutamate synthase large subunit-like protein (EC:1.4.1.13)
+omz_770m_6363_1	401	248	649	omz_770m_6363	877	+		"Candidatus Pelagibacter" Rappe et al. 2002	FIG00909589:
+omz_770m_6363_2	71	806	877	omz_770m_6363	877	+		all	hypothetical protein
+omz_770m_6362_0	566	2	568	omz_770m_6362	950	+	3.5.4.25	Salinisphaera shabanensis E1L3A	GTP cyclohydrolase (EC:3.5.4.25) K01497 II
+omz_770m_6361_0	464	1	465	omz_770m_6361	914	+		Gammaproteobacteria	phosphate transporter K03306 inorganic transporter, PiT family
+omz_770m_6360_0	578	3	581	omz_770m_6360	815	-	2.6.1.42	Bacteria	branched-chain amino acid aminotransferase (EC:2.6.1.- 2.6.1.42) K00826
+omz_770m_2059_0	119	812	931	omz_770m_2059	933	-		all	hypothetical protein
+omz_770m_2058_0	470	1	471	omz_770m_2058	875	-		Gammaproteobacteria	flgG flagellar basal body rod protein FlgG K02392 basal-body FlgG
+omz_770m_2058_1	236	561	797	omz_770m_2058	875	-		Deleya	flgF flagellar basal body rod protein FlgF K02391 basal-body FlgF
+omz_770m_2055_0	446	83	529	omz_770m_2055	942	+		Marinobacter manganoxydans MnI7-9	transposase IS3/IS911 family protein
+omz_770m_2055_1	386	556	942	omz_770m_2055	942	+		Cupriavidus necator N-1	K07497 putative transposase
+omz_770m_2054_0	530	3	533	omz_770m_2054	894	-		ATCC 43812	major facilitator superfamily
+omz_770m_2057_0	311	3	314	omz_770m_2057	932	+		all	hypothetical protein
+omz_770m_2057_1	320	444	764	omz_770m_2057	932	+		all	hypothetical protein
+omz_770m_2057_2	182	748	930	omz_770m_2057	932	+		all	hypothetical protein
+omz_770m_2056_0	413	503	916	omz_770m_2056	917	+		all	hypothetical protein
+omz_770m_2051_0	320	169	489	omz_770m_2051	948	+		all	hypothetical protein
+omz_770m_2051_1	356	493	849	omz_770m_2051	948	+		all	hypothetical protein
+omz_770m_2050_0	770	2	772	omz_770m_2050	942	-	2.7.7.7	"Alphabacteria" Cavalier-Smith 1992	dnaX DNA polymerase III subunits gamma tau (EC:2.7.7.7) K02343 subunit gamma/tau
+omz_770m_2050_1	137	804	941	omz_770m_2050	942	+		all	hypothetical protein
+omz_770m_2053_0	731	156	887	omz_770m_2053	887	+	2.4.1.57	"Dicrospirillum rubrum" Enderlein 1925	glycosyl transferase, group 1 (EC:2.4.1.57)
+omz_770m_2052_0	611	1	612	omz_770m_2052	736	+		all	hypothetical protein
+omz_770m_2052_1	74	662	736	omz_770m_2052	736	+		all	hypothetical protein
+omz_770m_6369_0	836	3	839	omz_770m_6369	840	+		alpha proteobacterium HIMB5	aminomethyl transferase family protein
+omz_770m_6368_0	479	1	480	omz_770m_6368	482	+		all	hypothetical protein
+omz_770m_4905_0	68	2	70	omz_770m_4905	988	+		all	hypothetical protein
+omz_770m_4905_1	305	133	438	omz_770m_4905	988	-		all	
+omz_770m_4904_0	437	91	528	omz_770m_4904	1009	-		all	hypothetical protein
+omz_770m_4904_1	215	648	863	omz_770m_4904	1009	+		all	hypothetical protein
+omz_770m_4907_0	218	3	221	omz_770m_4907	980	+		all	hypothetical protein
+omz_770m_4907_1	278	229	507	omz_770m_4907	980	+		all	hypothetical protein
+omz_770m_4907_2	380	598	978	omz_770m_4907	980	+	1.14.11.17	Reyranella massiliensis 521	taurine dioxygenase (EC:1.14.11.17) K03119
+omz_770m_4906_0	296	390	686	omz_770m_4906	1040	-		all	
+omz_770m_4901_0	656	1	657	omz_770m_4901	988	-		all	hypothetical protein
+omz_770m_4901_1	170	705	875	omz_770m_4901	988	-		all	hypothetical protein
+omz_770m_4900_0	800	3	803	omz_770m_4900	958	+		Zavarzinella formosa DSM 19928	
+omz_770m_4903_0	386	15	401	omz_770m_4903	916	+		Brachyspira	dnaK chaperone protein DnaK K04043 molecular DnaK
+omz_770m_4903_1	458	434	892	omz_770m_4903	916	+		all	hypothetical protein
+omz_770m_4902_0	224	1	225	omz_770m_4902	933	-		all	hypothetical protein
+omz_770m_4902_1	446	225	671	omz_770m_4902	933	-	3.6.3.31	Rhizobium/Agrobacterium group	Nickel-transporting ATPase. Polyamine-transporting ATPase (EC:3.6.3.31 3.6.3.24)
+omz_770m_4909_0	113	1	114	omz_770m_4909	872	-		all	hypothetical protein
+omz_770m_4909_1	548	322	870	omz_770m_4909	872	+		all	hypothetical protein
+omz_770m_4908_0	767	2	769	omz_770m_4908	770	-		all	hypothetical protein
+omz_770m_2428_0	683	15	698	omz_770m_2428	954	-		all	hypothetical protein
+omz_770m_2429_0	497	2	499	omz_770m_2429	967	+		all	hypothetical protein
+omz_770m_2429_1	443	503	946	omz_770m_2429	967	+		Bacteria	yrvI D-tyrosyl-tRNA(Tyr) deacylase K07560 deacylase
+omz_770m_2424_0	176	3	179	omz_770m_2424	904	-		all	hypothetical protein
+omz_770m_2424_1	293	127	420	omz_770m_2424	904	-		all	hypothetical protein
+omz_770m_2424_2	386	517	903	omz_770m_2424	904	-		all	hypothetical protein
+omz_770m_2425_0	161	2	163	omz_770m_2425	880	-		all	hypothetical protein
+omz_770m_2425_1	647	163	810	omz_770m_2425	880	-	1.2.1.27	"Alphabacteria" Cavalier-Smith 1992	similar to CG17896-PB, isoform B K00140 methylmalonate-semialdehyde dehydrogenase
+omz_770m_2426_0	599	259	858	omz_770m_2426	860	-	3.1.3.26	Candidatus Puniceispirillum marinum IMCC1322	twin-arginine translocation pathway signal (EC:3.1.3.26) K02035 peptide/nickel transport system substrate-binding protein
+omz_770m_7107_0	740	1	741	omz_770m_7107	874	-		all	hypothetical protein
+omz_770m_7107_1	131	741	872	omz_770m_7107	874	-		all	hypothetical protein
+omz_770m_2420_0	920	3	923	omz_770m_2420	923	+		all	hypothetical protein
+omz_770m_2421_0	149	2	151	omz_770m_2421	982	-		all	hypothetical protein
+omz_770m_2421_1	332	314	646	omz_770m_2421	982	+		all	hypothetical protein
+omz_770m_2421_2	368	508	876	omz_770m_2421	982	-	1.2.4.1	"Alphabacteria" Cavalier-Smith 1992	pyruvate dehydrogenase E1 component beta subunit, mitochondrial precursor (ISS) K00162 subunit
+omz_770m_2422_0	836	125	961	omz_770m_2422	965	-		all	potassium efflux transporter K03455 monovalent cation:H+ antiporter-2, CPA2 family
+omz_770m_2423_0	659	203	862	omz_770m_2423	981	-		Candidatus Pelagibacter sp. IMCC9063	tricarboxylate transport protein TctC
+omz_770m_11168_0	230	200	430	omz_770m_11168	1153	-		all	hypothetical protein
+omz_770m_11169_0	80	3	83	omz_770m_11169	591	+		all	hypothetical protein
+omz_770m_11169_1	518	72	590	omz_770m_11169	591	-		all	hypothetical protein
+omz_770m_11164_0	518	65	583	omz_770m_11164	1030	-	2.3.1.15	"Alphabacteria" Cavalier-Smith 1992	acyl-phosphate glycerol-3-phosphate acyltransferase K08591 acyltransferase PlsY
+omz_770m_11165_0	125	216	341	omz_770m_11165	930	-		all	hypothetical protein
+omz_770m_11165_1	140	524	664	omz_770m_11165	930	-		all	hypothetical protein
+omz_770m_11166_0	239	16	255	omz_770m_11166	1042	-	6.3.5.2	"Alphabacteria" Cavalier-Smith 1992	guaA GMP synthase K01951 synthase (glutamine-hydrolysing)
+omz_770m_11166_1	242	358	600	omz_770m_11166	1042	-	6.3.5.2	"Alphabacteria" Cavalier-Smith 1992	GMP synthase, putative (EC:6.3.5.2 6.3.1.5) K01951 synthase (glutamine-hydrolysing)
+omz_770m_11167_0	335	3	338	omz_770m_11167	1001	+		all	hypothetical protein
+omz_770m_11167_1	173	519	692	omz_770m_11167	1001	-		all	hypothetical protein
+omz_770m_11167_2	311	689	1000	omz_770m_11167	1001	-		all	hypothetical protein
+omz_770m_11160_0	641	80	721	omz_770m_11160	970	-		Chloroflexi	VWA containing CoxE family protein K07161
+omz_770m_11161_0	872	2	874	omz_770m_11161	876	-		Cyanobacteria	CLPC1 ATP binding / ATP-dependent peptidase/ ATPase K03696 Clp protease ATP-binding subunit ClpC
+omz_770m_11162_0	422	540	962	omz_770m_11162	962	+		all	hypothetical protein
+omz_770m_11163_0	641	3	644	omz_770m_11163	1043	-	3.5.1.14	Bacteria	amidohydrolase (EC:3.5.1.14) K01436
+omz_770m_388_0	743	1	744	omz_770m_388	1017	+	5.99.1.3	Gammaproteobacteria	DNA topoisomerase IV subunit beta (EC:5.99.1.3) K02622 B
+omz_770m_388_1	170	786	956	omz_770m_388	1017	+		all	hypothetical protein
+omz_770m_389_0	779	1	780	omz_770m_389	977	+	6.3.1.11	Proteobacteria	glutamate--putrescine ligase (EC:6.3.1.11) K01915 glutamine synthetase
+omz_770m_389_1	125	834	959	omz_770m_389	977	+		all	hypothetical protein
+omz_770m_10147_0	431	1	432	omz_770m_10147	919	-		Synechococcus sp. CC9605	recN putative DNA repair protein K03631 protein RecN (Recombination N)
+omz_770m_10147_1	398	521	919	omz_770m_10147	919	+		Chroococcales	protein kinase
+omz_770m_10146_0	899	53	952	omz_770m_10146	953	+		Proteobacteria	Tat pathway signal sequence domain-containing protein 22
+omz_770m_10141_0	728	156	884	omz_770m_10141	908	+	4.1.1.23	delta proteobacterium NaphS2	orotidine 5'-phosphate decarboxylase (EC:4.1.1.23) K01591 orotidine-5'-phosphate
+omz_770m_10416_0	563	173	736	omz_770m_10416	990	+		all	hypothetical protein
+omz_770m_10143_0	92	2	94	omz_770m_10143	871	+		all	hypothetical protein
+omz_770m_10143_1	518	108	626	omz_770m_10143	871	-	2.6.1.1	Proteobacteria	aminotransferase, class I II K00812 aspartate aminotransferase
+omz_770m_10142_0	662	230	892	omz_770m_10142	894	-	3.4.17.19	Chroococcales	thermostable carboxypeptidase 1 (EC:3.4.17.19) K01299 Taq
+omz_770m_8101_0	539	2	541	omz_770m_8101	918	-		all	
+omz_770m_8101_1	326	591	917	omz_770m_8101	918	+		all	hypothetical protein
+omz_770m_8100_0	293	1	294	omz_770m_8100	900	+		Caldithrix abyssi DSM 13497	
+omz_770m_8100_1	452	301	753	omz_770m_8100	900	+		all	hypothetical protein
+omz_770m_8100_2	200	699	899	omz_770m_8100	900	+		all	hypothetical protein
+omz_770m_8103_0	611	2	613	omz_770m_8103	905	-		all	hypothetical protein
+omz_770m_8102_0	905	2	907	omz_770m_8102	909	-		all	hypothetical protein
+omz_770m_384_0	128	1	129	omz_770m_384	997	+		all	hypothetical protein
+omz_770m_384_1	473	67	540	omz_770m_384	997	-		all	hypothetical protein
+omz_770m_384_2	296	551	847	omz_770m_384	997	-		all	hypothetical protein
+omz_770m_384_3	152	844	996	omz_770m_384	997	-		all	hypothetical protein
+omz_770m_385_0	596	76	672	omz_770m_385	957	-		Citromicrobium sp. JLT1363	oxidoreductase, short chain dehydrogenase/reductase family protein
+omz_770m_386_0	821	59	880	omz_770m_386	1033	+		Magnetospirillum magneticum AMB-1	Fe-S oxidoreductase
+omz_770m_387_0	116	3	119	omz_770m_387	861	-		all	hypothetical protein
+omz_770m_387_1	572	176	748	omz_770m_387	861	-		all	hypothetical protein
+omz_770m_1357_0	623	88	711	omz_770m_1357	1091	+		BCF group	transcriptional regulator (MoxR) K03924 MoxR-like ATPase
+omz_770m_1356_0	818	123	941	omz_770m_1356	1120	-		all	hypothetical protein
+omz_770m_1355_0	536	2	538	omz_770m_1355	1082	+	2.6.1.16	Bacteria	family C44 unassigned peptidase (C44 family)  K00820 glucosamine--fructose-6-phosphate aminotransferase (isomerizing)
+omz_770m_1426_0	776	3	779	omz_770m_1426	1002	+		BCF group	
+omz_770m_1426_1	152	849	1001	omz_770m_1426	1002	-		all	hypothetical protein
+omz_770m_1353_0	206	2	208	omz_770m_1353	723	-	1.2.99.2	"Alphabacteria" Cavalier-Smith 1992	2Fe-2S iron-sulfur cluster binding domain-containing protein K03518 carbon-monoxide dehydrogenase small subunit
+omz_770m_1353_1	518	205	723	omz_770m_1353	723	-		"Alphabacteria" Cavalier-Smith 1992	xanthine dehydrogenase family protein, medium subunit
+omz_770m_1352_0	245	9	254	omz_770m_1352	1203	-		Bacteria	sbcC DNA repair ATPase K03546 exonuclease SbcC
+omz_770m_1352_1	221	635	856	omz_770m_1352	1203	-		all	hypothetical protein
+omz_770m_1352_2	191	853	1044	omz_770m_1352	1203	-		all	hypothetical protein
+omz_770m_1351_0	158	3	161	omz_770m_1351	1058	+		all	hypothetical protein
+omz_770m_1351_1	734	220	954	omz_770m_1351	1058	+		all	hypothetical protein
+omz_770m_1350_0	410	3	413	omz_770m_1350	964	+	1.1.1.95	SAR324 cluster bacterium JCVI-SC AAA005	D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)
+omz_770m_1350_1	242	648	890	omz_770m_1350	964	+	5.99.1.3	SAR324 cluster bacterium JCVI-SC AAA005	DNA topoisomerase (ATP-hydrolyzing) (EC:5.99.1.3) K02621 IV subunit A
+omz_770m_7816_0	347	8	355	omz_770m_7816	986	-		all	
+omz_770m_7816_1	221	342	563	omz_770m_7816	986	-		all	hypothetical protein
+omz_770m_7817_0	143	88	231	omz_770m_7817	1080	-		all	hypothetical protein
+omz_770m_7814_0	713	3	716	omz_770m_7814	907	-		all	hypothetical protein
+omz_770m_7814_1	176	730	906	omz_770m_7814	907	-		all	hypothetical protein
+omz_770m_7815_0	839	1	840	omz_770m_7815	920	-	1.2.1.24	Proteobacteria	ALDH5F1 3-chloroallyl aldehyde dehydrogenase/ NAD or NADH binding / succinate-semialdehyde dehydrogenase (EC:1.2.1.24) K00135 (NADP+)
+omz_770m_1429_0	605	49	654	omz_770m_1429	1031	+		all	hypothetical protein
+omz_770m_1429_1	314	717	1031	omz_770m_1429	1031	-		all	hypothetical protein
+omz_770m_1428_0	440	2	442	omz_770m_1428	906	+	1.14.13.22	Bradyrhizobium elkanii 587	Cyclohexanone monooxygenase (EC 1.14.13.22)
+omz_770m_1428_1	239	667	906	omz_770m_1428	906	+		all	hypothetical protein
+omz_770m_1359_0	503	29	532	omz_770m_1359	1004	-		Bacillus brevis group	moaB molybdenum cofactor biosynthesis protein B K03638 B
+omz_770m_1358_0	248	3	251	omz_770m_1358	1060	-		Singulisphaera acidiphila ATCC BAA-1392	COG5267: Uncharacterized protein conserved bacteria
+omz_770m_1358_1	101	346	447	omz_770m_1358	1060	-		all	hypothetical protein
+omz_770m_3485_0	176	15	191	omz_770m_3485	951	-		all	hypothetical protein
+omz_770m_3485_1	647	228	875	omz_770m_3485	951	+	4.4.1.1	Bacteria	cystathionine beta-lyase K01758 gamma-lyase
+omz_770m_3484_0	395	3	398	omz_770m_3484	964	-		Hyphomicrobiales	probable electron transfer protein
+omz_770m_3484_1	122	842	964	omz_770m_3484	964	+		all	hypothetical protein
+omz_770m_3487_0	197	317	514	omz_770m_3487	1118	-		all	hypothetical protein
+omz_770m_3487_1	581	537	1118	omz_770m_3487	1118	-		all	hypothetical protein
+omz_770m_3486_0	233	192	425	omz_770m_3486	1068	-	6.4.1.2	Proteobacteria	carboxyl-tansferase, subunit Het-ACCase (EC:6.4.1.2) K01962 acetyl-CoA carboxylase carboxyl transferase alpha
+omz_770m_3486_1	599	429	1028	omz_770m_3486	1068	-		all	hypothetical protein
+omz_770m_3481_0	215	9	224	omz_770m_3481	888	-		all	hypothetical protein
+omz_770m_3481_1	407	221	628	omz_770m_3481	888	-		all	hypothetical protein
+omz_770m_3480_0	254	186	440	omz_770m_3480	993	+		all	hypothetical protein
+omz_770m_3480_1	329	663	992	omz_770m_3480	993	+		all	hypothetical protein
+omz_770m_3483_0	653	1	654	omz_770m_3483	933	-	5.4.99.12	Clostridium	truA, hisT tRNA pseudouridine synthase A (EC:5.4.99.12) K06173
+omz_770m_3482_0	521	239	760	omz_770m_3482	994	-		all	hypothetical protein
+omz_770m_3489_0	512	1	513	omz_770m_3489	967	+	2.2.1.6	Proteobacteria	acetolactate synthase, large subunit, biosynthetic type K01652 synthase I/II/III subunit
+omz_770m_3489_1	296	517	813	omz_770m_3489	967	+	2.2.1.6	Proteobacteria	ilvN acetolactate synthase, small subunit (EC:2.2.1.6) K01653 synthase I/III
+omz_770m_3488_0	422	383	805	omz_770m_3488	1036	+		all	hypothetical protein
+omz_770m_6306_0	683	2	685	omz_770m_6306	919	-		Dickeya	metal-dependent hydrolase K06896
+omz_770m_928_0	539	47	586	omz_770m_928	1009	+	2.2.1.1	"Bacillus difficilis" Hall and O'Toole 1935	transketolase, C-terminal subunit (EC:2.2.1.1) K00615 transketolase
+omz_770m_929_0	422	73	495	omz_770m_929	1015	+		all	hypothetical protein
+omz_770m_929_1	602	411	1013	omz_770m_929	1015	-		all	hypothetical protein
+omz_770m_924_0	485	1	486	omz_770m_924	1039	-		all	hypothetical protein
+omz_770m_924_1	188	470	658	omz_770m_924	1039	-		all	hypothetical protein
+omz_770m_925_0	782	1	783	omz_770m_925	1040	-	1.1.2.4	Proteobacteria	ldhd, wu:fi36b04, zgc:55447 lactate dehydrogenase D (EC:1.1.2.4) K00102 D-lactate (cytochrome)
+omz_770m_926_0	620	95	715	omz_770m_926	1098	+		SAR324 cluster	membrane protein (EC:2.1.1.-)
+omz_770m_926_1	440	657	1097	omz_770m_926	1098	+		all	hypothetical protein
+omz_770m_927_0	449	2	451	omz_770m_927	1037	-		all	hypothetical protein
+omz_770m_927_1	98	937	1035	omz_770m_927	1037	-		all	hypothetical protein
+omz_770m_920_0	242	95	337	omz_770m_920	975	+		Candidatus Nitrosopumilus maritimus SCM1	fused DNA topoisomerase I/SWI domain-containing protein
+omz_770m_920_1	299	390	689	omz_770m_920	975	+	6.1.1.15	"Bacillus difficilis" Hall and O'Toole 1935	similar to ATP binding / proline-tRNA ligase/ tRNA ligase K01881 prolyl-tRNA synthetase
+omz_770m_920_2	158	816	974	omz_770m_920	975	-		all	hypothetical protein
+omz_770m_921_0	320	209	529	omz_770m_921	948	-		all	
+omz_770m_922_0	815	12	827	omz_770m_922	1134	-		Candidatus Nitrosopumilus maritimus SCM1	glycosyl transferase family protein
+omz_770m_923_0	86	3	89	omz_770m_923	1067	+		all	hypothetical protein
+omz_770m_923_1	902	86	988	omz_770m_923	1067	+	5.4.2.1	Rhodospirillales	phosphoglyceromutase (EC:5.4.2.1) K01834 phosphoglycerate mutase
+omz_770m_6506_0	317	2	319	omz_770m_6506	879	-	1.6.99.3	Proteobacteria	DoxD family protein/pyridine nucleotide-disulfide oxidoreductase K03885 NADH dehydrogenase
+omz_770m_4288_0	671	3	674	omz_770m_4288	1017	-		Salinisphaera shabanensis E1L3A	similar to Clan MA, family M41, FtsH endopeptidase-like metallopeptidase
+omz_770m_4289_0	407	3	410	omz_770m_4289	1114	+		all	hypothetical protein
+omz_770m_4289_1	125	987	1112	omz_770m_4289	1114	-		all	hypothetical protein
+omz_770m_4286_0	239	393	632	omz_770m_4286	1249	-		all	hypothetical protein
+omz_770m_4286_1	104	614	718	omz_770m_4286	1249	-		all	hypothetical protein
+omz_770m_4286_2	338	709	1047	omz_770m_4286	1249	-		all	hypothetical protein
+omz_770m_4287_0	356	2	358	omz_770m_4287	1007	-		all	hypothetical protein
+omz_770m_4284_0	206	486	692	omz_770m_4284	1097	-		all	hypothetical protein
+omz_770m_4285_0	887	29	916	omz_770m_4285	926	+		Salinisphaera shabanensis E1L3A	signal transduction family protein (GGDEF domain protein)
+omz_770m_4282_0	380	1	381	omz_770m_4282	1030	+		all	hypothetical protein
+omz_770m_4283_0	968	26	994	omz_770m_4283	1003	-		Bacteria	RNA polymerase, sigma 70 subunit, RpoD subfamily K03086 polymerase primary factor
+omz_770m_4280_0	1013	32	1045	omz_770m_4280	1045	-		all	hypothetical protein
+omz_770m_4281_0	428	20	448	omz_770m_4281	1023	-		Candidatus Nitrosopumilus maritimus SCM1	Cdc46/Mcm DNA replication licensing factor ATPase K10726 replicative helicase Mcm
+omz_770m_4281_1	221	435	656	omz_770m_4281	1023	-		all	hypothetical protein
+omz_770m_4281_2	122	672	794	omz_770m_4281	1023	-		all	hypothetical protein
+omz_770m_4281_3	116	907	1023	omz_770m_4281	1023	-		all	hypothetical protein
+omz_770m_2994_0	308	38	346	omz_770m_2994	809	+		all	hypothetical protein
+omz_770m_2994_1	206	601	807	omz_770m_2994	809	+		all	hypothetical protein
+omz_770m_2995_0	782	110	892	omz_770m_2995	893	+	2.7.7.6	Melioribacter roseus P3M	DNA-directed RNA polymerase, beta subunit K03043 polymerase subunit
+omz_770m_2996_0	524	66	590	omz_770m_2996	830	+	2.2.1.1	"Sporovibrio" Starkey 1938	transketolase K00615 transketolase
+omz_770m_2996_1	281	547	828	omz_770m_2996	830	+		all	hypothetical protein
+omz_770m_2997_0	431	75	506	omz_770m_2997	748	+		all	hypothetical protein
+omz_770m_2990_0	818	34	852	omz_770m_2990	853	-	3.1.1.17	"Planctomycetaceae" Schlesner and Stackebrandt 1987 emend. Ward 2011	gluconolactonase (EC:3.1.1.17) K01053
+omz_770m_2991_0	80	1	81	omz_770m_2991	890	-		all	hypothetical protein
+omz_770m_2991_1	260	567	827	omz_770m_2991	890	-	1.5.3.1	'Burkholderiales'	soxB sarcosine oxidase subunit beta family (EC:1.5.3.1) K00303 oxidase,
+omz_770m_2992_0	230	35	265	omz_770m_2992	816	-		all	hypothetical protein
+omz_770m_2993_0	131	244	375	omz_770m_2993	887	+		all	hypothetical protein
+omz_770m_2993_1	122	674	796	omz_770m_2993	887	+		all	hypothetical protein
+omz_770m_2998_0	692	1	693	omz_770m_2998	819	-	2.7.7.6	Bacteria	rpoA DNA-directed RNA polymerase alpha subunit (EC:2.7.7.6) K03040
+omz_770m_2998_1	113	705	818	omz_770m_2998	819	-		all	hypothetical protein
+omz_770m_2999_0	461	3	464	omz_770m_2999	894	+	2.7.13.3	Rhizomonas	periplasmic sensor signal transduction histidine kinase K07636 two-component system, OmpR family, phosphate regulon kinase PhoR
+omz_770m_7748_0	680	9	689	omz_770m_7748	953	-		'Burkholderiales'	tldD PmbA/TldD family DNA gyrase modulator K03568 TldD protein
+omz_770m_7749_0	278	3	281	omz_770m_7749	1034	+		all	hypothetical protein
+omz_770m_7749_1	185	232	417	omz_770m_7749	1034	+		all	hypothetical protein
+omz_770m_7749_2	143	439	582	omz_770m_7749	1034	+		all	hypothetical protein
+omz_770m_5524_0	257	161	418	omz_770m_5524	874	+		all	
+omz_770m_5524_1	176	696	872	omz_770m_5524	874	-		all	hypothetical protein
+omz_770m_5525_0	173	362	535	omz_770m_5525	868	-		all	hypothetical protein
+omz_770m_5527_0	164	65	229	omz_770m_5527	621	-		all	hypothetical protein
+omz_770m_5520_0	416	2	418	omz_770m_5520	419	+		all	hypothetical protein
+omz_770m_5521_0	185	385	570	omz_770m_5521	913	+		all	hypothetical protein
+omz_770m_5521_1	74	837	911	omz_770m_5521	913	-		all	hypothetical protein
+omz_770m_5522_0	476	1	477	omz_770m_5522	907	-		all	hypothetical protein
+omz_770m_5522_1	182	725	907	omz_770m_5522	907	+		all	hypothetical protein
+omz_770m_5523_0	506	1	507	omz_770m_5523	836	-	3.6.4.13	Gammaproteobacteria	rhlB DEAD helicase family protein K03732 ATP-dependent RNA RhlB
+omz_770m_5528_0	686	1	687	omz_770m_5528	968	-	3.4.13.9	Bacteria	y4tM X-Pro dipeptidase (EC:3.4.13.9) K01271 Xaa-Pro
+omz_770m_5529_0	179	3	182	omz_770m_5529	905	+		all	hypothetical protein
+omz_770m_5529_1	215	210	425	omz_770m_5529	905	+		all	hypothetical protein
+omz_770m_5529_2	464	382	846	omz_770m_5529	905	-	1.17.1.2	CECT 5946	hydroxymethylbutenyl pyrophosphate reductase (EC:1.17.1.2) K03527 4-hydroxy-3-methylbut-2-enyl diphosphate
+omz_770m_4134_0	935	17	952	omz_770m_4134	988	+		all	hypothetical protein
+omz_770m_4135_0	809	3	812	omz_770m_4135	953	-		Opitutaceae	rpoN DNA-directed RNA polymerase specialized sigma subunit K03092 sigma-54 factor
+omz_770m_4136_0	746	3	749	omz_770m_4136	884	+		all	hypothetical protein
+omz_770m_4137_0	317	83	400	omz_770m_4137	934	+	1.6.1.2	"Alphabacteria" Cavalier-Smith 1992	AGAP003167-PA K00323 NAD(P) transhydrogenase
+omz_770m_4137_1	401	414	815	omz_770m_4137	934	+	1.6.1.2	"Alphabacteria" Cavalier-Smith 1992	NAD(P)(+) transhydrogenase (EC:1.6.1.2) K00325 NAD(P) subunit beta
+omz_770m_4130_0	308	2	310	omz_770m_4130	969	-	3.1.26.11	Agromonas	Ribonuclease Z (EC:3.1.26.11) K00784 ribonuclease
+omz_770m_4130_1	476	492	968	omz_770m_4130	969	-		all	
+omz_770m_4131_0	125	140	265	omz_770m_4131	1661	-		all	hypothetical protein
+omz_770m_4131_1	278	520	798	omz_770m_4131	1661	-		all	hypothetical protein
+omz_770m_4131_2	683	976	1659	omz_770m_4131	1661	+		all	hypothetical protein
+omz_770m_4132_0	866	22	888	omz_770m_4132	890	+		SAR324 cluster bacterium JCVI-SC AAA005	putative membrane protein
+omz_770m_4133_0	914	1	915	omz_770m_4133	951	+	3.1.6.8	Bacteria	cerebroside-sulfatase (EC:3.1.6.8)
+omz_770m_4133_1	80	869	949	omz_770m_4133	951	+		all	hypothetical protein
+omz_770m_4138_0	95	1	96	omz_770m_4138	895	+		all	hypothetical protein
+omz_770m_4138_1	602	126	728	omz_770m_4138	895	-	2.7.1.90	Chthoniobacter flavus Ellin514	Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)
+omz_770m_4139_0	392	3	395	omz_770m_4139	909	+		"Candidatus Pelagibacter" Rappe et al. 2002	rhtB LysE type translocator
+omz_770m_4139_1	419	488	907	omz_770m_4139	909	+	3.4.22.34	"Candidatus Pelagibacter ubique" Rappe et al. 2002	Leu/Ile/Val-binding protein (EC:3.4.22.34) K01999 branched-chain amino acid transport system substrate-binding
+omz_770m_2198_0	845	1	846	omz_770m_2198	924	+		Bacteria	UBA/THIF-type NAD/FAD binding, MoeZ/MoeB fmaily protein K11996 adenylyltransferase sulfurtransferase
+omz_770m_2199_0	185	74	259	omz_770m_2199	919	-		all	hypothetical protein
+omz_770m_2194_0	830	2	832	omz_770m_2194	902	+	3.4.21.53	"Euryarchaeota" Woese et al. 1990	peptidase S16, Lon-like protease (EC:3.4.21.53) K04076 ATP-dependent
+omz_770m_2195_0	179	23	202	omz_770m_2195	975	-		all	hypothetical protein
+omz_770m_2195_1	602	172	774	omz_770m_2195	975	-		all	, partial
+omz_770m_2196_0	254	481	735	omz_770m_2196	963	-		SAR324 cluster bacterium SCGC AAA001-C10	Cytochrome c4
+omz_770m_2196_1	230	732	962	omz_770m_2196	963	-		all	hypothetical protein
+omz_770m_2197_0	260	1	261	omz_770m_2197	941	-		Salinisphaera shabanensis E1L3A	emb1473 (embryo defective 1473) structural constituent ribosome K02871 large subunit ribosomal protein L13
+omz_770m_2197_1	470	366	836	omz_770m_2197	941	-		Salinisphaera shabanensis E1L3A	nitroreductase
+omz_770m_2190_0	875	3	878	omz_770m_2190	880	-		"Chlorobacterium" Guillebeau 1890, nom. rejic. Opin. 6 (not "Chlorobacterium" Lauterborn 1916)	alkK long-chain-fatty-acid--CoA ligase (EC:6.2.1.-) K00666 fatty-acyl-CoA synthase
+omz_770m_2191_0	536	59	595	omz_770m_2191	898	-		'Burkholderiales'	K09919 protein
+omz_770m_2191_1	125	773	898	omz_770m_2191	898	-		all	hypothetical protein
+omz_770m_2192_0	581	2	583	omz_770m_2192	928	+		all	hypothetical protein
+omz_770m_2192_1	347	580	927	omz_770m_2192	928	-		all	hypothetical protein
+omz_770m_2193_0	920	1	921	omz_770m_2193	923	-	2.7.7.7	Gammaproteobacteria	DNA polymerase III, subunits gamma tau (EC:2.7.7.7) K02343 III subunit gamma/tau
+omz_770m_5429_0	800	1	801	omz_770m_5429	926	+		all	hypothetical protein
+omz_770m_5428_0	539	51	590	omz_770m_5428	955	+	1.13.11.43	Bacteria	retinal pigment epithelial membrane protein, putative K00464 lignostilbene-alpha,beta-dioxygenase
+omz_770m_5421_0	362	1	363	omz_770m_5421	774	+		all	hypothetical protein
+omz_770m_5421_1	401	373	774	omz_770m_5421	774	-		all	hypothetical protein
+omz_770m_5420_0	83	790	873	omz_770m_5420	874	-		all	hypothetical protein
+omz_770m_5423_0	173	261	434	omz_770m_5423	1074	-		all	hypothetical protein
+omz_770m_5423_1	71	1001	1072	omz_770m_5423	1074	-		all	hypothetical protein
+omz_770m_5422_0	158	1	159	omz_770m_5422	1356	-		all	hypothetical protein
+omz_770m_5422_1	242	962	1204	omz_770m_5422	1356	-		all	hypothetical protein
+omz_770m_5425_0	524	1	525	omz_770m_5425	1172	+		all	hypothetical protein
+omz_770m_5425_1	95	1075	1170	omz_770m_5425	1172	-		all	hypothetical protein
+omz_770m_5427_0	446	8	454	omz_770m_5427	908	+		all	
+omz_770m_5427_1	101	806	907	omz_770m_5427	908	+		all	hypothetical protein
+omz_770m_5426_0	140	587	727	omz_770m_5426	1002	-		all	hypothetical protein
+omz_770m_5426_1	116	712	828	omz_770m_5426	1002	-		all	hypothetical protein
+omz_770m_6464_0	278	108	386	omz_770m_6464	1071	-		all	hypothetical protein
+omz_770m_6465_0	821	1	822	omz_770m_6465	900	-		Salinisphaera shabanensis E1L3A	Outer membrane vitamin B12 receptor BtuB
+omz_770m_6466_0	602	47	649	omz_770m_6466	932	-		all	hypothetical protein
+omz_770m_6467_0	95	1	96	omz_770m_6467	911	-		all	hypothetical protein
+omz_770m_6467_1	320	110	430	omz_770m_6467	911	-		all	membrane protein
+omz_770m_6467_2	347	399	746	omz_770m_6467	911	-		all	hypothetical protein
+omz_770m_6467_3	107	803	910	omz_770m_6467	911	-		all	hypothetical protein
+omz_770m_6460_0	734	135	869	omz_770m_6460	978	+		Bacteria	putative NAD binding oxidoreductase
+omz_770m_6461_0	314	1	315	omz_770m_6461	966	-		all	hypothetical protein
+omz_770m_6461_1	167	325	492	omz_770m_6461	966	-		all	hypothetical protein
+omz_770m_6461_2	182	783	965	omz_770m_6461	966	-		all	hypothetical protein
+omz_770m_6462_0	614	46	660	omz_770m_6462	937	-		Thermotogaceae	nhaC Na+/H+ antiporter NhaC
+omz_770m_6463_0	224	1	225	omz_770m_6463	888	+		all	putative sigma E regulatory protein, MucB/RseB
+omz_770m_6463_1	293	418	711	omz_770m_6463	888	+		Ancona	
+omz_770m_11429_0	671	38	709	omz_770m_11429	955	-		all	hypothetical protein
+omz_770m_11428_0	773	1	774	omz_770m_11428	939	+		Proteobacteria	SbmABacA family protein
+omz_770m_11421_0	296	17	313	omz_770m_11421	1059	-		all	hypothetical protein
+omz_770m_11421_1	422	310	732	omz_770m_11421	1059	-		all	hypothetical protein
+omz_770m_11420_0	404	2	406	omz_770m_11420	1012	-		all	hypothetical protein
+omz_770m_11420_1	215	434	649	omz_770m_11420	1012	-	6.2.1.1	"Alphabacteria" Cavalier-Smith 1992	Os02g0525900 K01895 acetyl-CoA synthetase
+omz_770m_11420_2	224	658	882	omz_770m_11420	1012	-		all	hypothetical protein
+omz_770m_11423_0	719	1	720	omz_770m_11423	989	-	2.1.1.14	"Oceaniovalibus guishaninsula" Liu et al. 2012	putative methionine synthase vitamin-B12 independent K00549 5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+omz_770m_11422_0	224	493	717	omz_770m_11422	1281	+		all	hypothetical protein
+omz_770m_11425_0	560	3	563	omz_770m_11425	856	+	3.4.21.83	Bacteria	ptrB2 protease II (EC:3.4.21.83) K01354 oligopeptidase B
+omz_770m_11424_0	230	282	512	omz_770m_11424	1045	+		all	hypothetical protein
+omz_770m_11427_0	914	2	916	omz_770m_11427	943	+		all	hypothetical protein
+omz_770m_11427_1	83	859	942	omz_770m_11427	943	+		all	hypothetical protein
+omz_770m_11426_0	560	2	562	omz_770m_11426	887	-		Bacteria	TRAP-type transport system permease large protein
+omz_770m_11426_1	170	564	734	omz_770m_11426	887	-		all	hypothetical protein
+omz_770m_3249_0	458	100	558	omz_770m_3249	962	-		all	hypothetical protein
+omz_770m_3249_1	254	707	961	omz_770m_3249	962	+		all	hypothetical protein
+omz_770m_3248_0	494	78	572	omz_770m_3248	869	+		all	hypothetical protein
+omz_770m_3248_1	128	740	868	omz_770m_3248	869	+		all	hypothetical protein
+omz_770m_3247_0	851	2	853	omz_770m_3247	855	-	1.2.1.11	Gammaproteobacteria	aspartate semialdehyde dehydrogenase (EC:1.2.1.11) K00133 aspartate-semialdehyde
+omz_770m_3246_0	935	1	936	omz_770m_3246	936	-		all	methyltransferase
+omz_770m_3245_0	902	2	904	omz_770m_3245	906	+	2.8.3.16	Rhodospirillum rubrum F11	L-carnitine dehydratase/bile acid-inducible protein F (EC:2.8.3.16) K14472 succinyl-CoA:(S)- malate CoA transferase subunit B
+omz_770m_3244_0	788	3	791	omz_770m_3244	893	+	4.2.1.52	Gammaproteobacteria	dapA dihydrodipicolinate synthase (EC:4.2.1.52) K01714
+omz_770m_3244_1	101	791	892	omz_770m_3244	893	+		all	hypothetical protein
+omz_770m_3243_0	773	2	775	omz_770m_3243	996	+		"Alphabacteria" Cavalier-Smith 1992	transposase ISMdi7, IS21 family (ORF 2)
+omz_770m_3243_1	170	824	994	omz_770m_3243	996	-		all	hypothetical protein
+omz_770m_3242_0	833	3	836	omz_770m_3242	837	+		Cyanobacteria	similar to molybdopterin synthase sulfurylase K11996 adenylyltransferase sulfurtransferase
+omz_770m_3241_0	410	1	411	omz_770m_3241	861	-	2.1.1.182	Flavobacteriaceae	ribosomal RNA small subunit methyltransferase A K02528 16S rRNA (adenine1518-N6/adenine1519-N6)-dimethyltransferase
+omz_770m_3241_1	413	411	824	omz_770m_3241	861	-		Bacteria	multidrug/pheromone exporter, MDR family, ABC transporter family
+omz_770m_3240_0	659	3	662	omz_770m_3240	882	+		all	hypothetical protein
+omz_770m_6198_0	221	107	328	omz_770m_6198	1020	+		all	hypothetical protein
+omz_770m_6198_1	362	424	786	omz_770m_6198	1020	+		all	hypothetical protein
+omz_770m_6198_2	200	820	1020	omz_770m_6198	1020	-		all	hypothetical protein
+omz_770m_6199_0	95	3	98	omz_770m_6199	985	-		all	hypothetical protein
+omz_770m_6199_1	203	118	321	omz_770m_6199	985	-		Blastopirellula marina DSM 3645	Probable lipase/esterase
+omz_770m_11391_0	434	10	444	omz_770m_11391	1018	-		Bacteria	-putative related to sulfatases
+omz_770m_11391_1	365	447	812	omz_770m_11391	1018	-		all	hypothetical protein
+omz_770m_11390_0	401	1	402	omz_770m_11390	980	+		all	
+omz_770m_11390_1	236	469	705	omz_770m_11390	980	+		all	hypothetical protein
+omz_770m_11390_2	272	708	980	omz_770m_11390	980	+		all	hypothetical protein
+omz_770m_11397_0	620	149	769	omz_770m_11397	924	+		all	hypothetical protein
+omz_770m_11396_0	896	60	956	omz_770m_11396	958	-		Actinomycetales	secY preprotein translocase subunit SecY K03076 SecY
+omz_770m_11395_0	938	3	941	omz_770m_11395	942	-		all	hypothetical protein
+omz_770m_11394_0	260	307	567	omz_770m_11394	1016	+		all	hypothetical protein
+omz_770m_6190_0	821	1	822	omz_770m_6190	964	+	6.2.1.1	Proteobacteria	AAE7 AAE7 (ACYL-ACTIVATING ENZYME 7) AMP binding / acetate-CoA ligase (EC:6.2.1.1)
+omz_770m_6190_1	140	823	963	omz_770m_6190	964	+		all	hypothetical protein
+omz_770m_6191_0	755	3	758	omz_770m_6191	759	-		Candidatus Pelagibacter sp. IMCC9063	similar to Clan MA, family M41, FtsH endopeptidase-like metallopeptidase
+omz_770m_11399_0	572	193	765	omz_770m_11399	1042	-		all	von Willebrand factor A
+omz_770m_11398_0	218	177	395	omz_770m_11398	938	-		all	hypothetical protein
+omz_770m_11398_1	170	435	605	omz_770m_11398	938	-		all	hypothetical protein
+omz_770m_6194_0	359	1	360	omz_770m_6194	756	+		Proteobacteria	K11940 heat shock protein HspQ
+omz_770m_6194_1	383	373	756	omz_770m_6194	756	+		alpha proteobacterium HIMB5	
+omz_770m_6195_0	749	3	752	omz_770m_6195	753	+		all	hypothetical protein
+omz_770m_6196_0	677	3	680	omz_770m_6196	856	+		Candidatus Nitrosopumilus maritimus SCM1	metal-dependent phosphoesterase K07053
+omz_770m_6196_1	260	573	833	omz_770m_6196	856	-		all	hypothetical protein
+omz_770m_6197_0	107	1	108	omz_770m_6197	1020	-		all	hypothetical protein
+omz_770m_6197_1	512	154	666	omz_770m_6197	1020	-		all	hypothetical protein
+omz_770m_3100_0	281	249	530	omz_770m_3100	914	+		all	hypothetical protein
+omz_770m_3100_1	335	533	868	omz_770m_3100	914	+		all	hypothetical protein
+omz_770m_3101_0	128	1	129	omz_770m_3101	871	-		all	hypothetical protein
+omz_770m_3101_1	386	129	515	omz_770m_3101	871	-		all	hypothetical protein
+omz_770m_3101_2	245	624	869	omz_770m_3101	871	-	2.7.7.7	"Deltabacteria" Cavalier-Smith 1992	DNA polymerase I (EC:2.7.7.7)
+omz_770m_3102_0	215	576	791	omz_770m_3102	793	-	2.7.7.56	Bacteria	rph ribonuclease PH (EC:2.7.7.56) K00989
+omz_770m_3103_0	503	1	504	omz_770m_3103	607	+		Bacteria	dipeptidyl aminopeptidase/acylaminoacyl peptidase
+omz_770m_3103_1	131	476	607	omz_770m_3103	607	+		all	hypothetical protein
+omz_770m_3104_0	800	2	802	omz_770m_3104	826	-		all	hypothetical protein
+omz_770m_3105_0	356	484	840	omz_770m_3105	842	+		all	hypothetical protein
+omz_770m_3106_0	452	79	531	omz_770m_3106	819	-	2.7.7.38	"Alphabacteria" Cavalier-Smith 1992	3-deoxy-D-manno-octulosonate cytidylyltransferase (EC:2.7.7.38) K00979 3-deoxy-manno-octulosonate (CMP-KDO synthetase)
+omz_770m_3106_1	185	633	818	omz_770m_3106	819	+		all	hypothetical protein
+omz_770m_3107_0	218	75	293	omz_770m_3107	850	-	2.2.1.6	Proteobacteria	thiamine pyrophosphate protein (EC:2.2.1.6) K01652 acetolactate synthase I/II/III large subunit
+omz_770m_3107_1	554	294	848	omz_770m_3107	850	-	2.2.1.6	Burkholderia	thiamine pyrophosphate TPP-binding domain-containing protein K01652 acetolactate synthase I/II/III large subunit
+omz_770m_3108_0	626	237	863	omz_770m_3108	863	+		all	hypothetical protein
+omz_770m_3109_0	671	40	711	omz_770m_3109	861	-		Proteobacteria	binding-protein-dependent transport systems inner membrane component K13895 microcin C system permease protein
+omz_770m_3109_1	149	711	860	omz_770m_3109	861	-		all	hypothetical protein
+omz_770m_6990_0	821	2	823	omz_770m_6990	927	+		all	hypothetical protein
+omz_770m_6990_1	110	817	927	omz_770m_6990	927	+		all	hypothetical protein
+omz_770m_6991_0	860	101	961	omz_770m_6991	961	-		"Alphabacteria" Cavalier-Smith 1992	primosome assembly protein PriA K04066 primosomal N' (replication factor Y) (superfamily II helicase)
+omz_770m_6992_0	647	2	649	omz_770m_6992	1042	-		all	
+omz_770m_6993_0	398	215	613	omz_770m_6993	1046	-	2.4.2.29	Gammaproteobacteria	Qtrt1, 2610028E17Rik, Tgt queuine tRNA-ribosyltransferase 1 (EC:2.4.2.29) K00773
+omz_770m_6993_1	116	658	774	omz_770m_6993	1046	-		all	hypothetical protein
+omz_770m_6994_0	152	19	171	omz_770m_6994	986	-		all	hypothetical protein
+omz_770m_6994_1	287	447	734	omz_770m_6994	986	-		all	hypothetical protein
+omz_770m_6995_0	473	2	475	omz_770m_6995	865	+		all	, partial
+omz_770m_6995_1	209	438	647	omz_770m_6995	865	+		all	hypothetical protein
+omz_770m_6996_0	515	84	599	omz_770m_6996	927	+		Gammaproteobacteria	perM  K03548 putative permease
+omz_770m_6997_0	137	1	138	omz_770m_6997	933	+		all	hypothetical protein
+omz_770m_6997_1	221	116	337	omz_770m_6997	933	-		all	hypothetical protein
+omz_770m_6997_2	395	388	783	omz_770m_6997	933	-		all	hypothetical protein
+omz_770m_6997_3	140	792	932	omz_770m_6997	933	-		all	hypothetical protein
+omz_770m_6998_0	272	363	635	omz_770m_6998	1075	+	5.99.1.3	Clostridiales	dna gyrase subunit b K02470 DNA B
+omz_770m_6998_1	143	616	759	omz_770m_6998	1075	+		all	hypothetical protein
+omz_770m_6999_0	353	296	649	omz_770m_6999	1025	+		all	hypothetical protein
+omz_770m_8372_0	653	1	654	omz_770m_8372	879	-	1.3.1.74	Bacteria	heat shock protein, putative (EC:1.3.1.74) K04043 molecular chaperone DnaK
+omz_770m_4738_0	890	26	916	omz_770m_4738	917	-		Flavobacteriaceae	cell division protein FtsK/SpoIIIE K03466 DNA segregation ATPase FtsK/SpoIIIE, S-DNA-T family
+omz_770m_4739_0	962	3	965	omz_770m_4739	983	+		'Burkholderiales'	boxB benzoyl-CoA oxygenase component B
+omz_770m_4736_0	803	2	805	omz_770m_4736	925	-	3.1.6.13	unclassified Verrucomicrobia (miscellaneous)	iduronate-2-sulfatase (EC:3.1.6.13)
+omz_770m_4737_0	665	283	948	omz_770m_4737	956	+	3.6.3.14	biota	ATP synthase A chain (protein 6) K02126 F-type H+-transporting ATPase subunit
+omz_770m_4734_0	692	202	894	omz_770m_4734	994	-	1.9.3.1	all	cox3 cytochrome c oxidase subunit 3 K02262 III
+omz_770m_4735_0	713	43	756	omz_770m_4735	927	-		Flavobacteriaceae	glycosyl transferase group 1
+omz_770m_4732_0	698	2	700	omz_770m_4732	969	-		all	hypothetical protein
+omz_770m_4732_1	143	824	967	omz_770m_4732	969	-		all	hypothetical protein
+omz_770m_4733_0	404	2	406	omz_770m_4733	962	-		all	hypothetical protein
+omz_770m_4733_1	233	504	737	omz_770m_4733	962	+		all	hypothetical protein
+omz_770m_4733_2	290	672	962	omz_770m_4733	962	-		all	
+omz_770m_4730_0	698	1	699	omz_770m_4730	955	-	6.3.4.4	Bacilli	purA adenylosuccinate synthetase (EC:6.3.4.4) K01939 synthase
+omz_770m_4730_1	152	802	954	omz_770m_4730	955	-		all	hypothetical protein
+omz_770m_4731_0	737	1	738	omz_770m_4731	916	-	2.7.7.7	Bacteria	dnaE DNA polymerase III subunit alpha (EC:2.7.7.7) K02337
+omz_770m_4731_1	188	726	914	omz_770m_4731	916	-		all	hypothetical protein
+omz_770m_8371_0	245	64	309	omz_770m_8371	970	+		all	hypothetical protein
+omz_770m_8371_1	530	440	970	omz_770m_8371	970	+		all	hypothetical protein
+omz_770m_3456_0	104	189	293	omz_770m_3456	964	+		all	hypothetical protein
+omz_770m_3456_1	245	718	963	omz_770m_3456	964	+		all	hypothetical protein
+omz_770m_8377_0	785	82	867	omz_770m_8377	869	+	1.3.99.22	Gammaproteobacteria	putative oxygen-independent coproporphyrinogen III oxidase (EC:1.3.99.22) K02495
+omz_770m_245_0	590	2	592	omz_770m_245	966	+		all	hypothetical protein
+omz_770m_245_1	242	593	835	omz_770m_245	966	-		all	hypothetical protein
+omz_770m_716_0	881	28	909	omz_770m_716	941	-		all	hypothetical protein
+omz_770m_247_0	629	1	630	omz_770m_247	990	+		all	hypothetical protein
+omz_770m_246_0	143	609	752	omz_770m_246	1079	-		all	hypothetical protein
+omz_770m_246_1	218	752	970	omz_770m_246	1079	-		all	hypothetical protein
+omz_770m_241_0	239	25	264	omz_770m_241	1032	-	2.7.7.6	unclassified Verrucomicrobia (miscellaneous)	DNA-directed RNA polymerase alpha chain  K03040 subunit
+omz_770m_240_0	194	440	634	omz_770m_240	1264	-		all	hypothetical protein
+omz_770m_243_0	227	9	236	omz_770m_243	992	-		all	hypothetical protein
+omz_770m_242_0	410	1	411	omz_770m_242	955	+		all	hypothetical protein
+omz_770m_242_1	422	531	953	omz_770m_242	955	+		all	hypothetical protein
+omz_770m_8375_0	737	45	782	omz_770m_8375	939	-		all	hypothetical protein
+omz_770m_249_0	290	44	334	omz_770m_249	1057	-		Desulfobacula toluolica DSM 7467	Flagellar motor rotation protein MotA
+omz_770m_248_0	89	2	91	omz_770m_248	968	-		all	hypothetical protein
+omz_770m_248_1	551	48	599	omz_770m_248	968	-		Proteobacteria	mogA molybdenum cofactor biosynthesis protein MogA K03831 molybdopterin adenylyltransferase
+omz_770m_248_2	74	894	968	omz_770m_248	968	+		all	hypothetical protein
+omz_770m_719_0	476	2	478	omz_770m_719	982	+		all	hypothetical protein
+omz_770m_719_1	140	840	980	omz_770m_719	982	+		all	hypothetical protein
+omz_770m_718_0	842	3	845	omz_770m_718	847	+		Sphingobium	peptidase M14 family protein
+omz_770m_8378_0	224	2	226	omz_770m_8378	897	+		all	hypothetical protein
+omz_770m_8378_1	350	210	560	omz_770m_8378	897	+		saccharomyceta	GDI1 similar to GDP dissociation inhibitor regulation vesicle-mediated transport
+omz_770m_8378_2	245	606	851	omz_770m_8378	897	-		all	hypothetical protein
+omz_770m_4453_0	404	2	406	omz_770m_4453	1058	+	6.4.1.1	Bradyrhizobium japonicum USDA 6	putative pyruvate carboxylase (EC:6.4.1.1)
+omz_770m_4452_0	983	1	984	omz_770m_4452	985	-	1.7.99.4	Corynebacterineae	nitrate reductase (EC:1.7.99.4)
+omz_770m_4451_0	794	26	820	omz_770m_4451	960	+	1.3.99.16	Hyphomicrobiales	aldehyde oxidase xanthine dehydrogenase molybdopterin binding protein K07303 isoquinoline 1-oxidoreductase, beta subunit
+omz_770m_4450_0	467	211	678	omz_770m_4450	1061	-		"Alphabacteria" Cavalier-Smith 1992	prfB class I peptide chain release factor
+omz_770m_4457_0	206	1	207	omz_770m_4457	938	+		all	hypothetical protein
+omz_770m_4457_1	137	462	599	omz_770m_4457	938	+		all	hypothetical protein
+omz_770m_4457_2	341	596	937	omz_770m_4457	938	-		all	hypothetical protein
+omz_770m_4456_0	836	2	838	omz_770m_4456	977	+	2.7.7.8	Bacteria	RIF10 RIF10 (resistant to inhibition FSM 10) 3'-5'-exoribonuclease/ RNA binding / nucleic acid polyribonucleotide nucleotidyltransferase (EC:2.7.7.8) K00962
+omz_770m_4455_0	374	2	376	omz_770m_4455	785	-		Proteobacteria	putative iron-sulfur-binding protein subunit oxidoreductase like aldehyde oxidase or xanthine dehydrogenase
+omz_770m_4455_1	410	373	783	omz_770m_4455	785	-	4.1.1.45	ATCC 14579	aminocarboxymuconate-semialdehyde decarboxylase (EC:4.1.1.45) K03392
+omz_770m_4454_0	635	1	636	omz_770m_4454	956	-		all	Hypothetical radical SAM family enzyme heat shock gene cluster, similarity CPO BS HemN-type
+omz_770m_4454_1	266	689	955	omz_770m_4454	956	-		Bacillus/Clostridium group	GTP-binding protein, putative
+omz_770m_4459_0	194	1	195	omz_770m_4459	1009	+		Chlorobi bacterium Mat9-16	Predicted sodium-dependent galactose transporter
+omz_770m_4459_1	464	363	827	omz_770m_4459	1009	-		all	hypothetical protein
+omz_770m_4458_0	521	146	667	omz_770m_4458	962	-		all	hypothetical protein
+omz_770m_4458_1	350	612	962	omz_770m_4458	962	-		all	hypothetical protein
+omz_770m_2670_0	443	315	758	omz_770m_2670	949	+		all	hypothetical protein
+omz_770m_2673_0	650	147	797	omz_770m_2673	798	+		all	
+omz_770m_2672_0	653	3	656	omz_770m_2672	857	+		Verrucomicrobium spinosum ATCC 43997	-signal peptide transmembrane prediction
+omz_770m_2675_0	818	3	821	omz_770m_2675	856	+		Bacillales	oligopeptide/dipeptide ABC transporter, ATPase subunit K02031 peptide/nickel transport system ATP-binding protein
+omz_770m_2674_0	566	315	881	omz_770m_2674	881	-		"Planctomycetaceae" Schlesner and Stackebrandt 1987 emend. Ward 2011	peptidase M24
+omz_770m_2677_0	635	2	637	omz_770m_2677	844	+		all	hypothetical protein
+omz_770m_2677_1	179	664	843	omz_770m_2677	844	+		all	hypothetical protein
+omz_770m_2676_0	758	91	849	omz_770m_2676	849	+		all	hypothetical protein
+omz_770m_2679_0	284	3	287	omz_770m_2679	892	-		Pirellula staleyi ATCC 27377	exporter RND superfamily protein-like protein
+omz_770m_2679_1	311	581	892	omz_770m_2679	892	+		"Planctomycetaceae" Schlesner and Stackebrandt 1987 emend. Ward 2011	FHA domain-containing protein
+omz_770m_2678_0	884	1	885	omz_770m_2678	891	-		all	hypothetical protein
+omz_770m_8732_0	881	2	883	omz_770m_8732	885	-		Alteromonadaceae	TonB-dependent receptor
+omz_770m_8733_0	686	3	689	omz_770m_8733	910	-		all	hypothetical protein
+omz_770m_8730_0	791	2	793	omz_770m_8730	933	-		all	hypothetical protein
+omz_770m_8731_0	920	1	921	omz_770m_8731	922	+	2.4.1.18	Gammaproteobacteria	1,4-alpha-glucan branching enzyme, putative (EC:2.4.1.18) K00700 enzyme
+omz_770m_8736_0	443	3	446	omz_770m_8736	957	+		all	hypothetical protein
+omz_770m_8736_1	356	501	857	omz_770m_8736	957	+		all	hypothetical protein
+omz_770m_8737_0	515	2	517	omz_770m_8737	955	+		all	hypothetical protein
+omz_770m_8734_0	362	3	365	omz_770m_8734	953	+		all	
+omz_770m_8734_1	119	408	527	omz_770m_8734	953	+		all	hypothetical protein
+omz_770m_8734_2	392	517	909	omz_770m_8734	953	+		all	
+omz_770m_8735_0	101	759	860	omz_770m_8735	971	-		all	hypothetical protein
+omz_770m_8738_0	167	1	168	omz_770m_8738	1353	+		all	hypothetical protein
+omz_770m_8738_1	92	1260	1352	omz_770m_8738	1353	+		all	hypothetical protein
+omz_770m_8739_0	806	1	807	omz_770m_8739	969	-		Proteobacteria	xanthine/uracil/vitamin C permease family K06901 putative MFS transporter, AGZA family, xanthine/uracil
+omz_770m_6792_0	620	3	623	omz_770m_6792	1024	+		Bacteria	DNA repair recombination protein RecA, chloroplast precursor K03553 RecA
+omz_770m_6792_1	83	940	1023	omz_770m_6792	1024	-		all	hypothetical protein
+omz_770m_6793_0	608	3	611	omz_770m_6793	948	+		Bacteria	oligopeptide ABC transporter ATP binding protein K02031 peptide/nickel transport system ATP-binding protein
+omz_770m_6793_1	197	604	801	omz_770m_6793	948	+		Bacteria	ABC oligopeptide transporter ATPase component K02032 peptide/nickel transport system ATP-binding protein
+omz_770m_6790_0	716	2	718	omz_770m_6790	947	+		Bacteria	heat shock protein 60, mitochondrial precursor K04077 chaperonin GroEL
+omz_770m_6791_0	212	51	263	omz_770m_6791	946	-		Bacteria	vsr very-short-patch-repair endonuclease (EC:3.1.-.-) K07458 DNA mismatch endonuclease, patch repair protein
+omz_770m_6791_1	182	762	944	omz_770m_6791	946	+		all	hypothetical protein
+omz_770m_6796_0	776	42	818	omz_770m_6796	943	+		all	hypothetical protein
+omz_770m_6796_1	77	865	942	omz_770m_6796	943	+		all	hypothetical protein
+omz_770m_6797_0	557	3	560	omz_770m_6797	929	-	5.3.1.16	"Chlorobacterium" Guillebeau 1890, nom. rejic. Opin. 6 (not "Chlorobacterium" Lauterborn 1916)	1-(5-phosphoribosyl)-5- imidazole-4-carboxamide isomerase (EC:5.3.1.16) K01814 phosphoribosylformimino-5-aminoimidazole carboxamide ribotide
+omz_770m_6794_0	272	2	274	omz_770m_6794	982	-		all	hypothetical protein
+omz_770m_6794_1	503	334	837	omz_770m_6794	982	-		Methanococcaceae	archaeosine tRNA-ribosyltransferase (EC 2.4.2.-) type 5
+omz_770m_6794_2	155	825	980	omz_770m_6794	982	-		all	hypothetical protein
+omz_770m_6795_0	641	84	725	omz_770m_6795	1006	+		all	hypothetical protein
+omz_770m_10358_0	773	60	833	omz_770m_10358	947	+		all	hypothetical protein
+omz_770m_10359_0	707	71	778	omz_770m_10359	949	-		all	hypothetical protein
+omz_770m_10604_0	812	2	814	omz_770m_10604	928	-		all	hypothetical protein
+omz_770m_10605_0	158	1	159	omz_770m_10605	930	+		all	hypothetical protein
+omz_770m_10605_1	269	220	489	omz_770m_10605	930	+		all	hypothetical protein
+omz_770m_10605_2	320	527	847	omz_770m_10605	930	+		all	hypothetical protein
+omz_770m_10602_0	872	134	1006	omz_770m_10602	1006	-	6.1.1.4	Rhodospirillaceae	similar to nuclear encoded mitochondrial leucyl-tRNA synthetase K01869 synthetase
+omz_770m_10603_0	422	2	424	omz_770m_10603	916	+		all	hypothetical protein
+omz_770m_10603_1	278	435	713	omz_770m_10603	916	-		all	hypothetical protein
+omz_770m_10600_0	803	151	954	omz_770m_10600	954	+		all	hypothetical protein
+omz_770m_10601_0	650	175	825	omz_770m_10601	1063	+		all	hypothetical protein
+omz_770m_10350_0	437	153	590	omz_770m_10350	1015	+		all	
+omz_770m_10350_1	353	477	830	omz_770m_10350	1015	-		all	hypothetical protein
+omz_770m_10351_0	731	2	733	omz_770m_10351	779	-		all	hypothetical protein
+omz_770m_10352_0	887	62	949	omz_770m_10352	949	-		all	hypothetical protein
+omz_770m_10353_0	449	3	452	omz_770m_10353	848	+		all	hypothetical protein
+omz_770m_10353_1	332	516	848	omz_770m_10353	848	+	3.2.1.21	Dictyoglomus	beta-glucosidase A (EC:3.2.1.21) K05350
+omz_770m_10354_0	704	144	848	omz_770m_10354	856	+	6.3.4.13	Bacillus/Clostridium group	gart, wu:fb33g04 phosphoribosylglycinamide formyltransferase K11787 phosphoribosylamine--glycine ligase / formyltransferase phosphoribosylformylglycinamidine cyclo-ligase
+omz_770m_10355_0	287	162	449	omz_770m_10355	892	+		all	hypothetical protein
+omz_770m_10355_1	416	453	869	omz_770m_10355	892	+		all	hypothetical protein
+omz_770m_10608_0	395	168	563	omz_770m_10608	971	+		Pyrococcus	40S ribosomal protein S15, putative  K02958 small subunit S15e
+omz_770m_10608_1	275	569	844	omz_770m_10608	971	+		Candidatus Nitrosopumilus maritimus SCM1	50S ribosomal protein L22 K02890 large subunit L22
+omz_770m_10609_0	176	2	178	omz_770m_10609	993	-		all	hypothetical protein
+omz_770m_10609_1	815	178	993	omz_770m_10609	993	-		all	hypothetical protein
+omz_770m_9069_0	479	1	480	omz_770m_9069	928	-		all	hypothetical protein
+omz_770m_9069_1	278	591	869	omz_770m_9069	928	+		all	hypothetical protein
+omz_770m_9068_0	617	103	720	omz_770m_9068	883	+		Proteobacteria	polar amino acid abc transporter, inner membrane subunit K02029 transport system permease protein
+omz_770m_9068_1	161	720	881	omz_770m_9068	883	+		all	hypothetical protein
+omz_770m_9065_0	281	307	588	omz_770m_9065	1013	+		all	hypothetical protein
+omz_770m_9065_1	215	798	1013	omz_770m_9065	1013	-		all	hypothetical protein
+omz_770m_9064_0	746	1	747	omz_770m_9064	749	+	2.7.7.7	Candidatus Ruthia magnifica str. 'Calyptogena magnifica'	dnaE DNA polymerase III alpha subunit (EC:2.7.7.7) K02337
+omz_770m_9067_0	329	3	332	omz_770m_9067	899	-		all	hypothetical protein
+omz_770m_9067_1	293	461	754	omz_770m_9067	899	-		all	hypothetical protein
+omz_770m_9066_0	959	1	960	omz_770m_9066	968	-		all	hypothetical protein
+omz_770m_9061_0	590	2	592	omz_770m_9061	938	-	3.5.4.4	gamma proteobacterium SCGC AAA007-O20	Adenosine deaminase (EC 3.5.4.4)
+omz_770m_9061_1	218	718	936	omz_770m_9061	938	-		all	hypothetical protein
+omz_770m_9060_0	617	1	618	omz_770m_9060	910	-	2.8.1.7	Gammaproteobacteria	similar to cysteine desulfurylase K04487 desulfurase
+omz_770m_9063_0	101	3	104	omz_770m_9063	995	-		all	hypothetical protein
+omz_770m_9063_1	293	106	399	omz_770m_9063	995	-		'Burkholderiaceae'	putative transcriptional regulator
+omz_770m_9063_2	122	396	518	omz_770m_9063	995	-		all	hypothetical protein
+omz_770m_9062_0	167	2	169	omz_770m_9062	931	-		all	hypothetical protein
+omz_770m_9062_1	398	180	578	omz_770m_9062	931	-		"Leptospirillum" Markosyan 1972	putative transcription factor IscR
+omz_770m_9062_2	242	640	882	omz_770m_9062	931	-		all	hypothetical protein
+omz_770m_6608_0	230	2	232	omz_770m_6608	902	-	5.4.2.8	Myxobacteria	algC phosphomannomutase/phosphoglucomutase (EC:5.4.2.8 5.4.2.2) K01840 phosphomannomutase
+omz_770m_6608_1	452	309	761	omz_770m_6608	902	-		all	
+omz_770m_6608_2	95	805	900	omz_770m_6608	902	-		all	hypothetical protein
+omz_770m_6609_0	896	16	912	omz_770m_6609	913	+		Lentisphaera araneosa HTCC2155	probable alkaline phosphatase D
+omz_770m_1658_0	197	1	198	omz_770m_1658	891	+		all	hypothetical protein
+omz_770m_1658_1	425	249	674	omz_770m_1658	891	+	1.8.1.9	'Burkholderiales'	FAD-dependent pyridine nucleotide-disulphide oxidoreductase K00384 thioredoxin reductase (NADPH)
+omz_770m_1658_2	275	595	870	omz_770m_1658	891	-		all	hypothetical protein
+omz_770m_1659_0	638	1	639	omz_770m_1659	953	-		Gemmatimonas aurantiaca DSM 14586	putative ABC transporter ATP-binding/permease protein K11085 ATP-binding cassette, subfamily B, bacterial MsbA
+omz_770m_6600_0	239	217	456	omz_770m_6600	1099	-	1.6.5.3	Proteobacteria	respiratory-chain NADH dehydrogenase domain-containing protien (EC:1.6.5.3) K00335 I subunit F
+omz_770m_6601_0	263	1	264	omz_770m_6601	1057	-		all	hypothetical protein
+omz_770m_6601_1	416	516	932	omz_770m_6601	1057	+		all	hypothetical protein
+omz_770m_6602_0	140	237	377	omz_770m_6602	379	-		all	hypothetical protein
+omz_770m_6603_0	422	158	580	omz_770m_6603	1040	-		all	hypothetical protein
+omz_770m_6604_0	461	61	522	omz_770m_6604	955	+		all	hypothetical protein
+omz_770m_6604_1	194	760	954	omz_770m_6604	955	+		all	hypothetical protein
+omz_770m_6605_0	698	2	700	omz_770m_6605	922	+		"Methylomonas albus" Whittenbury et al. 1970	type III restriction protein res subunit
+omz_770m_6606_0	605	3	608	omz_770m_6606	930	-	4.1.1.20	"Alphabacteria" Cavalier-Smith 1992	diaminopimelate decarboxylase (EC:4.1.1.20) K01586
+omz_770m_6607_0	308	2	310	omz_770m_6607	936	-		Tistrella mobilis KA081020-065	outer membrane protein assembly complex, YaeT protein K07277
+omz_770m_6607_1	362	354	716	omz_770m_6607	936	-		Rhodospirillales	peptidase M50, putative membrane-associated zinc metallopeptidase K11749 regulator sigma E protease
+omz_770m_2079_0	641	3	644	omz_770m_2079	948	+		Aurantimonas manganoxydans SI85-9A1	membrane protein, putative
+omz_770m_2079_1	269	652	921	omz_770m_2079	948	-	4.2.1.70	Aurantimonas manganoxydans SI85-9A1	tRNA pseudouridine synthase A (EC 4.2.1.70) ## Psi38, Psi39 Psi40
+omz_770m_2078_0	704	3	707	omz_770m_2078	971	+		all	
+omz_770m_2078_1	95	797	892	omz_770m_2078	971	+		all	hypothetical protein
+omz_770m_7553_0	434	144	578	omz_770m_7553	1018	-		all	hypothetical protein
+omz_770m_2072_0	470	2	472	omz_770m_2072	899	+		all	hypothetical protein
+omz_770m_2072_1	383	514	897	omz_770m_2072	899	+		Proteobacteria	TRAP dicarboxylate transporter subunit DctM
+omz_770m_2071_0	899	2	901	omz_770m_2071	922	-		all	
+omz_770m_2070_0	899	3	902	omz_770m_2070	902	+	2.7.1.31	Gammaproteobacteria	glycerate kinase (EC:2.7.1.31) K00865
+omz_770m_2077_0	779	2	781	omz_770m_2077	943	+		all	hypothetical protein
+omz_770m_2077_1	155	787	942	omz_770m_2077	943	+		all	hypothetical protein
+omz_770m_2076_0	641	3	644	omz_770m_2076	879	+		all	hypothetical protein
+omz_770m_2075_0	704	96	800	omz_770m_2075	882	-		all	
+omz_770m_7554_0	197	3	200	omz_770m_7554	887	+		Rhodocista centenaria SW	serine carboxypeptidase, putative
+omz_770m_7554_1	416	297	713	omz_770m_7554	887	+		BCF group	glycosyl hydrolase BNR repeat-containing protein
+omz_770m_7554_2	131	754	885	omz_770m_7554	887	+		all	hypothetical protein
+omz_770m_4923_0	620	2	622	omz_770m_4923	724	+		all	
+omz_770m_4922_0	587	2	589	omz_770m_4922	945	+		all	hypothetical protein
+omz_770m_4922_1	149	586	735	omz_770m_4922	945	+		all	hypothetical protein
+omz_770m_4921_0	125	1	126	omz_770m_4921	994	+		all	hypothetical protein
+omz_770m_4921_1	131	162	293	omz_770m_4921	994	+		all	hypothetical protein
+omz_770m_4921_2	536	373	909	omz_770m_4921	994	+		Gallionella group	sodium/hydrogen exchanger
+omz_770m_4921_3	77	916	993	omz_770m_4921	994	+		all	hypothetical protein
+omz_770m_4920_0	854	3	857	omz_770m_4920	951	-		all	hypothetical protein
+omz_770m_4927_0	941	2	943	omz_770m_4927	974	-		all	hypothetical protein
+omz_770m_4926_0	710	189	899	omz_770m_4926	954	-	2.4.1.119	SAR324 cluster	Oligosaccharyltransferase PglB (EC 2.4.1.119)
+omz_770m_4925_0	368	3	371	omz_770m_4925	931	+		all	hypothetical protein
+omz_770m_4925_1	353	402	755	omz_770m_4925	931	+		all	hypothetical protein
+omz_770m_4924_0	158	1	159	omz_770m_4924	908	-		all	hypothetical protein
+omz_770m_4924_1	800	108	908	omz_770m_4924	908	-	1.2.1.27	Bacteria	GF20808 gene product from transcript GF20808-RA K00140 methylmalonate-semialdehyde dehydrogenase
+omz_770m_4929_0	479	115	594	omz_770m_4929	908	+		all	hypothetical protein
+omz_770m_4929_1	188	631	819	omz_770m_4929	908	+		all	hypothetical protein
+omz_770m_4928_0	809	65	874	omz_770m_4928	947	-		Candidatus Nitrosopumilus maritimus SCM1	K09118 protein
+omz_770m_2448_0	341	1	342	omz_770m_2448	835	+		all	hypothetical protein
+omz_770m_2449_0	275	488	763	omz_770m_2449	994	-		all	hypothetical protein
+omz_770m_2442_0	254	3	257	omz_770m_2442	883	-		"Planctomycetaceae" Schlesner and Stackebrandt 1987 emend. Ward 2011	MoxR-like ATPases
+omz_770m_2442_1	329	552	881	omz_770m_2442	883	+		all	
+omz_770m_2443_0	257	19	276	omz_770m_2443	878	-		Candidatus Nitrosopumilus maritimus SCM1	Gll1651 protein
+omz_770m_2443_1	269	302	571	omz_770m_2443	878	-		Candidatus Nitrosopumilus maritimus SCM1	K09721 protein
+omz_770m_2443_2	260	609	869	omz_770m_2443	878	-		Candidatus Nitrosopumilus maritimus SCM1	Rieske (2Fe-2S) domain-containing protein K05710 ferredoxin subunit phenylpropionate dioxygenase
+omz_770m_2440_0	797	2	799	omz_770m_2440	799	-		Candidatus Nitrosopumilus maritimus SCM1	putative M3 family peptidase (EC:3.4.24.-) K08602 oligoendopeptidase F
+omz_770m_2441_0	302	11	313	omz_770m_2441	773	+		Proteobacteria	hypothetical LOC100495255
+omz_770m_2441_1	449	317	766	omz_770m_2441	773	+		Bacteria	Selenoprotein O cysteine-containing homologs
+omz_770m_2446_0	623	40	663	omz_770m_2446	837	-		unclassified Verrucomicrobia (miscellaneous)	K06940
+omz_770m_2446_1	143	693	836	omz_770m_2446	837	+		all	hypothetical protein
+omz_770m_2447_0	119	2	121	omz_770m_2447	823	-		all	hypothetical protein
+omz_770m_2447_1	536	287	823	omz_770m_2447	823	+	3.8.1.2	SAR324 cluster bacterium SCGC AAA001-C10	Haloacid dehalogenase, type II (EC 3.8.1.2)
+omz_770m_2444_0	626	2	628	omz_770m_2444	792	+		all	hypothetical protein
+omz_770m_2445_0	65	2	67	omz_770m_2445	817	+		all	hypothetical protein
+omz_770m_2445_1	146	212	358	omz_770m_2445	817	+		all	hypothetical protein
+omz_770m_2445_2	230	368	598	omz_770m_2445	817	+		all	hypothetical protein
+omz_770m_2445_3	98	628	726	omz_770m_2445	817	+		all	hypothetical protein
+omz_770m_2445_4	83	734	817	omz_770m_2445	817	+		all	hypothetical protein
+omz_770m_124_0	257	1	258	omz_770m_124	944	+		all	hypothetical protein
+omz_770m_657_0	458	2	460	omz_770m_657	874	-	4.1.1.31	SAR 11 cluster	ppc phosphoenolpyruvate carboxylase (EC:4.1.1.31) K01595
+omz_770m_657_1	188	685	873	omz_770m_657	874	-		all	hypothetical protein
+omz_770m_654_0	560	1	561	omz_770m_654	942	-		Phaeobacter gallaeciensis ANG1	protein unknown function DUF112 transmembrane K07793 putative tricarboxylic transport membrane
+omz_770m_655_0	230	2	232	omz_770m_655	993	+		all	hypothetical protein
+omz_770m_655_1	311	378	689	omz_770m_655	993	+		all	hypothetical protein
+omz_770m_652_0	599	3	602	omz_770m_652	897	-		SAR 116 cluster alpha proteobacterium HIMB100	putative L-asparaginase II protein
+omz_770m_652_1	65	830	895	omz_770m_652	897	+		all	hypothetical protein
+omz_770m_653_0	878	3	881	omz_770m_653	927	+		"Alphabacteria" Cavalier-Smith 1992	anmK, ydhH anhydro-N-acetylmuramic acid kinase K09001 kinase
+omz_770m_650_0	674	2	676	omz_770m_650	898	+	2.7.7.7	ATCC 15356	polC DNA polymerase III subunit epsilon (EC:2.7.7.7) K02342
+omz_770m_650_1	212	686	898	omz_770m_650	898	+		all	hypothetical protein
+omz_770m_11186_0	101	1	102	omz_770m_11186	950	-		all	hypothetical protein
+omz_770m_11186_1	188	762	950	omz_770m_11186	950	+		all	hypothetical protein
+omz_770m_11187_0	866	2	868	omz_770m_11187	908	+		all	hypothetical protein
+omz_770m_11184_0	173	1	174	omz_770m_11184	910	-		all	hypothetical protein
+omz_770m_1869_0	59	2	61	omz_770m_1869	941	-		all	hypothetical protein
+omz_770m_1869_1	809	10	819	omz_770m_1869	941	-		Bacteria	conserved hypothetical membrane-spanning protein
+omz_770m_1868_0	812	155	967	omz_770m_1868	967	-		Bacteroidetes/Chlorobi group	bifunctional UDP-3-O- N-acetylglucosamine deacetylase/(3R)-hydroxymyristoyl- dehydratase (EC:3.5.1.- 4.2.1.-) K02372 3R-hydroxymyristoyl ACP dehydrase  K02535 deacetylase
+omz_770m_11180_0	491	2	493	omz_770m_11180	915	-		all	hypothetical protein
+omz_770m_11180_1	125	465	590	omz_770m_11180	915	-		all	hypothetical protein
+omz_770m_11180_2	299	616	915	omz_770m_11180	915	-		Janthinobacterium	wbpG LPS biosynthesis protein WbpG
+omz_770m_1865_0	434	345	779	omz_770m_1865	955	+		all	hypothetical protein
+omz_770m_1864_0	371	2	373	omz_770m_1864	870	+		all	hypothetical protein
+omz_770m_1864_1	500	370	870	omz_770m_1864	870	+		all	hypothetical protein
+omz_770m_1867_0	443	3	446	omz_770m_1867	909	-		all	hypothetical protein
+omz_770m_1867_1	149	508	657	omz_770m_1867	909	-		all	hypothetical protein
+omz_770m_6386_0	338	2	340	omz_770m_6386	896	+		all	hypothetical protein
+omz_770m_6386_1	164	515	679	omz_770m_6386	896	+		all	hypothetical protein
+omz_770m_6386_2	116	683	799	omz_770m_6386	896	+		all	hypothetical protein
+omz_770m_6386_3	95	799	894	omz_770m_6386	896	+		all	hypothetical protein
+omz_770m_1861_0	683	2	685	omz_770m_1861	687	-		all	hypothetical protein
+omz_770m_1860_0	461	3	464	omz_770m_1860	885	-		all	hypothetical protein
+omz_770m_1860_1	296	589	885	omz_770m_1860	885	-		all	hypothetical protein
+omz_770m_1863_0	470	1	471	omz_770m_1863	874	-		Bacteria	FIG00350007:
+omz_770m_1863_1	326	547	873	omz_770m_1863	874	-	6.1.1.20	Chthoniobacter flavus Ellin514	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)
+omz_770m_1862_0	392	3	395	omz_770m_1862	858	+	3.5.1.15	Oceanibaculum indicum P24	aspA aspartoacylase, putative (EC:3.5.1.15)
+omz_770m_1862_1	428	430	858	omz_770m_1862	858	+	1.14.13.3	Rhodococcus	putative 4-hydroxyphenylacetic hydroxylase (EC:1.14.13.3) K00483 4-hydroxyphenylacetate-3-hydroxylase large chain
+omz_770m_11224_0	419	3	422	omz_770m_11224	977	+		all	hypothetical protein
+omz_770m_11224_1	197	400	597	omz_770m_11224	977	+		all	hypothetical protein
+omz_770m_11223_0	185	1047	1232	omz_770m_11223	1539	-		all	hypothetical protein
+omz_770m_11222_0	317	60	377	omz_770m_11222	1059	-		"Alphabacteria" Cavalier-Smith 1992	isochorismatase hydrolase
+omz_770m_11222_1	185	396	581	omz_770m_11222	1059	-		all	hypothetical protein
+omz_770m_11221_0	350	3	353	omz_770m_11221	1035	-		all	hypothetical protein
+omz_770m_11221_1	287	400	687	omz_770m_11221	1035	-		all	hypothetical protein
+omz_770m_10169_0	518	387	905	omz_770m_10169	985	+	6.2.1.3	Bacteria	Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)
+omz_770m_10168_0	122	122	244	omz_770m_10168	967	+		all	hypothetical protein
+omz_770m_10168_1	689	276	965	omz_770m_10168	967	+		Bacteria	zinc-binding alcohol dehydrogenase
+omz_770m_10167_0	317	64	381	omz_770m_10167	930	+	4.4.1.5	Proteobacteria	gloA lactoylglutathione lyase (EC:4.4.1.5) K01759
+omz_770m_10167_1	410	400	810	omz_770m_10167	930	+		gamma proteobacterium SCGC AAA007-O20	Ethanolamine utilization protein EutQ
+omz_770m_10166_0	512	1	513	omz_770m_10166	908	-	2.5.1.72	Proteobacteria	nadA quinolinate synthetase K03517 synthase
+omz_770m_10166_1	278	622	900	omz_770m_10166	908	+		all	hypothetical protein
+omz_770m_10165_0	632	3	635	omz_770m_10165	935	-		all	hypothetical protein
+omz_770m_11220_0	197	202	399	omz_770m_11220	1109	+		all	hypothetical protein
+omz_770m_10163_0	494	2	496	omz_770m_10163	939	-		Pseudoalteromonas	putative tRNA-(MSIOA)-hydroxylase K06169 tRNA-(msioA)-hydroxylase
+omz_770m_10163_1	401	493	894	omz_770m_10163	939	-	3.1.1.1	Proteobacteria	carboxylesterase (EC:3.1.1.1) K06999
+omz_770m_10162_0	731	1	732	omz_770m_10162	893	-	2.7.7.7	Gammaproteobacteria	dnaX DNA polymerase III subunits gamma tau (EC:2.7.7.7) K02343 subunit gamma/tau
+omz_770m_10162_1	146	729	875	omz_770m_10162	893	-		all	hypothetical protein
+omz_770m_10161_0	806	3	809	omz_770m_10161	902	-		all	, partial
+omz_770m_10160_0	653	2	655	omz_770m_10160	957	+		all	
+omz_770m_10160_1	158	595	753	omz_770m_10160	957	-		all	hypothetical protein
+omz_770m_10160_2	158	797	955	omz_770m_10160	957	-		all	hypothetical protein
+omz_770m_8127_0	206	660	866	omz_770m_8127	867	+		Bacteria	MT-A70 family protein
+omz_770m_3714_0	743	3	746	omz_770m_3714	746	+		Pseudoxanthomonas spadix BD-a59	putative exported peptidase
+omz_770m_3717_0	437	434	871	omz_770m_3717	871	+		all	, partial
+omz_770m_3716_0	206	1	207	omz_770m_3716	875	-		Roseobacter sp. AzwK-3b	amine oxidase K09845 methoxyneurosporene dehydrogenase
+omz_770m_3716_1	569	304	873	omz_770m_3716	875	+	2.5.1.10	Rhodobacter sp. AKP1	crtE farnesyl-diphosphate synthase (EC:2.5.1.10) K13789 geranylgeranyl diphosphate synthase, type II
+omz_770m_3711_0	785	2	787	omz_770m_3711	961	+		Rhodospirillaceae	mreC rod shape-determining protein K03570 protein MreC
+omz_770m_3710_0	281	96	377	omz_770m_3710	1051	-		all	hypothetical protein
+omz_770m_3713_0	404	2	406	omz_770m_3713	937	+		all	hypothetical protein
+omz_770m_3713_1	299	416	715	omz_770m_3713	937	-		all	hypothetical protein
+omz_770m_3713_2	113	824	937	omz_770m_3713	937	+		all	hypothetical protein
+omz_770m_3712_0	272	279	551	omz_770m_3712	943	+	4.3.2.2	Bacteria	purB adenylosuccinate lyase (EC:4.3.2.2) K01756
+omz_770m_3712_1	377	548	925	omz_770m_3712	943	+	6.3.2.6	Proteobacteria	Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)
+omz_770m_3719_0	530	3	533	omz_770m_3719	925	-	3.6.4.3	Bacteria	ATPase WRNIP1 (EC:3.6.4.3) K07478 putative
+omz_770m_3719_1	128	560	688	omz_770m_3719	925	-		all	hypothetical protein
+omz_770m_3718_0	227	3	230	omz_770m_3718	974	-		all	hypothetical protein
+omz_770m_3718_1	740	234	974	omz_770m_3718	974	-		Clostridiales	TRAP-type C4-dicarboxylate transport system, large permease component
+omz_770m_8129_0	881	2	883	omz_770m_8129	883	+		Verrucomicrobia bacterium SCGC AAA164-A21	type II secretion system protein E K02454 general pathway E
+omz_770m_8128_0	356	1	357	omz_770m_8128	857	+		all	hypothetical protein
+omz_770m_8128_1	485	371	856	omz_770m_8128	857	-		Gammaproteobacteria	putative electron transport protein yjeS-like
+omz_770m_1403_0	560	2	562	omz_770m_1403	963	-		Gammaproteobacteria	peptidase M48, Ste24p
+omz_770m_1402_0	59	1	60	omz_770m_1402	956	-		all	hypothetical protein
+omz_770m_1402_1	434	57	491	omz_770m_1402	956	-		all	hypothetical protein
+omz_770m_1402_2	185	769	954	omz_770m_1402	956	-		all	hypothetical protein
+omz_770m_1401_0	419	78	497	omz_770m_1401	1023	+		all	hypothetical protein
+omz_770m_1401_1	338	529	867	omz_770m_1401	1023	+	6.3.3.1	Bacteria	purM phosphoribosylformylglycinamidine cyclo-ligase (EC:6.3.3.1) K01933
+omz_770m_1401_2	221	783	1004	omz_770m_1401	1023	-		all	hypothetical protein
+omz_770m_7837_0	593	1	594	omz_770m_7837	907	-		all	hypothetical protein
+omz_770m_7830_0	113	814	927	omz_770m_7830	1221	-		all	hypothetical protein
+omz_770m_7831_0	584	1	585	omz_770m_7831	858	-		all	
+omz_770m_1405_0	416	17	433	omz_770m_1405	1001	+	3.4.21.92	Bacteria	similar to Putative ATP-dependent Clp protease proteolytic subunit, mitochondrial precursor (Endopeptidase Clp) K01358 protease, subunit
+omz_770m_1404_0	383	2	385	omz_770m_1404	957	-		all	hypothetical protein
+omz_770m_1404_1	146	470	616	omz_770m_1404	957	-		all	hypothetical protein
+omz_770m_1409_0	500	33	533	omz_770m_1409	1048	-	3.1.6.4	Bacteria	N-acetylgalactosamine-6-sulfatase (EC:3.1.6.4)
+omz_770m_1409_1	479	567	1046	omz_770m_1409	1048	+		all	hypothetical protein
+omz_770m_1408_0	98	2	100	omz_770m_1408	940	-		all	hypothetical protein
+omz_770m_1408_1	113	69	182	omz_770m_1408	940	-		all	hypothetical protein
+omz_770m_1408_2	686	121	807	omz_770m_1408	940	-		all	hypothetical protein
+omz_770m_7838_0	785	3	788	omz_770m_7838	878	+		all	hypothetical protein
+omz_770m_7839_0	644	2	646	omz_770m_7839	908	+	1.6.99.5	Acidimicrobium ferrooxidans DSM 10331	NADH dehydrogenase (quinone) (EC:1.6.99.5) K00335 I subunit F
+omz_770m_7839_1	122	785	907	omz_770m_7839	908	+		all	hypothetical protein
+omz_770m_10299_0	767	3	770	omz_770m_10299	953	+		Thermobaculum terrenum ATCC BAA-798	molybdenum cofactor synthesis domain protein K03750 molybdopterin biosynthesis protein MoeA
+omz_770m_10298_0	512	2	514	omz_770m_10298	909	-		all	hypothetical protein
+omz_770m_10291_0	860	3	863	omz_770m_10291	907	-		Bacteria	group 2 glycosyl transferase
+omz_770m_10290_0	878	2	880	omz_770m_10290	880	+		all	hypothetical protein
+omz_770m_10293_0	569	17	586	omz_770m_10293	929	-	6.2.1.5	Bacteria	sucC succinyl-CoA ligase beta subunit (EC:6.2.1.5) K01903 synthetase
+omz_770m_10293_1	236	691	927	omz_770m_10293	929	+		all	hypothetical protein
+omz_770m_9541_0	440	21	461	omz_770m_9541	973	-	1.5.5.1	'Burkholderiales'	similar to predicted protein K00311 electron-transferring-flavoprotein dehydrogenase
+omz_770m_10294_0	776	94	870	omz_770m_10294	871	+		Candidatus Nitrosopumilus maritimus SCM1	K09118 protein
+omz_770m_10297_0	767	38	805	omz_770m_10297	959	+		all	cysteine synthase
+omz_770m_10297_1	137	822	959	omz_770m_10297	959	-		all	hypothetical protein
+omz_770m_10296_0	257	261	518	omz_770m_10296	934	+		all	hypothetical protein
+omz_770m_8383_0	806	1	807	omz_770m_8383	952	-		Proteobacteria	uvrA excinuclease ABC subunit A K03701 A
+omz_770m_8382_0	452	12	464	omz_770m_8382	949	-		Stackebrandtia nassauensis DSM 44728	electron transfer flavoprotein subunit alpha/beta
+omz_770m_8382_1	410	538	948	omz_770m_8382	949	-		Actinomycetales	Putative Dimethylglycine oxidase
+omz_770m_8381_0	938	1	939	omz_770m_8381	941	-		all	hypothetical protein
+omz_770m_8380_0	758	189	947	omz_770m_8380	965	+		gamma proteobacterium SCGC AAA007-O20	methyltransferase, putative
+omz_770m_8387_0	500	92	592	omz_770m_8387	954	+	2.7.1.71	SAR86 cluster bacterium SAR86E	Shikimate kinase I (EC 2.7.1.71)
+omz_770m_8386_0	296	248	544	omz_770m_8386	913	-		all	hypothetical protein
+omz_770m_8385_0	401	305	706	omz_770m_8385	919	-		all	hypothetical protein
+omz_770m_8384_0	383	3	386	omz_770m_8384	911	+	6.1.1.19	Gammaproteobacteria	argS arginyl-tRNA synthetase (EC:6.1.1.19) K01887
+omz_770m_8384_1	173	397	570	omz_770m_8384	911	+		all	hypothetical protein
+omz_770m_8384_2	344	567	911	omz_770m_8384	911	+		all	hypothetical protein
+omz_770m_8389_0	887	2	889	omz_770m_8389	939	-	1.1.1.37	Proteobacteria	inosine 5'-monophosphate dehydrogenase (EC:1.1.1.37) K00088 IMP
+omz_770m_8388_0	239	1	240	omz_770m_8388	932	+		all	hypothetical protein
+omz_770m_8388_1	650	280	930	omz_770m_8388	932	-		all	hypothetical protein
+omz_770m_908_0	554	20	574	omz_770m_908	1079	-		all	hypothetical protein
+omz_770m_909_0	269	210	479	omz_770m_909	1016	+		all	hypothetical protein
+omz_770m_909_1	371	644	1015	omz_770m_909	1016	-		all	hypothetical protein
+omz_770m_902_0	311	295	606	omz_770m_902	1078	+		'Rhodobacteraceae'	TRAP dicarboxylate transporter DctM subunit
+omz_770m_903_0	539	152	691	omz_770m_903	1062	+		all	aminopeptidase C
+omz_770m_903_1	131	744	875	omz_770m_903	1062	+		all	hypothetical protein
+omz_770m_900_0	734	1	735	omz_770m_900	1079	-		all	hypothetical protein
+omz_770m_901_0	119	3	122	omz_770m_901	1067	+		all	hypothetical protein
+omz_770m_901_1	755	112	867	omz_770m_901	1067	+		unclassified Gammaproteobacteria	Exoenzymes regulatory protein AepA precursor
+omz_770m_901_2	185	860	1045	omz_770m_901	1067	+		all	hypothetical protein
+omz_770m_906_0	638	56	694	omz_770m_906	1094	-	2.1.1.131	'Paenibacillaceae'	cbiH precorrin 3 methylase (EC:2.1.1.131) K05934 precorrin-3B C17-methyltransferase
+omz_770m_907_0	677	1	678	omz_770m_907	1052	+	2.6.1.52	Proteobacteria	phosphoserine aminotransferase (EC:2.6.1.52) K00831
+omz_770m_907_1	203	849	1052	omz_770m_907	1052	+		all	hypothetical protein
+omz_770m_904_0	491	3	494	omz_770m_904	1012	-	1.4.7.1	SAR324 cluster bacterium JCVI-SC AAA005	glutamate synthase (ferredoxin) (EC:1.4.7.1) K00265 (NADPH/NADH) large chain
+omz_770m_905_0	674	3	677	omz_770m_905	1035	-		Bacteria	mitochondrial translational initiation factor, putative K02519 translation factor IF-2
+omz_770m_905_1	212	821	1033	omz_770m_905	1035	-		all	hypothetical protein
+omz_770m_5094_0	557	3	560	omz_770m_5094	947	-		all	hypothetical protein
+omz_770m_5095_0	104	632	736	omz_770m_5095	1320	+		all	hypothetical protein
+omz_770m_5096_0	608	64	672	omz_770m_5096	966	+	1.6.5.3	Bacteria	NADH dehydrogenase I, L subunit K00341 I subunit
+omz_770m_5097_0	602	2	604	omz_770m_5097	883	-	3.2.1.26	Bacteria	sucrose-6-phosphate hydrolase K01193 beta-fructofuranosidase
+omz_770m_5097_1	161	620	781	omz_770m_5097	883	-		all	hypothetical protein
+omz_770m_5090_0	212	733	945	omz_770m_5090	1221	+		all	hypothetical protein
+omz_770m_5090_1	197	1024	1221	omz_770m_5090	1221	+		all	hypothetical protein
+omz_770m_5091_0	953	3	956	omz_770m_5091	957	+		Pseudomonas aeruginosa group	chaperonin complex component, TCP-1 eta subunit, putative
+omz_770m_5092_0	431	529	960	omz_770m_5092	961	+		all	hypothetical protein
+omz_770m_5093_0	80	3	83	omz_770m_5093	911	-		all	hypothetical protein
+omz_770m_5093_1	95	576	671	omz_770m_5093	911	-		all	hypothetical protein
+omz_770m_5098_0	107	3	110	omz_770m_5098	806	-		all	hypothetical protein
+omz_770m_5098_1	98	264	362	omz_770m_5098	806	-		all	hypothetical protein
+omz_770m_5099_0	83	2	85	omz_770m_5099	998	-		all	hypothetical protein
+omz_770m_5099_1	566	96	662	omz_770m_5099	998	-	2.7.6.5	Bacteria	(p)ppGpp synthetase I (GTP pyrophosphokinase), SpoT/RelA K00951 GTP pyrophosphokinase
+omz_770m_5099_2	155	635	790	omz_770m_5099	998	-		all	hypothetical protein
+omz_770m_9656_0	332	2	334	omz_770m_9656	947	+		all	hypothetical protein
+omz_770m_9656_1	317	522	839	omz_770m_9656	947	+		all	hypothetical protein
+omz_770m_9657_0	812	1	813	omz_770m_9657	929	-		all	hypothetical protein
+omz_770m_9654_0	224	2	226	omz_770m_9654	938	-		all	hypothetical protein
+omz_770m_9654_1	311	516	827	omz_770m_9654	938	+		all	hypothetical protein
+omz_770m_9655_0	281	30	311	omz_770m_9655	904	-	2.7.2.11	Proteobacteria	proB gamma-glutamyl kinase (EC:2.7.2.11) K00931 glutamate 5-kinase
+omz_770m_9655_1	296	308	604	omz_770m_9655	904	-		all	GTPase CgtA
+omz_770m_9655_2	311	576	887	omz_770m_9655	904	-		all	hypothetical protein
+omz_770m_9652_0	128	3	131	omz_770m_9652	894	+		all	hypothetical protein
+omz_770m_9652_1	596	163	759	omz_770m_9652	894	+	2.1.3.3	Bacilli	K00611 ornithine carbamoyltransferase
+omz_770m_9653_0	866	3	869	omz_770m_9653	870	+		all	hypothetical protein
+omz_770m_9650_0	653	11	664	omz_770m_9650	939	-		all	hypothetical protein
+omz_770m_9651_0	674	2	676	omz_770m_9651	913	+		Flavobacteriaceae	
+omz_770m_9429_0	203	408	611	omz_770m_9429	981	-		all	hypothetical protein
+omz_770m_9429_1	269	710	979	omz_770m_9429	981	-		all	hypothetical protein
+omz_770m_9658_0	746	3	749	omz_770m_9658	965	-	1.6.5.5	Alcaligenaceae	NADP-dependent oxidoreductase, putative K00344 NADPH2:quinone reductase
+omz_770m_9658_1	65	900	965	omz_770m_9658	965	-		all	hypothetical protein
+omz_770m_9428_0	917	3	920	omz_770m_9428	922	+		Chlamydia/Chlamydophila group	rpsA 30S ribosomal protein S1 K02945 small subunit S1
+omz_770m_7768_0	335	419	754	omz_770m_7768	939	+	5.2.1.8	Bacillaceae	PpiC-type peptidyl-prolyl cis-trans isomerase K07533 foldase protein PrsA
+omz_770m_7769_0	158	279	437	omz_770m_7769	1023	+		all	hypothetical protein
+omz_770m_7769_1	164	437	601	omz_770m_7769	1023	+		all	hypothetical protein
+omz_770m_7769_2	278	745	1023	omz_770m_7769	1023	+		all	hypothetical protein
+omz_770m_7764_0	734	2	736	omz_770m_7764	904	-		Ancona	FIG00766213:
+omz_770m_7765_0	269	3	272	omz_770m_7765	912	-		all	hypothetical protein
+omz_770m_7765_1	440	472	912	omz_770m_7765	912	+		Sorangium cellulosum 'So ce 56'	putative nucleotidyl transferase
+omz_770m_7766_0	680	3	683	omz_770m_7766	906	-		all	hypothetical protein
+omz_770m_7766_1	245	661	906	omz_770m_7766	906	-		all	hypothetical protein
+omz_770m_7767_0	722	11	733	omz_770m_7767	924	-		all	hypothetical protein
+omz_770m_7760_0	521	3	524	omz_770m_7760	1027	+		all	hypothetical protein
+omz_770m_7760_1	140	885	1025	omz_770m_7760	1027	-		all	hypothetical protein
+omz_770m_7761_0	695	2	697	omz_770m_7761	925	+		Pelagibaca bermudensis HTCC2601	Sensory box histidine kinase/response regulator
+omz_770m_7762_0	263	192	455	omz_770m_7762	1036	+		all	hypothetical protein
+omz_770m_7762_1	191	551	742	omz_770m_7762	1036	+		all	hypothetical protein
+omz_770m_7762_2	119	916	1035	omz_770m_7762	1036	-		all	hypothetical protein
+omz_770m_7763_0	161	3	164	omz_770m_7763	927	+		all	hypothetical protein
+omz_770m_7763_1	689	161	850	omz_770m_7763	927	+		all	
+omz_770m_9357_0	284	98	382	omz_770m_9357	967	+	5.4.2.10	"Alphabacteria" Cavalier-Smith 1992	glmM phosphoglucosamine mutase K03431 mutase
+omz_770m_9357_1	149	327	476	omz_770m_9357	967	+		all	hypothetical protein
+omz_770m_9357_2	308	421	729	omz_770m_9357	967	+	5.4.2.10	Rhodospirillales	glmM phosphoglucosamine mutase (EC:5.4.2.10) K03431
+omz_770m_9357_3	149	738	887	omz_770m_9357	967	+		all	hypothetical protein
+omz_770m_9356_0	290	3	293	omz_770m_9356	898	-		Bacteria	alkyl hydroperoxide reductase/thiol specific antioxidant/Mal allergen
+omz_770m_9356_1	218	297	515	omz_770m_9356	898	-		Bacteria	Alkyl hydroperoxide reductase subunit C-like protein
+omz_770m_9356_2	221	675	896	omz_770m_9356	898	-		all	hypothetical protein
+omz_770m_9355_0	572	3	575	omz_770m_9355	993	+		Bacteria	NHL repeat-containing protein
+omz_770m_9355_1	407	585	992	omz_770m_9355	993	-		all	hypothetical protein
+omz_770m_5542_0	899	6	905	omz_770m_5542	905	+	1.6.99.5	Bacillus/Clostridium group	proton-translocating NADH-quinone oxidoreductase subunit L (EC:1.6.99.5) K00341 NADH dehydrogenase I
+omz_770m_5543_0	185	268	453	omz_770m_5543	929	-	1.5.1.29	Chroococcales	NADPH-dependent FMN reductase K00299 reductase
+omz_770m_5540_0	797	2	799	omz_770m_5540	951	+		all	hypothetical protein
+omz_770m_5541_0	239	153	392	omz_770m_5541	927	+		all	hypothetical protein
+omz_770m_5541_1	437	419	856	omz_770m_5541	927	-		Pseudomonas aeruginosa group	OsmC family protein K07397 putative redox protein
+omz_770m_5546_0	119	3	122	omz_770m_5546	267	+		all	hypothetical protein
+omz_770m_5547_0	191	1	192	omz_770m_5547	1807	+		all	hypothetical protein
+omz_770m_5547_1	134	888	1022	omz_770m_5547	1807	-		all	hypothetical protein
+omz_770m_5544_0	191	2	193	omz_770m_5544	710	+		all	hypothetical protein
+omz_770m_5544_1	566	142	708	omz_770m_5544	710	+		all	hypothetical protein
+omz_770m_5545_0	620	343	963	omz_770m_5545	990	+	3.2.2.23	SAR324 cluster	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23)
+omz_770m_9384_0	554	1	555	omz_770m_9384	1025	-		all	hypothetical protein
+omz_770m_9384_1	266	759	1025	omz_770m_9384	1025	-		all	hypothetical protein
+omz_770m_9353_0	203	493	696	omz_770m_9353	752	-		all	hypothetical protein
+omz_770m_5548_0	209	2	211	omz_770m_5548	973	-		all	hypothetical protein
+omz_770m_5548_1	116	855	971	omz_770m_5548	973	+		all	hypothetical protein
+omz_770m_5549_0	710	1	711	omz_770m_5549	935	-		Cyanobacteria	btpA photosystem I biogenesis protein BtpA K06971
+omz_770m_9380_0	773	2	775	omz_770m_9380	939	-		all	hypothetical protein
+omz_770m_9381_0	83	1	84	omz_770m_9381	983	+		all	hypothetical protein
+omz_770m_9381_1	842	96	938	omz_770m_9381	983	+		alpha proteobacterium BAL199	binding-protein-dependent transport systems inner membrane component K02034 peptide/nickel system permease protein
+omz_770m_9382_0	248	27	275	omz_770m_9382	996	-		all	hypothetical protein
+omz_770m_9382_1	446	354	800	omz_770m_9382	996	+		all	
+omz_770m_9382_2	251	745	996	omz_770m_9382	996	+		all	
+omz_770m_9420_0	110	3	113	omz_770m_9420	893	+		all	hypothetical protein
+omz_770m_9420_1	680	211	891	omz_770m_9420	893	+		Bacteria	APG3 APG3 (ALBINO AND PALE GREEN) translation release factor/ factor, codon specific K02835 peptide chain factor 1
+omz_770m_4152_0	449	2	451	omz_770m_4152	925	+	1.1.1.100	Proteobacteria	3-oxoacyl- reductase (EC:1.1.1.100)
+omz_770m_4152_1	398	525	923	omz_770m_4152	925	+		all	hypothetical protein
+omz_770m_4153_0	167	3	170	omz_770m_4153	983	+		all	hypothetical protein
+omz_770m_4150_0	170	127	297	omz_770m_4150	963	+		all	hypothetical protein
+omz_770m_4151_0	419	48	467	omz_770m_4151	964	+		Bacteria	secreted alkaline phosphatase (fragment)
+omz_770m_4151_1	257	430	687	omz_770m_4151	964	+		all	hypothetical protein
+omz_770m_4156_0	734	164	898	omz_770m_4156	930	+	2.7.11.1	Bacillus/Clostridium group	PASTA sensor-containing serine/threonine protein kinase K08884 kinase, bacterial
+omz_770m_4103_0	278	2	280	omz_770m_4103	977	-		"Chlorobacterium" Guillebeau 1890, nom. rejic. Opin. 6 (not "Chlorobacterium" Lauterborn 1916)	
+omz_770m_4154_0	242	585	827	omz_770m_4154	1081	-		all	hypothetical protein
+omz_770m_4154_1	110	871	981	omz_770m_4154	1081	-		all	hypothetical protein
+omz_770m_4154_2	98	974	1072	omz_770m_4154	1081	-		all	hypothetical protein
+omz_770m_4155_0	431	2	433	omz_770m_4155	933	+		all	
+omz_770m_4158_0	113	1	114	omz_770m_4158	883	+		all	hypothetical protein
+omz_770m_4158_1	764	119	883	omz_770m_4158	883	+	3.6.1.19	Bacteria	mazG nucleoside triphosphate pyrophosphohydrolase (EC:3.6.1.19) K02428 nucleoside-triphosphate pyrophosphatase
+omz_770m_4159_0	77	988	1065	omz_770m_4159	1067	+		all	hypothetical protein
+omz_770m_7498_0	623	61	684	omz_770m_7498	832	+		Bacillus	2-oxoglutarate/malate translocator
+omz_770m_7499_0	146	293	439	omz_770m_7499	827	-		all	hypothetical protein
+omz_770m_7492_0	653	1	654	omz_770m_7492	846	-		all	hypothetical protein
+omz_770m_7493_0	617	138	755	omz_770m_7493	953	-		Bacteria	peptidase M28
+omz_770m_7490_0	341	31	372	omz_770m_7490	939	-		all	hypothetical protein
+omz_770m_7490_1	299	605	904	omz_770m_7490	939	-		all	hypothetical protein
+omz_770m_7491_0	683	3	686	omz_770m_7491	841	+		all	hypothetical protein
+omz_770m_7496_0	143	3	146	omz_770m_7496	900	-		all	hypothetical protein
+omz_770m_7496_1	590	163	753	omz_770m_7496	900	-	1.2.99.2	Proteobacteria	putative carbon monoxide dehydrogenase medium subunit, CoxM-like protein (EC:1.2.99.2) K03519 carbon-monoxide subunit
+omz_770m_7497_0	164	3	167	omz_770m_7497	831	-		all	hypothetical protein
+omz_770m_7497_1	500	167	667	omz_770m_7497	831	-		SAR324 cluster bacterium SCGC AAA240-J09	Esterase ybfF (EC 3.1.-.-)
+omz_770m_7497_2	182	648	830	omz_770m_7497	831	-		all	hypothetical protein
+omz_770m_7494_0	719	179	898	omz_770m_7494	915	+		all	hypothetical protein
+omz_770m_7495_0	842	2	844	omz_770m_7495	927	-		all	hypothetical protein
+omz_770m_5407_0	368	2	370	omz_770m_5407	547	+		all	hypothetical protein
+omz_770m_5406_0	71	2	73	omz_770m_5406	936	+		all	hypothetical protein
+omz_770m_5404_0	890	2	892	omz_770m_5404	894	+	2.1.1.13	Proteobacteria	Mtr, methioninesynthase 5-methyltetrahydrofolate-homocysteine methyltransferase (EC:2.1.1.13) K00548 5-methyltetrahydrofolate--homocysteine
+omz_770m_5403_0	860	3	863	omz_770m_5403	863	-	6.1.1.19	SAR324 cluster bacterium SCGC AAA240-J09	argS  (EC:6.1.1.19) K01887 arginyl-tRNA synthetase
+omz_770m_5402_0	740	1	741	omz_770m_5402	871	+	2.6.1.11	Lysobacteraceae	putative ornithine/acetylornithine aminotransferase (EC:2.6.1.11)
+omz_770m_5401_0	845	2	847	omz_770m_5401	848	+		all	hypothetical protein
+omz_770m_5400_0	236	3	239	omz_770m_5400	240	-		all	hypothetical protein
+omz_770m_5409_0	365	1	366	omz_770m_5409	853	-		Pseudomonas mendocina NK-01	C4-dicarboxylate-binding periplasmic protein K11688 protein DctP
+omz_770m_5409_1	338	514	852	omz_770m_5409	853	-		Pseudomonas mendocina NK-01	DNA-binding transcriptional regulatory transcription regulator protein
+omz_770m_5408_0	83	1	84	omz_770m_5408	722	+		all	hypothetical protein
+omz_770m_8633_0	197	2	199	omz_770m_8633	892	+		all	hypothetical protein
+omz_770m_8633_1	683	209	892	omz_770m_8633	892	-		Burkholderiales bacterium JOSHI_001	COGs COG3777 [Burkholderiales bacterium
+omz_770m_8632_0	659	3	662	omz_770m_8632	920	-		Gammaproteobacteria	K09504 DnaJ homolog subfamily A member 3
+omz_770m_8631_0	77	1	78	omz_770m_8631	954	-		all	hypothetical protein
+omz_770m_8631_1	707	17	724	omz_770m_8631	954	-		Ignavibacteriales	SSS sodium solute transporter superfamily
+omz_770m_8631_2	158	796	954	omz_770m_8631	954	-		all	hypothetical protein
+omz_770m_8630_0	722	66	788	omz_770m_8630	883	-		Chthoniobacter flavus Ellin514	
+omz_770m_8630_1	95	788	883	omz_770m_8630	883	-		all	hypothetical protein
+omz_770m_8637_0	212	191	403	omz_770m_8637	971	+		all	hypothetical protein
+omz_770m_8637_1	170	733	903	omz_770m_8637	971	+		all	hypothetical protein
+omz_770m_8636_0	863	1	864	omz_770m_8636	864	+		all	hypothetical protein
+omz_770m_7265_0	221	33	254	omz_770m_7265	918	-		all	hypothetical protein
+omz_770m_7265_1	332	389	721	omz_770m_7265	918	+		Thialkalivibrio	transposase mutator type
+omz_770m_8635_0	809	1	810	omz_770m_8635	810	-		all	hypothetical protein
+omz_770m_7264_0	272	216	488	omz_770m_7264	549	+		all	hypothetical protein
+omz_770m_8634_0	842	1	843	omz_770m_8634	843	-	6.4.1.3	biota	PCCB, DKFZp451E113 propionyl CoA carboxylase, beta polypeptide (EC:6.4.1.3) K01966 propionyl-CoA carboxylase chain
+omz_770m_7267_0	689	1	690	omz_770m_7267	928	+		CCMP 1375	phospholipid glycerol acyltransferase
+omz_770m_7266_0	908	2	910	omz_770m_7266	910	+		"Chlorobacterium" Guillebeau 1890, nom. rejic. Opin. 6 (not "Chlorobacterium" Lauterborn 1916)	NADH:flavin oxidoreductase/NADH oxidase
+omz_770m_7261_0	188	185	373	omz_770m_7261	948	-		all	hypothetical protein
+omz_770m_7261_1	260	401	661	omz_770m_7261	948	-		all	hypothetical protein
+omz_770m_7261_2	188	758	946	omz_770m_7261	948	-		all	hypothetical protein
+omz_770m_7260_0	320	2	322	omz_770m_7260	937	+		all	hypothetical protein
+omz_770m_7260_1	503	428	931	omz_770m_7260	937	+		all	hypothetical protein
+omz_770m_11403_0	893	18	911	omz_770m_11403	968	+		Bacteroidetes/Chlorobi group	hprK HPr kinase/phosphorylase (EC:2.7.1.-) K06023
+omz_770m_11402_0	233	3	236	omz_770m_11402	847	+		all	hypothetical protein
+omz_770m_11402_1	353	245	598	omz_770m_11402	847	+		all	hypothetical protein
+omz_770m_11401_0	230	2	232	omz_770m_11401	1060	-		all	hypothetical protein
+omz_770m_11401_1	197	685	882	omz_770m_11401	1060	-		all	hypothetical protein
+omz_770m_11401_2	179	879	1058	omz_770m_11401	1060	-		all	hypothetical protein
+omz_770m_11400_0	113	904	1017	omz_770m_11400	1019	-		all	hypothetical protein
+omz_770m_6019_0	908	1	909	omz_770m_6019	909	-	3.1.2.1	"Chlorobacterium" Guillebeau 1890, nom. rejic. Opin. 6 (not "Chlorobacterium" Lauterborn 1916)	acetyl-CoA hydrolase (EC:3.1.2.1) K01067
+omz_770m_11406_0	320	2	322	omz_770m_11406	975	-		Bacteria	imidazoleglycerol-phosphate synthase (predicted) K08681 glutamine amidotransferase
+omz_770m_11406_1	272	413	685	omz_770m_11406	975	-		Bacillus/Clostridium group	snz1 pyridoxine biosynthesis protein K06215 protein
+omz_770m_11405_0	203	3	206	omz_770m_11405	1061	+		all	hypothetical protein
+omz_770m_11405_1	308	419	727	omz_770m_11405	1061	+	4.1.1.48	Candidatus Nitrosopumilus maritimus SCM1	indole-3-glycerol-phosphate synthase (EC:4.1.1.48) K01609 indole-3-glycerol phosphate
+omz_770m_11404_0	839	2	841	omz_770m_11404	889	+	5.1.3.14	SAR324 cluster bacterium SCGC AAA001-C10	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)
+omz_770m_6015_0	347	122	469	omz_770m_6015	1017	+		all	hypothetical protein
+omz_770m_6014_0	668	147	815	omz_770m_6014	896	+		SAR324 cluster bacterium SCGC AAA001-C10	outer membrane efflux protein
+omz_770m_6017_0	308	2	310	omz_770m_6017	865	-		all	dihydrolipoamide acetyltransferase
+omz_770m_6017_1	197	332	529	omz_770m_6017	865	-		all	hypothetical protein
+omz_770m_6017_2	293	541	834	omz_770m_6017	865	-	1.2.4.1	Proteobacteria	acoB acetoin dehydrogenase complex, E1 component, beta subunit (EC:1.1.1.-) K00162 pyruvate component
+omz_770m_7262_0	584	288	872	omz_770m_7262	914	-		Pirellula sp. 1	signal peptide
+omz_770m_6011_0	476	14	490	omz_770m_6011	800	+		all	
+omz_770m_6011_1	188	611	799	omz_770m_6011	800	+		all	
+omz_770m_6010_0	599	140	739	omz_770m_6010	851	-		Proteobacteria	putative alpha/beta hydrolase fold
+omz_770m_6010_1	83	767	850	omz_770m_6010	851	-		all	hypothetical protein
+omz_770m_6013_0	725	3	728	omz_770m_6013	946	+		"Bacillus fluorescens liquefaciens" Flugge 1886	von Willebrand factor, type A K12549 surface adhesion protein
+omz_770m_6013_1	290	598	888	omz_770m_6013	946	-		all	hypothetical protein
+omz_770m_6012_0	269	2	271	omz_770m_6012	896	+		Prochlorococcus marinus str. MIT 9303	
+omz_770m_6012_1	200	241	441	omz_770m_6012	896	+		Anacystis	FIG00941306:
+omz_770m_6012_2	242	652	894	omz_770m_6012	896	+		Prochlorococcus marinus str. MIT 9303	FIG00940477:
+omz_770m_6569_0	488	1	489	omz_770m_6569	932	-	4.2.1.6	Bacillus/Clostridium group	dgoA galactonate dehydratase K01684 dehydratase
+omz_770m_6569_1	242	556	798	omz_770m_6569	932	-		all	
+omz_770m_6569_2	158	764	922	omz_770m_6569	932	-		all	hypothetical protein
+omz_770m_6568_0	668	2	670	omz_770m_6568	898	+		all	hypothetical protein
+omz_770m_7269_0	95	2	97	omz_770m_7269	921	+		all	hypothetical protein
+omz_770m_7269_1	824	97	921	omz_770m_7269	921	+		all	hypothetical protein
+omz_770m_8419_0	113	16	129	omz_770m_8419	964	-		all	hypothetical protein
+omz_770m_8419_1	668	266	934	omz_770m_8419	964	+		all	hypothetical protein
+omz_770m_7268_0	254	3	257	omz_770m_7268	914	+		all	hypothetical protein
+omz_770m_7268_1	380	337	717	omz_770m_7268	914	-		Bacteria	glnB nitrogen regulatory protein P-II 1 K04751 1
+omz_770m_8418_0	677	1	678	omz_770m_8418	901	+		Verrucomicrobia bacterium SCGC AAA168-F10	
+omz_770m_8418_1	209	690	899	omz_770m_8418	901	+		unclassified Verrucomicrobia (miscellaneous)	UPF0162 protein
+omz_770m_6176_0	836	3	839	omz_770m_6176	839	+	1.8.1.4	BCF group	lpd dihydrolipoamide dehydrogenase (EC:1.8.1.4) K00382
+omz_770m_6177_0	275	3	278	omz_770m_6177	835	-		SAR324 cluster bacterium SCGC AAA001-C10	
+omz_770m_6177_1	212	622	834	omz_770m_6177	835	-		all	hypothetical protein
+omz_770m_6174_0	887	3	890	omz_770m_6174	939	-		all	hypothetical protein
+omz_770m_6175_0	347	3	350	omz_770m_6175	731	+	1.5.3.1	'Rhodobacteraceae'	Sarcosine oxidase gamma subunit (EC 1.5.3.1)
+omz_770m_6175_1	338	392	730	omz_770m_6175	731	-	2.1.1.64	Gammaproteobacteria	ubiquinone biosynthesis O-methyltransferase (EC:2.1.1.64) K00568 3-demethylubiquinone-9 3-methyltransferase
+omz_770m_6172_0	392	2	394	omz_770m_6172	798	-		"Desulfuromonales" Kuever et al. 2005	Hypothetical nudix hydrolase YeaB
+omz_770m_6172_1	380	416	796	omz_770m_6172	798	-	1.7.99.7	Gammaproteobacteria	ATPase associated various cellular activities K04748 nitric-oxide reductase NorQ protein
+omz_770m_6173_0	611	60	671	omz_770m_6173	872	-		SAR324 cluster bacterium SCGC AAA240-J09	selenium-dependent molybdenum hydroxylase 1
+omz_770m_6170_0	344	14	358	omz_770m_6170	776	-		Bacteria	protein unknown function DUF805
+omz_770m_6170_1	254	520	774	omz_770m_6170	776	+		all	hypothetical protein
+omz_770m_6171_0	485	6	491	omz_770m_6171	870	+	2.2.1.6	'Betaproteobacteria'	ilvH acetolactate synthase 3 regulatory subunit (EC:2.2.1.6) K01653 I/III small
+omz_770m_6171_1	296	507	803	omz_770m_6171	870	+		all	hypothetical protein
+omz_770m_3263_0	479	7	486	omz_770m_3263	928	-	1.6.5.3	'Betaproteobacteria'	NADH-ubiquinone oxidoreductase 20 kDa subunit, mitochondrial K03940 NADH dehydrogenase (ubiquinone) Fe-S protein 7
+omz_770m_3263_1	356	499	855	omz_770m_3263	928	-	1.6.5.3	Proteobacteria	similar to NADH dehydrogenase (ubiquinone), subunit 3 K03880 I 3
+omz_770m_6178_0	146	3	149	omz_770m_6178	860	-		all	hypothetical protein
+omz_770m_6178_1	671	164	835	omz_770m_6178	860	+	1.14.13.1	Proteobacteria	putative monooxygenase K00480 salicylate hydroxylase
+omz_770m_6179_0	713	53	766	omz_770m_6179	824	+		'Burkholderiaceae'	oxidoreductase, rieske (2fe-2S) region (EC:1.14.13.-)
+omz_770m_1717_0	146	778	924	omz_770m_1717	926	-		all	hypothetical protein
+omz_770m_1716_0	785	56	841	omz_770m_1716	917	-		Proteobacteria	Rieske (2Fe-2S) domain-containing protein
+omz_770m_1715_0	152	92	244	omz_770m_1715	976	+		all	hypothetical protein
+omz_770m_1715_1	635	339	974	omz_770m_1715	976	-	3.5.2.3	Cyanobacteria	pyrC dihydroorotase (EC:3.5.2.3) K01465
+omz_770m_1714_0	137	3	140	omz_770m_1714	907	-		all	hypothetical protein
+omz_770m_1714_1	500	335	835	omz_770m_1714	907	-		all	hypothetical protein
+omz_770m_1713_0	314	2	316	omz_770m_1713	1034	-		all	hypothetical protein
+omz_770m_1713_1	377	510	887	omz_770m_1713	1034	-		OM60 clade	Beta-carotene ketolase (EC 1.14.-.-)
+omz_770m_1713_2	134	899	1033	omz_770m_1713	1034	-		all	hypothetical protein
+omz_770m_1712_0	767	2	769	omz_770m_1712	999	-		all	hypothetical protein
+omz_770m_1711_0	878	3	881	omz_770m_1711	927	-		all	hypothetical protein
+omz_770m_1246_0	578	106	684	omz_770m_1246	1039	-		all	hypothetical protein
+omz_770m_1246_1	188	850	1038	omz_770m_1246	1039	-		all	hypothetical protein
+omz_770m_4714_0	644	129	773	omz_770m_4714	933	+		Gammaproteobacteria	Protein unknown function DUF2170
+omz_770m_4714_1	107	825	932	omz_770m_4714	933	+		all	hypothetical protein
+omz_770m_4715_0	374	44	418	omz_770m_4715	1175	-		all	hypothetical protein
+omz_770m_4715_1	446	727	1173	omz_770m_4715	1175	+		all	hypothetical protein
+omz_770m_4716_0	515	229	744	omz_770m_4716	939	-	5.3.3.10	Bacteria	5-carboxymethyl-2-hydroxymuconate delta-isomerase (EC:5.3.3.10)
+omz_770m_4717_0	467	57	524	omz_770m_4717	979	-		"Candidatus Pelagibacter" Rappe et al. 2002	ABC transporter ATP-binding protein NatA (EC:3.6.3.-) K01995 branched-chain amino acid transport system
+omz_770m_4717_1	386	524	910	omz_770m_4717	979	-	3.6.3.25	"Candidatus Pelagibacter ubique" Rappe et al. 2002	putative high-affinity branched-chain amino acid transport permease (EC:3.6.3.25) K01998 system protein
+omz_770m_4717_2	71	907	978	omz_770m_4717	979	-		all	hypothetical protein
+omz_770m_4710_0	959	11	970	omz_770m_4710	971	-		all	hypothetical protein
+omz_770m_4711_0	566	3	569	omz_770m_4711	985	-		Proteobacteria	Rh family protein/ammonium transporter
+omz_770m_4712_0	308	13	321	omz_770m_4712	956	+		all	hypothetical protein
+omz_770m_4712_1	485	324	809	omz_770m_4712	956	-		SAR86 cluster bacterium SAR86E	
+omz_770m_4713_0	113	2	115	omz_770m_4713	953	+		all	hypothetical protein
+omz_770m_4713_1	107	112	219	omz_770m_4713	953	+		all	hypothetical protein
+omz_770m_4713_2	347	334	681	omz_770m_4713	953	+	6.1.1.21	Rhodospirillales	histidyl-tRNA synthetase (EC:6.1.1.21) K02502 ATP phosphoribosyltransferase regulatory subunit
+omz_770m_4718_0	674	59	733	omz_770m_4718	996	-		all	hypothetical protein
+omz_770m_4719_0	479	8	487	omz_770m_4719	883	+		all	hypothetical protein
+omz_770m_2381_0	917	32	949	omz_770m_2381	949	-		all	hypothetical protein
+omz_770m_2380_0	677	32	709	omz_770m_2380	949	-	3.1.3.18	"Alphabacteria" Cavalier-Smith 1992	gph1 phosphoglycolate phosphatase (EC:3.1.3.18) K01091
+omz_770m_2383_0	752	3	755	omz_770m_2383	896	-		Proteobacteria	CoA-transferase family III protein 53 (EC:2.8.3.-)
+omz_770m_2382_0	902	1	903	omz_770m_2382	919	-		all	hypothetical protein
+omz_770m_2385_0	728	1	729	omz_770m_2385	934	+	2.6.1.51	Gammaproteobacteria	aminotransferase, class V (EC:2.6.1.51) K00830 alanine-glyoxylate transaminase / serine-glyoxylate serine-pyruvate
+omz_770m_2384_0	329	1	330	omz_770m_2384	907	+		all	hypothetical protein
+omz_770m_2384_1	578	327	905	omz_770m_2384	907	+		all	hypothetical protein
+omz_770m_2387_0	335	2	337	omz_770m_2387	993	-		all	hypothetical protein
+omz_770m_2387_1	323	337	660	omz_770m_2387	993	-		all	hypothetical protein
+omz_770m_2386_0	953	2	955	omz_770m_2386	955	-		"Planctomycetaceae" Schlesner and Stackebrandt 1987 emend. Ward 2011	membrane-bound dehydrogenase domain protein
+omz_770m_2389_0	308	1	309	omz_770m_2389	911	+		Blastopirellula marina DSM 3645	
+omz_770m_2389_1	395	455	850	omz_770m_2389	911	+		all	hypothetical protein
+omz_770m_2389_2	92	819	911	omz_770m_2389	911	+		all	hypothetical protein
+omz_770m_2388_0	581	2	583	omz_770m_2388	891	+		Rhodospirillales	puuD gamma-glutamyl-gamma-aminobutyrate hydrolase K07010 putative glutamine amidotransferase
+omz_770m_2388_1	221	668	889	omz_770m_2388	891	+	5.4.99.12	"Alphabacteria" Cavalier-Smith 1992	RNA-binding S4 domain-containing protein K06178 ribosomal large subunit pseudouridine synthase B
+omz_770m_223_0	296	251	547	omz_770m_223	1029	+		all	hypothetical protein
+omz_770m_223_1	149	550	699	omz_770m_223	1029	-		all	hypothetical protein
+omz_770m_222_0	866	1	867	omz_770m_222	970	+		all	hypothetical protein
+omz_770m_221_0	860	8	868	omz_770m_221	976	+		all	hypothetical protein
+omz_770m_220_0	842	1	843	omz_770m_220	953	-		all	hypothetical protein
+omz_770m_220_1	104	818	922	omz_770m_220	953	-		all	hypothetical protein
+omz_770m_227_0	572	3	575	omz_770m_227	1036	-		Proteobacteria	branched chain amino acid ABC transporter periplasmic substrate-binding protein K01999 branched-chain transport system protein
+omz_770m_226_0	587	110	697	omz_770m_226	946	-		all	hypothetical protein
+omz_770m_225_0	272	12	284	omz_770m_225	1085	+		all	hypothetical protein
+omz_770m_225_1	152	546	698	omz_770m_225	1085	-		all	hypothetical protein
+omz_770m_224_0	137	1	138	omz_770m_224	1243	-		all	hypothetical protein
+omz_770m_229_0	476	115	591	omz_770m_229	1069	-		all	hypothetical protein
+omz_770m_228_0	650	98	748	omz_770m_228	967	-		all	hypothetical protein
+omz_770m_4439_0	677	179	856	omz_770m_4439	939	+	4.2.1.42	'Burkholderiales'	galactarate dehydratase (EC:4.2.1.42) K01685 altronate hydrolase
+omz_770m_4438_0	539	2	541	omz_770m_4438	985	+		Brevibacillus massiliensis	ABC-type branched-chain amino acid transport systems, ATPase component K01995 system ATP-binding protein
+omz_770m_4438_1	446	538	984	omz_770m_4438	985	+		all	hypothetical protein
+omz_770m_4431_0	263	2	265	omz_770m_4431	977	-		all	hypothetical protein
+omz_770m_4431_1	662	314	976	omz_770m_4431	977	-		all	hypothetical protein
+omz_770m_4430_0	269	2	271	omz_770m_4430	898	-		Sulfitobacter sp. NAS-14.1	FIG01142860:
+omz_770m_4430_1	575	322	897	omz_770m_4430	898	-	2.1.1.13	"Alphabacteria" Cavalier-Smith 1992	mtbC dimethylamine corrinoid protein, putative K00548 5-methyltetrahydrofolate--homocysteine methyltransferase
+omz_770m_4433_0	725	7	732	omz_770m_4433	950	-		all	hypothetical protein
+omz_770m_4433_1	176	772	948	omz_770m_4433	950	-		all	hypothetical protein
+omz_770m_4432_0	914	3	917	omz_770m_4432	928	+		Bacteria	peptidase S9 prolyl oligopeptidase active site domain-containing protein
+omz_770m_4435_0	671	138	809	omz_770m_4435	993	-		"Alphabacteria" Cavalier-Smith 1992	Os03g0305700 K02836 peptide chain release factor 2
+omz_770m_4434_0	143	1	144	omz_770m_4434	992	-		all	hypothetical protein
+omz_770m_4434_1	389	420	809	omz_770m_4434	992	-		Bacteria	Appr-1-p processing
+omz_770m_4437_0	848	46	894	omz_770m_4437	967	-		all	hypothetical protein
+omz_770m_4436_0	263	20	283	omz_770m_4436	939	+		all	hypothetical protein
+omz_770m_4436_1	254	240	494	omz_770m_4436	939	+		all	hypothetical protein
+omz_770m_4436_2	233	704	937	omz_770m_4436	939	+		all	hypothetical protein
+omz_770m_2659_0	869	1	870	omz_770m_2659	872	+		SAR324 cluster bacterium SCGC AAA001-C10	Cytochrome c4
+omz_770m_2658_0	755	123	878	omz_770m_2658	878	-		Bacteria	ParB-like nuclease domain-containing protein transcriptional regulator K03497 chromosome partitioning protein, ParB family
+omz_770m_2657_0	410	59	469	omz_770m_2657	925	-		all	hypothetical protein
+omz_770m_2657_1	131	700	831	omz_770m_2657	925	+		all	hypothetical protein
+omz_770m_2656_0	152	714	866	omz_770m_2656	866	+		all	hypothetical protein
+omz_770m_2655_0	512	1	513	omz_770m_2655	969	+		all	hypothetical protein
+omz_770m_2655_1	458	510	968	omz_770m_2655	969	-		all	hypothetical protein
+omz_770m_2654_0	482	3	485	omz_770m_2654	814	-		all	hypothetical protein
+omz_770m_2654_1	329	485	814	omz_770m_2654	814	-		all	
+omz_770m_2653_0	74	2	76	omz_770m_2653	1058	-		all	hypothetical protein
+omz_770m_2653_1	416	36	452	omz_770m_2653	1058	-		all	hypothetical protein
+omz_770m_2653_2	194	458	652	omz_770m_2653	1058	-		all	hypothetical protein
+omz_770m_2653_3	137	919	1056	omz_770m_2653	1058	-		all	hypothetical protein
+omz_770m_2652_0	797	3	800	omz_770m_2652	833	-	2.6.1.45	Proteobacteria	aminotransferase, class V (EC:2.6.1.45)
+omz_770m_2651_0	674	41	715	omz_770m_2651	823	+	6.3.4.5	Bacillus polymyxa group	COG0137: Argininosuccinate synthase (ISS) K01940 argininosuccinate
+omz_770m_2650_0	122	580	702	omz_770m_2650	887	+		all	hypothetical protein
+omz_770m_5397_0	116	1044	1160	omz_770m_5397	1161	-		all	hypothetical protein
+omz_770m_5395_0	188	1	189	omz_770m_5395	866	+		all	hypothetical protein
+omz_770m_5394_0	668	2	670	omz_770m_5394	670	-		"Deltabacteria" Cavalier-Smith 1992	rod shape-determining protein RodA K05837 shape determining RodA
+omz_770m_5393_0	893	1	894	omz_770m_5393	954	-	2.7.11.22	Rosidae	K02208 cyclin-dependent kinase 8/11
+omz_770m_5392_0	488	3	491	omz_770m_5392	912	-		all	hypothetical protein
+omz_770m_5392_1	221	502	723	omz_770m_5392	912	-		Gammaproteobacteria	MaoC-like domain protein
+omz_770m_5391_0	371	3	374	omz_770m_5391	928	-	6.1.1.14	Bacteria	glyS glycyl-tRNA synthetase (EC:6.1.1.14) K01880
+omz_770m_5391_1	440	397	837	omz_770m_5391	928	-	5.99.1.2	Bacteria	DNA topoisomerase I (EC:5.99.1.2) K03168
+omz_770m_5390_0	857	18	875	omz_770m_5390	877	+	1.8.1.2	Bacteria	sulfite reductase subunit beta K00381 (NADPH) hemoprotein beta-component
+omz_770m_5399_0	146	332	478	omz_770m_5399	578	-		all	hypothetical protein
+omz_770m_5399_1	74	504	578	omz_770m_5399	578	-		all	hypothetical protein
+omz_770m_5398_0	362	1	363	omz_770m_5398	990	+		all	hypothetical protein
+omz_770m_4387_0	794	80	874	omz_770m_4387	875	+		'Desulfobacterales'	potassium efflux transporter K03455 monovalent cation:H+ antiporter-2, CPA2 family
+omz_770m_4386_0	110	367	477	omz_770m_4386	622	-		all	hypothetical protein
+omz_770m_4385_0	512	2	514	omz_770m_4385	836	-	2.8.3.6	'Burkholderiales'	catI, pcaI 3-oxoadipate CoA-transferase subunit A (EC:2.8.3.6) K01031 CoA-transferase, alpha
+omz_770m_4385_1	101	735	836	omz_770m_4385	836	+		all	hypothetical protein
+omz_770m_4384_0	155	365	520	omz_770m_4384	912	-		all	hypothetical protein
+omz_770m_4384_1	257	647	904	omz_770m_4384	912	-		Bacteria	putative phosphatidylinositol-4-phosphate 5-kinase
+omz_770m_4383_0	212	183	395	omz_770m_4383	1256	-		all	hypothetical protein
+omz_770m_4383_1	122	1132	1254	omz_770m_4383	1256	+		all	hypothetical protein
+omz_770m_4382_0	308	3	311	omz_770m_4382	898	+		all	hypothetical protein
+omz_770m_4382_1	413	380	793	omz_770m_4382	898	+		all	hypothetical protein
+omz_770m_4381_0	830	3	833	omz_770m_4381	909	+		all	hypothetical protein
+omz_770m_4380_0	296	3	299	omz_770m_4380	948	-		all	hypothetical protein
+omz_770m_4380_1	122	572	694	omz_770m_4380	948	+		all	hypothetical protein
+omz_770m_4389_0	617	2	619	omz_770m_4389	740	+	1.4.1.1	Bacteria	ald2 Ald2 (EC:1.4.1.1) K00259 alanine dehydrogenase
+omz_770m_4388_0	719	3	722	omz_770m_4388	722	+		all	hypothetical protein
+omz_770m_739_0	641	170	811	omz_770m_739	922	-	4.2.1.84	Proteobacteria	nthA nitrile hydratase, alpha subunit (EC:4.2.1.84) K01721 hydratase
+omz_770m_738_0	494	1	495	omz_770m_738	872	-	6.2.1.1	Cyanobacteria	acs acetyl-coenzyme A synthetase (EC:6.2.1.1) K01895 acetyl-CoA
+omz_770m_735_0	98	1	99	omz_770m_735	947	-		all	hypothetical protein
+omz_770m_735_1	794	148	942	omz_770m_735	947	-		all	hypothetical protein
+omz_770m_734_0	503	2	505	omz_770m_734	955	-		all	hypothetical protein
+omz_770m_734_1	242	712	954	omz_770m_734	955	+		all	hypothetical protein
+omz_770m_737_0	929	2	931	omz_770m_737	966	-		all	hypothetical protein
+omz_770m_736_0	605	1	606	omz_770m_736	862	-		Burkholderiales bacterium JOSHI_001	Methyltransferase type 11 [Burkholderiales bacterium
+omz_770m_731_0	218	2	220	omz_770m_731	976	-	4.1.1.23	Candidatus Nitrosopumilus maritimus SCM1	orotidine 5'-phosphate decarboxylase K01591 orotidine-5'-phosphate decarboxylase
+omz_770m_731_1	665	201	866	omz_770m_731	976	-		Candidatus Nitrosopumilus maritimus SCM1	
+omz_770m_730_0	731	48	779	omz_770m_730	872	-		all	
+omz_770m_733_0	794	3	797	omz_770m_733	964	-		all	
+omz_770m_732_0	131	2	133	omz_770m_732	946	-		all	hypothetical protein
+omz_770m_732_1	443	338	781	omz_770m_732	946	-		Planctomycete sp. KSU-1	ABC transporter substrate binding protein K02067 putative transport system substrate-binding protein
+omz_770m_732_2	131	815	946	omz_770m_732	946	-		all	hypothetical protein
+omz_770m_1098_0	644	3	647	omz_770m_1098	1052	+		all	hypothetical protein
+omz_770m_1099_0	368	2	370	omz_770m_1099	1004	-		all	hypothetical protein
+omz_770m_1099_1	251	371	622	omz_770m_1099	1004	-	1.6.5.3	Bacteria	NDUFS7, CI-20, CI-20KD, FLJ45860, FLJ46880, MGC120002, MY017, PSST NADH dehydrogenase (ubiquinone) Fe-S protein 7, 20kDa (NADH-coenzyme Q reductase) (EC:1.6.5.3 1.6.99.3) K03940 7
+omz_770m_1090_0	305	157	462	omz_770m_1090	938	-		all	hypothetical protein
+omz_770m_1090_1	233	587	820	omz_770m_1090	938	+		all	hypothetical protein
+omz_770m_1091_0	341	2	343	omz_770m_1091	1045	-		all	hypothetical protein
+omz_770m_1091_1	503	344	847	omz_770m_1091	1045	-		Corynebacterineae	
+omz_770m_1091_2	98	801	899	omz_770m_1091	1045	-		all	hypothetical protein
+omz_770m_1092_0	473	1	474	omz_770m_1092	1032	-	4.2.1.11	Proteobacteria	KLTH0B08514p K01689 enolase
+omz_770m_1092_1	398	634	1032	omz_770m_1092	1032	-		all	hypothetical protein
+omz_770m_1093_0	386	1	387	omz_770m_1093	610	+		all	NADH-quinone oxidoreductase subunit E
+omz_770m_1093_1	224	384	608	omz_770m_1093	610	+		all	NADH-quinone oxidoreductase subunit F
+omz_770m_1094_0	62	2	64	omz_770m_1094	1027	-		all	hypothetical protein
+omz_770m_1094_1	548	64	612	omz_770m_1094	1027	-	2.7.8.5	"Alphabacteria" Cavalier-Smith 1992	pgsA CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC:2.7.8.5) K00995
+omz_770m_1094_2	242	641	883	omz_770m_1094	1027	-		all	hypothetical protein
+omz_770m_1094_3	95	931	1026	omz_770m_1094	1027	+		all	hypothetical protein
+omz_770m_1095_0	158	2	160	omz_770m_1095	1018	+		all	hypothetical protein
+omz_770m_1095_1	116	373	489	omz_770m_1095	1018	-		all	hypothetical protein
+omz_770m_1096_0	242	80	322	omz_770m_1096	1071	-		all	hypothetical protein
+omz_770m_1096_1	407	297	704	omz_770m_1096	1071	-		all	hypothetical protein
+omz_770m_1097_0	743	2	745	omz_770m_1097	1073	-		Nitrolancea hollandica Lb	undecaprenyl phosphate 4-deoxy-4-formamido-L-arabinose transferase
+omz_770m_6257_0	140	1	141	omz_770m_6257	741	-		all	hypothetical protein
+omz_770m_6256_0	677	2	679	omz_770m_6256	943	+		all	
+omz_770m_6255_0	176	2	178	omz_770m_6255	840	+		all	hypothetical protein
+omz_770m_6255_1	308	162	470	omz_770m_6255	840	-		Candidatus Nitrosopumilus maritimus SCM1	
+omz_770m_6255_2	128	421	549	omz_770m_6255	840	-		all	hypothetical protein
+omz_770m_6255_3	146	557	703	omz_770m_6255	840	-		all	hypothetical protein
+omz_770m_6255_4	143	696	839	omz_770m_6255	840	-		all	hypothetical protein
+omz_770m_8718_0	620	2	622	omz_770m_8718	915	-		"Bacillus paratuberculosis" (Bergey et al. 1923) Krasil'nikov 1941	putative monooxygenase
+omz_770m_8718_1	131	782	913	omz_770m_8718	915	+		all	hypothetical protein
+omz_770m_8719_0	209	2	211	omz_770m_8719	899	-		Ruegeria pomeroyi DSS-3	isochorismatase hydrolase
+omz_770m_8719_1	689	208	897	omz_770m_8719	899	-		Ruegeria pomeroyi DSS-3	N-formylglutamate amidohydrolase
+omz_770m_10330_0	560	3	563	omz_770m_10330	923	+		Bacteria	Histidine triad nucleotide-binding protein 1 (HINT1)
+omz_770m_6254_0	149	909	1058	omz_770m_6254	1131	-		all	hypothetical protein
+omz_770m_10336_0	884	1	885	omz_770m_10336	887	+	1.2.1.38	"Dehalococcoides ethenogenes" Maymo-Gatell et al. 1997	argC N-acetyl-gamma-glutamyl-phosphate reductase (EC:1.2.1.38) K00145 N-acetyl-gamma-glutamyl-phosphate/N-acetyl-gamma-aminoadipyl-phosphate
+omz_770m_10625_0	554	23	577	omz_770m_10625	981	+		all	hypothetical protein
+omz_770m_3528_0	692	97	789	omz_770m_3528	1038	+	1.21.4.2	Bacteria	glycine reductase complex protein C large subunit (EC:2.7.-.-) K10670  K10671 sarcosine  K10672 betaine
+omz_770m_3529_0	401	51	452	omz_770m_3529	963	+	1.17.1.4	Bacteria	Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4) / dehydrogenase, FAD binding
+omz_770m_3529_1	245	449	694	omz_770m_3529	963	+		all	hypothetical protein
+omz_770m_3529_2	161	681	842	omz_770m_3529	963	-		all	hypothetical protein
+omz_770m_3526_0	899	3	902	omz_770m_3526	903	-		all	hypothetical protein
+omz_770m_3527_0	110	1	111	omz_770m_3527	904	+		all	hypothetical protein
+omz_770m_3527_1	707	131	838	omz_770m_3527	904	-		all	hypothetical protein
+omz_770m_3524_0	692	255	947	omz_770m_3524	949	-		all	copper-exporting ATPase
+omz_770m_3525_0	803	1	804	omz_770m_3525	968	-		Anacystis	K09121 protein
+omz_770m_3522_0	935	6	941	omz_770m_3522	975	+		Actinomycetales	glycosyl transferase family 2 protein
+omz_770m_3523_0	173	299	472	omz_770m_3523	883	-		all	hypothetical protein
+omz_770m_3520_0	446	1	447	omz_770m_3520	966	+		all	hypothetical protein
+omz_770m_3520_1	140	474	614	omz_770m_3520	966	-		all	hypothetical protein
+omz_770m_8717_0	389	2	391	omz_770m_8717	859	-	3.4.11.18	Candidatus Nitrosopumilus maritimus SCM1	methionine aminopeptidase (EC:3.4.11.18) K01265 methionyl
+omz_770m_9049_0	140	2	142	omz_770m_9049	1020	-		all	hypothetical protein
+omz_770m_9049_1	197	194	391	omz_770m_9049	1020	+		all	hypothetical protein
+omz_770m_9049_2	242	554	796	omz_770m_9049	1020	+		all	hypothetical protein
+omz_770m_9049_3	170	849	1019	omz_770m_9049	1020	+		all	hypothetical protein
+omz_770m_9048_0	365	2	367	omz_770m_9048	906	+		Candidatus Ruthia magnifica str. 'Calyptogena magnifica'	redoxin domain-containing protein
+omz_770m_9048_1	458	378	836	omz_770m_9048	906	+	3.6.4.12	Proteobacteria	ATP-dependent DNA helicase UvrD (EC:3.6.1.-) K03657 II / PcrA
+omz_770m_9048_2	128	778	906	omz_770m_9048	906	+		all	hypothetical protein
+omz_770m_6251_0	338	3	341	omz_770m_6251	940	+		all	hypothetical protein
+omz_770m_6251_1	203	341	544	omz_770m_6251	940	+		all	hypothetical protein
+omz_770m_6251_2	188	752	940	omz_770m_6251	940	-		all	hypothetical protein
+omz_770m_9043_0	278	434	712	omz_770m_9043	1006	-		all	hypothetical protein
+omz_770m_9043_1	167	837	1004	omz_770m_9043	1006	-		all	hypothetical protein
+omz_770m_9042_0	920	1	921	omz_770m_9042	923	+		all	hypothetical protein
+omz_770m_9041_0	521	22	543	omz_770m_9041	755	+	1.5.3.1	"Chlorobacterium" Guillebeau 1890, nom. rejic. Opin. 6 (not "Chlorobacterium" Lauterborn 1916)	FAD dependent oxidoreductase K00303 sarcosine oxidase, subunit beta
+omz_770m_9041_1	203	550	753	omz_770m_9041	755	-		all	hypothetical protein
+omz_770m_6250_0	698	3	701	omz_770m_6250	913	-		"Chlorobiacea" (sic) Copeland 1956	acriflavin resistance protein
+omz_770m_9047_0	950	3	953	omz_770m_9047	954	+		all	hypothetical protein
+omz_770m_9046_0	638	1	639	omz_770m_9046	900	+		all	hypothetical protein
+omz_770m_9045_0	605	2	607	omz_770m_9045	892	-		all	hypothetical protein
+omz_770m_9045_1	155	735	890	omz_770m_9045	892	-		all	hypothetical protein
+omz_770m_9044_0	848	99	947	omz_770m_9044	948	+		all	, partial
+omz_770m_1674_0	242	1	243	omz_770m_1674	892	+	1.2.1.2	Proteobacteria	formate dehydrogenase subunit alpha (EC:1.2.1.2) K00123 dehydrogenase,
+omz_770m_1674_1	365	250	615	omz_770m_1674	892	-		Proteobacteria	putative transcriptional regulator, ModE family K02019 molybdate transport system regulatory protein
+omz_770m_1674_2	191	699	890	omz_770m_1674	892	+		all	hypothetical protein
+omz_770m_1675_0	428	77	505	omz_770m_1675	854	-		all	hypothetical protein
+omz_770m_1676_0	233	116	349	omz_770m_1676	1027	+		Bacteria	RNA polymerase, sigma 70 subunit, RpoD subfamily K03086 polymerase primary factor
+omz_770m_1677_0	584	203	787	omz_770m_1677	974	+		all	hypothetical protein
+omz_770m_1670_0	263	1	264	omz_770m_1670	991	+		all	hypothetical protein
+omz_770m_1670_1	452	138	590	omz_770m_1670	991	-		all	
+omz_770m_1671_0	731	247	978	omz_770m_1671	999	+		all	
+omz_770m_1672_0	515	3	518	omz_770m_1672	890	+		all	
+omz_770m_1672_1	362	515	877	omz_770m_1672	890	+		all	hypothetical protein
+omz_770m_1673_0	161	2	163	omz_770m_1673	916	+		all	hypothetical protein
+omz_770m_1673_1	506	234	740	omz_770m_1673	916	+	2.7.4.14	Gammaproteobacteria	cmk cytidylate kinase (EC:2.7.4.14) K00945
+omz_770m_1678_0	68	1	69	omz_770m_1678	732	-		all	hypothetical protein
+omz_770m_1678_1	485	105	590	omz_770m_1678	732	-		all	
+omz_770m_1678_2	95	637	732	omz_770m_1678	732	+		all	hypothetical protein
+omz_770m_1679_0	266	1	267	omz_770m_1679	930	-		Gammaproteobacteria	SSU ribosomal protein S15P K02956 small subunit S15
+omz_770m_1679_1	407	431	838	omz_770m_1679	930	-	4.2.1.70	Gammaproteobacteria	truB tRNA pseudouridine synthase B (EC:4.2.1.70) K03177
+omz_770m_6259_0	119	3	122	omz_770m_6259	1595	-		all	hypothetical protein
+omz_770m_6259_1	494	691	1185	omz_770m_6259	1595	+		all	hypothetical protein
+omz_770m_6258_0	185	776	961	omz_770m_6258	963	-		all	hypothetical protein
+omz_770m_2011_0	842	15	857	omz_770m_2011	858	-		Ectothiorhodospira group	Na+/solute symporter
+omz_770m_2010_0	308	3	311	omz_770m_2010	878	+		Bacteria	ABC-type multidrug transport system, permease component K09686 antibiotic system protein
+omz_770m_2010_1	362	428	790	omz_770m_2010	878	-		gamma proteobacterium SCGC AAA001-B15	Ethanolamine utilization protein eutQ (cobalamin-dependent degradation ethanolamine), putative
+omz_770m_2013_0	407	387	794	omz_770m_2013	794	+		Chloropseudomonas ethylica	thioesterase superfamily protein
+omz_770m_2012_0	800	96	896	omz_770m_2012	896	+		all	hypothetical protein
+omz_770m_2015_0	803	3	806	omz_770m_2015	901	-	6.1.1.12	Gammaproteobacteria	tRNA synthetase class II (D, K N) family protein (EC:6.1.1.12) K01876 aspartyl-tRNA
+omz_770m_2014_0	833	3	836	omz_770m_2014	874	-		all	hypothetical protein
+omz_770m_2017_0	836	112	948	omz_770m_2017	948	-		all	hypothetical protein
+omz_770m_2016_0	545	3	548	omz_770m_2016	862	-	3.1.13.1	Candidatus Ruthia magnifica str. 'Calyptogena magnifica'	ribonuclease II family protein K01147 exoribonuclease
+omz_770m_2016_1	257	604	861	omz_770m_2016	862	-		all	ispZ intracellular septation protein K06190 protein
+omz_770m_2019_0	878	11	889	omz_770m_2019	963	-		Proteobacteria	N-acetyl sugar amidotransferase
+omz_770m_2018_0	791	2	793	omz_770m_2018	932	-		all	hypothetical protein
+omz_770m_4949_0	899	3	902	omz_770m_4949	924	+	2.5.1.54	Proteobacteria	DHS3 2-dehydro-3-deoxyphosphoheptonate aldolase/ 3-deoxy-d-arabino-heptulosonate 7-phosphate synthetase (EC:2.5.1.54) K01626 3-deoxy-7-phosphoheptulonate synthase
+omz_770m_4948_0	572	133	705	omz_770m_4948	996	+		all	hypothetical protein
+omz_770m_4948_1	233	745	978	omz_770m_4948	996	-		all	hypothetical protein
+omz_770m_4941_0	287	2	289	omz_770m_4941	904	+		all	hypothetical protein
+omz_770m_4941_1	545	352	897	omz_770m_4941	904	+		all	hypothetical protein
+omz_770m_4940_0	926	3	929	omz_770m_4940	968	-		Bacteria	wbnF putative nucleotide sugar epimerase K01795
+omz_770m_4940_1	83	884	967	omz_770m_4940	968	-		all	hypothetical protein
+omz_770m_4943_0	770	1	771	omz_770m_4943	911	-		"Alphabacteria" Cavalier-Smith 1992	secA, azi, div preprotein translocase subunit SecA K03070 SecA
+omz_770m_4942_0	395	7	402	omz_770m_4942	870	-		all	hypothetical protein
+omz_770m_4942_1	170	695	865	omz_770m_4942	870	-		all	hypothetical protein
+omz_770m_4944_0	476	2	478	omz_770m_4944	953	-		all	hypothetical protein
+omz_770m_4944_1	428	525	953	omz_770m_4944	953	-		all	hypothetical protein
+omz_770m_4947_0	443	2	445	omz_770m_4947	892	+		Bacteria	Uncharacterized protein family UPF0324
+omz_770m_4946_0	590	2	592	omz_770m_4946	966	+		all	hypothetical protein
+omz_770m_4946_1	362	603	965	omz_770m_4946	966	+		all	hypothetical protein
+omz_770m_2460_0	530	340	870	omz_770m_2460	870	+		ATCC BAA-863	
+omz_770m_2461_0	452	1	453	omz_770m_2461	912	-		Chthoniobacter flavus Ellin514	ATPase, AAA family
+omz_770m_2461_1	296	614	910	omz_770m_2461	912	-		all	hypothetical protein
+omz_770m_2462_0	896	1	897	omz_770m_2462	911	+		alpha proteobacterium BAL199	xylose isomerase domain-containing protein
+omz_770m_2463_0	71	1	72	omz_770m_2463	410	-		all	hypothetical protein
+omz_770m_2463_1	59	350	409	omz_770m_2463	410	+		all	hypothetical protein
+omz_770m_2464_0	257	1	258	omz_770m_2464	903	-		Hyphomicrobium sp.	
+omz_770m_2464_1	539	320	859	omz_770m_2464	903	-		all	
+omz_770m_2465_0	773	3	776	omz_770m_2465	908	+	2.8.1.7	Bacteria	sufS cysteine desulfurase (SufS) (EC:2.8.1.7) K11717 / selenocysteine lyase
+omz_770m_2466_0	419	1	420	omz_770m_2466	831	+		ATCC 19310	Possible restriction endonuclease
+omz_770m_2466_1	230	601	831	omz_770m_2466	831	+		all	hypothetical protein
+omz_770m_2467_0	818	3	821	omz_770m_2467	903	+	2.7.7.4	Proteobacteria	translation elongation factor, putative (EC:2.7.7.4)
+omz_770m_2468_0	710	3	713	omz_770m_2468	936	+	6.2.1.3	Bacillales	putative long-chain fatty-acid-CoA ligase (EC:6.2.1.3) K01897 acyl-CoA synthetase
+omz_770m_2469_0	743	153	896	omz_770m_2469	952	+		"Prochloron didemni" (Lewin 1975) Lewin 1977	putative carbamoyltransferase family protein K00612
+omz_770m_11216_0	173	682	855	omz_770m_11216	1412	-		all	hypothetical protein
+omz_770m_11217_0	146	139	285	omz_770m_11217	1045	-		all	hypothetical protein
+omz_770m_11217_1	305	364	669	omz_770m_11217	1045	+		Candidatus Nitrosopumilus maritimus SCM1	UbiD family decarboxylase
+omz_770m_11217_2	305	738	1043	omz_770m_11217	1045	-		all	hypothetical protein
+omz_770m_11214_0	131	1	132	omz_770m_11214	1094	-		all	hypothetical protein
+omz_770m_11214_1	434	222	656	omz_770m_11214	1094	-	4.2.3.1	Cyanobacteria	L-threonine synthase (EC:4.2.3.1) K01733 threonine
+omz_770m_11214_2	83	1009	1092	omz_770m_11214	1094	-		all	hypothetical protein
+omz_770m_11215_0	257	196	453	omz_770m_11215	1061	-		Burkholderia	DNA primase (EC 2.7.7.-), phage-associated
+omz_770m_11212_0	536	266	802	omz_770m_11212	925	+		all	hypothetical protein
+omz_770m_11213_0	179	99	278	omz_770m_11213	1644	-		all	hypothetical protein
+omz_770m_11213_1	389	837	1226	omz_770m_11213	1644	+		all	hypothetical protein
+omz_770m_11213_2	101	1542	1643	omz_770m_11213	1644	+		all	hypothetical protein
+omz_770m_11210_0	362	1	363	omz_770m_11210	1087	+		all	hypothetical protein
+omz_770m_11210_1	116	971	1087	omz_770m_11210	1087	+		all	hypothetical protein
+omz_770m_11211_0	398	291	689	omz_770m_11211	999	-		all	hypothetical protein
+omz_770m_11218_0	191	2	193	omz_770m_11218	1113	+		all	hypothetical protein
+omz_770m_11218_1	215	608	823	omz_770m_11218	1113	+		all	hypothetical protein
+omz_770m_11218_2	74	1038	1112	omz_770m_11218	1113	+		all	hypothetical protein
+omz_770m_11219_0	581	3	584	omz_770m_11219	1057	+		Rhodobacteraceae bacterium HTCC2150	phytanoyl-CoA dioxygenase family protein
+omz_770m_6815_0	773	3	776	omz_770m_6815	966	+		all	hypothetical protein
+omz_770m_6815_1	107	859	966	omz_770m_6815	966	+		all	hypothetical protein
+omz_770m_6814_0	326	1	327	omz_770m_6814	807	-	3.6.4.3	"Deltabacteria" Cavalier-Smith 1992	ATP-dependent metalloprotease FtsH (EC:3.6.4.3) K03798 cell division protease
+omz_770m_6814_1	272	499	771	omz_770m_6814	807	+		all	hypothetical protein
+omz_770m_6817_0	398	168	566	omz_770m_6817	1043	+	2.7.13.3	"Candidatus Pelagibacter ubique" Rappe et al. 2002	ntrY nitrogen regulation protein NtrY (EC:2.7.3.-) K13598 two-component system, NtrC family, sensor histidine kinase
+omz_770m_6817_1	152	566	718	omz_770m_6817	1043	+		all	hypothetical protein
+omz_770m_1848_0	860	3	863	omz_770m_1848	865	-		Actinomycetales	putative acyl-CoA dehydrogenase
+omz_770m_6811_0	560	178	738	omz_770m_6811	924	-		SAR324 cluster bacterium SCGC AAA001-C10	2'-5' RNA ligase
+omz_770m_6811_1	179	743	922	omz_770m_6811	924	-		all	hypothetical protein
+omz_770m_6810_0	809	1	810	omz_770m_6810	917	+	1.1.1.205	Actinomycetales	inosine 5-monophosphate dehydrogenase (EC:1.1.1.205) K00088 IMP
+omz_770m_6813_0	926	3	929	omz_770m_6813	954	+		all	hypothetical protein
+omz_770m_6812_0	914	2	916	omz_770m_6812	917	+	5.99.1.3	Bacteria	DNA gyrase, B subunit (EC:5.99.1.3) K02470 gyrase
+omz_770m_1843_0	788	3	791	omz_770m_1843	865	+		all	
+omz_770m_1842_0	98	2	100	omz_770m_1842	909	-		all	hypothetical protein
+omz_770m_1842_1	287	620	907	omz_770m_1842	909	-		all	hypothetical protein
+omz_770m_1841_0	296	127	423	omz_770m_1841	931	-		all	hypothetical protein
+omz_770m_1841_1	362	511	873	omz_770m_1841	931	+		all	oligopeptide/dipeptide ABC transporter, ATPase subunit
+omz_770m_1840_0	851	3	854	omz_770m_1840	864	-		all	
+omz_770m_1847_0	851	3	854	omz_770m_1847	855	+	4.1.1.49	unclassified Verrucomicrobia (miscellaneous)	phosphoenolpyruvate carboxykinase (ATP) (EC:4.1.1.49) K01610
+omz_770m_1846_0	587	3	590	omz_770m_1846	966	-		Bacteria	spermatogenesis-associated protein 20
+omz_770m_1846_1	335	587	922	omz_770m_1846	966	-	2.5.1.19	Bacteria	aroA1 3-phosphoshikimate 1-carboxyvinyltransferase (EC:2.5.1.19) K00800
+omz_770m_1845_0	947	3	950	omz_770m_1845	950	-	5.4.2.8	Actinomycetales	phosphoglucomutase/phosphomannomutase alpha/beta/alpha domain I K01840 phosphomannomutase
+omz_770m_1844_0	314	20	334	omz_770m_1844	928	-		all	hypothetical protein
+omz_770m_1844_1	371	334	705	omz_770m_1844	928	-		Schlesneria paludicola DSM 18645	phytanoyl-CoA dioxygenase
+omz_770m_10109_0	911	1	912	omz_770m_10109	914	-		all	hypothetical protein
+omz_770m_10108_0	653	3	656	omz_770m_10108	924	+	2.1.1.32	Verrucomicrobia bacterium SCGC AAA168-F10	tRNA (guanine-N(2)-)-methyltransferase (EC:2.1.1.32) K00555 (guanine-N2-)-methyltransferase
+omz_770m_10101_0	413	2	415	omz_770m_10101	976	+		all	, partial
+omz_770m_10101_1	125	559	684	omz_770m_10101	976	+		all	hypothetical protein
+omz_770m_10100_0	791	1	792	omz_770m_10100	946	-	3.6.1.1	Bacteria	hppA pyrophosphate-energized proton pump (pyrophosphate-energized inorganic pyrophosphatase) (h(+)-PPase) (membrane-bound proton-translocating (EC:3.6.1.1) K01507 pyrophosphatase
+omz_770m_10103_0	401	18	419	omz_770m_10103	943	+	3.5.1.88	Bacteria	def peptide deformylase (EC:3.5.1.88) K01462
+omz_770m_10102_0	377	2	379	omz_770m_10102	806	-		Candidatus Nitrosopumilus maritimus SCM1	
+omz_770m_10102_1	179	626	805	omz_770m_10102	806	-		all	hypothetical protein
+omz_770m_10105_0	617	211	828	omz_770m_10105	909	+		all	hypothetical protein

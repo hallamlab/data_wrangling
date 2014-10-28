@@ -1,0 +1,1724 @@
+4.1.1.32-RXN	NIL
+R234-RXN	NIL
+RXN-8784	NIL
+RXN-8782	NIL
+RXN-8783	NIL	"below_euphotic_200m_2026_0"	"below_euphotic_200m_6735_0"	"below_euphotic_200m_3958_1"
+RXN-8780	NIL
+RXN-8781	NIL	"below_euphotic_200m_7802_0"
+RXN-11102	NIL
+RXN-12718	NIL
+RXN-12710	"acetyl-CoA C-acyltransferase"	"below_euphotic_200m_520_0"	"below_euphotic_200m_3150_0"	"below_euphotic_200m_7583_1"	"below_euphotic_200m_4616_0"
+RXN-12715	NIL
+RXN-12714	"androst-4-en-3,17-dione 1-dehydrogenase"
+GLU6PDEHYDROG-RXN	NIL
+VINYLACETYL-COA-DELTA-ISOMERASE-RXN	NIL	"below_euphotic_200m_5429_0"	"below_euphotic_200m_1374_0"	"below_euphotic_200m_2371_0"	"below_euphotic_200m_258_0"
+MALYL-COA-LYASE-RXN	NIL
+3.2.1.26-RXN	"&beta;-fructofuranosidase"	"below_euphotic_200m_5934_1"
+RXNQT-4191	"acid phosphatase"
+1.1.1.289-RXN	NIL
+RXN-9175	NIL
+FRUCTOKINASE-RXN	"fructokinase"
+3.1.6.12-RXN	NIL
+3.4.23.38-RXN	NIL
+DLACTDEHYDROGFAD-RXN	NIL
+RXN-11618	"hyaluronoglucosaminidase"
+3.5.2.17-RXN	NIL
+ACETOOHBUTSYN-RXN	"2-aceto-2-hydroxy-butyrate synthase"	"below_euphotic_200m_3106_0"	"below_euphotic_200m_5645_0"	"below_euphotic_200m_7263_0"	"below_euphotic_200m_3230_0"	"below_euphotic_200m_3342_0"	"below_euphotic_200m_2598_0"	"below_euphotic_200m_7665_0"	"below_euphotic_200m_7457_1"	"below_euphotic_200m_3026_0"	"below_euphotic_200m_7172_0"	"below_euphotic_200m_2959_0"
+ACYLCOADEHYDROG-RXN	"acyl-CoA dehydrogenase"	"below_euphotic_200m_6720_0"	"below_euphotic_200m_1773_1"	"below_euphotic_200m_1813_0"
+ARGSUCCINSYN-RXN	NIL	"below_euphotic_200m_4636_0"	"below_euphotic_200m_6126_1"
+2.8.1.6-RXN	NIL
+DIOHBUTANONEPSYN-RXN	NIL	"below_euphotic_200m_1117_0"
+RXN1F-20	NIL	"below_euphotic_200m_7149_1"	"below_euphotic_200m_7149_0"	"below_euphotic_200m_1561_0"	"below_euphotic_200m_7155_0"
+RXN3O-9780	NIL
+METHIONINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_7698_0"	"below_euphotic_200m_6279_0"	"below_euphotic_200m_2908_0"	"below_euphotic_200m_4464_0"	"below_euphotic_200m_496_1"
+RXN-10705	NIL	"below_euphotic_200m_7235_0"	"below_euphotic_200m_1156_0"	"below_euphotic_200m_1215_0"	"below_euphotic_200m_5300_0"	"below_euphotic_200m_5994_0"	"below_euphotic_200m_1121_0"	"below_euphotic_200m_6348_0"	"below_euphotic_200m_7366_1"	"below_euphotic_200m_6316_0"
+PHENYLALANINE-DECARBOXYLASE-RXN	NIL
+GALACTURIDYLYLTRANS-RXN	NIL
+UDPGLCNACEPIM-RXN	NIL	"below_euphotic_200m_731_1"	"below_euphotic_200m_2117_0"	"below_euphotic_200m_5901_1"	"below_euphotic_200m_27_0"
+RXN-7800	NIL
+PSERTRANSAM-RXN	NIL	"below_euphotic_200m_6391_0"	"below_euphotic_200m_2038_0"	"below_euphotic_200m_6345_0"
+GLUTRNAREDUCT-RXN	NIL
+RXN-11108	NIL
+RXN1G-1486	"3-oxo-C78-&alpha;-mycolate-reductase"
+ADENYLYLSULFKIN-RXN	NIL
+DTDPGLUCOSEPP-RXN	NIL	"below_euphotic_200m_445_0"
+2.5.1.46-RXN	NIL
+RXN1G-1130	"trans-delta2-cis-delta19-C38:2-[acyl-carrier protein] reductase"
+UREASE-RXN	NIL	"below_euphotic_200m_1972_0"	"below_euphotic_200m_3902_1"	"below_euphotic_200m_3902_0"	"below_euphotic_200m_3920_0"
+RXN-9787	"cysteine:[ThiI sulfur-carrier protein]-L-cysteine sulfurtransferase desulfurase"	"below_euphotic_200m_3860_1"	"below_euphotic_200m_6680_0"	"below_euphotic_200m_7334_1"	"below_euphotic_200m_6515_0"	"below_euphotic_200m_6510_0"	"below_euphotic_200m_448_1"	"below_euphotic_200m_7306_1"	"below_euphotic_200m_7582_1"
+RXN-9789	NIL
+RXN-9788	NIL
+RXN1G-276	"trans-delta2-cis,cis-delta17,35-C54:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+PEPSYNTH-RXN	NIL	"below_euphotic_200m_6446_0"
+GLUTAMIDOTRANS-RXN	NIL
+DEOXYGLUCONOKIN-RXN	NIL	"below_euphotic_200m_969_0"
+GLUCUROISOM-RXN	NIL	"below_euphotic_200m_5754_0"
+SPONTPRO-RXN	NIL
+RXN3O-5304	"stearoyl-[acp]--CoA stearoyltransferase"	"below_euphotic_200m_749_0"
+PHENPRODIOLDEHYDROG-RXN	NIL
+RXN-9659	"<i>trans</i> oct-2-enoyl-[acp] reductase"
+RXN-9658	"<i>trans</i> hex-2-enoyl-[acp]-reductase"
+RXN-9657	"crotonyl-[acp] reductase"	"below_euphotic_200m_2764_0"	"below_euphotic_200m_6833_1"	"below_euphotic_200m_818_0"
+RXN-9655	"3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase"
+RXN-9654	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"	"below_euphotic_200m_749_0"
+RXN-9653	"3-oxo-meristoyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"	"below_euphotic_200m_749_0"
+RXN-9652	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"	"below_euphotic_200m_749_0"
+RXN-9651	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"	"below_euphotic_200m_749_0"
+RXN-9650	"3-oxo-octanoyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"	"below_euphotic_200m_749_0"
+RXN3O-54	NIL
+RXN1G-1003	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN3O-58	NIL
+NAD-KIN-RXN	NIL
+RXN-13290	"15-tetracosenoate&mdash;CoA ligase"	"below_euphotic_200m_3946_0"	"below_euphotic_200m_7695_0"	"below_euphotic_200m_6368_0"	"below_euphotic_200m_4856_0"	"below_euphotic_200m_4781_0"	"below_euphotic_200m_6328_0"
+LIPIDADISACCHARIDESYNTH-RXN	NIL
+HOMOGENTISATE-12-DIOXYGENASE-RXN	NIL	"below_euphotic_200m_6425_0"
+1.2.1.2-RXN	NIL	"below_euphotic_200m_6762_0"	"below_euphotic_200m_4237_0"	"below_euphotic_200m_2010_1"	"below_euphotic_200m_834_0"	"below_euphotic_200m_7364_0"	"below_euphotic_200m_7617_0"
+RXN1G-808	"6-O-cis-methoxy-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-809	"6-O-trans-methoxy-mycolyl-trehalose O-mycolyltransferase"
+ADPREDUCT-RXN	"ADP reductase"	"below_euphotic_200m_3288_0"	"below_euphotic_200m_3186_1"	"below_euphotic_200m_3186_0"	"below_euphotic_200m_2906_0"	"below_euphotic_200m_2557_0"	"below_euphotic_200m_1844_0"	"below_euphotic_200m_3400_0"	"below_euphotic_200m_3959_1"	"below_euphotic_200m_3959_0"	"below_euphotic_200m_4118_0"	"below_euphotic_200m_967_0"
+RXN1G-807	"6-O-mycolyl-trehalose O-mycolyltransferase"
+RXN0-1133	NIL	"below_euphotic_200m_7832_0"
+RXN0-1132	"dihydrolipoyl dehydrogenase"	"below_euphotic_200m_4329_0"	"below_euphotic_200m_1507_0"	"below_euphotic_200m_171_0"	"below_euphotic_200m_5538_0"	"below_euphotic_200m_6498_0"	"below_euphotic_200m_1038_0"
+6-CARBOXYHEXANOATE--COA-LIGASE-RXN	NIL
+NAG1P-URIDYLTRANS-RXN	NIL
+RXN0-1134	NIL	"below_euphotic_200m_4907_0"	"below_euphotic_200m_7437_0"	"below_euphotic_200m_5872_1"	"below_euphotic_200m_2138_0"	"below_euphotic_200m_4229_0"	"below_euphotic_200m_130_0"	"below_euphotic_200m_6716_0"	"below_euphotic_200m_1102_0"	"below_euphotic_200m_3027_0"	"below_euphotic_200m_4831_0"	"below_euphotic_200m_2008_0"	"below_euphotic_200m_723_0"
+PROTOCATECHUATE-34-DIOXYGENASE-RXN	NIL
+RXN1G-248	"trans-delta2-cis,cis-delta5,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+HYDROXYMETHYLGLUTARYL-COA-LYASE-RXN	NIL	"below_euphotic_200m_5347_0"
+PLASTOQUINOL--PLASTOCYANIN-REDUCTASE-RXN	NIL
+ARGINASE-RXN	NIL
+PSERTRANSAMPYR-RXN	NIL	"below_euphotic_200m_6391_0"	"below_euphotic_200m_2038_0"	"below_euphotic_200m_6345_0"
+THREONINE-ALDOLASE-RXN	"low-specificity L-threonine aldolase"	"below_euphotic_200m_3801_0"	"below_euphotic_200m_3494_0"	"below_euphotic_200m_7731_0"	"below_euphotic_200m_154_1"	"below_euphotic_200m_299_0"
+RXN-12278	NIL
+RXN-12279	NIL
+RXN-12276	NIL
+RXN1A0-6322	NIL
+RXN1A0-6321	NIL
+L-LACTDEHYDROGFMN-RXN	"lactate oxidation"	"below_euphotic_200m_6651_0"
+LIPIDXSYNTHESIS-RXN	NIL
+3-OXOACYL-ACP-REDUCT-RXN	NIL	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_749_0"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN0-5146	NIL
+2-OXOGLUTARATE-SYNTHASE-RXN	NIL	"below_euphotic_200m_7801_1"	"below_euphotic_200m_5892_0"	"below_euphotic_200m_6955_0"	"below_euphotic_200m_3739_0"	"below_euphotic_200m_3976_1"	"below_euphotic_200m_3976_0"	"below_euphotic_200m_7440_0"	"below_euphotic_200m_6378_1"	"below_euphotic_200m_5258_0"
+2.4.1.142-RXN	NIL
+METHYLMALONYL-COA-MUT-RXN	NIL	"below_euphotic_200m_3823_0"	"below_euphotic_200m_6299_1"	"below_euphotic_200m_4146_1"	"below_euphotic_200m_1422_0"	"below_euphotic_200m_4514_0"	"below_euphotic_200m_5659_1"	"below_euphotic_200m_1881_0"	"below_euphotic_200m_7754_0"	"below_euphotic_200m_6320_0"	"below_euphotic_200m_7790_1"	"below_euphotic_200m_4121_0"	"below_euphotic_200m_134_0"
+6PFRUCTPHOS-RXN	NIL
+2.7.9.3-RXN	NIL	"below_euphotic_200m_2661_1"
+LYSINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_4497_0"	"below_euphotic_200m_910_0"	"below_euphotic_200m_4384_0"	"below_euphotic_200m_3875_1"
+RXN-4141	NIL
+RXN-4142	NIL	"below_euphotic_200m_1412_1"
+3.1.26.5-RXN	NIL
+3.2.1.33-RXN	NIL
+THREDEHYD-RXN	NIL	"below_euphotic_200m_434_0"	"below_euphotic_200m_4151_0"
+RIBOPHOSPHAT-RXN	NIL
+GSHTRAN-RXN	NIL	"below_euphotic_200m_2760_0"	"below_euphotic_200m_2112_0"	"below_euphotic_200m_1842_0"	"below_euphotic_200m_5862_0"	"below_euphotic_200m_2352_0"	"below_euphotic_200m_925_0"
+GALPMUT-RXN	NIL	"below_euphotic_200m_1758_0"
+MHPCHYDROL-RXN	NIL
+ENOYL-ACP-REDUCT-NADH-RXN	"2,3,4-saturated-fatty-acid-[acp] reductase"
+RXN-13907	NIL
+O-SUCCINYLBENZOATE-COA-LIG-RXN	NIL	"below_euphotic_200m_1104_0"
+OHBENZCOARED-RXN	NIL
+2.7.7.39-RXN	NIL
+2.4.2.27-RXN	NIL
+UDP-N-ACETYLGLUCOSAMINE-4-EPIMERASE-RXN	NIL	"below_euphotic_200m_7370_0"
+DGDPKIN-RXN	NIL
+RXN-5781	NIL
+RXN-8799	NIL
+RXN-8798	NIL
+3.5.2.18-RXN	NIL
+RXN-8797	NIL
+ALARACECAT-RXN	NIL
+ATPSYN-RXN	NIL	"below_euphotic_200m_343_1"	"below_euphotic_200m_343_0"	"below_euphotic_200m_5675_0"	"below_euphotic_200m_4060_0"	"below_euphotic_200m_524_0"	"below_euphotic_200m_991_1"	"below_euphotic_200m_991_0"	"below_euphotic_200m_3818_2"	"below_euphotic_200m_3818_1"	"below_euphotic_200m_5313_0"	"below_euphotic_200m_7467_0"	"below_euphotic_200m_7763_1"	"below_euphotic_200m_1295_0"	"below_euphotic_200m_3554_1"	"below_euphotic_200m_4927_1"
+RXN1G-4355	"cerotoyl-CoA carboxylase"	"below_euphotic_200m_337_0"	"below_euphotic_200m_5659_2"	"below_euphotic_200m_5726_0"	"below_euphotic_200m_7799_1"	"below_euphotic_200m_3238_0"
+RXN-12708	NIL
+RXN-12709	NIL	"below_euphotic_200m_4141_2"	"below_euphotic_200m_2806_0"
+RXN-12706	"propanoyl-CoA C-acyltransferase"	"below_euphotic_200m_6273_0"	"below_euphotic_200m_6732_0"
+RXN-12707	NIL
+RXN-4961	NIL
+RXN-11737	NIL	"below_euphotic_200m_1534_1"	"below_euphotic_200m_428_0"	"below_euphotic_200m_748_0"	"below_euphotic_200m_237_0"	"below_euphotic_200m_7548_0"	"below_euphotic_200m_4810_0"
+GLUTAMINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_871_0"	"below_euphotic_200m_1058_0"
+RXN-11738	"sulfolactate dehydrogenase"
+MALEYLACETATE-REDUCTASE-RXN	NIL
+RFFTRANS-RXN	NIL
+R128-RXN	NIL
+5.1.3.20-RXN	NIL	"below_euphotic_200m_7736_2"
+ISOLEUCINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_791_0"	"below_euphotic_200m_5221_0"	"below_euphotic_200m_4061_0"	"below_euphotic_200m_847_0"
+RXN-8315	NIL
+DADPKIN-RXN	NIL	"below_euphotic_200m_1387_0"	"below_euphotic_200m_6789_2"
+RXN-8641	NIL
+RXN-8647	"(6E,8Z,11Z,14Z)-(5S)-5-hydroperoxyicosa-6,8,11,14-tetraenoate dehydratase"
+HYDROXYPRODEHYDROG-RXN	"hydroxyproline oxidase"
+1.3.7.3-RXN	NIL
+CATECHOL-12-DIOXYGENASE-RXN	NIL
+24-DIAMINOPENTANOATE-DEHYDROGENASE-RXN	NIL
+LEUKOTRIENE-A4-HYDROLASE-RXN	NIL
+PNPOXI-RXN	NIL
+RXN1G-1637	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+RXN1G-1636	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+RXN1G-1635	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+RXN1G-1634	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+RXN-10087	NIL
+2.6.1.58-RXN	NIL
+GPPSYN-RXN	NIL	"below_euphotic_200m_6728_1"	"below_euphotic_200m_202_0"	"below_euphotic_200m_3069_0"
+RXN-10061	"3-hydroxycerotyl-[acp] dehydrase"
+RXN-10060	NIL
+RXN-10062	"trans-hexacos-2-enoyl-[acp] reductase"
+RXN3O-4157	NIL
+RXN1G-218	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN-9069	NIL	"below_euphotic_200m_7802_0"
+RXN1G-94	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+RXN1G-98	"cis-methoxy-meroacyl-AMP transferase"
+PRIBFAICARPISOM-RXN	NIL	"below_euphotic_200m_846_1"	"below_euphotic_200m_7067_1"
+AMACETOXID-RXN	NIL
+FORMIMINOGLUTAMATE-DEIMINASE-RXN	NIL	"below_euphotic_200m_6644_0"	"below_euphotic_200m_6647_1"
+FORMYL-COA-HYDROLASE-RXN	NIL
+HEMN-RXN	NIL	"below_euphotic_200m_3387_0"	"below_euphotic_200m_3208_1"	"below_euphotic_200m_3208_0"	"below_euphotic_200m_4544_0"	"below_euphotic_200m_6904_0"
+RXN-10462	"acyl-ACP:sn-glycerol-3-phosphate 1-O-acyltransferase"	"below_euphotic_200m_4769_1"	"below_euphotic_200m_2584_0"	"below_euphotic_200m_774_0"	"below_euphotic_200m_2595_0"
+R123-RXN	NIL
+CPM-KDOSYNTH-RXN	NIL	"below_euphotic_200m_3602_1"	"below_euphotic_200m_186_0"
+HEME-OXYGENASE-DECYCLIZING-RXN	NIL
+RXN-12717	NIL
+ASPCARBTRANS-RXN	NIL
+SUCCCOASYN-RXN	NIL	"below_euphotic_200m_522_0"	"below_euphotic_200m_7705_0"	"below_euphotic_200m_7787_1"	"below_euphotic_200m_7787_0"
+ASNSYNB-RXN	NIL	"below_euphotic_200m_7708_0"
+RXN-9662	"<i>trans</i> tetradec-2-enoyl-[acp] reductase"	"below_euphotic_200m_2764_0"	"below_euphotic_200m_6833_1"	"below_euphotic_200m_818_0"
+RXN-9663	"<i>trans</i> hexadecenoyl-[acp] reductase"	"below_euphotic_200m_2764_0"	"below_euphotic_200m_6833_1"	"below_euphotic_200m_818_0"
+RXN-9660	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]-reductase"
+RXN-9661	"<i>trans</i> dodec-2-enoyl-[acp] reductase"	"below_euphotic_200m_2764_0"	"below_euphotic_200m_6833_1"	"below_euphotic_200m_818_0"
+RIBOFLAVIN-SYN-RXN	NIL
+RXN-9669	NIL
+RXN-9467	NIL
+RXN-9469	NIL
+RXN1G-1015	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+RXN0-4022	NIL
+SARCOSINE-DEHYDROGENASE-RXN	NIL	"below_euphotic_200m_5707_0"
+ADENYLOSUCCINATE-SYNTHASE-RXN	NIL	"below_euphotic_200m_3135_1"	"below_euphotic_200m_2081_1"
+RXN-13288	"15-tetracosanal carbonylase"
+RXN-13289	"(<i>Z</i>)-15-tetracosenoyl-CoA reductase"
+R309-RXN	"Acrylonitrilase"
+RXN1G-79	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+SUCROSE-PHOSPHATASE-RXN	NIL
+2.7.1.148-RXN	NIL
+RXN1G-72	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+CARBAMATE-KINASE-RXN	NIL	"below_euphotic_200m_1849_0"
+RXN-7699	NIL
+RXN0-4301	NIL
+RXN-6981	NIL
+RXN-7694	"2-methylbutanol dehydrogenase"	"below_euphotic_200m_6069_0"	"below_euphotic_200m_831_0"	"below_euphotic_200m_5276_0"	"below_euphotic_200m_642_0"
+RXN1G-236	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN-7693	"3-methylbutanol dehydrogenase"	"below_euphotic_200m_6069_0"	"below_euphotic_200m_831_0"	"below_euphotic_200m_5276_0"	"below_euphotic_200m_642_0"
+RXN-7692	NIL
+4OH2OXOGLUTARALDOL-RXN	NIL
+RXN-12785	"3-oxo-24-ethyl-cholest-4-en-26-oate:CoA ligase"
+BRANCHED-CHAINAMINOTRANSFERILEU-RXN	"Isoleucine transaminase"	"below_euphotic_200m_6702_0"	"below_euphotic_200m_197_1"	"below_euphotic_200m_1084_0"	"below_euphotic_200m_447_0"	"below_euphotic_200m_5187_0"	"below_euphotic_200m_1411_0"	"below_euphotic_200m_4097_1"
+RXN-9518	"3-hydroxyhexanoyl-[acyl-carrier protein] reductase"
+RXN-9514	"acetoacetyl-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_749_0"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN-9515	"Crotonyl-[acyl-carrier protein] reductase (NADP)"	"below_euphotic_200m_749_0"
+RXN-9516	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN1G-582	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+RXN1G-580	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+2.7.7.33-RXN	NIL	"below_euphotic_200m_478_0"
+GLUCARDEHYDRA-RXN	NIL
+6.3.5.7-RXN	NIL	"below_euphotic_200m_2708_0"
+RXN1G-349	"3-oxo-arachidoyl-[acp] reductase"
+THRESYN-RXN	NIL	"below_euphotic_200m_103_0"	"below_euphotic_200m_527_0"	"below_euphotic_200m_2850_1"	"below_euphotic_200m_48_0"
+ASPARTATE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_5752_0"	"below_euphotic_200m_4347_0"	"below_euphotic_200m_853_0"	"below_euphotic_200m_3196_0"	"below_euphotic_200m_7836_0"	"below_euphotic_200m_7839_0"
+RXN-13463	NIL
+RXN66-62	"nicotine oxidase"
+N-FORMYLGLUTAMATE-DEFORMYLASE-RXN	NIL
+RXN-12391	NIL	"below_euphotic_200m_3037_0"
+RIB5PISOM-RXN	NIL	"below_euphotic_200m_514_1"	"below_euphotic_200m_5785_1"
+TEICHOICSYN3-RXN	NIL
+2.6.1.22-RXN	NIL
+RXN-7101	NIL
+UDPNACETYLMURAMATEDEHYDROG-RXN	NIL
+KDGALDOL-RXN	"5-dehydro-4-deoxy-D-glucarate aldolase"	"below_euphotic_200m_753_0"
+RXN1G-697	"<i>cis</i>-methoxy-meroacyl transferase"
+RXN1G-163	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] reductase"
+2.3.1.80-RXN	NIL
+RXN6666-6	NIL
+RXN6666-7	NIL
+RXN6666-4	NIL	"below_euphotic_200m_6278_0"
+2.7.1.160-RXN	NIL
+RXN6666-9	NIL
+RXN-12256	NIL
+ACONITATEDEHYDR-RXN	"citrate dehydratase"	"below_euphotic_200m_2430_0"	"below_euphotic_200m_6409_0"	"below_euphotic_200m_6879_0"	"below_euphotic_200m_4103_0"	"below_euphotic_200m_2692_0"	"below_euphotic_200m_3305_0"	"below_euphotic_200m_2530_0"	"below_euphotic_200m_3024_0"
+RXN-12257	NIL
+GLUCOSE-6-PHOSPHATE-1-EPIMERASE-RXN	NIL
+RXN-12808	NIL
+6.3.4.16-RXN	NIL	"below_euphotic_200m_4179_0"	"below_euphotic_200m_3415_0"	"below_euphotic_200m_1726_1"	"below_euphotic_200m_3233_0"
+RXN-12253	NIL
+RXN1G-760	"3-cis,cis-delta17,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+CTPSYN-RXN	NIL	"below_euphotic_200m_6725_0"	"below_euphotic_200m_5699_0"	"below_euphotic_200m_4547_0"
+2-ISOPROPYLMALATESYN-RXN	NIL	"below_euphotic_200m_7678_2"	"below_euphotic_200m_7678_1"	"below_euphotic_200m_92_0"	"below_euphotic_200m_7829_0"	"below_euphotic_200m_461_1"	"below_euphotic_200m_2227_0"	"below_euphotic_200m_985_0"	"below_euphotic_200m_6311_1"
+ISOCIT-CLEAV-RXN	NIL
+RXN-12736	"propanal dehydrogenase (acetylating)"
+RXN-12735	"4-hydroxy-2-oxohexanoate aldolase"
+RXN-12734	NIL
+RXN-12730	NIL	"below_euphotic_200m_6765_0"	"below_euphotic_200m_899_1"
+ALCOHOL-DEHYDROG-RXN	"ethanol dehydrogenase"	"below_euphotic_200m_6069_0"	"below_euphotic_200m_831_0"	"below_euphotic_200m_5276_0"
+RXN-8076	NIL
+RXN-8077	NIL
+CARBOXYMETHYLENEBUTENOLIDASE-RXN	NIL	"below_euphotic_200m_7142_0"
+RXN-8078	NIL	"below_euphotic_200m_1432_1"
+RXN-8079	NIL	"below_euphotic_200m_860_1"
+3.1.4.14-RXN	NIL
+RXN-745	NIL
+NICOTINAMID-RXN	NIL	"below_euphotic_200m_2224_0"	"below_euphotic_200m_5595_0"	"below_euphotic_200m_2274_0"
+RXN-13677	NIL	"below_euphotic_200m_5869_0"
+SHIKIMATE-5-DEHYDROGENASE-RXN	NIL	"below_euphotic_200m_2345_0"
+L-GULONOLACTONE-OXIDASE-RXN	"<small>L</small>-gulonolactone oxidase"
+UDP-NACMURALA-GLU-LIG-RXN	NIL	"below_euphotic_200m_388_0"
+5-DEHYDRO-2-DEOXYGLUCONOKINASE-RXN	NIL	"below_euphotic_200m_1277_0"
+ASPARTATEKIN-RXN	NIL	"below_euphotic_200m_7148_0"	"below_euphotic_200m_623_0"	"below_euphotic_200m_5072_1"	"below_euphotic_200m_866_1"
+MYO-INOSOSE-2-DEHYDRATASE-RXN	NIL	"below_euphotic_200m_2319_1"
+RXN-10096	"4,6-dichloro-3-methylcatechol dioxygenase"
+RXN-10090	"2,4-dichlorotoluene dioxygenase"
+RXN-10093	"2,4-dichlorotoluene dihydrodiol dehydrogenase"
+RXN3DJ-64	NIL
+RXN-10099	NIL	"below_euphotic_200m_7490_1"	"below_euphotic_200m_7490_0"
+RXN-10656	NIL
+RXN-10657	NIL	"below_euphotic_200m_6830_1"
+RXN-10654	NIL	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN-10655	NIL	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN-10658	NIL
+RXN-10659	NIL
+CYSPH-RXN	NIL
+3.2.1.76-RXN	NIL
+ERYTHRONOLIDE-SYNTHASE-RXN	NIL	"below_euphotic_200m_6428_0"	"below_euphotic_200m_6434_0"
+2.1.1.103-RXN	NIL
+ACETYL-COA-HYDROLASE-RXN	NIL
+PHOSPHONOACETALDEHYDE-HYDROLASE-RXN	NIL
+RXN1G-89	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+GAPOXNPHOSPHN-RXN	NIL	"below_euphotic_200m_384_0"	"below_euphotic_200m_5288_0"
+R63-RXN	NIL
+GLUTATHIONE-REDUCT-NADPH-RXN	NIL
+RXN-9157	NIL	"below_euphotic_200m_6298_0"	"below_euphotic_200m_361_1"	"below_euphotic_200m_1133_0"	"below_euphotic_200m_6975_0"	"below_euphotic_200m_7052_0"	"below_euphotic_200m_6969_0"	"below_euphotic_200m_1149_0"	"below_euphotic_200m_7047_0"
+RXN1G-1152	"trehalose-trans-keto-mono-mycolate O-mycolyltransferase"
+RXN490-3616	"Aspartate--tRNA ligase"
+RXN1G-1150	"trehalose-trans-methoxy-mono-mycolate O-mycolyltransferase"
+RXN1G-1151	"trehalose-cis-keto-mono-mycolate O-mycolyltransferase"
+AICARSYN-RXN	NIL	"below_euphotic_200m_6087_0"	"below_euphotic_200m_3135_0"
+SALICYL-ALCOHOL-GLUCOSYLTRANSFERASE-RXN	NIL
+ACETALD-DEHYDROG-RXN	NIL	"below_euphotic_200m_4617_0"	"below_euphotic_200m_864_0"
+FUMHYDR-RXN	NIL	"below_euphotic_200m_6151_0"	"below_euphotic_200m_133_0"	"below_euphotic_200m_5761_1"
+SERINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_3894_0"	"below_euphotic_200m_817_0"	"below_euphotic_200m_7704_1"	"below_euphotic_200m_3539_0"
+TYROSINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_1524_0"	"below_euphotic_200m_6659_0"	"below_euphotic_200m_6354_0"
+ADENOSINE-NUCLEOSIDASE-RXN	NIL
+THIAMIN-PYROPHOSPHOKINASE-RXN	NIL
+3.4.11.1-RXN	NIL	"below_euphotic_200m_7791_0"
+ADENPRIBOSYLTRAN-RXN	NIL	"below_euphotic_200m_3167_0"
+RXN-9670	NIL
+RXN-9673	NIL	"below_euphotic_200m_3946_0"	"below_euphotic_200m_7695_0"	"below_euphotic_200m_6368_0"	"below_euphotic_200m_4856_0"	"below_euphotic_200m_4781_0"	"below_euphotic_200m_6328_0"
+RXN3O-73	NIL
+RXN3O-75	NIL
+RXN-9471	NIL
+RXN-9470	NIL
+PHENYLALANINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_6521_0"	"below_euphotic_200m_7310_1"	"below_euphotic_200m_7310_0"	"below_euphotic_200m_3275_2"	"below_euphotic_200m_3275_0"
+METHIONINE-S-METHYLTRANSFERASE-RXN	NIL
+3.1.2.21-RXN	NIL
+IPPISOM-RXN	NIL
+HOLO-ACP-SYNTH-RXN	NIL	"below_euphotic_200m_628_1"
+CYSTATHIONINE-BETA-LYASE-RXN	NIL
+HOMOCYSMET-RXN	NIL	"below_euphotic_200m_6765_0"	"below_euphotic_200m_899_1"
+RXN1G-820	"trans-delta2-cis,cis-delta17,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-299	"trans-delta2-cis-delta13-C32:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+SUCROSE-SYNTHASE-RXN	"Sucrose synthase"
+RXN66-142	NIL
+RXN66-141	NIL
+DEOXYCYTIDINE-KINASE-RXN	NIL
+DALADALALIG-RXN	NIL	"below_euphotic_200m_7612_0"	"below_euphotic_200m_6180_0"	"below_euphotic_200m_3936_0"
+RXN66-146	NIL
+RXN66-145	NIL
+RXN66-144	NIL
+2-NITROPROPANE-DIOXYGENASE-RXN	NIL	"below_euphotic_200m_5209_1"
+SUCCGLUALDDEHYD-RXN	NIL	"below_euphotic_200m_4617_0"	"below_euphotic_200m_864_0"
+CDPREDUCT-RXN	NIL
+1.14.19.1-RXN	NIL	"below_euphotic_200m_4100_0"	"below_euphotic_200m_690_0"
+RXN-7913	NIL	"below_euphotic_200m_607_0"	"below_euphotic_200m_3183_0"
+2.4.1.83-RXN	NIL	"below_euphotic_200m_3699_0"
+GMP-SYN-GLUT-RXN	NIL	"below_euphotic_200m_6392_0"	"below_euphotic_200m_4338_0"	"below_euphotic_200m_3270_0"
+RXN1G-220	"cis,cis-delta17,35-3-hydroxyC54:2-[acyl-carrier protein] dehydratase"
+RXN0-1461	NIL	"below_euphotic_200m_835_0"	"below_euphotic_200m_3394_0"
+RXN-12255	NIL
+RXNI-2	"acetoacetate CoA-transferase"	"below_euphotic_200m_1779_1"
+RXNI-3	NIL
+RXN-12250	NIL
+RXN-12251	NIL
+RXN-982	NIL	"below_euphotic_200m_882_0"	"below_euphotic_200m_5309_0"	"below_euphotic_200m_6254_1"	"below_euphotic_200m_1208_0"	"below_euphotic_200m_964_0"	"below_euphotic_200m_3251_1"	"below_euphotic_200m_4390_1"	"below_euphotic_200m_3789_1"
+RXN1A0-6305	NIL
+RXN1A0-6307	NIL
+RXN-12259	NIL
+RXN1A0-6303	NIL	"below_euphotic_200m_1064_0"
+RXN1A0-6302	NIL
+RXN-13678	NIL
+RXN-13675	NIL
+RXN1G-912	"cis-delta17-3-hydroxyC36:1-[acyl-carrier protein] dehydratase"
+RXN1G-915	"trans-delta2-cis,cis-delta11,29-C48:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-13673	NIL	"below_euphotic_200m_2760_0"	"below_euphotic_200m_2112_0"	"below_euphotic_200m_1842_0"	"below_euphotic_200m_5862_0"	"below_euphotic_200m_2352_0"	"below_euphotic_200m_925_0"
+2.3.1.179-RXN	NIL	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+RXN-9508	NIL	"below_euphotic_200m_3369_0"	"below_euphotic_200m_3258_0"	"below_euphotic_200m_3373_0"
+TSA-REDUCT-RXN	NIL	"below_euphotic_200m_7796_0"	"below_euphotic_200m_1206_0"	"below_euphotic_200m_2220_1"
+ALDOSE1EPIM-RXN	"D-galactose 1-epimerase"	"below_euphotic_200m_4553_1"
+ERYTH4PDEHYDROG-RXN	NIL
+RXN-7001	NIL
+RXN-7002	NIL
+UROGENDECARBOX-RXN	NIL
+DTDPGLUCDEHYDRAT-RXN	NIL	"below_euphotic_200m_3851_0"
+RXN1G-355	"cis-delta21-3-hydroxyC40:1-[acyl-carrier protein] dehydratase"
+RXN1G-358	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] reductase"
+5.4.2.10-RXN	NIL
+S-FORMYLGLUTATHIONE-HYDROLASE-RXN	NIL
+LEUKOTRIENE-C4-SYNTHASE-RXN	NIL
+RXN-12384	NIL
+PYRIMSYN1-RXN	NIL
+RXN-7719	"dihydrolipoyl dehydrogenase"	"below_euphotic_200m_4329_0"	"below_euphotic_200m_1507_0"	"below_euphotic_200m_171_0"	"below_euphotic_200m_5538_0"	"below_euphotic_200m_6498_0"	"below_euphotic_200m_1038_0"
+NMNAMIDOHYDRO-RXN	NIL
+RXN-7716	"dihydrolipoyl dehydrogenase"	"below_euphotic_200m_4329_0"	"below_euphotic_200m_1507_0"	"below_euphotic_200m_171_0"	"below_euphotic_200m_5538_0"	"below_euphotic_200m_6498_0"	"below_euphotic_200m_1038_0"
+GLUCOSE-1-DEHYDROGENASE-RXN	NIL
+AGMATIN-RXN	NIL	"below_euphotic_200m_7812_0"	"below_euphotic_200m_6680_1"	"below_euphotic_200m_1761_1"	"below_euphotic_200m_7143_0"	"below_euphotic_200m_7147_0"
+RXN1G-172	"cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+RXN1G-171	"trans-delta2-cis-delta5-C24:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+THREONINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_5179_1"	"below_euphotic_200m_5179_0"	"below_euphotic_200m_2181_1"	"below_euphotic_200m_4185_0"
+RXN-12038	NIL
+ACETYLGLUTKIN-RXN	NIL	"below_euphotic_200m_2685_0"	"below_euphotic_200m_5473_0"	"below_euphotic_200m_746_1"
+RXN-1223	NIL	"below_euphotic_200m_5482_1"
+RXN-1224	NIL
+UDPHYDROXYMYRGLUCOSAMNACETYLTRANS-RXN	NIL
+RXN-1884	NIL
+RXN-1882	NIL
+3.1.3.56-RXN	NIL
+3-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	NIL	"below_euphotic_200m_3570_0"
+RXN1G-576	"&alpha;-meroacyl transferase"
+RXN-12720	NIL	"below_euphotic_200m_7194_0"	"below_euphotic_200m_1772_0"	"below_euphotic_200m_3551_0"	"below_euphotic_200m_4278_0"	"below_euphotic_200m_3784_0"
+RXN-12721	NIL
+RXN-12726	NIL	"below_euphotic_200m_7542_1"	"below_euphotic_200m_4120_0"	"below_euphotic_200m_4068_0"	"below_euphotic_200m_1011_0"
+RXN-12728	NIL
+RXN-12729	NIL
+SERINE-O-ACETTRAN-RXN	NIL	"below_euphotic_200m_7344_0"
+VALINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_6456_0"	"below_euphotic_200m_4336_1"	"below_euphotic_200m_6459_0"	"below_euphotic_200m_4196_0"
+RXN-2622	NIL
+RXN-2621	NIL
+R233-RXN	NIL
+RXN-10717	"indole acetaldehyde reductase"
+RXN-10715	"indole acetaldehyde dehydrogenase"	"below_euphotic_200m_1412_1"
+RXN-11620	NIL
+RXN-11622	NIL
+12-OXOPHYTODIENOATE-REDUCTASE-RXN	NIL
+PYRUVDEH-RXN	NIL
+GLYOXII-RXN	"Hydroxyacylglutathione hydrolase"	"below_euphotic_200m_4455_1"	"below_euphotic_200m_2983_0"
+MMUM-RXN	NIL	"below_euphotic_200m_2088_0"
+RXN1F-19	NIL
+RXN1G-686	"trans-delta2-cis,cis-delta9,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1F-10	NIL
+RXN-1401	"tryptamine oxidase"	"below_euphotic_200m_6278_0"
+ORNITHINE-GLU-AMINOTRANSFORASE-RXN	"Ornithine--oxo-glutarate aminotransferase"
+RXN1G-1004	"3-cis,cis-delta19,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+RXN-10667	"methoxyneurosporene 3,4-desaturase"
+RXN-10666	"1-hydroxyneurosporene 3,4-desaturase"
+RXN-10665	NIL
+RXN-10661	NIL	"below_euphotic_200m_6830_1"
+RXN-10660	NIL
+RXN-11246	NIL	"below_euphotic_200m_520_0"	"below_euphotic_200m_3150_0"	"below_euphotic_200m_7583_1"	"below_euphotic_200m_4616_0"
+GLUTDECARBOX-RXN	NIL	"below_euphotic_200m_6346_1"
+RXN-11244	NIL	"below_euphotic_200m_7235_0"	"below_euphotic_200m_1156_0"	"below_euphotic_200m_1215_0"	"below_euphotic_200m_5300_0"	"below_euphotic_200m_5994_0"	"below_euphotic_200m_1121_0"	"below_euphotic_200m_6348_0"	"below_euphotic_200m_7366_1"	"below_euphotic_200m_6316_0"
+RXN-11245	NIL	"below_euphotic_200m_4141_2"	"below_euphotic_200m_2806_0"
+RXN-MG-PROTOPORPHYRIN-METHYLESTER-SYN	NIL
+RXN0-901	NIL	"below_euphotic_200m_3848_0"	"below_euphotic_200m_2386_0"	"below_euphotic_200m_3381_0"	"below_euphotic_200m_1823_0"	"below_euphotic_200m_585_0"	"below_euphotic_200m_2145_0"	"below_euphotic_200m_3762_0"	"below_euphotic_200m_3745_0"	"below_euphotic_200m_6820_0"	"below_euphotic_200m_2277_1"
+AMBENCOATHAUERA-RXN	NIL
+RXN-10040	NIL
+GLUTRACE-RXN	NIL
+RXN1G-1149	"trehalose-cis-methoxy-mono-mycolate O-mycolyltransferase"
+GLYCEROL-KIN-RXN	NIL	"below_euphotic_200m_616_0"	"below_euphotic_200m_5215_0"
+3-OXOACYL-ACP-SYNTH-BASE-RXN	"acetoacetyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"	"below_euphotic_200m_749_0"
+2-DEHYDROPANTOATE-REDUCT-RXN	NIL	"below_euphotic_200m_6855_0"	"below_euphotic_200m_1060_0"
+UGD-RXN	NIL	"below_euphotic_200m_1423_0"	"below_euphotic_200m_6035_0"
+PGLYCDEHYDROG-RXN	NIL	"below_euphotic_200m_1716_0"	"below_euphotic_200m_2584_1"	"below_euphotic_200m_1976_0"	"below_euphotic_200m_3078_1"	"below_euphotic_200m_775_0"	"below_euphotic_200m_1980_0"	"below_euphotic_200m_5844_0"	"below_euphotic_200m_5702_0"	"below_euphotic_200m_4933_0"	"below_euphotic_200m_1836_0"
+RXN0-4222	NIL	"below_euphotic_200m_799_0"
+DARAB5PISOM-RXN	NIL	"below_euphotic_200m_5837_0"
+ACETOLACTREDUCTOISOM-RXN	"ketol-acid reductoisomerase"	"below_euphotic_200m_3075_0"	"below_euphotic_200m_7457_0"	"below_euphotic_200m_5018_0"
+KETOACYLCOATHIOL-RXN	NIL	"below_euphotic_200m_520_0"	"below_euphotic_200m_3150_0"	"below_euphotic_200m_7583_1"	"below_euphotic_200m_4616_0"
+DUTP-PYROP-RXN	NIL	"below_euphotic_200m_2791_0"	"below_euphotic_200m_112_0"	"below_euphotic_200m_2789_0"
+PALMITOYL-COA-HYDROLASE-RXN	NIL
+METHANOL-OXIDASE-RXN	"Methanol oxidase"
+RXN1G-1212	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+GALACTARDEHYDRA-RXN	NIL
+L-ASPARTATE-OXID-RXN	NIL	"below_euphotic_200m_4541_0"
+RXN-9990	NIL
+CARNDETRU-RXN	NIL
+INOSINE-NUCLEOSIDASE-RXN	NIL
+UDP-NACMURALGLDAPLIG-RXN	NIL
+HISTPRATPHYD-RXN	NIL
+RXN1G-53	"trans-delta2-cis-delta21-C40:2-[acyl-carrier protein] reductase"
+RXN-7904	NIL	"below_euphotic_200m_3946_0"	"below_euphotic_200m_7695_0"	"below_euphotic_200m_6368_0"	"below_euphotic_200m_4856_0"	"below_euphotic_200m_4781_0"	"below_euphotic_200m_6328_0"
+RXN1G-210	"trans-delta2-cis-delta11-C30:2[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-214	"cis,cis-delta5,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN66-336	"leukotriene-C4 gamma-glutamyl transferase"	"below_euphotic_200m_6298_0"	"below_euphotic_200m_361_1"	"below_euphotic_200m_1133_0"	"below_euphotic_200m_6975_0"	"below_euphotic_200m_7052_0"	"below_euphotic_200m_6969_0"	"below_euphotic_200m_1149_0"	"below_euphotic_200m_7047_0"
+R503-RXN	NIL
+RXN-7909	NIL
+RXN-7908	NIL	"below_euphotic_200m_6766_0"	"below_euphotic_200m_35_1"	"below_euphotic_200m_6772_1"
+RXN1A0-6312	NIL
+2-OCTAPRENYLPHENOL-HYDROX-RXN	NIL
+RXN1A0-6310	NIL
+ALLENE-OXIDE-CYCLASE-RXN	NIL
+RXN1A0-6316	NIL
+TETRAACYLDISACC4KIN-RXN	NIL	"below_euphotic_200m_3171_0"
+PHOSPHAGLYPSYN-RXN	NIL	"below_euphotic_200m_5880_2"
+RXN-13394	"4-hydroxybenzaldehyde dehydrogenase"
+RXN-13392	"3-(4-hydroxyphenyl)-3-hydroxy-propionyl-CoA aldolase"
+TIGLYLCOA-HYDROXY-RXN	"Tiglyl-CoA hydratase"	"below_euphotic_200m_7235_0"	"below_euphotic_200m_1156_0"	"below_euphotic_200m_1215_0"	"below_euphotic_200m_5300_0"	"below_euphotic_200m_5994_0"	"below_euphotic_200m_1121_0"	"below_euphotic_200m_6348_0"	"below_euphotic_200m_7366_1"	"below_euphotic_200m_6316_0"
+2.6.1.37-RXN	NIL	"below_euphotic_200m_2260_0"
+RXN1G-962	"trans-delta2-cis-delta17-C36:2-[acyl-carrier protein] reductase"
+RXN-9538	"<i>trans</i> tetradec-2-enoyl-[acyl-carrier-protein] reductase (NADPH, B-specific)"
+RXN-9539	"3-oxo-palmitoyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN-9536	"3-oxo-meristoyl-[acyl-carrier protein] reductase"
+RXN-9537	"3-hydroxymyristoyl-[acyl-carrier protein] dehydratase"	"below_euphotic_200m_749_0"
+RXN-9534	"<i>trans</i> dodec-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+4-COUMARATE--COA-LIGASE-RXN	NIL
+NAD-SYNTH-GLN-RXN	NIL	"below_euphotic_200m_3577_0"
+RXN-9533	"3-hydroxydodecanoyl-[acyl-carrier protein] dehydratase"	"below_euphotic_200m_749_0"
+RXN-9530	"<i>trans</i>-&Delta;<SUP>2</SUP>-decenoyl-[acp]reductase (NADPH, B-specific)"
+RXN-9531	"3-oxo-dodecanoyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+PHOSACETYLGLUCOSAMINEMUT-RXN	NIL
+ASPARAGINE--TRNA-LIGASE-RXN	NIL
+TRANSALDOL-RXN	NIL	"below_euphotic_200m_2819_0"	"below_euphotic_200m_0_0"	"below_euphotic_200m_6497_0"	"below_euphotic_200m_2956_0"
+RXN1G-364	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN1G-363	"3-hydroxybehenoyl-[acyl-carrier protein] dehydratase"
+TRIACYLGLYCEROL-LIPASE-RXN	NIL	"below_euphotic_200m_1228_0"
+UDPACYLGLCNACDEACETYL-RXN	NIL
+RXN1G-368	"3-oxo-arachidoyl-[acp] synthase"
+R122-RXN	NIL	"below_euphotic_200m_5853_1"
+RXN-12621	NIL
+RXN1G-2544	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+4-CARBOXYMUCONOLACTONE-DECARBOXYLASE-RXN	NIL	"below_euphotic_200m_7684_1"
+METHYLENETHFDEHYDROG-NADP-RXN	NIL	"below_euphotic_200m_3444_2"
+4.1.2.29-RXN	NIL
+RXN-7708	"methionine--phenylpyruvate transaminase"
+RXN-7700	"2-phenylethanol dehydrogenase"	"below_euphotic_200m_6069_0"	"below_euphotic_200m_831_0"	"below_euphotic_200m_5276_0"	"below_euphotic_200m_642_0"
+RXN-7706	"methionol dehydrogenase"	"below_euphotic_200m_6069_0"	"below_euphotic_200m_831_0"	"below_euphotic_200m_5276_0"	"below_euphotic_200m_642_0"
+ACETYL-COA-ACETYLTRANSFER-RXN	NIL	"below_euphotic_200m_3014_0"	"below_euphotic_200m_5822_0"	"below_euphotic_200m_291_0"	"below_euphotic_200m_720_1"	"below_euphotic_200m_6042_0"
+RXN-7704	NIL
+UDPGLUCEPIM-RXN	NIL	"below_euphotic_200m_7464_0"	"below_euphotic_200m_4080_0"
+RXN-9371	NIL
+CARBPSYN-RXN	NIL	"below_euphotic_200m_610_0"	"below_euphotic_200m_5425_0"	"below_euphotic_200m_5113_0"	"below_euphotic_200m_3170_0"	"below_euphotic_200m_4913_0"
+RXN1G-3232	"cis-&Delta;19-37-hydroxy-38-methyl-C57:1-[acp] reductase"
+RXN-12533	NIL
+PSEUDOURIDINE-KINASE-RXN	NIL
+RXN-12534	NIL
+ENOYL-COA-HYDRAT-RXN	NIL	"below_euphotic_200m_7235_0"	"below_euphotic_200m_1156_0"	"below_euphotic_200m_1215_0"	"below_euphotic_200m_5300_0"	"below_euphotic_200m_5994_0"	"below_euphotic_200m_1121_0"	"below_euphotic_200m_6348_0"	"below_euphotic_200m_7366_1"	"below_euphotic_200m_6316_0"
+4.1.1.80-RXN	NIL
+RXN-12280	NIL
+1TRANSKETO-RXN	NIL	"below_euphotic_200m_6972_0"	"below_euphotic_200m_6978_0"	"below_euphotic_200m_95_0"	"below_euphotic_200m_5912_0"	"below_euphotic_200m_909_0"	"below_euphotic_200m_3190_1"	"below_euphotic_200m_3702_0"
+2.1.1.137-RXN	NIL	"below_euphotic_200m_2356_0"	"below_euphotic_200m_7781_0"
+GLUCDEHYDROG-RXN	NIL	"below_euphotic_200m_7086_1"
+RXN-7836	NIL
+CHORISMATEMUT-RXN	NIL	"below_euphotic_200m_2830_1"
+RXN-10911	"3,4-dihydroxyphenylglycolaldehyde reductase"	"below_euphotic_200m_6069_0"	"below_euphotic_200m_831_0"	"below_euphotic_200m_5276_0"	"below_euphotic_200m_642_0"
+RXN-10910	"normetanephrine oxidase"	"below_euphotic_200m_6278_0"
+RXN-10913	"metanephrine oxidase"	"below_euphotic_200m_6278_0"
+RXN-10912	"3,4-dihydroxyphenylglycolaldehyde dehydrogenase"	"below_euphotic_200m_1412_1"
+RXN-10915	"3,4-dihydroxyphenylglycol dehydrogenase"	"below_euphotic_200m_6069_0"	"below_euphotic_200m_831_0"	"below_euphotic_200m_5276_0"	"below_euphotic_200m_642_0"
+RXN-10914	"3,4-dihydroxyphenylglycol <i>O</i>-methyltransferase"
+RXN-10917	"3-methoxy-4-hydroxyphenylglycolaldehyde dehydrogenase"	"below_euphotic_200m_1412_1"
+RXN-10916	"3,4-dihydroxymandelate <i>O</i>-methyltransferase"
+RXN-12755	"arachidonate &Delta;<sup>17</sup> desaturase"
+RXN0-4141	NIL
+RXN-12751	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-oxopropanoyl-CoA hydrolase"
+RXN-12750	"3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]-3-hydroxypropanoate dehydrogenase"	"below_euphotic_200m_4141_2"	"below_euphotic_200m_2806_0"
+NAPHTHOATE-SYN-RXN	NIL
+RXN-2961	NIL
+RXN-2962	NIL	"below_euphotic_200m_5660_0"
+DUDPKIN-RXN	NIL
+GALACTONOLACTONE-DEHYDROGENASE-RXN	"<small>L</small>-galactonolactone dehydrogenase"
+RXN-10704	NIL	"below_euphotic_200m_7235_0"	"below_euphotic_200m_1156_0"	"below_euphotic_200m_1215_0"	"below_euphotic_200m_5300_0"	"below_euphotic_200m_5994_0"	"below_euphotic_200m_1121_0"	"below_euphotic_200m_6348_0"	"below_euphotic_200m_7366_1"	"below_euphotic_200m_6316_0"
+3PGAREARR-RXN	NIL	"below_euphotic_200m_2765_0"	"below_euphotic_200m_5118_0"	"below_euphotic_200m_2462_2"	"below_euphotic_200m_6542_1"	"below_euphotic_200m_7346_0"	"below_euphotic_200m_3741_0"
+RXN-10706	NIL
+RXN-10707	NIL
+RXN-10700	NIL	"below_euphotic_200m_520_0"	"below_euphotic_200m_3150_0"	"below_euphotic_200m_7583_1"	"below_euphotic_200m_4616_0"
+RXN-10701	NIL	"below_euphotic_200m_520_0"	"below_euphotic_200m_3150_0"	"below_euphotic_200m_7583_1"	"below_euphotic_200m_4616_0"
+RXN-10702	NIL	"below_euphotic_200m_4141_2"	"below_euphotic_200m_2806_0"
+RXN-10703	NIL	"below_euphotic_200m_4141_2"	"below_euphotic_200m_2806_0"
+RXN-10708	NIL
+MANNONDEHYDRAT-RXN	NIL
+DIHYDRODIPICSYN-RXN	"4-hydroxy-tetrahydrodipicolinate synthase"
+RXN-11099	"<i>N</i>1-amidinostreptamine 6-phosphate aminotransferase"
+RXN-11098	"ATP:1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol 6-phosphotransferase"
+RXN-11093	NIL
+RXN-11092	NIL
+RXN-11091	NIL
+RXN-11097	"1-guanidino-1-deoxy-scyllo-inositol dehydrogenase"
+RXN-11094	NIL
+RXN-11475	NIL
+RXN-11474	"3-oxo-glutaryl-[acp] methyl ester synthase"
+RXN-11477	NIL
+RXN-11476	"3-oxo-glutaryl-[acp] methyl ester reductase"
+HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN	"S-adenosyl-L-methionine:L-homocysteine S-methyltransferase"	"below_euphotic_200m_2088_0"
+RXN-11479	NIL	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN-11478	NIL	"below_euphotic_200m_6830_1"
+2.7.7.60-RXN	NIL	"below_euphotic_200m_1136_0"	"below_euphotic_200m_1982_0"
+RXN-12277	NIL
+STREPTOMYCIN-6-KINASE-RXN	NIL
+CYCLOARTENOL-SYNTHASE-RXN	NIL
+RXN-10670	"spheroidene monooxygenase"	"below_euphotic_200m_4248_0"
+PHENYLPYRUVATE-DECARBOXYLASE-RXN	NIL
+SPERMINE-SYNTHASE-RXN	NIL	"below_euphotic_200m_6_0"
+DIHYDROXYMETVALDEHYDRAT-RXN	"2,3-Dihydroxy-3-methylvalerate dehydratase"	"below_euphotic_200m_2534_0"	"below_euphotic_200m_2374_0"
+CREATINASE-RXN	NIL
+RXN-11272	NIL
+RXN-10057	NIL
+RXN-11501	NIL	"below_euphotic_200m_2217_0"
+RXN-10059	NIL
+RXN-11503	NIL	"below_euphotic_200m_0_1"
+RXN-11502	NIL	"below_euphotic_200m_2217_0"
+RXN-14025	NIL
+RXN-14026	NIL
+RXN-5467	NIL
+RXN-12370	NIL
+SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	NIL
+RXN3O-1803	NIL	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"	"below_euphotic_200m_749_0"
+DETHIOBIOTIN-SYN-RXN	NIL
+RXN1G-240	"cis-delta9-3-oxo-C28:1-[acyl-carrier protein] reductase"
+NITRATE-REDUCTASE-CYTOCHROME-RXN	NIL
+3-OXOADIPATE-COA-TRANSFERASE-RXN	NIL	"below_euphotic_200m_2230_0"
+ALTRODEHYDRAT-RXN	NIL	"below_euphotic_200m_6285_0"	"below_euphotic_200m_398_0"
+RXN-2141	NIL
+GUANIDINOBUTYRASE-RXN	NIL
+2.3.1.135-RXN	NIL
+RXN-9189	NIL
+GLUTAMATE-N-ACETYLTRANSFERASE-RXN	NIL	"below_euphotic_200m_7492_0"	"below_euphotic_200m_7144_0"	"below_euphotic_200m_461_0"	"below_euphotic_200m_746_0"
+RXN66-525	NIL	"below_euphotic_200m_6403_1"	"below_euphotic_200m_6403_0"	"below_euphotic_200m_5775_0"	"below_euphotic_200m_564_0"	"below_euphotic_200m_1221_0"	"below_euphotic_200m_7627_0"
+RXN66-526	NIL
+RXN66-521	NIL
+BRANCHED-CHAINAMINOTRANSFERLEU-RXN	NIL	"below_euphotic_200m_6702_0"	"below_euphotic_200m_197_1"	"below_euphotic_200m_1084_0"	"below_euphotic_200m_447_0"	"below_euphotic_200m_5187_0"	"below_euphotic_200m_1411_0"	"below_euphotic_200m_4097_1"
+ASPARAGHYD-RXN	NIL	"below_euphotic_200m_7480_0"	"below_euphotic_200m_308_0"	"below_euphotic_200m_4784_1"
+RXN-9987	"UDP-N-acetylglucosamine 2-epimerase (hydrolysing)"
+RXN0-4361	NIL
+GCVP-RXN	NIL	"below_euphotic_200m_1846_0"	"below_euphotic_200m_1775_0"	"below_euphotic_200m_3149_0"	"below_euphotic_200m_44_0"
+RXN1G-45	"cis,cis-&Delta;19,31-C50:2-[acp] reductase"
+NAG6PDEACET-RXN	NIL
+SUCCARGDIHYDRO-RXN	NIL
+ANTHRANSYN-RXN	NIL	"below_euphotic_200m_2838_1"	"below_euphotic_200m_2838_0"	"below_euphotic_200m_2159_0"	"below_euphotic_200m_1910_0"	"below_euphotic_200m_4716_0"	"below_euphotic_200m_7527_1"
+GKI-RXN	NIL
+RXN-10	NIL	"below_euphotic_200m_4636_0"	"below_euphotic_200m_6126_1"
+RXN-7644	"D-sorbitol 2-dehydrogenase"
+BUTYRYL-COA-DEHYDROGENASE-RXN	"butanoyl-CoA dehydrogenase"	"below_euphotic_200m_656_0"	"below_euphotic_200m_7811_0"
+RXN-7643	NIL
+RXN-7640	NIL
+RXN1G-203	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+1.7.7.2-RXN	NIL
+1.14.13.74-RXN	NIL
+VALINE-PYRUVATE-AMINOTRANSFER-RXN	NIL	"below_euphotic_200m_1764_0"
+2.3.1.133-RXN	NIL
+LCYSDESULF-RXN	NIL	"below_euphotic_200m_6538_0"
+RXN-9521	"<i>trans</i> hex-2-enoyl-[acp] reductase (NADPH, B-specific)"	"below_euphotic_200m_749_0"
+RXN-9520	"3-hydroxyhexanoyl-[acyl-carrier protein] dehydratase"
+RXN-9523	"3-oxo-octanoyl-[acyl-carrier protein] synthase"
+RXN-9524	"3-oxo-octanoyl-[acyl-carrier protein] reductase"
+RXN-9527	"3-oxo-decanoyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN-9526	"<i>trans</i> oct-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-9528	"3-oxo-decanoyl-[acyl-carrier protein] reductase"
+5-METHYLTHIOADENOSINE-PHOSPHORYLASE-RXN	NIL	"below_euphotic_200m_2661_0"
+NADPYROPHOSPHAT-RXN	NIL	"below_euphotic_200m_3269_0"
+RXN1G-374	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+RXN1G-377	"cis-delta15-3-hydroxyC34:1-[acyl-carrier protein] dehydratase"
+RXN1G-188	"cis-delta11-3-hydroxyC30:1-[acyl-carrier protein] dehydratase"
+UDP-NACMURALGLDAPAALIG-RXN	"UDP-<I>N</I>-acetylmuramoyl-L-alanyl-D-glutamyl-<I>meso</I>-2,6-diaminopimelate ligase"	"below_euphotic_200m_1990_0"
+TDPFUCACTRANS-RXN	"dTDP-4-amino-4,6-dideoxy-D-galactose acyltransferase"
+INOPHOSPHOR-RXN	"inosine phosphorylase"
+RXN-13720	NIL	"below_euphotic_200m_7653_0"	"below_euphotic_200m_2083_0"
+2.1.1.86-RXN	NIL
+GUANIDINOBUTANAMIDE-NH3-RXN	NIL	"below_euphotic_200m_979_0"	"below_euphotic_200m_7195_0"	"below_euphotic_200m_5470_0"	"below_euphotic_200m_7704_0"	"below_euphotic_200m_5595_0"	"below_euphotic_200m_2274_0"
+RXN-13909	NIL
+RXN-13908	NIL	"below_euphotic_200m_6766_0"	"below_euphotic_200m_35_1"	"below_euphotic_200m_6772_1"
+3-DEHYDROQUINATE-DEHYDRATASE-RXN	NIL	"below_euphotic_200m_2369_0"
+RXN-7737	NIL
+MALIC-NADP-RXN	NIL	"below_euphotic_200m_1900_0"	"below_euphotic_200m_6651_0"
+1.5.1.20-RXN	NIL	"below_euphotic_200m_2168_0"
+RXN0-6484	NIL
+RXN0-6485	NIL	"below_euphotic_200m_2590_0"	"below_euphotic_200m_7851_0"
+ACETYL-COA-CARBOXYLTRANSFER-RXN	NIL	"below_euphotic_200m_1529_0"	"below_euphotic_200m_3431_0"	"below_euphotic_200m_5935_0"	"below_euphotic_200m_5797_0"	"below_euphotic_200m_2847_0"	"below_euphotic_200m_7460_0"	"below_euphotic_200m_2914_0"
+METHELENE-THMPT-OXI-RXN	NIL	"below_euphotic_200m_2851_1"	"below_euphotic_200m_3558_0"
+HISTOLDEHYD-RXN	"Histidinol dehydrogenase"	"below_euphotic_200m_6918_0"	"below_euphotic_200m_3225_0"	"below_euphotic_200m_4591_0"	"below_euphotic_200m_5951_0"	"below_euphotic_200m_2774_0"	"below_euphotic_200m_389_0"	"below_euphotic_200m_6452_0"
+RXN0-5182	"maltodextrin phosphorylase"
+RXN0-5183	NIL
+RXN-12520	NIL
+RXN-12521	NIL	"below_euphotic_200m_5538_1"
+RXN-12082	"L-xylo-3-hexulose reductase"
+ALDOSE-1-EPIMERASE-RXN	NIL
+2.3.1.168-RXN	NIL	"below_euphotic_200m_3239_0"
+RXN-10908	"adrenaline oxidase"	"below_euphotic_200m_6278_0"
+RXN-10909	"adrenaline <i>O</i>-methyltransferase"
+RXN1G-554	"3-cis,cis-delta15,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN1G-557	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+ASPAMINOTRANS-RXN	NIL	"below_euphotic_200m_1534_1"	"below_euphotic_200m_428_0"	"below_euphotic_200m_748_0"	"below_euphotic_200m_237_0"	"below_euphotic_200m_7548_0"	"below_euphotic_200m_4810_0"
+RXN-10906	"noradrenaline <i>O</i>-methyltransferase"
+RXN-10907	"noradrenaline oxidase"	"below_euphotic_200m_6278_0"
+RXN-12746	"3-[(3a<i>S</i>,4<i>S</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA ligase"	"below_euphotic_200m_3946_0"	"below_euphotic_200m_7695_0"	"below_euphotic_200m_6368_0"	"below_euphotic_200m_4856_0"	"below_euphotic_200m_4781_0"	"below_euphotic_200m_6328_0"
+RXN-12747	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA 5-dehydrogenase"
+RXN-12744	"3-oxo-23,24-bisnorchol-4,17(20)-dien-22-oyl-CoA hydratase"
+RXN-12745	"3-oxo-23,24-bisnorchol-4-en-17-ol-22-oyl-CoA lyase"
+RXN-12743	"3-oxo-23,24-bisnorchol-4-en-22-oyl-CoA 17(20)-dehydrogenase"
+BIOTIN-CARBOXYL-RXN	NIL
+RXN-12748	"5-hydroxy-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-7a-methyl-1,5-dioxo-octahydro-1<i>H</i>-inden-4-yl]propanoyl-CoA dehydrogenase"
+RXN-12749	"(2<i>E</i>)-3-[(3a<i>S</i>,4<i>S</i>,5<i>R</i>,7a<i>S</i>)-5-hydroxy-7a-methyl-1-oxo-octahydro-1<i>H</i>-inden-4-yl]prop-2-enoate hydratase"
+RXN-2601	NIL
+MHPELY-RXN	NIL	"below_euphotic_200m_5851_1"
+GLUCONOLACT-RXN	NIL
+MHPHYDROXY-RXN	NIL
+PANTOATE-BETA-ALANINE-LIG-RXN	NIL
+RXN-12203	NIL
+F16ALDOLASE-RXN	NIL	"below_euphotic_200m_854_0"	"below_euphotic_200m_3097_0"	"below_euphotic_200m_6600_1"
+ISOCITRATE-DEHYDROGENASE-NAD+-RXN	NIL
+DXS-RXN	NIL	"below_euphotic_200m_6767_0"	"below_euphotic_200m_6761_0"	"below_euphotic_200m_1755_0"	"below_euphotic_200m_4214_0"
+RXN-10841	NIL
+1.13.11.16-RXN	NIL
+CARBON-MONOXIDE-DEHYDROGENASE-RXN	NIL	"below_euphotic_200m_3102_0"	"below_euphotic_200m_2116_1"	"below_euphotic_200m_5838_0"	"below_euphotic_200m_7456_0"	"below_euphotic_200m_3260_1"	"below_euphotic_200m_1001_0"	"below_euphotic_200m_3586_0"	"below_euphotic_200m_2860_1"	"below_euphotic_200m_3023_1"	"below_euphotic_200m_2663_0"	"below_euphotic_200m_1233_1"
+GART-RXN	NIL
+RXN-11080	NIL
+RXN-11081	NIL
+RXN-11082	NIL
+1.5.99.9-RXN	NIL
+DIHYDROFOLATEREDUCT-RXN	NIL
+RXN1F-72	NIL
+MALEYLACETOACETATE-ISOMERASE-RXN	NIL
+ERYTHRON4PDEHYDROG-RXN	NIL
+RXN-14030	NIL
+RXN-14031	NIL
+RXN-14036	NIL
+AICARTRANSFORM-RXN	NIL
+ACONITATEHYDR-RXN	"cis-aconitate hydratase"	"below_euphotic_200m_2430_0"	"below_euphotic_200m_6409_0"	"below_euphotic_200m_6879_0"	"below_euphotic_200m_4103_0"	"below_euphotic_200m_2692_0"	"below_euphotic_200m_3305_0"	"below_euphotic_200m_2530_0"	"below_euphotic_200m_3024_0"
+AKPTHIOL-RXN	NIL
+ACYLCOASYN-RXN	"2,3,4-saturated fatty acyl-CoA synthetase"	"below_euphotic_200m_3946_0"	"below_euphotic_200m_7695_0"	"below_euphotic_200m_6368_0"	"below_euphotic_200m_4856_0"	"below_euphotic_200m_4781_0"	"below_euphotic_200m_6328_0"
+O-SUCCINYLBENZOATE-COA-SYN-RXN	NIL	"below_euphotic_200m_62_0"
+ADENYL-KIN-RXN	NIL	"below_euphotic_200m_2943_2"	"below_euphotic_200m_6691_0"	"below_euphotic_200m_5296_0"
+UROPORIIIMETHYLTRANSA-RXN	"uroporphyrinogen-III <em>C</em>-methyltransferase"
+ISPH2-RXN	NIL	"below_euphotic_200m_2856_1"	"below_euphotic_200m_2615_0"	"below_euphotic_200m_7061_0"	"below_euphotic_200m_3572_0"
+DCTP-PYROPHOSPHATASE-RXN	NIL	"below_euphotic_200m_2791_0"	"below_euphotic_200m_112_0"	"below_euphotic_200m_2789_0"
+THREOSPON-RXN	NIL
+MYO-INOSITOL-2-DEHYDROGENASE-RXN	NIL	"below_euphotic_200m_5117_0"	"below_euphotic_200m_6109_1"
+MALATE-DEHYDROGENASE-ACCEPTOR-RXN	NIL	"below_euphotic_200m_6651_0"
+OXALYL-COA-DECARBOXYLASE-RXN	NIL
+PANTEPADENYLYLTRAN-RXN	NIL	"below_euphotic_200m_2089_2"
+RXN-1602	NIL
+RXN-1603	NIL
+R232-RXN	NIL
+P-PANTOCYSDECARB-RXN	NIL	"below_euphotic_200m_1370_0"	"below_euphotic_200m_7421_0"	"below_euphotic_200m_88_0"
+3.5.2.14-RXN	NIL	"below_euphotic_200m_5850_0"	"below_euphotic_200m_2111_0"	"below_euphotic_200m_5952_0"	"below_euphotic_200m_4489_0"	"below_euphotic_200m_1981_0"	"below_euphotic_200m_1770_0"	"below_euphotic_200m_4879_0"	"below_euphotic_200m_1531_0"
+RXN-13001	NIL
+RXN1G-1439	"6-O-trans-keto-mycolyl-trehalose-6-phosphatase"
+RXN1G-1438	"6-O-cis-keto-mycolyl-trehalose-6-phosphatase"
+RXN1G-37	"trans-delta2-cis-delta7-C26:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-30	"trans-docos-2-enoyl-[acyl-carrier protein] reductase"
+RXN1G-32	"cis,cis-delta13,25-3-oxo-C44:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+RXN-9086	NIL
+RXN-9087	NIL
+RXN1G-1435	"6-O-mycolyl-trehalose-6-phosphatase"
+RXN1G-1437	"6-O-trans-methoxy-mycolyl-trehalose-6-phosphatase"
+RXN1G-1436	"6-O-cis-methoxy-mycolyl-trehalose-6-phosphatase"
+RXN1G-891	"3-oxo-C87-trans-mycolate synthase"
+RXN1G-890	"3-oxo-C86-cis-keto-mycolate synthase"
+ALANINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_381_0"	"below_euphotic_200m_8_0"	"below_euphotic_200m_7071_0"
+RXN-9952	NIL	"below_euphotic_200m_1097_0"
+HISTALDEHYD-RXN	"Histidinal dehydrogenase"	"below_euphotic_200m_6918_0"	"below_euphotic_200m_3225_0"	"below_euphotic_200m_4591_0"	"below_euphotic_200m_5951_0"	"below_euphotic_200m_2774_0"	"below_euphotic_200m_389_0"	"below_euphotic_200m_6452_0"
+3-ISOPROPYLMALDEHYDROG-RXN	"3-isopropylmalate dehydrogenase"	"below_euphotic_200m_4231_1"	"below_euphotic_200m_3500_0"	"below_euphotic_200m_3151_0"	"below_euphotic_200m_4548_0"
+GLUTAMINE-N-PHENYLACETYLTRANSFERASE-RXN	NIL
+PRTRANS-RXN	NIL	"below_euphotic_200m_1395_0"	"below_euphotic_200m_2242_1"	"below_euphotic_200m_7527_0"
+UTPHEXPURIDYLYLTRANS-RXN	NIL
+2-OCTAPRENYL-6-METHOXYPHENOL-HYDROX-RXN	NIL
+RXN-6380	NIL
+RXN-6383	NIL
+RXN-9554	"Petrosel-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-9555	NIL
+RXN-9556	"3-oxo-<i>cis</i>-vaccenoyl-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN-9557	"3-hydroxy-cis-vaccenoyl-[acyl-carrier protein] dehydratase"
+RXN-9550	NIL
+RXN-9551	NIL
+RXN-9552	"3-oxo-petroslinoyl-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN-9553	"3-hydroxypetroselinoyl-[acyl-carrier protein] dehydratase"
+RXN-10668	NIL
+RXN-9558	NIL
+RXN1G-309	"cis,cis-delta9,21-3-hydroxyC40:2-[acyl-carrier protein] dehydratase"
+RXN1G-308	"cis,cis-delta7,19-3-hydroxyC38:2-[acyl-carrier protein] dehydratase"
+RXN1G-306	"cis-delta7-3-oxo-C26:1-[acyl-carrier protein] synthase"
+R231-RXN	NIL
+HCAMULTI-RXN	NIL	"below_euphotic_200m_3544_0"
+GLYC3PDEHYDROGBIOSYN-RXN	NIL	"below_euphotic_200m_4567_0"
+RXN-12197	NIL
+RXN-12196	NIL	"below_euphotic_200m_4861_1"	"below_euphotic_200m_6462_1"	"below_euphotic_200m_3740_1"	"below_euphotic_200m_4392_0"	"below_euphotic_200m_2636_0"
+RXN-12195	NIL	"below_euphotic_200m_4861_1"	"below_euphotic_200m_6462_1"	"below_euphotic_200m_3740_1"	"below_euphotic_200m_4392_0"
+RXN-12198	NIL
+RXN-12350	NIL
+RXN-12359	NIL
+RXN1G-2527	"cis,cis-&Delta;19-37-C56:2-[acp] reductase"
+RXN-12609	NIL
+GALLATE-DECARBOXYLASE-RXN	NIL
+RXN-7657	"isobutanol dehydrogenase"	"below_euphotic_200m_6069_0"	"below_euphotic_200m_831_0"	"below_euphotic_200m_5276_0"	"below_euphotic_200m_642_0"
+RXN-36	NIL
+RXN-37	NIL	"below_euphotic_200m_1412_1"	"below_euphotic_200m_4617_0"	"below_euphotic_200m_864_0"
+RXN-12998	NIL
+3.8.1.8-RXN	NIL
+RXN-12997	NIL
+RXN-12994	NIL	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN-8852	NIL	"below_euphotic_200m_2909_0"
+RXN-8854	NIL
+RXN-12156	NIL
+ADENYLYLSULFATE-REDUCTASE-RXN	NIL	"below_euphotic_200m_3805_1"
+GABATRANSAM-RXN	NIL	"below_euphotic_200m_2191_0"	"below_euphotic_200m_118_0"
+2.6.1.50-RXN	NIL	"below_euphotic_200m_5478_0"
+OHMETHYLBILANESYN-RXN	NIL	"below_euphotic_200m_6483_0"	"below_euphotic_200m_6477_0"	"below_euphotic_200m_7276_0"
+TEICHOICSYN2-RXN	NIL	"below_euphotic_200m_485_0"
+RXN-12519	NIL
+RXN-12518	NIL
+RXN-4602	NIL
+PYRUVATEORTHOPHOSPHATE-DIKINASE-RXN	NIL	"below_euphotic_200m_3480_0"	"below_euphotic_200m_1908_0"
+LINOLENOYL-RXN	"&alpha;-linolenate&mdash;CoA ligase"	"below_euphotic_200m_3946_0"	"below_euphotic_200m_7695_0"	"below_euphotic_200m_6368_0"	"below_euphotic_200m_4856_0"	"below_euphotic_200m_4781_0"	"below_euphotic_200m_6328_0"
+RXN0-6427	"guanosine 3'-diphosphate 5'-triphosphate 3'-diphosphatase"	"below_euphotic_200m_4953_0"
+GLYCOPHOSPHORYL-RXN	"glycogen phosphorylase"
+4.2.1.61-RXN	"3-hydroxypalmitoyl-[acyl-carrier-protein] dehydratase"	"below_euphotic_200m_749_0"
+L-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	NIL	"below_euphotic_200m_1877_0"	"below_euphotic_200m_7392_0"	"below_euphotic_200m_6651_0"
+1-ACYLGLYCEROL-3-P-ACYLTRANSFER-RXN	"1-acylglycerol-3-phosphate O-acyltransferase"	"below_euphotic_200m_5504_0"
+RXN-8926	NIL
+RXN-8927	NIL
+RXN1G-526	"trans-tetracos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+LCARNCOALIG-RXN	NIL
+RXN-12777	"3-oxo-dihomo &gamma; linolenoyl-[acp] synthase"
+RXN-12171	"maltodextrin phosphorylase"
+RXN-5642	NIL
+RXN-5643	NIL
+NICOTINATEPRIBOSYLTRANS-RXN	NIL	"below_euphotic_200m_4714_1"	"below_euphotic_200m_4714_0"	"below_euphotic_200m_7094_0"	"below_euphotic_200m_7098_0"
+RXN-10859	NIL
+RXN-1381	NIL	"below_euphotic_200m_4769_1"	"below_euphotic_200m_2584_0"	"below_euphotic_200m_774_0"	"below_euphotic_200m_2595_0"
+RXN0-6512	"3-oxo-5,6-dehydrosuberyl-CoA thiolase"
+RXN0-6513	"2,3-dehydroadipyl-CoA hydratase"	"below_euphotic_200m_7235_0"	"below_euphotic_200m_1156_0"	"below_euphotic_200m_1215_0"	"below_euphotic_200m_5300_0"	"below_euphotic_200m_5994_0"	"below_euphotic_200m_1121_0"	"below_euphotic_200m_6348_0"	"below_euphotic_200m_7366_1"	"below_euphotic_200m_6316_0"
+DEOXYGUANPHOSPHOR-RXN	NIL
+RXN-8631	NIL	"below_euphotic_200m_854_0"	"below_euphotic_200m_3097_0"	"below_euphotic_200m_6600_1"
+GLUCOSAMINEPNACETYLTRANS-RXN	NIL	"below_euphotic_200m_5441_0"
+RXN1G-637	"cis,cis-delta11,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN-11070	"N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase"
+RXN-11072	"rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol &beta;-1,3/1,4-galactofuranosyltransferase"
+RXN-11075	"rhamnopyranosyl-N-acetylglucosaminyl-diphospho-decaprenol &beta;-1,3/1,4-galactofuranosyltransferase"
+RXN-11077	NIL
+RXN-11079	NIL
+RXN-11078	NIL
+ADDALT-RXN	NIL	"below_euphotic_200m_6525_1"	"below_euphotic_200m_7040_0"	"below_euphotic_200m_7043_0"
+RXN-5464	NIL
+RXN-5466	NIL
+PRAISOM-RXN	NIL
+TRANS-RXN0-277	NIL	"below_euphotic_200m_3492_1"	"below_euphotic_200m_4886_0"	"below_euphotic_200m_3346_2"	"below_euphotic_200m_3346_1"
+RXN-5462	NIL
+RXN-5463	NIL
+RXN-11691	NIL
+RXN-5468	NIL
+RXN-5469	NIL
+BENZYL-ALC-DEHYDROGENASE-RXN	"benzyl alcohol dehydrogenase"	"below_euphotic_200m_6161_0"
+METHYLGLUTACONYL-COA-HYDRATASE-RXN	NIL
+HISTAMINOTRANS-RXN	NIL
+GLUTDEHYD-RXN	NIL	"below_euphotic_200m_7313_0"	"below_euphotic_200m_5950_0"	"below_euphotic_200m_6138_0"	"below_euphotic_200m_1332_1"	"below_euphotic_200m_3644_0"	"below_euphotic_200m_7488_0"	"below_euphotic_200m_6734_0"	"below_euphotic_200m_6731_1"	"below_euphotic_200m_1106_1"	"below_euphotic_200m_1106_0"	"below_euphotic_200m_3746_1"	"below_euphotic_200m_7835_0"	"below_euphotic_200m_572_0"	"below_euphotic_200m_5942_0"	"below_euphotic_200m_6369_0"
+AIRCARBOXY-RXN	NIL	"below_euphotic_200m_4757_0"	"below_euphotic_200m_5606_2"	"below_euphotic_200m_1148_0"	"below_euphotic_200m_5949_0"	"below_euphotic_200m_3857_0"
+UDPNACETYLGLUCOSAMACYLTRANS-RXN	NIL	"below_euphotic_200m_7551_0"	"below_euphotic_200m_2339_0"
+RXN-11211	NIL	"below_euphotic_200m_484_0"
+RXN-11210	NIL
+RXN-11213	NIL	"below_euphotic_200m_1072_0"
+RXN-10034	NIL
+23-DIMETHYLMALATE-LYASE-RXN	NIL	"below_euphotic_200m_2091_1"
+RXN-14007	"1-methylthio-xylulose 5-phosphate sulfo-lyase"
+RXN-14006	"5-methylthioribulose-1-phosphate isomerase"
+HOMOSERKIN-RXN	NIL	"below_euphotic_200m_5198_0"
+CAFFEOYL-COA-O-METHYLTRANSFERASE-RXN	NIL	"below_euphotic_200m_6267_0"
+RXN-12193	"4-&alpha;-glucosyltransferase"	"below_euphotic_200m_3037_0"
+RXNMETA-12672	NIL
+RXN490-3650	NIL
+R8-RXN	NIL
+RXN0-2381	NIL	"below_euphotic_200m_6974_0"	"below_euphotic_200m_6979_0"	"below_euphotic_200m_1036_0"
+RXN-10100	NIL	"below_euphotic_200m_7490_1"	"below_euphotic_200m_7490_0"
+RXN-12190	"&alpha;-amylase"
+RXN-10106	NIL
+RXN-10107	NIL
+PHOSACETYLTRANS-RXN	NIL
+ACSERLY-RXN	NIL	"below_euphotic_200m_7542_1"	"below_euphotic_200m_4120_0"	"below_euphotic_200m_4068_0"	"below_euphotic_200m_1011_0"
+RXN0-6483	NIL
+FORMATETHFLIG-RXN	NIL	"below_euphotic_200m_4012_0"	"below_euphotic_200m_5171_0"	"below_euphotic_200m_5718_1"	"below_euphotic_200m_2792_0"
+RXN66-1	NIL	"below_euphotic_200m_2994_0"	"below_euphotic_200m_3778_1"	"below_euphotic_200m_4524_0"
+RXN66-3	"acetaldehyde dehydrogenase (NAD+)"	"below_euphotic_200m_1412_1"
+2.4.1.141-RXN	NIL
+GCVT-RXN	NIL	"below_euphotic_200m_410_0"	"below_euphotic_200m_5582_0"	"below_euphotic_200m_4347_1"	"below_euphotic_200m_4399_0"	"below_euphotic_200m_3518_1"	"below_euphotic_200m_4871_0"	"below_euphotic_200m_6144_0"	"below_euphotic_200m_2215_0"
+RXN-2121	NIL
+RXN-2122	NIL
+RXN1G-1530	"3-oxo-C87-trans-keto-mycolate reductase"
+ALANINE-AMINOTRANSFERASE-RXN	NIL
+ISOCHORSYN-RXN	NIL
+R310-RXN	"acrylonitrile hydratase"	"below_euphotic_200m_2018_0"
+FORMYLMETHANOFURAN-DEHYDROGENASE-RXN	NIL
+2.7.7.15-RXN	NIL	"below_euphotic_200m_2296_1"	"below_euphotic_200m_396_1"
+FADSYN-RXN	NIL
+RXN-13037	"octanoyl:GcvH transferase"	"below_euphotic_200m_6802_1"
+RXN-13036	"octanoyl-[GcvH]:protein <i>N</i>-octanoyltransferase"
+6PGLUCONDEHYDROG-RXN	"phosphogluconate dehydrogenase [NAD(P)+-dependent, decarboxylating]"
+RXN0-4342	NIL
+RXN0-4341	NIL
+6.3.5.6-RXN	NIL	"below_euphotic_200m_3350_0"	"below_euphotic_200m_1013_0"	"below_euphotic_200m_3962_0"	"below_euphotic_200m_3030_0"	"below_euphotic_200m_4792_0"	"below_euphotic_200m_7409_0"	"below_euphotic_200m_402_2"	"below_euphotic_200m_402_1"
+PHEAMINOTRANS-RXN	"phenylalanine transaminase"
+RXN1G-27	"cis-delta5-3-hydroxyC24:1-[acyl-carrier protein] dehydratase"
+RXN1G-26	"cis-delta5-3-oxo-C24:1-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN-9092	NIL
+1.18.1.2-RXN	NIL	"below_euphotic_200m_3393_0"
+RXN1G-886	"3-oxo-C78-&alpha;-mycolate synthase"
+RXN1G-887	"3-oxo-C85-cis-methoxy-mycolate-synthase"
+RXN1G-884	"cis,cis-delta11,29-3-hydroxyC48:2-[acyl-carrier protein] dehydratase"
+RXN-11989	NIL
+RXN1G-883	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+RXN1G-881	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] reductase"
+RXN1G-888	"3-oxo-C86-trans-methoxy-mycolate-synthase"
+5.4.99.17-RXN	NIL	"below_euphotic_200m_6469_1"	"below_euphotic_200m_6275_0"
+RXN1G-951	"cis,cis-delta19,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+AMYLOMALT-RXN	"4-&alpha;-glucanotransferase"	"below_euphotic_200m_3037_0"
+RXN-9542	"<i>trans</i> hexadecenoyl-[acp] reductase (NADPH, B-specific)"
+RXN-9540	"3-oxo-palmitoyl-[acyl-carrier protein] reductase"
+RXN-9549	NIL
+RXN-9548	NIL
+RXN-13698	NIL
+RXN-13697	NIL	"below_euphotic_200m_1534_1"	"below_euphotic_200m_428_0"	"below_euphotic_200m_748_0"	"below_euphotic_200m_237_0"	"below_euphotic_200m_7548_0"	"below_euphotic_200m_4810_0"
+RXN66-472	"fatty aldehyde dehydrogenase"
+RXN66-471	"2-hydroxy-3-methyl-branched fatty acyl-CoA lyase"
+RXN66-470	"3-methyl-branched fatty acyl-CoA 2-hydroxylase"	"below_euphotic_200m_7686_0"
+TAURINE-AMINOTRANSFERASE-RXN	NIL	"below_euphotic_200m_7638_0"	"below_euphotic_200m_3697_1"
+CROBETREDUCT-RXN	NIL
+LOGANATE-O-METHYLTRANSFERASE-RXN	NIL
+GTP-CYCLOHYDRO-II-RXN	NIL
+RXN-12614	"glycine oxidase"
+1.10.2.2-RXN	NIL	"below_euphotic_200m_6236_1"	"below_euphotic_200m_7577_0"	"below_euphotic_200m_3889_0"
+ACETOOHBUTREDUCTOISOM-RXN	NIL	"below_euphotic_200m_3075_0"	"below_euphotic_200m_7457_0"	"below_euphotic_200m_5018_0"
+RXN-12611	"thiamin phosphate synthase"	"below_euphotic_200m_1262_0"	"below_euphotic_200m_6014_0"
+1.13.11.49-RXN	NIL	"below_euphotic_200m_7204_0"
+METHANOL-DEHYDROGENASE-RXN	NIL	"below_euphotic_200m_488_0"
+6.2.1.34-RXN	NIL
+RXN-25	NIL
+THYMIDYLATESYN-RXN	NIL	"below_euphotic_200m_943_0"	"below_euphotic_200m_6105_1"
+RXN-22	NIL	"below_euphotic_200m_651_0"
+RXN-10669	NIL
+PRPPSYN-RXN	NIL	"below_euphotic_200m_4681_1"	"below_euphotic_200m_4681_0"	"below_euphotic_200m_3116_0"	"below_euphotic_200m_1105_0"
+LACTALDDEHYDROG-RXN	NIL
+SCYLLO-INOSAMINE-KINASE-RXN	NIL
+RXN1G-408	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN1G-409	"cis,cis-delta19,37-3-oxo-C56:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+CDPDIGLYSYN-RXN	NIL	"below_euphotic_200m_5402_1"
+RXN-10058	"2,5-diamino-6-(5-phosphoribitylamino)pyrimidin-4(3H)-one deaminase"
+PYRUVFORMLY-RXN	NIL
+RXN1G-536	"cerotoyl-[acyl-carrier protein] reductase"
+3-OXOACYL-ACP-SYNTH-RXN	"3-oxoacyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"	"below_euphotic_200m_749_0"
+RXN-8441	"nicotinamide-&beta;-riboside hydrolase"
+RXN-8443	NIL
+RXN-8442	NIL
+2.5.1.64-RXN	NIL
+RXN-8447	NIL
+RXN-4122	NIL
+RXN1G-3660	"cis-delta21-39-hydroxy-40-methyl-C59:1-[acp] synthase"
+RXN-4121	NIL
+RXN1G-3667	"trans-&Delta;20-39-hydroxy-40-methyl-C60:1-[acp] reductase"
+DIHYDROPYRIMIDINASE-RXN	NIL	"below_euphotic_200m_484_0"
+2.3.1.101-RXN	NIL
+RXN-11197	"falcipain"
+RXN-12349	"feruloyl-coA 6'-hydroxylase"
+DIHYDROXYISOVALDEHYDRAT-RXN	NIL	"below_euphotic_200m_2534_0"	"below_euphotic_200m_2374_0"
+RXN-11198	NIL
+RXN-11199	NIL
+RXN-10821	NIL
+RXN-11667	"(S)-3-hydroxybutanoyl-CoA dehydrogenase"
+RXN-8629	"dihydrolipoyl dehydrogenase"
+RXN-11662	NIL
+MYO-INOSITOL-1-PHOSPHATE-SYNTHASE-RXN	NIL
+PYRROLINECARBREDUCT-RXN	NIL
+RXN-5472	NIL
+RXN-5471	NIL
+RXN-5470	NIL
+METHYLACYLYLCOA-HYDROXY-RXN	"Methylacrylyl-CoA hydratase"	"below_euphotic_200m_7235_0"	"below_euphotic_200m_1156_0"	"below_euphotic_200m_1215_0"	"below_euphotic_200m_5300_0"	"below_euphotic_200m_5994_0"	"below_euphotic_200m_1121_0"	"below_euphotic_200m_6348_0"	"below_euphotic_200m_7366_1"	"below_euphotic_200m_6316_0"
+OCTAPRENYL-METHYL-METHOXY-BENZOQ-OH-RXN	NIL
+ACETYLORNDEACET-RXN	NIL	"below_euphotic_200m_2659_0"	"below_euphotic_200m_6107_0"
+N-CARBAMOYLSARCOSINE-AMIDASE-RXN	NIL
+RXN-11200	NIL	"below_euphotic_200m_1249_0"
+RXN-11209	NIL
+RXN-14014	"4-hydroxy-tetrahydrodipicolinate reductase"
+3.1.1.23-RXN	NIL
+PROPIONYL-COA-CARBOXY-RXN	NIL	"below_euphotic_200m_337_0"	"below_euphotic_200m_5659_2"	"below_euphotic_200m_5726_0"	"below_euphotic_200m_7799_1"	"below_euphotic_200m_3238_0"
+RXN-2581	NIL
+RXN0-302	NIL
+CHOLINE-KINASE-RXN	NIL
+RXN0-308	"cysteine desulfurase"	"below_euphotic_200m_3860_1"	"below_euphotic_200m_6680_0"	"below_euphotic_200m_7334_1"	"below_euphotic_200m_6515_0"	"below_euphotic_200m_6510_0"	"below_euphotic_200m_448_1"	"below_euphotic_200m_7306_1"	"below_euphotic_200m_7582_1"
+RXN-3443	NIL	"below_euphotic_200m_1412_1"
+PROPIONATE-COA-TRANSFERASE-RXN	NIL
+3.5.4.27-RXN	NIL
+OHMETPYRKIN-RXN	NIL	"below_euphotic_200m_7220_0"	"below_euphotic_200m_7175_0"
+UROCANATE-HYDRATASE-RXN	NIL
+RXN1G-1529	"3-oxo-C86-cis-keto-mycolate-reductase"
+RXN1G-1528	"3-oxo-C86-trans-methoxy-mycolate-reductase"
+RXN1G-1527	"3-oxo-C85-cis-methoxy-mycolate reductase"
+RXN-1623	NIL	"below_euphotic_200m_5504_0"
+4.2.1.59-RXN	"3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase"	"below_euphotic_200m_749_0"
+RXN-10695	NIL
+2-OCTAPRENYL-6-OHPHENOL-METHY-RXN	"2-octaprenyl-6-hydroxyphenyl methylase"
+CDPKIN-RXN	NIL	"below_euphotic_200m_1387_0"	"below_euphotic_200m_6789_2"
+RXN-9710	NIL
+GLUTAMATE-SYNTHASE-FERREDOXIN-RXN	NIL	"below_euphotic_200m_6194_0"	"below_euphotic_200m_4142_0"	"below_euphotic_200m_676_0"	"below_euphotic_200m_4137_0"	"below_euphotic_200m_6334_0"	"below_euphotic_200m_346_0"	"below_euphotic_200m_6369_0"
+RXN-9718	NIL	"below_euphotic_200m_6722_1"
+RXN-6724	NIL
+RXN-11998	"&beta;-<i>apo</i>-4'-carotenal oxygenase"
+RXN-11999	NIL
+UROGENIIISYN-RXN	NIL
+RXN-9970	NIL
+RXN-9971	NIL
+1.14.19.3-RXN	NIL
+4OHBENZOATE-OCTAPRENYLTRANSFER-RXN	NIL	"below_euphotic_200m_6982_1"
+2OXOGLUTDECARB-RXN	NIL	"below_euphotic_200m_6225_0"
+ARGSUCCINLYA-RXN	NIL	"below_euphotic_200m_651_0"
+RXN1G-1633	"trehalose-mono-mycolate O-mycolyltransferase"
+RXN0-2044	"3-hydroxyadipyl-CoA dehydrogenase"	"below_euphotic_200m_4141_2"	"below_euphotic_200m_2806_0"
+DTDPDEHYRHAMREDUCT-RXN	NIL
+GLYCINE-FORMIMINOTRANSFERASE-RXN	NIL
+RXN66-281	"squalene synthase"	"below_euphotic_200m_643_0"	"below_euphotic_200m_654_0"	"below_euphotic_200m_370_0"
+RXN-9370	NIL
+RXN0-2042	NIL
+RXN-9372	NIL
+RXN-9373	NIL
+MUCONOLACTONE-DELTA-ISOMERASE-RXN	NIL
+RXN-7835	NIL	"below_euphotic_200m_5538_1"
+ARGININE-2-MONOOXYGENASE-RXN	NIL
+RXN1G-320	"3-hydroxyarchidoyl-[acp] dehydrase"
+RXN66-469	"3-methyl-branched fatty acyl-CoA ligase"	"below_euphotic_200m_3946_0"	"below_euphotic_200m_7695_0"	"below_euphotic_200m_6368_0"	"below_euphotic_200m_4856_0"	"below_euphotic_200m_4781_0"	"below_euphotic_200m_6328_0"
+RXN1G-324	"cis-delta15-3-oxo-C34:1-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+2.1.1.114-RXN	"hexaprenyldihydroxybenzoate methyltransferase"
+RXN-7838	NIL	"below_euphotic_200m_7235_0"	"below_euphotic_200m_1156_0"	"below_euphotic_200m_1215_0"	"below_euphotic_200m_5300_0"	"below_euphotic_200m_5994_0"	"below_euphotic_200m_1121_0"	"below_euphotic_200m_6348_0"	"below_euphotic_200m_7366_1"	"below_euphotic_200m_6316_0"
+RIBOFLAVINKIN-RXN	NIL	"below_euphotic_200m_3156_0"
+R13-RXN	NIL
+STREPTOMYCIN-6-PHOSPHATASE-RXN	NIL
+KDPGALDOL-RXN	NIL
+ACETYLORNTRANSAM-RXN	NIL
+DEOXYHYPUSINE-MONOOXYGENASE-RXN	NIL	"below_euphotic_200m_4180_0"
+DEHYDDEOXGALACTKIN-RXN	"2-dehydro-3-deoxygalactonokinase"
+RXN-7637	NIL
+2-OXOPENT-4-ENOATE-HYDRATASE-RXN	NIL
+PYRUFLAVREDUCT-RXN	NIL
+RXN-12971	NIL
+SIROHEME-FERROCHELAT-RXN	NIL
+RXN1G-184	"cis,cis-delta17,35-3-oxo-C54:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN1G-182	"cis,cis-delta5,23-3-oxo-C42:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN1G-181	"&alpha;-meroacyl-AMP transferase"
+S-ADENMETSYN-RXN	NIL	"below_euphotic_200m_5527_0"
+BIOTINLIG-RXN	NIL
+RXN0-2161	NIL	"below_euphotic_200m_3894_0"	"below_euphotic_200m_817_0"	"below_euphotic_200m_7704_1"	"below_euphotic_200m_3539_0"
+RXN-8925	NIL
+RXN0-5398	NIL	"below_euphotic_200m_4059_0"
+RXN-12081	"galactitol dehydrogenase"
+RXN-12080	"L-xylo-3-hexulose reductase"
+RXN-821	NIL	"below_euphotic_200m_1159_0"	"below_euphotic_200m_7649_0"
+RXN-12579	NIL	"below_euphotic_200m_1228_0"
+PROTOHEMEFERROCHELAT-RXN	NIL
+RXN-12575	"all-trans retinyl-ester hydrolase"
+OROTPDECARB-RXN	NIL	"below_euphotic_200m_2199_0"	"below_euphotic_200m_7520_0"
+4.1.1.72-RXN	NIL
+GLUCOKIN-RXN	NIL	"below_euphotic_200m_2814_0"
+4.3.1.17-RXN	NIL	"below_euphotic_200m_2854_0"
+GLUCONATE-DEHYDRATASE-RXN	NIL
+ARGININE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_1214_0"	"below_euphotic_200m_2134_0"	"below_euphotic_200m_5060_0"	"below_euphotic_200m_2798_1"	"below_euphotic_200m_2801_0"	"below_euphotic_200m_6714_0"	"below_euphotic_200m_6708_1"	"below_euphotic_200m_1301_0"
+RXN1A0-6314	NIL
+HISTIDPHOS-RXN	NIL
+PHENDEHYD-RXN	NIL	"below_euphotic_200m_385_0"
+DIHYDROOROT-RXN	NIL	"below_euphotic_200m_7290_2"	"below_euphotic_200m_7290_1"
+RXN1G-509	"trans-delta2-cis,cis-9,21-C40:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-508	"3-oxo-lignoceroyl-[acyl-carrier protein] reductase"
+DIMETHYLMALEATE-HYDRATASE-RXN	NIL
+R601-RXN	NIL
+R62-RXN	NIL
+RXN1A0-6318	NIL
+RXN-12790	"3-oxo-24-ethyl-cholest-5-ene isomerase"
+PREPHENATEDEHYDROG-RXN	NIL	"below_euphotic_200m_4860_0"
+RXN-12794	NIL
+RXN-12797	NIL
+RXN-10952	NIL	"below_euphotic_200m_2383_1"	"below_euphotic_200m_2383_0"
+METHENYLTHFCYCLOHYDRO-RXN	NIL
+RXN-12157	NIL
+6-HYDROXYNICOTINATE-REDUCTASE-RXN	NIL
+RXN-12155	NIL
+TYRAMINOTRANS-RXN	"Tyrosine transaminase"
+6PGLUCONOLACT-RXN	NIL	"below_euphotic_200m_5518_0"
+TYROSINE-AMINOTRANSFERASE-RXN	NIL
+BADH-RXN	NIL	"below_euphotic_200m_1086_0"
+MALSYN-RXN	NIL	"below_euphotic_200m_3414_0"
+RXN1G-617	"cis,cis-delta21,39-3-oxo-C58:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+SUPEROX-DISMUT-RXN	NIL
+RXN0-2382	NIL	"below_euphotic_200m_6974_0"	"below_euphotic_200m_6979_0"	"below_euphotic_200m_1036_0"
+RXN1G-613	"cis,cis-delta9,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN-8890	NIL
+RXN-8891	NIL
+SUCCINATE--COA-LIGASE-GDP-FORMING-RXN	NIL	"below_euphotic_200m_4042_0"	"below_euphotic_200m_19_0"	"below_euphotic_200m_2312_1"	"below_euphotic_200m_2312_0"	"below_euphotic_200m_7705_1"	"below_euphotic_200m_4095_0"
+CHORISMATE-SYNTHASE-RXN	NIL	"below_euphotic_200m_7606_0"	"below_euphotic_200m_1142_0"
+RXN-1104	NIL
+RXN-1103	NIL
+RXN-7682	NIL	"below_euphotic_200m_3848_0"	"below_euphotic_200m_2386_0"	"below_euphotic_200m_3381_0"	"below_euphotic_200m_1823_0"	"below_euphotic_200m_585_0"	"below_euphotic_200m_2145_0"	"below_euphotic_200m_3762_0"	"below_euphotic_200m_3745_0"	"below_euphotic_200m_6820_0"	"below_euphotic_200m_2277_1"
+RXN-10639	NIL
+LEUCINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_7771_0"	"below_euphotic_200m_1745_0"	"below_euphotic_200m_3737_0"	"below_euphotic_200m_3927_1"	"below_euphotic_200m_3797_0"	"below_euphotic_200m_6961_1"	"below_euphotic_200m_6961_0"	"below_euphotic_200m_6967_0"	"below_euphotic_200m_1771_0"	"below_euphotic_200m_4131_0"	"below_euphotic_200m_4530_0"	"below_euphotic_200m_7066_0"
+RXN-5282	"magnesium-protoporphyrin-IX 13-monomethyl ester,NADPH:oxygen monooxygenase"
+RXN-5283	"13<SUP>1</SUP>-hydroxy-magnesium-protoporphyrin IX 13-monomethyl ester 13-dehydrogenase"
+RXN-5284	"13<SUP>1</SUP>-oxo-magnesium-protoporphyrin IX 13-monomethyl ester dehydrogenase"
+RXN1G-1081	"cis,cis-delta13,31-3-hydroxyC50:2-[acyl-carrier protein] dehydratase"
+RXN66-147	NIL
+UDPMANACATRANS-RXN	NIL
+TYRAMINE-N-FERULOYLTRANSFERASE-RXN	NIL
+RXN-9535	"&beta;-ketoacyl-acyl-carrier-protein synthase I"
+AROMATIC-L-AMINO-ACID-DECARBOXYLASE-RXN	"Tryptophan decarboxylase"
+RXN-9532	"3-oxo-dodecanoyl-[acyl-carrier protein] reductase"
+CATAL-RXN	NIL	"below_euphotic_200m_2994_0"	"below_euphotic_200m_3778_1"	"below_euphotic_200m_4524_0"
+QUINOPRIBOTRANS-RXN	NIL	"below_euphotic_200m_2841_0"
+RXN-9386	NIL
+MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN	"Myo-inositol-1(or 4)-monophosphatase"	"below_euphotic_200m_2383_1"	"below_euphotic_200m_2383_0"
+RXN0-882	NIL	"below_euphotic_200m_4416_0"	"below_euphotic_200m_7513_1"	"below_euphotic_200m_4331_0"	"below_euphotic_200m_3557_1"
+RXN0-884	NIL	"below_euphotic_200m_2856_1"	"below_euphotic_200m_2615_0"	"below_euphotic_200m_7061_0"	"below_euphotic_200m_3572_0"
+3.11.1.2-RXN	NIL	"below_euphotic_200m_5360_0"	"below_euphotic_200m_5736_0"	"below_euphotic_200m_5878_0"	"below_euphotic_200m_6202_0"	"below_euphotic_200m_5741_0"	"below_euphotic_200m_6243_0"
+RXN1G-1084	"cis-delta19-3-hydroxyC38:1-[acyl-carrier protein] dehydratase"
+RXN0-6510	NIL
+RIBOFLAVINSYNREDUC-RXN	NIL
+4.2.1.101-RXN	NIL
+BETA-GLUCURONID-RXN	NIL
+ALANINE--GLYOXYLATE-AMINOTRANSFERASE-RXN	NIL	"below_euphotic_200m_3652_1"
+DTMPKI-RXN	NIL	"below_euphotic_200m_6566_1"	"below_euphotic_200m_6963_0"	"below_euphotic_200m_151_1"
+H2PTEROATESYNTH-RXN	NIL	"below_euphotic_200m_2848_1"	"below_euphotic_200m_4699_0"
+RXN-9969	"di-<i>trans</i>,poly-<i>cis</i>-polyprenyl diphosphate synthase [(2<i>E</i>,6<i>E</i>)-farnesyl diphosphate specific]"	"below_euphotic_200m_7365_0"
+CYTIDEAM-RXN	NIL	"below_euphotic_200m_3476_0"
+MALONYL-COA-ACP-TRANSACYL-RXN	NIL	"below_euphotic_200m_1375_0"	"below_euphotic_200m_333_0"	"below_euphotic_200m_749_0"
+CYSTEINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_3296_0"	"below_euphotic_200m_4717_0"
+RXN-9369	NIL
+RXN-9368	NIL
+RXN-6641	NIL
+GLYCINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_3679_0"	"below_euphotic_200m_5670_1"	"below_euphotic_200m_5670_0"	"below_euphotic_200m_4839_1"	"below_euphotic_200m_986_0"
+GUANINE-DEAMINASE-RXN	NIL
+RXN1A0-6297	NIL
+RXN-9367	NIL
+PORPHOBILSYNTH-RXN	NIL	"below_euphotic_200m_3499_0"	"below_euphotic_200m_6977_0"	"below_euphotic_200m_1906_0"
+RXN1G-334	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+ADENOSYLHOMOCYSTEINASE-RXN	NIL	"below_euphotic_200m_5631_0"	"below_euphotic_200m_1508_1"	"below_euphotic_200m_3592_1"
+RXN1G-337	"trans-delta2-cis,cis-delta13,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+R11-RXN	"butyryl coenzyme A transferase"
+RXN1G-339	"trans-delta2-cis-cis-delta7-19-C38:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-12360	NIL
+RXN-12361	NIL
+IMIDPHOSDEHYD-RXN	NIL	"below_euphotic_200m_5367_0"	"below_euphotic_200m_508_0"
+RXN-11832	NIL	"below_euphotic_200m_607_0"	"below_euphotic_200m_3183_0"
+FHLMULTI-RXN	NIL
+RXN3O-5293	NIL
+RXN-7607	NIL
+RXN-7605	NIL
+STRICTOSIDINE-SYNTHASE-RXN	NIL	"below_euphotic_200m_6857_2"
+FGAMSYN-RXN	NIL	"below_euphotic_200m_602_0"	"below_euphotic_200m_3635_0"	"below_euphotic_200m_3432_0"	"below_euphotic_200m_1334_0"	"below_euphotic_200m_7141_0"	"below_euphotic_200m_5764_2"	"below_euphotic_200m_6261_0"	"below_euphotic_200m_1746_0"
+GCVMULTI-RXN	NIL
+RXN1G-420	"cis-delta7-3-hydroxyC26:1-[acyl-carrier protein] dehydratase"
+RXN-12968	NIL
+RXN-12969	NIL
+RXN1G-424	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+RXN1G-425	"3-cis,cis-delta7,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+GSAAMINOTRANS-RXN	NIL	"below_euphotic_200m_3617_0"	"below_euphotic_200m_1882_0"	"below_euphotic_200m_3389_0"	"below_euphotic_200m_317_0"	"below_euphotic_200m_838_1"	"below_euphotic_200m_170_0"	"below_euphotic_200m_6220_1"	"below_euphotic_200m_6861_0"	"below_euphotic_200m_5940_1"
+1.14.13.36-RXN	NIL
+ATPPHOSPHORIBOSYLTRANS-RXN	NIL	"below_euphotic_200m_7166_1"	"below_euphotic_200m_4455_0"	"below_euphotic_200m_7848_0"
+TRANS-HEXAPRENYLTRANSTRANSFERASE-RXN	NIL	"below_euphotic_200m_7447_0"
+RXN-8141	NIL
+HYDROXYPYRROLINEDEH-RXN	"pyrroline-hydroxy-carboxylate dehydrogenase"	"below_euphotic_200m_4109_0"
+GLUCOSE-1-PHOSPHAT-RXN	NIL
+RXN0-5258	"sn-glycerol 3-phosphate:ubiquinone oxidoreductase"
+1.20.4.2-RXN	NIL
+3-OXOADIPATE-ENOL-LACTONASE-RXN	NIL
+COBALADENOSYLTRANS-RXN	"Cob(I)alamin adenosyltransferase"	"below_euphotic_200m_645_1"
+D-LACTALDEHYDE-DEHYDROGENASE-RXN	NIL
+RXN0-6479	NIL	"below_euphotic_200m_799_0"
+RXN0-6478	NIL	"below_euphotic_200m_2590_0"	"below_euphotic_200m_7851_0"
+RXN0-6274	NIL	"below_euphotic_200m_132_0"
+PHOSPHOKETOLASE-RXN	NIL
+RXN-9666	NIL
+RXN1G-517	"3-hydroxylignoceroyl-[acyl-carrier protein] dehydratase"
+RXN-12782	"3-oxo-24-ethyl-cholest-4,24-dien-26-oyl-CoA carboxylase"
+RXN-12780	"3,24-dioxo-cholest-4-en-26-oate:CoA ligase"
+RXN-12781	"3-oxo-24-(isopropanoate)-cholest-4,24-dien-26-oyl-CoA hydrolase"
+RXN-12786	"3-oxo-24-ethyl-26-al-cholest-4-ene dehydrogenase"
+RXN-12787	"3-oxo-24-ethyl-26-hydroxy-cholest-4-ene dehydrogenase"
+RXN-12784	"3-oxo-24-ethyl-cholest-4-en-26-oyl-CoA dehydrogenase"
+METHYLITACONATE-DELTA-ISOMERASE-RXN	NIL
+RXN-12788	"3-oxo-24-ethyl-cholest-4-ene C-26 monooxygenase"
+RXN-12789	"sitosterol dehydrogenase"
+QUINOLINATE-SYNTHA-RXN	NIL	"below_euphotic_200m_531_0"
+RXN1G-3641	"cis-&Delta;21-39-hydroxy-40-methyl-C59:1-[acp] reductase"
+RXN1G-193	"trans-delta2-cis,cis-5,17-C36:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-196	"trans-delta2-cis,cis-delta11,23-C42:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+1.97.1.1-RXN	NIL
+RXN-8391	NIL
+RXN-8390	NIL
+RXN1G-607	"trans-delta2-cis,cis-delta15,27-C46:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN3O-102	"3-demethylubiquinol-6 3-O-methyltransferase"	"below_euphotic_200m_2112_1"
+R230-RXN	"(2R)-3-sulfolactate dehydrogenase (NAD+)"
+RXN-1823	NIL
+RXN-1824	NIL
+RXN-1825	NIL
+RXN-1826	"starch phosphorylase"
+RXN-1827	NIL
+RXN-8889	NIL
+AMINOBENZCOALIG-RXN	NIL	"below_euphotic_200m_6430_0"
+SAICARSYN-RXN	NIL
+ACP-S-ACETYLTRANSFER-RXN	NIL	"below_euphotic_200m_749_0"
+RXN-8081	NIL
+RXN-8080	NIL	"below_euphotic_200m_2271_0"
+MUCONATE-CYCLOISOMERASE-RXN	NIL	"below_euphotic_200m_5004_0"	"below_euphotic_200m_5800_0"
+XANTHOSINEPHOSPHORY-RXN	"xanthosine phosphorylase"
+RXN-8779	NIL
+D-SORBITOL-DEHYDROGENASE-RXN	NIL
+5.3.3.14-RXN	NIL
+ACETATEKIN-RXN	NIL	"below_euphotic_200m_3145_0"
+DTDPKIN-RXN	NIL
+RXN66-337	"LTD4 dipeptidase"	"below_euphotic_200m_5825_0"	"below_euphotic_200m_5354_1"	"below_euphotic_200m_3240_1"	"below_euphotic_200m_3240_0"
+METHYLMALONYL-COA-EPIM-RXN	NIL	"below_euphotic_200m_196_0"
+6.3.2.7-RXN	NIL
+RXN-11317	"oxidized polyvinyl alcohol hydrolase"
+RXN-11319	NIL
+2.1.4.2-RXN	NIL
+BENZALDEHYDE-DEHYDROGENASE-NAD+-RXN	NIL
+RXN-9174	NIL
+3-CH3-2-OXOBUTANOATE-OH-CH3-XFER-RXN	NIL	"below_euphotic_200m_5406_0"	"below_euphotic_200m_4566_1"	"below_euphotic_200m_5336_0"
+RXN-9172	NIL
+RXN-9173	NIL
+RXN-9170	NIL
+RXN-9171	NIL
+2.9.1.1-RXN	NIL	"below_euphotic_200m_5559_0"
+RXN0-748	NIL	"below_euphotic_200m_3288_0"	"below_euphotic_200m_3186_1"	"below_euphotic_200m_3186_0"	"below_euphotic_200m_2906_0"	"below_euphotic_200m_2557_0"	"below_euphotic_200m_1844_0"	"below_euphotic_200m_3400_0"	"below_euphotic_200m_3959_1"	"below_euphotic_200m_3959_0"	"below_euphotic_200m_4118_0"	"below_euphotic_200m_967_0"
+GTPPYPHOSKIN-RXN	NIL	"below_euphotic_200m_7963_0"	"below_euphotic_200m_4123_0"	"below_euphotic_200m_5711_0"	"below_euphotic_200m_3384_0"	"below_euphotic_200m_7554_0"
+L-LACTATE-DEHYDROGENASE-RXN	NIL	"below_euphotic_200m_6651_0"
+1.2.1.25-RXN	NIL
+RXN0-745	NIL
+RXN0-746	NIL
+RXN0-747	NIL	"below_euphotic_200m_3288_0"	"below_euphotic_200m_3186_1"	"below_euphotic_200m_3186_0"	"below_euphotic_200m_2906_0"	"below_euphotic_200m_2557_0"	"below_euphotic_200m_1844_0"	"below_euphotic_200m_3400_0"	"below_euphotic_200m_3959_1"	"below_euphotic_200m_3959_0"	"below_euphotic_200m_4118_0"	"below_euphotic_200m_967_0"
+RXN-3641	NIL
+1.3.1.2-RXN	NIL
+GLUTAMIN-RXN	NIL	"below_euphotic_200m_610_0"	"below_euphotic_200m_5425_0"	"below_euphotic_200m_5113_0"	"below_euphotic_200m_7313_0"	"below_euphotic_200m_6194_0"	"below_euphotic_200m_5950_0"	"below_euphotic_200m_4142_0"	"below_euphotic_200m_3170_0"	"below_euphotic_200m_6138_0"	"below_euphotic_200m_676_0"	"below_euphotic_200m_4913_0"	"below_euphotic_200m_3644_0"	"below_euphotic_200m_7488_0"	"below_euphotic_200m_6734_0"	"below_euphotic_200m_6731_1"	"below_euphotic_200m_1106_1"	"below_euphotic_200m_1106_0"	"below_euphotic_200m_3746_1"	"below_euphotic_200m_4137_0"	"below_euphotic_200m_7835_0"	"below_euphotic_200m_7708_0"	"below_euphotic_200m_572_0"	"below_euphotic_200m_5942_0"	"below_euphotic_200m_6334_0"	"below_euphotic_200m_346_0"	"below_euphotic_200m_6369_0"
+RXN-12532	NIL
+PYRUVATE-CARBOXYLASE-RXN	NIL	"below_euphotic_200m_2179_0"	"below_euphotic_200m_1027_0"
+2.7.7.13-RXN	NIL
+RXN0-1147	NIL	"below_euphotic_200m_7243_0"
+PHOSPHASERSYN-RXN	NIL	"below_euphotic_200m_1065_0"
+2.6.1.56-RXN	NIL
+ORNMUTST-RXN	NIL
+1.1.1.262-RXN	"4-hydroxythreonine-4-phosphate dehydrogenase"	"below_euphotic_200m_1413_0"	"below_euphotic_200m_984_0"
+TEICHOICSYN5-RXN	NIL
+RXN1G-1278	"cis,cis-delta15,33-3-hydroxyC52:2-[acyl-carrier protein] dehydratase"
+RXN66-483	NIL	"below_euphotic_200m_3946_0"	"below_euphotic_200m_7695_0"	"below_euphotic_200m_6368_0"	"below_euphotic_200m_4856_0"	"below_euphotic_200m_4781_0"	"below_euphotic_200m_6328_0"
+IMPCYCLOHYDROLASE-RXN	NIL	"below_euphotic_200m_6548_0"	"below_euphotic_200m_3545_0"	"below_euphotic_200m_5032_0"
+RXN66-241	NIL
+DEOXYADENPHOSPHOR-RXN	NIL
+ACETATE--COA-LIGASE-RXN	NIL	"below_euphotic_200m_6009_0"	"below_euphotic_200m_7058_2"	"below_euphotic_200m_2514_0"	"below_euphotic_200m_7764_0"	"below_euphotic_200m_7065_1"	"below_euphotic_200m_682_0"
+1.3.7.2-RXN	NIL	"below_euphotic_200m_2749_0"
+PGPPHOSPHA-RXN	NIL
+RXN-7614	NIL	"below_euphotic_200m_1104_0"
+RXN1G-853	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN0-1382	NIL	"below_euphotic_200m_800_0"	"below_euphotic_200m_6082_0"	"below_euphotic_200m_4806_1"	"below_euphotic_200m_3715_0"	"below_euphotic_200m_5495_0"	"below_euphotic_200m_6226_0"	"below_euphotic_200m_7303_0"	"below_euphotic_200m_3749_0"
+GTP-CYCLOHYDRO-I-RXN	NIL
+BISPHOSPHOGLYCERATE-MUTASE-RXN	NIL
+RXN-6642	NIL	"below_euphotic_200m_5869_0"
+AKBLIG-RXN	NIL
+RXN1G-3256	"trans-&Delta;18-37-hydroxy-38-methyl-C58:1-[acp] reductase"
+RXN0-2145	NIL	"below_euphotic_200m_6830_1"
+RXN0-2144	NIL
+PHOSMANMUT-RXN	NIL	"below_euphotic_200m_6728_0"	"below_euphotic_200m_5705_0"
+RXN0-2141	NIL
+RXN1G-292	"C87-trans-keto-mycolate O-mycolyltransferase"
+RXN1G-291	"C86-cis-keto-mycolate O-mycolyltransferase"
+RXN1G-290	"C87-trans-mycolate O-mycolyltransferase"
+RXN1G-297	"trans-keto-meroacyl-AMP transferase"
+RXN1G-296	"cis-keto-meroacyl-AMP transferase"
+RXN1G-295	"trans-methoxy-meroacyl-AMP transferase"
+RXN1G-294	"3-cis,cis-delta13,25-3-hydroxyC44:2-[acyl-carrier protein] dehydratase"
+PRDABST-RXN	NIL
+RXN0-5260	NIL	"below_euphotic_200m_2800_0"	"below_euphotic_200m_5453_0"
+3-HYDROXYISOBUTYRATE-DEHYDROGENASE-RXN	NIL	"below_euphotic_200m_2424_0"	"below_euphotic_200m_873_0"	"below_euphotic_200m_6389_0"
+1.14.99.36-RXN	NIL
+NADH-DEHYDROG-A-RXN	NIL	"below_euphotic_200m_613_1"	"below_euphotic_200m_3044_1"	"below_euphotic_200m_3044_0"	"below_euphotic_200m_1933_0"	"below_euphotic_200m_2468_1"	"below_euphotic_200m_4310_0"	"below_euphotic_200m_477_0"	"below_euphotic_200m_4129_1"	"below_euphotic_200m_4129_0"	"below_euphotic_200m_3018_0"	"below_euphotic_200m_4578_1"	"below_euphotic_200m_4242_1"	"below_euphotic_200m_4242_0"	"below_euphotic_200m_5333_0"	"below_euphotic_200m_4618_1"	"below_euphotic_200m_4618_0"	"below_euphotic_200m_4425_1"
+RXN0-5114	NIL	"below_euphotic_200m_7235_1"
+RXN-8963	NIL
+GLUTAMATE-FORMIMINOTRANSFERASE-RXN	NIL	"below_euphotic_200m_7552_0"
+2-METHYLACYL-COA-DEHYDROGENASE-RXN	NIL
+RXN-8964	NIL
+RIBULP3EPIM-RXN	NIL
+RXN-10101	NIL
+BISPHOSPHOGLYCERATE-PHOSPHATASE-RXN	NIL	"below_euphotic_200m_1927_1"
+NICONUCADENYLYLTRAN-RXN	NIL	"below_euphotic_200m_4357_0"
+L-GLN-FRUCT-6-P-AMINOTRANS-RXN	NIL	"below_euphotic_200m_2894_0"	"below_euphotic_200m_4800_0"	"below_euphotic_200m_7209_0"	"below_euphotic_200m_7203_0"	"below_euphotic_200m_6418_1"
+SUCCGLUDESUCC-RXN	NIL	"below_euphotic_200m_4498_1"	"below_euphotic_200m_7473_0"
+RXN-10814	"L-phenylalanine aminotransferase"	"below_euphotic_200m_1534_1"	"below_euphotic_200m_428_0"	"below_euphotic_200m_748_0"	"below_euphotic_200m_237_0"	"below_euphotic_200m_7548_0"	"below_euphotic_200m_4810_0"
+RXN-10815	"2-oxo-3-phenylpropanoate dioxygenase"
+RXN-10816	"phenylpyruvate reductase"
+RXN-10817	"phenylethylamine oxidase"	"below_euphotic_200m_6278_0"
+ORNITHINE-RACEMASE-RXN	NIL
+RXN-10819	NIL
+PEPCARBOX-RXN	NIL	"below_euphotic_200m_2917_0"
+RXN1G-674	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase"
+CHD-RXN	NIL	"below_euphotic_200m_4308_0"	"below_euphotic_200m_3073_0"	"below_euphotic_200m_3057_0"	"below_euphotic_200m_2804_0"
+RXN1G-679	"trans-delta2-cis,cis-delta21,39-C58:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-5841	NIL
+DOLICHOL-KINASE-RXN	NIL
+GLYCOLATEDEHYDRO-RXN	NIL	"below_euphotic_200m_4876_0"	"below_euphotic_200m_4108_2"	"below_euphotic_200m_4108_0"
+3.1.3.40-RXN	NIL
+SUCCINATE-DEHYDROGENASE-UBIQUINONE-RXN	NIL	"below_euphotic_200m_596_0"	"below_euphotic_200m_4534_0"
+RXN-8346	"di-homo-&gamma;-linolenate &Delta;<sup>5</sup> desaturase"
+7KAPSYN-RXN	NIL	"below_euphotic_200m_1793_1"
+RXN-1126	NIL
+CHITIN-DEACETYLASE-RXN	NIL	"below_euphotic_200m_6104_0"
+RXN-4466	NIL
+RXN-4465	NIL
+RXN-4464	NIL
+URATE-OXIDASE-RXN	NIL	"below_euphotic_200m_2611_0"
+RXN0-6482	NIL	"below_euphotic_200m_4861_0"	"below_euphotic_200m_3213_0"
+THI-P-KIN-RXN	NIL
+RXN0-6480	NIL
+RXN0-6481	NIL	"below_euphotic_200m_4861_0"	"below_euphotic_200m_3213_0"
+RXN1G-4142	"cis-keto-C60-meroacyl-[acp] synthetase"
+RXN1G-4143	"trans-keto-C61-meroacyl-[acp] synthetase"
+RXN1G-4140	"cis-methoxy-C59-meroacyl-[acp] synthetase"
+RXN1G-4141	"trans-methoxy-C60-meroacyl-[acp] synthetase"
+RXN-2902	NIL
+RXN-2901	NIL	"below_euphotic_200m_2191_0"	"below_euphotic_200m_118_0"
+2OXOGLUTARATEDEH-RXN	"2-oxoglutarate dehydrogenase complex"
+UDPKIN-RXN	NIL	"below_euphotic_200m_1387_0"	"below_euphotic_200m_6789_2"
+METHYLCROTONYL-COA-CARBOXYLASE-RXN	NIL	"below_euphotic_200m_5541_0"	"below_euphotic_200m_7513_0"	"below_euphotic_200m_4240_1"	"below_euphotic_200m_7662_0"	"below_euphotic_200m_1236_1"
+RXN-11761	"fluoroacetate dehalogenase"	"below_euphotic_200m_5979_1"
+CYTOCHROME-C-OXIDASE-RXN	NIL	"below_euphotic_200m_6399_0"	"below_euphotic_200m_2900_2"	"below_euphotic_200m_7197_1"	"below_euphotic_200m_7197_0"	"below_euphotic_200m_4540_1"	"below_euphotic_200m_1141_0"	"below_euphotic_200m_3897_0"	"below_euphotic_200m_5256_1"	"below_euphotic_200m_5256_0"
+FORMYLTHFDEFORMYL-RXN	"formyltetrahydrofolate deformylase"
+AMP-DEPHOSPHORYLATION-RXN	"AMP-5'-nucleotidase"
+SQUALENE-MONOOXYGENASE-RXN	NIL
+SHIKIMATE-KINASE-RXN	NIL	"below_euphotic_200m_2092_1"	"below_euphotic_200m_6071_1"
+ORNCARBAMTRANSFER-RXN	NIL	"below_euphotic_200m_5238_0"	"below_euphotic_200m_6583_0"	"below_euphotic_200m_4451_1"	"below_euphotic_200m_6098_0"
+RXN-10784	"5-hydroxytryptophol UDP-glucuronosyltransferase"
+RXN-10785	NIL
+RXN-10780	"5-hydroxyindole acetaldehyde dehydrogenase"	"below_euphotic_200m_1412_1"
+RXN-10781	"5-hydroxytryptophol dehydrogenase"	"below_euphotic_200m_6069_0"	"below_euphotic_200m_831_0"	"below_euphotic_200m_5276_0"	"below_euphotic_200m_642_0"
+RXN-10782	"5-hydroxytryptophol sulfotransferase"
+RXN-11498	"perchlorate reductase"
+3.1.27.9-RXN	NIL	"below_euphotic_200m_6305_0"
+RXN-9169	NIL
+RXN-9168	NIL
+GLUTAMATESYN-RXN	NIL	"below_euphotic_200m_7313_0"	"below_euphotic_200m_5950_0"	"below_euphotic_200m_6138_0"	"below_euphotic_200m_3644_0"	"below_euphotic_200m_7488_0"	"below_euphotic_200m_6734_0"	"below_euphotic_200m_6731_1"	"below_euphotic_200m_1106_1"	"below_euphotic_200m_1106_0"	"below_euphotic_200m_3746_1"	"below_euphotic_200m_7835_0"	"below_euphotic_200m_572_0"	"below_euphotic_200m_5942_0"	"below_euphotic_200m_6369_0"
+2.3.1.157-RXN	NIL	"below_euphotic_200m_4148_1"
+RXN-9167	NIL
+HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN	NIL
+DTDPDEHYDRHAMEPIM-RXN	NIL	"below_euphotic_200m_3188_0"
+2.5.1.19-RXN	NIL	"below_euphotic_200m_6071_0"	"below_euphotic_200m_7091_0"	"below_euphotic_200m_6359_0"
+1.97.1.2-RXN	NIL
+RXN-11569	NIL	"below_euphotic_200m_6036_1"	"below_euphotic_200m_6036_0"
+OXALATE-COA-TRANSFERASE-RXN	NIL
+5.3.1.23-RXN	NIL	"below_euphotic_200m_5856_1"	"below_euphotic_200m_3231_1"
+RXNMETA-12671	NIL
+METHYLACETOACETYLCOATHIOL-RXN	"2-methylacetoacetyl-CoA thiolase"	"below_euphotic_200m_3014_0"	"below_euphotic_200m_5822_0"	"below_euphotic_200m_291_0"	"below_euphotic_200m_720_1"
+DIMETHUROPORDEHYDROG-RXN	NIL	"below_euphotic_200m_5784_1"
+GLUCURONATE-REDUCTASE-RXN	NIL
+MANNONOXIDOREDUCT-RXN	NIL
+LACTALDEHYDE-OXI-RXN	NIL
+GDPREDUCT-RXN	NIL	"below_euphotic_200m_3288_0"	"below_euphotic_200m_3186_1"	"below_euphotic_200m_3186_0"	"below_euphotic_200m_2906_0"	"below_euphotic_200m_2557_0"	"below_euphotic_200m_1844_0"	"below_euphotic_200m_3400_0"	"below_euphotic_200m_3959_1"	"below_euphotic_200m_3959_0"	"below_euphotic_200m_4118_0"	"below_euphotic_200m_967_0"
+DIAMINOPIMEPIM-RXN	NIL	"below_euphotic_200m_4678_0"
+GALACTUROISOM-RXN	"D-galacturonate isomerase"	"below_euphotic_200m_5754_0"
+DEPHOSPHOCOAKIN-RXN	NIL	"below_euphotic_200m_7557_0"	"below_euphotic_200m_1698_1"	"below_euphotic_200m_6227_0"
+DHHB-METHYLTRANSFER-RXN	"3-demethylubiquinone-8 3-O-methyltransferase"
+GLUTAMATE-SYNTHASE-NADH-RXN	NIL	"below_euphotic_200m_3430_0"	"below_euphotic_200m_5953_0"	"below_euphotic_200m_2715_0"	"below_euphotic_200m_6457_0"	"below_euphotic_200m_6369_0"
+PEPDEPHOS-RXN	NIL	"below_euphotic_200m_2812_0"
+XYLULOKIN-RXN	NIL	"below_euphotic_200m_7305_0"
+ANTHRANILOYL-COA-MONOOXYGENASE-RXN	NIL
+RXN3O-12	NIL
+2.1.1.138-RXN	NIL	"below_euphotic_200m_2356_0"	"below_euphotic_200m_7781_0"
+GLUTATHIONE-PEROXIDASE-RXN	NIL	"below_euphotic_200m_288_0"	"below_euphotic_200m_2444_2"	"below_euphotic_200m_5203_0"
+DIHYDROFOLATESYNTH-RXN	NIL	"below_euphotic_200m_5447_0"
+GLUTAMINESYN-RXN	NIL	"below_euphotic_200m_4454_0"	"below_euphotic_200m_76_0"	"below_euphotic_200m_3609_0"	"below_euphotic_200m_7533_0"	"below_euphotic_200m_5793_0"	"below_euphotic_200m_3189_1"	"below_euphotic_200m_7040_1"	"below_euphotic_200m_7043_1"
+R127-RXN	NIL
+RXN1G-840	"cis-delta17-3-oxo-C36:1-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+HISTIDINE-AMMONIA-LYASE-RXN	NIL
+RXN-6201	NIL
+RXN1G-1247	"cis,cis-delta15,33-3-oxo-C52:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN1G-445	"3-oxo-behenoyl-[acp] synthase"
+RXN1G-440	"3-cis,cis-delta19,37-3-hydroxyC56:2-[acyl-carrier protein] dehydratase"
+SUCC-FUM-OXRED-RXN	NIL	"below_euphotic_200m_7330_0"	"below_euphotic_200m_1298_0"	"below_euphotic_200m_7291_1"	"below_euphotic_200m_7501_0"
+NADNUCLEOSID-RXN	NIL
+RXN1G-288	"C78-&alpha;-mycolate-O-mycolyltransferase"
+RXN1G-289	"C85-cis-mycolate O-mycolyltransferase"
+RXN1G-285	"trans-delta2-cis-delta9-C28:2-[acyl-carrier protein] reductase (NADH, B-specific)"
+RXN1G-287	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] reductase"
+R311-RXN	"Acrylamidase"	"below_euphotic_200m_979_0"	"below_euphotic_200m_7195_0"	"below_euphotic_200m_5470_0"	"below_euphotic_200m_7704_0"	"below_euphotic_200m_5595_0"	"below_euphotic_200m_2274_0"
+RXN-12548	NIL
+RXN-12549	NIL
+RXN0-2142	NIL	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+SUCCORNTRANSAM-RXN	NIL
+GLYOXI-RXN	NIL	"below_euphotic_200m_3068_1"
+RXN0-3601	NIL	"below_euphotic_200m_5430_0"
+3.1.2.23-RXN	NIL
+UDPREDUCT-RXN	NIL
+RXN-8974	NIL
+ENOYL-COA-DELTA-ISOM-RXN	"Dodecenoyl-CoA &delta;-isomerase"
+RXN0-5293	NIL	"below_euphotic_200m_5871_0"
+RXN0-6259	NIL
+RXN-8618	NIL
+KDO-8PSYNTH-RXN	NIL	"below_euphotic_200m_640_0"	"below_euphotic_200m_4457_0"	"below_euphotic_200m_2338_0"	"below_euphotic_200m_2146_1"
+5-FORMYL-THF-CYCLO-LIGASE-RXN	NIL
+RXN-13435	NIL
+ENOYL-ACP-REDUCT-NADPH-RXN	"2,3,4-saturated fatty acyl-[acp] dehydrogenase"	"below_euphotic_200m_6830_1"	"below_euphotic_200m_749_0"
+DURIDKI-RXN	NIL
+RXN1G-660	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+4.1.2.41-RXN	NIL
+GLUTAMATE-DEHYDROGENASE-RXN	NIL	"below_euphotic_200m_6165_0"
+2TRANSKETO-RXN	"D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde transferase"	"below_euphotic_200m_6972_0"	"below_euphotic_200m_6978_0"	"below_euphotic_200m_95_0"	"below_euphotic_200m_5912_0"	"below_euphotic_200m_909_0"	"below_euphotic_200m_3190_1"	"below_euphotic_200m_3702_0"
+RXN-12056	"tRNA ligase"
+RXN-12055	"ADP-ribose 1\",2\"-cyclic phosphate 2''-phosphodiesterase"
+RXN-8350	"eicosatetraenoate &Delta;<sup>5</sup> desaturase"
+MEPROPCOA-FAD-RXN	"isobutyryl-CoA dehydrogenase"
+3.1.6.4-RXN	NIL	"below_euphotic_200m_1961_1"	"below_euphotic_200m_4676_0"
+1.1.1.220-RXN	NIL
+OHBUTYRYL-COA-EPIM-RXN	"3-hydroxybutyryl-CoA epimerase"
+GLYOHMETRANS-RXN	NIL	"below_euphotic_200m_1922_0"
+UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN	NIL	"below_euphotic_200m_3268_0"	"below_euphotic_200m_6371_0"
+1.1.1.178-RXN	NIL
+3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN	NIL	"below_euphotic_200m_5021_1"
+GLUTKIN-RXN	NIL	"below_euphotic_200m_5734_1"	"below_euphotic_200m_6681_0"	"below_euphotic_200m_6685_0"	"below_euphotic_200m_501_0"	"below_euphotic_200m_1304_0"	"below_euphotic_200m_786_0"
+RXN-8755	NIL
+RXN-8754	NIL
+RXN-8751	NIL
+RXN1G-717	"cis,cis-delta17,29-3-oxo-C48:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN-8753	NIL
+RXN-8752	NIL
+RXN-8999	NIL	"below_euphotic_200m_4016_1"	"below_euphotic_200m_3205_2"	"below_euphotic_200m_3205_1"	"below_euphotic_200m_1839_0"
+RXN-8992	NIL	"below_euphotic_200m_2059_0"
+RXN-8991	"3-isopropylmalate dehydratase"	"below_euphotic_200m_4178_1"	"below_euphotic_200m_431_0"	"below_euphotic_200m_2440_0"	"below_euphotic_200m_459_0"	"below_euphotic_200m_2135_0"	"below_euphotic_200m_5493_0"	"below_euphotic_200m_4548_1"	"below_euphotic_200m_1180_0"	"below_euphotic_200m_7682_0"
+RXN-8990	"phenylaldehyde synthase"
+SUCROSE-PHOSPHATE-SYNTHASE-RXN	NIL
+RXN-1061	NIL
+ISOCITDEH-RXN	NIL	"below_euphotic_200m_7489_0"	"below_euphotic_200m_4135_0"
+DCDPKIN-RXN	NIL	"below_euphotic_200m_1387_0"	"below_euphotic_200m_6789_2"
+RXN0-299	NIL	"below_euphotic_200m_2481_0"	"below_euphotic_200m_490_1"
+2-OCTAPRENYL-METHOXY-BENZOQ-METH-RXN	NIL
+RXN-1063	NIL
+DLACTDEHYDROGNAD-RXN	NIL
+RXN-4521	"7-deoxyloganate 7-hydroxylase"
+CREATININASE-RXN	NIL	"below_euphotic_200m_7752_1"	"below_euphotic_200m_7752_0"	"below_euphotic_200m_2840_1"	"below_euphotic_200m_3704_0"	"below_euphotic_200m_7049_0"
+ARGDECARBOX-RXN	NIL
+RXN-11480	"3-oxo-pimeloyl-[acp] methyl ester reductase"
+RXN-11481	NIL
+RXN-11482	NIL	"below_euphotic_200m_6830_1"
+RXN-11483	NIL
+RXN-11484	NIL	"below_euphotic_200m_1793_1"
+PHENYLALANINE-4-MONOOXYGENASE-RXN	NIL
+4.2.3.12-RXN	NIL	"below_euphotic_200m_6302_1"
+RXN-8197	NIL
+RXN-10777	"serotonin sulfotransferase"
+RXN-10779	NIL
+RXN-10778	"serotonin oxidase"	"below_euphotic_200m_6278_0"
+TRANS-RXN-213	NIL
+PPGPPSYN-RXN	NIL	"below_euphotic_200m_4953_0"
+RXN0-6377	"nitrite reductase [NAD(P)H]"
+RXN0-2301	NIL	"below_euphotic_200m_5836_0"	"below_euphotic_200m_1110_0"
+ADENPHOSPHOR-RXN	"adenosine phosphorylase"
+RXN-1461	NIL	"below_euphotic_200m_5934_1"
+2.1.1.79-RXN	NIL	"below_euphotic_200m_7685_0"
+GUANYL-KIN-RXN	NIL	"below_euphotic_200m_5520_0"
+BRANCHED-CHAINAMINOTRANSFERVAL-RXN	"Valine transaminase"	"below_euphotic_200m_6702_0"	"below_euphotic_200m_197_1"	"below_euphotic_200m_1084_0"	"below_euphotic_200m_447_0"	"below_euphotic_200m_5187_0"	"below_euphotic_200m_1411_0"	"below_euphotic_200m_4097_1"
+RXN-2861	"methanol dehydrogenase (cytochrome c)"	"below_euphotic_200m_488_0"
+RXN1G-1053	"cis-delta19-3-oxo-C38:1-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN1G-1050	"cis,cis-delta13,31-3-oxo-C50:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN1G-1057	"trans-delta2-cis,cis-delta19,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+CYSTATHIONINE-BETA-SYNTHASE-RXN	NIL
+XYLISOM-RXN	NIL	"below_euphotic_200m_6003_0"
+MALIC-NAD-RXN	NIL	"below_euphotic_200m_6465_0"	"below_euphotic_200m_6651_0"
+ALTRO-OXIDOREDUCT-RXN	NIL
+IMP-DEHYDROG-RXN	NIL	"below_euphotic_200m_5145_0"	"below_euphotic_200m_6786_0"	"below_euphotic_200m_1834_0"	"below_euphotic_200m_2977_0"
+RXN3O-4113	"tyrosol dehydrogenase"	"below_euphotic_200m_6069_0"	"below_euphotic_200m_831_0"	"below_euphotic_200m_5276_0"	"below_euphotic_200m_642_0"
+HOMOSERDEHYDROG-RXN	NIL	"below_euphotic_200m_675_0"
+UDPMANNACADEHYDROG-RXN	"UDP-N-acetyl-D-mannosamine dehydrogenase"
+AMP-DEAMINASE-RXN	NIL
+RXN-9023	NIL	"below_euphotic_200m_3037_0"
+RXN-9756	NIL
+RXN-9025	"maltodextrin phosphorylase"
+RXN-9758	NIL	"below_euphotic_200m_1412_1"
+RXN-9759	NIL
+SAMDECARB-RXN	NIL	"below_euphotic_200m_3860_0"
+PDXJ-RXN	NIL	"below_euphotic_200m_283_0"
+F16BDEPHOS-RXN	NIL
+ALPHAGALACTOSID-RXN	"&alpha;-galactosidase"	"below_euphotic_200m_2217_0"
+UDP-NACMUR-ALA-LIG-RXN	NIL	"below_euphotic_200m_6175_0"
+AMPSYN-RXN	NIL	"below_euphotic_200m_6087_0"	"below_euphotic_200m_3135_0"
+CDP-GLUCOSE-46-DEHYDRATASE-RXN	NIL	"below_euphotic_200m_2292_0"
+1.1.1.291-RXN	NIL
+RXN6666-5	NIL	"below_euphotic_200m_1412_1"
+RXN-6161	NIL
+RXN-9624	"Stearoyl-CoA hydrolase"
+TEICHOICSYN4-RXN	NIL
+BETA-UREIDOPROPIONASE-RXN	NIL
+RXN-12337	NIL
+PROLINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_6029_1"	"below_euphotic_200m_7734_0"	"below_euphotic_200m_2153_0"
+GLYRIBONUCSYN-RXN	NIL	"below_euphotic_200m_6392_1"	"below_euphotic_200m_1996_1"	"below_euphotic_200m_1341_0"
+RXN-13086	"pseudooxynicotine"
+RXN-6763	NIL
+RXN1G-874	NIL
+R6-RXN	NIL
+RXN1G-473	"trehalose-cis-keto-mono-mycolate transport"
+RXN1G-472	"trehalose-trans-methoxy-mono-mycolate transport"
+RXN1G-471	"trans-delta2-cis,cis-delta19,37-C56:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-470	"trehalose-cis-methoxy-mono-mycolate transport"
+RXN1G-474	"trehalose-trans-keto-mono-mycolate transport"
+RXN-11505	NIL
+PHOSCHOL-RXN	NIL
+3-HYDROXYDECANOYL-ACP-DEHYDR-RXN	NIL	"below_euphotic_200m_749_0"
+RXN0-1342	NIL
+CITSYN-RXN	NIL	"below_euphotic_200m_386_0"	"below_euphotic_200m_879_0"	"below_euphotic_200m_81_0"
+RXN1G-279	"cis-delta13-3-hydroxyC32:1-[acyl-carrier protein] dehydratase"
+RXN-7968	NIL
+RXN1G-818	"cis,cis-delta11,29-3-oxo-C48:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+RXN-12204	NIL
+RXN-11974	"<i>all-trans</i>-lycopene desaturase"
+RXN-11976	"torulene synthase"
+GLUC1PURIDYLTRANS-RXN	NIL
+RXN-13536	"phenylacetaldehyde reductase"
+RXN-7567	"indole-3-acetonitrile hydratase"	"below_euphotic_200m_2018_0"
+RXN-7566	NIL
+RXN66-61	NIL
+RXN-13532	"2-methylbacteriohopanetetrol synthase"
+RXN-13533	"aminobacteriohopanetriol synthase"
+SPERMIDINESYN-RXN	NIL
+PGLUCISOM-RXN	"glucose-6-phosphate isomerase"
+RXN1G-384	"cis,cis-delta7,25-3-oxo-C44:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+ACETOACETATE-DECARBOXYLASE-RXN	NIL
+TYROSINE-DECARBOXYLASE-RXN	NIL
+SULFATE-ADENYLYLTRANS-RXN	NIL	"below_euphotic_200m_7194_0"	"below_euphotic_200m_1772_0"	"below_euphotic_200m_3551_0"	"below_euphotic_200m_4278_0"	"below_euphotic_200m_3784_0"
+3.2.1.48-RXN	NIL
+3-ISOPROPYLMALISOM-RXN	"3-isopropylmalate dehydratase"	"below_euphotic_200m_4178_1"	"below_euphotic_200m_431_0"	"below_euphotic_200m_2440_0"	"below_euphotic_200m_459_0"	"below_euphotic_200m_2135_0"	"below_euphotic_200m_5493_0"	"below_euphotic_200m_4548_1"	"below_euphotic_200m_1180_0"	"below_euphotic_200m_7682_0"
+1.1.1.8-RXN	NIL
+RXN-12933	"dTDP-L-mycarosyl: erythronolide B mycarosyltransferase"
+OHACYL-COA-DEHYDROG-RXN	NIL	"below_euphotic_200m_4141_2"	"below_euphotic_200m_2806_0"
+RXN-1321	NIL
+ACETYLHOMOSER-CYS-RXN	NIL	"below_euphotic_200m_3610_0"	"below_euphotic_200m_3831_1"	"below_euphotic_200m_2592_0"
+ORNITHINE-CYCLODEAMINASE-RXN	NIL	"below_euphotic_200m_7439_0"
+PRPPAMIDOTRANS-RXN	NIL	"below_euphotic_200m_2415_0"	"below_euphotic_200m_1347_0"	"below_euphotic_200m_5671_1"
+RXN1G-127	"cis,cis-delta11,23-3-hydroxyC42:2-[acyl-carrier protein] dehydratase"
+RXN1G-499	"3-oxo-lignoceroyl-[acyl-carrier protein] synthase"
+5.5.1.2-RXN	NIL
+IGPSYN-RXN	NIL	"below_euphotic_200m_3295_1"	"below_euphotic_200m_449_0"	"below_euphotic_200m_2825_0"
+RXN-5821	NIL
+RXN-5822	"NADP phosphatase"
+GMP-SYN-NH3-RXN	NIL
+THIOSULFATE-SULFURTRANSFERASE-RXN	NIL	"below_euphotic_200m_2273_0"	"below_euphotic_200m_6378_0"
+RXN-12065	NIL
+NMNNUCLEOSID-RXN	NIL
+RXN-4444	NIL
+RXN-4443	NIL
+PYRROLINECARBDEHYDROG-RXN	"1-pyrroline-5-carboxylate dehydrogenase"
+ALANINE-DEHYDROGENASE-RXN	NIL	"below_euphotic_200m_7510_0"	"below_euphotic_200m_5709_0"
+GDPKIN-RXN	NIL
+MALATE-DEHYDROGENASE-NADP+-RXN	NIL
+RXNN-404	"indole acetamide hydrolase"	"below_euphotic_200m_979_0"	"below_euphotic_200m_7195_0"	"below_euphotic_200m_5470_0"	"below_euphotic_200m_7704_0"	"below_euphotic_200m_5595_0"	"below_euphotic_200m_2274_0"
+1.17.1.1-RXN	NIL
+PSII-RXN	NIL
+RXN-10696	NIL
+RXN-10697	NIL	"below_euphotic_200m_7235_0"	"below_euphotic_200m_1156_0"	"below_euphotic_200m_1215_0"	"below_euphotic_200m_5300_0"	"below_euphotic_200m_5994_0"	"below_euphotic_200m_1121_0"	"below_euphotic_200m_6348_0"	"below_euphotic_200m_7366_1"	"below_euphotic_200m_6316_0"
+THYKI-RXN	NIL
+BETA-PHOSPHOGLUCOMUTASE-RXN	NIL
+RXN-10698	NIL	"below_euphotic_200m_4141_2"	"below_euphotic_200m_2806_0"
+RXN-10699	NIL	"below_euphotic_200m_520_0"	"below_euphotic_200m_3150_0"	"below_euphotic_200m_7583_1"	"below_euphotic_200m_4616_0"
+THIAZOLSYN2-RXN	NIL
+DEOXYINOPHOSPHOR-RXN	NIL
+DAHPSYN-RXN	NIL	"below_euphotic_200m_5732_0"	"below_euphotic_200m_5596_0"	"below_euphotic_200m_1752_0"	"below_euphotic_200m_7309_0"	"below_euphotic_200m_3236_0"	"below_euphotic_200m_3164_1"
+GLURS-RXN	NIL	"below_euphotic_200m_468_0"
+AMINEPHEN-RXN	NIL
+AIRS-RXN	NIL	"below_euphotic_200m_64_0"	"below_euphotic_200m_3173_1"	"below_euphotic_200m_7224_0"	"below_euphotic_200m_3463_1"
+3.4.23.39-RXN	NIL
+ADENODEAMIN-RXN	NIL	"below_euphotic_200m_6525_1"	"below_euphotic_200m_7040_0"	"below_euphotic_200m_7043_0"
+RXN-12978	NIL	"below_euphotic_200m_3946_0"	"below_euphotic_200m_7695_0"	"below_euphotic_200m_6368_0"	"below_euphotic_200m_4856_0"	"below_euphotic_200m_4781_0"	"below_euphotic_200m_6328_0"
+N-ACETYLTRANSFER-RXN	NIL
+THI-P-SYN-RXN	NIL	"below_euphotic_200m_1262_0"	"below_euphotic_200m_6014_0"
+URACIL-PRIBOSYLTRANS-RXN	NIL	"below_euphotic_200m_6806_0"	"below_euphotic_200m_6839_0"
+FUC4NACTRANS-RXN	NIL
+TRYPTOPHAN--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_3128_0"	"below_euphotic_200m_6460_0"	"below_euphotic_200m_6464_0"	"below_euphotic_200m_5957_0"	"below_euphotic_200m_2048_1"
+GLYOXIII-RXN	NIL	"below_euphotic_200m_4650_1"
+FATTY-ACYL-COA-SYNTHASE-RXN	NIL	"below_euphotic_200m_749_0"
+2-METHYLENEGLUTARATE-MUTASE-RXN	NIL
+RXN-1828	NIL	"below_euphotic_200m_3037_0"
+RXN-12610	"thiamine-phosphate diphosphorylase"	"below_euphotic_200m_1262_0"	"below_euphotic_200m_6014_0"
+PHENYLALANINE-AMMONIA-LYASE-RXN	NIL
+CYSTAGLY-RXN	NIL	"below_euphotic_200m_6538_0"
+PYRIMSYN3-RXN	NIL	"below_euphotic_200m_5483_1"	"below_euphotic_200m_2548_0"
+GLUTSEMIALDEHYDROG-RXN	NIL	"below_euphotic_200m_808_1"	"below_euphotic_200m_6065_0"	"below_euphotic_200m_5915_1"	"below_euphotic_200m_6248_0"	"below_euphotic_200m_904_0"
+N-ACETYLGLUTPREDUCT-RXN	NIL	"below_euphotic_200m_5956_0"	"below_euphotic_200m_588_0"
+1.3.3.9-RXN	NIL
+RXN1G-1117	"trans-delta2-cis,cis-delta13,31-C50:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+MANNPISOM-RXN	NIL
+PHOSGLYPHOS-RXN	NIL	"below_euphotic_200m_2044_1"	"below_euphotic_200m_7046_0"
+RXN66-105	NIL
+RXN66-104	NIL
+RXN66-103	NIL
+RXN66-101	NIL
+HISTCYCLOHYD-RXN	NIL
+4.3.1.4-RXN	NIL
+RXN-9633	"3-oxo-stearoyl-[acyl-carrier protein] reductase"
+RXN-9632	"3-oxo-stearoyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN-9635	"<i>trans</i>-octadec-2-enoyl-[acyl-carrier-protein] reductase"	"below_euphotic_200m_2764_0"	"below_euphotic_200m_6833_1"	"below_euphotic_200m_818_0"
+RXN-9634	"3-hydroxystearoyl-[acyl-carrier protein] dehydratase"	"below_euphotic_200m_749_0"
+MALATE-DEH-RXN	NIL	"below_euphotic_200m_6403_1"	"below_euphotic_200m_6403_0"	"below_euphotic_200m_5775_0"	"below_euphotic_200m_564_0"	"below_euphotic_200m_1221_0"	"below_euphotic_200m_7627_0"	"below_euphotic_200m_6651_0"
+R7-RXN	NIL
+DEHYDDEOXPHOSGALACT-ALDOL-RXN	"2-dehydro-3-deoxy-6-phosphogalactonate aldolase"	"below_euphotic_200m_1231_0"
+FERREDOXIN--NITRITE-REDUCTASE-RXN	NIL
+6.3.2.10-RXN	NIL	"below_euphotic_200m_1990_0"
+1.7.2.2-RXN	NIL	"below_euphotic_200m_7088_1"
+4.2.1.58-RXN	"crotonoyl-[acyl-carrier-protein] hydratase"	"below_euphotic_200m_749_0"
+KDO-8PPHOSPHAT-RXN	NIL	"below_euphotic_200m_3667_1"
+RXN-9757	NIL
+RXN-13529	"ribosyl hopane synthase"
+1.13.11.25-RXN	NIL
+KETOHEXOKINASE-RXN	NIL
+2.4.1.117-RXN	NIL
+RXN1G-865	"<i>trans</i>-methoxy-meroacyl transferase"
+RXN1G-866	"cis-keto-meroacyl-transferase"
+RXN1G-867	"<i>trans</i>-keto-meroacyl transferase"
+NAD-SYNTH-NH3-RXN	NIL	"below_euphotic_200m_6751_0"	"below_euphotic_200m_1006_1"	"below_euphotic_200m_5685_0"	"below_euphotic_200m_3164_0"
+RXN1G-464	"cis,cis-delta5,17-3-hydroxyC36:2-[acyl-carrier protein] dehydratase"
+GARTRANSFORMYL2-RXN	NIL
+XMPXAN-RXN	"XMP-5'-nucleotidase"
+PHOSPHOGLUCMUT-RXN	NIL	"below_euphotic_200m_1128_0"
+PPPGPPHYDRO-RXN	NIL
+RXN1G-468	"trans-delta2-cis,cis-delta7,25-C44:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN1G-469	"3-oxobehenoyl-[acyl-carrier protein] reductase"
+RXN1G-262	"cis,cis-delta7,19-3-oxo-C38:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN1G-260	"cis-delta13-3-oxo-C32:1-[acyl-carrier protein] reductase"
+RXN1G-266	"cis-delta9-3-hydroxyC28:1-[acyl-carrier protein] dehydratase"
+RXN-12254	NIL
+FUMARYLACETOACETASE-RXN	NIL	"below_euphotic_200m_2534_1"	"below_euphotic_200m_6836_0"
+RXN-11902	NIL
+THREODEHYD-RXN	NIL	"below_euphotic_200m_6605_0"
+HOMOCYSMETB12-RXN	NIL	"below_euphotic_200m_6196_0"	"below_euphotic_200m_6488_0"	"below_euphotic_200m_5169_0"	"below_euphotic_200m_6387_0"	"below_euphotic_200m_6335_1"	"below_euphotic_200m_6335_0"
+2PGADEHYDRAT-RXN	NIL
+RXN0-5055	NIL	"below_euphotic_200m_1529_0"	"below_euphotic_200m_3431_0"	"below_euphotic_200m_5935_0"	"below_euphotic_200m_5797_0"	"below_euphotic_200m_2847_0"	"below_euphotic_200m_7460_0"	"below_euphotic_200m_2914_0"
+3.1.3.57-RXN	NIL
+P-PANTOCYSLIG-RXN	NIL
+TRANS-CINNAMATE-4-MONOOXYGENASE-RXN	NIL
+1.1.1.39-RXN	NIL	"below_euphotic_200m_189_0"
+RXN1G-396	"trans-delta2-cis-delta15-C34:2-[acyl-carrier protein] reductase (NADPH, B-specific)"
+SUCROSE-PHOSPHORYLASE-RXN	NIL	"below_euphotic_200m_4032_0"
+RXN1G-395	"trans-eicos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-12104	NIL
+RXN0-6491	"dihydroorotate dehydrogenase"
+RXN-12691	NIL
+GDPPYPHOSKIN-RXN	NIL	"below_euphotic_200m_7963_0"	"below_euphotic_200m_4123_0"	"below_euphotic_200m_5711_0"	"below_euphotic_200m_3384_0"	"below_euphotic_200m_7554_0"
+3-HYDROXYISOBUTYRYL-COA-HYDROLASE-RXN	"3-hydroxyisobutyryl-CoA hydrolase"
+PHOSPHASERDECARB-RXN	NIL	"below_euphotic_200m_3072_0"
+RXN1G-3993	"C52-&alpha;-meroacyl-[acp] synthetase"
+RXN1G-138	"cis-delta11-3-oxo-C30:1-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN1G-648	"3-cis-delta21,39-3-hydroxyC58:2-[acyl-carrier protein] dehydratase"
+RXN1G-132	"cis-delta21-3-oxo-C40:1-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"
+RXN1G-645	"3-cis,cis-delta9,27-3-hydroxyC46:2-[acyl-carrier protein] dehydratase"
+RXN1G-137	"trehalose-mono-mycolate transport"
+RXN1G-488	"trans-docos-2-enoyl-[acyl-carrier protein] reductase (NADPH, B-specific)"
+RXN-11002	NIL
+RXN1G-481	"cis,cis-delta15,27-3-oxo-C46:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+O-ACETYLHOMOSERINE-THIOL-LYASE-RXN	NIL	"below_euphotic_200m_3610_0"	"below_euphotic_200m_3831_1"	"below_euphotic_200m_2592_0"
+RXN-12070	NIL
+RXN-12071	NIL
+RXN-12072	NIL	"below_euphotic_200m_3544_0"
+RXN-12073	NIL
+RXN-12078	"&beta;-D-galactose reductase"
+RXN-12079	"D-galactitol dehydrogenase"
+2KETO-3METHYLVALERATE-RXN	"(<i>S</i>)-3-methyl-2-oxopentanoate dehydrogenase (acylating)"
+DAPASYN-RXN	NIL	"below_euphotic_200m_7007_0"	"below_euphotic_200m_7510_1"	"below_euphotic_200m_1793_0"	"below_euphotic_200m_1291_0"
+LUMAZINESYN-RXN	NIL
+RXN-0	NIL
+RXN-1	NIL	"below_euphotic_200m_6278_0"
+RXN-9	NIL
+RXN-8675	"precorrin-1 <em>C</em>-methyltransferase"
+RXNQT-4142	NIL
+RXNQT-4141	NIL
+GALACTONDEHYDRAT-RXN	NIL	"below_euphotic_200m_3469_0"
+SARCOX-RXN	NIL	"below_euphotic_200m_4946_1"	"below_euphotic_200m_6080_0"	"below_euphotic_200m_4511_0"	"below_euphotic_200m_4628_0"	"below_euphotic_200m_3467_0"	"below_euphotic_200m_3879_0"	"below_euphotic_200m_5988_2"	"below_euphotic_200m_5988_1"	"below_euphotic_200m_5988_0"
+RXN-11316	NIL	"below_euphotic_200m_2013_0"
+RXN-4544	NIL
+RXN-4545	NIL
+RXN-4541	NIL
+RXN-4542	NIL
+RXN0-363	NIL
+RXN-14188	NIL
+ASNSYNA-RXN	NIL	"below_euphotic_200m_7708_0"
+RXN-1685	NIL
+GLUCOSAMINE-6-P-DEAMIN-RXN	NIL	"below_euphotic_200m_1954_0"	"below_euphotic_200m_1190_0"
+IMIDAZOLONEPROPIONASE-RXN	NIL
+RXN-2881	NIL
+4-HYDROXYBENZOATE--COA-LIGASE-RXN	NIL	"below_euphotic_200m_1989_0"
+PEPCARBOXYKIN-RXN	NIL	"below_euphotic_200m_479_0"
+GALACTOKIN-RXN	NIL	"below_euphotic_200m_5480_0"
+4-HYDROXYGLUTAMATE-AMINOTRANSFERASE-RXN	NIL
+RXN0-949	NIL	"below_euphotic_200m_382_1"	"below_euphotic_200m_2223_0"	"below_euphotic_200m_6802_0"
+ARACHIDONATE-5-LIPOXYGENASE-RXN	"arachidonate 5-lipoxygenase"
+RXN0-947	NIL	"below_euphotic_200m_6802_1"
+ARGININE-N-SUCCINYLTRANSFERASE-RXN	NIL
+RXN-9003	NIL
+DXPREDISOM-RXN	NIL
+4.4.1.25-RXN	NIL
+TRIOKINASE-RXN	NIL
+RXN1G-1325	"trans-delta2-cis,cis-delta15,33-C52:3-[acyl-carrier protein] reductase (NADPH, B-specific)"
+ACETOLACTSYN-RXN	NIL	"below_euphotic_200m_3106_0"	"below_euphotic_200m_5645_0"	"below_euphotic_200m_7263_0"	"below_euphotic_200m_3230_0"	"below_euphotic_200m_3342_0"	"below_euphotic_200m_2598_0"	"below_euphotic_200m_7665_0"	"below_euphotic_200m_7457_1"	"below_euphotic_200m_3026_0"	"below_euphotic_200m_7172_0"	"below_euphotic_200m_2959_0"
+2.7.8.15-RXN	NIL
+4-HYDROXYBUTYRATE-DEHYDROGENASE-RXN	NIL
+3-DEHYDROQUINATE-SYNTHASE-RXN	NIL	"below_euphotic_200m_2092_0"	"below_euphotic_200m_4265_0"	"below_euphotic_200m_131_0"	"below_euphotic_200m_5625_1"
+RXN-9648	"3-oxo-hexanoyl-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_1"	"below_euphotic_200m_3114_0"	"below_euphotic_200m_1641_1"	"below_euphotic_200m_749_0"
+GDPMANDEHYDRA-RXN	NIL	"below_euphotic_200m_2609_0"
+RXN-9644	NIL	"below_euphotic_200m_3946_0"	"below_euphotic_200m_7695_0"	"below_euphotic_200m_6368_0"	"below_euphotic_200m_4856_0"	"below_euphotic_200m_4781_0"	"below_euphotic_200m_6328_0"
+RXN-9310	NIL
+RXN-9311	NIL
+1.11.1.12-RXN	NIL
+N-ACETYLNEURAMINATE-SYNTHASE-RXN	NIL	"below_euphotic_200m_2031_0"
+RXN-9867	NIL
+RXN-9860	NIL
+4-HYDROXYPHENYLPYRUVATE-DIOXYGENASE-RXN	NIL
+HOMOSERINE-O-ACETYLTRANSFERASE-RXN	NIL	"below_euphotic_200m_3137_0"	"below_euphotic_200m_6869_0"
+TEICHOICSYN8-RXN	NIL
+RXN1G-202	"cis,cis-delta5,17-3-oxo-C36:2-[acyl-carrier protein] synthase"	"below_euphotic_200m_4845_0"	"below_euphotic_200m_3713_0"
+CREATININE-DEAMINASE-RXN	NIL
+THIOL-S-METHYLTRANSFERASE-RXN	NIL
+RXN-13537	"phenylacetaldoxime hydrolase"
+RXN-13534	"2-methyltetrahymanol synthase"
+RXN-13535	"2-methyldiplopterol synthase"
+RXN1G-811	"6-O-trans-keto-mycolyl-trehalose O-mycolyltransferase"
+RXN1G-810	"6-O-cis-keto-mycolyl-trehalose O-mycolyltransferase"
+RXN-13530	"formyl hopane synthase"
+RXN-13531	"bacteriohopanetetrol synthase"
+1.1.1.283-RXN	NIL
+2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN	"4-methyl-2-oxopentanoate dehydrogenase (acylating)"
+PANTOTHENATE-KIN-RXN	NIL	"below_euphotic_200m_5997_0"	"below_euphotic_200m_18_0"	"below_euphotic_200m_6948_1"	"below_euphotic_200m_6903_1"
+HISTIDINE--TRNA-LIGASE-RXN	NIL	"below_euphotic_200m_1388_0"
+ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	NIL	"below_euphotic_200m_2321_0"	"below_euphotic_200m_2325_0"	"below_euphotic_200m_1979_0"	"below_euphotic_200m_4387_0"	"below_euphotic_200m_1983_1"
+RXN1G-252	"cis,cis-delta9,21-3-oxo-C40:2-[acyl-carrier protein] reductase"	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN0-1321	NIL	"below_euphotic_200m_2523_0"	"below_euphotic_200m_6921_1"	"below_euphotic_200m_4645_1"	"below_euphotic_200m_3017_1"	"below_euphotic_200m_3017_0"	"below_euphotic_200m_3997_1"
+RXN-12261	NIL
+RXN-12263	"presqualene diphosphate synthase"	"below_euphotic_200m_643_0"	"below_euphotic_200m_654_0"	"below_euphotic_200m_370_0"
+D-LACTATE-DEHYDROGENASE-CYTOCHROME-RXN	NIL	"below_euphotic_200m_4742_0"	"below_euphotic_200m_4622_0"	"below_euphotic_200m_3178_0"
+BENZOATE--COA-LIGASE-RXN	NIL
+GLCNACPTRANS-RXN	NIL
+R5-RXN	NIL
+RXN-12867	NIL
+RXN-12865	NIL
+RXN-12864	"Painter reaction"
+RXN-8444	NIL
+PROTOPORGENOXI-RXN	NIL	"below_euphotic_200m_3907_0"	"below_euphotic_200m_2691_2"
+DIAMINOPIMDECARB-RXN	NIL	"below_euphotic_200m_4767_0"	"below_euphotic_200m_7672_0"	"below_euphotic_200m_3413_0"	"below_euphotic_200m_5020_0"
+PROLINE-RACEMASE-RXN	NIL	"below_euphotic_200m_3738_1"	"below_euphotic_200m_2232_1"
+RXN-12460	"L-asparaginyl-tRNA<SUP>asn</SUP> hydrolase"
+RXN1G-3613	"cis,cis-&Delta;21,39-C58:2-[acp] reductase"
+OROPRIBTRANS-RXN	NIL	"below_euphotic_200m_2898_1"
+RXN-13446	NIL
+RXN-12912	NIL
+RXN-13444	NIL
+RXN-13445	NIL
+RXN-13442	NIL
+RXN-13443	NIL	"below_euphotic_200m_3505_1"	"below_euphotic_200m_240_1"	"below_euphotic_200m_2384_0"	"below_euphotic_200m_7753_1"	"below_euphotic_200m_851_0"	"below_euphotic_200m_2186_1"	"below_euphotic_200m_3341_1"	"below_euphotic_200m_3341_0"	"below_euphotic_200m_2807_1"	"below_euphotic_200m_7320_1"	"below_euphotic_200m_1942_1"	"below_euphotic_200m_5749_0"	"below_euphotic_200m_7728_0"	"below_euphotic_200m_1892_1"	"below_euphotic_200m_3391_0"	"below_euphotic_200m_6618_0"	"below_euphotic_200m_6612_0"	"below_euphotic_200m_4610_1"	"below_euphotic_200m_1394_0"	"below_euphotic_200m_2973_0"
+RXN-13441	NIL
+1.2.4.4-RXN	NIL	"below_euphotic_200m_615_1"	"below_euphotic_200m_3434_1"	"below_euphotic_200m_3434_0"	"below_euphotic_200m_912_0"
+RXN-12918	"6-deoxyerythronolide B monooxygenase"
+RXN66-81	NIL	"below_euphotic_200m_2094_0"
+RXN66-83	NIL
+RXN66-82	NIL
+1.1.1.271-RXN	NIL	"below_euphotic_200m_5211_1"	"below_euphotic_200m_7370_1"
+RXN-13528	"adenosyl hopane synthase"
+RIBOFLAVINSYNDEAM-RXN	NIL
+H2-METHYLENE-THMPT-DEHYDRO-RXN	NIL
+TRIOSEPISOMERIZATION-RXN	NIL	"below_euphotic_200m_6012_0"
+RXN-12001	NIL
+RXN-12000	NIL	"below_euphotic_200m_4617_0"	"below_euphotic_200m_864_0"
+RXN-12002	NIL	"below_euphotic_200m_67_0"	"below_euphotic_200m_607_0"	"below_euphotic_200m_3183_0"	"below_euphotic_200m_2130_0"	"below_euphotic_200m_6283_0"	"below_euphotic_200m_7724_0"	"below_euphotic_200m_3308_0"

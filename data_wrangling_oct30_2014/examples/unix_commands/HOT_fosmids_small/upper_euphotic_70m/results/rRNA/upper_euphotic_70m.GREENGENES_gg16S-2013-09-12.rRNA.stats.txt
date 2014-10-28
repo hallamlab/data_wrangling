@@ -1,0 +1,15 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	7
+
+	GREENGENES_gg16S-2013-09-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+upper_euphotic_70m_8362	1	974	94.5	0.0	1496.0	k__Bacteria;p__Proteobacteria;c__Gammaproteobacteria;o__HTCC2188;f__HTCC2089;g__;
+upper_euphotic_70m_2761	64	915	99.77	0.0	1563.0	k__Bacteria;p__Proteobacteria;c__Deltaproteobacteria;o__Sva0853;f__;g__;
+upper_euphotic_70m_10070	363	917	99.46	0.0	1007.0	k__Bacteria;p__Cyanobacteria;c__Synechococcophycideae;o__Synechococcales;f__Synechococcaceae;g__Prochlorococcus;
+upper_euphotic_70m_994	360	821	91.7	1e-179	634.0	k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Kiloniellales;f__Kiloniellaceae;g__Thalassospira;
+upper_euphotic_70m_7753	18	967	94.16	0.0	1437.0	k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__;f__;g__;
+upper_euphotic_70m_8067	29	442	97.1	0.0	697.0	k__Bacteria;p__Proteobacteria;c__Alphaproteobacteria;o__Rhodobacterales;f__Rhodobacteraceae;g__;
+upper_euphotic_70m_1075	621	946	93.6	6e-134	483.0	k__Bacteria;p__Actinobacteria;c__Acidimicrobiia;o__Acidimicrobiales;f__wb1_P06;g__;

@@ -1,0 +1,24 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	16
+
+	LSURef_115_tax_silva_2013-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+upper_euphotic_10m_6290	4	985	88.86	0.0	1201.0	Bacteria;Verrucomicrobia;Opitutae;Puniceicoccales;Puniceicoccaceae;Coraliomargarita;uncultured verrucomicrobium HF0130_25O04
+upper_euphotic_10m_4419	1	852	90.89	0.0	1136.0	Bacteria;Actinobacteria;Acidimicrobiia;Acidimicrobiales;Acidimicrobiaceae;uncultured;marine metagenome
+upper_euphotic_10m_5558	197	393	82.5	3e-41	171.0	Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma sp. 31948
+upper_euphotic_10m_4798	1	663	96.23	0.0	1086.0	Bacteria;Proteobacteria;Gammaproteobacteria;Order Incertae Sedis;Family Incertae Sedis;Congregibacter;marine gamma proteobacterium HTCC2148
+upper_euphotic_10m_6286	10	1011	78.17	7e-163	575.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+upper_euphotic_10m_4414	5	950	85.97	0.0	979.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+upper_euphotic_10m_3325	742	984	93.9	4e-100	366.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;marine metagenome
+upper_euphotic_10m_6939	4	900	87.61	0.0	1026.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodobacterales;Rhodobacteraceae;Oceanicola;Oceanicola granulosus HTCC2516
+upper_euphotic_10m_7552	14	633	96.63	0.0	1027.0	Archaea;Euryarchaeota;Thermoplasmata;Marine Group II;marine metagenome
+upper_euphotic_10m_5531	9	733	99.31	0.0	1312.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI;Prochlorococcus;marine metagenome
+upper_euphotic_10m_1243	507	933	88.51	1e-145	518.0	Bacteria;Bacteroidetes;Flavobacteria;Flavobacteriales;Flavobacteriaceae;uncultured;uncultured bacterium HF0010_31F02
+upper_euphotic_10m_1837	13	507	82.12	1e-114	414.0	Bacteria;Actinobacteria;Actinobacteria;Corynebacteriales;Nocardiaceae;Rhodococcus;Rhodococcus erythropolis XP
+upper_euphotic_10m_4992	1	888	88.58	0.0	1070.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+upper_euphotic_10m_2742	1	948	88.76	0.0	1134.0	Bacteria;Proteobacteria;Gammaproteobacteria;Oceanospirillales;SAR86 clade;marine metagenome
+upper_euphotic_10m_6551	20	1001	79.47	0.0	658.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+upper_euphotic_10m_2494	1	577	85.04	4e-163	575.0	Bacteria;Proteobacteria;Gammaproteobacteria;HF0770-27E13;Cycloclasticus sp. P1

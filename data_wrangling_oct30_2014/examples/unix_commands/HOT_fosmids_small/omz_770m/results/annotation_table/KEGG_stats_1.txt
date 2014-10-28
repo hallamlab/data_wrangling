@@ -1,0 +1,7 @@
+Function Category Level 1	Gene Count
+Cellular Processes	290
+Human Diseases	483
+Genetic Information Processing	1733
+Environmental Information Processing	1042
+Organismal Systems	236
+Metabolism	13977

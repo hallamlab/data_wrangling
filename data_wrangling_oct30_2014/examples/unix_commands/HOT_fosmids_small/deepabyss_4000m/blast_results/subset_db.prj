@@ -1,0 +1,8 @@
+version=278
+alphabet=ACDEFGHIKLMNPQRSTVWY
+numofsequences=501
+numofletters=82077
+letterfreqs=7317 983 4682 5032 3147 7341 1839 4444 3635 7473 1860 2837 4596 2637 5523 5047 4611 5722 1185 2166
+masklowercase=1
+volumes=1
+subsetseed=A C D E F G H I K L M N P Q R S T V W Y

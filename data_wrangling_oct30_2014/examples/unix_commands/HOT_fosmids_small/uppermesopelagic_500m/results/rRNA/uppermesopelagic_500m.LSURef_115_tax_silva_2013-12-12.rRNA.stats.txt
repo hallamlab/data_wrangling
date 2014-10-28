@@ -1,0 +1,12 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	4
+
+	LSURef_115_tax_silva_2013-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+uppermesopelagic_500m_5958	3	982	81.4	0.0	767.0	Bacteria;Chloroflexi;Dehalococcoidia;Dehalococcoidales;Dehalococcoidaceae;Dehalococcoides;Dehalococcoides sp. GT
+uppermesopelagic_500m_1445	160	397	83.2	5e-54	213.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI;Microcoleus;uncultured cyanobacterium
+uppermesopelagic_500m_6671	11	680	99.4	0.0	1218.0	Archaea;Thaumarchaeota;Marine Group I;Order Incertae Sedis;Family Incertae Sedis;Candidatus Nitrosopumilus;uncultured marine crenarchaeote KM3-47-D6
+uppermesopelagic_500m_2617	7	799	86.05	0.0	833.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;Rhodospirillum;Rhodospirillum rubrum F11

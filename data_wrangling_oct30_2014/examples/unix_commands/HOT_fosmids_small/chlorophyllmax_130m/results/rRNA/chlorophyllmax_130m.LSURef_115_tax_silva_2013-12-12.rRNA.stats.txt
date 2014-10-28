@@ -1,0 +1,21 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	13
+
+	LSURef_115_tax_silva_2013-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+chlorophyllmax_130m_2545	19	381	79.85	1e-64	248.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+chlorophyllmax_130m_5575	7	576	98.42	0.0	1003.0	Bacteria;Proteobacteria;Deltaproteobacteria;SAR324 clade(Marine group B);uncultured bacterium HF0200_39L23
+chlorophyllmax_130m_1035	207	530	79.52	6e-57	222.0	Bacteria;Tenericutes;Mollicutes;Mycoplasmatales;Mycoplasmataceae;Mycoplasma;Mycoplasma sp. 31948
+chlorophyllmax_130m_5578	64	953	80.95	0.0	665.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+chlorophyllmax_130m_462	270	702	78.85	3e-70	267.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionII;FamilyII;Chroococcidiopsis;uncultured Chroococcidiopsis sp.
+chlorophyllmax_130m_4366	14	280	89.63	3e-92	339.0	Bacteria;Chloroflexi;Dehalococcoidia;Dehalococcoidales;Dehalococcoidaceae;Dehalococcoides;Dehalococcoides sp. BAV1
+chlorophyllmax_130m_2347	1	368	90.84	2e-138	492.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionIII;FamilyI;uncultured Chroococcidiopsis sp.
+chlorophyllmax_130m_783	26	671	87.42	0.0	728.0	Bacteria;Deferribacteres;Deferribacteres;Deferribacterales;SAR406 clade(Marine group A);uncultured bacterium HF0500_01L02
+chlorophyllmax_130m_6112	12	678	79.85	4e-125	449.0	Bacteria;Chloroflexi;Anaerolineae;Anaerolineales;Anaerolineaceae;JFF004-B01;uncultured Chloroflexi bacterium
+chlorophyllmax_130m_3800	10	692	89.15	0.0	846.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade;Candidatus Puniceispirillum;marine metagenome
+chlorophyllmax_130m_3773	17	586	91.52	0.0	782.0	Bacteria;Proteobacteria;Alphaproteobacteria;SAR11 clade;marine metagenome
+chlorophyllmax_130m_10	1	539	99.81	0.0	989.0	Bacteria;Proteobacteria;Gammaproteobacteria;Pseudomonadales;Pseudomonadaceae;Pseudomonas;Pseudomonas fluorescens F113
+chlorophyllmax_130m_5289	72	425	86.43	8e-106	385.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade;marine metagenome

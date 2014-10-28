@@ -1,0 +1,14 @@
+#Similarity cutoff :	20.0
+#Length cutoff :	180
+#Evalue cutoff :	1e-06
+#Bit score cutoff :	50.0
+#Number of rRNA sequences detected:	6
+
+	SSURef_NR99_115_tax_silva_2012-12-12			
+sequence	start	end	similarity	evalue	bitscore	taxonomy
+upper_euphotic_10m_5558	18	588	99.47	0.0	1038.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rickettsiales;SAR116 clade;uncultured bacterium
+upper_euphotic_10m_6286	11	1020	95.17	0.0	1576.0	Bacteria;Proteobacteria;Alphaproteobacteria;OCS116 clade;uncultured bacterium
+upper_euphotic_10m_6551	17	1033	97.26	0.0	1725.0	Bacteria;Proteobacteria;Alphaproteobacteria;Rhodospirillales;Rhodospirillaceae;uncultured;uncultured marine bacterium
+upper_euphotic_10m_4414	5	1017	95.21	0.0	1583.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI;Prochlorococcus;Prochlorococcus marinus subsp. pastoris
+upper_euphotic_10m_7210	562	888	91.27	1e-122	444.0	Archaea;Euryarchaeota;Thermoplasmata;Thermoplasmatales;Marine Group II;uncultured archaeon
+upper_euphotic_10m_4992	1	895	98.77	0.0	1592.0	Bacteria;Cyanobacteria;Cyanobacteria;SubsectionI;FamilyI;Prochlorococcus;uncultured bacterium

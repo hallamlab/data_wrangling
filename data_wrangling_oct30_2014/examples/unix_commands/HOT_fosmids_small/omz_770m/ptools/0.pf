@@ -1,0 +1,2000 @@
+ID	omz_770m_9884_0
+NAME	omz_770m_9884_0
+STARTBASE	197
+ENDBASE	610
+PRODUCT	30S ribosomal protein S5, putative K02988 small subunit S5
+PRODUCT-TYPE	P
+//
+ID	omz_770m_9884_1
+NAME	omz_770m_9884_1
+STARTBASE	607
+ENDBASE	798
+PRODUCT	50S ribosomal protein L15 [Sandarakinorhabdus sp. AAP62]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_4023_0
+NAME	omz_770m_4023_0
+STARTBASE	943
+ENDBASE	1851
+PRODUCT	transport protein K07003
+PRODUCT-TYPE	P
+//
+ID	omz_770m_7165_0
+NAME	omz_770m_7165_0
+STARTBASE	1951
+ENDBASE	2877
+PRODUCT	putative oxidoreductase
+PRODUCT-TYPE	P
+//
+ID	omz_770m_9882_0
+NAME	omz_770m_9882_0
+STARTBASE	3877
+ENDBASE	4302
+PRODUCT	[SAR406 cluster bacterium SCGC AAA298-D23]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2158_1
+NAME	omz_770m_2158_1
+STARTBASE	4951
+ENDBASE	5730
+PRODUCT	homoserine O-acetyltransferase (EC:2.3.1.31) K00641 [EC:2.3.1.31]
+PRODUCT-TYPE	P
+EC	2.3.1.31
+//
+ID	omz_770m_9881_0
+NAME	omz_770m_9881_0
+STARTBASE	6829
+ENDBASE	7455
+PRODUCT	DNA topoisomerase IV subunit B (EC:5.99.1.2) K02622 [EC:5.99.1.-]
+PRODUCT-TYPE	P
+EC	5.99.1.2
+//
+ID	omz_770m_2151_1
+NAME	omz_770m_2151_1
+STARTBASE	9200
+ENDBASE	9688
+PRODUCT	Conserved  22 [Methylotenera mobilis JLW8]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2152_0
+NAME	omz_770m_2152_0
+STARTBASE	9718
+ENDBASE	10287
+PRODUCT	coenzyme F390 synthetase II K01912 phenylacetate-CoA ligase [EC:6.2.1.30]
+PRODUCT-TYPE	P
+EC	6.2.1.30
+//
+ID	omz_770m_2152_1
+NAME	omz_770m_2152_1
+STARTBASE	10314
+ENDBASE	10613
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2153_0
+NAME	omz_770m_2153_0
+STARTBASE	10704
+ENDBASE	11426
+PRODUCT	sopT sulfate adenylyltransferase (EC:2.7.7.4) K00958 [EC:2.7.7.4]
+PRODUCT-TYPE	P
+EC	2.7.7.4
+//
+ID	omz_770m_2155_0
+NAME	omz_770m_2155_0
+STARTBASE	12843
+ENDBASE	13436
+PRODUCT	oxct1, MGC69180 3-oxoacid CoA transferase 1 (EC:2.8.3.5) K01027 CoA-transferase [EC:2.8.3.5]
+PRODUCT-TYPE	P
+EC	2.8.3.5
+//
+ID	omz_770m_2156_1
+NAME	omz_770m_2156_1
+STARTBASE	14218
+ENDBASE	14535
+PRODUCT	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase (EC 2.1.1.14) [SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+EC	2.1.1.14
+//
+ID	omz_770m_2157_0
+NAME	omz_770m_2157_0
+STARTBASE	14549
+ENDBASE	15190
+PRODUCT	fatty-acid--CoA ligase (EC:6.2.1.3) K01897 long-chain acyl-CoA synthetase [EC:6.2.1.3]
+PRODUCT-TYPE	P
+EC	6.2.1.3
+//
+ID	omz_770m_5465_1
+NAME	omz_770m_5465_1
+STARTBASE	15801
+ENDBASE	16313
+PRODUCT	ferrochelatase (EC:4.99.1.1) K01772 [EC:4.99.1.1]
+PRODUCT-TYPE	P
+EC	4.99.1.1
+//
+ID	omz_770m_3657_1
+NAME	omz_770m_3657_1
+STARTBASE	23423
+ENDBASE	23935
+PRODUCT	putative thiol peroxidase (EC:1.11.1.-) K11065 peroxidase, atypical 2-Cys peroxiredoxin [EC:1.11.1.15]
+PRODUCT-TYPE	P
+EC	1.11.1.15
+//
+ID	omz_770m_4021_1
+NAME	omz_770m_4021_1
+STARTBASE	26355
+ENDBASE	27059
+PRODUCT	pyridoxal-5'-phosphate-dependent enzyme, beta subunit K01738 cysteine synthase A [EC:2.5.1.47]
+PRODUCT-TYPE	P
+EC	2.5.1.47
+//
+ID	omz_770m_3652_0
+NAME	omz_770m_3652_0
+STARTBASE	27072
+ENDBASE	27455
+PRODUCT	FIG00820873:  [Mycobacterium avium subsp. paratuberculosis Pt139]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3652_1
+NAME	omz_770m_3652_1
+STARTBASE	27467
+ENDBASE	27967
+PRODUCT	GCN5-related N-acetyltransferase K02348 ElaA protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_8601_0
+NAME	omz_770m_8601_0
+STARTBASE	27982
+ENDBASE	28641
+PRODUCT	rho transcription termination factor Rho K03628 Rho
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2704_0
+NAME	omz_770m_2704_0
+STARTBASE	29735
+ENDBASE	30574
+PRODUCT	protein unknown function DUF1446
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2707_0
+NAME	omz_770m_2707_0
+STARTBASE	31072
+ENDBASE	31422
+PRODUCT	translation elongation factor, putative (EC:2.7.7.4)
+PRODUCT-TYPE	P
+EC	2.7.7.4
+//
+ID	omz_770m_2706_0
+NAME	omz_770m_2706_0
+STARTBASE	33384
+ENDBASE	34055
+PRODUCT	histidyl-tRNA synthetase (EC:6.1.1.21) K01892 [EC:6.1.1.21]
+PRODUCT-TYPE	P
+EC	6.1.1.21
+//
+ID	omz_770m_2701_0
+NAME	omz_770m_2701_0
+STARTBASE	35008
+ENDBASE	35604
+PRODUCT	putative alpha-isopropylmalate/homocitrate synthase family transferase (EC:2.3.3.13) K01649 2-isopropylmalate [EC:2.3.3.13]
+PRODUCT-TYPE	P
+EC	2.3.3.13
+//
+ID	omz_770m_930_0
+NAME	omz_770m_930_0
+STARTBASE	38516
+ENDBASE	39157
+PRODUCT	heme/copper-type cytochrome/quinol oxidase, subunit 1 (EC:1.9.3.1) K02274 cytochrome c oxidase I [EC:1.9.3.1]
+PRODUCT-TYPE	P
+EC	1.9.3.1
+//
+ID	omz_770m_10912_0
+NAME	omz_770m_10912_0
+STARTBASE	39503
+ENDBASE	39826
+PRODUCT	asnC asparaginyl-tRNA synthetase (EC:6.1.1.22) K01893 [EC:6.1.1.22]
+PRODUCT-TYPE	P
+EC	6.1.1.22
+//
+ID	omz_770m_10913_0
+NAME	omz_770m_10913_0
+STARTBASE	40581
+ENDBASE	41306
+PRODUCT	[SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10910_0
+NAME	omz_770m_10910_0
+STARTBASE	41605
+ENDBASE	42366
+PRODUCT	AAE7 AAE7 (ACYL-ACTIVATING ENZYME 7) AMP binding / acetate-CoA ligase (EC:6.2.1.1)
+PRODUCT-TYPE	P
+EC	6.2.1.1
+//
+ID	omz_770m_10911_0
+NAME	omz_770m_10911_0
+STARTBASE	43898
+ENDBASE	44167
+PRODUCT	[SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2850_0
+NAME	omz_770m_2850_0
+STARTBASE	47862
+ENDBASE	48437
+PRODUCT	cysM cysteine synthase B (EC:2.5.1.47) K12339 [EC:2.5.1.47]
+PRODUCT-TYPE	P
+EC	2.5.1.47
+//
+ID	omz_770m_3208_0
+NAME	omz_770m_3208_0
+STARTBASE	50512
+ENDBASE	50778
+PRODUCT	mreD rod shape-determining protein MreD K05837 shape determining RodA
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3208_1
+NAME	omz_770m_3208_1
+STARTBASE	50884
+ENDBASE	51246
+PRODUCT	[alpha proteobacterium HIMB114]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10914_0
+NAME	omz_770m_10914_0
+STARTBASE	51470
+ENDBASE	52054
+PRODUCT	eutD ectoine utilization protein EutD (EC:3.-.-.-) K01271 Xaa-Pro dipeptidase [EC:3.4.13.9]
+PRODUCT-TYPE	P
+EC	3.4.13.9
+//
+ID	omz_770m_6832_1
+NAME	omz_770m_6832_1
+STARTBASE	52574
+ENDBASE	52759
+PRODUCT	rpsN 30S ribosomal protein S14 K02954 small subunit S14
+PRODUCT-TYPE	P
+//
+ID	omz_770m_6832_2
+NAME	omz_770m_6832_2
+STARTBASE	52772
+ENDBASE	53170
+PRODUCT	rpsH 30S ribosomal protein S8 K02994 small subunit S8
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3203_1
+NAME	omz_770m_3203_1
+STARTBASE	53647
+ENDBASE	54105
+PRODUCT	[Marinobacter sp. ES-1]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3202_0
+NAME	omz_770m_3202_0
+STARTBASE	54341
+ENDBASE	54778
+PRODUCT	ugpC3 sugar ABC transporter (EC:3.6.3.20) K10112 maltose/maltodextrin transport system ATP-binding protein
+PRODUCT-TYPE	P
+EC	3.6.3.20
+//
+ID	omz_770m_3202_1
+NAME	omz_770m_3202_1
+STARTBASE	54818
+ENDBASE	55195
+PRODUCT	cupin 2 barrel domain-containing protein (EC:1.-.-.-)
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3201_0
+NAME	omz_770m_3201_0
+STARTBASE	55224
+ENDBASE	55973
+PRODUCT	adenylate/guanylate cyclase CHASE sensor K01768 adenylate [EC:4.6.1.1]
+PRODUCT-TYPE	P
+EC	4.6.1.1
+//
+ID	omz_770m_3200_0
+NAME	omz_770m_3200_0
+STARTBASE	55987
+ENDBASE	56859
+PRODUCT	peptidase M16-like K07263 zinc protease [EC:3.4.24.-]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_8967_0
+NAME	omz_770m_8967_0
+STARTBASE	56914
+ENDBASE	57282
+PRODUCT	[Marine Group I thaumarchaeote SCGC AB-629-I23]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3206_0
+NAME	omz_770m_3206_0
+STARTBASE	58226
+ENDBASE	58621
+PRODUCT	ectC L-ectoine synthase K06720 synthase [EC:4.2.1.108]
+PRODUCT-TYPE	P
+EC	4.2.1.108
+//
+ID	omz_770m_3205_0
+NAME	omz_770m_3205_0
+STARTBASE	58867
+ENDBASE	59682
+PRODUCT	GATB GATB (GLU-ADT SUBUNIT B) carbon-nitrogen ligase, glutamine as amido-N-donor / glutaminyl-tRNA synthase (glutamine-hydrolyzing)/ ligase (EC:6.3.5.7) K02434 aspartyl-tRNA(Asn)/glutamyl-tRNA (Gln) amidotransferase subunit B [EC:6.3.5.6 6.3.5.7]
+PRODUCT-TYPE	P
+EC	6.3.5.7
+//
+ID	omz_770m_3204_1
+NAME	omz_770m_3204_1
+STARTBASE	59930
+ENDBASE	60529
+PRODUCT	uncharacterized conserved protein ucp033924
+PRODUCT-TYPE	P
+//
+ID	omz_770m_6830_0
+NAME	omz_770m_6830_0
+STARTBASE	61626
+ENDBASE	62264
+PRODUCT	mraY phospho-N-acetylmuramoyl-pentapeptide-transferase (EC:2.7.8.13) K01000 [EC:2.7.8.13]
+PRODUCT-TYPE	P
+EC	2.7.8.13
+//
+ID	omz_770m_7436_0
+NAME	omz_770m_7436_0
+STARTBASE	62342
+ENDBASE	62956
+PRODUCT	metal dependent phosphohydrolase (EC:3.1.4.16) K06950 uncharacterized protein
+PRODUCT-TYPE	P
+EC	3.1.4.16
+//
+ID	omz_770m_1235_0
+NAME	omz_770m_1235_0
+STARTBASE	63233
+ENDBASE	63853
+PRODUCT	TonB-dependent receptor plug
+PRODUCT-TYPE	P
+//
+ID	omz_770m_6837_0
+NAME	omz_770m_6837_0
+STARTBASE	64573
+ENDBASE	65049
+PRODUCT	putative monomeric sarcosine oxidase
+PRODUCT-TYPE	P
+//
+ID	omz_770m_7437_0
+NAME	omz_770m_7437_0
+STARTBASE	65155
+ENDBASE	65703
+PRODUCT	SSS sodium solute transporter superfamily K03307 solute:Na+ symporter, family
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1231_0
+NAME	omz_770m_1231_0
+STARTBASE	71812
+ENDBASE	72504
+PRODUCT	Molybdenum ABC transporter, periplasmic molybdenum-binding protein ModA (TC 3.A.1.8.1) [Lentisphaera araneosa HTCC2155]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3148_0
+NAME	omz_770m_3148_0
+STARTBASE	72517
+ENDBASE	73149
+PRODUCT	TonB-dependent receptor K02014 iron complex outermembrane recepter protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3149_1
+NAME	omz_770m_3149_1
+STARTBASE	73877
+ENDBASE	74287
+PRODUCT	aminopeptidase C
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3141_1
+NAME	omz_770m_3141_1
+STARTBASE	79342
+ENDBASE	79566
+PRODUCT	Transcriptional regulator, MarR family [SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3143_0
+NAME	omz_770m_3143_0
+STARTBASE	80763
+ENDBASE	81275
+PRODUCT	translation elongation factor, putative (EC:2.7.7.4)
+PRODUCT-TYPE	P
+EC	2.7.7.4
+//
+ID	omz_770m_4786_0
+NAME	omz_770m_4786_0
+STARTBASE	81709
+ENDBASE	82242
+PRODUCT	GTS2 non-discriminatory gln-glu-trna synthetase (EC:6.1.1.17) K01885 glutamyl-tRNA [EC:6.1.1.17]
+PRODUCT-TYPE	P
+EC	6.1.1.17
+//
+ID	omz_770m_1727_1
+NAME	omz_770m_1727_1
+STARTBASE	82424
+ENDBASE	82987
+PRODUCT	transketolase, N-terminal subunit (EC:2.2.1.1) K00615 transketolase [EC:2.2.1.1]
+PRODUCT-TYPE	P
+EC	2.2.1.1
+//
+ID	omz_770m_4539_0
+NAME	omz_770m_4539_0
+STARTBASE	84198
+ENDBASE	84707
+PRODUCT	TRAP dicarboxylate transporter subunit DctP (EC:6.3.5.4)
+PRODUCT-TYPE	P
+EC	6.3.5.4
+//
+ID	omz_770m_4539_1
+NAME	omz_770m_4539_1
+STARTBASE	84907
+ENDBASE	85098
+PRODUCT	Integral membrane protein TerC family [alpha proteobacterium HIMB114]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1729_0
+NAME	omz_770m_1729_0
+STARTBASE	85281
+ENDBASE	85856
+PRODUCT	similar to CG10622-PA, isoform A K01900 succinyl-CoA synthetase beta subunit [EC:6.2.1.4 6.2.1.5]
+PRODUCT-TYPE	P
+EC	6.2.1.4
+//
+ID	omz_770m_6205_0
+NAME	omz_770m_6205_0
+STARTBASE	87063
+ENDBASE	87590
+PRODUCT	Glu/Leu/Phe/Val dehydrogenase, C terminal
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10123_0
+NAME	omz_770m_10123_0
+STARTBASE	88033
+ENDBASE	88947
+PRODUCT	putative peptidase M1, membrane alanine aminopeptidase (EC:3.4.11.2)
+PRODUCT-TYPE	P
+EC	3.4.11.2
+//
+ID	omz_770m_8366_1
+NAME	omz_770m_8366_1
+STARTBASE	89389
+ENDBASE	89817
+PRODUCT	mntB manganese ABC transporter permease protein K11709 manganese/zinc/iron transport system protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_4499_0
+NAME	omz_770m_4499_0
+STARTBASE	89830
+ENDBASE	90648
+PRODUCT	pobA 4-hydroxybenzoate 3-monooxygenase (EC:1.14.13.2) K00481 p-hydroxybenzoate [EC:1.14.13.2]
+PRODUCT-TYPE	P
+EC	1.14.13.2
+//
+ID	omz_770m_4498_0
+NAME	omz_770m_4498_0
+STARTBASE	90831
+ENDBASE	91634
+PRODUCT	aldH aldehyde dehydrogenase (NAD(+)) (EC:1.2.1.3) K00128 (NAD+) [EC:1.2.1.3]
+PRODUCT-TYPE	P
+EC	1.2.1.3
+//
+ID	omz_770m_4497_0
+NAME	omz_770m_4497_0
+STARTBASE	91928
+ENDBASE	92743
+PRODUCT	dihydroorotate oxidase B, catalytic subunit (EC:1.3.3.1) K00226 [EC:1.3.3.1]
+PRODUCT-TYPE	P
+EC	1.3.3.1
+//
+ID	omz_770m_4493_0
+NAME	omz_770m_4493_0
+STARTBASE	95786
+ENDBASE	96631
+PRODUCT	[Kuenenia stuttgartiensis enrichment culture clone RU1]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_4491_0
+NAME	omz_770m_4491_0
+STARTBASE	97728
+ENDBASE	98387
+PRODUCT	major facilitator superfamily
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2639_0
+NAME	omz_770m_2639_0
+STARTBASE	100374
+ENDBASE	100994
+PRODUCT	[Bermanella marisrubri]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2638_0
+NAME	omz_770m_2638_0
+STARTBASE	101566
+ENDBASE	102027
+PRODUCT	integrase/recombinase, phage integrase family [Roseobacter sp. AzwK-3b]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2635_0
+NAME	omz_770m_2635_0
+STARTBASE	102168
+ENDBASE	102920
+PRODUCT	histidinol dehydrogenase, putative K00013 dehydrogenase [EC:1.1.1.23]
+PRODUCT-TYPE	P
+EC	1.1.1.23
+//
+ID	omz_770m_2634_0
+NAME	omz_770m_2634_0
+STARTBASE	103159
+ENDBASE	103719
+PRODUCT	glucose-methanol-choline oxidoreductase K00108 choline dehydrogenase [EC:1.1.99.1]
+PRODUCT-TYPE	P
+EC	1.1.99.1
+//
+ID	omz_770m_2631_1
+NAME	omz_770m_2631_1
+STARTBASE	106380
+ENDBASE	106859
+PRODUCT	DEAD/DEAH box helicase domain-containing protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2630_1
+NAME	omz_770m_2630_1
+STARTBASE	107358
+ENDBASE	107756
+PRODUCT	[Hahella ganghwensis]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2633_0
+NAME	omz_770m_2633_0
+STARTBASE	107767
+ENDBASE	108408
+PRODUCT	C1-5,6,7,8-tetrahydrofolate (THF) synthase (EC:1.5.1.5 3.5.4.9 6.3.4.3) K00288 methylenetetrahydrofolate dehydrogenase (NADP+) / methenyltetrahydrofolate cyclohydrolase formyltetrahydrofolate synthetase [EC:1.5.1.5 6.3.4.3]
+PRODUCT-TYPE	P
+EC	1.5.1.5
+//
+ID	omz_770m_2632_0
+NAME	omz_770m_2632_0
+STARTBASE	108676
+ENDBASE	109347
+PRODUCT	Hypothetical protein COG3496 [gamma proteobacterium IMCC2047]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_4789_0
+NAME	omz_770m_4789_0
+STARTBASE	109720
+ENDBASE	110184
+PRODUCT	accD acetyl-CoA carboxylase beta subunit (EC:6.4.1.2)
+PRODUCT-TYPE	P
+EC	6.4.1.2
+//
+ID	omz_770m_4789_1
+NAME	omz_770m_4789_1
+STARTBASE	110181
+ENDBASE	110630
+PRODUCT	exopolyphosphatase / 3'-nucleotidase 5'-nucleotidase (EC:3.1.3.5 3.1.3.6 3.6.1.11) K03787 [EC:3.1.3.5]
+PRODUCT-TYPE	P
+EC	3.1.3.5
+//
+ID	omz_770m_8778_0
+NAME	omz_770m_8778_0
+STARTBASE	110643
+ENDBASE	110957
+PRODUCT	phosphoribosylamine/glycine ligase (EC:6.3.4.13 4.1.1.21) K01945 phosphoribosylamine--glycine [EC:6.3.4.13]
+PRODUCT-TYPE	P
+EC	6.3.4.13
+//
+ID	omz_770m_8778_1
+NAME	omz_770m_8778_1
+STARTBASE	111042
+ENDBASE	111533
+PRODUCT	FIG01041350:  [Salinibacter ruber DSM 13855]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_8776_0
+NAME	omz_770m_8776_0
+STARTBASE	112560
+ENDBASE	113435
+PRODUCT	von Willebrand factor type A K07114 uncharacterized protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_8777_0
+NAME	omz_770m_8777_0
+STARTBASE	113459
+ENDBASE	114265
+PRODUCT	putative (Protein-PII) uridylyltransferase [Nitrospina gracilis]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_8774_0
+NAME	omz_770m_8774_0
+STARTBASE	114407
+ENDBASE	115069
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_8775_0
+NAME	omz_770m_8775_0
+STARTBASE	115261
+ENDBASE	115824
+PRODUCT	recG RecG-like helicases K03655 ATP-dependent DNA helicase RecG [EC:3.6.4.12]
+PRODUCT-TYPE	P
+EC	3.6.4.12
+//
+ID	omz_770m_8775_1
+NAME	omz_770m_8775_1
+STARTBASE	115856
+ENDBASE	116110
+PRODUCT	putative endoribonuclease L-PSP K07567 TdcF protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_8773_0
+NAME	omz_770m_8773_0
+STARTBASE	117018
+ENDBASE	117920
+PRODUCT	proton-translocating NADH-quinone oxidoreductase, chain L (EC:1.6.99.5) K00341 NADH dehydrogenase I subunit [EC:1.6.5.3]
+PRODUCT-TYPE	P
+EC	1.6.99.5
+//
+ID	omz_770m_8771_0
+NAME	omz_770m_8771_0
+STARTBASE	118908
+ENDBASE	119615
+PRODUCT	N-acetylgalactosamine 6-sulfatase (GALNS)
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10129_0
+NAME	omz_770m_10129_0
+STARTBASE	119628
+ENDBASE	120488
+PRODUCT	[Sorangium cellulosum]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_9176_0
+NAME	omz_770m_9176_0
+STARTBASE	121492
+ENDBASE	121992
+PRODUCT	sugar-phosphate isomerase, RpiB/LacA/LacB family (EC:5.3.1.6) K01808 ribose 5-phosphate isomerase B [EC:5.3.1.6]
+PRODUCT-TYPE	P
+EC	5.3.1.6
+//
+ID	omz_770m_9176_1
+NAME	omz_770m_9176_1
+STARTBASE	122002
+ENDBASE	122280
+PRODUCT	FIG01050400:  [Actinomyces naeslundii str. Howell 279]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_9170_0
+NAME	omz_770m_9170_0
+STARTBASE	126621
+ENDBASE	126815
+PRODUCT	[Marine Group I thaumarchaeote SCGC AB-629-I23]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_9179_0
+NAME	omz_770m_9179_0
+STARTBASE	128558
+ENDBASE	129121
+PRODUCT	carbon-monoxide dehydrogenase medium subunit
+PRODUCT-TYPE	P
+//
+ID	omz_770m_9179_1
+NAME	omz_770m_9179_1
+STARTBASE	129174
+ENDBASE	129497
+PRODUCT	transcriptional regulator [Thermobispora bispora]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1782_0
+NAME	omz_770m_1782_0
+STARTBASE	132318
+ENDBASE	132575
+PRODUCT	5-oxoprolinase (ATP-hydrolyzing) (EC:3.5.2.9) K01473 N-methylhydantoinase A [EC:3.5.2.14]
+PRODUCT-TYPE	P
+EC	3.5.2.9
+//
+ID	omz_770m_1782_1
+NAME	omz_770m_1782_1
+STARTBASE	132813
+ENDBASE	133001
+PRODUCT	DNA-(apurinic or apyrimidinic site) lyase / formamidopyrimidine-DNA glycosylase (EC:3.2.2.23 4.2.99.18) K10563 [EC:3.2.2.23 4.2.99.18]
+PRODUCT-TYPE	P
+EC	3.2.2.23
+//
+ID	omz_770m_1782_2
+NAME	omz_770m_1782_2
+STARTBASE	133036
+ENDBASE	133248
+PRODUCT	Formamidopyrimidine-DNA glycosylase (EC 3.2.2.23) [endosymbiont Tevnia jerichonana (vent Tica)]
+PRODUCT-TYPE	P
+EC	3.2.2.23
+//
+ID	omz_770m_1785_0
+NAME	omz_770m_1785_0
+STARTBASE	135458
+ENDBASE	135748
+PRODUCT	[Amorphus coralli]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1788_0
+NAME	omz_770m_1788_0
+STARTBASE	138257
+ENDBASE	138841
+PRODUCT	putative O-succinylbenzoate--CoA ligase (EC:6.2.1.26)
+PRODUCT-TYPE	P
+EC	6.2.1.26
+//
+ID	omz_770m_1789_0
+NAME	omz_770m_1789_0
+STARTBASE	139152
+ENDBASE	139700
+PRODUCT	ccmF cytochrome c biogenesis protein CcmF K02198 c-type CcmF
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10506_0
+NAME	omz_770m_10506_0
+STARTBASE	140268
+ENDBASE	140576
+PRODUCT	Cholinephosphate cytidylyltransferase (EC 2.7.7.15) [Nitrosococcus watsoni C-113]
+PRODUCT-TYPE	P
+EC	2.7.7.15
+//
+ID	omz_770m_10501_0
+NAME	omz_770m_10501_0
+STARTBASE	141194
+ENDBASE	141493
+PRODUCT	dadA, dadR D-amino acid dehydrogenase small subunit (EC:1.4.99.1) K00285 D-amino-acid [EC:1.4.99.1]
+PRODUCT-TYPE	P
+EC	1.4.99.1
+//
+ID	omz_770m_10501_1
+NAME	omz_770m_10501_1
+STARTBASE	141486
+ENDBASE	141848
+PRODUCT	alr alanine racemase (EC:5.1.1.1) K01775 [EC:5.1.1.1]
+PRODUCT-TYPE	P
+EC	5.1.1.1
+//
+ID	omz_770m_6268_1
+NAME	omz_770m_6268_1
+STARTBASE	142204
+ENDBASE	142701
+PRODUCT	hydantoinase [Fodinicurvata sediminis]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_6645_0
+NAME	omz_770m_6645_0
+STARTBASE	148185
+ENDBASE	148721
+PRODUCT	infB translation initiation factor IF-2 K02519 IF-2
+PRODUCT-TYPE	P
+//
+ID	omz_770m_6646_1
+NAME	omz_770m_6646_1
+STARTBASE	149285
+ENDBASE	149959
+PRODUCT	Phenylacetate-coenzyme A ligase (EC 6.2.1.30) [Roseovarius sp. TM1035]
+PRODUCT-TYPE	P
+EC	6.2.1.30
+//
+ID	omz_770m_6647_0
+NAME	omz_770m_6647_0
+STARTBASE	150106
+ENDBASE	150546
+PRODUCT	ttuD2 hydroxypyruvate reductase oxidoreductase (EC:1.1.1.81) K00050 [EC:1.1.1.81]
+PRODUCT-TYPE	P
+EC	1.1.1.81
+//
+ID	omz_770m_6640_0
+NAME	omz_770m_6640_0
+STARTBASE	151083
+ENDBASE	151703
+PRODUCT	Arylsulfatase (EC 3.1.6.1) [Lentisphaera araneosa HTCC2155]
+PRODUCT-TYPE	P
+EC	3.1.6.1
+//
+ID	omz_770m_6266_0
+NAME	omz_770m_6266_0
+STARTBASE	155165
+ENDBASE	155662
+PRODUCT	putative heme peroxidase K09162
+PRODUCT-TYPE	P
+//
+ID	omz_770m_6264_0
+NAME	omz_770m_6264_0
+STARTBASE	158905
+ENDBASE	159561
+PRODUCT	2-oxoglutarate dehydrogenase, E2 component, dihydrolipoamide succinyltransferase K00658 dehydrogenase component (dihydrolipoamide succinyltransferase) [EC:2.3.1.61]
+PRODUCT-TYPE	P
+EC	2.3.1.61
+//
+ID	omz_770m_1945_0
+NAME	omz_770m_1945_0
+STARTBASE	159775
+ENDBASE	160518
+PRODUCT	phenazine biosynthesis protein, PhzF family K06998
+PRODUCT-TYPE	P
+//
+ID	omz_770m_4004_0
+NAME	omz_770m_4004_0
+STARTBASE	162348
+ENDBASE	163097
+PRODUCT	iduronate-sulfatase (partial) sulfatase 1 precursor
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3926_0
+NAME	omz_770m_3926_0
+STARTBASE	167343
+ENDBASE	167975
+PRODUCT	muropeptide permease (EC:2.3.1.-) K08218 MFS transporter, PAT family, beta-lactamase induction signal transducer AmpG
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1977_0
+NAME	omz_770m_1977_0
+STARTBASE	174071
+ENDBASE	174667
+PRODUCT	IRC7 Irc7p (EC:4.4.1.8) K01760 cystathionine beta-lyase [EC:4.4.1.8]
+PRODUCT-TYPE	P
+EC	4.4.1.8
+//
+ID	omz_770m_1977_1
+NAME	omz_770m_1977_1
+STARTBASE	174651
+ENDBASE	174914
+PRODUCT	GTP cyclohydrolase I K09457 7-cyano-7-deazaguanine reductase [EC:1.7.1.13]
+PRODUCT-TYPE	P
+EC	1.7.1.13
+//
+ID	omz_770m_1975_1
+NAME	omz_770m_1975_1
+STARTBASE	175854
+ENDBASE	176372
+PRODUCT	Coenzyme F420-dependent N5,N10-methylene tetrahydromethanopterin reductase related flavin-dependent oxidoreductases [Novosphingobium sp. AP12]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1974_0
+NAME	omz_770m_1974_0
+STARTBASE	176679
+ENDBASE	177434
+PRODUCT	hyuB N-methylhydantoinase B/acetone carboxylase subunit alpha K01474 B [EC:3.5.2.14]
+PRODUCT-TYPE	P
+EC	3.5.2.14
+//
+ID	omz_770m_1971_0
+NAME	omz_770m_1971_0
+STARTBASE	179479
+ENDBASE	180315
+PRODUCT	glpK glycerol kinase (EC:2.7.1.30) K00864 [EC:2.7.1.30]
+PRODUCT-TYPE	P
+EC	2.7.1.30
+//
+ID	omz_770m_1978_0
+NAME	omz_770m_1978_0
+STARTBASE	182322
+ENDBASE	183011
+PRODUCT	short chain dehydrogenase/reductase family
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2352_1
+NAME	omz_770m_2352_1
+STARTBASE	183491
+ENDBASE	183928
+PRODUCT	dtd D-tyrosyl-tRNA(Tyr) deacylase (EC:3.1.-.-) K07560 [EC:3.1.-.-]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2352_2
+NAME	omz_770m_2352_2
+STARTBASE	183970
+ENDBASE	184236
+PRODUCT	Sec-independent protein translocase, TatC subunit K03118 sec-independent translocase
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1593_0
+NAME	omz_770m_1593_0
+STARTBASE	184250
+ENDBASE	185002
+PRODUCT	protein unknown function DUF6, transmembrane [alpha proteobacterium IMCC1322]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_5699_0
+NAME	omz_770m_5699_0
+STARTBASE	186073
+ENDBASE	186798
+PRODUCT	coenzyme F420-0 gamma-glutamyl ligase (EC:6.3.2.-) K12234 F420-0:L-glutamate / F420-1:gamma-L-glutamate [EC:6.3.2.31 6.3.2.34]
+PRODUCT-TYPE	P
+EC	6.3.2.31
+//
+ID	omz_770m_5697_0
+NAME	omz_770m_5697_0
+STARTBASE	188204
+ENDBASE	189052
+PRODUCT	2,4-dienoyl-CoA reductase (EC:1.3.1.34)
+PRODUCT-TYPE	P
+EC	1.3.1.34
+//
+ID	omz_770m_5692_0
+NAME	omz_770m_5692_0
+STARTBASE	190999
+ENDBASE	191655
+PRODUCT	putative gluconate dehydrogenase
+PRODUCT-TYPE	P
+//
+ID	omz_770m_11142_0
+NAME	omz_770m_11142_0
+STARTBASE	194621
+ENDBASE	195112
+PRODUCT	AIG2 family protein [Salinisphaera shabanensis E1L3A]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_11143_0
+NAME	omz_770m_11143_0
+STARTBASE	195582
+ENDBASE	196370
+PRODUCT	FIG00922337:  [Photobacterium leiognathi subsp. mandapamensis svers.1.1.]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_11140_1
+NAME	omz_770m_11140_1
+STARTBASE	196785
+ENDBASE	197123
+PRODUCT	thiolase (EC:6.2.1.1)
+PRODUCT-TYPE	P
+EC	6.2.1.1
+//
+ID	omz_770m_11141_0
+NAME	omz_770m_11141_0
+STARTBASE	197474
+ENDBASE	198253
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_11146_0
+NAME	omz_770m_11146_0
+STARTBASE	198390
+ENDBASE	199073
+PRODUCT	GTP binding / GTPase/ translation initiation factor K03243 factor 5B
+PRODUCT-TYPE	P
+//
+ID	omz_770m_11147_1
+NAME	omz_770m_11147_1
+STARTBASE	199561
+ENDBASE	200211
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_11144_2
+NAME	omz_770m_11144_2
+STARTBASE	200906
+ENDBASE	201145
+PRODUCT	[Candidatus Poribacteria sp. WGA-4E]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_11145_0
+NAME	omz_770m_11145_0
+STARTBASE	201157
+ENDBASE	201930
+PRODUCT	accA acetyl-CoA carboxylase carboxyltransferase subunit alpha K01962 carboxyl transferase alpha [EC:6.4.1.2]
+PRODUCT-TYPE	P
+EC	6.4.1.2
+//
+ID	omz_770m_11148_0
+NAME	omz_770m_11148_0
+STARTBASE	202289
+ENDBASE	202624
+PRODUCT	proline synthetase associated protein, putative
+PRODUCT-TYPE	P
+//
+ID	omz_770m_11148_1
+NAME	omz_770m_11148_1
+STARTBASE	202685
+ENDBASE	202966
+PRODUCT	Pyrroline-5-carboxylate reductase (EC 1.5.1.2) [Vibrio ichthyoenteri ATCC 700023]
+PRODUCT-TYPE	P
+EC	1.5.1.2
+//
+ID	omz_770m_11149_0
+NAME	omz_770m_11149_0
+STARTBASE	203075
+ENDBASE	203713
+PRODUCT	N2-acetyl-L-aminoadipate semialdehyde dehydrogenase N-acetyl-gamma-glutamyl-phosphate reductase (EC:1.2.1.- 1.2.1.38) K00145 N-acetyl-gamma-glutamyl-phosphate/N-acetyl-gamma-aminoadipyl-phosphate [EC:1.2.1.38 1.2.1.-]
+PRODUCT-TYPE	P
+EC	1.2.1.38
+//
+ID	omz_770m_9994_0
+NAME	omz_770m_9994_0
+STARTBASE	204839
+ENDBASE	205705
+PRODUCT	[SAR406 cluster bacterium JGI 0000039-D08]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_9996_0
+NAME	omz_770m_9996_0
+STARTBASE	206792
+ENDBASE	207388
+PRODUCT	prolyl-tRNA synthetase Bacterial type (EC:6.1.1.15) K01881 [EC:6.1.1.15]
+PRODUCT-TYPE	P
+EC	6.1.1.15
+//
+ID	omz_770m_9991_0
+NAME	omz_770m_9991_0
+STARTBASE	207526
+ENDBASE	208389
+PRODUCT	glcB, glc malate synthase G (EC:2.3.3.9) K01638 [EC:2.3.3.9]
+PRODUCT-TYPE	P
+EC	2.3.3.9
+//
+ID	omz_770m_9990_0
+NAME	omz_770m_9990_0
+STARTBASE	208457
+ENDBASE	208717
+PRODUCT	renal dipeptidase family protein, putative K01273 membrane [EC:3.4.13.19]
+PRODUCT-TYPE	P
+EC	3.4.13.19
+//
+ID	omz_770m_9990_1
+NAME	omz_770m_9990_1
+STARTBASE	208714
+ENDBASE	209274
+PRODUCT	FIG01203280:  [Vibrio tubiashii ATCC 19109]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_9992_0
+NAME	omz_770m_9992_0
+STARTBASE	210236
+ENDBASE	211165
+PRODUCT	[Candidatus Poribacteria sp. WGA-4E]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_9998_0
+NAME	omz_770m_9998_0
+STARTBASE	212132
+ENDBASE	213025
+PRODUCT	Ubiquinol--cytochrome c reductase, cytochrome B subunit (EC 1.10.2.2) [Blastopirellula marina DSM 3645]
+PRODUCT-TYPE	P
+EC	1.10.2.2
+//
+ID	omz_770m_2406_0
+NAME	omz_770m_2406_0
+STARTBASE	213038
+ENDBASE	213556
+PRODUCT	Flagellin protein FlaA [Clostridium sporogenes ATCC 15579]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2405_0
+NAME	omz_770m_2405_0
+STARTBASE	216617
+ENDBASE	217474
+PRODUCT	putative 4-hydroxyphenylacetic hydroxylase (EC:1.14.13.3) K00483 4-hydroxyphenylacetate-3-hydroxylase large chain [EC:1.14.13.3]
+PRODUCT-TYPE	P
+EC	1.14.13.3
+//
+ID	omz_770m_2402_0
+NAME	omz_770m_2402_0
+STARTBASE	217487
+ENDBASE	217891
+PRODUCT	[SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2403_0
+NAME	omz_770m_2403_0
+STARTBASE	218448
+ENDBASE	218627
+PRODUCT	[Nitrospina sp. AB-629-B18]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2403_1
+NAME	omz_770m_2403_1
+STARTBASE	218693
+ENDBASE	219010
+PRODUCT	[Nitrospina sp. AB-629-B06]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2409_0
+NAME	omz_770m_2409_0
+STARTBASE	222109
+ENDBASE	222810
+PRODUCT	type II secretion system protein E K02652 IV pilus assembly PilB
+PRODUCT-TYPE	P
+//
+ID	omz_770m_2029_0
+NAME	omz_770m_2029_0
+STARTBASE	223054
+ENDBASE	223752
+PRODUCT	putative branched-chain amino acid ABC transporter binding component [Acetobacteraceae bacterium AT-5844]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_504_0
+NAME	omz_770m_504_0
+STARTBASE	225903
+ENDBASE	226820
+PRODUCT	heme-binding protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_502_0
+NAME	omz_770m_502_0
+STARTBASE	227865
+ENDBASE	228542
+PRODUCT	LOC100251587 K00864 glycerol kinase [EC:2.7.1.30]
+PRODUCT-TYPE	P
+EC	2.7.1.30
+//
+ID	omz_770m_503_0
+NAME	omz_770m_503_0
+STARTBASE	228589
+ENDBASE	228888
+PRODUCT	putative monomeric sarcosine oxidase
+PRODUCT-TYPE	P
+//
+ID	omz_770m_503_1
+NAME	omz_770m_503_1
+STARTBASE	228979
+ENDBASE	229431
+PRODUCT	GlnT-like protein (EC:6.3.1.2) K01915 glutamine synthetase [EC:6.3.1.2]
+PRODUCT-TYPE	P
+EC	6.3.1.2
+//
+ID	omz_770m_501_0
+NAME	omz_770m_501_0
+STARTBASE	229707
+ENDBASE	230222
+PRODUCT	[SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_508_0
+NAME	omz_770m_508_0
+STARTBASE	230377
+ENDBASE	231072
+PRODUCT	Putative sodium-dependent transporter [Anaerobaculum mobile DSM 13181]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_509_1
+NAME	omz_770m_509_1
+STARTBASE	231686
+ENDBASE	232267
+PRODUCT	2-nitropropane dioxygenase, NPD K00459 nitronate monooxygenase [EC:1.13.12.16]
+PRODUCT-TYPE	P
+EC	1.13.12.16
+//
+ID	omz_770m_10439_0
+NAME	omz_770m_10439_0
+STARTBASE	232520
+ENDBASE	232798
+PRODUCT	ppiC peptidyl-prolyl cis-trans isomerase C (rotamase C) (EC:5.2.1.8) K03769 [EC:5.2.1.8]
+PRODUCT-TYPE	P
+EC	5.2.1.8
+//
+ID	omz_770m_10434_0
+NAME	omz_770m_10434_0
+STARTBASE	238617
+ENDBASE	239000
+PRODUCT	3-isopropylmalate dehydrogenase (EC:1.1.1.85) K00052 [EC:1.1.1.85]
+PRODUCT-TYPE	P
+EC	1.1.1.85
+//
+ID	omz_770m_10434_1
+NAME	omz_770m_10434_1
+STARTBASE	239047
+ENDBASE	239589
+PRODUCT	FIG01166001:  [Zavarzinella formosa DSM 19928]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_8161_0
+NAME	omz_770m_8161_0
+STARTBASE	244100
+ENDBASE	244852
+PRODUCT	glyS glycyl-tRNA synthetase (EC:6.1.1.14) K01880 [EC:6.1.1.14]
+PRODUCT-TYPE	P
+EC	6.1.1.14
+//
+ID	omz_770m_8160_0
+NAME	omz_770m_8160_0
+STARTBASE	245017
+ENDBASE	245895
+PRODUCT	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase (EC:4.2.1.3) K01682 2 [EC:4.2.1.3]
+PRODUCT-TYPE	P
+EC	4.2.1.3
+//
+ID	omz_770m_8167_0
+NAME	omz_770m_8167_0
+STARTBASE	245906
+ENDBASE	246091
+PRODUCT	Protein unknown function (DUF423) [alpha proteobacterium HIMB5]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_8167_2
+NAME	omz_770m_8167_2
+STARTBASE	246227
+ENDBASE	246649
+PRODUCT	pyrroline-5-carboxylate reductase (EC:1.5.1.2) K00286 [EC:1.5.1.2]
+PRODUCT-TYPE	P
+EC	1.5.1.2
+//
+ID	omz_770m_8165_0
+NAME	omz_770m_8165_0
+STARTBASE	247969
+ENDBASE	248880
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_762_0
+NAME	omz_770m_762_0
+STARTBASE	249819
+ENDBASE	250478
+PRODUCT	hutH1 histidine ammonia-lyase (EC:4.3.1.3) K01745 [EC:4.3.1.3]
+PRODUCT-TYPE	P
+EC	4.3.1.3
+//
+ID	omz_770m_8168_0
+NAME	omz_770m_8168_0
+STARTBASE	251791
+ENDBASE	252597
+PRODUCT	TonB-dependent receptor
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1379_1
+NAME	omz_770m_1379_1
+STARTBASE	253763
+ENDBASE	254545
+PRODUCT	alpha amylase, catalytic region K01187 alpha-glucosidase [EC:3.2.1.20]
+PRODUCT-TYPE	P
+EC	3.2.1.20
+//
+ID	omz_770m_9694_0
+NAME	omz_770m_9694_0
+STARTBASE	259870
+ENDBASE	260340
+PRODUCT	ABC transporter, ATPase subunit K02003
+PRODUCT-TYPE	P
+//
+ID	omz_770m_9695_0
+NAME	omz_770m_9695_0
+STARTBASE	260980
+ENDBASE	261192
+PRODUCT	ATP binding cassette (abc) transporter, putative (EC:3.6.3.30)
+PRODUCT-TYPE	P
+EC	3.6.3.30
+//
+ID	omz_770m_1370_0
+NAME	omz_770m_1370_0
+STARTBASE	262186
+ENDBASE	263067
+PRODUCT	Threonine synthase (EC 4.2.3.1) [SAR324 cluster bacterium SCGC AAA240-J09]
+PRODUCT-TYPE	P
+EC	4.2.3.1
+//
+ID	omz_770m_1373_0
+NAME	omz_770m_1373_0
+STARTBASE	263331
+ENDBASE	263720
+PRODUCT	glyoxalase/bleomycin resistance protein/dioxygenase
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1373_1
+NAME	omz_770m_1373_1
+STARTBASE	263859
+ENDBASE	264131
+PRODUCT	MerR family transcriptional regulator K13639 regulator, redox-sensitive activator SoxR
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1372_0
+NAME	omz_770m_1372_0
+STARTBASE	264146
+ENDBASE	264913
+PRODUCT	beta-lactamase domain-containing protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1374_1
+NAME	omz_770m_1374_1
+STARTBASE	266915
+ENDBASE	267151
+PRODUCT	aldo/keto reductase (EC:1.1.1.91)
+PRODUCT-TYPE	P
+EC	1.1.1.91
+//
+ID	omz_770m_8968_0
+NAME	omz_770m_8968_0
+STARTBASE	269529
+ENDBASE	270068
+PRODUCT	[SAR406 cluster bacterium SCGC AB-629-J13]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3469_0
+NAME	omz_770m_3469_0
+STARTBASE	270514
+ENDBASE	271404
+PRODUCT	hemolysin-type calcium-binding region
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3468_1
+NAME	omz_770m_3468_1
+STARTBASE	271645
+ENDBASE	271848
+PRODUCT	Sulfur carrier protein ThiS [Thiorhodospira sibirica ATCC 700588]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3468_2
+NAME	omz_770m_3468_2
+STARTBASE	271906
+ENDBASE	272121
+PRODUCT	thiG thiazole synthase K03149 thiamine biosynthesis ThiG
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3467_0
+NAME	omz_770m_3467_0
+STARTBASE	272377
+ENDBASE	273045
+PRODUCT	[SAR406 cluster bacterium SCGC AB-629-J13]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3464_0
+NAME	omz_770m_3464_0
+STARTBASE	275322
+ENDBASE	276161
+PRODUCT	5-oxoprolinase (ATP-hydrolyzing) (EC:3.5.2.9) K01474 N-methylhydantoinase B [EC:3.5.2.14]
+PRODUCT-TYPE	P
+EC	3.5.2.9
+//
+ID	omz_770m_3463_0
+NAME	omz_770m_3463_0
+STARTBASE	276328
+ENDBASE	277035
+PRODUCT	[SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_8340_1
+NAME	omz_770m_8340_1
+STARTBASE	279652
+ENDBASE	279894
+PRODUCT	AsnC family transcriptional regulator
+PRODUCT-TYPE	P
+//
+ID	omz_770m_8962_0
+NAME	omz_770m_8962_0
+STARTBASE	281051
+ENDBASE	281497
+PRODUCT	Streptomycin 6-kinase (EC 2.7.1.72) (Streptidine kinase) (Streptomycin 6-phosphotransferase) (APH(6)) [Ktedonobacter racemifer DSM 44963]
+PRODUCT-TYPE	P
+EC	2.7.1.72
+//
+ID	omz_770m_8962_1
+NAME	omz_770m_8962_1
+STARTBASE	281612
+ENDBASE	282004
+PRODUCT	Pyrimidine deaminase archaeal predicted (EC 3.5.4.26) [Microvirga sp. WSM3557]
+PRODUCT-TYPE	P
+EC	3.5.4.26
+//
+ID	omz_770m_1195_0
+NAME	omz_770m_1195_0
+STARTBASE	284397
+ENDBASE	284945
+PRODUCT	putative valyl tRNA synthetase (ISS) K01873 valyl-tRNA [EC:6.1.1.9]
+PRODUCT-TYPE	P
+EC	6.1.1.9
+//
+ID	omz_770m_1194_0
+NAME	omz_770m_1194_0
+STARTBASE	285203
+ENDBASE	286087
+PRODUCT	DNA repair protein RecN [Nitrospina gracilis]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1196_1
+NAME	omz_770m_1196_1
+STARTBASE	287441
+ENDBASE	288022
+PRODUCT	Gfo/Idh/MocA family oxidoreductase (EC:1.1.1.18)
+PRODUCT-TYPE	P
+EC	1.1.1.18
+//
+ID	omz_770m_1191_1
+NAME	omz_770m_1191_1
+STARTBASE	288457
+ENDBASE	288765
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1191_2
+NAME	omz_770m_1191_2
+STARTBASE	288786
+ENDBASE	289121
+PRODUCT	integrase family protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1190_0
+NAME	omz_770m_1190_0
+STARTBASE	289222
+ENDBASE	290121
+PRODUCT	L-lactate permease, putative K03303 lactate transporter, LctP family
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1192_1
+NAME	omz_770m_1192_1
+STARTBASE	291359
+ENDBASE	291832
+PRODUCT	putative N-acetylmuramyl-L-alanine amidase, negative regulator AmpC, AmpD [Nitrospina gracilis]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3207_0
+NAME	omz_770m_3207_0
+STARTBASE	292397
+ENDBASE	293182
+PRODUCT	N-carbamoyl-D-amino acid hydrolase (EC:3.5.1.77) K01459 [EC:3.5.1.77]
+PRODUCT-TYPE	P
+EC	3.5.1.77
+//
+ID	omz_770m_1199_0
+NAME	omz_770m_1199_0
+STARTBASE	293195
+ENDBASE	294235
+PRODUCT	3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100) [Methylobacterium sp. GXF4]
+PRODUCT-TYPE	P
+EC	1.1.1.100
+//
+ID	omz_770m_8966_1
+NAME	omz_770m_8966_1
+STARTBASE	295491
+ENDBASE	296192
+PRODUCT	Butyryl-CoA dehydrogenase (EC 1.3.99.2) [Novosphingobium sp. Rr 2-17]
+PRODUCT-TYPE	P
+EC	1.3.99.2
+//
+ID	omz_770m_8965_0
+NAME	omz_770m_8965_0
+STARTBASE	296213
+ENDBASE	296434
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_1595_0
+NAME	omz_770m_1595_0
+STARTBASE	298956
+ENDBASE	299603
+PRODUCT	glycine betaine/L-proline ABC transporter, ATPase subunit K02000 betaine/proline transport system ATP-binding protein [EC:3.6.3.32]
+PRODUCT-TYPE	P
+EC	3.6.3.32
+//
+ID	omz_770m_10781_0
+NAME	omz_770m_10781_0
+STARTBASE	300611
+ENDBASE	301117
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10781_1
+NAME	omz_770m_10781_1
+STARTBASE	301114
+ENDBASE	301323
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10780_1
+NAME	omz_770m_10780_1
+STARTBASE	302011
+ENDBASE	302244
+PRODUCT	putative GTPase (ISS) K06207 GTP-binding protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10871_0
+NAME	omz_770m_10871_0
+STARTBASE	304443
+ENDBASE	305021
+PRODUCT	Adenylate cyclase (EC 4.6.1.1) [Bacteriovorax marinus SJ]
+PRODUCT-TYPE	P
+EC	4.6.1.1
+//
+ID	omz_770m_944_0
+NAME	omz_770m_944_0
+STARTBASE	305626
+ENDBASE	305946
+PRODUCT	putative bi-functional glycine dehydrogenase/aminomethyl transferase protein (EC:2.1.2.10 1.4.4.2) K00282 dehydrogenase subunit 1 [EC:1.4.4.2]
+PRODUCT-TYPE	P
+EC	2.1.2.10
+//
+ID	omz_770m_944_1
+NAME	omz_770m_944_1
+STARTBASE	306123
+ENDBASE	306332
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10789_0
+NAME	omz_770m_10789_0
+STARTBASE	310227
+ENDBASE	310568
+PRODUCT	hydrolase alpha/beta-hydrolase fold family K07020
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10870_0
+NAME	omz_770m_10870_0
+STARTBASE	311117
+ENDBASE	311668
+PRODUCT	TrkA domain-containing protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_5508_0
+NAME	omz_770m_5508_0
+STARTBASE	314221
+ENDBASE	315003
+PRODUCT	apurinic endonuclease Apn1 (EC:3.1.21.2) K01151 deoxyribonuclease IV [EC:3.1.21.2]
+PRODUCT-TYPE	P
+EC	3.1.21.2
+//
+ID	omz_770m_5509_1
+NAME	omz_770m_5509_1
+STARTBASE	315349
+ENDBASE	315834
+PRODUCT	Hydroxyacylglutathione hydrolase (EC 3.1.2.6) [Methylophaga sp. JAM1]
+PRODUCT-TYPE	P
+EC	3.1.2.6
+//
+ID	omz_770m_5507_0
+NAME	omz_770m_5507_0
+STARTBASE	316959
+ENDBASE	317789
+PRODUCT	recQ DNA helicase (EC:3.6.1.-) K03654 ATP-dependent RecQ [EC:3.6.4.12]
+PRODUCT-TYPE	P
+EC	3.6.4.12
+//
+ID	omz_770m_5501_1
+NAME	omz_770m_5501_1
+STARTBASE	322340
+ENDBASE	322639
+PRODUCT	similar to Kynurenine 3-monooxygenase (kynurenine 3-hydroxylase) K00486 kynurenine [EC:1.14.13.9]
+PRODUCT-TYPE	P
+EC	1.14.13.9
+//
+ID	omz_770m_9349_0
+NAME	omz_770m_9349_0
+STARTBASE	324103
+ENDBASE	324459
+PRODUCT	protein unknown function DUF1549
+PRODUCT-TYPE	P
+//
+ID	omz_770m_4116_0
+NAME	omz_770m_4116_0
+STARTBASE	328381
+ENDBASE	328782
+PRODUCT	formate dehydrogenase (EC:1.2.1.2) K00122 [EC:1.2.1.2]
+PRODUCT-TYPE	P
+EC	1.2.1.2
+//
+ID	omz_770m_4117_0
+NAME	omz_770m_4117_0
+STARTBASE	329327
+ENDBASE	330004
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_4115_0
+NAME	omz_770m_4115_0
+STARTBASE	331015
+ENDBASE	331524
+PRODUCT	Citryl-CoA lyase (EC:4.1.3.34) K01644 citrate subunit beta / citryl-CoA [EC:4.1.3.6 4.1.3.34]
+PRODUCT-TYPE	P
+EC	4.1.3.34
+//
+ID	omz_770m_4112_0
+NAME	omz_770m_4112_0
+STARTBASE	332142
+ENDBASE	332450
+PRODUCT	putative permease major facilitator superfamily [alpha proteobacterium BAL199]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_4112_1
+NAME	omz_770m_4112_1
+STARTBASE	332463
+ENDBASE	332672
+PRODUCT	family 2 glycosyl transferase
+PRODUCT-TYPE	P
+//
+ID	omz_770m_4113_0
+NAME	omz_770m_4113_0
+STARTBASE	332907
+ENDBASE	333578
+PRODUCT	ATP-dependent metalloprotease FtsH (EC:3.6.4.3) K03798 cell division protease [EC:3.4.24.-]
+PRODUCT-TYPE	P
+EC	3.6.4.3
+//
+ID	omz_770m_9430_1
+NAME	omz_770m_9430_1
+STARTBASE	334083
+ENDBASE	334694
+PRODUCT	Cbr-enol-1 C. briggsae CBR-ENOL-1 protein K01689 enolase [EC:4.2.1.11]
+PRODUCT-TYPE	P
+EC	4.2.1.11
+//
+ID	omz_770m_1597_0
+NAME	omz_770m_1597_0
+STARTBASE	335895
+ENDBASE	336194
+PRODUCT	[Amycolicicoccus subflavus DQS3-9A1]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_5443_0
+NAME	omz_770m_5443_0
+STARTBASE	338597
+ENDBASE	338908
+PRODUCT	GJ23436 gene product from transcript GJ23436-RA
+PRODUCT-TYPE	P
+//
+ID	omz_770m_5443_1
+NAME	omz_770m_5443_1
+STARTBASE	338978
+ENDBASE	339184
+PRODUCT	[Cupriavidus basilensis OR16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_5440_0
+NAME	omz_770m_5440_0
+STARTBASE	342609
+ENDBASE	342965
+PRODUCT	hisH imidazole glycerol phosphate synthase subunit HisH (EC:2.4.2.-) K02501 glutamine amidotransferase [EC:2.4.2.-]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_5440_1
+NAME	omz_770m_5440_1
+STARTBASE	342993
+ENDBASE	343361
+PRODUCT	hisB imidazoleglycerol-phosphate dehydratase (EC:4.2.1.19) K01693 [EC:4.2.1.19]
+PRODUCT-TYPE	P
+EC	4.2.1.19
+//
+ID	omz_770m_5446_0
+NAME	omz_770m_5446_0
+STARTBASE	344115
+ENDBASE	344996
+PRODUCT	pyruvate flavodoxin/ferredoxin oxidoreductase domain-containing protein K00174 2-oxoglutarate ferredoxin subunit alpha [EC:1.2.7.3]
+PRODUCT-TYPE	P
+EC	1.2.7.3
+//
+ID	omz_770m_11130_0
+NAME	omz_770m_11130_0
+STARTBASE	347425
+ENDBASE	347682
+PRODUCT	diadenosine tetraphosphate (Ap4A) hydrolase K02503 Hit-like protein involved cell-cycle regulation
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10874_0
+NAME	omz_770m_10874_0
+STARTBASE	349417
+ENDBASE	349776
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10874_1
+NAME	omz_770m_10874_1
+STARTBASE	349821
+ENDBASE	350156
+PRODUCT	putative Spermine synthase [Nitrospina gracilis]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_5998_0
+NAME	omz_770m_5998_0
+STARTBASE	351137
+ENDBASE	352042
+PRODUCT	peptidoglycan glycosyltransferase (EC:2.4.1.129) K05515 penicillin-binding protein 2
+PRODUCT-TYPE	P
+EC	2.4.1.129
+//
+ID	omz_770m_5991_0
+NAME	omz_770m_5991_0
+STARTBASE	353902
+ENDBASE	354507
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_5995_0
+NAME	omz_770m_5995_0
+STARTBASE	357377
+ENDBASE	357715
+PRODUCT	pyrD dihydroorotate dehydrogenase 1B K00226 oxidase [EC:1.3.3.1]
+PRODUCT-TYPE	P
+EC	1.3.3.1
+//
+ID	omz_770m_5995_1
+NAME	omz_770m_5995_1
+STARTBASE	357730
+ENDBASE	358167
+PRODUCT	rare lipoprotein A K03642 A
+PRODUCT-TYPE	P
+//
+ID	omz_770m_5994_1
+NAME	omz_770m_5994_1
+STARTBASE	358562
+ENDBASE	358864
+PRODUCT	cytidine deoxycytidylate deaminase zinc-binding domain-containing protein K01493 dCMP [EC:3.5.4.12]
+PRODUCT-TYPE	P
+EC	3.5.4.12
+//
+ID	omz_770m_5996_0
+NAME	omz_770m_5996_0
+STARTBASE	359875
+ENDBASE	360519
+PRODUCT	topA DNA topoisomerase I (EC:5.99.1.2) K03168 [EC:5.99.1.2]
+PRODUCT-TYPE	P
+EC	5.99.1.2
+//
+ID	omz_770m_7103_0
+NAME	omz_770m_7103_0
+STARTBASE	360831
+ENDBASE	361739
+PRODUCT	[SAR406 cluster bacterium SCGC AAA160-C11]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10877_0
+NAME	omz_770m_10877_0
+STARTBASE	361803
+ENDBASE	362393
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10651_0
+NAME	omz_770m_10651_0
+STARTBASE	362771
+ENDBASE	363361
+PRODUCT	ferrochelatase (EC:4.99.1.1) K01772 [EC:4.99.1.1]
+PRODUCT-TYPE	P
+EC	4.99.1.1
+//
+ID	omz_770m_10301_0
+NAME	omz_770m_10301_0
+STARTBASE	365556
+ENDBASE	365978
+PRODUCT	DNA-directed RNA polymerase, subunit E' (EC:2.7.7.6) K03049 polymerase [EC:2.7.7.6]
+PRODUCT-TYPE	P
+EC	2.7.7.6
+//
+ID	omz_770m_10301_1
+NAME	omz_770m_10301_1
+STARTBASE	365980
+ENDBASE	366168
+PRODUCT	DNA-directed RNA polymerase, subunit E'' (EC:2.7.7.6) K03050 polymerase E" [EC:2.7.7.6]
+PRODUCT-TYPE	P
+EC	2.7.7.6
+//
+ID	omz_770m_10300_0
+NAME	omz_770m_10300_0
+STARTBASE	366498
+ENDBASE	366965
+PRODUCT	Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20) [SAR324 cluster bacterium SCGC AAA001-C10]
+PRODUCT-TYPE	P
+EC	6.1.1.20
+//
+ID	omz_770m_10876_1
+NAME	omz_770m_10876_1
+STARTBASE	368614
+ENDBASE	369228
+PRODUCT	putative Diheme cytochrome c [Nitrospina gracilis]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10306_0
+NAME	omz_770m_10306_0
+STARTBASE	369595
+ENDBASE	370356
+PRODUCT	periplasmic binding protein/LacI transcriptional regulator K10549 D-allose transport system substrate-binding protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_10305_0
+NAME	omz_770m_10305_0
+STARTBASE	370448
+ENDBASE	371005
+PRODUCT	ABC Fe3+-hydroxamate transporter, periplasmic component K02016 iron complex transport system substrate-binding protein
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3262_0
+NAME	omz_770m_3262_0
+STARTBASE	375832
+ENDBASE	376701
+PRODUCT	rho transcription termination factor Rho K03628 Rho
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3264_1
+NAME	omz_770m_3264_1
+STARTBASE	378141
+ENDBASE	378413
+PRODUCT	mucin-desulfating sulfatase (N-acetylglucosamine-6-sulfatase)
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3268_0
+NAME	omz_770m_3268_0
+STARTBASE	380989
+ENDBASE	381549
+PRODUCT	putative Molybdenum cofactor guanylyltransferase [Nitrospina gracilis]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_98_1
+NAME	omz_770m_98_1
+STARTBASE	385043
+ENDBASE	385303
+PRODUCT	ubiE ubiquinone/menaquinone biosynthesis methyltransferase
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3574_0
+NAME	omz_770m_3574_0
+STARTBASE	386172
+ENDBASE	386690
+PRODUCT	[SAR406 cluster bacterium SCGC AB-629-J13]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_7135_0
+NAME	omz_770m_7135_0
+STARTBASE	386938
+ENDBASE	387666
+PRODUCT	proline racemase K01777 racemase [EC:5.1.1.4]
+PRODUCT-TYPE	P
+EC	5.1.1.4
+//
+ID	omz_770m_3579_0
+NAME	omz_770m_3579_0
+STARTBASE	391648
+ENDBASE	392394
+PRODUCT	putative metal-dependent hydrolase K07045
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3129_0
+NAME	omz_770m_3129_0
+STARTBASE	393712
+ENDBASE	394332
+PRODUCT	sarcosine oxidase subunit alpha family protein (EC:1.5.3.1) K00302 oxidase, [EC:1.5.3.1]
+PRODUCT-TYPE	P
+EC	1.5.3.1
+//
+ID	omz_770m_3122_0
+NAME	omz_770m_3122_0
+STARTBASE	395351
+ENDBASE	396157
+PRODUCT	lpd dihydrolipoyl dehydrogenase (EC:1.8.1.4) K00382 dihydrolipoamide [EC:1.8.1.4]
+PRODUCT-TYPE	P
+EC	1.8.1.4
+//
+ID	omz_770m_3123_0
+NAME	omz_770m_3123_0
+STARTBASE	396183
+ENDBASE	396842
+PRODUCT	hpaD homoprotocatechuate 2,3-dioxygenase (EC:1.13.11.15) K00455 3,4-dihydroxyphenylacetate [EC:1.13.11.15]
+PRODUCT-TYPE	P
+EC	1.13.11.15
+//
+ID	omz_770m_3123_1
+NAME	omz_770m_3123_1
+STARTBASE	396857
+ENDBASE	397051
+PRODUCT	putative 5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase, HpcC-like protein (EC:1.2.1.3 1.2.1.-) K00151 5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase [EC:1.2.1.60]
+PRODUCT-TYPE	P
+EC	1.2.1.3
+//
+ID	omz_770m_3120_0
+NAME	omz_770m_3120_0
+STARTBASE	397064
+ENDBASE	397657
+PRODUCT	citE1 citrate lyase (EC:4.1.3.34) K01644 subunit beta / citryl-CoA [EC:4.1.3.6 4.1.3.34]
+PRODUCT-TYPE	P
+EC	4.1.3.34
+//
+ID	omz_770m_3120_1
+NAME	omz_770m_3120_1
+STARTBASE	397689
+ENDBASE	397991
+PRODUCT	sucC malate--CoA ligase subunit beta (EC:6.2.1.5) K14067 malate-CoA [EC:6.2.1.9]
+PRODUCT-TYPE	P
+EC	6.2.1.5
+//
+ID	omz_770m_3126_0
+NAME	omz_770m_3126_0
+STARTBASE	398991
+ENDBASE	399758
+PRODUCT	rpsB 30S ribosomal protein S2 K02967 small subunit S2
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3125_0
+NAME	omz_770m_3125_0
+STARTBASE	401631
+ENDBASE	402494
+PRODUCT	Maebl [Micromonospora lupini str. Lupac 08]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_7133_0
+NAME	omz_770m_7133_0
+STARTBASE	402722
+ENDBASE	403057
+PRODUCT	[Bradyrhizobium sp. CCGE-LA001]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_7133_1
+NAME	omz_770m_7133_1
+STARTBASE	403054
+ENDBASE	403482
+PRODUCT	folA dihydrofolate reductase (EC:1.5.1.3) K00287 [EC:1.5.1.3]
+PRODUCT-TYPE	P
+EC	1.5.1.3
+//
+ID	omz_770m_7876_0
+NAME	omz_770m_7876_0
+STARTBASE	404370
+ENDBASE	404855
+PRODUCT	FIG00912340:  [Pelobacter carbinolicus DSM 2380]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_7877_1
+NAME	omz_770m_7877_1
+STARTBASE	405495
+ENDBASE	405914
+PRODUCT	Cell division protein FtsH (EC 3.4.24.-) [Thermofilum pendens Hrk 5]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_7720_0
+NAME	omz_770m_7720_0
+STARTBASE	406218
+ENDBASE	406655
+PRODUCT	flavin-containing monooxygenase (EC:1.14.13.8) K00485 dimethylaniline (N-oxide forming) [EC:1.14.13.8]
+PRODUCT-TYPE	P
+EC	1.14.13.8
+//
+ID	omz_770m_7720_1
+NAME	omz_770m_7720_1
+STARTBASE	406722
+ENDBASE	407129
+PRODUCT	glnT glutamine synthetase III (EC:6.3.1.2) K01915 [EC:6.3.1.2]
+PRODUCT-TYPE	P
+EC	6.3.1.2
+//
+ID	omz_770m_7139_1
+NAME	omz_770m_7139_1
+STARTBASE	408685
+ENDBASE	408885
+PRODUCT	ATP synthase alpha chain heart isoform, mitochondrial precursor (EC:3.6.3.14) K02132 F-type H+-transporting ATPase subunit [EC:3.6.3.14]
+PRODUCT-TYPE	P
+EC	3.6.3.14
+//
+ID	omz_770m_3690_0
+NAME	omz_770m_3690_0
+STARTBASE	410777
+ENDBASE	411526
+PRODUCT	[Nitrospina sp. AB-629-B06]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3691_0
+NAME	omz_770m_3691_0
+STARTBASE	411673
+ENDBASE	412188
+PRODUCT	gamma-butyrobetaine hydroxylase (EC:1.14.11.1) K00471 dioxygenase [EC:1.14.11.1]
+PRODUCT-TYPE	P
+EC	1.14.11.1
+//
+ID	omz_770m_3697_0
+NAME	omz_770m_3697_0
+STARTBASE	417673
+ENDBASE	417894
+PRODUCT	FIG00557508:  [Calothrix sp. PCC 6303]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3697_1
+NAME	omz_770m_3697_1
+STARTBASE	418078
+ENDBASE	418326
+PRODUCT	[Nitrospina sp. SCGC AAA288-L16]
+PRODUCT-TYPE	P
+//
+ID	omz_770m_3699_0
+NAME	omz_770m_3699_0
+STARTBASE	419451
+ENDBASE	420329
+PRODUCT	GlnT-like protein (EC:6.3.1.2) K01915 glutamine synthetase [EC:6.3.1.2]
+PRODUCT-TYPE	P
+EC	6.3.1.2
+//
+ID	omz_770m_7726_0
+NAME	omz_770m_7726_0
+STARTBASE	421254
+ENDBASE	421910
+PRODUCT	membrane-bound proton-translocating pyrophosphatase (EC:3.6.1.1) K01507 inorganic [EC:3.6.1.1]
+PRODUCT-TYPE	P
+EC	3.6.1.1
+//
+ID	omz_770m_2831_0
+NAME	omz_770m_2831_0
+STARTBASE	422171
+ENDBASE	422437
+PRODUCT	[SAR202 cluster bacterium SCGC AAA240-N13]
+PRODUCT-TYPE	P
+//
