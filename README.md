@@ -1,4 +1,4 @@
-data_wrangling
+Meta'omic Data Wrangling
 ===============
 
 Notes on basic metagenomic data wrangling.
