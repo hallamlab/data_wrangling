@@ -72,6 +72,9 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <li><a href="#sed"><code>Sed</code></a></li>
 </ul></li>
 </ul></li>
+<li><a href="#references">References</a><ul>
+<li><a href="#sed-1"><code>sed</code></a></li>
+</ul></li>
 </ul>
 </div>
 
@@ -115,6 +118,8 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <pre><code>cd examples/unix_commands/</code></pre>
 <div id="grep" class="section level4">
 <h4>grep</h4>
+<p>The <code>grep</code> is generally used to identify and print lines in files that match a particular pattern. The basic command has the form:</p>
+<pre><code>grep 'pattern' file</code></pre>
 <ul>
 <li>Counting the number of sequences in a fasta file
 <ul>
@@ -208,6 +213,10 @@ fastas/.DS_Store:0</code></pre>
 <li><code>[BC]at</code>: matches <code>Bat</code> or <code>Cat</code> but not <code>bat</code> or <code>cat</code></li>
 <li><code>sample_[0-9][0-9]</code>: matches <code>sample_01</code>, <code>sample_02</code>, etc.</li>
 </ul></li>
+<li><code>\</code>: ‘escapes’ the following character (where you actually want to match it)
+<ul>
+<li>`<span class="math">\[*proteobacteria*\]</span>: matches text that have RefSeq-style taxonomy in square brackets</li>
+</ul></li>
 </ul></li>
 <li>the linux command <code>ls</code> can be used to list the set of files that are hit by a glob pattern
 <ul>
@@ -222,6 +231,17 @@ fastas/.DS_Store:0</code></pre>
 </div>
 <div id="grep-cont" class="section level4">
 <h4><code>grep</code> (con’t)</h4>
+<ul>
+<li>use glob patterns and to count the number of lines that match <code>Pseudomonas</code> in the Hawaii-ocean Time Series RefSeq LAST output (truncated data to fit on GitHub).</li>
+</ul>
+<pre><code>grep -c 'Pseudomonas' HOT_fosmids_small/*/blast_results/*RefSeq*.LASTout.parsed.txt
+HOT_fosmids_small/below_euphotic_200m/blast_results/below_euphotic_200m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:99
+HOT_fosmids_small/chlorophyllmax_130m/blast_results/chlorophyllmax_130m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:153
+HOT_fosmids_small/deepabyss_4000m/blast_results/deepabyss_4000m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:208
+HOT_fosmids_small/omz_770m/blast_results/omz_770m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:182
+HOT_fosmids_small/upper_euphotic_10m/blast_results/upper_euphotic_10m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:167
+HOT_fosmids_small/upper_euphotic_70m/blast_results/upper_euphotic_70m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:193
+HOT_fosmids_small/uppermesopelagic_500m/blast_results/uppermesopelagic_500m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:190</code></pre>
 <ul>
 <li>dropping the <code>-c</code>, <code>grep</code> will just print the matching line
 <ul>
@@ -270,7 +290,89 @@ CTGGGTGGCAGCGGTGTAGAGAAAATAGTTGAACTTTCGCTTTTGCCAGATGAAAAAGTGGCATTCAATAAAAGTATCGA
 </div>
 <div id="sed" class="section level4">
 <h4><code>Sed</code></h4>
+<p><code>Sed</code>, or the stream editor program is used to do precicely that, edit a stream of text. So this can be used to modify a string of text, usually using <strong>regular expresisons</strong>:</p>
+<pre><code>sed [options] commands [file-to-edit]</code></pre>
+<p>Basically <code>sed</code> reads in a file, performs editing operations on it and then prints it to the screen. If we give it no commands it just prints the text, akin to the <code>cat</code> program. You can</p>
+<pre><code>sed '' command_list.sh</code></pre>
+<p>The biggest use of <code>sed</code> is to replace one some text with another piece of text. This has the famous 3-slashes format: <code>s/old_word/new_word/</code></p>
+<ul>
+<li>here for example this goes through the command list file and replaces all instances of <code>grep</code> to <code>echo</code>.</li>
+<li>now might be a good time to also introduce the pipe operator <code>|</code> this takes the output (what is printed to the screen) of one program and feeds it as input to another.</li>
+<li>many Unix commands can be created in this manner by ‘chaining’ commands together</li>
+<li>here I chain the results of <code>sed</code> to another program called <code>head</code> which, by default, prints the first six lines of a file</li>
+</ul>
+<pre><code>sed 's/grep/echo/' command_list.sh | head
+#!/bin/bash
+
+# Command List for talk
+
+## Unix Shell Commands
+
+# echo counting
+echo -c '&gt;' fastas/GUAB.fasta
+echo -c '&gt;' fastas/*.fasta
+echo &quot;&gt;&quot; -c -r *</code></pre>
+<ul>
+<li>we already have a useful example, when we printed out those bacterial counts before all the filenames made it hard to read the output, lets see if we can correct that with <code>sed</code></li>
+</ul>
+<pre><code>grep -c 'Pseudomonas' HOT_fosmids_small/*/blast_results/*RefSeq*.LASTout.parsed.txt | sed 's/HOT_fosmids_small.*blast_results\///'
+below_euphotic_200m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:99
+chlorophyllmax_130m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:153
+deepabyss_4000m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:208
+omz_770m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:182
+upper_euphotic_10m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:167
+upper_euphotic_70m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:193
+uppermesopelagic_500m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:190</code></pre>
+<ul>
+<li>we can even pass the command through <code>sed</code> again to clear the other side of the output, making it much more readable:</li>
+</ul>
+<pre><code>grep -c 'Pseudomonas' HOT_fosmids_small/*/blast_results/*RefSeq*.LASTout.parsed.txt | sed 's/HOT_fosmids_small.*blast_results\///' | sed 's/.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt//'
+below_euphotic_200m:99
+chlorophyllmax_130m:153
+deepabyss_4000m:208
+omz_770m:182
+upper_euphotic_10m:167
+upper_euphotic_70m:193
+uppermesopelagic_500m:190</code></pre>
+<ul>
+<li>one quick got-ya with <code>sed</code> is that by default it only finds one match per line</li>
+<li>you can change it to find all matches per line by enabling ‘global matches’ by adding a <code>g</code> to the end of the three slashes command <code>'s/old_word/new_word/g'</code>
+<ul>
+<li>below we should see out with the <code>old</code> text and in with the <code>new</code>:</li>
+</ul></li>
+</ul>
+<pre><code>echo 'old old old old old old old old' | sed 's/old/new/g'
+new new new new new new new new</code></pre>
+<ul>
+<li>other thing is the ‘print lines’ (<code>p</code>) option, which will ignore the case of the text when matching and print lines that were substited as a sanity checking procedure.</li>
+</ul>
+<pre><code>echo 'old old old old new new new' | sed 's/old/new/gp'</code></pre>
+<ul>
+<li>One other thing is to switch matches around by containing them in excaped brackets <code>\(\)</code> using the <code>\1</code>,<code>\2</code>, <code>\3</code>, and <code>\4</code> to refer to the first, second, third and fourth matches, respectively.</li>
+</ul>
+<pre><code>echo 'one two three four' | sed 's/\(one\)\ \(two\)\ \(three\)\ \(four\)/\4 \3 \2 \1/'
+four three two one</code></pre>
+<ul>
+<li>We can do this again with with at least one wildcards <code>+</code></li>
+</ul>
+<pre><code>echo 'one two three four' | sed 's/\(.+\)\ \(.+\)\ \(.+\)\ \(.+\)/\4 \3 \2 \1/'
+four three two one</code></pre>
+<ul>
+<li>You can also set your particular matching set with <code>[]</code>:</li>
+</ul>
+<pre><code>echo 'one two three four' | sed 's/\([A-z]+\)\ \([A-z]+\)\ \([A-z]+\)\ \([A-z]+\)/\4 \3 \2 \1/'
+one two three four</code></pre>
 </div>
+</div>
+</div>
+<div id="references" class="section level2">
+<h2>References</h2>
+<p>Some extra references for more information:</p>
+<div id="sed-1" class="section level3">
+<h3><code>sed</code></h3>
+<ul>
+<li><a href="https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux">https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux</a></li>
+</ul>
 </div>
 </div>
 

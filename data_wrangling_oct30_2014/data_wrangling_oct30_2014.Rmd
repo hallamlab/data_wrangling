@@ -50,6 +50,12 @@ cd examples/unix_commands/
 
 #### grep
 
+The `grep` is generally used to identify and print lines in files that match a particular pattern. The basic command has the form:
+
+```
+grep 'pattern' file
+```
+
 * Counting the number of sequences in a fasta file
     * the `-c` option means 'count'
     * this will return he number of times the `'>'` pattern is observed in the fasta file
@@ -158,6 +164,13 @@ fastas/.DS_Store:0
 
 ```
 grep -c 'Pseudomonas' HOT_fosmids_small/*/blast_results/*RefSeq*.LASTout.parsed.txt
+HOT_fosmids_small/below_euphotic_200m/blast_results/below_euphotic_200m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:99
+HOT_fosmids_small/chlorophyllmax_130m/blast_results/chlorophyllmax_130m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:153
+HOT_fosmids_small/deepabyss_4000m/blast_results/deepabyss_4000m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:208
+HOT_fosmids_small/omz_770m/blast_results/omz_770m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:182
+HOT_fosmids_small/upper_euphotic_10m/blast_results/upper_euphotic_10m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:167
+HOT_fosmids_small/upper_euphotic_70m/blast_results/upper_euphotic_70m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:193
+HOT_fosmids_small/uppermesopelagic_500m/blast_results/uppermesopelagic_500m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:190
 ```
 
 * dropping the `-c`, `grep` will just print the matching line
@@ -209,3 +222,105 @@ grep -A 1  '>*b1' fastas/GUAB.fasta > my_fasta.fasta
 
 #### `Sed`
 
+`Sed`, or the stream editor program is used to do precicely that, edit a stream of text. So this can be used to modify a string of text, usually using **regular expresisons**:
+
+```
+sed [options] commands [file-to-edit]
+```
+
+Basically `sed` reads in a file, performs editing operations on it and then prints it to the screen. If we give it no commands it just prints the text, akin to the `cat` program. You can 
+
+```
+sed '' command_list.sh
+```
+
+The biggest use of `sed` is to replace one some text with another piece of text. This has the famous 3-slashes format: `s/old_word/new_word/`
+
+* here for example this goes through the command list file and replaces all instances of `grep` to `echo`.
+* now might be a good time to also introduce the pipe operator `|` this takes the output (what is printed to the screen) of one program and feeds it as input to another.
+   * many Unix commands can be created in this manner by 'chaining' commands together
+   * here I chain the results of `sed` to another program called `head` which, by default, prints the first six lines of a file
+
+```
+sed 's/grep/echo/' command_list.sh | head
+#!/bin/bash
+
+# Command List for talk
+
+## Unix Shell Commands
+
+# echo counting
+echo -c '>' fastas/GUAB.fasta
+echo -c '>' fastas/*.fasta
+echo ">" -c -r *
+```
+
+* we already have a useful example, when we printed out those bacterial counts before all the filenames made it hard to read the output, lets see if we can correct that with `sed`
+
+```
+grep -c 'Pseudomonas' HOT_fosmids_small/*/blast_results/*RefSeq*.LASTout.parsed.txt | sed 's/HOT_fosmids_small.*blast_results\///'
+below_euphotic_200m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:99
+chlorophyllmax_130m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:153
+deepabyss_4000m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:208
+omz_770m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:182
+upper_euphotic_10m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:167
+upper_euphotic_70m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:193
+uppermesopelagic_500m.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt:190
+```
+
+* we can even pass the command through `sed` again to clear the other side of the output, making it much more readable:
+
+```
+grep -c 'Pseudomonas' HOT_fosmids_small/*/blast_results/*RefSeq*.LASTout.parsed.txt | sed 's/HOT_fosmids_small.*blast_results\///' | sed 's/.RefSeq_complete_nr_v62_dec2013.LASTout.parsed.txt//'
+below_euphotic_200m:99
+chlorophyllmax_130m:153
+deepabyss_4000m:208
+omz_770m:182
+upper_euphotic_10m:167
+upper_euphotic_70m:193
+uppermesopelagic_500m:190
+```
+
+* one quick got-ya with `sed` is that by default it only finds one match per line
+* you can change it to find all matches per line by enabling 'global matches' by adding a `g` to the end of the three slashes command `'s/old_word/new_word/g'`
+    * below we should see out with the `old` text and in with the `new`:
+
+```
+echo 'old old old old old old old old' | sed 's/old/new/g'
+new new new new new new new new
+```
+
+* other thing is the 'print lines' (`p`) option, which will ignore the case of the text when matching and print lines that were substited as a sanity checking procedure.
+
+```
+echo 'old old old old new new new' | sed 's/old/new/gp'
+```
+
+* One other thing is to switch matches around by containing them in excaped brackets `\(\)` using the `\1`,`\2`, `\3`, and `\4` to refer to the first, second, third and fourth matches, respectively.
+
+```
+echo 'one two three four' | sed 's/\(one\)\ \(two\)\ \(three\)\ \(four\)/\4 \3 \2 \1/'
+four three two one
+```
+
+* We can do this again with with at least one wildcards `+`
+
+```
+echo 'one two three four' | sed 's/\(.+\)\ \(.+\)\ \(.+\)\ \(.+\)/\4 \3 \2 \1/'
+four three two one
+```
+
+* You can also set your particular matching set with `[]`:
+
+```
+echo 'one two three four' | sed 's/\([A-z]+\)\ \([A-z]+\)\ \([A-z]+\)\ \([A-z]+\)/\4 \3 \2 \1/'
+one two three four
+```
+
+## References
+
+Some extra references for more information:
+
+### `sed`
+
+* https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux
