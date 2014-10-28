@@ -317,10 +317,168 @@ echo 'one two three four' | sed 's/\([A-z]+\)\ \([A-z]+\)\ \([A-z]+\)\ \([A-z]+\
 one two three four
 ```
 
+#### `awk`
+
+Where `sed` was a text replacer, `awk` is more of a text modifier, and in particular is works with tabular data. It can be used to modify files, manipulate columns, or to convert from one tabular file format to another.
+
+```
+awk '/search_pattern/ { action_to_take_on_matches; another_action; }' file_to_parse
+```
+
+*  one of the first things to do is pass through a file and print out its contents
+    * here we take the `functional_and_taxonomic_table.txt` produced by metapathways.
+
+```
+awk '{ print }' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+```
+
+* we can use the double-slashes command to isolate certain lines, `'/below_euphotic_200m_7271_0/'`, kind of like `grep`:
+
+``` 
+below_euphotic_200m_7271_0    302	2	304	below_euphotic_200m_7271	616	-		all	hypothetical protein
+```
+
+* now that we have found our particular lines of interest, we can use action braces `{}` to perform a particular function, like print only the columns that we want using the `print` command and the column references `$1`, `$2`, etc, 
+    * here the column needs to contain the word `proteo` in an effort to find all the *proteobacteria*
+
+```
+awk '/proteo/ {print $1,"\t",$2, "\t", $3;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+```
+
+* note that the whole line can be printed with `$0`
+
+```
+awk '/proteo/ {print $0;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+```
+
+* and we can create our own personal file with a custom column order
+
+```
+awk '/proteo/ {print $1,"\t",$2, "\t", $3;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+```
+
+* By default the field seperator character `FS` is set to whitespace, but the field character can be specified explicity
+
+```
+awk '/proteobacteria/ {FS="\t"; print $1,"\t",$9;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+below_euphotic_200m_7276_0      Gammaproteobacteria
+below_euphotic_200m_861_0 	 Gammaproteobacteria
+below_euphotic_200m_2785_0 	 Gammaproteobacteria
+below_euphotic_200m_3404_0 	 Gammaproteobacteria
+below_euphotic_200m_5253_0 	 Gammaproteobacteria
+below_euphotic_200m_7506_0 	 Gammaproteobacteria
+```
+
+* *Note: It is important in `awk` that you **specify variables with double** (`"`) rather than single quotes (`'`)*
+
+* In fact there are a number of `awk` variables to help with processing the text fields:
+    * `FILENAME`: References the current input file.
+    * `FS`: The current field separator used to denote each field in a record. By default, this is set to whitespace.
+    * `RS`: The record separator used to distinguish separate records in the input file. By default, this is a newline character.
+    * `OFS`: The field separator for the outputted data. By default, this is set to whitespace.
+    * `ORS`: The record separator for the outputted data. By default, this is a newline character.
+    * `NF`: The number of fields in the current record.
+    * `NR`: The number of the current record.
+    * `FNR`: References the number of the current record relative to the current input file. For instance, if you have two input files, this would tell you the record number of each file instead of as a total.
+
+* For instance, if you specify the `OFS=",", you can quickly turn a tab-delimited file into a custom comma-separated file
+
+```
+awk '/proteobacteria/ {FS="\t"; OFS=","; print $1,$9;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+below_euphotic_200m_7276_0,Gammaproteobacteria
+below_euphotic_200m_861_0,Gammaproteobacteria
+below_euphotic_200m_2785_0,Gammaproteobacteria
+below_euphotic_200m_3404_0,Gammaproteobacteria
+```
+
+* Note that when this is done, we only need to print the column identifiers rather than exlicity set the separator `print $1,$9;`
+
+* There are also `BEGIN` and `END` code blocks that allow you to optionally specify header and footer for the file.
+
+```
+awk 'BEGIN { action; }
+/search/ { action; }
+END { action; }' input_file
+```
+
+* For instance it might be helpful to add an informative header to our custom file
+
+```
+awk 'BEGIN {FS="\t"; OFS="\t"; print "ORF_ID","Taxonomy"} /proteobacteria/ { print $1,$9;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+ORF_ID    Taxonomy
+below_euphotic_200m_7276_0	Gammaproteobacteria
+below_euphotic_200m_861_0	Gammaproteobacteria
+below_euphotic_200m_2785_0	Gammaproteobacteria
+below_euphotic_200m_3404_0	Gammaproteobacteria
+```
+
+* now that we like the structure of our custom file, we are ready to write it out to disk
+
+```
+awk 'BEGIN {FS="\t"; OFS="\t"; print "ORF_ID","Taxonomy"} /proteobacteria/ { print $1,$9;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt > my_little_tabby.txt
+```
+
+* So now the custom file should be read to be read into Excel or R with relatively little additional effort.
+* *As a general rule, it is better to use tab characters (`\t`) as delimiters rather than comma characters (`,`) when dealing tables with text fields (like protein annotations), commas in a field will often mess up downstream parsing, an additiona headache we don't really need*
+
+## Unix Shell Scripting
+
+Where the above programs dealt file cleaning and formatting, Unix Shell Scripting really deals with the automation of repetative or simple tasks. In particular, we are going to discuss the `bash` or `b`ourne `a`gain `sh`ell, which is definately the dominant command-line shell in todays unix environment. 
+
+* Most shell scripts involve selecting files with an unix glob `*` and performing an action for each file. This important primative function is setup by creating a `for`-`do`-`done` loop:
+
+```
+for file in *fasta
+do
+    # do some actions
+done
+```
+
+* As a first example we'll ask the `echo` command to print each filename to the screen, de-referning the filename witht he `$` character
+
+```
+for file in *fasta
+do
+    echo $file
+done
+```
+
+* since small mistakes when running many commands at once can make a real mess or cause serious damange, **it is often a very good idea to `echo` your loop commands** to inspect them for accuracy before running them for real
+
+* For instance it is very common to rename many files with some kind of suffix
+
+```
+for file in *fasta
+do
+    mv ${file} ${file}.backup
+done
+```
+
+* This de-references the current file with the `$` or `${}` character and calls the file with the 'move' (`mv`) command to add `.backup` to the name of each file. Especially when appending text to a file the braces `{}` help make the code more clear.
+
+* Furthermore, the `%` character can be used to trim a command form the right-hand-side, usually for changing filenames
+    * for instance we will remove the `.backup` suffex we just added to our `.fasta` files
+```
+for file in *fasta.backup
+do
+    echo mv $file ${file%.backup}
+done
+```
+
 ## References
 
 Some extra references for more information:
 
+### `grep`
+
+*
+
 ### `sed`
 
 * https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux
+
+### `awk`
+
+* https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux
+
+### `shell scripting`

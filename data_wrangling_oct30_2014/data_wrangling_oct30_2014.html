@@ -70,10 +70,15 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <li><a href="#grep">grep</a></li>
 <li><a href="#grep-cont"><code>grep</code> (con’t)</a></li>
 <li><a href="#sed"><code>Sed</code></a></li>
+<li><a href="#awk"><code>awk</code></a></li>
 </ul></li>
 </ul></li>
+<li><a href="#unix-shell-scripting">Unix Shell Scripting</a></li>
 <li><a href="#references">References</a><ul>
+<li><a href="#grep-1"><code>grep</code></a></li>
 <li><a href="#sed-1"><code>sed</code></a></li>
+<li><a href="#awk-1"><code>awk</code></a></li>
+<li><a href="#shell-scripting"><code>shell scripting</code></a></li>
 </ul></li>
 </ul>
 </div>
@@ -363,16 +368,153 @@ four three two one</code></pre>
 <pre><code>echo 'one two three four' | sed 's/\([A-z]+\)\ \([A-z]+\)\ \([A-z]+\)\ \([A-z]+\)/\4 \3 \2 \1/'
 one two three four</code></pre>
 </div>
+<div id="awk" class="section level4">
+<h4><code>awk</code></h4>
+<p>Where <code>sed</code> was a text replacer, <code>awk</code> is more of a text modifier, and in particular is works with tabular data. It can be used to modify files, manipulate columns, or to convert from one tabular file format to another.</p>
+<pre><code>awk '/search_pattern/ { action_to_take_on_matches; another_action; }' file_to_parse</code></pre>
+<ul>
+<li>one of the first things to do is pass through a file and print out its contents
+<ul>
+<li>here we take the <code>functional_and_taxonomic_table.txt</code> produced by metapathways.</li>
+</ul></li>
+</ul>
+<pre><code>awk '{ print }' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt</code></pre>
+<ul>
+<li>we can use the double-slashes command to isolate certain lines, <code>'/below_euphotic_200m_7271_0/'</code>, kind of like <code>grep</code>:</li>
+</ul>
+<pre><code>below_euphotic_200m_7271_0    302   2   304 below_euphotic_200m_7271    616 -       all hypothetical protein</code></pre>
+<ul>
+<li>now that we have found our particular lines of interest, we can use action braces <code>{}</code> to perform a particular function, like print only the columns that we want using the <code>print</code> command and the column references <code>$1</code>, <code>$2</code>, etc,
+<ul>
+<li>here the column needs to contain the word <code>proteo</code> in an effort to find all the <em>proteobacteria</em></li>
+</ul></li>
+</ul>
+<pre><code>awk '/proteo/ {print $1,&quot;\t&quot;,$2, &quot;\t&quot;, $3;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt</code></pre>
+<ul>
+<li>note that the whole line can be printed with <code>$0</code></li>
+</ul>
+<pre><code>awk '/proteo/ {print $0;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt</code></pre>
+<ul>
+<li>and we can create our own personal file with a custom column order</li>
+</ul>
+<pre><code>awk '/proteo/ {print $1,&quot;\t&quot;,$2, &quot;\t&quot;, $3;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt</code></pre>
+<ul>
+<li>By default the field seperator character <code>FS</code> is set to whitespace, but the field character can be specified explicity</li>
+</ul>
+<pre><code>awk '/proteobacteria/ {FS=&quot;\t&quot;; print $1,&quot;\t&quot;,$9;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+below_euphotic_200m_7276_0      Gammaproteobacteria
+below_euphotic_200m_861_0    Gammaproteobacteria
+below_euphotic_200m_2785_0   Gammaproteobacteria
+below_euphotic_200m_3404_0   Gammaproteobacteria
+below_euphotic_200m_5253_0   Gammaproteobacteria
+below_euphotic_200m_7506_0   Gammaproteobacteria</code></pre>
+<ul>
+<li><p><em>Note: It is important in <code>awk</code> that you <strong>specify variables with double</strong> (<code>&quot;</code>) rather than single quotes (<code>'</code>)</em></p></li>
+<li>In fact there are a number of <code>awk</code> variables to help with processing the text fields:
+<ul>
+<li><code>FILENAME</code>: References the current input file.</li>
+<li><code>FS</code>: The current field separator used to denote each field in a record. By default, this is set to whitespace.</li>
+<li><code>RS</code>: The record separator used to distinguish separate records in the input file. By default, this is a newline character.</li>
+<li><code>OFS</code>: The field separator for the outputted data. By default, this is set to whitespace.</li>
+<li><code>ORS</code>: The record separator for the outputted data. By default, this is a newline character.</li>
+<li><code>NF</code>: The number of fields in the current record.</li>
+<li><code>NR</code>: The number of the current record.</li>
+<li><code>FNR</code>: References the number of the current record relative to the current input file. For instance, if you have two input files, this would tell you the record number of each file instead of as a total.</li>
+</ul></li>
+<li><p>For instance, if you specify the `OFS=“,”, you can quickly turn a tab-delimited file into a custom comma-separated file</p></li>
+</ul>
+<pre><code>awk '/proteobacteria/ {FS=&quot;\t&quot;; OFS=&quot;,&quot;; print $1,$9;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+below_euphotic_200m_7276_0,Gammaproteobacteria
+below_euphotic_200m_861_0,Gammaproteobacteria
+below_euphotic_200m_2785_0,Gammaproteobacteria
+below_euphotic_200m_3404_0,Gammaproteobacteria</code></pre>
+<ul>
+<li><p>Note that when this is done, we only need to print the column identifiers rather than exlicity set the separator <code>print $1,$9;</code></p></li>
+<li><p>There are also <code>BEGIN</code> and <code>END</code> code blocks that allow you to optionally specify header and footer for the file.</p></li>
+</ul>
+<pre><code>awk 'BEGIN { action; }
+/search/ { action; }
+END { action; }' input_file</code></pre>
+<ul>
+<li>For instance it might be helpful to add an informative header to our custom file</li>
+</ul>
+<pre><code>awk 'BEGIN {FS=&quot;\t&quot;; OFS=&quot;\t&quot;; print &quot;ORF_ID&quot;,&quot;Taxonomy&quot;} /proteobacteria/ { print $1,$9;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+ORF_ID    Taxonomy
+below_euphotic_200m_7276_0  Gammaproteobacteria
+below_euphotic_200m_861_0   Gammaproteobacteria
+below_euphotic_200m_2785_0  Gammaproteobacteria
+below_euphotic_200m_3404_0  Gammaproteobacteria</code></pre>
+<ul>
+<li>now that we like the structure of our custom file, we are ready to write it out to disk</li>
+</ul>
+<pre><code>awk 'BEGIN {FS=&quot;\t&quot;; OFS=&quot;\t&quot;; print &quot;ORF_ID&quot;,&quot;Taxonomy&quot;} /proteobacteria/ { print $1,$9;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt &gt; my_little_tabby.txt</code></pre>
+<ul>
+<li>So now the custom file should be read to be read into Excel or R with relatively little additional effort.</li>
+<li><em>As a general rule, it is better to use tab characters (<code>\t</code>) as delimiters rather than comma characters (<code>,</code>) when dealing tables with text fields (like protein annotations), commas in a field will often mess up downstream parsing, an additiona headache we don’t really need</em></li>
+</ul>
 </div>
+</div>
+</div>
+<div id="unix-shell-scripting" class="section level2">
+<h2>Unix Shell Scripting</h2>
+<p>Where the above programs dealt file cleaning and formatting, Unix Shell Scripting really deals with the automation of repetative or simple tasks. In particular, we are going to discuss the <code>bash</code> or <code>b</code>ourne <code>a</code>gain <code>sh</code>ell, which is definately the dominant command-line shell in todays unix environment.</p>
+<ul>
+<li>Most shell scripts involve selecting files with an unix glob <code>*</code> and performing an action for each file. This important primative function is setup by creating a <code>for</code>-<code>do</code>-<code>done</code> loop:</li>
+</ul>
+<pre><code>for file in *fasta
+do
+    # do some actions
+done</code></pre>
+<ul>
+<li>As a first example we’ll ask the <code>echo</code> command to print each filename to the screen, de-referning the filename witht he <code>$</code> character</li>
+</ul>
+<pre><code>for file in *fasta
+do
+    echo $file
+done</code></pre>
+<ul>
+<li><p>since small mistakes when running many commands at once can make a real mess or cause serious damange, <strong>it is often a very good idea to <code>echo</code> your loop commands</strong> to inspect them for accuracy before running them for real</p></li>
+<li><p>For instance it is very common to rename many files with some kind of suffix</p></li>
+</ul>
+<pre><code>for file in *fasta
+do
+    mv ${file} ${file}.backup
+done</code></pre>
+<ul>
+<li><p>This de-references the current file with the <code>$</code> or <code>${}</code> character and calls the file with the ‘move’ (<code>mv</code>) command to add <code>.backup</code> to the name of each file. Especially when appending text to a file the braces <code>{}</code> help make the code more clear.</p></li>
+<li>Furthermore, the <code>%</code> character can be used to trim a command form the right-hand-side, usually for changing filenames
+<ul>
+<li><p>for instance we will remove the <code>.backup</code> suffex we just added to our <code>.fasta</code> files</p>
+<pre><code>for file in *fasta.backup
+do
+echo mv $file ${file%.backup}
+done</code></pre></li>
+</ul></li>
+</ul>
 </div>
 <div id="references" class="section level2">
 <h2>References</h2>
 <p>Some extra references for more information:</p>
+<div id="grep-1" class="section level3">
+<h3><code>grep</code></h3>
+<ul>
+<li></li>
+</ul>
+</div>
 <div id="sed-1" class="section level3">
 <h3><code>sed</code></h3>
 <ul>
 <li><a href="https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux">https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux</a></li>
 </ul>
+</div>
+<div id="awk-1" class="section level3">
+<h3><code>awk</code></h3>
+<ul>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux">https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux</a></li>
+</ul>
+</div>
+<div id="shell-scripting" class="section level3">
+<h3><code>shell scripting</code></h3>
 </div>
 </div>
 
