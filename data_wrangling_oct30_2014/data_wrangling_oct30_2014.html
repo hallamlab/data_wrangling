@@ -367,6 +367,9 @@ four three two one</code></pre>
 </ul>
 <pre><code>echo 'one two three four' | sed 's/\([A-z]+\)\ \([A-z]+\)\ \([A-z]+\)\ \([A-z]+\)/\4 \3 \2 \1/'
 one two three four</code></pre>
+<ul>
+<li>Match a negation with <code>!</code> or <code>^</code> at the start: <code>[!abc]</code> <code>[^a-c]</code></li>
+</ul>
 </div>
 <div id="awk" class="section level4">
 <h4><code>awk</code></h4>
@@ -430,7 +433,14 @@ below_euphotic_200m_2785_0,Gammaproteobacteria
 below_euphotic_200m_3404_0,Gammaproteobacteria</code></pre>
 <ul>
 <li><p>Note that when this is done, we only need to print the column identifiers rather than exlicity set the separator <code>print $1,$9;</code></p></li>
-<li><p>There are also <code>BEGIN</code> and <code>END</code> code blocks that allow you to optionally specify header and footer for the file.</p></li>
+<li>*Note: If you just want to rip-out one of the columns/fields of a file (for instance, to feed into some other program) there’s a nice little utility called <code>cut</code> to do that
+<ul>
+<li>the following prints out the ninth-column (taxa) of the functional and taxonomic table</li>
+</ul></li>
+</ul>
+<pre><code>cut -f9 HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt</code></pre>
+<ul>
+<li>There are also <code>BEGIN</code> and <code>END</code> code blocks that allow you to optionally specify header and footer for the file.</li>
 </ul>
 <pre><code>awk 'BEGIN { action; }
 /search/ { action; }
@@ -490,7 +500,99 @@ do
 echo mv $file ${file%.backup}
 done</code></pre></li>
 </ul></li>
+<li><p>You can also put a list of things to loop over</p></li>
 </ul>
+<pre><code>for i in 1 2 3 4 5
+do
+    echo $i
+done</code></pre>
+<ul>
+<li><code>while</code> loops continue while a condition is true, here this multiplies the iterator variable <code>i</code> by <code>10</code> each time</li>
+</ul>
+<pre><code>i=0
+n=10
+while [ $i -le 10 ]
+do
+  echo &quot;$n * $i = `expr $i \* $n`&quot;
+  i=`expr $i + 1`
+done</code></pre>
+<div id="variables" class="section level5">
+<h5>Variables</h5>
+<ul>
+<li>variables have no space (e.g, <code>myvar=1</code> is okay, <code>myvar =1</code> or <code>myvar= 1</code> or <code>myvar = 1</code> is not okay)</li>
+<li><code>myvar=</code> or <code>myvar=&quot;&quot;</code> defines an empty variable</li>
+<li>you can access any local system variable, useful ones are <code>HOME</code> and <code>USERNAME</code></li>
+</ul>
+</div>
+<div id="larger-shell-scipts" class="section level5">
+<h5>Larger Shell Scipts</h5>
+<ul>
+<li><p>This is all fine and good but typing commands on the keyboard is error-prone and time consuming, and you can’t save your work, so shell scripts can be written in to a file:</p></li>
+<li>first line of file is <code>#!&lt;location of bash&gt;</code> you can find out the location of bash with the <code>which bash</code></li>
+<li><p><code>#</code> is the comment-out character anything after this character will not be interpreted with exception of the ‘sha-bang’ character: <code>#!</code></p></li>
+</ul>
+<pre><code>#!/bin/bash
+
+# My first bash script.
+echo &quot;Hello World&quot;</code></pre>
+<ul>
+<li>this text is in a script called <a href="hello_world.sh">hello_world.sh</a> for convenience.</li>
+<li>shell scripts are usually run with the <code>./hello_world.sh</code> statement when in the same working directory</li>
+</ul>
+<pre><code>./hello_world.sh
+-bash: ./hello_world.sh: Permission denied</code></pre>
+<ul>
+<li>What gives? Turns out running a file like this ‘executing’ needs to have executable permission.</li>
+</ul>
+<pre><code>ls -la hello_world.sh 
+-rw-r--r--  1 nielshanson  staff  55 29 Oct 07:30 hello_world.sh</code></pre>
+<ul>
+<li><code>-rw-r--r--</code> specifies the permissions for three specific sets of users the user, the unix group, and others (all users)
+<ul>
+<li>right now it says that we can read and write to this file, but others can only read it</li>
+<li>to get executable permissions we’ll need to use the <code>chmod</code> or <code>ch</code>ange <code>mod</code>e command</li>
+</ul></li>
+</ul>
+<pre><code>chmod 700 hello_world.sh
+ls -la hello_world.sh 
+-rwx------  1 nielshanson  staff  55 29 Oct 07:30 hello_world.sh</code></pre>
+<ul>
+<li>Notice that it now says <code>-rwx</code> in the first couple of positions, indicating that we have permission to read (<code>r</code>), write (<code>w</code>), and execute (<code>e</code>) this file.</li>
+<li>Alternatively, we could have used <code>u+x</code> instead of <code>700</code>, ’add <code>+</code> e<code>x</code>ecutable permission to <code>u</code>ser</li>
+<li>Sometimes this is preferable, because notice that <code>700</code> wiped out the groups and other’s permissions</li>
+</ul>
+<pre><code>chmod u+x hello_world.sh
+ls -la hello_world.sh 
+-rwx------  1 nielshanson  staff  55 29 Oct 07:30 hello_world.sh</code></pre>
+<ul>
+<li>One of the major uses for Shell Scripting is to just put a series of commands in order for reference. For instance I’ve put every command so far in a file called <a href="command_list.sh">command_list.sh</a>
+<ul>
+<li>for instance we can run every command we have done so far in the tutoral at once</li>
+</ul></li>
+</ul>
+<pre><code># make sure permissions are right
+chmod u+x command_list.sh
+./command_list.sh</code></pre>
+<ul>
+<li>Extremely common to use shell scripts with <code>qsub</code> commands to run on grid computing systems like WestGrid. <a href="run_genovo.sh">run_genovo.sh</a> is an example of a simple (but very large) job that I ran on grex.westgrid.ca:</li>
+</ul>
+<pre><code>#!/bin/bash
+#PBS -l walltime=165:00:00
+#PBS -l pmem=90000mb
+/home/nielsh/genovo/assemble /home/nielsh/genovo/test/combined_36m_454_genomes_Sakinaw.fasta 24</code></pre>
+<ul>
+<li>notice that they are using comments to send information to the <code>qsub</code> command:
+<ul>
+<li><code>-l walltime=160:00:00</code> says I want to run this script for 165 hours</li>
+<li><code>-l pmem=90000mb</code> says I want the available process memory to be 90GB</li>
+</ul></li>
+<li><p>whenever commands are piggy-backed to send information to another program this is called giving ‘directives’ (or ‘compiler directives’)</p></li>
+<li>I have another good example on the <a href="www.github.com/hallamlab">hallamlab GitHub</a> of a <a href="https://github.com/hallamlab/utilities/blob/master/SparCC/run_correlation.sh">shell script for running SparCC on WestGrid</a>
+<ul>
+<li><em>Aria as she probably has better ways of doing this now</em></li>
+</ul></li>
+</ul>
+</div>
 </div>
 <div id="references" class="section level2">
 <h2>References</h2>
@@ -515,6 +617,9 @@ done</code></pre></li>
 </div>
 <div id="shell-scripting" class="section level3">
 <h3><code>shell scripting</code></h3>
+<ul>
+<li><a href="http://www.freeos.com/guides/lsst/">http://www.freeos.com/guides/lsst/</a></li>
+</ul>
 </div>
 </div>
 

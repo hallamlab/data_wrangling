@@ -309,6 +309,8 @@ echo 'one two three four' | sed 's/\([A-z]+\)\ \([A-z]+\)\ \([A-z]+\)\ \([A-z]+\
 one two three four
 ```
 
+* Match a negation with `!` or `^` at the start: `[!abc]` `[^a-c]`
+
 #### `awk`
 
 Where `sed` was a text replacer, `awk` is more of a text modifier, and in particular is works with tabular data. It can be used to modify files, manipulate columns, or to convert from one tabular file format to another.
@@ -385,6 +387,13 @@ below_euphotic_200m_3404_0,Gammaproteobacteria
 
 * Note that when this is done, we only need to print the column identifiers rather than exlicity set the separator `print $1,$9;`
 
+* *Note: If you just want to rip-out one of the columns/fields of a file (for instance, to feed into some other program) there's a nice little utility called `cut` to do that
+    * the following prints out the ninth-column (taxa) of the functional and taxonomic table
+
+```
+cut -f9 HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+```
+
 * There are also `BEGIN` and `END` code blocks that allow you to optionally specify header and footer for the file.
 
 ```
@@ -457,6 +466,110 @@ do
 done
 ```
 
+* You can also put a list of things to loop over
+
+```
+for i in 1 2 3 4 5
+do
+    echo $i
+done
+```
+
+* `while` loops continue while a condition is true, here this multiplies the iterator variable `i` by `10` each time
+
+```
+i=0
+n=10
+while [ $i -le 10 ]
+do
+  echo "$n * $i = `expr $i \* $n`"
+  i=`expr $i + 1`
+done
+```
+
+##### Variables
+
+* variables have no space (e.g, `myvar=1` is okay, `myvar =1` or `myvar= 1` or `myvar = 1` is not okay)
+* `myvar=` or `myvar=""` defines an empty variable
+* you can access any local system variable, useful ones are `HOME` and `USERNAME`
+
+##### Larger Shell Scipts
+
+* This is all fine and good but typing commands on the keyboard is error-prone and time consuming, and you can't save your work, so shell scripts can be written in to a file:
+
+* first line of file is `#!<location of bash>` you can find out the location of bash with the `which bash`
+* `#` is the comment-out character anything after this character will not be interpreted with exception of the 'sha-bang' character: `#!` 
+
+```
+#!/bin/bash
+
+# My first bash script.
+echo "Hello World"
+```
+
+* this text is in a script called [hello_world.sh](hello_world.sh) for convenience.
+* shell scripts are usually run with the `./hello_world.sh` statement when in the same working directory
+
+```
+./hello_world.sh
+-bash: ./hello_world.sh: Permission denied
+```
+
+* What gives? Turns out running a file like this 'executing' needs to have executable permission.
+
+```
+ls -la hello_world.sh 
+-rw-r--r--  1 nielshanson  staff  55 29 Oct 07:30 hello_world.sh
+```
+
+* `-rw-r--r--` specifies the permissions for three specific sets of users the user, the unix group, and others (all users)
+    * right now it says that we can read and write to this file, but others can only read it
+    * to get executable permissions we'll need to use the `chmod` or `ch`ange `mod`e command
+
+```
+chmod 700 hello_world.sh
+ls -la hello_world.sh 
+-rwx------  1 nielshanson  staff  55 29 Oct 07:30 hello_world.sh
+```
+
+* Notice that it now says `-rwx` in the first couple of positions, indicating that we have permission to read (`r`), write (`w`), and execute (`e`) this file.
+* Alternatively, we could have used `u+x` instead of `700`, 'add `+` e`x`ecutable permission to `u`ser
+* Sometimes this is preferable, because notice that `700` wiped out the groups and other's permissions
+
+```
+chmod u+x hello_world.sh
+ls -la hello_world.sh 
+-rwx------  1 nielshanson  staff  55 29 Oct 07:30 hello_world.sh
+```
+
+* One of the major uses for Shell Scripting is to just put a series of commands in order for reference. For instance I've put every command so far in a file called [command_list.sh](command_list.sh)
+    * for instance we can run every command we have done so far in the tutoral at once
+
+```
+# make sure permissions are right
+chmod u+x command_list.sh
+./command_list.sh
+```
+
+* Extremely common to use shell scripts with `qsub` commands to run on grid computing systems like WestGrid. [run_genovo.sh](run_genovo.sh) is an example of a simple (but very large) job that I ran on grex.westgrid.ca:
+
+```
+#!/bin/bash
+#PBS -l walltime=165:00:00
+#PBS -l pmem=90000mb
+/home/nielsh/genovo/assemble /home/nielsh/genovo/test/combined_36m_454_genomes_Sakinaw.fasta 24
+```
+
+* notice that they are using comments to send information to the `qsub` command:
+    * `-l walltime=160:00:00` says I want to run this script for 165 hours
+    * `-l pmem=90000mb` says I want the available process memory to be 90GB
+* whenever commands are piggy-backed to send information to another program this is called giving 'directives' (or 'compiler directives')
+
+* I have another good example on the [hallamlab GitHub](www.github.com/hallamlab) of a [shell script for running SparCC on WestGrid](https://github.com/hallamlab/utilities/blob/master/SparCC/run_correlation.sh) 
+    * *Aria as she probably has better ways of doing this now*
+
+
+
 ## References
 
 Some extra references for more information:
@@ -474,3 +587,5 @@ Some extra references for more information:
 * https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux
 
 ### `shell scripting`
+
+* http://www.freeos.com/guides/lsst/
