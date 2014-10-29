@@ -4,6 +4,19 @@ October 30, 2014
 
 Pourpose of this document is to summarize some basic data wrangling tasks that commonly occuring with metagenomic datasets in the Hallam Lab.
 
+## Basic Unix Tips
+
+* typing commands on the command-line can be a chore, but remember the following shortcuts:
+    * `TAB`: auto-completes directories and filenames
+    * `CTRL + a`: brings you to the front of the command you are typing
+    * `CTRL + e`: brings you to the end
+
+* setup the `META` key in Terminal to jump around commands by 'words' instead of spaces:
+    * Terminal > Preferences
+    * Click on the 'Keyboard' Tab
+    *
+    
+
 ## Unix Shell Commands: grep, awk, sed, and others
 
 Some very-simple first-pass analyses can be performed with common Unix commands. Although there are others, many analysis and sanity checking tasks can be accomplished by the following commands:
@@ -566,7 +579,33 @@ chmod u+x command_list.sh
 * whenever commands are piggy-backed to send information to another program this is called giving 'directives' (or 'compiler directives')
 
 * I have another good example on the [hallamlab GitHub](www.github.com/hallamlab) of a [shell script for running SparCC on WestGrid](https://github.com/hallamlab/utilities/blob/master/SparCC/run_correlation.sh) 
-    * *Aria as she probably has better ways of doing this now*
+    * *Aria probably has better ways of doing this now*
+
+## Basic Python Scripting
+
+So the Unix Shell and Shell scripting are great for getting a few things done or asking quick questions, however, they are kind of lacking in doing a careful, reproducable analysis. Although, all Unix systems have some version of the above commands, **you really have to check your own system for what works**; based on the particular version. 
+
+Now we are going to do a bit of basic Python scripting which has a lot more capability, and generally a lot more stable accross systems. 
+
+* Python 2.6 or 2.7 are included on most Unix distributions
+* Python 3.x is the future of python, and a complete reboot of the language, but right now its not commonly found anywhere by default
+    * pick a system and type `python` and its probably referring to some version of Python 2.6 or Python 2.7
+    * sometime in the future we may have to [Dive Into Python 3](http://www.diveintopython3.net)
+
+* typing `python 
+```
+python
+Python 2.6.8 (unknown, Jan 23 2013, 20:19:53) 
+[GCC 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2336.9.00)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+```
+
+* this gets you to the python interactive shell which allows you 
+
+### Examples
+
+
 
 
 
@@ -586,6 +625,10 @@ Some extra references for more information:
 
 * https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux
 
-### `shell scripting`
+### Shell Scripting
 
 * http://www.freeos.com/guides/lsst/
+
+### Python
+
+* [Python Code Academy](http://www.codecademy.com/en/tracks/python): 
