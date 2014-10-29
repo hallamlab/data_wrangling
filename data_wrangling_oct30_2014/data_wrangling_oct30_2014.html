@@ -76,7 +76,10 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 </ul></li>
 <li><a href="#unix-shell-scripting">Unix Shell Scripting</a></li>
 <li><a href="#basic-python-scripting">Basic Python Scripting</a><ul>
-<li><a href="#examples-1">Examples</a></li>
+<li><a href="#basic-script-setup">Basic Script Setup</a></li>
+<li><a href="#optparse-and-argparse"><a href="https://docs.python.org/2/library/optparse.html">optparse</a> and <a href="https://docs.python.org/2/library/argparse.html#module-argparse">argparse</a></a><ul>
+<li><a href="#list-of-useful-python-commandsstatements">List of Useful Python Commands/Statements</a></li>
+</ul></li>
 </ul></li>
 <li><a href="#references">References</a><ul>
 <li><a href="#grep-1"><code>grep</code></a></li>
@@ -102,9 +105,11 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <ul>
 <li>Terminal &gt; Preferences</li>
 <li>Click on the ‘Keyboard’ Tab</li>
-<li>Check the ‘Use option key as meta key’ checkbox
+<li>Check the ‘Use option key as meta key’ checkbox</li>
+<li>now you can jump around your command with:
 <ul>
-<li>now you can jump around your command with <code>OPTION + f</code>: move forward a word <code>OPTION + b</code>: more backward a word</li>
+<li><code>OPTION + f</code>: move forward a word</li>
+<li><code>OPTION + b</code>: more backward a word</li>
 </ul></li>
 </ul></li>
 <li>personally I think the defaults for the shell are too small for detailed work:
@@ -115,6 +120,7 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <li><a href="examples/unix/TomorrowNight.terminal">TomorrowNight</a></li>
 <li><a href="examples/unix/SolarizedLight.terminal">SolarizedLight</a></li>
 <li><a href="examples/unix/SolarizedDark.terminal">SolarizedDark</a></li>
+<li><a href="examples/unix/Monokai.terminal">Monokai</a></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -640,18 +646,181 @@ chmod u+x command_list.sh
 <li>pick a system and type <code>python</code> and its probably referring to some version of Python 2.6 or Python 2.7</li>
 <li>sometime in the future we may have to <a href="http://www.diveintopython3.net">Dive Into Python 3</a></li>
 </ul></li>
-<li><p>typing `python</p>
+<li>Python is a whole programming language to master, but for the pourposes of data wrangling we are going to focus on two things:
+<ul>
+<li>basic file input output (File I/O)</li>
+<li>writing python scripts</li>
+</ul></li>
+<li>typing <code>python</code> will start an ‘interactive shell’ and also tell you which python version you are running by default</li>
+</ul>
 <pre><code>python
 Python 2.6.8 (unknown, Jan 23 2013, 20:19:53) 
 [GCC 4.2.1 (Based on Apple Inc. build 5658) (LLVM build 2336.9.00)] on darwin
 Type &quot;help&quot;, &quot;copyright&quot;, &quot;credits&quot; or &quot;license&quot; for more information.
-&gt;&gt;&gt;</code></pre></li>
+&gt;&gt;&gt;</code></pre>
+<ul>
 <li>this gets you to the python interactive shell which allows you try out some python commands</li>
 <li>good to see if certain packages are installed or if you want to check it something works or behavies quickly</li>
-<li><p>press</p></li>
+<li>press <code>CTRL + c</code> to type <code>exit()</code> to return to the shell</li>
 </ul>
-<div id="examples-1" class="section level3">
-<h3>Examples</h3>
+<div id="basic-script-setup" class="section level3">
+<h3>Basic Script Setup</h3>
+<ul>
+<li>lets get outselves going with the basics by writing <a href>hello_world.py</a> :</li>
+</ul>
+<pre><code>#!/usr/bin/python
+
+print &quot;Hello World!&quot;</code></pre>
+<ul>
+<li>and run the script as follows:</li>
+</ul>
+<pre><code>python hello_world.py 
+Hello World</code></pre>
+<ul>
+<li>lets open a file and print all the lines to the screen:</li>
+</ul>
+<pre><code># open the file
+file = open(&quot;data/functional_and_taxonomic_table.txt&quot;, &quot;r&quot;)
+
+# read file lines into list
+lines = file.readlines()
+
+# iterate through each line and print to screen
+for line in lines:
+    print line
+
+# close the file
+file.close()</code></pre>
+<ul>
+<li>there’s actually an even more efficent way to do the loop that automatically closes the file</li>
+</ul>
+<pre><code>with open(&quot;data/functional_and_taxonomic_table.txt&quot;, &quot;r&quot;) as file:
+    for line in file:
+        print line</code></pre>
+<ul>
+<li>well that was fun, but its kind of annoying and error prone to have to specify the file in each way, if only there was some way to specify this from the command line?</li>
+<li>much of Python’s functionality operates within Python packages or modules which enable you to do a number of useful tasks. In this tutorial we’ll focus on:
+<ul>
+<li><code>os</code>: operating system functions</li>
+<li><code>sys</code>: system functions</li>
+<li><code>re</code>: regular expressions</li>
+<li><code>argparse</code>/<code>optparse</code>: command-line argument parsers</li>
+<li><code>glob</code>: Unix-like file selectors (e.g. <code>*</code>, <code>?</code>, <code>[]</code>)</li>
+</ul></li>
+<li>these can be imported into your python script with the <code>import</code> command:</li>
+</ul>
+<pre><code>import sys</code></pre>
+<ul>
+<li>lets rewrite some of our examples step-by-step, this time parsing command line arguments in <a href="examples/python/basic_script.py">basic_script.py</a></li>
+</ul>
+<pre><code>#!/usr/bin/python
+
+# import python packages
+import sys
+
+# print the argument vector 
+print sys.argv</code></pre>
+<ul>
+<li>run this to inspect the contents of <code>sys.argv</code></li>
+</ul>
+<pre><code>python basic_script.py one two three four
+['basic_script.py', 'one', 'two', 'three', 'four']</code></pre>
+<p>*hey its the stuff from the command line:</p>
+<p>We’ll use it to open the file that we point it to and print out the lines:</p>
+<pre><code>#!/usr/bin/python
+
+# import python packages
+import sys
+
+# pull filename from the command-line arguments
+filename = sys.argv[1]
+
+# open the file 
+fh = open(filename, &quot;r&quot;)
+
+# read lines from file
+lines = fh.readlines()
+
+# iterate through each line and print out content
+for line in lines:
+    print line
+
+# close the file
+fh.close()</code></pre>
+<ul>
+<li>now we will run our basic script</li>
+</ul>
+<pre><code>python basic_script.py data/functional_and_taxonomic_table.txt</code></pre>
+</div>
+<div id="optparse-and-argparse" class="section level3">
+<h3><a href="https://docs.python.org/2/library/optparse.html">optparse</a> and <a href="https://docs.python.org/2/library/argparse.html#module-argparse">argparse</a></h3>
+<ul>
+<li><p>so normally there is a lot of code that makes sure your scripts look and work great (print help, explain what they do, what options they have, etc.), but fortuantely there are python packages <code>optparse</code> and <code>argparse</code> which will help you out here. We’ll stick with <a href="https://docs.python.org/2/library/optparse.html">optparse</a> because its older and I know it will work with everyone’s machine. However, <a href="https://docs.python.org/2/library/argparse.html#module-argparse">argparse</a> is better and I provide an example of using it here as well — but its only available in Python 2.7.x or better.</p></li>
+<li><p>here we have the <code>optparse</code> version of the script</p></li>
+</ul>
+<pre><code>#!/usr/bin/python
+
+# import libraries
+import sys # for argument vector
+import optparse # to parse arguments
+
+# describe what the script does
+what_i_do = &quot;A simple script for printing files&quot;
+usage = &quot;myscript.py -i &lt;input_file&gt;&quot;
+
+# initialize the parser
+parser = optparse.OptionParser(usage = usage, epilog = what_i_do)
+parser.add_option(&quot;-i&quot;, &quot;--input_file&quot;, dest=&quot;input_file&quot;, default=None,
+                   help='file to print out to the screen [Required]')
+
+# the main function of the script
+def main():
+    (opts, args) = parser.parse_args()
+    # opts is a dictionary that contains all the options
+    if not opts.input_file:
+        print &quot;Error: Input file not specified&quot;
+        print usage
+        exit()
+
+    # open the file 
+    fh = open(opts.input_file, &quot;r&quot;)
+
+    # read lines from file
+    lines = fh.readlines()
+
+    # iterate through each line and print out content
+    for line in lines:
+        print line
+    
+    # close the file
+    fh.close()
+
+if __name__ == &quot;__main__&quot;:
+    main()</code></pre>
+<ul>
+<li>when given the <code>-h</code> option this prints a little help message to the screen.</li>
+</ul>
+<pre><code>python myscript.py -h
+Usage: myscript.py -i &lt;input_file&gt;
+
+Options:
+  -h, --help            show this help message and exit
+  -i INPUT_FILE, --input_file=INPUT_FILE
+                        file to print out to the screen [Required]
+
+A simple script for printing files</code></pre>
+<pre><code>python myscript.py -i data/functional_and_taxonomic_table.txt</code></pre>
+<div id="list-of-useful-python-commandsstatements" class="section level4">
+<h4>List of Useful Python Commands/Statements</h4>
+<ul>
+<li><code>open()</code>: open a file for reading</li>
+<li><code>&lt;fh&gt;.readlines()</code>: reads all lines from an open file in filehandle</li>
+<li>`<fh>.close(): closes the file</li>
+<li><code>with open(&quot;file.txt&quot;, &quot;r&quot;) as file:</code>: opens a section to handle file, automatically closes file</li>
+<li><code>len()</code>: gets the length of a list object (like command line arguments or line values)</li>
+<li><code>sys.argv</code>: contains a list of all the command-line arguments from the script</li>
+</ul>
+</div>
 </div>
 </div>
 <div id="references" class="section level2">

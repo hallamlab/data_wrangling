@@ -18,22 +18,21 @@ Pourpose of this document is to summarize some basic data wrangling tasks that c
     * `TAB`: auto-completes directories and filenames
     * `CTRL + a`: brings you to the front of the command you are typing
     * `CTRL + e`: brings you to the end
-
 * setup the `META` key in Terminal to jump around commands by 'words' instead of spaces:
     * Terminal > Preferences
     * Click on the 'Keyboard' Tab
     * Check the 'Use option key as meta key' checkbox
-        * now you can jump around your command with
-        `OPTION + f`: move forward a word
-        `OPTION + b`: more backward a word
+    * now you can jump around your command with:
+        * `OPTION + f`: move forward a word
+        * `OPTION + b`: more backward a word
 * personally I think the defaults for the shell are too small for detailed work:
     * increase the font size
     * pick a good highlighting theme:
         * [TomorrowNight](examples/unix/TomorrowNight.terminal)
         * [SolarizedLight](examples/unix/SolarizedLight.terminal)
         * [SolarizedDark](examples/unix/SolarizedDark.terminal)
+        * [Monokai](examples/unix/Monokai.terminal)
     
-
 ## Unix Shell Commands: grep, awk, sed, and others
 
 Some very-simple first-pass analyses can be performed with common Unix commands. Although there are others, many analysis and sanity checking tasks can be accomplished by the following commands:
@@ -609,7 +608,12 @@ Now we are going to do a bit of basic Python scripting which has a lot more capa
     * pick a system and type `python` and its probably referring to some version of Python 2.6 or Python 2.7
     * sometime in the future we may have to [Dive Into Python 3](http://www.diveintopython3.net)
 
-* typing `python 
+* Python is a whole programming language to master, but for the pourposes of data wrangling we are going to focus on two things:
+    * basic file input output (File I/O)
+    * writing python scripts
+
+* typing `python` will start an 'interactive shell' and also tell you which python version you are running by default
+
 ```
 python
 Python 2.6.8 (unknown, Jan 23 2013, 20:19:53) 
@@ -620,10 +624,254 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 * this gets you to the python interactive shell which allows you try out some python commands
 * good to see if certain packages are installed or if you want to check it something works or behavies quickly
-* press
+* press `CTRL + c` to type `exit()` to return to the shell
+
+### Basic Script Setup
+
+* lets get outselves going with the basics by writing [hello_world.py]() :
+
+```
+#!/usr/bin/python
+
+print "Hello World!"
+```
+
+* and run the script as follows:
+
+```
+python hello_world.py 
+Hello World
+```
+
+* lets open a file and print all the lines to the screen:
+
+```
+# open the file
+file = open("data/functional_and_taxonomic_table.txt", "r")
+
+# read file lines into list
+lines = file.readlines()
+
+# iterate through each line and print to screen
+for line in lines:
+    print line
+
+# close the file
+file.close()
+```
+
+* there's actually an even more efficent way to do the loop that automatically closes the file
+
+```
+with open("data/functional_and_taxonomic_table.txt", "r") as file:
+    for line in file:
+        print line
+```
+
+* well that was fun, but its kind of annoying and error prone to have to specify the file in each way, if only there was some way to specify this from the command line?
+* much of Python's functionality operates within Python packages or modules which enable you to do a number of useful tasks. In this tutorial we'll focus on: 
+    * `os`: operating system functions
+    * `sys`: system functions
+    * `re`: regular expressions
+    * `argparse`/`optparse`: command-line argument parsers
+    * `glob`: Unix-like file selectors (e.g. `*`, `?`, `[]`)
+* these can be imported into your python script with the `import` command:
+
+```
+import sys
+```
+
+* lets rewrite some of our examples step-by-step, this time parsing command line arguments in [basic_script.py](examples/python/basic_script.py)
+
+```
+#!/usr/bin/python
+
+# import python packages
+import sys
+
+# print the argument vector 
+print sys.argv
+```
+
+* run this to inspect the contents of `sys.argv`
+
+```
+python basic_script.py one two three four
+['basic_script.py', 'one', 'two', 'three', 'four']
+```
+
+*hey its the stuff from the command line:
+
+We'll use it to open the file that we point it to and print out the lines:
+
+```
+#!/usr/bin/python
+
+# import python packages
+import sys
+
+# pull filename from the command-line arguments
+filename = sys.argv[1]
+
+# open the file 
+fh = open(filename, "r")
+
+# read lines from file
+lines = fh.readlines()
+
+# iterate through each line and print out content
+for line in lines:
+    print line
+
+# close the file
+fh.close()
+```
+
+* now we will run our basic script
+
+```
+python basic_script.py data/functional_and_taxonomic_table.txt
+```
+
+### Python Parsing Libraries: [optparse](https://docs.python.org/2/library/optparse.html) and [argparse](https://docs.python.org/2/library/argparse.html#module-argparse)
+
+* so normally there is a lot of code that makes sure your scripts look and work great (print help, explain what they do, what options they have, etc.), but fortuantely there are python packages `optparse` and `argparse` which will help you out here. We'll stick with [optparse](https://docs.python.org/2/library/optparse.html) because its older and I know it will work with everyone's machine. However, [argparse](https://docs.python.org/2/library/argparse.html#module-argparse) is better and I provide an example of using it here as well --- but its only available in Python 2.7.x or better.
+
+* here we have the `optparse` version of the script
+
+```
+#!/usr/bin/python
+
+# import libraries
+import sys # for argument vector
+import optparse # to parse arguments
+
+# describe what the script does
+what_i_do = "A simple script for printing files"
+usage = "myscript.py -i <input_file>"
+
+# initialize the parser
+parser = optparse.OptionParser(usage = usage, epilog = what_i_do)
+parser.add_option("-i", "--input_file", dest="input_file", default=None,
+                   help='file to print out to the screen [Required]')
+
+# the main function of the script
+def main():
+    (opts, args) = parser.parse_args()
+    # opts is a dictionary that contains all the options
+    if not opts.input_file:
+        print "Error: Input file not specified"
+        print usage
+        exit()
+
+    # open the file 
+    fh = open(opts.input_file, "r")
+
+    # read lines from file
+    lines = fh.readlines()
+
+    # iterate through each line and print out content
+    for line in lines:
+        print line
+    
+    # close the file
+    fh.close()
+
+if __name__ == "__main__":
+    main()
+```
 
 
-### Examples
+* when given the `-h` option this prints a little help message to the screen.
+
+```
+python myscript.py -h
+Usage: myscript.py -i <input_file>
+
+Options:
+  -h, --help            show this help message and exit
+  -i INPUT_FILE, --input_file=INPUT_FILE
+                        file to print out to the screen [Required]
+
+A simple script for printing files
+```
+
+* and now the script will have some familiar useage to people
+
+```
+python myscript.py -i data/functional_and_taxonomic_table.txt
+```
+
+* here's the argparse version (use it if you can) which can be found in [myscript2.py](examples/python/myscript2.py):
+
+```
+#!/usr/bin/python
+
+# import libraries
+import sys # for argument vector
+import argparse # to parse arguments
+
+# describe what the script does
+what_i_do = "A simple script for printing files"
+
+# initialize the parser
+parser = argparse.ArgumentParser(description=what_i_do)
+parser.add_argument("-i", "--input_file", type=str, dest="input_file", default=None,
+                   required=True, nargs=1, help='file to print out to the screen [Required]')
+
+# the main function of the script
+def main():
+    args = vars(parser.parse_args())
+    # args is a dictionary that contains all the options
+    
+    # open the input_file 
+    fh = open(args["input_file"], "r")
+
+    # read lines from file
+    lines = fh.readlines()
+
+    # iterate through each line and print out content
+    for line in lines:
+        print line
+
+    # close the file
+    fh.close()
+
+if __name__ == "__main__":
+    main()
+
+```
+
+* a good thing is that it does useage
+
+```
+python2.7 myscript2.py 
+usage: myscript2.py [-h] -i [INPUT_FILE]
+myscript2.py: error: argument -i/--input_file is required
+```
+
+* and error checking
+
+```
+python2.7 myscript2.py -i
+usage: myscript2.py [-h] -i INPUT_FILE
+myscript2.py: error: argument -i/--input_file: expected 1 argument(s)
+```
+
+
+#### List of Useful Python Commands/Statements
+
+* `open()`: open a file for reading
+* `<fh>.readlines()`: reads all lines from an open file in filehandle
+* `<fh>.close(): closes the file
+* `with open("file.txt", "r") as file:`: opens a section to handle file, automatically closes file
+* `len()`: gets the length of a list object (like command line arguments or line values)
+* `sys.argv`: contains a list of all the command-line arguments from the script
+
+
+
+
+
 
 
 
