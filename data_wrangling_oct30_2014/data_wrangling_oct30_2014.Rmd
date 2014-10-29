@@ -61,7 +61,7 @@ Lets discuss some advantages and disadvantages and when these commands (by thems
 
 ### Examples
 
-Lets go through an number of examples where I personally use these in the lab.
+Lets go through an number of examples.
 
 * if you're following along in the terminal, change directory `cd` to the `examples/unix_commands/` directory
 
@@ -220,7 +220,7 @@ grep -n '>*b1' fastas/GUAB.fasta
 * if the fasta file format is well-formatted (contains the sequence only on one line after matching header), then you can use the 'after' `-A` flag to print a number of lines after the match.
     * *Note: there are also 'before' `-B` and 'context' `-C` flags that print out lines before the match and on both sides, respectively.* 
     * here we use it to get the sequence along with header patterns that end in `.b1`, because we know that it is the first line below in a well-formatted `.fasta` file
-        * *Note: this won't work for fasta files where the sequence in on multiple lines
+        * *Note: this won't work for fasta files where the sequence in on multiple lines*
 
 ```
 grep -A 1  '>*b1' fastas/GUAB.fasta
@@ -859,15 +859,108 @@ myscript2.py: error: argument -i/--input_file: expected 1 argument(s)
 
 ### Parsing File Lines
 
+* Now that we have setup our script, we can now start handling your file line-by-line.
+* We'll look at a few function here to help you:
+    * `split()` -  split a line into pieces by a character
+    * `strip()` - clears whitespace at the end of a line
+
+* isolating our `for` loop
+
+```
+for line in lines:
+        # split fields by tab
+        fields = line.split("\t")
+        
+        # strip whitespace from the ends of fields
+        for i in range(len(fields)):
+            fields[i] = fields[i].strip()
+```
+
+* take a look at what split does
+
+```
+python myscript2.py -i data/functional_and_taxonomic_table.txt
+data/functional_and_taxonomic_table.txt
+['ORF_ID', 'ORF_length', 'start', 'end', 'Contig_Name', 'Contig_length', 'strand', 'ec', 'taxonomy', 'product\n']
+```
+
+* looks like we have a tailing `\n` on the last field, so we'll remove it with `strip("\n")`
+
+```
+# do some cleanup
+for i in range(len(fields)):
+    fields[i] = fields[i].strip()
+    fields[i] = fields[i].strip("\n") # strip tailing \n
+```
+
+* looks like we fixed the problem
+
+```
+python myscript2.py -i data/functional_and_taxonomic_table.txt | head
+data/functional_and_taxonomic_table.txt
+['ORF_ID', 'ORF_length', 'start', 'end', 'Contig_Name', 'Contig_length', 'strand', 'ec', 'taxonomy', 'product']
+```
+
+#### Python Lists and Dictionaries
+
+* two need-to-know data structures in python are the list and the dict or dictionary, and they are invaluable when wrangling a dataset
+* both lists and dictionaries are *iteratable* which means that they can be used in for loops to pass through the elements and print them to the screen
+
+##### Lists
+
+We have already been exposed to lists, when we use `readlines()` to get the lines from a file, it gives us a list where each item in the list is a text line.
+
+* They are declared with the square brackets`[]`
+* Two common ways to iterate through a list:
+
+```
+# declare list
+mylist = ['one', 'two', 'three', 'four']
+
+# iterate by item
+for item in mylist:
+    print item
+
+# iterate by index
+for i in range(len(mylist)):
+    print mylist[i]
+```
+
+* You can also check for membership in a list with the `in` operator (though this is slower than using a dictionary):
+
+```
+# check for membership
+if 'three' in mylist:
+    print "In the list!"
+```
+
+* Items can be added to a list by using the `append()` function. For instance, say I wanted to create a list of a particular column of the matrix.
+
 ```
 
 ```
+
+##### Dictionaries
+
+* essentially a sophisticated *hash table*
+* a dictionary creates a one-to-one mapping between at set of *keys* and a set of *values*
+* it allows for very fast ('amortized constant time') item lookup
+
+```
+
+```
+
+
 
 ### Parsing a fasta file
 
 ```
 
 ```
+
+
+
+
 
 #### List of Useful Python Commands/Statements
 
@@ -893,15 +986,18 @@ Some extra references for more information:
 
 ### `grep`
 
-*
+* [Grep Tutorial](http://www.panix.com/~elflord/unix/grep.html)
 
 ### `sed`
 
 * https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux
+* http://www.panix.com/~elflord/unix/sed.html
+* [10 examples to replace / delete / print lines of CSV file](http://www.theunixschool.com/2013/02/sed-examples-replace-delete-print-lines-csv-files.html?m=1)
 
 ### `awk`
 
 * https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux
+* [An AWK Primer](http://www.vectorsite.net/tsawk.html)
 
 ### Shell Scripting
 
@@ -909,4 +1005,8 @@ Some extra references for more information:
 
 ### Python
 
-* [Python Code Academy](http://www.codecademy.com/en/tracks/python): 
+* [Python Code Academy](http://www.codecademy.com/en/tracks/python)
+
+### Regular Expressions
+
+* [regular-expressions.info](http://www.regular-expressions.info/)

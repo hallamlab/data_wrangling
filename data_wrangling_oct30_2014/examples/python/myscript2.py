@@ -17,15 +17,25 @@ def main():
     args = vars(parser.parse_args())
     # args is a dictionary that contains all the options
     
-    # open the input_file 
-    fh = open(args["input_file"], "r")
+    print args["input_file"][0]
+    
+    # open the input_file *
+    fh = open(args["input_file"][0], "r")
 
     # read lines from file
     lines = fh.readlines()
 
     # iterate through each line and print out content
     for line in lines:
-        print line
+        # split fields by tab
+        fields = line.split("\t")
+        
+        # do some cleanup
+        for i in range(len(fields)):
+            fields[i] = fields[i].strip()
+            fields[i] = fields[i].strip("\n") # strip tailing \n
+        
+        
 
     # close the file
     fh.close()
