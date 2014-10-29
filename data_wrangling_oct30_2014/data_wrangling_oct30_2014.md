@@ -14,7 +14,16 @@ Pourpose of this document is to summarize some basic data wrangling tasks that c
 * setup the `META` key in Terminal to jump around commands by 'words' instead of spaces:
     * Terminal > Preferences
     * Click on the 'Keyboard' Tab
-    *
+    * Check the 'Use option key as meta key' checkbox
+        * now you can jump around your command with
+        `OPTION + f`: move forward a word
+        `OPTION + b`: more backward a word
+* personally I think the defaults for the shell are too small for detailed work:
+    * increase the font size
+    * pick a good highlighting theme:
+        * [TomorrowNight](examples/unix/TomorrowNight.terminal)
+        * [SolarizedLight](examples/unix/SolarizedLight.terminal)
+        * [SolarizedDark](examples/unix/SolarizedDark.terminal)
     
 
 ## Unix Shell Commands: grep, awk, sed, and others
@@ -50,7 +59,7 @@ Lets go through an number of examples where I personally use these in the lab.
 * if you're following along in the terminal, change directory `cd` to the `examples/unix_commands/` directory
 
 ```
-cd examples/unix_commands/
+cd examples/unix/
 ```
 
 #### grep
@@ -601,7 +610,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
 
-* this gets you to the python interactive shell which allows you 
+* this gets you to the python interactive shell which allows you try out some python commands
+* good to see if certain packages are installed or if you want to check it something works or behavies quickly
+* press
+
 
 ### Examples
 
