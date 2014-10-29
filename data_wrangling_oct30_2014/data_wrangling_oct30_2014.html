@@ -77,7 +77,7 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <li><a href="#unix-shell-scripting">Unix Shell Scripting</a></li>
 <li><a href="#basic-python-scripting">Basic Python Scripting</a><ul>
 <li><a href="#basic-script-setup">Basic Script Setup</a></li>
-<li><a href="#optparse-and-argparse"><a href="https://docs.python.org/2/library/optparse.html">optparse</a> and <a href="https://docs.python.org/2/library/argparse.html#module-argparse">argparse</a></a><ul>
+<li><a href="#python-parsing-libraries-optparse-and-argparse">Python Parsing Libraries: <a href="https://docs.python.org/2/library/optparse.html">optparse</a> and <a href="https://docs.python.org/2/library/argparse.html#module-argparse">argparse</a></a><ul>
 <li><a href="#list-of-useful-python-commandsstatements">List of Useful Python Commands/Statements</a></li>
 </ul></li>
 </ul></li>
@@ -752,8 +752,8 @@ fh.close()</code></pre>
 </ul>
 <pre><code>python basic_script.py data/functional_and_taxonomic_table.txt</code></pre>
 </div>
-<div id="optparse-and-argparse" class="section level3">
-<h3><a href="https://docs.python.org/2/library/optparse.html">optparse</a> and <a href="https://docs.python.org/2/library/argparse.html#module-argparse">argparse</a></h3>
+<div id="python-parsing-libraries-optparse-and-argparse" class="section level3">
+<h3>Python Parsing Libraries: <a href="https://docs.python.org/2/library/optparse.html">optparse</a> and <a href="https://docs.python.org/2/library/argparse.html#module-argparse">argparse</a></h3>
 <ul>
 <li><p>so normally there is a lot of code that makes sure your scripts look and work great (print help, explain what they do, what options they have, etc.), but fortuantely there are python packages <code>optparse</code> and <code>argparse</code> which will help you out here. We’ll stick with <a href="https://docs.python.org/2/library/optparse.html">optparse</a> because its older and I know it will work with everyone’s machine. However, <a href="https://docs.python.org/2/library/argparse.html#module-argparse">argparse</a> is better and I provide an example of using it here as well — but its only available in Python 2.7.x or better.</p></li>
 <li><p>here we have the <code>optparse</code> version of the script</p></li>
@@ -809,7 +809,59 @@ Options:
                         file to print out to the screen [Required]
 
 A simple script for printing files</code></pre>
+<ul>
+<li>and now the script will have some familiar useage to people</li>
+</ul>
 <pre><code>python myscript.py -i data/functional_and_taxonomic_table.txt</code></pre>
+<ul>
+<li>here’s the argparse version (use it if you can) which can be found in <a href="examples/python/myscript2.py">myscript2.py</a>:</li>
+</ul>
+<pre><code>#!/usr/bin/python
+
+# import libraries
+import sys # for argument vector
+import argparse # to parse arguments
+
+# describe what the script does
+what_i_do = &quot;A simple script for printing files&quot;
+
+# initialize the parser
+parser = argparse.ArgumentParser(description=what_i_do)
+parser.add_argument(&quot;-i&quot;, &quot;--input_file&quot;, type=str, dest=&quot;input_file&quot;, default=None,
+                   required=True, nargs=1, help='file to print out to the screen [Required]')
+
+# the main function of the script
+def main():
+    args = vars(parser.parse_args())
+    # args is a dictionary that contains all the options
+    
+    # open the input_file 
+    fh = open(args[&quot;input_file&quot;], &quot;r&quot;)
+
+    # read lines from file
+    lines = fh.readlines()
+
+    # iterate through each line and print out content
+    for line in lines:
+        print line
+
+    # close the file
+    fh.close()
+
+if __name__ == &quot;__main__&quot;:
+    main()</code></pre>
+<ul>
+<li>a good thing is that it does useage</li>
+</ul>
+<pre><code>python2.7 myscript2.py 
+usage: myscript2.py [-h] -i [INPUT_FILE]
+myscript2.py: error: argument -i/--input_file is required</code></pre>
+<ul>
+<li>and error checking</li>
+</ul>
+<pre><code>python2.7 myscript2.py -i
+usage: myscript2.py [-h] -i INPUT_FILE
+myscript2.py: error: argument -i/--input_file: expected 1 argument(s)</code></pre>
 <div id="list-of-useful-python-commandsstatements" class="section level4">
 <h4>List of Useful Python Commands/Statements</h4>
 <ul>

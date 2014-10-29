@@ -839,7 +839,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 ```
 
 * a good thing is that it does useage
@@ -858,12 +857,23 @@ usage: myscript2.py [-h] -i INPUT_FILE
 myscript2.py: error: argument -i/--input_file: expected 1 argument(s)
 ```
 
+### Parsing File Lines
+
+```
+
+```
+
+### Parsing a fasta file
+
+```
+
+```
 
 #### List of Useful Python Commands/Statements
 
 * `open()`: open a file for reading
 * `<fh>.readlines()`: reads all lines from an open file in filehandle
-* `<fh>.close(): closes the file
+* `<fh>.close()`: closes the file
 * `with open("file.txt", "r") as file:`: opens a section to handle file, automatically closes file
 * `len()`: gets the length of a list object (like command line arguments or line values)
 * `sys.argv`: contains a list of all the command-line arguments from the script

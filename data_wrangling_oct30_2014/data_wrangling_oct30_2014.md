@@ -725,7 +725,7 @@ fh.close()
 python basic_script.py data/functional_and_taxonomic_table.txt
 ```
 
-### [optparse](https://docs.python.org/2/library/optparse.html) and [argparse](https://docs.python.org/2/library/argparse.html#module-argparse)
+### Python Parsing Libraries: [optparse](https://docs.python.org/2/library/optparse.html) and [argparse](https://docs.python.org/2/library/argparse.html#module-argparse)
 
 * so normally there is a lot of code that makes sure your scripts look and work great (print help, explain what they do, what options they have, etc.), but fortuantely there are python packages `optparse` and `argparse` which will help you out here. We'll stick with [optparse](https://docs.python.org/2/library/optparse.html) because its older and I know it will work with everyone's machine. However, [argparse](https://docs.python.org/2/library/argparse.html#module-argparse) is better and I provide an example of using it here as well --- but its only available in Python 2.7.x or better.
 
@@ -788,10 +788,67 @@ Options:
 A simple script for printing files
 ```
 
+* and now the script will have some familiar useage to people
 
 ```
 python myscript.py -i data/functional_and_taxonomic_table.txt
 ```
+
+* here's the argparse version (use it if you can) which can be found in [myscript2.py](examples/python/myscript2.py):
+
+```
+#!/usr/bin/python
+
+# import libraries
+import sys # for argument vector
+import argparse # to parse arguments
+
+# describe what the script does
+what_i_do = "A simple script for printing files"
+
+# initialize the parser
+parser = argparse.ArgumentParser(description=what_i_do)
+parser.add_argument("-i", "--input_file", type=str, dest="input_file", default=None,
+                   required=True, nargs=1, help='file to print out to the screen [Required]')
+
+# the main function of the script
+def main():
+    args = vars(parser.parse_args())
+    # args is a dictionary that contains all the options
+    
+    # open the input_file 
+    fh = open(args["input_file"], "r")
+
+    # read lines from file
+    lines = fh.readlines()
+
+    # iterate through each line and print out content
+    for line in lines:
+        print line
+
+    # close the file
+    fh.close()
+
+if __name__ == "__main__":
+    main()
+```
+
+* a good thing is that it does useage
+
+```
+python2.7 myscript2.py 
+usage: myscript2.py [-h] -i [INPUT_FILE]
+myscript2.py: error: argument -i/--input_file is required
+```
+
+* and error checking
+
+```
+python2.7 myscript2.py -i
+usage: myscript2.py [-h] -i INPUT_FILE
+myscript2.py: error: argument -i/--input_file: expected 1 argument(s)
+```
+
 
 #### List of Useful Python Commands/Statements
 
