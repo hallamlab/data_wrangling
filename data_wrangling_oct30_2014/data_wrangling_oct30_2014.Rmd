@@ -7,10 +7,18 @@ output:
     keep_md: yes
     theme: readable
     toc: yes
-    toc_depth: 4
 ---
 
 Pourpose of this document is to summarize some basic data wrangling tasks that commonly occuring with metagenomic datasets in the Hallam Lab.
+
+## Obtaining the GitHub Repo:
+
+* download the repo by clicking the 'Download as Zip' on the [main page](www.github.com/hallamlab/data_wrangling)
+* or by doing a `git clone` from the command line if git is installed
+
+```
+git clone https://github.com/hallamlab/data_wrangling.git
+```
 
 ## Basic Unix Tips
 
@@ -113,7 +121,7 @@ fastas/TOLDC_Feb22_2011_trimmed.fasta:3072
 * but, if we were only interested in the `fasta` files use the `--include '.fasta'` option
 
 ```
-grep -c -r --include *.fasta* '>' *
+grep -c -r --include '*.fasta*' '>' *
 fastas/GUAB.fasta:9948
 fastas/GUAC.fasta:8850
 fastas/INX043_RawGSCdata_min2000.fasta.NR00314_J24.fasta:1
@@ -130,7 +138,7 @@ fastas/TOLDC_Feb22_2011_trimmed.fasta:3072
    * use the anycharacter glob (`*`) to select text on both sides
 
 ```
-grep -c -r --include *INX043*.fasta* '>' *
+grep -c -r --include '*INX043*.fasta*' '>' *
 fastas/INX043_RawGSCdata_min2000.fasta.NR00314_J24.fasta:1
 fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NO00111_F15.fasta:1
 fastas/sub_dir1/INX043_RawGSCdata_min2000.fasta.NO00111_J19.fasta:1
@@ -160,7 +168,7 @@ command_list.sh:6
 fastas/.DS_Store:0
 ```
 
-##### Asside: Unix globs
+##### Unix globs
 
 * Note that there is quite a bit of power to these Unix 'glob' operators:
     * `*`: means any number of characters
@@ -178,8 +186,26 @@ fastas/.DS_Store:0
     * this is very important when writing critical commands like 'move' (`mv`) or 'remove' (`rm`)
         * everyone eventually burns themselves, its a fact of life while working on with the Unix command line
 * *Note: Unix globs are not as sophisicated as full blown Perl or grep-based regular expressions. They don't have a complete feature set. Some things just can not be done with command line globs*
+* To enable interpreting of regular expression in `grep` use the `-E` option
 
-#### `grep` (con't)
+##### Regular Expressions
+
+* Regular expressions are a model of text patterns and allow you to match much more complicated strings. They are much more advanced than Unix Globs, but look very simmilar. A fact which can mess you up.
+* Operators:
+    * `.`: Any character except end-of-line (`\n`)
+    * `[A-z0-9]`: Any alpha-numeric character
+        * [!abc]` or `[^a-c]`: negation of set (i.e., anything but abc) 
+    * `\w`: any word
+    * `\W`: any non-word
+    * `^`: beginning of line
+    * `$`: end of line
+* Operations:
+    * `()`: group selection - anything you want to get at later
+    * `*`: **zero or more** of the previous pattern
+    * `+`: **one or more** of the previous pattern
+    * `?`: **zero or one** of the previous pattern
+
+#### grep (con't)
 
 * use glob patterns and to count the number of lines that match `Pseudomonas` in the Hawaii-ocean Time Series RefSeq LAST output (truncated data to fit on GitHub).
 
@@ -239,9 +265,15 @@ CTGGGTGGCAGCGGTGTAGAGAAAATAGTTGAACTTTCGCTTTTGCCAGATGAAAAAGTGGCATTCAATAAAAGTATCGA
 grep -A 1  '>*b1' fastas/GUAB.fasta > my_fasta.fasta
 ```
 
+* we can also append all the `g1` sequences to an existing file with `>>`
+
+```
+grep -A 1  '>*g1' fastas/GUAB.fasta >> my_fasta.fasta
+```
+
 * *Note: this isn't totally correct, because `grep` puts `--` characters between matches, which could cause fasta parsers to choke on the input. Solving this problem actually takes us into our next section which is on the Uinx 'Sequence Editor' program `sed`*
 
-#### `Sed`
+#### Sed
 
 `Sed`, or the stream editor program is used to do precicely that, edit a stream of text. So this can be used to modify a string of text, usually using **regular expresisons**:
 
@@ -276,7 +308,26 @@ echo -c '>' fastas/*.fasta
 echo ">" -c -r *
 ```
 
-* we already have a useful example, when we printed out those bacterial counts before all the filenames made it hard to read the output, lets see if we can correct that with `sed`
+* lets correct our fasta file we create by removing those `--` characters:
+
+```
+grep -A 1  '>*b1' fastas/GUAB.fasta | sed 's/\-\-//'g > my_fasta.fasta
+grep -A 1  '>*g1' fastas/GUAB.fasta | sed 's/\-\-//'g >> my_fasta.fasta
+```
+
+* alternatively use the `<` character to feed `my_fasta.fasta` into `sed` as input
+
+```
+sed < my_fasta.fasta 's/\-\-//'g > my_fasta_clean.fasta
+```
+
+* which is simmilar to using `cat` to do this
+
+```
+cat my_fasta.fasta | sed 's/\-\-//'g > my_fasta_clean.fasta
+```
+
+* when we printed out those bacterial counts before all the filenames made it hard to read the output, lets see if we can correct that now
 
 ```
 grep -c 'Pseudomonas' HOT_fosmids_small/*/blast_results/*RefSeq*.LASTout.parsed.txt | sed 's/HOT_fosmids_small.*blast_results\///'
@@ -340,7 +391,7 @@ one two three four
 
 * Match a negation with `!` or `^` at the start: `[!abc]` `[^a-c]`
 
-#### `awk`
+#### awk
 
 Where `sed` was a text replacer, `awk` is more of a text modifier, and in particular is works with tabular data. It can be used to modify files, manipulate columns, or to convert from one tabular file format to another.
 
@@ -365,7 +416,7 @@ below_euphotic_200m_7271_0    302	2	304	below_euphotic_200m_7271	616	-		all	hypo
     * here the column needs to contain the word `proteo` in an effort to find all the *proteobacteria*
 
 ```
-awk '/proteo/ {print $1,"\t",$2, "\t", $3;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+awk '/proteo/ {print $1,"\t", $2, "\t", $3;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
 ```
 
 * note that the whole line can be printed with `$0`
@@ -377,7 +428,7 @@ awk '/proteo/ {print $0;}' HOT_fosmids_small/below_euphotic_200m/results/annotat
 * and we can create our own personal file with a custom column order
 
 ```
-awk '/proteo/ {print $1,"\t",$2, "\t", $3;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
+awk '/proteo/ {print $3,"\t", $2, "\t", $1 ;}' HOT_fosmids_small/below_euphotic_200m/results/annotation_table/functional_and_taxonomic_table.txt
 ```
 
 * By default the field seperator character `FS` is set to whitespace, but the field character can be specified explicity
@@ -491,7 +542,7 @@ done
 ```
 for file in *fasta.backup
 do
-    echo mv $file ${file%.backup}
+    mv $file ${file%.backup}
 done
 ```
 
