@@ -1,0 +1,172 @@
+Taxa	Count
+all	1331
+"Gordona (sic)" Tsukamura et al. 1970	1
+Polaromonas	1
+SAR324 cluster bacterium JCVI-SC AAA005	15
+Janthinobacterium lividum PAMC 25724	1
+taxonomy	1
+"Bacillus aeruginosus" (Schroeter 1872) Trevisan 1885	1
+"Candidatus Pelagibacter" Rappe et al. 2002	3
+Ancona	1
+gamma proteobacterium HTCC2207	1
+Leptolyngbya PCC7375	1
+Vitis vinifera	1
+alpha proteobacterium BAL199	2
+SAR 116 cluster alpha proteobacterium HIMB100	7
+Thermoplasmales	2
+Rhodospirillaceae	2
+Verrucomicrobia bacterium SCGC AAA168-F10	3
+Pseudomonas aeruginosa group	3
+'Nitrospiraceae'	1
+Rhizobiaceae	2
+Clostridiales	1
+Acinetobacteraceae	1
+"Bacillus solanacearum" Smith 1896	1
+Enterobacteraceae	1
+Pirellula staleyi ATCC 27377	1
+Cupriavidus necator N-1	3
+'Phyllobacteriaceae'	1
+marine gamma proteobacterium HTCC2080	4
+Alteromonadaceae	5
+"Cystobacterineae" Reichenbach and Dworkin 1981	1
+Verrucomicrobium spinosum ATCC 43997	1
+Propionibacterineae	1
+'Methanomicrobia'	1
+Chroococcus sp. SAG 6.82	1
+Bradyrhizobium elkanii 587	1
+Gammaproteobacteria	43
+"Microspira" Schroeter 1886	2
+'Thermoanaerobacterales'	1
+Verrucomicrobia bacterium SCGC AAA164-O14	1
+Mesorhizobium australicum LMG 24608	1
+Cyanobacteria	29
+Ruegeria	1
+biota	5
+Xanthomonadales	1
+Xenococcus ATCC29373	1
+Bordetella	1
+'Betaproteobacteria'	5
+"Gonococcus" Lindau 1898	1
+Neisseriaceae	1
+"Chlorobacterium" Guillebeau 1890, nom. rejic. Opin. 6 (not "Chlorobacterium" Lauterborn 1916)	6
+Novosphingobium	1
+ATCC BAA-863	1
+Mesangiospermae	1
+Cupravidus	1
+Zavarzinella formosa DSM 19928	2
+Bacilli	1
+Rubrobacteridae	1
+Congregibacter litoralis KT71	1
+Pseudomonaceae/Moraxellaceae group	2
+Candidatus Puniceispirillum marinum IMCC1322	7
+Oceanibaculum indicum P24	1
+"Euryarchaeota" Woese et al. 1990	4
+Oceanicola sp. S124	1
+Acetobacteraceae bacterium AT-5844	1
+Bacillales	3
+Marinobacter	1
+Acidobacteria	1
+DSM 9799	1
+SAR324 cluster bacterium SCGC AAA001-C10	2
+Chloroflexi	1
+Idiomarina sp. A28L	1
+Haliangium ochraceum DSM 14365	1
+Thalassospira profundimaris WP0211	1
+"Archaea" Woese et al. 1990	1
+alpha proteobacterium HIMB5	1
+Marinobacterium stanieri S30	1
+'Desulfobacterales'	1
+alpha proteobacterium HIMB59	1
+Alcaligenaceae	1
+Bacillus	1
+Flavobacteriaceae	6
+Candidatus Pelagibacter sp. HTCC7211	5
+Agromonas	3
+Cellvibrio sp. BR	2
+Photobacterium sp. AK15	1
+gamma proteobacterium HIMB30	2
+Vibrionaceae	2
+Pusillimonas sp. T7-7	1
+Salinisphaera shabanensis E1L3A	1
+SAR324 cluster bacterium SCGC AAA240-J09	1
+Hahella chejuensis KCTC 2396	1
+Verrucomicrobia	6
+Porphyromonas gingivalis TDC60	1
+"Alphabacteria" Cavalier-Smith 1992	52
+Holophaga foetida DSM 6591	1
+Actinomycetales	8
+Prochlorococcus marinus str. AS9601	2
+CCMP 1375	18
+sulfur-oxidizing symbionts	1
+Reyranella massiliensis 521	1
+Coraliomargarita akajimensis DSM 45221	5
+Bradyrhizobium japonicum USDA 6	3
+'Burkholderiales'	5
+'Rhodocyclaceae'	1
+unclassified Flavobacteria	1
+DSM 20745	1
+SAR86 cluster	4
+Candidatus Pelagibacter sp. IMCC9063	7
+Proteobacteria	91
+Lentisphaera araneosa HTCC2155	1
+Chlorobionta	1
+Thermococcaceae	1
+OM60 clade	2
+Marinobacter manganoxydans MnI7-9	2
+"Sporovibrio" Starkey 1938	2
+Pseudomonas fluorescens group	4
+Brachypodium distachyon	1
+Synechococcus sp. CC9605	4
+Verrucomicrobia bacterium SCGC AAA164-L15	1
+'Rhodobacteraceae'	18
+Burkholderia	1
+Hyphomicrobiales	5
+'Bradyrhizobiaceae'	1
+ATCC BAA-1392	1
+gamma proteobacterium HIMB55	10
+ATCC 27126	2
+Plesiocystis pacifica SIR-1	1
+Azospirillum amazonense ATCC 35120	2
+Blastopirellula marina DSM 3645	1
+"Deltabacteria" Cavalier-Smith 1992	1
+"Dehalococcoidetes" Hugenholtz and Stackebrandt 2004	1
+Myxobacteria	1
+ATCC 29591	1
+unclassified Verrucomicrobia (miscellaneous)	4
+Cupriavidus basilensis	1
+Magnetococcus marinus MC-1	1
+unclassified Gammaproteobacteria (miscellaneous)	1
+Clostridium	1
+Brucella	2
+Rhodospirillum	1
+"Mycobacterium balnei" Linell and Norden 1952	1
+"Frankiella" Maire and Tison 1909	1
+Cupriavidus sp. BIS7	1
+'Campylobacterales'	1
+"Planctomycetaceae" Schlesner and Stackebrandt 1987 emend. Ward 2011	3
+Bacillus/Clostridium group	3
+Rhodospirillales	6
+Schlesneria paludicola DSM 18645	1
+SAR86 cluster bacterium SAR86E	1
+SAR86 cluster bacterium SAR86C	2
+SAR 11 cluster	3
+unclassified Gammaproteobacteria	1
+Hyphomonas neptunium ATCC 15444	1
+"Microstreptospora" Yan et al.	1
+Trichoplax adhaerens	1
+BCF group	2
+Phaeobacter gallaeciensis ANG1	5
+"Candidatus Pelagibacter ubique" Rappe et al. 2002	1
+Candidatus Pelagibacter ubique HTCC1002	2
+SAR324 cluster	1
+Planctomyces maris DSM 8797	1
+Anacystis	1
+Prochlorococcus marinus str. MIT 9515	1
+Bacteria	92
+Alteromonadaceae group	1
+unclassified Alphaproteobacteria	1
+Pasteurellaceae	1
+Gammaproteobacteria sp. HTCC2143	3
+Chthoniobacter flavus Ellin514	2
+Prochlorococcus	1
+"Bacillus fluorescens liquefaciens" Flugge 1886	2

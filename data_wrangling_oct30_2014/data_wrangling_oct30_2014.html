@@ -77,16 +77,20 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <li><a href="#unix-shell-scripting">Unix Shell Scripting</a></li>
 <li><a href="#basic-python-scripting">Basic Python Scripting</a><ul>
 <li><a href="#basic-script-setup">Basic Script Setup</a></li>
-<li><a href="#python-parsing-libraries-optparse-and-argparse">Python Parsing Libraries: <a href="https://docs.python.org/2/library/optparse.html">optparse</a> and <a href="https://docs.python.org/2/library/argparse.html#module-argparse">argparse</a></a><ul>
+<li><a href="#python-parsing-libraries-optparse-and-argparse">Python Parsing Libraries: <a href="https://docs.python.org/2/library/optparse.html">optparse</a> and <a href="https://docs.python.org/2/library/argparse.html#module-argparse">argparse</a></a></li>
+<li><a href="#parsing-file-lines">Parsing File Lines</a><ul>
+<li><a href="#python-lists-and-dictionaries">Python Lists and Dictionaries</a></li>
+<li><a href="#python-challenges">Python Challenges</a></li>
 <li><a href="#list-of-useful-python-commandsstatements">List of Useful Python Commands/Statements</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#references">References</a><ul>
-<li><a href="#grep-1"><code>grep</code></a></li>
-<li><a href="#sed-1"><code>sed</code></a></li>
-<li><a href="#awk-1"><code>awk</code></a></li>
+<li><a href="#grep-1">grep</a></li>
+<li><a href="#sed-1">sed</a></li>
+<li><a href="#awk-1">awk</a></li>
 <li><a href="#shell-scripting">Shell Scripting</a></li>
 <li><a href="#python">Python</a></li>
+<li><a href="#regular-expressions">Regular Expressions</a></li>
 </ul></li>
 </ul>
 </div>
@@ -157,7 +161,7 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 </div>
 <div id="examples" class="section level3">
 <h3>Examples</h3>
-<p>Lets go through an number of examples where I personally use these in the lab.</p>
+<p>Lets go through an number of examples.</p>
 <ul>
 <li>if you’re following along in the terminal, change directory <code>cd</code> to the <code>examples/unix_commands/</code> directory</li>
 </ul>
@@ -314,11 +318,11 @@ HOT_fosmids_small/uppermesopelagic_500m/blast_results/uppermesopelagic_500m.RefS
 <li><em>Note: there are also ‘before’ <code>-B</code> and ‘context’ <code>-C</code> flags that print out lines before the match and on both sides, respectively.</em></li>
 <li>here we use it to get the sequence along with header patterns that end in <code>.b1</code>, because we know that it is the first line below in a well-formatted <code>.fasta</code> file
 <ul>
-<li>*Note: this won’t work for fasta files where the sequence in on multiple lines</li>
+<li><em>Note: this won’t work for fasta files where the sequence in on multiple lines</em></li>
 </ul></li>
 </ul></li>
 </ul>
-<pre><code>grep -A 1  '&gt;*b1' fastas/GUAB.fasta
+<pre><code>grep -A 1 '&gt;*b1' fastas/GUAB.fasta
 &gt;GUAB5590.b1
 ATCGAGTGTGTTCTTTTGCGCGATGGTATTCGACGTACCGTTTGCATTTCATCACAAGTCGGCTGTGCAATGGGGTGTGTATTCTGTGCAAGCGGTCTTGATGGAGTTATCCGAAATTTGACAACCGGTGAGATCATCGAGCAGTTATTACGACTCACTCGTTTACTCCCAACAGAAGAACGACTAAGTCATATTGTTGTCATGGGAATGGGTGAACCACTAGCAAACCTCGATCGTTTATTACCTGCTCTTGCAATCGCACAAAGTCCTGAGGGACTTGGTATATCTCAACGACGAATCACTATTTCAACTGTCGGGTTGCCATCGGCAATTGATCGGCTGTGTCAAGAAAATCCTGGATATCATCTTGCCGTATCACTCCATGCCGCTGACGATCCACTCCGAACAAAACTCGTTCCAGTCAATAAGTCGATCGGAGTTCATGCCATTTTAGCCGCAGCTGACCGATACTGGGAAACATCTGGCCGACGACTTACTTTCGAATATGTCTTACTCGGAAATCTTAATGATTCTCCAGATCATGCCCGTTCGTTAGCTCGGTTTATCGGCAAACGTGCAGCGCTCGTAAACATTATTCCGTACAACACAGTCGATGGCCTACCGTGGGAAGAGCCTACTGACATTTCTCGTGAACGATTTCTTGATGTCCTTTCGAATGCTGGCGTGAATGTTCAGACTCGAAAAAGGAG
 --
@@ -628,7 +632,7 @@ chmod u+x command_list.sh
 <li><code>-l pmem=90000mb</code> says I want the available process memory to be 90GB</li>
 </ul></li>
 <li><p>whenever commands are piggy-backed to send information to another program this is called giving ‘directives’ (or ‘compiler directives’)</p></li>
-<li>I have another good example on the <a href="www.github.com/hallamlab">hallamlab GitHub</a> of a <a href="https://github.com/hallamlab/utilities/blob/master/SparCC/run_correlation.sh">shell script for running SparCC on WestGrid</a>
+<li>here is another good example of a <a href="https://github.com/hallamlab/utilities/blob/master/SparCC/run_correlation.sh">shell script for running SparCC on WestGrid</a>
 <ul>
 <li><em>Aria probably has better ways of doing this now</em></li>
 </ul></li>
@@ -862,12 +866,202 @@ myscript2.py: error: argument -i/--input_file is required</code></pre>
 <pre><code>python2.7 myscript2.py -i
 usage: myscript2.py [-h] -i INPUT_FILE
 myscript2.py: error: argument -i/--input_file: expected 1 argument(s)</code></pre>
+</div>
+<div id="parsing-file-lines" class="section level3">
+<h3>Parsing File Lines</h3>
+<ul>
+<li>Now that we have setup our script, we can now start handling your file line-by-line.</li>
+<li>We’ll look at a few function here to help you:
+<ul>
+<li><code>split()</code> - split a line into pieces by a character</li>
+<li><code>strip()</code> - clears whitespace at the end of a line</li>
+</ul></li>
+<li>isolating our <code>for</code> loop</li>
+</ul>
+<pre><code>for line in lines:
+        # split fields by tab
+        fields = line.split(&quot;\t&quot;)
+        
+        # strip whitespace from the ends of fields
+        for i in range(len(fields)):
+            fields[i] = fields[i].strip()</code></pre>
+<ul>
+<li>take a look at what split does</li>
+</ul>
+<pre><code>python myscript2.py -i data/functional_and_taxonomic_table.txt
+data/functional_and_taxonomic_table.txt
+['ORF_ID', 'ORF_length', 'start', 'end', 'Contig_Name', 'Contig_length', 'strand', 'ec', 'taxonomy', 'product\n']</code></pre>
+<ul>
+<li>looks like we have a tailing <code>\n</code> on the last field, so we’ll remove it with <code>strip(&quot;\n&quot;)</code></li>
+</ul>
+<pre><code># do some cleanup
+for i in range(len(fields)):
+    fields[i] = fields[i].strip()
+    fields[i] = fields[i].strip(&quot;\n&quot;) # strip tailing \n</code></pre>
+<ul>
+<li>looks like we fixed the problem</li>
+</ul>
+<pre><code>python myscript2.py -i data/functional_and_taxonomic_table.txt
+['ORF_ID', 'ORF_length', 'start', 'end', 'Contig_Name', 'Contig_length', 'strand', 'ec', 'taxonomy', 'product']
+...</code></pre>
+<div id="python-lists-and-dictionaries" class="section level4">
+<h4>Python Lists and Dictionaries</h4>
+<ul>
+<li>two need-to-know data structures in python are the list and the dict or dictionary, and they are invaluable when wrangling a dataset</li>
+<li>both lists and dictionaries are <em>iteratable</em> which means that they can be used in for loops to pass through the elements and print them to the screen</li>
+</ul>
+<div id="lists" class="section level5">
+<h5>Lists</h5>
+<p>We have already been exposed to lists, when we use <code>readlines()</code> to get the lines from a file, it gives us a list where each item in the list is a text line.</p>
+<ul>
+<li>They are declared with the square brackets <code>[]</code></li>
+<li>Two common ways to iterate through a list:
+<ul>
+<li><code>item-wise</code></li>
+</ul>
+<pre><code># declare list
+mylist = ['one', 'two', 'three', 'four']
+
+# iterate by item
+for item in mylist:
+    print item</code></pre>
+<ul>
+<li>and <code>index-wise</code> via the length <code>len()</code> and <code>range()</code> function</li>
+</ul>
+<pre><code># iterate by index
+for i in range(len(mylist)):
+    print mylist[i]</code></pre></li>
+<li>You can also check for membership in a list with the <code>in</code> operator, though this is much slowing than using a dictionary:</li>
+</ul>
+<pre><code># check for membership
+if 'three' in mylist:
+    print &quot;In the list!&quot;</code></pre>
+<ul>
+<li>Items can be added to a list by using the <code>append()</code> function. For instance, say I wanted to create a list of a particular column of the table we parsed in a previous example</li>
+</ul>
+<pre><code>taxa = [] # initialize taxa list
+for line in lines:
+    fields = line.split(&quot;\t&quot;)
+    taxa.append(fields[8])</code></pre>
+</div>
+<div id="dictionaries" class="section level5">
+<h5>Dictionaries</h5>
+<ul>
+<li>essentially a sophisticated <em>hash table</em></li>
+<li>a dictionary creates a one-to-one mapping between at set of <em>keys</em> and a set of <em>values</em></li>
+<li>it allows for very fast (‘amortized constant time’) item lookup</li>
+<li>but it doesn’t allow duplicates, nor is it ordered like a list</li>
+</ul>
+<p>For example, here I’m going to map Open Reading Frame (ORF) id to taxonomy.</p>
+<pre><code># example of dictionary
+orf_to_taxa = {}
+for line in lines:
+    fields = line.split(&quot;\t&quot;)
+    if fields[0] not in orf_to_taxa:
+        orf_to_taxa[fields[0]] = fields[8]</code></pre>
+<ul>
+<li>Here is one of the most common uses of a hash table, tabulating the counts of</li>
+</ul>
+<pre><code>taxa_to_count = {}
+for line in lines:
+    fields = line.split(&quot;\t&quot;)
+    taxa = fields[8] # pull out taxa from current line
+    
+    # create a place in if taxa new
+    if taxa not in taxa_to_count:
+        taxa_to_count[taxa] = 0
+    
+    # add to current taxa count
+    taxa_to_count[taxa] = taxa_to_count[taxa] + 1
+
+# quick lookup
+if &quot;proteobacteria&quot; in taxa_to_count:
+    print &quot;proteobacteria:&quot;, taxa_to_count[&quot;proteobacteria&quot;] </code></pre>
+<ul>
+<li>One other thing to note is that dictionaries can point to dictionaries or lists recursively, and in this way complex data structures can be built up.</li>
+<li>In theory you can make hierarchical trees (e.g., The NCBI Tree and LCA Rule in MetaPathways)</li>
+<li><p>For instance a set of dictionaries and lists can be used to implement a simple 2d array (See: <a href="examples/python/basic_matrix.py"><code>basic_matrix.py</code></a>)</p></li>
+<li>Now that we have processed a few things, we should practice writing things out to disk:
+<ul>
+<li>use the <code>open()</code> function with the <code>w</code> parameter to open a filehandle with writing permission</li>
+<li>write a header for our “Taxa” and “Count” columns</li>
+<li>iterate through our dictionary constructing a line to write out to disk <em>(remembering to separate with tab characters <code>\t</code> and ending with the newline character<code>\n</code>)</em></li>
+<li>write out the line</li>
+<li>close the file</li>
+</ul></li>
+</ul>
+<pre><code># open a file to write to
+out_fh = open(args[&quot;output_file&quot;], &quot;w&quot;)
+
+# create a header for our file
+header = &quot;Taxa&quot; + &quot;\t&quot; + &quot;Count&quot; +&quot;\n&quot;
+out_fh.write(header)
+
+# iterate through our taxa count dictionary
+for taxa in taxa_to_count:
+    out_line = taxa + &quot;\t&quot; + taxa_to_count[taxa] + &quot;\n&quot;
+    out_fh.write(out_line)
+
+# close the file
+out_fh.close()</code></pre>
+<ul>
+<li>lets give it a shot</li>
+</ul>
+<pre><code>python myscript.py -i data/functional_and_taxonomic_table.txt -o my_taxa_count.txt </code></pre>
+</div>
+<div id="parsing-a-fasta-file" class="section level5">
+<h5>Parsing a fasta file</h5>
+<ul>
+<li>one of the more awkward things it to parse a <code>fasta</code> file which has the repetitive pattern.</li>
+</ul>
+<pre><code>&gt;below_euphotic_200m_0
+CGATGATCACTCCTATAGGGCGAATCGAGCTTTCTCCCGGGGATCCCACCGCATGATTTATGCTAATTACGATTTTTCTACTGAAATCCTCACTGCCTCAGCGCGGGGCCCCATGCACATCTTGGAGGCGGCAAAGATCGGCTCCGATGTTGTGACGGCACC
+&gt;below_euphotic_200m_1
+CTCTCCTAAATTACTCTAGATCGTCTTCAGTAATATGTCCCCATTCGAACGCCCTTTCTACCCTAGCCTTCGCAGCCTCCGGGTGAAATTGCACCCCCCATGCAGGAAGGGGATATCCCCTTTCATCCAGAACTCTGACTGCTGTGACCCCGTTGTGTACGG
+...</code></pre>
+<ul>
+<li>Its actually not the most trivial problem because fasta files can have one or many lines of sequences between their header lines (<code>&gt;</code>).</li>
+<li>Here we’ve written a little library <code>FastaReader.py</code> to parse and read fasta files, but also how to setup a python library folder (<code>libs/</code>)</li>
+</ul>
+<pre><code>cd libs/
+touch __init__.py</code></pre>
+<ul>
+<li><p><code>touch __init__.py</code> creates an empty file <code>__init__.py</code> which marks the directory as a place that python should look for library files</p></li>
+<li>Lets create a new script to handle a fasta file <code>parse_fasta.py</code>:</li>
+<li><p>Next, we add to the top of our script our homemade library</p></li>
+</ul>
+<pre><code>import libs.FastaReader</code></pre>
+<ul>
+<li>fasta reader takes as input a filename and returns an iterable object that moves its way through the file</li>
+<li>as a first step we’ll print out all the sequences in the file</li>
+</ul>
+<pre><code>fastareader = FastaReader(input_filename)
+
+# print name and record
+for record in fastareader:
+    print record.name
+    print record.sequence</code></pre>
+</div>
+</div>
+<div id="python-challenges" class="section level4">
+<h4>Python Challenges</h4>
+<ul>
+<li><p>Challenge 1: Write a python script that takes as input a fasta file, compute the GC content (GC characters) / sequence length, and returns tab-delimited file with each sequence name and its GC content in percent.</p></li>
+<li>Challenge 2 (Harder): Write a function that takes as input a tab-delimited set of network edges (<a href="examples/python/data/edges.txt">edges.txt</a>). Construct and output a tab-delimited adgacency matrix.
+<ul>
+<li>Bonus: If the option <code>--lower-to-upper</code> is set, add the lower triangular portion of the matrix to the upper part, creating an upper-triangular matrix with edges in both directions.</li>
+<li>Extra Bonus: If the option <code>--viz-network</code> is set, visualize the network with the Python package <a href="https://networkx.github.io">NetworkX</a></li>
+</ul></li>
+</ul>
+</div>
 <div id="list-of-useful-python-commandsstatements" class="section level4">
 <h4>List of Useful Python Commands/Statements</h4>
 <ul>
-<li><code>open()</code>: open a file for reading</li>
+<li><code>open()</code>: open a file for reading (<code>r</code>) or writing (<code>w</code>)</li>
+<li><code>close()</code>: close a file</li>
 <li><code>&lt;fh&gt;.readlines()</code>: reads all lines from an open file in filehandle</li>
-<li>`<fh>.close(): closes the file</li>
+<li><code>&lt;fh&gt;.close()</code>: closes the file</li>
+<li><code>&lt;fh&gt;.write()</code>: write out to an open filehandle with writing permissions</li>
 <li><code>with open(&quot;file.txt&quot;, &quot;r&quot;) as file:</code>: opens a section to handle file, automatically closes file</li>
 <li><code>len()</code>: gets the length of a list object (like command line arguments or line values)</li>
 <li><code>sys.argv</code>: contains a list of all the command-line arguments from the script</li>
@@ -879,33 +1073,49 @@ myscript2.py: error: argument -i/--input_file: expected 1 argument(s)</code></pr
 <h2>References</h2>
 <p>Some extra references for more information:</p>
 <div id="grep-1" class="section level3">
-<h3><code>grep</code></h3>
+<h3>grep</h3>
 <ul>
-<li></li>
+<li><a href="http://www.panix.com/~elflord/unix/grep.html">Grep Tutorial</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux">Using Grep and Regular Expressions to Search for Text Patterns in Linux</a></li>
 </ul>
 </div>
 <div id="sed-1" class="section level3">
-<h3><code>sed</code></h3>
+<h3>sed</h3>
 <ul>
-<li><a href="https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux">https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux">The Basics of Using the Sed Stream Editor to Manipulate Text in Linux</a></li>
+<li><a href="http://www.panix.com/~elflord/unix/sed.html">UNIX and Linux: Sed Tutorial</a></li>
+<li><a href="http://www.theunixschool.com/2013/02/sed-examples-replace-delete-print-lines-csv-files.html?m=1">10 examples to replace / delete / print lines of CSV file</a></li>
 </ul>
 </div>
 <div id="awk-1" class="section level3">
-<h3><code>awk</code></h3>
+<h3>awk</h3>
 <ul>
-<li><a href="https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux">https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux">How To Use the AWK language to Manipulate Text in Linux</a></li>
+<li><a href="http://www.vectorsite.net/tsawk.html">An AWK Primer</a></li>
 </ul>
 </div>
 <div id="shell-scripting" class="section level3">
 <h3>Shell Scripting</h3>
 <ul>
-<li><a href="http://www.freeos.com/guides/lsst/">http://www.freeos.com/guides/lsst/</a></li>
+<li><a href="http://www.freeos.com/guides/lsst/">Linux Shell Scripting Tutorial</a> - Great Tutorial! Poor grammar.</li>
 </ul>
 </div>
 <div id="python" class="section level3">
 <h3>Python</h3>
 <ul>
-<li><a href="http://www.codecademy.com/en/tracks/python">Python Code Academy</a>:</li>
+<li><a href="http://www.codecademy.com/en/tracks/python">Python Code Academy</a>: Definately a starting point for anyone new to the language.</li>
+<li><a href="https://docs.python.org/2/tutorial/index.html">Official Python Tutorial</a>: comprehensive coverage of python topics — not always super easy to read</li>
+<li><a href="http://shop.oreilly.com/product/0636920028154.do">Learning Python, 5th Edition</a> - Great book for learning python.</li>
+</ul>
+</div>
+<div id="regular-expressions" class="section level3">
+<h3>Regular Expressions</h3>
+<ul>
+<li><a href="http://www.regular-expressions.info/">regular-expressions.info</a></li>
+<li><a href="https://regex.alf.nu">Regular Expression Golf</a>: A fun game to get your matching skills up</li>
+<li><a href="http://regexcrossword.com">Regular Expression Crossword</a>: Quite cool! Definately something to try.</li>
+<li><a href="http://ole.michelsen.dk/tools/regex.html">Regular Expression Tester</a>: Quick online tool to test regular expressions.</li>
+<li><a href="http://regexone.com">Regex One</a>: Regular expressions.</li>
 </ul>
 </div>
 </div>

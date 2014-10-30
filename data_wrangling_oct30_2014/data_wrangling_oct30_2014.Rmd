@@ -223,7 +223,7 @@ grep -n '>*b1' fastas/GUAB.fasta
         * *Note: this won't work for fasta files where the sequence in on multiple lines*
 
 ```
-grep -A 1  '>*b1' fastas/GUAB.fasta
+grep -A 1 '>*b1' fastas/GUAB.fasta
 >GUAB5590.b1
 ATCGAGTGTGTTCTTTTGCGCGATGGTATTCGACGTACCGTTTGCATTTCATCACAAGTCGGCTGTGCAATGGGGTGTGTATTCTGTGCAAGCGGTCTTGATGGAGTTATCCGAAATTTGACAACCGGTGAGATCATCGAGCAGTTATTACGACTCACTCGTTTACTCCCAACAGAAGAACGACTAAGTCATATTGTTGTCATGGGAATGGGTGAACCACTAGCAAACCTCGATCGTTTATTACCTGCTCTTGCAATCGCACAAAGTCCTGAGGGACTTGGTATATCTCAACGACGAATCACTATTTCAACTGTCGGGTTGCCATCGGCAATTGATCGGCTGTGTCAAGAAAATCCTGGATATCATCTTGCCGTATCACTCCATGCCGCTGACGATCCACTCCGAACAAAACTCGTTCCAGTCAATAAGTCGATCGGAGTTCATGCCATTTTAGCCGCAGCTGACCGATACTGGGAAACATCTGGCCGACGACTTACTTTCGAATATGTCTTACTCGGAAATCTTAATGATTCTCCAGATCATGCCCGTTCGTTAGCTCGGTTTATCGGCAAACGTGCAGCGCTCGTAAACATTATTCCGTACAACACAGTCGATGGCCTACCGTGGGAAGAGCCTACTGACATTTCTCGTGAACGATTTCTTGATGTCCTTTCGAATGCTGGCGTGAATGTTCAGACTCGAAAAAGGAG
 --
@@ -594,7 +594,7 @@ chmod u+x command_list.sh
     * `-l pmem=90000mb` says I want the available process memory to be 90GB
 * whenever commands are piggy-backed to send information to another program this is called giving 'directives' (or 'compiler directives')
 
-* I have another good example on the [hallamlab GitHub](www.github.com/hallamlab) of a [shell script for running SparCC on WestGrid](https://github.com/hallamlab/utilities/blob/master/SparCC/run_correlation.sh) 
+* here is another good example of a [shell script for running SparCC on WestGrid](https://github.com/hallamlab/utilities/blob/master/SparCC/run_correlation.sh) 
     * *Aria probably has better ways of doing this now*
 
 ## Basic Python Scripting
@@ -896,9 +896,9 @@ for i in range(len(fields)):
 * looks like we fixed the problem
 
 ```
-python myscript2.py -i data/functional_and_taxonomic_table.txt | head
-data/functional_and_taxonomic_table.txt
+python myscript2.py -i data/functional_and_taxonomic_table.txt
 ['ORF_ID', 'ORF_length', 'start', 'end', 'Contig_Name', 'Contig_length', 'strand', 'ec', 'taxonomy', 'product']
+...
 ```
 
 #### Python Lists and Dictionaries
@@ -910,23 +910,28 @@ data/functional_and_taxonomic_table.txt
 
 We have already been exposed to lists, when we use `readlines()` to get the lines from a file, it gives us a list where each item in the list is a text line.
 
-* They are declared with the square brackets`[]`
+* They are declared with the square brackets `[]`
 * Two common ways to iterate through a list:
+    * `item-wise`
+    
+    ```
+    # declare list
+    mylist = ['one', 'two', 'three', 'four']
+    
+    # iterate by item
+    for item in mylist:
+        print item
+    ```
+    
+    * and `index-wise` via the length `len()` and `range()` function
+    
+    ```
+    # iterate by index
+    for i in range(len(mylist)):
+        print mylist[i]
+    ```
 
-```
-# declare list
-mylist = ['one', 'two', 'three', 'four']
-
-# iterate by item
-for item in mylist:
-    print item
-
-# iterate by index
-for i in range(len(mylist)):
-    print mylist[i]
-```
-
-* You can also check for membership in a list with the `in` operator (though this is slower than using a dictionary):
+* You can also check for membership in a list with the `in` operator, though this is much slowing than using a dictionary:
 
 ```
 # check for membership
@@ -934,10 +939,13 @@ if 'three' in mylist:
     print "In the list!"
 ```
 
-* Items can be added to a list by using the `append()` function. For instance, say I wanted to create a list of a particular column of the matrix.
+* Items can be added to a list by using the `append()` function. For instance, say I wanted to create a list of a particular column of the table we parsed in a previous example
 
 ```
-
+taxa = [] # initialize taxa list
+for line in lines:
+    fields = line.split("\t")
+    taxa.append(fields[8])
 ```
 
 ##### Dictionaries
@@ -945,68 +953,167 @@ if 'three' in mylist:
 * essentially a sophisticated *hash table*
 * a dictionary creates a one-to-one mapping between at set of *keys* and a set of *values*
 * it allows for very fast ('amortized constant time') item lookup
+* but it doesn't allow duplicates, nor is it ordered like a list
+
+For example, here I'm going to map Open Reading Frame (ORF) id to taxonomy.
 
 ```
-
+# example of dictionary
+orf_to_taxa = {}
+for line in lines:
+    fields = line.split("\t")
+    if fields[0] not in orf_to_taxa:
+        orf_to_taxa[fields[0]] = fields[8]
 ```
 
-
-
-### Parsing a fasta file
+* Here is one of the most common uses of a hash table, tabulating the counts of 
 
 ```
+taxa_to_count = {}
+for line in lines:
+    fields = line.split("\t")
+    taxa = fields[8] # pull out taxa from current line
+    
+    # create a place in if taxa new
+    if taxa not in taxa_to_count:
+        taxa_to_count[taxa] = 0
+    
+    # add to current taxa count
+    taxa_to_count[taxa] = taxa_to_count[taxa] + 1
 
+# quick lookup
+if "proteobacteria" in taxa_to_count:
+    print "proteobacteria:", taxa_to_count["proteobacteria"] 
 ```
 
+* One other thing to note is that dictionaries can point to dictionaries or lists recursively, and in this way complex data structures can be built up.
+* In theory you can make hierarchical trees (e.g., The NCBI Tree and LCA Rule in MetaPathways)
+* For instance a set of dictionaries and lists can be used to implement a simple 2d array (See: [`basic_matrix.py`](examples/python/basic_matrix.py))
 
+* Now that we have processed a few things, we should practice writing things out to disk:
+    * use the `open()` function with the `w` parameter to open a filehandle with writing permission
+    * write a header for our "Taxa" and "Count" columns
+    * iterate through our dictionary constructing a line to write out to disk *(remembering to separate with tab characters `\t` and ending with the newline character`\n`)*
+    * write out the line
+    * close the file
 
+```
+# open a file to write to
+out_fh = open(args["output_file"], "w")
 
+# create a header for our file
+header = "Taxa" + "\t" + "Count" +"\n"
+out_fh.write(header)
+
+# iterate through our taxa count dictionary
+for taxa in taxa_to_count:
+    out_line = taxa + "\t" + taxa_to_count[taxa] + "\n"
+    out_fh.write(out_line)
+
+# close the file
+out_fh.close()
+```
+
+* lets give it a shot
+
+```
+python myscript.py -i data/functional_and_taxonomic_table.txt -o my_taxa_count.txt 
+```
+
+##### Parsing a fasta file
+
+* one of the more awkward things it to parse a `fasta` file which has the repetitive pattern. 
+
+```
+>below_euphotic_200m_0
+CGATGATCACTCCTATAGGGCGAATCGAGCTTTCTCCCGGGGATCCCACCGCATGATTTATGCTAATTACGATTTTTCTACTGAAATCCTCACTGCCTCAGCGCGGGGCCCCATGCACATCTTGGAGGCGGCAAAGATCGGCTCCGATGTTGTGACGGCACC
+>below_euphotic_200m_1
+CTCTCCTAAATTACTCTAGATCGTCTTCAGTAATATGTCCCCATTCGAACGCCCTTTCTACCCTAGCCTTCGCAGCCTCCGGGTGAAATTGCACCCCCCATGCAGGAAGGGGATATCCCCTTTCATCCAGAACTCTGACTGCTGTGACCCCGTTGTGTACGG
+...
+```
+
+* Its actually not the most trivial problem because fasta files can have one or many lines of sequences between their header lines (`>`).
+* Here we've written a little library `FastaReader.py` to parse and read fasta files, but also how to setup a python library folder (`libs/`)
+
+```
+cd libs/
+touch __init__.py
+```
+
+* `touch __init__.py` creates an empty file `__init__.py` which marks the directory as a place that python should look for library files
+
+* Lets create a new script to handle a fasta file `parse_fasta.py`:
+* Next, we add to the top of our script our homemade library
+
+```
+import libs.FastaReader
+```
+
+* fasta reader takes as input a filename and returns an iterable object that moves its way through the file
+* as a first step we'll print out all the sequences in the file
+
+```
+fastareader = FastaReader(input_filename)
+
+# print name and record
+for record in fastareader:
+    print record.name
+    print record.sequence
+```
+
+#### Python Challenges
+
+* Challenge 1: Write a python script that takes as input a fasta file, compute the GC content (GC characters) / sequence length, and returns tab-delimited file with each sequence name and its GC content in percent.
+
+* Challenge 2 (Harder): Write a function that takes as input a tab-delimited set of network edges ([edges.txt](examples/python/data/edges.txt)). Construct and output a tab-delimited adgacency matrix. 
+    * Bonus: If the option `--lower-to-upper` is set, add the lower triangular portion of the matrix to the upper part, creating an upper-triangular matrix with edges in both directions.
+    * Extra Bonus: If the option `--viz-network` is set, visualize the network with the Python package [NetworkX](https://networkx.github.io)
 
 #### List of Useful Python Commands/Statements
 
-* `open()`: open a file for reading
+* `open()`: open a file for reading (`r`) or writing (`w`)
+* `close()`: close a file
 * `<fh>.readlines()`: reads all lines from an open file in filehandle
 * `<fh>.close()`: closes the file
+* `<fh>.write()`: write out to an open filehandle with writing permissions
 * `with open("file.txt", "r") as file:`: opens a section to handle file, automatically closes file
 * `len()`: gets the length of a list object (like command line arguments or line values)
 * `sys.argv`: contains a list of all the command-line arguments from the script
-
-
-
-
-
-
-
-
-
 
 ## References
 
 Some extra references for more information:
 
-### `grep`
+### grep
 
 * [Grep Tutorial](http://www.panix.com/~elflord/unix/grep.html)
+* [Using Grep and Regular Expressions to Search for Text Patterns in Linux](https://www.digitalocean.com/community/tutorials/using-grep-regular-expressions-to-search-for-text-patterns-in-linux)
 
-### `sed`
+### sed
 
-* https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux
-* http://www.panix.com/~elflord/unix/sed.html
+* [The Basics of Using the Sed Stream Editor to Manipulate Text in Linux](https://www.digitalocean.com/community/tutorials/the-basics-of-using-the-sed-stream-editor-to-manipulate-text-in-linux)
+* [UNIX and Linux: Sed Tutorial](http://www.panix.com/~elflord/unix/sed.html)
 * [10 examples to replace / delete / print lines of CSV file](http://www.theunixschool.com/2013/02/sed-examples-replace-delete-print-lines-csv-files.html?m=1)
 
-### `awk`
+### awk
 
-* https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux
+* [How To Use the AWK language to Manipulate Text in Linux](https://www.digitalocean.com/community/tutorials/how-to-use-the-awk-language-to-manipulate-text-in-linux)
 * [An AWK Primer](http://www.vectorsite.net/tsawk.html)
 
 ### Shell Scripting
 
-* http://www.freeos.com/guides/lsst/
+* [Linux Shell Scripting Tutorial](http://www.freeos.com/guides/lsst/) - Great Tutorial! Poor grammar.
 
 ### Python
 
-* [Python Code Academy](http://www.codecademy.com/en/tracks/python)
+* [Python Code Academy](http://www.codecademy.com/en/tracks/python): Definately a starting point for anyone new to the language.
+* [Official Python Tutorial](https://docs.python.org/2/tutorial/index.html):  comprehensive coverage of python topics --- not always super easy to read 
+* [Learning Python, 5th Edition](http://shop.oreilly.com/product/0636920028154.do) - Great book for learning python.
 
 ### Regular Expressions
 
 * [regular-expressions.info](http://www.regular-expressions.info/)
+* [Regular Expression Golf](https://regex.alf.nu): A fun game to get your matching skills up
+* [Regular Expression Crossword](http://regexcrossword.com): Quite cool! Definately something to try.
+* [Regular Expression Tester](http://ole.michelsen.dk/tools/regex.html): Quick online tool to test regular expressions.
+* [Regex One](http://regexone.com): Regular expressions.
