@@ -641,6 +641,10 @@ chmod u+x command_list.sh
 * here is another good example of a [shell script for running SparCC on WestGrid](https://github.com/hallamlab/utilities/blob/master/SparCC/run_correlation.sh) 
     * *Aria probably has better ways of doing this now*
 
+#### Examples
+
+* [https://gist.github.com/nielshanson/332cf8f57aafdc503eac](sed_rename.sh):Example of using shell and sed to set a variable and rename a file in a systematic way.
+
 ## Basic Python Scripting
 
 So the Unix Shell and Shell scripting are great for getting a few things done or asking quick questions, however, they are kind of lacking in doing a careful, reproducable analysis. Although, all Unix systems have some version of the above commands, **you really have to check your own system for what works**; based on the particular version. 
