@@ -643,7 +643,7 @@ chmod u+x command_list.sh
 
 #### Examples
 
-* [https://gist.github.com/nielshanson/332cf8f57aafdc503eac](sed_rename.sh):Example of using shell and sed to set a variable and rename a file in a systematic way.
+* [sed_rename.sh](https://gist.github.com/nielshanson/332cf8f57aafdc503eac):Example of using shell and sed to set a variable and rename a file in a systematic way.
 
 ## Basic Python Scripting
 
